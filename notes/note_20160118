@@ -1,4 +1,3 @@
-
 Codes in different projects usually have similar structures, the reason for that is software source code necessarily shares many common syntactic elements, and also the commonality in software engineering tasks. Similar structures do not necessarily result in same functionality.
 Some codes have different structures, but they have the similar functionality. These codes with similar functionality often share the same keyword, API. 
 Two kinds of links can be generated based on similar structures and similar functionalities and these two can have convergence.
@@ -19,5 +18,3 @@ Links between codes can be used for automation of programming, development tool,
 
 
 Some more further reading is definitely needed, and the design of this project is to be determined. So far I can think of two ways of link between codes: similar structure and similar functionality. For both process, I think a structure detection should be run first to find unit structures, such as functions, classes. Structure detection should be language specific. Then for the similar structure links, abstraction and token sequence like the paper “A study of the Uniqueness of Source Code” concepts can be utilised to find match. For the similar functionality links, the name of the structure, the input and output parameter names. Maybe a way to describe input and related output or context change can be introduced, but I don’t have a exact idea yet.
-
-As you mentioned before, I will put everything related in a git repository. Here is the link https://github.com/DaHuO/Supergraph.
