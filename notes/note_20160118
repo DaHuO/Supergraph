@@ -1,20 +1,56 @@
-Codes in different projects usually have similar structures, the reason for that is software source code necessarily shares many common syntactic elements, and also the commonality in software engineering tasks. Similar structures do not necessarily result in same functionality.
-Some codes have different structures, but they have the similar functionality. These codes with similar functionality often share the same keyword, API. 
-Two kinds of links can be generated based on similar structures and similar functionalities and these two can have convergence.
+Codes in different projects usually have similar structures, the reason for that is software source code necessarily shares many common syntactic elements, and also the commonality in 
+software engineering tasks. Similar structures do not necessarily result in same functionality.
+Some codes have different structures, but they have the similar functionality. These codes with
+ similar functionality often share the same keyword, API. 
+Two kinds of links can be generated based on similar structures and similar functionalities and
+ these two can have convergence.
 
-To generate links for similar structures, the paper “A study of the Uniqueness of Source Code” presents a method. 
-This paper tried to study the uniqueness of source code. The author wonders though it is less likely that every useful block or function has been written, what proportion of the set of practical blocks or functions have we written?
-To answer this question, two sets of target projects are being experimented for both depth and breadth purpose. The experiment takes the target project and corpus of project codes as input. First sequence the target project by lexical analysis to generate token subsequences. This step may use renamed identifiers as abstraction method. The second step is to scan, sequence, and process the corpus. This is a linear scan of the corpus,searching for a match in the target project. The matching can be a exact match or a match within a specified Hamming distance.
-Some shining points about this method is using renamed identifiers for abstraction and sequence the target project, but it does not take a complete structure as a unit of target. Though in this method, a concept of granularity is introduced, it is set up manually. However in reality, common structures in length may not lead to same length in code. Therefore if this method is to be utilised, at least complete structure detection should be added. After all, usually single line of code is useless, structured piece of code is valuable.
+To generate links for similar structures, the paper “A study of the Uniqueness of Source Code” 
+presents a method. 
+This paper tried to study the uniqueness of source code. The author wonders though it is less 
+likely that every useful block or function has been written, what proportion of the set of 
+practical blocks or functions have we written?
+To answer this question, two sets of target projects are being experimented for both depth and 
+breadth purpose. The experiment takes the target project and corpus of project codes as input. 
+First sequence the target project by lexical analysis to generate token subsequences. This step 
+may use renamed identifiers as abstraction method. The second step is to scan, sequence, and 
+process the corpus. This is a linear scan of the corpus,searching for a match in the target 
+project. The matching can be a exact match or a match within a specified Hamming distance.
 
-To generate links for similar functions, the paper “Exemplar: A Source Code Search Engine for Finding Highly Relevant Applications ” provides a way.
+Some shining points about this method is using renamed identifiers for abstraction and sequence 
+the target project, but it does not take a complete structure as a unit of target. Though in 
+this method, a concept of granularity is introduced, it is set up manually. However in reality, 
+common structures in length may not lead to same length in code. Therefore if this method is to 
+be utilised, at least complete structure detection should be added. After all, usually single 
+line of code is useless, structured piece of code is valuable.
+
+To generate links for similar functions, the paper “Exemplar: A Source Code Search Engine for 
+Finding Highly Relevant Applications ” provides a way.
 This paper presents a source code search engine for highly relevant applications.
-In a standard code search engine, A keyword from the query is matched against words in the descriptions of the applications in some repository or words in the entire corpus of source code. When a match is found, related applications are returned.
-In Exemplar, the keywords from query are matched against the documents that describe API calls of widely used software packages or libraries. When a match is found, the names of the API calls are first returned. Then these API call names are matched against the names of the functions invoked in applications. When a match is found, the applications are finally returned.
-This project aims to search relevant  applications of keywords. It is not the same with our project, but it present a good way of thinking: structures that use the same libraries may have common functionalities. This can be included in the process to find links for similar functions.
+In a standard code search engine, A keyword from the query is matched against words in the 
+descriptions of the applications in some repository or words in the entire corpus of source code
+. When a match is found, related applications are returned.
+In Exemplar, the keywords from query are matched against the documents that describe API calls 
+of widely used software packages or libraries. When a match is found, the names of the API 
+calls are first returned. Then these API call names are matched against the names of the 
+functions invoked in applications. When a match is found, the applications are finally returned.
+
+This project aims to search relevant  applications of keywords. It is not the same with our 
+project, but it present a good way of thinking: structures that use the same libraries may have 
+common functionalities. This can be included in the process to find links for similar functions.
 
 
-Links between codes can be used for automation of programming, development tool, code reuse and so on. In the end of this project, I hope I can try to implement one application based on the Supergraph.
+Links between codes can be used for automation of programming, development tool, code reuse and 
+so on. In the end of this project, I hope I can try to implement one application based on the 
+Supergraph.
 
 
-Some more further reading is definitely needed, and the design of this project is to be determined. So far I can think of two ways of link between codes: similar structure and similar functionality. For both process, I think a structure detection should be run first to find unit structures, such as functions, classes. Structure detection should be language specific. Then for the similar structure links, abstraction and token sequence like the paper “A study of the Uniqueness of Source Code” concepts can be utilised to find match. For the similar functionality links, the name of the structure, the input and output parameter names. Maybe a way to describe input and related output or context change can be introduced, but I don’t have a exact idea yet.
+Some more further reading is definitely needed, and the design of this project is to be 
+determined. So far I can think of two ways of link between codes: similar structure and similar 
+functionality. For both process, I think a structure detection should be run first to find unit 
+structures, such as functions, classes. Structure detection should be language specific. Then 
+for the similar structure links, abstraction and token sequence like the paper “A study of the 
+Uniqueness of Source Code” concepts can be utilised to find match. For the similar 
+functionality links, the name of the structure, the input and output parameter names. Maybe a 
+way to describe input and related output or context change can be introduced, but I don’t have 
+a exact idea yet.
