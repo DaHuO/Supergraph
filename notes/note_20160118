@@ -1,6 +1,4 @@
 
-This cannot count as a project abstract. It’s more like a reading notes and some ideas.
-
 Codes in different projects usually have similar structures, the reason for that is software source code necessarily shares many common syntactic elements, and also the commonality in software engineering tasks. Similar structures do not necessarily result in same functionality.
 Some codes have different structures, but they have the similar functionality. These codes with similar functionality often share the same keyword, API. 
 Two kinds of links can be generated based on similar structures and similar functionalities and these two can have convergence.
