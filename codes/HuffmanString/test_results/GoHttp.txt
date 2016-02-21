@@ -1,688 +1,397 @@
-Content_Type);	:	10100111010
-*fp,	:	00100111010
-extension,	:	00101010100
-*fp)	:	01000111010
-MAX_CONNECTIONS)	:	10000111010
-port");	:	0110000001
-child	:	1100100110
-createSocket()	:	00000111010
-executing	:	11111011010
-"/dev/null",	:	001000101
-newline);	:	01111011010
-SID	:	10111011010
-listen(current_socket,	:	00111011010
--d	:	10101101010
-umask(0);	:	01011011010
-bindSocket()	:	10110101010
-to	:	1110001
-"Can't	:	10011011010
-".log";	:	01011001010
--p	:	11101011010
-Not	:	000110111
-perror("Accepting	:	01101011010
-"\r\n";	:	10101011010
-INADDR_ANY;	:	00101011010
-pid,	:	11001011010
-void	:	0111101
-**/	:	010000001
-(contentLength	:	01001011010
-word	:	01001001010
-*length_head	:	00001011010
-fileNameLenght	:	100010101
-'#'	:	11110011010
-appending_char_count)	:	1111001110
-20);	:	01110011010
-correct	:	10110011010
--1	:	11110101
-*current_word	:	00110011010
-printf("Usage:	:	11010011010
-perror("Bind	:	01010011010
-*)&connector,	:	10010011010
-&addr_size);	:	00010011010
-*fp;	:	11010001010
-connecting_socket;	:	11100011010
-jump	:	0111001110
-Indicate	:	1011001110
-Content_Lenght(FILE	:	01100011010
-sendHeader(statusCode,	:	10100011010
-stderr);	:	11000011010
-*mimeFile	:	01000011010
-locked;	:	10000011010
-port	:	01110101
-Fork	:	00000011010
-strlen(output)	:	01111101010
-strlen(newline)	:	10111101010
-free(currentLine);	:	00111101010
-contentLength	:	111100101
-current	:	011100101
--1)	:	11011101010
-new	:	01011101010
-;	:	101100101
-(count	:	10011101010
-fseek(fp,	:	00011101010
-10)	:	11101101010
-log_file);	:	00011100100
-signal(SIGCHLD,	:	00101101010
-*date_head	:	01001101010
-exit(1);	:	001100101
-&&	:	10011000
-malloc(10);	:	00001101010
-appending_char_count	:	0011001110
-Request\n",	:	110100101
-incoming	:	11110101010
-strlen(head)	:	01110101010
-Workflow	:	00111001100
-rewind(fp);	:	10010010100
-server_head);	:	11010101010
-3.	:	01010101010
-send(connecting_socket,	:	10010101010
-NOT	:	101011110
-input[i]	:	00010101010
-printf("Deamon:\t\t\t%i\n",	:	00110001100
-<string.h>	:	11100101010
-getRequestType(char	:	01100101010
-accept(current_socket,	:	10100101010
-*Content_Type,	:	00100101010
-(char*)argv[parameterCount];	:	11000101010
-output)	:	1101001110
-output,	:	01000101010
-printf("Setting	:	010100101
->	:	11010101
-input[i];	:	00000101010
-strcmp("HEAD",	:	00011100010
-from	:	100100101
-working	:	01111001010
-0	:	0000100
-+=	:	0000110110
-next	:	000100101
-connector	:	10111001010
-printf("Server	:	00111001010
-(receive((int)socket)	:	11011001010
-used,	:	0110010110
-is	:	01111111
-malloc(200);	:	10011001010
-<sys/wait.h>	:	00011001010
-TotalSize);	:	01101001010
-600);	:	0101001110
-flag	:	1001001110
-*message	:	10101001010
-/**	:	001011110
-mode.\n");	:	00101001010
-filename,	:	1111000110
-socket(AF_INET,	:	10001011010
-extension	:	1110001110
-pid_t	:	10001001010
-this	:	00001001010
-descriptor	:	0110001110
-initConfiguration()	:	11110001010
-connecting_socket	:	1010001110
-values	:	01110001010
-can	:	10110001010
-bindSocket();	:	00110001010
-%i",	:	10001101010
-*content,	:	01010001010
-+=1;	:	00100010010
-root	:	10010001010
-fgetc(fp);	:	00010001010
-line[0]	:	11100001010
-type;	:	01100001010
-process	:	111000101
-requestType)	:	100101001
-purposes	:	00100001010
-accept	:	11000001010
-(char*)malloc(200);	:	01000001010
-strlen	:	10000001010
-*head	:	00000001010
-max)	:	011011001
-educational	:	11111110010
-Content_Lenght(fp);	:	01111110010
-(strlen(input)	:	10111110010
-socket");	:	00111110010
-'\0';	:	011000101
-1	:	1010011
-freopen(	:	101000101
-sid	:	01011110010
-*line	:	10011110010
-'\0',	:	11101111
-fopen(conf_file,	:	00101100100
-parameter	:	0010001110
-((msgLen	:	11010110100
-HEAD	:	110000101
-malloc(100);	:	01101111
-(line,'\0',200);	:	00011110010
-*extension	:	11101110010
-getHttpVersion(char	:	01101110010
-)				//	:	10000110100
-init();	:	10101110010
-'\n'	:	1100001110
-a	:	110011110
-startListener();	:	00101110010
-#include	:	0111111
-socket);	:	010000101
-printf("\t\t-l	:	10000100100
-File	:	01001110010
-(sid	:	11000000010
-*input,	:	100000101
-*input)	:	0100001110
-<	:	0110001
-*newline	:	11010010010
-atoi(argv[parameterCount]));	:	11001101010
-malloc(800);	:	10110110010
-over	:	1000001110
-(-1	:	0000001110
-memset(extension,	:	00110110010
-sizeof(connector);	:	10011011100
-fp	:	1001110110
-FILE	:	000000101
-malloc(5);	:	11010110010
-perror("Create	:	01010110010
-TRUE	:	0111110110
-free(extension);	:	00001111
-sid;	:	10010110010
-*statusCode,	:	00010110010
-fclose(fp);	:	0011110110
-(max-1))	:	11100110010
-sendBinary(int	:	01100110010
-,	:	10100110010
-2;	:	00100110010
-200);	:	111111001
-port;	:	11000110010
-sockets");	:	01000110010
-2.	:	10000110010
-2)	:	0100100110
-it.	:	00000110010
-then	:	11111010010
-good	:	01111010010
-return	:	001001
-*log_file;	:	10111010010
-head);	:	01011100100
-root:\t\t%s\n",	:	01101101010
-Bad	:	011111001
-port]	:	11011010010
-not	:	101111001
-%s	:	01011010010
-<sys/socket.h>	:	10011010010
-*output,	:	1101110110
-(fscanf(filePointer,	:	0101110110
-file:\t%s\n",	:	00011010010
-*output)	:	11101010010
-zero");	:	01101010010
-(char*)malloc(20	:	10101010010
-exit(-1);	:	10101111
-strlen(input);	:	111011001
-((chdir("/"))	:	00101010010
-mode	:	11001010010
-10);	:	01001010010
-sendString(char	:	10001010010
-1!\n");	:	11011100100
-<stdio.h>	:	00001010010
-atoi(argv[parameterCount]);	:	11110010010
-Send	:	0111100110
-*)&address,	:	01110010010
-Setting	:	10110010010
-static	:	00110010010
-configuration	:	10110101
-*(output	:	0001110110
-"w",	:	1110110110
-child_process	:	0110110110
-*byte,	:	01010010010
-strlen(contentLength)	:	10010010010
-start;	:	00010010010
-strlen(HTML);	:	11100010010
-EXISTS	:	1101000110
-'	:	010011110
-(buffer,'\0',	:	10100010010
-content	:	11011011010
-message,	:	11000010010
-*(input	:	11110000
-start,	:	1010110110
-got	:	01000010010
-output[strlen(output)+1]	:	10000010010
-buffer,	:	00000010010
-*httpVersion	:	11111100010
-TRUE;	:	0010110110
-content_head);	:	01111100010
-This	:	10111100010
-malloc((	:	00111100010
-<sys/types.h>	:	1100110110
-receive(int	:	11011100010
-filePointer	:	01011100010
-standard	:	10011100010
-"%s	:	0100110110
-POST	:	10000101010
-file!\n");	:	11111001010
-printf("Port:\t\t\t%i\n",	:	11101100010
-while(fgets(line,	:	01101100010
-printf("\t\t-p	:	11101001010
-strcat(message,	:	00011000
-++	:	001111001
-strlen(Status_code)	:	10101100010
-length	:	00101100010
-hence	:	11001100010
-512	:	01001100010
-assign	:	10001100010
-"rb");	:	11001110010
-already	:	00001100010
->=	:	11110100010
-Start	:	01110100010
-Handles	:	10110100010
-type	:	11100001
-sendBinary(&current_char,	:	11110110010
-message	:	11010100010
-open	:	110111001
-sendHTML(char	:	01010100010
-size	:	10010100010
-wwwroot);	:	1111010110
-wwwroot	:	00010100010
-"\r\nServer:	:	11100100010
-*mime	:	01100100010
-IMPLEMENTED	:	01011000010
-(char*)malloc(1000	:	10100100010
-store	:	00100100010
-listen	:	0111010110
-memset	:	000010101
-connecting_socket);	:	10100001
-fopen(mime_file,	:	11010001100
-Bind	:	11000100010
-logfile	:	10000100010
-(type	:	00000100010
-<pthread.h>	:	11111000010
-checkMime(char	:	01111000010
-than	:	10111000010
-sizeof(char))	:	00111000010
-printf("Configuration	:	11011000010
-Set	:	11000111100
-FALSE	:	1011010110
-"mime.types");	:	10011000010
-current_word,	:	0001000110
-[-d]	:	01101011100
-1;	:	0010011
-recv(socket,	:	00011000010
-1)	:	11101000010
-return;	:	01101000010
-1.	:	10101000010
-Redirect	:	00101000010
-DO	:	11001000010
-/dev/null	:	01100001100
-1.1	:	01001000010
-WNOHANG));	:	1101010110
-current_socket	:	100011110
-mine	:	00001000010
-exit(EXIT_FAILURE);	:	010111001
-char*	:	000011110
-handleHttpGET(buffer);	:	11110000010
-fprintf(stderr,	:	100111001
-in_position	:	111101001
-strcat(path,	:	01110000010
-char	:	111110
-TotalSize,	:	10110000010
-daemonize(void)	:	00110000010
-that	:	000111001
-able	:	11010000010
-PORT	:	11010011100
-printf("Error	:	10010000010
-'.'	:	00010000010
-supported");	:	01111101100
-=	:	1011
-28	:	11100000010
-port);	:	01100000010
-send(socket,	:	10100000010
-recv()	:	00100000010
-*message,	:	10001110010
-*/	:	11011110
-socket)	:	00101111
-20)	:	01000000010
-httpVersion)	:	10000000010
-connector;	:	00000000010
-addr_size;	:	11111111100
-perror("Receive");	:	01111111100
-printf("Mime	:	10111111100
-contentLength);	:	0101010110
-*wwwroot;	:	00111111100
-5*1024	:	11011111100
-"-d")	:	01011111100
-printf("Settings:\n");	:	00100100100
-createSocket();	:	10011111100
-sendHeader(char	:	00011111100
-SIG_IGN);	:	11110111100
-(pid	:	1011110110
-free(message);	:	01101111100
-to.\n");	:	1001010110
-log_file	:	101011001
-}	:	00000
-+	:	010111
-bytes_sent;	:	111101110
-strcmp("GET",	:	10101111100
-%s",	:	00101111100
-(char*)malloc(200	:	0001010110
-purely	:	11001111100
-date_head);	:	01001111100
-conf_file	:	1110010110
-argv[])	:	10001111100
-perror("Listen	:	10001000010
-(filePointer	:	00001111100
-strcpy(path,	:	01110110010
-NULL)	:	1011100110
-(	:	010000
-written	:	00010011100
-sendString("404	:	11010111100
-byte,	:	01010111100
-sendString("400	:	001011001
-strcpy(mime_file,	:	10010111100
-PRODUCTION!	:	00010111100
-GARBAGE	:	10100010100
-2);	:	11100111100
-==	:	011101
-*content_head	:	01100111100
-memset(filename,	:	10100111100
-'\t'	:	1100010110
-(char*)ctime(&rawtime));	:	00100111100
-memset(mime,	:	01000111100
-logfile]\n",	:	00100011010
-"httpd.conf";	:	10000111100
-close(connecting_socket);	:	00000111100
-FALSE;	:	1000010110
-<sys/stat.h>	:	11111011100
-PID,	:	01111011100
-handle(connecting_socket);	:	10111011100
-remove	:	00111011100
-requesting	:	11011011100
-"r",	:	01011011100
-VALID	:	1111110110
-output[appended_position+1]	:	00011011100
-sendFile(fp,	:	11101011100
-YET	:	10101011100
-printf("Logfile:\t\t%s\n",	:	00101011100
-set	:	0000010110
-RETURN	:	00110101
-exists	:	11001011100
-*word_holder	:	01001011100
-MAX_CONNECTIONS	:	1010010110
-Create	:	1111100110
-we	:	10001111
-wwwroot)	:	01000100010
-connections	:	00001011100
-see	:	11110011100
-fclose(filePointer);	:	01110011100
-are	:	10110011100
-strcpy(message,	:	00110011100
-printf("\t\t-d\t\tEnables	:	01010000010
-NULL;	:	01010011100
-)		//	:	0011010110
-0;	:	1011000
-(char*)malloc(10	:	10010011100
-init()	:	10110111100
-3	:	00110111100
-NULL,	:	0011100110
-printf("Unable	:	00001110010
-printf("File	:	1101100110
-0)	:	1011111
-buffer[BUFFER_SIZE];	:	11100011100
-0,	:	010011001
-*filename	:	0101100110
-parameterCount;	:	10001011100
-parent	:	1001100110
-&rawtime	:	10100011100
-5);	:	00100011100
-acceptConnection();	:	11000011100
-sendString(content,	:	01000011100
-%i\n",	:	10000011100
-free(current_word);	:	0001100110
-address.sin_addr.s_addr	:	00000011100
-bytes_sent	:	1110100110
-*Status_code,	:	11111101100
-and	:	11110111
-);	:	10111101100
-free(word_holder);	:	0110100110
-daemonize();	:	00111101100
-point	:	11011101100
-free(mime_type);	:	01011101100
-(strcmp(argv[parameterCount],	:	100011001
-100);	:	10011101100
-[-l	:	00011101100
-memset(path,	:	11101101100
-mimeSupported	:	000011001
-ftell(fp);	:	01101101100
-startline	:	011101110
-word_holder,	:	1010100110
-start()	:	10101101100
-free(line);	:	0010100110
-want	:	0010010110
-(mime_type,'\0',200);	:	00101101100
-address.sin_port	:	11001101100
-file");	:	01001101100
-sockaddr_storage	:	10001101100
-directory.	:	10101110100
-output[appended_position]	:	00101000100
-Implemented\n",	:	1000101110
-msgLen	:	00001101100
-"-p")	:	11110101100
----	:	1000110110
-&port)	:	10110101100
-handling	:	00110101100
-EXIT_SUCCESS	:	11010101100
-Process	:	01010101100
-handle(int	:	10010101100
-strcmp("HTTP/1.1"	:	00010101100
-#define	:	11000001
-GetExtension(char	:	11100101100
-while	:	101101110
-mime_type	:	1010000110
-mime);	:	01100101100
-strcmp("HTTP/1.0",	:	10100101100
-Open	:	00100101100
-MAX_FILE_SIZE	:	11000101100
-(-1,	:	0000100110
-Quee	:	01000101100
-file	:	0011111
-(;	:	11001110100
-sockaddr_in	:	00000101100
-Content	:	0001001110
-sizeof(char));	:	01010101
-existing");	:	11111001100
-BUFFER_SIZE,	:	01111001100
-in	:	001101110
-OK",	:	10111001100
-deamon	:	00000001
-appended_position	:	0111000110
-if	:	01101
-time_t	:	11011001100
-binary	:	01011001100
-Found\n",	:	10011001100
-strcmp	:	01000010100
-)	:	111000
-length_head);	:	00011001100
-scan(line,	:	1011000110
-request");	:	11101001100
-strcmp("POST",	:	01101001100
-port\t\tWhich	:	10101001100
-"\r\nContent-Type:	:	00101001100
-waitpid	:	0011000110
-free(path);	:	01001111
-i;	:	11001001100
-http	:	01001001100
-mime,contentLength,	:	01100010010
-REQUEST	:	1100000110
-if(count	:	10001001100
-EOF);	:	00001001100
-i)	:	00100001
-SendHeader();	:	11110001100
-IN	:	01110001100
-startline,	:	10110001100
-{	:	01000
-";	:	110101110
-//	:	00111
-logfile\tWhich	:	00110100010
-strlen(input)	:	01010001100
-getppid()	:	10010001100
-off	:	00010001100
-/*	:	01110000
-argv[parameterCount]);	:	11100001100
-i	:	1111101
-argv[0]);	:	01100011100
-no	:	11111000100
-length)	:	10100001100
-length,	:	011101001
-2	:	0100010110
-the	:	110011
-sendString(message,	:	11000001100
-If	:	101101001
-break;	:	001101001
-(parameterCount	:	01000001100
-addr_size	:	01110111100
-being	:	1001000110
-fileExt	:	00000001100
-sendFile(FILE	:	10111000100
-htons(port);	:	11111110100
-"\r\nHTTP/1.1	:	01111110100
-struct	:	1110000110
-currentLine	:	10111110100
-getRequestType(buffer);	:	00111110100
-handleHttpGET(char	:	11100110100
-[-p	:	01011110100
-*filePointer	:	10011110100
-scan(char	:	00011110100
-4	:	11101110100
-2!\n");	:	01101110100
-setsid();	:	11011110010
-size,	:	0110000110
-input	:	00101110100
-GET	:	110011001
-Change	:	1000100110
-0))	:	10000101100
-address;	:	01001110100
-count++;	:	0010000110
-process.	:	00001110100
-(struct	:	0101000110
-while(current_char	:	11110110100
-sendHeader("200	:	01110110100
-memcpy(mime_type,	:	10110110100
-Length	:	00110110100
-0);	:	110101001
-Ensure	:	00100001100
-listening	:	01010110100
-*server_head	:	10010110100
-GetExtension(filename,	:	11011110100
-*conf_file;	:	01100110100
-daemon	:	10100110100
-argc;	:	00100110100
-*mime_file;	:	11000110100
-*/		//	:	01000110100
--1;	:	1010001
-server	:	00000110100
-5,	:	11111010100
-argc,	:	01111010100
-getHttpVersion(input,	:	10111010100
-"\r\nDate:	:	00111010100
-file_size)	:	11011010100
-mime_file	:	01011010100
-else							//	:	11111101010
-address.sin_family	:	00011010100
-stdout);	:	10011100100
-contentType,	:	11101010100
-sizeof(address))	:	01101010100
-for	:	01000001
-*contentType,	:	10000001100
-BUFFER_SIZE);	:	11000111010
-socklen_t	:	11001010100
-/	:	01001010100
-exit	:	10001010100
-"\r\nContent-Length:	:	00001010100
-TRUE");	:	11110010100
-strlen(message);	:	01110010100
-sendString("501	:	0100000110
-*requestType	:	10110010100
-filesize;	:	00110010100
-fopen(path,	:	11010010100
-parameterCount++)	:	01010010100
-*path	:	00110101010
-stdin);	:	00010010100
-parameterCount	:	11100010100
-parameterCount++;	:	1000000110
-on	:	010101001
-contentLength[100];	:	01100010100
-socket	:	11001001010
-mimeFile)	:	00100010100
-requestType,	:	11000010100
-Get	:	0000000110
-start();	:	10100001010
-Find	:	10011010100
-PT06";	:	10000010100
-1000);	:	00000010100
-<stdlib.h>	:	11111100100
-*extension,	:	01111100100
-deamon);	:	10111100100
-Calculate	:	00111100100
-Receive	:	00010110100
-AF_INET;	:	00111010010
-SEEK_END);	:	00011011010
-free(filename);	:	01110111
-BUFFER_SIZE	:	11101100100
-Status_code);	:	01101100100
-!=	:	0110000
-log	:	10101100100
-"Error	:	0111111010
-*	:	10010101
-start	:	010101110
-filesize	:	1011111010
-files	:	11001100100
-free(mime);	:	10110111
-exit(EXIT_SUCCESS);	:	01001100100
-GoHttp	:	10001100100
-scan(input,	:	100101110
-strlen(current_word));	:	00001100100
-strlen(content_head)	:	11110100100
-"r");	:	0000101110
-line	:	0011111010
-strlen(length_head)	:	01110100100
-with	:	10110100100
-count	:	1101111010
-"-l")	:	00110100100
-default	:	0101111010
-prevents	:	11010100100
-strlen(server_head)	:	01010100100
-SOCK_STREAM,	:	10010100100
-more	:	00010100100
-rawtime;	:	11100100100
-sockaddr	:	1001111010
-USE	:	01100100100
-acceptConnection()	:	10100100100
-int	:	00011
-request	:	11001111
-startListener()	:	11000100100
-pid	:	01000100100
-memset(httpVersion,	:	01110101100
-as	:	0001111010
-IF	:	01100001
-current_char	:	1110111010
-NULL	:	0110111010
-bind(current_socket,	:	00000100100
-do{	:	11101111100
-Read	:	01111000100
-"%i",	:	10001110100
-4.	:	00111000100
-4,	:	11011000100
-fork();	:	1010111010
-main(int	:	01011000100
-out	:	10011000100
-At	:	1100110111
-*mime_type)	:	11101000100
-strlen(Content_Type)	:	01101000100
-exit(0);	:	10101000100
-malloc(600);	:	000101001
-else	:	0010001
-current_socket;	:	11001000100
-sprintf(contentLength,	:	01001000100
-conf_file);	:	10001000100
-filename);	:	00001000100
-currentLine,	:	0010111010
-strlen(date_head)	:	1111111111
-mask	:	0111111111
-200,	:	1011111111
-EXIT_FAILURE	:	0011111111
-'\r')	:	1111111010
-checkMime(extension,	:	00011000100
-time	:	0100110111
-directory	:	1100111010
-%s\n",	:	10101010100
-<netinet/in.h>	:	1110000001
+['EOF', 1]
+['existing', 1]
+['sin_port', 1]
+['executing', 1]
+['Unable', 1]
+['SID', 1]
+['&address', 1]
+['Workflow', 1]
+['umask', 1]
+['string', 1]
+['getppid', 1]
+['locked', 1]
+['zero', 1]
+['Fork', 1]
+['HTML', 1]
+['new', 1]
+['tEnables', 1]
+['wait', 1]
+['incoming', 1]
+['Deamon', 1]
+['httpd', 1]
+['working', 1]
+['&port', 1]
+['more', 1]
+['s_addr', 1]
+['Found', 1]
+['chdir', 1]
+['word', 1]
+['SEEK_END', 1]
+['pid_t', 1]
+['this', 1]
+['values', 1]
+['can', 1]
+['pthread', 1]
+['purposes', 1]
+['educational', 1]
+['netinet', 1]
+['rewind', 1]
+['bind', 1]
+['stdio', 1]
+['stdin', 1]
+['Usage', 1]
+['28', 1]
+['404', 1]
+['2!', 1]
+['main', 1]
+['&current_char', 1]
+['then', 1]
+['good', 1]
+['Can', 1]
+['SOCK_STREAM', 1]
+['static', 1]
+['Type', 1]
+['out', 1]
+['setsid', 1]
+['nHTTP', 1]
+['sprintf', 1]
+['rb', 1]
+['got', 1]
+['correct', 1]
+['This', 1]
+['standard', 1]
+['nDate', 1]
+['hence', 1]
+['512', 1]
+['assign', 1]
+['already', 1]
+['sendHTML', 1]
+['&addr_size', 1]
+['Start', 1]
+['Handles', 1]
+['stdlib', 1]
+['sockets', 1]
+['IMPLEMENTED', 1]
+['store', 1]
+['PRODUCTION!', 1]
+['than', 1]
+['Set', 1]
+['1!', 1]
+['mine', 1]
+['file_size', 1]
+['&connector', 1]
+['PT06', 1]
+['fseek', 1]
+['able', 1]
+['nServer', 1]
+['rawtime', 1]
+['supported', 1]
+['purely', 1]
+['Mime', 1]
+['do', 1]
+['GARBAGE', 1]
+['memcpy', 1]
+['remove', 1]
+['requesting', 1]
+['YET', 1]
+['exists', 1]
+['connections', 1]
+['see', 1]
+['are', 1]
+['close', 1]
+['PORT', 1]
+['#', 1]
+['written', 1]
+['Accepting', 1]
+['Settings', 1]
+['Server', 1]
+['SendHeader', 1]
+['Redirect', 1]
+['point', 1]
+['sockaddr_storage', 1]
+['handling', 1]
+['Process', 1]
+['Open', 1]
+['MAX_FILE_SIZE', 1]
+['Quee', 1]
+['stdout', 1]
+['sockaddr_in', 1]
+['it', 1]
+['conf', 1]
+['time_t', 1]
+['binary', 1]
+['http', 1]
+['IN', 1]
+['off', 1]
+['800', 1]
+['Port', 1]
+['fileExt', 1]
+['PID', 1]
+['SIG_IGN', 1]
+['SIGCHLD', 1]
+['Ensure', 1]
+['listening', 1]
+['daemon', 1]
+['OK', 1]
+['ctime', 1]
+['signal', 1]
+['server', 1]
+['Find', 1]
+['fgetc', 1]
+['fgets', 1]
+['Listen', 1]
+['socklen_t', 1]
+['ftell', 1]
+['Configuration', 1]
+['initConfiguration', 1]
+['Calculate', 1]
+['file!', 1]
+['files', 1]
+['GoHttp', 1]
+['with', 1]
+['1024', 1]
+['Logfile', 1]
+['INADDR_ANY', 1]
+['prevents', 1]
+['DO', 1]
+['USE', 1]
+['sin_family', 1]
+['htons', 1]
+['no', 1]
+['Read', 1]
+['stat', 1]
+['sin_addr', 1]
+['mask', 1]
+['At', 1]
+['time', 1]
+['send', 2]
+['init', 2]
+['getRequestType', 2]
+['HTTP', 2]
+['jump', 2]
+['Indicate', 2]
+['Receive', 2]
+['mimeFile', 2]
+['receive', 2]
+['daemonize', 2]
+['byte', 2]
+['startListener', 2]
+['flag', 2]
+['descriptor', 2]
+['root', 2]
+['accept', 2]
+['want', 2]
+['handle', 2]
+['parameter', 2]
+['t%i', 2]
+['nContent', 2]
+['over', 2]
+['VALID', 2]
+['bindSocket', 2]
+['Content_Lenght', 2]
+['mode', 2]
+['child_process', 2]
+['POST', 2]
+['argc', 2]
+['recv', 2]
+['AF_INET', 2]
+['w', 2]
+['1000', 2]
+['Bind', 2]
+['acceptConnection', 2]
+['fscanf', 2]
+['checkMime', 2]
+['fork', 2]
+['3', 2]
+['contentType', 2]
+['getHttpVersion', 2]
+['set', 2]
+['Send', 2]
+['parent', 2]
+['&rawtime', 2]
+['Get', 2]
+['sendBinary', 2]
+['501', 2]
+['WNOHANG', 2]
+['child', 2]
+['msgLen', 2]
+['EXIT_SUCCESS', 2]
+['tWhich', 2]
+['Change', 2]
+['Content', 2]
+['waitpid', 2]
+['used', 2]
+['EXISTS', 2]
+['TotalSize', 2]
+['addr_size', 2]
+['being', 2]
+['REQUEST', 2]
+['Length', 2]
+['sendFile', 2]
+['Implemented', 2]
+['GetExtension', 2]
+['createSocket', 2]
+['log', 2]
+['atoi', 2]
+['default', 2]
+['statusCode', 2]
+['sockaddr', 2]
+['as', 2]
+['handleHttpGET', 2]
+['fclose', 3]
+['Not', 3]
+['fileNameLenght', 3]
+['current', 3]
+['length_head', 3]
+['from', 3]
+['next', 3]
+['connector', 3]
+['sendHeader', 3]
+['fprintf', 3]
+['Request', 3]
+['Content_Type', 3]
+['t%s', 3]
+['types', 3]
+['File', 3]
+['20', 3]
+['400', 3]
+['sid', 3]
+['break', 3]
+['Bad', 3]
+['not', 3]
+['httpVersion', 3]
+['l', 3]
+['content', 3]
+['open', 3]
+['size', 3]
+['listen', 3]
+['that', 3]
+['newline', 3]
+['MAX_CONNECTIONS', 3]
+['logfile', 3]
+['Create', 3]
+['server_head', 3]
+['date_head', 3]
+['mimeSupported', 3]
+['%i', 3]
+['in_position', 3]
+['If', 3]
+['4', 3]
+['freopen', 3]
+['on', 3]
+['strcpy', 3]
+['fopen', 3]
+['Status_code', 3]
+['filesize', 3]
+['head', 3]
+['Error', 3]
+['current_char', 3]
+['content_head', 3]
+['directory', 3]
+['p', 4]
+['stderr', 4]
+['appending_char_count', 4]
+['NOT', 4]
+['dev', 4]
+['process', 4]
+['HEAD', 4]
+['a', 4]
+['Setting', 4]
+['max', 4]
+['10', 4]
+['FALSE', 4]
+['null', 4]
+['GET', 4]
+['appended_position', 4]
+['struct', 4]
+['currentLine', 4]
+['mime_file', 4]
+['d', 4]
+['BUFFER_SIZE', 4]
+['pid', 4]
+['5', 4]
+['EXIT_FAILURE', 4]
+['requestType', 5]
+['address', 5]
+['is', 5]
+['FILE', 5]
+['TRUE', 5]
+['%s', 5]
+['length', 5]
+['wwwroot', 5]
+['and', 5]
+['log_file', 5]
+['perror', 5]
+['conf_file', 5]
+['we', 5]
+['startline', 5]
+['in', 5]
+['sys', 5]
+['buffer', 5]
+['600', 5]
+['word_holder', 5]
+['filePointer', 6]
+['request', 6]
+['RETURN', 6]
+['configuration', 6]
+['bytes_sent', 6]
+['while', 6]
+['current_word', 6]
+['mime_type', 6]
+['count', 6]
+['100', 7]
+['scan', 7]
+['2', 7]
+['NULL', 7]
+['IF', 7]
+['#define', 7]
+['for', 7]
+['memset', 8]
+['current_socket', 8]
+['&&', 9]
+['type', 9]
+['sendString', 9]
+['deamon', 9]
+['sizeof', 9]
+['strcmp', 9]
+['start', 9]
+['argv', 9]
+['contentLength', 10]
+['path', 10]
+['#include', 10]
+['mime', 10]
+['h', 10]
+['strcat', 10]
+['line', 10]
+['r', 11]
+['200', 11]
+['filename', 12]
+['extension', 12]
+['file', 12]
+['void', 13]
+['port', 13]
+['connecting_socket', 13]
+['fp', 13]
+['output', 13]
+['parameterCount', 13]
+['exit', 14]
+['else', 15]
+['socket', 15]
+['to', 16]
+['message', 17]
+['t', 17]
+['printf', 18]
+['!', 19]
+['malloc', 19]
+['strlen', 20]
+['i', 21]
+['the', 21]
+['n', 24]
+['return', 27]
+['input', 27]
+['free', 29]
+['if', 49]
+['int', 51]
+['char', 58]
+['0', 68]
+['1', 68]
