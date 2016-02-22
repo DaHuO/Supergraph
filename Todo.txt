@@ -1,1 +1,2 @@
 Use Abstract Syntax Tree to parse code.
+Deal with the comment part(should we count the comment).

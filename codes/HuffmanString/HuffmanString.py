@@ -3,11 +3,12 @@
 
 import sys
 import re
+import file_search
 
 
 class HuffmanString:
-    def __init__(self, File, mode):
-        self.File = File
+    def __init__(self, File_paths, mode):
+        self.File_paths = File_paths
         self.mode = mode
         self.encode_result = self.parse(mode)
 
@@ -15,33 +16,56 @@ class HuffmanString:
         return self.encode_result
 
     def FirstRun(self, mode):
+        # StringRecord = {}
+        # count = 0
+        # for line in self.File:
+        #     count += 1
+        #     line = line.strip()
+        #     if len(line) == 0:
+        #         continue
+        #     if mode == "line":
+        #         if line in StringRecord:
+        #             StringRecord[line] += 1
+        #         else:
+        #             StringRecord[line] = 1
+        #     elif mode == "word":
+        #         line = re.split('\(|\)|{|}|,|\.|\+|=|-|:|\\\|\/|\*|"|\'|;|\[|\]|<|>|\s*', line)
+        #         for word in line:
+        #             word = word.strip()
+        #             if len(word) == 0:
+        #                 continue
+        #             if word in StringRecord:
+        #                 StringRecord[word] += 1
+        #             else:
+        #                 StringRecord[word] = 1
+        # return StringRecord
         StringRecord = {}
         count = 0
-        for line in self.File:
-            count += 1
-            line = line.strip()
-            if len(line) == 0:
-                continue
-            if mode == "line":
-                if line in StringRecord:
-                    StringRecord[line] += 1
-                else:
-                    StringRecord[line] = 1
-            elif mode == "word":
-                line = re.split('\(|\)|{|}|,|\.|\+|=|-|:|\\\|\/|\*|"|\'|;|\[|\]|<|>|\s*', line)
-                for word in line:
-                    word = word.strip()
-                    if len(word) == 0:
-                        continue
-                    if word in StringRecord:
-                        StringRecord[word] += 1
-                    else:
-                        StringRecord[word] = 1
-        return StringRecord
+        for File in self.File_paths:
+            file_in = open(File, 'r')
 
-    # def printRecord(self, SortedStringRecord, StringRecord):
-    #     for string in SortedStringRecord:
-    #         print string + str(StringRecord[string])
+            for line in file_in:
+                count += 1
+                line = line.strip()
+                if len(line) == 0:
+                    continue
+                if mode == "line":
+                    if line in StringRecord:
+                        StringRecord[line] += 1
+                    else:
+                        StringRecord[line] = 1
+                elif mode == "word":
+                    line = re.split('\(|\)|{|}|,|\.|\+|=|-|:|\\\|\/|\*|"|\'|;|\[|\]|<|>|\s*', line)
+                    for word in line:
+                        word = word.strip()
+                        if len(word) == 0:
+                            continue
+                        if word in StringRecord:
+                            StringRecord[word] += 1
+                        else:
+                            StringRecord[word] = 1
+            file_in.close()
+        return StringRecord
 
     def sort(self, StringRecord):
         SortedStringRecord = sorted(StringRecord, key=StringRecord.get, reverse=False)
@@ -95,8 +119,6 @@ class HuffmanString:
             listOfNode.remove(b)
             listOfNode.append(new)
             listOfNode = sorted(listOfNode, key=lambda node: node.weight)
-        print 'weight:' + str(listOfNode[0].weight)
-        print listOfNode[0].string
         return listOfNode
 
     def parse(self, mode):
@@ -115,17 +137,30 @@ class Node:
 
 
 input_arg = sys.argv
-File_IN = open('test_codes/httpd.c', 'r')
+# File_IN = open('test_codes/httpd.c', 'r')
 
-if len(input_arg) > 2 or (input_arg[1] != 'line' and input_arg[1] != 'word'):
-    print "input argument not right, take 'line' by default"
-    input_arg[1] = 'line'
+# if len(input_arg) > 2 or (input_arg[1] != 'line' and input_arg[1] != 'word'):
+#     print "input argument not right, take 'line' by default"
+#     input_arg[1] = 'line'
 
-File_OUT = open('test_results/httpd' + '_' + input_arg[1] + '.txt', 'w')
-test = HuffmanString(File_IN, input_arg[1])
+# File_OUT = open('test_results/httpd' + '_' + input_arg[1] + '.txt', 'w')
+# test = HuffmanString(File_IN, input_arg[1])
+# encode_result = test.get_encode_result()
+
+# for e in encode_result:
+#     # string = e + "\t:\t" + str(encode_result[e]) + "\n"
+#     string = str(e) + '\n'
+#     File_OUT.write(string)
+
+path = input_arg[1]
+mode = input_arg[2]
+file_paths = file_search.gci(path)
+test = HuffmanString(file_paths, mode)
 encode_result = test.get_encode_result()
-
+project_name = path[path.find('/'):]
+File_OUT = open('test_results/' + project_name + '_' + mode + '.txt', 'w')
 for e in encode_result:
-    # string = e + "\t:\t" + str(encode_result[e]) + "\n"
     string = str(e) + '\n'
     File_OUT.write(string)
+File_OUT.close()
+
