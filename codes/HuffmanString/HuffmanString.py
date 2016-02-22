@@ -158,6 +158,8 @@ file_paths = file_search.gci(path)
 test = HuffmanString(file_paths, mode)
 encode_result = test.get_encode_result()
 project_name = path[path.find('/'):]
+if project_name.find('.')!=-1:
+    project_name = project_name[:project_name.find('.')]
 File_OUT = open('test_results/' + project_name + '_' + mode + '.txt', 'w')
 for e in encode_result:
     string = str(e) + '\n'

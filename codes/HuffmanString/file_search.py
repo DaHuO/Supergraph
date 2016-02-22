@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import os
 
 def gci(path):
@@ -17,5 +20,5 @@ def gci(path):
 			else:
 				file_paths.append(child)
 		return file_paths
-	except e:
+	except Error:
 		print "error in file_search\n"
