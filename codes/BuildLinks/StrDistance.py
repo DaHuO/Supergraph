@@ -17,7 +17,7 @@ def StrDistance(str1, str2):
 	str2 = str2.lower()
 	len_diff = len1 - len2
 	ham_diff = 1024
-	for i in range(0, len_diff):
+	for i in range(0, len_diff + 1):
 		temp_diff = 0
 		for j in range(0, len2):
 			# temp_diff += abs(ord(str1[j+i]) - ord(str2[j]))
