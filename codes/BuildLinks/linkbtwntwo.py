@@ -14,8 +14,8 @@ def getinputdata(file):
 	return datadic
 
 
-Hamdiff_Threshold = 0
-Lendiff_Threshold = 2
+Hamdiff_Threshold = 1
+Lendiff_Threshold = 1
 
 File1 = open('../HuffmanString/test_results/httpd_word.txt', 'r')
 File2 = open('../HuffmanString/test_results/GoHttp_word.txt', 'r')
@@ -24,7 +24,7 @@ data1 = getinputdata(File1)
 data2 = getinputdata(File2)
 File1.close()
 File2.close()
-File_out = open('test_results/test_result1.txt', 'w')
+File_out = open('test_results/test_result_1_1.txt', 'w')
 for word1 in data1:
 	if len(word1)==1:
 		continue
