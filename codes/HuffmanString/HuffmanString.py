@@ -41,7 +41,7 @@ class HuffmanString:
                     else:
                         StringRecord[line] = 1
                 elif mode == "word":
-                    line = re.split('#|%|&|!|\(|\)|{|}|,|\.|\+|=|-|:|\\\|\/|\*|"|\'|;|\[|\]|<|>|\s*', line)
+                    line = re.split('\||#|%|&|!|\(|\)|{|}|,|\.|\+|=|-|:|\\\|\/|\*|"|\'|;|\[|\]|<|>|\s*', line)
                     for word in line:
                         word = word.strip()
                         if len(word) == 0:
