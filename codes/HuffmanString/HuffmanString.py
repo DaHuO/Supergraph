@@ -4,41 +4,20 @@
 import sys
 import re
 import file_search
+import strFilter
 
 
 class HuffmanString:
-    def __init__(self, File_paths, mode):
+    def __init__(self, File_paths, mode, language):
         self.File_paths = File_paths
         self.mode = mode
+        self.language = language
         self.encode_result = self.parse(mode)
 
     def get_encode_result(self):
         return self.encode_result
 
     def FirstRun(self, mode):
-        # StringRecord = {}
-        # count = 0
-        # for line in self.File:
-        #     count += 1
-        #     line = line.strip()
-        #     if len(line) == 0:
-        #         continue
-        #     if mode == "line":
-        #         if line in StringRecord:
-        #             StringRecord[line] += 1
-        #         else:
-        #             StringRecord[line] = 1
-        #     elif mode == "word":
-        #         line = re.split('\(|\)|{|}|,|\.|\+|=|-|:|\\\|\/|\*|"|\'|;|\[|\]|<|>|\s*', line)
-        #         for word in line:
-        #             word = word.strip()
-        #             if len(word) == 0:
-        #                 continue
-        #             if word in StringRecord:
-        #                 StringRecord[word] += 1
-        #             else:
-        #                 StringRecord[word] = 1
-        # return StringRecord
         StringRecord = {}
         count = 0
         for File in self.File_paths:
@@ -55,7 +34,7 @@ class HuffmanString:
                     else:
                         StringRecord[line] = 1
                 elif mode == "word":
-                    line = re.split('\(|\)|{|}|,|\.|\+|=|-|:|\\\|\/|\*|"|\'|;|\[|\]|<|>|\s*', line)
+                    line = re.split('#|%|&|!|\(|\)|{|}|,|\.|\+|=|-|:|\\\|\/|\*|"|\'|;|\[|\]|<|>|\s*', line)
                     for word in line:
                         word = word.strip()
                         if len(word) == 0:
@@ -77,35 +56,16 @@ class HuffmanString:
             listOfNode.append(Node(weight=StringRecord[val], string=val))
         ListOfNode = self.Huffman(listOfNode)
         encodeDict = []
-        # for e in listOfNode:
-        # 	ep = e
-        # 	encodeDict[e.string] = ""
-        # 	while ep != ListOfNode[0]:
-        # 		if ep.parent.left == ep:
-        # 			encodeDict[e.string] += "1"
-        # 		else:
-        # 			encodeDict[e.string] += "0"
-        # 		ep = ep.parent
+
         for e in listOfNode:
-            encodeDict.append([e.string, StringRecord[e.string]])
+            if strFilter.filter(e.string, self.language):
+                continue
+            else:
+                encodeDict.append([e.string, StringRecord[e.string]])
         encodeDict = reversed(encodeDict)
-        # for e in encodeDict:
-        #     print e
 
-
-        # HuffmanTree = self.writeHuffmanTree(ListOfNode[0], StringRecord)
         return encodeDict
 
-    # def writeHuffmanTree(self, p, StringRecord):
-    #     HuffmanTree = []
-    #     if p == None:
-    #         HuffmanTree.append('# \n')
-    #     else:
-    #         print p.string
-    #         HuffmanTree.append(p.string + '\t:\t' + StringRecord[p.string] + '\n')
-    #         self.writeHuffmanTree(p.left)
-    #         self.writeHuffmanTree(p.right)
-    #     return HuffmanTree
 
     def Huffman(self, listOfNode):
         listOfNode = list(listOfNode)
@@ -154,8 +114,12 @@ input_arg = sys.argv
 
 path = input_arg[1]
 mode = input_arg[2]
+if input_arg[3]:
+    language = input_arg[3]
+else:
+    language = ""
 file_paths = file_search.gci(path)
-test = HuffmanString(file_paths, mode)
+test = HuffmanString(file_paths, mode, language)
 encode_result = test.get_encode_result()
 project_name = path[path.find('/'):]
 if project_name.find('.')!=-1:
