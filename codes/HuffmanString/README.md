@@ -11,3 +11,9 @@ Command input change to :
 	python HuffmanString.py \[path\] \[mode\]
 path refer to the code path. It could be the path of a specific code or the path of a directory.
 mode refer to the unit of encoding. It could be 'line' or 'word'. 
+
+Mar 06 2016
+Command input change to :
+	python HuffmanString.py \[path\] \[mode\] \[language\] \[comment\]
+Language refers to the language of the code.
+If comment is '-c', it means the content of comments will be count as tokens. Otherwise comments won't be counted in.

@@ -34,6 +34,7 @@ class HuffmanString:
                 else:
                     if(line[0:2]=='//'):
                         continue
+                line = line.lower()
                 if mode == "line":
                     if line in StringRecord:
                         StringRecord[line] += 1
