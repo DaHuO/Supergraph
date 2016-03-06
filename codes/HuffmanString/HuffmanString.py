@@ -8,10 +8,11 @@ import strFilter
 
 
 class HuffmanString:
-    def __init__(self, File_paths, mode, language):
+    def __init__(self, File_paths, mode, language, comment):
         self.File_paths = File_paths
         self.mode = mode
         self.language = language
+        self.comment = comment
         self.encode_result = self.parse(mode)
 
     def get_encode_result(self):
@@ -28,6 +29,11 @@ class HuffmanString:
                 line = line.strip()
                 if len(line) == 0:
                     continue
+                if self.comment:
+                    pass
+                else:
+                    if(line[0:2]=='//'):
+                        continue
                 if mode == "line":
                     if line in StringRecord:
                         StringRecord[line] += 1
@@ -118,8 +124,12 @@ if input_arg[3]:
     language = input_arg[3]
 else:
     language = ""
+if input_arg[4] == '-c':
+    comment = True
+else:
+    comment = False
 file_paths = file_search.gci(path)
-test = HuffmanString(file_paths, mode, language)
+test = HuffmanString(file_paths, mode, language, comment)
 encode_result = test.get_encode_result()
 project_name = path[path.find('/'):]
 if project_name.find('.')!=-1:
