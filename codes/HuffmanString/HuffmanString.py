@@ -23,6 +23,7 @@ class HuffmanString:
         count = 0
         for File in self.File_paths:
             file_in = open(File, 'r')
+            multi_comm = False
 
             for line in file_in:
                 count += 1
@@ -32,8 +33,17 @@ class HuffmanString:
                 if self.comment:
                     pass
                 else:
-                    if(line[0:2]=='//'):
-                        continue
+                    if self.language.lower() == 'c':
+                        if line[0:2]=='//' :    #delete comments
+                            continue
+                        if line[0:2]=='/*':
+                            multi_comm = True
+                            continue
+                        if multi_comm & line[-2:]!='*/':
+                            continue
+                        if multi_comm & line[-2:]=='*/':
+                            multi_comm = False
+                            continue
                 line = line.lower()
                 if mode == "line":
                     if line in StringRecord:
