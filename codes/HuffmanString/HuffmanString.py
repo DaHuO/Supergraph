@@ -33,8 +33,8 @@ class HuffmanString:
                 if self.comment:
                     pass
                 else:
-                    if self.language.lower() == 'c':
-                        if line[0:2]=='//' :    #delete comments
+                    if self.language.lower() == 'c':    #delete comments
+                        if line[0:2]=='//' :
                             continue
                         if line[0:2]=='/*':
                             multi_comm = True
