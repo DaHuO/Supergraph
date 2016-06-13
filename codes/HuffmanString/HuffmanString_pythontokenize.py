@@ -82,3 +82,4 @@ if __name__ == '__main__':
     path = 'test_codes/python/' + sys.argv[1]
     files_path = file_search.gci(path)
     pythontokenize = pythontokenize(files_path, sys.argv[1])
+
