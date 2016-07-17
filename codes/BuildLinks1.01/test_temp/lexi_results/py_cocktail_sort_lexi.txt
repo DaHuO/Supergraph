@@ -1,0 +1,16 @@
+from random import shuffle 		5
+def cocktailSort ( alist ) : 		7
+up = range ( len ( alist ) - 1 ) 		8
+while True : 		10
+for indices in ( up , reversed ( up ) ) : 		11
+swapped = False 		12
+for i in indices : 		13
+if alist [ i ] > alist [ i + 1 ] : 		14
+alist [ i ] , alist [ i + 1 ] = alist [ i + 1 ] , alist [ i ] 		15
+swapped = True 		16
+if not swapped : 		17
+return 		18
+alist = [ i for i in range ( 100000 ) ] 		20
+shuffle ( alist ) 		21
+cocktailSort ( alist ) 		23
+print alist 		24

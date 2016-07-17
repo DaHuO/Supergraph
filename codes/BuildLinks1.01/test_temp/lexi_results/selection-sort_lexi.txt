@@ -1,0 +1,9 @@
+def selectionSort ( u ) : 		1
+for i in range ( len ( u ) - 1 ) : 		2
+min = i 		3
+for j in range ( i + 1 , len ( u ) ) : 		4
+if u [ j ] < u [ min ] : 		5
+min = j 		6
+if min != i : 		7
+u [ i ] , u [ min ] = u [ min ] , u [ i ] 		8
+return u 		9

@@ -1,0 +1,17 @@
+from caller import Caller 		2
+class SortTime : 		4
+def __init__ ( self ) : 		6
+pass 		7
+@ staticmethod 		9
+def times ( array ) : 		10
+return [ 		11
+Caller . bubble_sort ( array = array ) , 		12
+Caller . bubble_sort_with_flag ( array = array ) , 		13
+Caller . insertion_sort ( array = array ) , 		14
+Caller . selection_sort ( array = array ) , 		15
+Caller . shell_sort ( array = array ) , 		16
+Caller . merge_sort ( array = array ) , 		17
+Caller . quick_sort ( array = array ) , 		18
+Caller . counting_sort ( array = array ) , 		19
+Caller . radix_sort ( array = array ) 		20
+] 		21

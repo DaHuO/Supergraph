@@ -1,0 +1,20 @@
+import fileinput 		1
+from timer import Timer 		2
+l = [ ] 		4
+for i in fileinput . input ( ) : 		5
+l . append ( int ( i ) ) 		6
+def sort_bubble ( l ) : 		8
+n = len ( l ) 		9
+while n > 0 : 		10
+nlast = 0 		11
+for i in xrange ( 1 , n ) : 		12
+if l [ i - 1 ] > l [ i ] : 		13
+l [ i - 1 ] , l [ i ] = l [ i ] , l [ i - 1 ] 		14
+nlast = i 		15
+n = nlast 		16
+return l 		17
+with Timer ( ) as t : 		19
+l = sort_bubble ( l ) 		20
+print l 		22
+print ( 'List length: %i' % len ( l ) ) 		23
+print ( 'Sort time: %.05fs' % t . interval ) 		24

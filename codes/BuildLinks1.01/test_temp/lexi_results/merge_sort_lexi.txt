@@ -1,0 +1,30 @@
+def merger_sort ( seq ) : 		9
+if len ( seq ) <= 1 : 		10
+return seq 		11
+mid = int ( len ( seq ) / 2 ) 		12
+left = merger_sort ( seq [ : mid ] ) 		13
+right = merger_sort ( seq [ mid : ] ) 		14
+return merger ( left , right ) 		15
+def merger ( list1 , list2 ) : 		18
+array = [ ] 		19
+list1_len = len ( list1 ) 		20
+list2_len = len ( list2 ) 		21
+index1 = 0 		22
+index2 = 0 		23
+while index1 < list1_len and index2 < list2_len : 		25
+if list1 [ index1 ] <= list2 [ index2 ] : 		26
+array . append ( list1 [ index1 ] ) 		27
+index1 += 1 		28
+else : 		29
+array . append ( list2 [ index2 ] ) 		30
+index2 += 1 		31
+while index1 < list1_len : 		33
+array . append ( list1 [ index1 ] ) 		34
+index1 += 1 		35
+while index2 < list2_len : 		36
+array . append ( list2 [ index2 ] ) 		37
+index2 += 1 		38
+return array 		39
+if __name__ == '__main__' : 		43
+list = [ 6 , 7 , 4 , 3 , 9 , 2 ] 		47
+print merger_sort ( list ) 		48

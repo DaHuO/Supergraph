@@ -1,0 +1,41 @@
+3		cocktailsort		4
+3		cocktailsort		11
+3		cocktailsort		20
+4		cocktailsort		5
+5		cocktailsort		6
+5		cocktailsort		14
+8		bubble_sort		11
+8		cocktailsort		8
+8		cocktailsort		17
+8		combsort		9
+8		py_bubble_sort		9
+8		py_cocktail_sort		14
+8		pysort		43
+8		pysort		58
+8		pysort		73
+8		sorters		32
+8		sorting_algorithms		17
+9		cocktailsort		9
+9		cocktailsort		18
+9		combsort		10
+9		sorters		34
+10		bitonicsort		8
+10		cocktailsort		10
+10		cocktailsort		19
+10		combsort		11
+10		cyclesort		11
+10		cyclesort		14
+10		cyclesort		19
+10		shellsort		14
+10		smoothsort		36
+10		smoothsort		50
+10		timsort		29
+10		timsort		31
+10		timsort		34
+10		timsort		37
+11		cocktailsort		4
+11		cocktailsort		11
+11		cocktailsort		20
+
+
+The best linked code is cocktailsort, and 15 links are found.

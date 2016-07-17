@@ -1,0 +1,5 @@
+from random import shuffle 		1
+def bogosort ( seq ) : 		3
+while ( not all ( seq [ i ] <= seq [ i + 1 ] for i in range ( len ( seq ) - 1 ) ) ) : 		4
+shuffle ( seq ) 		5
+return seq 		7

@@ -1,0 +1,29 @@
+__author__ = 'rg.kavodkar' 		1
+def sort ( list_ ) : 		8
+merge_sort ( list_ , 0 , len ( list_ ) - 1 ) 		9
+def merge_sort ( list_ , left , right ) : 		12
+if len ( list_ ) == 1 : 		22
+return list_ 		23
+mid_point = int ( ( left + right ) / 2 ) 		26
+merge_sort ( list_ , left , mid_point ) 		29
+merge_sort ( list_ , mid_point + 1 , right ) 		30
+merge ( list_ , left , mid_point , right ) 		33
+return list_ 		34
+def merge ( list_ , left , mid_point , right ) : 		37
+l = left 		47
+r = mid_point + 1 		48
+while l <= mid_point and r <= right : 		52
+if list_1 [ l ] < list_2 [ r ] : 		53
+merged_list . append ( list_1 [ l ] ) 		54
+l += 1 		55
+else : 		56
+merged_list . append ( list_2 [ r ] ) 		57
+r += 1 		58
+if l < len ( list_1 ) : 		62
+while l < len ( list_1 ) : 		63
+merged_list . append ( list_1 [ l ] ) 		64
+l += 1 		65
+elif r < len ( list_2 ) : 		66
+while r < len ( list_2 ) : 		67
+merged_list . append ( list_2 [ r ] ) 		68
+r += 1 		69

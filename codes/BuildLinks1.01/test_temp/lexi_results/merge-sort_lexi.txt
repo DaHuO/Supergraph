@@ -1,0 +1,22 @@
+def merge ( left , right ) : 		2
+result = [ ] 		3
+i , j = 0 , 0 		4
+while i < len ( left ) and j < len ( right ) : 		5
+if left [ i ] > right [ j ] : 		6
+result . append ( right [ j ] ) 		7
+j += 1 		8
+else : 		9
+result . append ( left [ i ] ) 		10
+i += 1 		11
+result += left [ i : ] 		12
+result += right [ j : ] 		13
+return result 		14
+def mergeSort ( u ) : 		16
+if len ( u ) < 2 : 		17
+return u 		18
+left = [ ] 		20
+right = [ ] 		21
+middle = len ( u ) // 2 		22
+left = u [ : middle ] 		24
+right = u [ middle : ] 		25
+return merge ( mergeSort ( left ) , mergeSort ( right ) ) 		26

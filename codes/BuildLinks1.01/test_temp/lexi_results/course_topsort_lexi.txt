@@ -1,0 +1,7 @@
+class Solution ( object ) : 		17
+def canFinish ( self , numCourses , prerequisites ) : 		18
+Course = collections . namedtuple ( 'Course' , [ 'postreqs' , 'indegree' ] , verbose = True ) 		24
+courses = dict ( ) 		25
+for to_course , from_course in prerequisites : 		27
+if to_course not in courses : 		28
+if from_course course not in courses : 		30

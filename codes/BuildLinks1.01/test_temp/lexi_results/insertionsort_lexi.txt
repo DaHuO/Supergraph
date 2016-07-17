@@ -1,0 +1,14 @@
+def swap ( array , i , j ) : 		3
+tmp = array [ i ] 		4
+array [ i ] = array [ j ] 		5
+array [ j ] = tmp 		6
+def insertionsort ( array ) : 		8
+for i in range ( 0 , len ( array ) ) : 		9
+j = i 		10
+while j > 0 and array [ j - 1 ] > array [ j ] : 		11
+swap ( array , j - 1 , j ) 		12
+j -= 1 		13
+if __name__ == "__main__" : 		15
+array = [ 17 , 9 , 13 , 8 , 7 , - 5 , 6 , 11 , 3 , 4 , 1 , 2 ] 		16
+insertionsort ( array ) 		17
+print array 		18

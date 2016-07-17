@@ -1,0 +1,33 @@
+from random import shuffle 		3
+def mergeSort ( alist ) : 		5
+print ( "Splitting" , alist ) 		6
+if len ( alist ) > 1 : 		8
+mid = len ( alist ) / 2 		9
+lefthalf = alist [ : mid ] 		10
+righthalf = alist [ mid : ] 		11
+mergeSort ( lefthalf ) 		13
+mergeSort ( righthalf ) 		14
+i = 0 		16
+j = 0 		17
+k = 0 		18
+while i < len ( lefthalf ) and j < len ( righthalf ) : 		20
+if lefthalf [ i ] < righthalf [ j ] : 		21
+alist [ k ] = lefthalf [ i ] 		22
+i = i + 1 		23
+else : 		24
+alist [ k ] = righthalf [ j ] 		25
+j = j + 1 		26
+k = k + 1 		27
+while i < len ( lefthalf ) : 		29
+alist [ k ] = lefthalf [ i ] 		30
+i = i + 1 		31
+k = k + 1 		32
+while j < len ( righthalf ) : 		34
+alist [ k ] = righthalf [ j ] 		35
+j = j + 1 		36
+k = k + 1 		37
+print ( "Merging" , alist ) 		39
+alist = [ i for i in range ( 5000000 ) ] 		42
+shuffle ( alist ) 		43
+mergeSort ( alist ) 		46
+print ( alist ) 		47

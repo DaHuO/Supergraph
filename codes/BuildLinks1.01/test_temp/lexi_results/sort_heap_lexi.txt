@@ -1,0 +1,30 @@
+def sort_heap ( lst ) : 		5
+lst = heapify ( lst ) 		6
+end = len ( lst ) - 1 		7
+while end > 0 : 		8
+lst [ end ] , lst [ 0 ] = lst [ 0 ] , lst [ end ] 		9
+end = end - 1 		10
+lst = siftDown ( lst , 0 , end ) 		11
+return lst 		12
+def heapify ( lst ) : 		14
+cnt = len ( lst ) 		15
+start = ( cnt - 2 ) / 2 		16
+while start >= 0 : 		17
+lst = siftDown ( lst , start , cnt - 1 ) 		18
+start = start - 1 		19
+return lst 		20
+def siftDown ( lst , start , end ) : 		22
+root = start 		23
+while root * 2 + 1 <= end : 		24
+child = root * 2 + 1 		25
+swap = root 		26
+if lst [ swap ] < lst [ child ] : 		27
+swap = child 		28
+if child + 1 <= end and lst [ swap ] < lst [ child + 1 ] : 		29
+swap = child + 1 		30
+if swap != root : 		31
+lst [ root ] , lst [ swap ] = lst [ swap ] , lst [ root ] 		32
+root = swap 		33
+else : 		34
+break 		35
+return lst 		36

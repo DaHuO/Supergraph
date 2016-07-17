@@ -1,0 +1,16 @@
+def selection_sort ( list ) : 		7
+i = 0 		8
+j = 0 		9
+while i >= 0 and i <= ( len ( list ) - 1 ) : 		10
+while j >= i and j <= ( len ( list ) - 1 ) : 		11
+if list [ i ] > list [ j ] : 		12
+t = list [ i ] 		13
+list [ i ] = list [ j ] 		14
+list [ j ] = t 		15
+j += 1 		16
+i += 1 		17
+j = i 		18
+return list 		19
+if __name__ == '__main__' : 		21
+list = [ 52 , 46 , 2 , 7584 , 542 ] 		22
+print selection_sort ( list ) 		23

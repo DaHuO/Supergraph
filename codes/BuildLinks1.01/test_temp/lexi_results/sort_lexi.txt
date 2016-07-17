@@ -1,0 +1,85 @@
+import time 		2
+import random 		3
+import json 		4
+import BaseHTTPServer 		5
+import cgi 		6
+import cgitb ; cgitb . enable ( ) 		7
+import sys 		8
+def insertion ( arr ) : 		10
+start = time . clock ( ) 		11
+for i in range ( 1 , len ( arr ) ) : 		12
+j = i - 1 		13
+key = arr [ i ] 		14
+while ( j >= 0 and key < arr [ j ] ) : 		15
+arr [ j + 1 ] = arr [ j ] 		16
+j = j - 1 		17
+arr [ j + 1 ] = key 		18
+return ( str ( round ( ( time . clock ( ) - start ) * 1000 , 5 ) ) ) 		20
+def sort_on_data ( size ) : 		23
+with open ( "random.json" ) as ip : 		25
+data = json . load ( ip ) 		26
+arr = data [ str ( size ) ] 		27
+dicts = { } 		28
+ts = insertion ( arr ) 		29
+dicts [ "random" ] = ts 		30
+with open ( "datasetssorted_list.json" ) as ip1 : 		32
+data_ss = json . load ( ip1 ) 		33
+arr_sl = data_ss [ str ( size ) ] 		34
+tss = insertion ( arr_sl ) 		35
+dicts [ "sorted" ] = tss ; 		36
+with open ( "reverse_list.json" ) as ip2 : 		38
+data_rs = json . load ( ip2 ) 		39
+arr_rs = data_rs [ str ( size ) ] 		40
+trs = insertion ( arr_rs ) 		41
+dicts [ "reverse" ] = trs ; 		42
+with open ( "nearly_sorted.json" ) as ip3 : 		44
+data_ns = json . load ( ip3 ) 		45
+arr_ns = data_ns [ str ( size ) ] 		46
+tns = insertion ( arr_ns ) 		47
+dicts [ "nearly_sorted" ] = tns ; 		48
+with open ( "fewunique.json" ) as ip4 : 		50
+data_fw = json . load ( ip4 ) 		51
+arr_fw = data_fw [ str ( size ) ] 		52
+tfw = insertion ( arr_fw ) 		53
+dicts [ "fewunique" ] = tfw ; 		54
+return dicts 		56
+def Lsort_on_data ( size ) : 		58
+with open ( "Lrandom.json" ) as ip : 		60
+data = json . load ( ip ) 		61
+arr = data [ str ( size ) ] 		62
+dicts = { } 		63
+ts = insertion ( arr ) 		64
+dicts [ "random" ] = ts 		65
+with open ( "Ldatasetssorted_list.json" ) as ip1 : 		67
+data_ss = json . load ( ip1 ) 		68
+arr_sl = data_ss [ str ( size ) ] 		69
+tss = insertion ( arr_sl ) 		70
+dicts [ "sorted" ] = tss ; 		71
+with open ( "Lreverse_list.json" ) as ip2 : 		73
+data_rs = json . load ( ip2 ) 		74
+arr_rs = data_rs [ str ( size ) ] 		75
+trs = insertion ( arr_rs ) 		76
+dicts [ "reverse" ] = trs ; 		77
+with open ( "Lnearly_sorted.json" ) as ip3 : 		79
+data_ns = json . load ( ip3 ) 		80
+arr_ns = data_ns [ str ( size ) ] 		81
+tns = insertion ( arr_ns ) 		82
+dicts [ "nearly_sorted" ] = tns ; 		83
+with open ( "Lfewunique.json" ) as ip4 : 		85
+data_fw = json . load ( ip4 ) 		86
+arr_fw = data_fw [ str ( size ) ] 		87
+tfw = insertion ( arr_fw ) 		88
+dicts [ "fewunique" ] = tfw ; 		89
+return dicts 		91
+def main ( ) : 		93
+print ( "Content-type: text/html" ) 		95
+print 		96
+form = cgi . FieldStorage ( ) 		98
+if form . has_key ( "param1" ) : 		99
+if form [ "param1" ] . value == "1000000" or form [ "param1" ] . value == "2000000" : 		100
+sys . setrecursionlimit ( 2000009 ) 		101
+print Lsort_on_data ( form [ "param1" ] . value ) 		102
+else : 		103
+print sort_on_data ( form [ "param1" ] . value ) 		104
+if __name__ == "__main__" : 		110
+main ( ) 		111

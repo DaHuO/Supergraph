@@ -1,0 +1,46 @@
+4		bitonicsort		28
+4		cocktailsort		2
+4		combsort		2
+4		cyclesort		3
+4		shellsort		2
+4		smoothsort		61
+4		sort_heap		5
+4		sort_heap		14
+4		timsort		22
+5		cocktail_shaker_sort		26
+5		cocktail_shaker_sort		62
+5		cocktail_shaker_sort		106
+5		heap_sort		12
+5		py_heap_sort		7
+5		pysort		40
+5		pysort		172
+5		pysort		194
+5		pysort		346
+5		sorter		34
+5		sorter		96
+5		sorts		55
+5		test_sorts		22
+6		graphsort		14
+6		py_bubble_sort		8
+6		pysort		41
+6		pysort		42
+6		pysort		57
+6		pysort		72
+6		radixrsort		33
+6		sorter		36
+6		sorting_stack		24
+6		sorts		59
+6		test_sortable		36
+8		sorts		156
+9		bubble_sort		9
+9		bubblesort		11
+9		heap_sort		81
+9		sort_quick		9
+9		sorters		109
+12		sorts		159
+15		sort_heap		12
+15		sort_heap		20
+15		sort_heap		36
+
+
+The best linked code is pysort, and 8 links are found.
