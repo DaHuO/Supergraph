@@ -1,0 +1,109 @@
+import sys 		1
+sys . setrecursionlimit ( 10000 ) 		2
+def read_line ( f ) : 		4
+while True : 		5
+s = f . readline ( ) . strip ( ) 		6
+if s : 		7
+return s 		8
+def read_list ( f ) : 		9
+return [ int ( x ) for x in read_line ( f ) . split ( ) ] 		10
+def read_tuple ( f ) : 		11
+return tuple ( read_list ( f ) ) 		12
+def load_single_case ( f ) : 		14
+return read_tuple ( f ) 		15
+def load_cases ( path ) : 		18
+with open ( path ) as f : 		19
+n = int ( f . readline ( ) ) 		20
+cases = [ ] 		21
+for _ in xrange ( n ) : 		22
+cases . append ( load_single_case ( f ) ) 		23
+return cases 		24
+winp = { "RP" : "P" , "PR" : "P" , 		28
+"SR" : "R" , "RS" : "R" , 		29
+"PS" : "S" , "SP" : "S" } 		30
+def red ( s ) : 		31
+if len ( s ) < 2 : 		32
+return True 		33
+r = "" 		34
+for i in xrange ( len ( s ) / 2 ) : 		35
+if s [ i * 2 ] == s [ i * 2 + 1 ] : 		36
+return False 		37
+r = r + winp [ s [ i * 2 : i * 2 + 2 ] ] 		38
+return red ( r ) 		39
+def check ( s , r ) : 		40
+if len ( r ) == 0 : 		41
+return s if red ( s ) else None 		42
+for i in xrange ( len ( r ) ) : 		43
+ch = check ( s + r [ i ] , r [ : i ] + r [ i + 1 : ] ) 		44
+if ch : 		45
+return ch 		46
+return None 		47
+def solve_bf ( case ) : 		48
+_ , R , P , S = case 		49
+return check ( "" , "P" * P + "R" * R + "S" * S ) 		50
+def get_order ( d ) : 		53
+if d == 0 : 		54
+return "PRS" , None 		55
+else : 		56
+o , _ = get_order ( d - 1 ) 		57
+w = winp [ o [ 0 ] + o [ 1 ] ] + winp [ o [ 0 ] + o [ 2 ] ] + winp [ o [ 1 ] + o [ 2 ] ] 		58
+return w , { w [ 0 ] : o [ 0 ] + o [ 1 ] , w [ 1 ] : o [ 0 ] + o [ 2 ] , w [ 2 ] : o [ 1 ] + o [ 2 ] } 		59
+orders = [ get_order ( d ) for d in range ( 13 ) ] 		60
+def double ( s , o ) : 		61
+_ , oe = orders [ o ] 		62
+r = "" . join ( [ oe [ c ] for c in s ] ) 		63
+return r 		64
+def expand ( c , N ) : 		65
+for o in range ( N , 0 , - 1 ) : 		66
+c = double ( c , o ) 		67
+return c 		68
+def cnt ( s ) : 		70
+return ( s . count ( "R" ) , s . count ( "P" ) , s . count ( "S" ) ) 		71
+expansions = [ dict ( [ ( cnt ( s ) , s ) for s in [ expand ( c , n ) for c in "RPS" ] ] ) for n in range ( 13 ) ] 		72
+def solve ( case ) : 		76
+N , R , P , S = case 		77
+return expansions [ N ] . get ( ( R , P , S ) , None ) 		78
+def outcome_string ( outcome ) : 		84
+return "{}" . format ( outcome ) if outcome else "IMPOSSIBLE" 		85
+def save_outcomes ( path , outcomes ) : 		88
+with open ( path , 'w' ) as f : 		89
+for n , o in enumerate ( outcomes ) : 		90
+f . write ( "Case #{0}: {1}\n" . format ( n + 1 , outcome_string ( o ) ) ) 		91
+def process ( path_in , path_out = None ) : 		92
+if path_out == None : 		93
+path_out = path_in . rsplit ( "." , 1 ) [ 0 ] + ".out" 		94
+cases = load_cases ( path_in ) 		95
+outcomes = [ solve ( c ) for c in cases ] 		96
+save_outcomes ( path_out , outcomes ) 		97
+def verify_outcome ( case , outcome ) : 		107
+return outcome == solve_bf ( case ) 		108
+def test_solutions ( path_in , until_first_fail = True ) : 		110
+cases = load_cases ( path_in ) 		111
+for cn , c in enumerate ( cases ) : 		112
+o = solve ( c ) 		113
+if not verify_outcome ( c , o ) : 		114
+print "Wrong outcome!" 		115
+print "Case #{0}:" . format ( cn ) 		116
+print c 		117
+print "Outcome:" 		118
+print o 		119
+if until_first_fail : 		120
+return c 		121
+else : 		122
+print "\n\n" 		123
+def gen_cases ( ) : 		125
+return [ ] 		127
+def test_solutions_gen ( until_first_fail = True ) : 		129
+cases = gen_cases ( ) 		130
+for cn , c in enumerate ( cases ) : 		131
+o = solve ( c ) 		132
+if not verify_outcome ( c , o ) : 		133
+print "Wrong outcome!" 		134
+print "Case #{0}:" . format ( cn ) 		135
+print c 		136
+print "Outcome:" 		137
+print o 		138
+if until_first_fail : 		139
+return c 		140
+else : 		141
+print "\n\n" 		142

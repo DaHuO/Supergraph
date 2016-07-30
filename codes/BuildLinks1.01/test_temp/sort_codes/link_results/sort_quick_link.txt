@@ -1,0 +1,45 @@
+4		insertion-sort		2
+4		graphsort		1
+4		find_missing_int-quicksort		11
+4		bucketsort		3
+4		bubble_sort1		2
+4		py_bogo_sort		4
+4		pysort		17
+4		quicksort_inplace		1
+4		radixrsort		1
+4		sort		3
+4		sortalg		1
+4		sortingtest		2
+4		sorts		7
+4		sortTest		5
+4		stoogesort		1
+4		test_sortable		1
+4		test_sorts		10
+6		quicksort_first		14
+6		quicksort_last		14
+6		quicksort_median		14
+8		sorter		52
+9		heap_sort		81
+9		bubblesort		11
+9		bubble_sort		9
+9		sort_selection		9
+9		sorters		109
+10		quick_sort		40
+10		quick_sort		66
+10		quick_sort		100
+11		quicksort_last		17
+11		quicksort_first		16
+11		py_merge_sort		31
+11		py_merge_sort		23
+11		quicksort_median		29
+11		quicksort_solved		56
+14		quicksort_first		23
+14		quicksort_last		24
+14		quicksort_median		36
+14		sorting		16
+22		quicksort_first		5
+22		quicksort_last		5
+22		quicksort_median		5
+
+
+The best linked code is quicksort_median, and 4 links are found.

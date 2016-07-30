@@ -1,0 +1,20 @@
+from io import StringIO 		1
+from sys import stdout 		2
+class CodeJam ( object ) : 		4
+def __init__ ( self , processor , debug = False ) : 		5
+self . debug = debug 		6
+self . processor = processor 		7
+def processtext ( self , text ) : 		8
+self . process ( StringIO ( text ) , stdout ) 		9
+def processfile ( self , filename ) : 		10
+with open ( filename ) as fin , 		11
+open ( filename + '.out' , 'w' ) as fout : 		12
+self . process ( fin , fout ) 		13
+def process ( self , fin , fout ) : 		14
+tests = int ( fin . readline ( ) . strip ( ) ) 		15
+if self . debug : 		16
+print ( 'Total {} tests...' . format ( tests ) ) 		17
+for test in range ( tests ) : 		18
+if self . debug : 		19
+print ( '   Processing test {}...' . format ( test ) ) 		20
+print ( 'Case #{}: {}' . format ( test + 1 , self . processor ( fin ) ) , file = fout ) 		21

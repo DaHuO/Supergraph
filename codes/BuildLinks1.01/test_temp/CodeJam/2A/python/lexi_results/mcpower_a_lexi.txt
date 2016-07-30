@@ -1,0 +1,31 @@
+def do_case ( ) : 		1
+n , r , p , s = map ( int , input ( ) . split ( ) ) 		2
+if max ( abs ( p - r ) , abs ( r - s ) , abs ( s - p ) ) > 1 : 		9
+return "IMPOSSIBLE" 		10
+return recurse ( n , p , r , s ) 		11
+def recurse ( n , p , r , s ) : 		15
+arr = [ p , r , s ] 		23
+if n == 1 : 		24
+if p and r : 		25
+return "PR" 		26
+if r and s : 		27
+return "RS" 		28
+if p and s : 		29
+return "PS" 		30
+if arr . count ( min ( arr ) ) == 2 : 		31
+big = max ( arr ) // 2 		35
+out = "" 		36
+for i in reversed ( range ( 3 ) ) : 		37
+if arr [ i ] == min ( arr ) : 		38
+out += recurse ( n - 1 , * [ big if j != i else big - 1 for j in range ( 3 ) ] ) 		39
+return out 		40
+else : 		41
+small = min ( arr ) / 2 		44
+out = "" 		45
+for i in range ( 3 ) : 		46
+if arr [ i ] == max ( arr ) : 		47
+out += recurse ( n - 1 , * [ small if j != i else small + 1 for j in range ( 3 ) ] ) 		48
+return out 		49
+t = int ( input ( ) ) 		52
+for case in range ( t ) : 		54
+print ( "Case #{}:" . format ( case + 1 ) , do_case ( ) ) 		55

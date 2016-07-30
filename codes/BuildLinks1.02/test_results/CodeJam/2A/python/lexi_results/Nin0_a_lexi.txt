@@ -1,0 +1,37 @@
+import sys 		3
+looser = { 		6
+'R' : 'S' , 		7
+'S' : 'P' , 		8
+'P' : 'R' , 		9
+} 		10
+def find_sol ( winner , n ) : 		12
+if n == 0 : 		13
+return winner 		14
+a = find_sol ( winner , n - 1 ) 		15
+b = find_sol ( looser [ winner ] , n - 1 ) 		16
+if a > b : 		17
+a , b = b , a 		18
+return a + b 		19
+def count ( niz ) : 		21
+r , p , s = 0 , 0 , 0 		22
+for x in niz : 		23
+if x == 'R' : 		24
+r += 1 		25
+elif x == 'P' : 		26
+p += 1 		27
+else : 		28
+s += 1 		29
+return ( r , p , s ) 		30
+sol = dict ( ) 		32
+for i in range ( 1 , 12 + 1 ) : 		35
+r = find_sol ( 'R' , i ) 		36
+s = find_sol ( 'S' , i ) 		37
+p = find_sol ( 'P' , i ) 		38
+sol [ i ] = { count ( r ) : r , count ( p ) : p , count ( s ) : s } 		39
+t = int ( sys . stdin . readline ( ) ) 		41
+for testCase in range ( 1 , t + 1 ) : 		42
+n , r , p , s = [ int ( x ) for x in sys . stdin . readline ( ) . split ( ) ] 		43
+if ( r , p , s ) in sol [ n ] : 		44
+print ( 'Case #{0}: {1}' . format ( testCase , sol [ n ] [ ( r , p , s ) ] ) ) 		45
+else : 		46
+print ( 'Case #{0}: IMPOSSIBLE' . format ( testCase ) ) 		47

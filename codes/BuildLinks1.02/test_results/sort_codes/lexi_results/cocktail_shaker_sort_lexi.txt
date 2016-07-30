@@ -1,0 +1,97 @@
+from count_time import count_time_debug , count_time 		11
+@ count_time 		14
+def cocktail_shaker_sort ( data ) : 		15
+length = len ( data ) 		26
+left , right = 0 , length - 1 		28
+while left < right : 		30
+swapped = False 		31
+for i in range ( left , right ) : 		32
+if data [ i ] < data [ i + 1 ] : 		33
+data [ i ] , data [ i + 1 ] = data [ i + 1 ] , data [ i ] 		34
+swapped = True 		35
+right -= 1 		36
+if not swapped : break 		37
+for i in range ( right , left , - 1 ) : 		38
+if data [ i - 1 ] < data [ i ] : 		39
+data [ i ] , data [ i - 1 ] = data [ i - 1 ] , data [ i ] 		40
+swapped = True 		41
+left += 1 		42
+if not swapped : break 		43
+return data 		45
+@ count_time 		48
+def cocktail_shaker_sort_reverse ( data , reverse = False ) : 		49
+length = len ( data ) 		62
+left , right = 0 , length - 1 		64
+swapped = True 		65
+while swapped : 		67
+swapped = False 		68
+for i in range ( left , right ) : 		69
+if data [ i ] < data [ i + 1 ] : 		70
+if reverse : continue 		71
+data [ i ] , data [ i + 1 ] = data [ i + 1 ] , data [ i ] 		72
+swapped = True 		73
+elif reverse : 		74
+data [ i ] , data [ i + 1 ] = data [ i + 1 ] , data [ i ] 		75
+swapped = True 		76
+right -= 1 		77
+for i in range ( right , left , - 1 ) : 		79
+if data [ i - 1 ] < data [ i ] : 		80
+if reverse : continue 		81
+data [ i ] , data [ i - 1 ] = data [ i - 1 ] , data [ i ] 		82
+swapped = True 		83
+elif reverse : 		84
+data [ i ] , data [ i - 1 ] = data [ i - 1 ] , data [ i ] 		85
+swapped = True 		86
+left += 1 		87
+return data 		89
+@ count_time_debug 		92
+def cocktail_shaker_sort_debug ( data , reverse = False , print_step = False ) : 		93
+length = len ( data ) 		106
+left , right = 0 , length - 1 		108
+swapped = True 		109
+steps = 0 		111
+comps = 0 		112
+swaps = 0 		113
+while swapped : 		115
+swapped = False 		116
+for i in range ( left , right ) : 		117
+steps += 1 		118
+comps += 1 		119
+if data [ i ] < data [ i + 1 ] : 		120
+if reverse : continue 		121
+data [ i ] , data [ i + 1 ] = data [ i + 1 ] , data [ i ] 		122
+swapped = True 		123
+swaps += 1 		124
+if print_step : print ( data ) 		125
+elif reverse : 		126
+data [ i ] , data [ i + 1 ] = data [ i + 1 ] , data [ i ] 		127
+swapped = True 		128
+swaps += 1 		129
+if print_step : print ( data ) 		130
+right -= 1 		132
+if not swapped : break 		133
+for i in range ( right , left , - 1 ) : 		135
+steps += 1 		136
+comps += 1 		138
+if data [ i - 1 ] < data [ i ] : 		139
+if reverse : continue 		140
+data [ i ] , data [ i - 1 ] = data [ i - 1 ] , data [ i ] 		141
+swapped = True 		142
+swaps += 1 		143
+if print_step : print ( data ) 		144
+elif reverse : 		145
+data [ i ] , data [ i - 1 ] = data [ i - 1 ] , data [ i ] 		146
+swapped = True 		147
+swaps += 1 		148
+if print_step : print ( data ) 		149
+left += 1 		151
+print ( "输入长度:" , length , 		153
+"循环次数:" , steps , 		154
+"比较次数:" , comps , 		155
+"操作次数:" , swaps ) 		156
+return data 		158
+if __name__ == "__main__" : 		176
+print ( "鸡尾酒排序法::输入数组进行测试" ) 		177
+while True : 		178
+inp = input ( ) 		179
+print ( cocktail_shaker_sort_debug ( eval ( inp ) , print_step = True ) ) 		180

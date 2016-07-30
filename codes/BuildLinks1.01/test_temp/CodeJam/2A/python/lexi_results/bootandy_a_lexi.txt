@@ -1,0 +1,49 @@
+import itertools 		2
+def winner ( a , b ) : 		4
+if a == 'r' and b == 'p' : 		5
+return b 		6
+elif a == 'r' and b == 's' : 		7
+return a 		8
+elif a == 'p' and b == 's' : 		9
+return b 		10
+elif a == 'p' and b == 'r' : 		11
+return a 		12
+elif a == 's' and b == 'p' : 		13
+return a 		14
+elif a == 's' and b == 'r' : 		15
+return b 		16
+return None 		17
+def run_game ( chars ) : 		19
+old_array = chars 		20
+new_array = [ ] 		21
+while len ( old_array ) != 1 : 		22
+for i in range ( 0 , len ( old_array ) , 2 ) : 		23
+na = winner ( old_array [ i ] , old_array [ i + 1 ] ) 		24
+if not na : 		25
+return None 		26
+else : 		27
+new_array . append ( na ) 		28
+old_array = new_array 		29
+new_array = [ ] 		30
+return chars 		32
+def solve ( r , p , s ) : 		35
+pos = [ ] 		36
+for i in range ( 0 , r ) : 		37
+pos . append ( 'r' ) 		38
+for i in range ( 0 , p ) : 		39
+pos . append ( 'p' ) 		40
+for i in range ( 0 , s ) : 		41
+pos . append ( 's' ) 		42
+options = list ( itertools . permutations ( pos , len ( pos ) ) ) 		43
+options . sort ( ) 		44
+for o in options : 		46
+if run_game ( o ) : 		47
+return '' . join ( o ) 		48
+return 'IMPOSSIBLE' 		49
+with open ( 'A-small-attempt0.in' ) as f : 		54
+T = int ( f . readline ( ) ) 		56
+for puzzle_count in range ( T ) : 		58
+words = f . readline ( ) . strip ( ) 		59
+n , r , p , s = map ( int , words . split ( ' ' ) ) 		60
+ans = solve ( r , p , s ) 		62
+print ( 'Case #%s: %s' % ( str ( puzzle_count + 1 ) , ans . upper ( ) ) ) 		64

@@ -1,0 +1,53 @@
+class Gamer : 		2
+def __init__ ( self , letter , count ) : 		3
+self . letter = letter 		4
+self . count = count 		5
+def __str__ ( self ) : 		7
+return "Gamer({0}, {1})" . format ( self . letter , self . count ) 		8
+def fight ( la , lb ) : 		10
+if la == 'R' and lb == 'S' : return 'R' 		11
+if la == 'R' and lb == 'P' : return 'P' 		12
+if la == 'P' and lb == 'S' : return 'S' 		13
+if la == 'P' and lb == 'R' : return 'P' 		14
+if la == 'S' and lb == 'P' : return 'S' 		15
+if la == 'S' and lb == 'R' : return 'R' 		16
+def get_letters ( depth , letter ) : 		19
+if ( depth == 0 ) : return letter 		20
+if letter == 'R' : 		22
+left = get_letters ( depth - 1 , 'R' ) 		23
+right = get_letters ( depth - 1 , 'S' ) 		24
+if letter == 'S' : 		25
+left = get_letters ( depth - 1 , 'S' ) 		26
+right = get_letters ( depth - 1 , 'P' ) 		27
+if letter == 'P' : 		28
+left = get_letters ( depth - 1 , 'P' ) 		29
+right = get_letters ( depth - 1 , 'R' ) 		30
+if left > right : 		31
+return right + left 		32
+return left + right 		33
+T = int ( input ( ) ) 		36
+for t in range ( T ) : 		38
+N , R , P , S = list ( map ( int , input ( ) . split ( ) ) ) 		39
+RG = Gamer ( 'R' , R ) 		40
+PG = Gamer ( 'P' , P ) 		41
+SG = Gamer ( 'S' , S ) 		42
+answer = True 		43
+result = "" 		44
+while RG . count + PG . count + SG . count > 1 and answer : 		45
+srt = sorted ( [ RG , PG , SG ] , key = lambda x : x . count ) 		46
+if srt [ 2 ] . count > srt [ 0 ] . count + srt [ 1 ] . count : 		47
+answer = False 		48
+break 		49
+lowersum = srt [ 0 ] . count + srt [ 1 ] . count 		50
+lowpairs = abs ( srt [ 2 ] . count - lowersum ) / 2 		51
+RG = Gamer ( fight ( srt [ 0 ] . letter , srt [ 1 ] . letter ) , lowpairs ) 		52
+PG = Gamer ( fight ( srt [ 0 ] . letter , srt [ 2 ] . letter ) , srt [ 0 ] . count - lowpairs ) 		53
+SG = Gamer ( fight ( srt [ 1 ] . letter , srt [ 2 ] . letter ) , srt [ 1 ] . count - lowpairs ) 		54
+if not answer : 		56
+result = "IMPOSSIBLE" 		57
+else : 		58
+if RG . count > 0 : winner = RG 		59
+if PG . count > 0 : winner = PG 		60
+if SG . count > 0 : winner = SG 		61
+result = get_letters ( N , winner . letter ) 		62
+print ( "Case #{0}: {1}" . format ( t + 1 , result ) ) 		64

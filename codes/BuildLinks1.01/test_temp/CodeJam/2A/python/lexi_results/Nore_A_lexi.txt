@@ -1,0 +1,47 @@
+def memoize ( f ) : 		1
+d = { } 		2
+def wrap ( * a ) : 		3
+if a in d : 		4
+return d [ a ] 		5
+d [ a ] = f ( * a ) 		6
+return d [ a ] 		7
+return wrap 		8
+def solve ( r , p , s , priorities ) : 		10
+n = r + p + s 		11
+if n == 1 : 		12
+if r == 1 : 		13
+return [ 0 ] 		14
+elif p == 1 : 		15
+return [ 1 ] 		16
+elif s == 1 : 		17
+return [ 2 ] 		18
+assert False 		19
+assert n % 2 == 0 		20
+if r + p < s or r + s < p or s + p < r : 		21
+return None 		22
+low = r + p - s 		23
+if low % 2 != 0 : 		24
+return None 		25
+a = low // 2 		26
+w = list ( map ( lambda r : sorted ( r , key = lambda u : priorities [ u ] ) , [ [ 0 , 2 ] , [ 1 , 0 ] , [ 1 , 2 ] ] ) ) 		27
+rr = [ ( list ( map ( lambda u : priorities [ u ] , z ) ) , i ) for ( i , z ) in enumerate ( w ) ] 		28
+rr . sort ( ) 		29
+nn = [ i for z , i in rr ] 		30
+nprio = sorted ( [ 0 , 1 , 2 ] , key = lambda u : nn [ u ] ) 		31
+l = solve ( r - a , a , p - a , nprio ) 		32
+if l == None : 		33
+return None 		34
+ll = [ ] 		35
+for x in l : 		36
+ll += w [ x ] 		37
+return ll 		38
+def print_solution ( l ) : 		40
+if l == None : 		41
+print ( "IMPOSSIBLE" ) 		42
+return 		43
+print ( "" . join ( "RPS" [ x ] for x in l ) ) 		44
+t = int ( input ( ) ) 		46
+for i in range ( t ) : 		47
+print ( "Case #%s:" % ( i + 1 ) , end = " " ) 		48
+_ , r , p , s = map ( int , input ( ) . split ( ) ) 		49
+print_solution ( solve ( r , p , s , [ 1 , 0 , 2 ] ) ) 		50

@@ -1,0 +1,44 @@
+from types import * 		1
+seq = [ "PR" , "P" , "PS" , "S" , "RS" , "R" ] 		3
+def getplayers ( x ) : 		5
+if type ( x ) == StringType : 		6
+return x 		7
+res = "" 		8
+for y in x : 		9
+res += getplayers ( y ) 		10
+return res 		11
+t = input ( ) 		13
+for j in xrange ( t ) : 		14
+n , r , p , s = map ( int , raw_input ( ) . strip ( ) . split ( ) ) 		15
+mx = max ( ( r , p , s ) ) 		16
+mn = min ( ( r , p , s ) ) 		17
+if mx - mn > 1 : 		18
+print "Case #" + str ( j + 1 ) + ": IMPOSSIBLE" 		19
+continue 		20
+more = "" 		22
+if p == mx : 		23
+more += "P" 		24
+if r == mx : 		25
+more += "R" 		26
+if s == mx : 		27
+more += "S" 		28
+pos = seq . index ( more ) 		30
+winner = seq [ ( pos + n ) % 6 ] 		31
+tree = [ winner ] 		33
+contests = [ [ tree ] ] 		34
+for rnd in xrange ( n ) : 		35
+contests . append ( [ ] ) 		36
+for contest in contests [ - 2 ] : 		37
+for player in xrange ( len ( contest ) ) : 		38
+if contest [ player ] == "P" : 		39
+contest [ player ] = [ "P" , "R" ] 		40
+elif contest [ player ] == "R" : 		41
+contest [ player ] = [ "R" , "S" ] 		42
+else : 		43
+contest [ player ] = [ "P" , "S" ] 		44
+contests [ - 1 ] . append ( contest [ player ] ) 		45
+for jj in xrange ( len ( contests ) - 1 , - 1 , - 1 ) : 		47
+for contest in contests [ jj ] : 		48
+contest . sort ( ) 		49
+res = getplayers ( tree ) 		51
+print "Case #" + str ( j + 1 ) + ": " + res 		52

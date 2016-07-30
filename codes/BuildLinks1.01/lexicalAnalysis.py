@@ -8,8 +8,11 @@ import string
 import collections
 
 class lexicalanalysis():
-	def __init__(self, test_input_folder, test_input_file):
-		file_in = open('test_input/' + test_input_folder + '/' + test_input_file, 'r')
+	def __init__(self, test_input_folder, test_input_file, ifAdd):
+		if ifAdd:
+			file_in = open(test_input_file, 'r')
+		else:
+			file_in = open('test_input/' + test_input_folder + '/' + test_input_file, 'r')
 		self.test_input_folder = test_input_folder
 		self.test_input_file = test_input_file
 		self.main(file_in)
@@ -77,7 +80,7 @@ class lexicalanalysis():
 		file_in.close()
 		# for line in record:
 		# 	print line
-		file_out = open('test_temp/lexi_results/' + self.test_input_file[:-3] + '_lexi.txt', 'w')
+		file_out = open('test_temp/' + self.test_input_folder + '/lexi_results/' + self.test_input_file[:-3] + '_lexi.txt', 'w')
 		for line in collections.OrderedDict(sorted(record.items())):
 			output = ''
 			for part in record[line]:

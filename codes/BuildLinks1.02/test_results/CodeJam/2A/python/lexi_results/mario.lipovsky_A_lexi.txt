@@ -1,0 +1,62 @@
+before = [ [ 0 , 2 ] , [ 0 , 1 ] , [ 2 , 1 ] ] 		2
+def new_seq ( seq ) : 		4
+res = [ ] 		5
+for c in seq : 		6
+res . extend ( before [ c ] ) 		7
+return res 		8
+def final_seq ( n ) : 		10
+res = [ 0 ] 		11
+for i in range ( n ) : 		12
+res = new_seq ( res ) 		13
+return res 		14
+def counts ( seq ) : 		16
+res = [ 0 , 0 , 0 ] 		17
+for c in seq : 		18
+res [ c ] += 1 		19
+return res 		20
+def char_seq ( seq , chars ) : 		22
+res = [ ] 		23
+for c in seq : 		24
+res . append ( chars [ c ] ) 		25
+return res 		26
+def sort_seq ( seq ) : 		28
+if len ( seq ) == 1 : 		29
+return seq 		30
+l = len ( seq ) // 2 		32
+a , b = sort_seq ( seq [ : l ] ) , sort_seq ( seq [ l : ] ) 		34
+if a < b : 		36
+return a + b 		37
+return b + a 		38
+def winner ( a , b ) : 		40
+if a == b : 		41
+raise Exception 		42
+if [ a , b ] == [ 'P' , 'S' ] or [ a , b ] == [ 'S' , 'P' ] : 		43
+return 'S' 		44
+return min ( a , b ) 		45
+def check ( seq ) : 		47
+res = seq 		48
+while ( len ( res ) > 1 ) : 		50
+nres = [ ] 		51
+for i in range ( len ( res ) // 2 ) : 		52
+nres . append ( winner ( res [ 2 * i ] , res [ 2 * i + 1 ] ) ) 		53
+res = nres 		54
+def solve ( ) : 		57
+n , r , p , s = map ( int , input ( ) . split ( ) ) 		58
+seq = final_seq ( n ) 		60
+cou = counts ( seq ) 		61
+chseq = [ ] 		63
+if [ p , r , s ] == cou : 		64
+chseq . append ( char_seq ( seq , [ 'P' , 'R' , 'S' ] ) ) 		65
+if [ r , s , p ] == cou : 		66
+chseq . append ( char_seq ( seq , [ 'R' , 'S' , 'P' ] ) ) 		67
+if [ s , p , r ] == cou : 		68
+chseq . append ( char_seq ( seq , [ 'S' , 'P' , 'R' ] ) ) 		69
+if len ( chseq ) == 0 : 		71
+return "IMPOSSIBLE" 		72
+chseq = map ( sort_seq , chseq ) 		74
+res = "" . join ( min ( chseq ) ) 		76
+check ( res ) 		78
+return res 		79
+T = int ( input ( ) ) 		81
+for t in range ( T ) : 		82
+print ( "Case #{}: {}" . format ( t + 1 , solve ( ) ) ) 		83

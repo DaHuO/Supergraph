@@ -1,0 +1,65 @@
+PIVOT_FIRST = 1 		1
+PIVOT_FINAL = 2 		2
+PIVOT_MEDIAN = 3 		3
+comparisons = 0 		5
+def swap ( ar , i , j ) : 		8
+t = ar [ i ] 		9
+ar [ i ] = ar [ j ] 		10
+ar [ j ] = t 		11
+def is_median ( ar , i , j , k ) : 		14
+return ( ar [ i ] < ar [ j ] and ar [ i ] > ar [ k ] ) or 		19
+( ar [ i ] > ar [ j ] and ar [ i ] < ar [ k ] ) 		20
+def _quickSort ( ar , l , r , pivot ) : 		23
+global comparisons 		25
+if l >= r : 		28
+return 		29
+p = 0 		32
+if pivot == PIVOT_FIRST : 		33
+p = ar [ l ] 		34
+elif pivot == PIVOT_FINAL : 		35
+p = ar [ r ] 		36
+swap ( ar , l , r ) 		37
+elif pivot == PIVOT_MEDIAN : 		38
+m = l + ( ( r - l ) >> 1 ) 		39
+if is_median ( ar , l , m , r ) : 		41
+p = ar [ l ] 		42
+elif is_median ( ar , m , l , r ) : 		43
+p = ar [ m ] 		44
+swap ( ar , l , m ) 		45
+else : 		46
+p = ar [ r ] 		47
+swap ( ar , l , r ) 		48
+comparisons += ( r - l ) 		51
+i = l + 1 		56
+for j in range ( l + 1 , r + 1 ) : 		57
+if ar [ j ] < p : 		58
+swap ( ar , i , j ) 		59
+i += 1 		60
+swap ( ar , l , i - 1 ) 		61
+_quickSort ( ar , l , i - 2 , pivot ) 		64
+_quickSort ( ar , i , r , pivot ) 		65
+def quickSort ( ar , pivot ) : 		69
+_quickSort ( ar , 0 , len ( ar ) - 1 , pivot ) 		77
+def main ( ) : 		81
+global comparisons 		83
+input_array = [ 1 , 3 , 5 , 2 , 4 , 6 ] 		86
+quickSort ( input_array , PIVOT_FIRST ) 		87
+print ( input_array ) 		88
+f = open ( 'QuickSort.txt' , 'r' ) 		91
+lst = [ ] 		92
+for line in f . readlines ( ) : 		95
+lst . append ( int ( line ) ) 		96
+input_array = lst [ : ] 		100
+comparisons = 0 		101
+quickSort ( input_array , PIVOT_FIRST ) 		102
+print ( comparisons ) 		103
+input_array = lst [ : ] 		106
+comparisons = 0 		107
+quickSort ( input_array , PIVOT_FINAL ) 		108
+print ( comparisons ) 		109
+input_array = lst [ : ] 		112
+comparisons = 0 		113
+quickSort ( input_array , PIVOT_MEDIAN ) 		114
+print ( comparisons ) 		115
+if __name__ == '__main__' : 		118
+main ( ) 		119

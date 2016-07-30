@@ -1,0 +1,51 @@
+import math 		1
+import random 		2
+def generate ( string , r , p , s ) : 		4
+gotOne = False 		6
+origString = string [ : ] 		7
+if r + p + s == 0 : 		8
+while len ( string ) > 1 : 		9
+newString = "" 		10
+for i in range ( 0 , len ( string ) , 2 ) : 		11
+if string [ i : i + 2 ] == "PR" or string [ i : i + 2 ] == "SP" or string [ i : i + 2 ] == "RS" : 		12
+newString += string [ i ] 		13
+elif string [ i : i + 2 ] == "RP" or string [ i : i + 2 ] == "PS" or string [ i : i + 2 ] == "SR" : 		14
+newString += string [ i + 1 ] 		15
+else : 		16
+return False 		17
+string = newString 		19
+return origString 		20
+if p : 		22
+gotOne = generate ( string + "P" , r , p - 1 , s ) 		23
+if gotOne : 		24
+return gotOne 		25
+if r : 		27
+gotOne = generate ( string + "R" , r - 1 , p , s ) 		28
+if gotOne : 		29
+return gotOne 		30
+if s : 		32
+gotOne = generate ( string + "S" , r , p , s - 1 ) 		33
+return gotOne 		35
+def solve ( n , r , p , s ) : 		38
+a = generate ( "" , r , p , s ) 		40
+if a : 		41
+return a 		42
+else : 		43
+return "IMPOSSIBLE" 		44
+name = "A-small-attempt0" 		48
+fi = open ( name + ".in" , "r" ) 		49
+fout = open ( name + ".out" , "w" ) 		51
+numTestCases = int ( fi . readline ( ) ) 		53
+print "#TestCases: " , numTestCases 		54
+for i in range ( 0 , numTestCases ) : 		56
+line = fi . readline ( ) . strip ( ) . split ( " " ) 		57
+line = map ( int , line ) 		58
+n = line [ 0 ] 		59
+r = line [ 1 ] 		60
+p = line [ 2 ] 		61
+s = line [ 3 ] 		62
+result = str ( solve ( n , r , p , s ) ) 		64
+fout . write ( "Case #" + str ( i + 1 ) + ": " + result + "\n" ) 		65
+print "Case #" + str ( i + 1 ) + ": " + result 		66
+fi . close ( ) 		68
+fout . close ( ) 		69

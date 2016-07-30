@@ -1,0 +1,30 @@
+import sys 		4
+import os 		5
+B = "PRS" 		7
+T = [ [ 0 , 1 ] , [ 1 , 2 ] , [ 2 , 0 ] ] 		9
+def build ( v , n ) : 		11
+if n == 0 : 		12
+return [ v ] 		13
+n -= 1 		14
+ret = [ build ( T [ v ] [ 0 ] , n ) , build ( T [ v ] [ 1 ] , n ) ] 		15
+ret . sort ( ) 		16
+return ret [ 0 ] + ret [ 1 ] 		17
+def solve ( N , R , P , S ) : 		19
+ret = [ ] 		20
+for t in "RPS" : 		21
+r = build ( B . index ( t ) , N ) 		22
+r = "" . join ( B [ x ] for x in r ) 		23
+if r . count ( "P" ) == P and r . count ( "R" ) == R and r . count ( "S" ) == S : 		24
+ret . append ( r ) 		25
+ret . sort ( ) 		26
+if ret : 		27
+return ret [ 0 ] 		28
+else : 		29
+return "IMPOSSIBLE" 		30
+def main ( ) : 		33
+T = int ( sys . stdin . readline ( ) ) 		34
+for t in xrange ( 1 , T + 1 ) : 		35
+N , R , P , S = map ( int , sys . stdin . readline ( ) . split ( ) ) 		36
+print "Case #%s: %s" % ( t , solve ( N , R , P , S ) ) 		37
+if __name__ == '__main__' : 		39
+main ( ) 		40

@@ -1,0 +1,29 @@
+import itertools 		1
+import sys 		2
+def verify_result ( result ) : 		5
+if len ( result ) == 1 : 		6
+return True 		7
+next_result = [ ] 		9
+for x in xrange ( 0 , len ( result ) , 2 ) : 		11
+a , b = result [ x : x + 2 ] 		12
+if a == b : 		13
+return False 		14
+if ( a == 'P' and b == 'R' ) or ( a == 'R' and b == 'P' ) : 		15
+next_result . append ( 'P' ) 		16
+elif ( a == 'P' and b == 'S' ) or ( a == 'S' and b == 'P' ) : 		17
+next_result . append ( 'S' ) 		18
+elif ( a == 'S' and b == 'R' ) or ( a == 'R' and b == 'S' ) : 		19
+next_result . append ( 'R' ) 		20
+return verify_result ( next_result ) 		21
+def solve ( n , r , p , s ) : 		25
+possible_results = [ ] 		26
+for result in itertools . permutations ( list ( 'R' * r + 'P' * p + 'S' * s ) , 2 ** n ) : 		28
+if verify_result ( result ) : 		29
+possible_results . append ( result ) 		30
+if len ( possible_results ) == 0 : 		32
+return "IMPOSSIBLE" 		33
+possible_results . sort ( ) 		35
+return "" . join ( possible_results [ 0 ] ) 		36
+for i in xrange ( int ( raw_input ( ) ) ) : 		39
+n , r , p , s = ( int ( x ) for x in raw_input ( ) . split ( " " ) ) 		40
+print "Case #{}: {}" . format ( i + 1 , solve ( n , r , p , s ) ) 		41

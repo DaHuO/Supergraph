@@ -1,0 +1,71 @@
+f = open ( 'large1.in' ) 		1
+T = int ( f . readline ( ) . strip ( ) ) 		2
+wins = { 'R' : 'RS' , 'S' : 'PS' , 'P' : 'PR' } 		5
+for k in range ( T ) : 		7
+test = f . readline ( ) . split ( ) 		8
+N = int ( test [ 0 ] ) 		9
+R = int ( test [ 1 ] ) 		10
+P = int ( test [ 2 ] ) 		11
+S = int ( test [ 3 ] ) 		12
+total = 2 ** N 		14
+each = total / 3 		15
+if R < each or R > each + 1 : 		16
+print "Case #%d: IMPOSSIBLE" % ( k + 1 ) 		17
+continue 		18
+if P < each or P > each + 1 : 		19
+print "Case #%d: IMPOSSIBLE" % ( k + 1 ) 		20
+continue 		21
+if S < each or S > each + 1 : 		22
+print "Case #%d: IMPOSSIBLE" % ( k + 1 ) 		23
+continue 		24
+Rwin = R 		25
+Rwins = [ 'R' ] * R 		26
+Pwin = P 		27
+Pwins = [ 'P' ] * P 		28
+Swin = S 		29
+Swins = [ 'S' ] * S 		30
+while ( total > 1 ) : 		31
+if ( Rwin % 2 == 0 ) : 		32
+even = 'R' 		33
+Rwin = Rwin / 2 		34
+Swin = Swin - Rwin 		35
+Pwin = Pwin - Swin 		36
+elif ( Swin % 2 == 0 ) : 		37
+even = 'S' 		38
+Swin = Swin / 2 		39
+Pwin = Pwin - Swin 		40
+Rwin = Rwin - Pwin 		41
+elif ( Pwin % 2 == 0 ) : 		42
+even = 'P' 		43
+Pwin = Pwin / 2 		44
+Rwin = Rwin - Pwin 		45
+Swin = Swin - Rwin 		46
+Pwintemp = [ ] 		47
+Rwintemp = [ ] 		48
+Swintemp = [ ] 		49
+for i in range ( Pwin ) : 		50
+if Pwins [ 0 ] < Rwins [ 0 ] : 		51
+Pwintemp . append ( Pwins [ 0 ] + Rwins [ 0 ] ) 		52
+else : 		53
+Pwintemp . append ( Rwins [ 0 ] + Pwins [ 0 ] ) 		54
+for i in range ( Rwin ) : 		55
+if Rwins [ 0 ] < Swins [ 0 ] : 		56
+Rwintemp . append ( Rwins [ 0 ] + Swins [ 0 ] ) 		57
+else : 		58
+Rwintemp . append ( Swins [ 0 ] + Rwins [ 0 ] ) 		59
+for i in range ( Swin ) : 		60
+if Pwins [ 0 ] < Swins [ 0 ] : 		61
+Swintemp . append ( Pwins [ 0 ] + Swins [ 0 ] ) 		62
+else : 		63
+Swintemp . append ( Swins [ 0 ] + Pwins [ 0 ] ) 		64
+Pwins = Pwintemp 		65
+Rwins = Rwintemp 		66
+Swins = Swintemp 		67
+total = total / 2 		68
+if Swin == 1 : 		69
+winner = Swins [ 0 ] 		70
+elif Rwin == 1 : 		71
+winner = Rwins [ 0 ] 		72
+elif Pwin == 1 : 		73
+winner = Pwins [ 0 ] 		74
+print "Case #%d: %s" % ( k + 1 , winner ) 		81

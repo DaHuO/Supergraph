@@ -1,0 +1,46 @@
+import sys 		1
+def _cc ( ) : 		3
+for line in sys . stdin : 		4
+for x in line . strip ( ) . split ( ) : 		5
+yield x 		6
+_cin = _cc ( ) 		8
+cin = _cin . next 		9
+OTHER = { 		11
+'R' : 'S' , 		12
+'S' : 'P' , 		13
+'P' : 'R' 		14
+} 		15
+memo = { } 		17
+def make_tree ( ch , levels ) : 		18
+if levels == 0 : 		19
+return ch 		20
+ky = ( ch , levels ) 		21
+if ky in memo : 		22
+return memo [ ky ] 		23
+tree1 = make_tree ( ch , levels - 1 ) 		24
+tree2 = make_tree ( OTHER [ ch ] , levels - 1 ) 		25
+if tree1 < tree2 : 		26
+ret = tree1 + tree2 		27
+else : 		28
+ret = tree2 + tree1 		29
+memo [ ky ] = ret 		30
+return ret 		31
+def solve ( N , R , P , S ) : 		33
+out = None 		34
+for ch in 'RPS' : 		35
+mytree = make_tree ( ch , N ) 		36
+cts = { 'R' : 0 , 'P' : 0 , 'S' : 0 } 		37
+for cc in mytree : 		38
+cts [ cc ] += 1 		39
+if cts [ 'R' ] == R and cts [ 'P' ] == P and cts [ 'S' ] == S : 		40
+if out is None : 		41
+out = mytree 		42
+else : 		43
+out = min ( out , mytree ) 		44
+if out is None : 		45
+out = "IMPOSSIBLE" 		46
+return out 		47
+T = int ( cin ( ) ) 		50
+for cn in xrange ( 1 , T + 1 ) : 		51
+N , R , P , S = [ int ( cin ( ) ) for t in xrange ( 4 ) ] 		52
+print "Case #%d: %s" % ( cn , solve ( N , R , P , S ) ) 		53

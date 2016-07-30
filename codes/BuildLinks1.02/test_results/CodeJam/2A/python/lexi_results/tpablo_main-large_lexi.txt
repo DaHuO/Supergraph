@@ -1,0 +1,182 @@
+import sys , os 		4
+import argparse 		5
+import time 		6
+import re 		7
+import math 		8
+import random 		9
+import itertools 		10
+import numpy as np 		11
+import pickle 		12
+import subprocess as sp 		13
+import multiprocessing as mp 		14
+class Reader ( object ) : 		17
+endOfWord = re . compile ( '\s|$' ) 		18
+def __init__ ( self , handle ) : 		20
+self . handle = handle 		21
+self . buf = '' 		22
+def ok ( self ) : 		24
+return bool ( self . handle ) 		25
+def getLine ( self ) : 		27
+if self . buf : return self . buf 		28
+if self . handle : return self . handle . readline ( ) [ : - 1 ] 		29
+return '' 		30
+def get ( self , t = str ) : 		32
+return t ( self . getWord ( ) ) 		33
+def getWord ( self ) : 		35
+while self . handle and ( not self . buf ) : self . buf = self . handle . readline ( ) . strip ( ) 		36
+if ( not self . handle ) and ( not self . buf ) : return '' 		37
+p = re . search ( self . endOfWord , self . buf ) . start ( ) 		38
+word = self . buf [ : p ] 		39
+self . buf = self . buf [ p : ] . lstrip ( ) 		40
+return word 		41
+class Test ( object ) : 		44
+def __init__ ( self , case ) : 		45
+self . case = case 		46
+def read ( self , reader ) : 		48
+self . N , self . R , self . P , self . S = [ reader . get ( int ) for _ in range ( 4 ) ] 		49
+def win ( self , l , r ) : 		51
+if l == 'P' and r == 'R' : return 'P' 		52
+if l == 'P' and r == 'S' : return 'S' 		53
+if l == 'R' and r == 'P' : return 'P' 		54
+if l == 'R' and r == 'S' : return 'R' 		55
+if l == 'S' and r == 'P' : return 'S' 		56
+if l == 'S' and r == 'R' : return 'R' 		57
+def ok ( self , a ) : 		59
+if len ( a ) <= 1 : return True 		60
+b = [ ] 		61
+for i in range ( len ( a ) // 2 ) : 		62
+l , r = a [ 2 * i ] , a [ 2 * i + 1 ] 		63
+if l == r : return False 		64
+b . append ( self . win ( l , r ) ) 		65
+return self . ok ( b ) 		66
+def makeRow ( self , W , N ) : 		68
+if N == 0 : 		69
+return [ W [ 2 ] [ 1 ] ] 		70
+Wc = [ w [ 0 ] for w in W ] 		71
+if N % 2 == 0 : 		72
+t = len ( W ) // 3 		73
+h = ( t + 1 ) // 2 		75
+WW = [ 		76
+( h - 1 , self . win ( W [ 0 ] [ 1 ] , W [ 1 ] [ 1 ] ) ) , 		77
+( h , self . win ( W [ 0 ] [ 1 ] , W [ 2 ] [ 1 ] ) ) , 		78
+( h , self . win ( W [ 1 ] [ 1 ] , W [ 2 ] [ 1 ] ) ) 		79
+] 		80
+nr = self . makeRow ( WW , N - 1 ) 		81
+else : 		82
+t = len ( W ) // 3 		83
+h = t // 2 		85
+WW = [ 		86
+( h , self . win ( W [ 0 ] [ 1 ] , W [ 1 ] [ 1 ] ) ) , 		87
+( h , self . win ( W [ 0 ] [ 1 ] , W [ 2 ] [ 1 ] ) ) , 		88
+( h + 1 , self . win ( W [ 1 ] [ 1 ] , W [ 2 ] [ 1 ] ) ) 		89
+] 		90
+nr = self . makeRow ( WW , N - 1 ) 		91
+ret = [ ] 		92
+for a in nr : 		93
+if a == self . win ( W [ 0 ] [ 1 ] , W [ 1 ] [ 1 ] ) : ret += [ W [ 0 ] [ 1 ] , W [ 1 ] [ 1 ] ] 		94
+if a == self . win ( W [ 0 ] [ 1 ] , W [ 2 ] [ 1 ] ) : ret += [ W [ 0 ] [ 1 ] , W [ 2 ] [ 1 ] ] 		95
+if a == self . win ( W [ 1 ] [ 1 ] , W [ 2 ] [ 1 ] ) : ret += [ W [ 1 ] [ 1 ] , W [ 2 ] [ 1 ] ] 		96
+return ret 		97
+def fix ( self , row ) : 		99
+l = len ( row ) 		100
+if l == 1 : return row 		101
+h = l // 2 		102
+a = self . fix ( row [ : h ] ) 		103
+b = self . fix ( row [ h : ] ) 		104
+if a > b : a , b = b , a 		105
+return a + b 		106
+def solve ( self , handle ) : 		108
+handle . write ( 'Case #%d: ' % self . case ) 		109
+N , P , R , S = self . N , self . P , self . R , self . S 		111
+C = 2 ** N 		112
+W = sorted ( [ ( R , 'R' ) , ( P , 'P' ) , ( S , 'S' ) ] ) 		114
+Wc = [ w [ 0 ] for w in W ] 		115
+if N % 2 == 0 : 		117
+t = C // 3 		118
+if Wc != [ t , t , t + 1 ] : 		119
+handle . write ( 'IMPOSSIBLE\n' ) 		120
+return 		121
+else : 		122
+t = C // 3 		123
+if Wc != [ t , t + 1 , t + 1 ] : 		124
+handle . write ( 'IMPOSSIBLE\n' ) 		125
+return 		126
+row = self . makeRow ( W , N ) 		128
+row = self . fix ( row ) 		130
+handle . write ( '' . join ( row ) + '\n' ) 		132
+def slave ( args ) : 		135
+testFn = args . test_case 		136
+testName = testFn [ : - 7 ] 		137
+testTmpFn = testName + '.tmp' 		138
+test = pickle . load ( open ( testFn , 'rb' ) ) 		139
+testTmpHandle = open ( testTmpFn , 'wt' ) 		140
+test . solve ( testTmpHandle ) 		141
+testTmpHandle . close ( ) 		142
+testOutFn = testName + '.out' 		143
+os . rename ( testTmpFn , testOutFn ) 		144
+def split ( args ) : 		147
+inputFn = args . input_file 		148
+ret = [ ] 		149
+inputName = inputFn [ : - 3 ] if inputFn . endswith ( '.in' ) else inputFn 		150
+testsDir = inputName + '_split' 		151
+if not os . path . isdir ( testsDir ) : os . mkdir ( testsDir ) 		152
+handle = open ( inputFn , 'rt' ) 		153
+reader = Reader ( handle ) 		154
+tests = reader . get ( int ) 		155
+for i in range ( 1 , tests + 1 ) : 		156
+testFn = os . path . join ( testsDir , '%.5d.pickle' % i ) 		157
+if ( not os . path . exists ( testFn ) ) or args . clean_pickles : 		158
+test = Test ( i ) 		159
+test . read ( reader ) 		160
+testHandle = open ( testFn , 'wb' ) 		161
+pickle . dump ( test , testHandle ) 		162
+testHandle . close ( ) 		163
+ret . append ( testFn ) 		164
+handle . close ( ) 		165
+return ret 		166
+def runSolveMode ( semaphore , prog , inputFn , testFn ) : 		169
+testName = testFn [ : - 7 ] 		170
+semaphore . acquire ( ) 		171
+testOutFn = testName + '.out' 		172
+if not os . path . exists ( testOutFn ) : 		173
+print ( 'Solving ``%s\'\'...' % testName ) 		174
+sp . call ( [ prog , inputFn , '--test-case' , testFn ] ) 		175
+else : 		176
+print ( '``%s\'\' already solved...' % testName ) 		177
+semaphore . release ( ) 		178
+def merge ( inputFn , testFns ) : 		181
+inputName = inputFn [ : - 3 ] if inputFn . endswith ( '.in' ) else inputFn 		182
+outputFn = inputName + '.out' 		183
+handle = open ( outputFn , 'wt' ) 		184
+for testFn in testFns : 		185
+testName = testFn [ : - 7 ] 		186
+testOutFn = testName + '.out' 		187
+assert os . path . exists ( testOutFn ) 		188
+for line in open ( testOutFn , 'rt' ) : handle . write ( line ) 		189
+handle . close ( ) 		190
+def master ( args , prog ) : 		193
+inputFn = args . input_file 		194
+testFns = split ( args ) 		195
+semaphore = mp . BoundedSemaphore ( args . jobs ) 		196
+if args . clean_results : 		197
+for testFn in testFns : 		198
+testName = testFn [ : - 7 ] 		199
+testOutFn = testName + '.out' 		200
+if os . path . exists ( testOutFn ) : os . unlink ( testOutFn ) 		201
+processes = [ mp . Process ( target = runSolveMode , args = ( semaphore , prog , inputFn , testFn ) ) for testFn in testFns ] 		202
+if not args . keep_order : random . shuffle ( processes ) 		203
+for proc in processes : proc . start ( ) 		204
+for proc in processes : proc . join ( ) 		205
+merge ( inputFn , testFns ) 		206
+def main ( ) : 		209
+parser = argparse . ArgumentParser ( description = 'Solve some GCJ task.' ) 		210
+parser . add_argument ( 'input_file' , metavar = 'INPUT_FILE' ) 		211
+parser . add_argument ( '--test-case' ) 		212
+parser . add_argument ( '-p' , '--clean-pickles' , action = 'store_true' ) 		213
+parser . add_argument ( '-r' , '--clean-results' , action = 'store_true' ) 		214
+parser . add_argument ( '-j' , '--jobs' , type = int , default = 5 ) 		215
+parser . add_argument ( '-o' , '--keep-order' , action = 'store_true' ) 		216
+args = parser . parse_args ( ) 		217
+if args . test_case == None : master ( args , sys . argv [ 0 ] ) 		219
+else : slave ( args ) 		220
+if __name__ == '__main__' : main ( ) 		222

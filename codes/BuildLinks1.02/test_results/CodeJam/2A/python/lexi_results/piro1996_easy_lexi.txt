@@ -1,0 +1,28 @@
+import itertools 		3
+T = input ( ) 		5
+for t in range ( T ) : 		7
+n , r , p , s = map ( int , raw_input ( ) . split ( ) ) 		8
+st = 'P' * p + 'R' * r + 'S' * s 		9
+for line in itertools . permutations ( st ) : 		11
+line = '' . join ( line ) 		12
+res = line 		13
+while len ( line ) != 1 : 		14
+nl = '' 		15
+for i in range ( 0 , len ( line ) , 2 ) : 		16
+if line [ i ] == line [ i + 1 ] : 		17
+break 		18
+if line [ i : i + 2 ] in [ 'PR' , 'RP' ] : 		19
+nl += 'P' 		20
+elif line [ i : i + 2 ] in [ 'RS' , 'SR' ] : 		21
+nl += 'R' 		22
+elif line [ i : i + 2 ] in [ 'SP' , 'PS' ] : 		23
+nl += 'S' 		24
+else : 		25
+line = nl 		26
+continue 		27
+break 		28
+else : 		29
+print 'Case #%d: %s' % ( t + 1 , res ) 		30
+break 		31
+else : 		32
+print 'Case #%d: IMPOSSIBLE' % ( t + 1 ) 		33

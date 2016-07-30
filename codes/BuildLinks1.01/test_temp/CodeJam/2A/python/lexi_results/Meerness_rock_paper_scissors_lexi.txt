@@ -1,0 +1,39 @@
+__author__ = 'User' 		1
+winner_tree = { 		3
+"R" : [ "R" , "S" ] , 		4
+"P" : [ "P" , "R" ] , 		5
+"S" : [ "S" , "P" ] 		6
+} 		7
+def make_prs_tree ( N , n_R , n_P , n_S ) : 		10
+solutions = [ ] 		11
+ordered_solutions = [ ] 		12
+for winner in [ "R" , "P" , "S" ] : 		13
+solutions . append ( build_recursive_solution ( winner , N ) ) 		14
+for solution in solutions : 		15
+if solution . count ( "R" ) != n_R : 		16
+continue 		17
+if solution . count ( "P" ) != n_P : 		18
+continue 		19
+if solution . count ( "S" ) != n_S : 		20
+continue 		21
+ordered_solutions . append ( solution ) 		22
+if not ordered_solutions : 		23
+return "IMPOSSIBLE" 		24
+return "" . join ( sorted ( ordered_solutions ) [ 0 ] ) 		25
+def build_recursive_solution ( winner , depth ) : 		28
+if depth == 1 : 		29
+return sorted ( winner_tree [ winner ] ) 		30
+prevs = winner_tree [ winner ] 		31
+sol1 = build_recursive_solution ( prevs [ 0 ] , depth - 1 ) 		32
+sol2 = build_recursive_solution ( prevs [ 1 ] , depth - 1 ) 		33
+if sol1 > sol2 : 		34
+return sol2 + sol1 		35
+return sol1 + sol2 		36
+with open ( "input.txt" , "r" ) as file : 		38
+with open ( "result.txt" , "w" ) as write_file : 		39
+for i , line in enumerate ( file ) : 		40
+if i == 0 : 		41
+continue 		42
+input_list = line . strip ( ) . split ( ' ' ) 		43
+x = make_prs_tree ( * [ int ( x ) for x in input_list ] ) 		44
+write_file . write ( "Case #" + str ( i ) + ": " + x + "\n" ) 		45

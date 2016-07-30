@@ -1,0 +1,33 @@
+import sys 		3
+from collections import * 		4
+def print_sol ( tc , ans ) : 		6
+print ( 'Case #{}: {}' . format ( tc , ans ) ) 		7
+def generate ( cur , steps ) : 		9
+for _ in range ( steps ) : 		10
+nxt = "" . join ( [ { "P" : "PR" , "R" : "RS" , "S" : "PS" } [ x ] for x in cur ] ) 		11
+cur = nxt 		12
+return cur , [ cur . count ( x ) for x in "RPS" ] 		13
+def sort_result ( res ) : 		15
+m = len ( res ) // 2 		16
+a = res [ 0 : m ] 		17
+b = res [ m : ] 		18
+if len ( a ) > 1 : 		19
+a = sort_result ( a ) 		20
+b = sort_result ( b ) 		21
+assert a != b 		22
+if a < b : 		23
+return a + b 		24
+return b + a 		25
+T = int ( input ( ) ) 		27
+for tc in range ( 1 , T + 1 ) : 		28
+N , R , P , S = [ int ( x ) for x in input ( ) . split ( ' ' ) ] 		29
+done = False 		31
+for start in "RPS" : 		32
+result , cnt = generate ( start , N ) 		33
+if cnt == [ R , P , S ] : 		34
+result = sort_result ( result ) 		35
+print_sol ( tc , result ) 		36
+done = True 		37
+break 		38
+if not done : 		40
+print_sol ( tc , "IMPOSSIBLE" ) 		41

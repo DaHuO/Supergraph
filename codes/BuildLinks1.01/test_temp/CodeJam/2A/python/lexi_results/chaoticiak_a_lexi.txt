@@ -1,0 +1,61 @@
+def initialize ( ) : 		10
+pass 		11
+def generate ( n , ofs ) : 		13
+return [ "PRS" [ ( sum ( map ( int , bin ( i ) [ 2 : ] ) ) + ofs ) % 3 ] for i in range ( 2 ** n ) ] 		14
+def solve ( ) : 		16
+n , r , p , s = read ( ) 		17
+k = 2 ** n // 3 		18
+if r != k and r != k + 1 : 		19
+write ( "IMPOSSIBLE" ) 		20
+return 		21
+if p != k and p != k + 1 : 		22
+write ( "IMPOSSIBLE" ) 		23
+return 		24
+if s != k and s != k + 1 : 		25
+write ( "IMPOSSIBLE" ) 		26
+return 		27
+for i in range ( 3 ) : 		29
+res = generate ( n , i ) 		30
+if sum ( j == "P" for j in res ) != p : continue 		31
+if sum ( j == "R" for j in res ) != r : continue 		32
+break 		33
+for level in range ( n ) : 		35
+for i in range ( len ( res ) // 2 ) : 		36
+if res [ 2 * i ] > res [ 2 * i + 1 ] : 		37
+res [ 2 * i ] , res [ 2 * i + 1 ] = res [ 2 * i + 1 ] , res [ 2 * i ] 		38
+res = [ res [ 2 * i ] + res [ 2 * i + 1 ] for i in range ( len ( res ) // 2 ) ] 		39
+write ( res [ 0 ] ) 		40
+output_format = "Case #%d: " 		47
+filename = input ( ) . strip ( ) 		49
+sfile = None 		50
+tfile = None 		51
+if filename != "" : 		52
+sfile = open ( filename + ".in" , "r" ) 		53
+sfile . seek ( 0 ) 		54
+tfile = open ( filename + ".out" , "w" ) 		55
+def read ( mode = 2 ) : 		57
+if sfile : 		61
+input_line = sfile . readline ( ) . strip ( ) 		62
+else : 		63
+input_line = input ( ) . strip ( ) 		64
+if mode == 0 : return input_line 		65
+if mode == 1 : return input_line . split ( ) 		66
+if mode == 2 : return list ( map ( int , input_line . split ( ) ) ) 		67
+def write ( s = "\n" ) : 		69
+if s is None : s = "" 		70
+if isinstance ( s , list ) : s = " " . join ( map ( str , s ) ) 		71
+s = str ( s ) 		72
+if tfile : 		73
+tfile . write ( s ) 		74
+else : 		75
+print ( s , end = "" ) 		76
+if output_format == 0 : 		78
+solve ( ) 		79
+else : 		80
+initialize ( ) 		81
+total_cases = int ( read ( 0 ) ) 		82
+for case_number in range ( 1 , total_cases + 1 ) : 		83
+write ( output_format . replace ( "%d" , str ( case_number ) ) ) 		84
+solve ( ) 		85
+write ( "\n" ) 		86
+if tfile is not None : tfile . close ( ) 		87

@@ -1,0 +1,43 @@
+def parents ( finalists ) : 		1
+if len ( finalists ) == 1 : 		2
+if finalists [ 0 ] == 'R' : 		3
+return [ [ 'R' , 'S' ] , [ 'S' , 'R' ] ] 		4
+elif finalists [ 0 ] == 'S' : 		5
+return [ [ 'P' , 'S' ] , [ 'S' , 'P' ] ] 		6
+elif finalists [ 0 ] == 'P' : 		7
+return [ [ 'P' , 'R' ] , [ 'R' , 'P' ] ] 		8
+m = len ( finalists ) 		10
+left = finalists [ : m / 2 ] 		11
+right = finalists [ m / 2 : ] 		12
+leftparents = parents ( left ) 		13
+rightparents = parents ( right ) 		14
+result = [ ] 		16
+for x in leftparents : 		17
+for y in rightparents : 		18
+arr = x + y 		19
+result . append ( arr ) 		20
+return result 		22
+with open ( "data.txt" , 'r' ) as f : 		25
+with open ( "data1.txt" , 'w' ) as g : 		26
+T = int ( f . readline ( ) ) 		27
+for i in range ( T ) : 		28
+N , R , P , S = [ int ( x ) for x in f . readline ( ) . split ( ) ] 		29
+best = None 		31
+for winner in [ 'P' , 'R' , 'S' ] : 		33
+lineup = [ [ winner ] ] 		34
+for j in range ( N ) : 		35
+temp = [ ] 		36
+for x in lineup : 		37
+temp += parents ( x ) 		38
+lineup = temp 		39
+for x in lineup : 		41
+Pcount = x . count ( 'P' ) 		42
+Rcount = x . count ( 'R' ) 		43
+Scount = x . count ( 'S' ) 		44
+if Pcount == P and Rcount == R and Scount == S : 		45
+if best is None or x < best : 		46
+best = x 		47
+if best is None : 		49
+g . write ( "Case #%d: %s\n" % ( ( i + 1 ) , "IMPOSSIBLE" ) ) 		50
+else : 		51
+g . write ( "Case #%d: %s\n" % ( ( i + 1 ) , "" . join ( best ) ) ) 		52

@@ -1,0 +1,89 @@
+from multiprocessing import Pool 		1
+from collections import defaultdict 		2
+def st ( s ) : 		4
+n = len ( s ) 		5
+if ( n > 1 ) : 		6
+l = st ( s [ : n / 2 ] ) 		7
+r = st ( s [ n / 2 : ] ) 		8
+if l > r : 		9
+return r + l 		10
+return l + r 		11
+return s 		12
+def solve ( line ) : 		14
+n , r , p , s = map ( int , line . strip ( ) . split ( ) ) 		15
+res = "IMPOSSIBLE" 		16
+tr = "R" 		17
+for i in xrange ( n ) : 		18
+rr = 0 		19
+pp = 0 		20
+ss = 0 		21
+ttr = "" 		22
+for j in xrange ( len ( tr ) ) : 		23
+if tr [ j ] == "R" : 		24
+rr += 1 		25
+ss += 1 		26
+ttr += "RS" 		27
+if tr [ j ] == "S" : 		28
+ss += 1 		29
+pp += 1 		30
+ttr += "PS" 		31
+if tr [ j ] == "P" : 		32
+pp += 1 		33
+rr += 1 		34
+ttr += "PR" 		35
+tr = ttr 		36
+if rr == r and pp == p and ss == s : 		37
+return st ( tr ) 		38
+tr = "S" 		39
+for i in xrange ( n ) : 		40
+rr = 0 		41
+pp = 0 		42
+ss = 0 		43
+ttr = "" 		44
+for j in xrange ( len ( tr ) ) : 		45
+if tr [ j ] == "R" : 		46
+rr += 1 		47
+ss += 1 		48
+ttr += "RS" 		49
+if tr [ j ] == "S" : 		50
+ss += 1 		51
+pp += 1 		52
+ttr += "PS" 		53
+if tr [ j ] == "P" : 		54
+pp += 1 		55
+rr += 1 		56
+ttr += "PR" 		57
+tr = ttr 		58
+if rr == r and pp == p and ss == s : 		59
+return st ( tr ) 		60
+tr = "P" 		61
+for i in xrange ( n ) : 		62
+rr = 0 		63
+pp = 0 		64
+ss = 0 		65
+ttr = "" 		66
+for j in xrange ( len ( tr ) ) : 		67
+if tr [ j ] == "R" : 		68
+rr += 1 		69
+ss += 1 		70
+ttr += "RS" 		71
+if tr [ j ] == "S" : 		72
+ss += 1 		73
+pp += 1 		74
+ttr += "PS" 		75
+if tr [ j ] == "P" : 		76
+pp += 1 		77
+rr += 1 		78
+ttr += "PR" 		79
+tr = ttr 		80
+if rr == r and pp == p and ss == s : 		81
+return st ( tr ) 		82
+return res 		83
+p = Pool ( 8 ) 		87
+with open ( "in.txt" , "r" ) as fin : 		88
+results = p . map ( solve , fin . readlines ( ) [ 1 : ] ) 		89
+with open ( "out.txt" , "w" ) as fout : 		90
+i = 0 		91
+for res in results : 		92
+i += 1 		93
+fout . write ( "Case #%d: %s\n" % ( i , str ( res ) ) ) 		94

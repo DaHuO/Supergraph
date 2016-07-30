@@ -1,0 +1,15 @@
+conv = { 'P' : 'PR' , 'R' : 'RS' , 'S' : 'PS' } 		3
+def doit ( c , n ) : 		5
+if n == 0 : 		6
+return c 		7
+return "" . join ( sorted ( [ doit ( x , n - 1 ) for x in conv [ c ] ] ) ) 		8
+def showdown ( n , r , p , s ) : 		10
+ret = sorted ( [ doit ( w , n ) for w in [ "P" , "R" , "S" ] ] ) 		11
+for line in ret : 		12
+if line . count ( 'P' ) == p and line . count ( 'R' ) == r and line . count ( 'S' ) == s : 		13
+return line 		14
+return 'IMPOSSIBLE' 		15
+cases = int ( raw_input ( ) ) 		17
+for case in range ( 1 , cases + 1 ) : 		18
+n , r , p , s = map ( int , raw_input ( ) . split ( ' ' ) ) 		19
+print "Case #" + str ( case ) + ": " + showdown ( n , r , p , s ) 		20

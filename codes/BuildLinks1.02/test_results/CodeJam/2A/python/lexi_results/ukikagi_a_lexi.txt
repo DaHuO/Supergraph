@@ -1,0 +1,24 @@
+import sys 		2
+import heapq 		3
+import bisect 		4
+import operator 		5
+from itertools import * 		6
+def read ( ) : 		8
+return int ( input ( ) ) 		9
+def reads ( ) : 		11
+return [ int ( s ) for s in input ( ) . split ( ) ] 		12
+T = read ( ) 		14
+dic = { 'P' : "PR" , 'R' : "RS" , 'S' : "PS" } 		16
+for case in range ( 1 , T + 1 ) : 		18
+( N , R , P , S ) = reads ( ) 		19
+words = [ "P" , "R" , "S" ] 		21
+for _ in range ( N ) : 		22
+words = [ words [ 0 ] + words [ 1 ] , words [ 0 ] + words [ 2 ] , words [ 1 ] + words [ 2 ] ] 		23
+for word in words : 		25
+if ( R == sum ( c == 'R' for c in word ) and 		26
+P == sum ( c == 'P' for c in word ) and 		27
+S == sum ( c == 'S' for c in word ) ) : 		28
+print ( "Case #{0}: {1}" . format ( case , word ) ) 		29
+break 		30
+else : 		31
+print ( "Case #{0}: {1}" . format ( case , "IMPOSSIBLE" ) ) 		32

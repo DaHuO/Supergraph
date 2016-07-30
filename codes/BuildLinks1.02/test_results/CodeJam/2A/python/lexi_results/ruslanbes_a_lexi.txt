@@ -1,0 +1,62 @@
+import string 		1
+from operator import itemgetter 		2
+def output ( t , res ) : 		6
+casestr = "Case #" + str ( t + 1 ) + ": " 		7
+status = str ( res ) if res != None else "IMPOSSIBLE" 		8
+outputLine = casestr + status 		9
+print outputLine 		10
+def sortpair ( pair ) : 		14
+n = len ( pair ) / 2 		15
+l = pair [ : n ] 		16
+r = pair [ n : ] 		17
+if l > r : 		21
+return r + l 		22
+return pair 		23
+def main ( ) : 		25
+T = int ( raw_input ( ) ) 		26
+for t in xrange ( T ) : 		28
+N , R , P , S = map ( int , raw_input ( ) . split ( ) ) 		29
+total = R + P + S 		30
+l = '' 		32
+if N == 1 : 		33
+l = P * 'P' + 'R' * R + 'S' * S 		34
+if l [ 0 ] == l [ 1 ] : 		35
+output ( t , None ) 		36
+else : 		37
+output ( t , l ) 		38
+continue 		39
+if P > R + S or R > P + S or S > P + R : 		41
+output ( t , None ) 		42
+continue 		43
+if P == 0 or R == 0 or S == 0 : 		44
+output ( t , None ) 		45
+continue 		46
+players = [ [ 'P' , P ] , [ 'R' , R ] , [ 'S' , S ] ] 		48
+players . sort ( key = itemgetter ( 1 ) , reverse = True ) 		49
+d = total / 3 		50
+r = total - 3 * d 		51
+if players [ 2 ] [ 1 ] != d or players [ 0 ] [ 1 ] != d + 1 or players [ 1 ] [ 1 ] != d + ( r == 2 ) : 		52
+output ( t , None ) 		53
+continue 		54
+pairs2 = players [ 0 ] [ 1 ] / 2 		57
+pairs1 = players [ 0 ] [ 1 ] - pairs2 		58
+pairs = [ ] 		59
+key = sortpair ( players [ 0 ] [ 0 ] + players [ 1 ] [ 0 ] ) 		60
+pairs . append ( [ key , pairs1 ] ) 		61
+key = sortpair ( players [ 0 ] [ 0 ] + players [ 2 ] [ 0 ] ) 		62
+pairs . append ( [ key , pairs2 ] ) 		63
+key = sortpair ( players [ 1 ] [ 0 ] + players [ 2 ] [ 0 ] ) 		64
+pairs . append ( [ key , players [ 1 ] [ 1 ] - pairs1 ] ) 		65
+l = '' 		67
+for i in xrange ( total / 2 ) : 		68
+i1 = i % 3 		69
+if ( pairs [ i1 ] [ 1 ] > 0 ) : 		70
+l += pairs [ i1 ] [ 0 ] 		71
+pairs [ i1 ] [ 1 ] -= 1 		72
+for j in xrange ( 2 , N ) : 		74
+blocksize = 2 ** j 		75
+for i in xrange ( total / blocksize ) : 		76
+l = l [ : i * blocksize ] + sortpair ( l [ i * blocksize : ( i + 1 ) * blocksize ] ) + l [ ( i + 1 ) * blocksize : ] 		77
+output ( t , l ) 		78
+if __name__ == "__main__" : 		81
+main ( ) 		82

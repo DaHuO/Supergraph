@@ -1,0 +1,59 @@
+tournoi_optimal_P = [ '' ] * 13 		2
+tournoi_optimal_R = [ '' ] * 13 		3
+tournoi_optimal_S = [ '' ] * 13 		4
+tournoi_optimal_P [ 0 ] = 'P' 		6
+tournoi_optimal_R [ 0 ] = 'R' 		7
+tournoi_optimal_S [ 0 ] = 'S' 		8
+for k in range ( 1 , 13 ) : 		10
+tournoi_optimal_P [ k ] = min ( tournoi_optimal_P [ k - 1 ] + tournoi_optimal_R [ k - 1 ] , tournoi_optimal_R [ k - 1 ] + tournoi_optimal_P [ k - 1 ] ) 		11
+tournoi_optimal_R [ k ] = min ( tournoi_optimal_R [ k - 1 ] + tournoi_optimal_S [ k - 1 ] , tournoi_optimal_S [ k - 1 ] + tournoi_optimal_R [ k - 1 ] ) 		12
+tournoi_optimal_S [ k ] = min ( tournoi_optimal_P [ k - 1 ] + tournoi_optimal_S [ k - 1 ] , tournoi_optimal_S [ k - 1 ] + tournoi_optimal_P [ k - 1 ] ) 		13
+def executer_calcul ( entrees ) : 		15
+N = entrees [ 0 ] 		16
+R = entrees [ 1 ] 		17
+P = entrees [ 2 ] 		18
+S = entrees [ 3 ] 		19
+Case = entrees [ 4 ] 		20
+result = 'z' 		21
+if ( P == tournoi_optimal_P [ N ] . count ( 'P' ) and R == tournoi_optimal_P [ N ] . count ( 'R' ) and S == tournoi_optimal_P [ N ] . count ( 'S' ) ) : 		22
+result = min ( result , tournoi_optimal_P [ N ] ) 		23
+if ( P == tournoi_optimal_R [ N ] . count ( 'P' ) and R == tournoi_optimal_R [ N ] . count ( 'R' ) and S == tournoi_optimal_R [ N ] . count ( 'S' ) ) : 		24
+result = min ( result , tournoi_optimal_R [ N ] ) 		25
+if ( P == tournoi_optimal_S [ N ] . count ( 'P' ) and R == tournoi_optimal_S [ N ] . count ( 'R' ) and S == tournoi_optimal_S [ N ] . count ( 'S' ) ) : 		26
+result = min ( result , tournoi_optimal_S [ N ] ) 		27
+if ( result == 'z' ) : return 'IMPOSSIBLE' 		28
+return result 		29
+def executer_gagnant ( N , s ) : 		31
+if ( N == 0 ) : return s 		32
+if ( N == 1 and s == 'P' ) : return 'PR' 		33
+if ( N == 1 and s == 'R' ) : return 'RS' 		34
+if ( N == 1 and s == 'S' ) : return 'PS' 		35
+rang_precedent = executer_gagnant ( N - 1 , s ) 		36
+accu = '' 		37
+for i in range ( len ( rang_precedent ) ) : 		38
+accu = accu + executer_gagnant ( 1 , rang_precedent [ i ] ) 		39
+return accu 		40
+multiprocessed = False 		43
+if ( multiprocessed ) : from multiprocessing import Pool 		44
+else : output = open ( 'Output.txt' , 'w' ) 		45
+if ( ( not multiprocessed ) or __name__ == '__main__' ) : 		46
+with open ( "Input.txt" , "r" ) as input : 		47
+lines = input . readlines ( ) 		48
+T = int ( lines [ 0 ] ) 		49
+line = 1 		50
+Case = 1 		51
+calculs = [ ] 		52
+while ( line < len ( lines ) ) : 		53
+N , R , P , S = map ( int , lines [ line ] . split ( ' ' ) ) 		54
+line = line + 1 		55
+entrees = [ N , R , P , S , Case ] 		56
+if ( not multiprocessed ) : output . write ( 'Case #' + str ( Case ) + ': ' + executer_calcul ( entrees ) + '\n' ) 		57
+else : calculs . append ( entrees ) 		58
+Case = Case + 1 		59
+if ( multiprocessed ) : 		60
+pool = Pool ( 3 ) 		61
+results = pool . map ( executer_calcul , calculs ) 		62
+output = open ( 'Output.txt' , 'w' ) 		63
+for case in range ( len ( results ) ) : 		64
+output . write ( 'Case #' + str ( case + 1 ) + ': ' + results [ case ] + '\n' ) 		65
+output . close ( ) 		66

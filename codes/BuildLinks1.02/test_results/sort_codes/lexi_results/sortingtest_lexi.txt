@@ -1,0 +1,20 @@
+import unittest 		1
+from random import random 		2
+from sorting import SORTERS 		3
+class SorterTest ( unittest . TestCase ) : 		6
+def test_empty ( self ) : 		8
+for sorter in SORTERS : 		9
+self . assertEqual ( len ( sorter . sorted ( [ ] ) ) , 0 ) 		10
+def test_one ( self ) : 		12
+for sorter in SORTERS : 		13
+self . assertEqual ( len ( sorter . sorted ( [ "one" ] ) ) , 1 ) 		14
+def test_number ( self ) : 		16
+l = [ random ( ) for i in range ( 100 ) ] 		17
+for sorter in SORTERS : 		18
+self . assertEqual ( sorter . sorted ( l ) , sorted ( l ) ) 		19
+def test_string ( self ) : 		21
+s = "ailwefawlILWESFBNSLIEFWIWFleifwnslifenFLIWENLISNqrwpoueitrwezuiopgsdfjhklöaljkfyvmcx" 		22
+for sorter in SORTERS : 		23
+self . assertEqual ( sorter . sorted ( s ) , sorted ( s ) ) 		24
+if __name__ == '__main__' : 		27
+unittest . main ( ) 		28

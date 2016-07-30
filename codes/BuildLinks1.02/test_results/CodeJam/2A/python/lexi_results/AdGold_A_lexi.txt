@@ -1,0 +1,30 @@
+f = 'a-sample.in' 		3
+f = 'A-small-attempt0.in' 		4
+f = 'A-large.in' 		5
+beats = { 'P' : 'R' , 		8
+'R' : 'S' , 		9
+'S' : 'P' } 		10
+def get_tree ( top , depth ) : 		13
+if depth == 0 : 		14
+return top 		15
+a = get_tree ( top , depth - 1 ) 		16
+b = get_tree ( beats [ top ] , depth - 1 ) 		17
+if a < b : 		18
+return a + b 		19
+else : 		20
+return b + a 		21
+def solve ( vals ) : 		24
+n , r , p , s = tuple ( map ( int , vals ) ) 		25
+for top in 'RSP' : 		26
+tree = get_tree ( top , n ) 		27
+if tree . count ( 'R' ) == r and 		28
+tree . count ( 'S' ) == s and 		29
+tree . count ( 'P' ) == p : 		30
+return tree 		31
+return 'IMPOSSIBLE' 		32
+inp = map ( str . strip , list ( open ( f ) ) [ 1 : ] ) 		35
+t = 1 		36
+while inp : 		37
+vals = tuple ( inp . pop ( 0 ) . split ( ) ) 		38
+print 'Case #%d: %s' % ( t , solve ( vals ) ) 		39
+t += 1 		40

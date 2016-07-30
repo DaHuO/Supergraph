@@ -1,0 +1,65 @@
+import sys 		1
+sys . setrecursionlimit ( 1000000000 ) 		2
+INF = 1000000000 		4
+def test ( s ) : 		5
+s2 = "" 		6
+if len ( s ) == 1 : 		7
+return ( True ) 		8
+else : 		9
+for i in range ( len ( s ) // 2 ) : 		10
+v = 'r' 		11
+x = s [ 2 * i ] 		12
+y = s [ 2 * i + 1 ] 		13
+if x == y : 		14
+return ( False ) 		15
+if x == 'P' : 		16
+if y == 'R' : 		17
+v = 'P' 		18
+else : 		19
+v = 'S' 		20
+if x == 'S' : 		21
+if y == 'P' : 		22
+v = 'S' 		23
+else : 		24
+v = 'R' 		25
+if x == 'R' : 		26
+if y == 'S' : 		27
+v = 'R' 		28
+else : 		29
+v = 'P' 		30
+s2 += v 		31
+return ( test ( s2 ) ) 		32
+def find ( r , p , s , st ) : 		34
+if r + p + s == 0 : 		35
+if test ( st ) : 		36
+return ( st , True ) 		37
+if p > 0 : 		38
+news = st + "P" 		39
+v , b = find ( r , p - 1 , s , news ) 		40
+if b : 		41
+return ( v , b ) 		42
+if r > 0 : 		43
+news = st + "R" 		44
+v , b = find ( r - 1 , p , s , news ) 		45
+if b : 		46
+return ( v , b ) 		47
+if s > 0 : 		48
+news = st + "S" 		49
+v , b = find ( r , p , s - 1 , news ) 		50
+if b : 		51
+return ( v , b ) 		52
+return ( "" , False ) 		53
+T = int ( input ( ) ) 		55
+for N in range ( 1 , T + 1 ) : 		56
+out = 'Case #' + str ( N ) + ': ' 		57
+n , r , p , s = map ( int , input ( ) . split ( ) ) 		59
+v , b = find ( r , p , s , "" ) 		60
+if b : 		61
+out += v 		62
+else : 		63
+out += 'IMPOSSIBLE' 		64
+out += '\n' 		66
+sys . stdout . write ( out ) 		67
+sys . stdout . flush ( ) 		68
+sys . stderr . write ( out ) 		69
+sys . stderr . flush ( ) 		70

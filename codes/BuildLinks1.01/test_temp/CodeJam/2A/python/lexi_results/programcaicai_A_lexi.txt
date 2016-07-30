@@ -1,0 +1,31 @@
+order = 'RPSR' 		2
+from collections import Counter 		4
+def solve ( N , R , P , S ) : 		6
+base_sol = [ 'R' , 'P' , 'S' ] 		9
+def g ( s ) : 		10
+mp = { 'R' : 'RS' , 'P' : 'PR' , 'S' : 'PS' } 		11
+return '' . join ( mp [ c ] for c in s ) 		12
+for _ in range ( N ) : 		15
+for i in range ( 3 ) : 		16
+base_sol [ i ] = g ( base_sol [ i ] ) 		17
+def my_sort ( s ) : 		21
+if len ( s ) == 1 : 		22
+return s 		23
+else : 		24
+A = s [ : len ( s ) // 2 ] 		25
+B = s [ len ( s ) // 2 : ] 		26
+if A < B : 		27
+return my_sort ( A ) + my_sort ( B ) 		28
+else : 		29
+return my_sort ( B ) + my_sort ( A ) 		30
+for i in range ( 3 ) : 		34
+d = Counter ( base_sol [ i ] ) 		36
+d2 = { 'R' : R , 'P' : P , 'S' : S } 		37
+if all ( d2 [ k ] == v for k , v in d . items ( ) ) : 		38
+return my_sort ( base_sol [ i ] ) 		39
+return 'IMPOSSIBLE' 		40
+T = int ( input ( ) ) 		43
+for casno in range ( T ) : 		45
+N , R , P , S = [ int ( x ) for x in input ( ) . split ( ) ] 		46
+result = solve ( N , R , P , S ) 		47
+print ( 'Case #{}: {}' . format ( casno + 1 , result ) ) 		50

@@ -1,0 +1,21 @@
+import sys , itertools , collections 		1
+sys . setrecursionlimit ( 10000 ) 		2
+read_ints = lambda : map ( int , raw_input ( ) . split ( ) ) 		4
+read_int = input 		5
+def gen ( win , level ) : 		8
+if level == 0 : 		9
+return [ 'RPS' [ win ] ] 		10
+s1 = gen ( win , level - 1 ) 		11
+s2 = gen ( ( win + 2 ) % 3 , level - 1 ) 		12
+return min ( s1 , s2 ) + max ( s1 , s2 ) 		13
+for no_t in xrange ( 1 , read_int ( ) + 1 ) : 		16
+n , r , p , s = read_ints ( ) 		17
+for win in xrange ( 3 ) : 		19
+tmp = gen ( win , n ) 		20
+counter = collections . Counter ( tmp ) 		21
+if counter [ 'R' ] == r and counter [ 'P' ] == p and counter [ 'S' ] == s : 		22
+ans = '' . join ( tmp ) 		23
+break 		24
+else : 		25
+ans = 'IMPOSSIBLE' 		26
+print 'Case #%d: %s' % ( no_t , ans ) 		27

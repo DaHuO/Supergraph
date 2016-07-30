@@ -1,0 +1,56 @@
+def solve ( infile , outfile ) : 		1
+trials = int ( infile . readline ( ) ) 		2
+transitions = { 'R' : 'SR' , 'P' : 'PR' , 'S' : 'PS' } 		3
+for trial in range ( 1 , trials + 1 ) : 		4
+num_rounds , R , P , S = ( int ( val ) for val in infile . readline ( ) . strip ( ) . split ( ) ) 		5
+final = gen ( 'P' , num_rounds , transitions ) 		6
+if ( R , P , S ) != count ( final ) : 		7
+final = gen ( 'R' , num_rounds , transitions ) 		8
+if ( R , P , S ) != count ( final ) : 		9
+final = gen ( 'S' , num_rounds , transitions ) 		10
+if ( R , P , S ) != count ( final ) : 		11
+final = "IMPOSSIBLE" 		12
+if final != "IMPOSSIBLE" : 		13
+final = sort ( final ) 		14
+outfile . write ( "Case #{}: {}\n" . format ( trial , final ) ) 		15
+def sort ( word ) : 		17
+n = 1 		18
+while n < len ( word ) : 		19
+word = sort_sub ( word , n ) 		20
+n *= 2 		21
+return word 		22
+def sort_sub ( word , num ) : 		24
+cur = 0 		25
+ret = "" 		26
+while cur < len ( word ) : 		27
+sub1 = word [ cur : cur + num ] 		28
+cur += num 		29
+sub2 = word [ cur : cur + num ] 		30
+cur += num 		31
+ret += min ( sub1 , sub2 ) + max ( sub1 , sub2 ) 		32
+return ret 		33
+def gen ( initial , num_rounds , trans ) : 		35
+for i in range ( num_rounds ) : 		36
+tour = "" 		37
+for c in initial : 		38
+tour += trans [ c ] 		39
+initial = tour 		40
+return initial 		41
+def count ( tour ) : 		43
+r , p , s = 0 , 0 , 0 		44
+for c in tour : 		45
+if c == 'R' : 		46
+r += 1 		47
+elif c == 'P' : 		48
+p += 1 		49
+elif c == 'S' : 		50
+s += 1 		51
+return r , p , s 		52
+if __name__ == '__main__' : 		54
+path = 'Data\\' 		55
+name = 'A-large' 		58
+infile = open ( path + name + '.in' , 'r' ) 		59
+outfile = open ( path + name + '.out' , 'w' ) 		60
+solve ( infile , outfile ) 		61
+infile . close ( ) 		62
+outfile . close ( ) 		63

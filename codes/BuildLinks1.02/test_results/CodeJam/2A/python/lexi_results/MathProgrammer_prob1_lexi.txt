@@ -1,0 +1,75 @@
+from sys import * 		1
+def permute ( lvl , start ) : 		3
+global L , L2 , N 		4
+global slist 		5
+slist2 = [ ] 		7
+while len ( slist ) > 1 : 		9
+for i in range ( 0 , len ( slist ) , 2 ) : 		10
+if slist [ i ] <= slist [ i + 1 ] : 		11
+slist2 . append ( slist [ i ] + slist [ i + 1 ] ) 		12
+else : 		13
+slist2 . append ( slist [ i + 1 ] + slist [ i ] ) 		14
+slist = [ h for h in slist2 ] 		15
+slist2 = [ ] 		16
+def solve ( ) : 		18
+global N , R , P , S , L , L2 		19
+pcount = 0 		21
+rcount = 0 		22
+scount = 0 		23
+for i in L : 		25
+if i == "P" : 		26
+L2 += "PR" 		27
+pcount += 1 		28
+rcount += 1 		29
+if i == "R" : 		30
+L2 += "RS" 		31
+rcount += 1 		32
+scount += 1 		33
+if i == "S" : 		34
+L2 += "PS" 		35
+scount += 1 		36
+pcount += 1 		37
+L = "" 		39
+for i in L2 : 		40
+L += i 		41
+L2 = "" 		42
+if scount > S or pcount > P or rcount > R : 		44
+L = "" 		45
+return 		46
+if len ( L ) == 2 ** N : 		48
+return 		49
+else : 		50
+solve ( ) 		51
+return 		52
+f = open ( "A-large.in" , "r" ) 		54
+g = open ( "output.txt" , "w+" ) 		55
+T = int ( f . readline ( ) ) 		56
+for i in range ( 1 , T + 1 ) : 		58
+[ N , R , P , S ] = [ int ( j ) for j in f . readline ( ) . split ( ) ] 		59
+L = "P" 		61
+L2 = "" 		62
+solve ( ) 		64
+slist = [ h for h in L ] 		66
+if len ( L ) > 0 : 		68
+permute ( N , 0 ) 		69
+g . write ( "Case #{}: {}\n" . format ( i , slist [ 0 ] ) ) 		70
+continue 		71
+L = "R" 		73
+L2 = "" 		74
+solve ( ) 		76
+slist = [ h for h in L ] 		78
+if len ( L ) > 0 : 		80
+permute ( N , 0 ) 		81
+g . write ( "Case #{}: {}\n" . format ( i , slist [ 0 ] ) ) 		82
+continue 		83
+L = "S" 		85
+L2 = "" 		86
+solve ( ) 		88
+slist = [ h for h in L ] 		90
+if len ( L ) > 0 : 		92
+permute ( N , 0 ) 		93
+g . write ( "Case #{}: {}\n" . format ( i , slist [ 0 ] ) ) 		94
+continue 		95
+g . write ( "Case #{}: {}\n" . format ( i , "IMPOSSIBLE" ) ) 		97
+f . close ( ) 		99
+g . close ( ) 		100

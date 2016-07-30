@@ -1,0 +1,49 @@
+from sys import argv 		1
+from collections import defaultdict 		2
+def fail ( R , P , S ) : 		6
+s = R + P + S 		7
+s3 = s / 3 		8
+s3p = s3 + 1 		9
+return R < s3 or P < s3 or S < s3 or R > s3p or P > s3p or S > s3p 		10
+def output ( R , P , S ) : 		12
+remainder = [ ] 		13
+s = R + P + S 		14
+if s == 1 : 		15
+return 'R' * R + 'P' * P + 'S' * S 		16
+s3 = s / 3 		17
+RPS = [ R , P , S ] 		18
+for i in range ( 3 ) : 		19
+if RPS [ i ] > s3 : 		20
+remainder . append ( i ) 		21
+if len ( remainder ) == 2 : 		22
+ret = '' 		23
+if 1 in remainder : 		24
+ret += output ( s3 / 2 , s3 / 2 + 1 , s3 / 2 ) 		25
+if 0 in remainder : 		26
+ret += output ( s3 / 2 + 1 , s3 / 2 , s3 / 2 ) 		27
+if 2 in remainder : 		28
+ret += output ( s3 / 2 , s3 / 2 , s3 / 2 + 1 ) 		29
+return ret 		30
+ss = s3 / 4 		31
+PP = output ( ss , ss + 1 , ss ) 		32
+RR = output ( ss + 1 , ss , ss ) 		33
+SS = output ( ss , ss , ss + 1 ) 		34
+if remainder [ 0 ] == 0 : 		35
+return PP + RR + RR + SS 		36
+if remainder [ 0 ] == 1 : 		37
+return PP + RR + PP + SS 		38
+if remainder [ 0 ] == 2 : 		39
+return PP + SS + RR + SS 		40
+def foo ( a ) : 		42
+[ N , R , P , S ] = [ int ( x ) for x in a . split ( ' ' ) ] 		43
+if fail ( R , P , S ) : 		44
+return "IMPOSSIBLE" 		45
+return output ( R , P , S ) 		46
+lines = [ x . strip ( ) for x in open ( argv [ 1 ] ) . readlines ( ) ] 		50
+pos = 0 		51
+T = int ( lines [ pos ] ) 		52
+pos += 1 		53
+for t in range ( 1 , T + 1 ) : 		54
+a = lines [ pos ] 		55
+pos += 1 		56
+print "case #%d: %s" % ( t , foo ( a ) ) 		57

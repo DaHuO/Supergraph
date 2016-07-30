@@ -1,0 +1,142 @@
+import random 		1
+import copy 		2
+class SortAlg ( object ) : 		5
+def __init__ ( self , size ) : 		6
+self . size = size 		7
+self . array = [ ] 		8
+def generate_random_array ( self ) : 		10
+self . array = [ ] 		14
+while len ( self . array ) < self . size : 		15
+rand_int = random . randint ( 1 , self . size ) 		16
+if rand_int in self . array : 		17
+continue 		18
+else : 		19
+self . array . append ( rand_int ) 		20
+def bubble_sort ( self ) : 		22
+arr = copy . copy ( self . array ) 		29
+sort_track = [ ( copy . copy ( arr ) , 0 ) ] 		30
+for i in xrange ( len ( arr ) ) : 		31
+for j in xrange ( len ( arr ) ) : 		32
+if arr [ i ] < arr [ j ] : 		33
+temp = arr [ i ] 		34
+arr [ i ] = arr [ j ] 		35
+arr [ j ] = temp 		36
+cur_arr = copy . copy ( arr ) 		37
+sort_track . append ( ( cur_arr , j ) ) 		38
+print arr 		39
+return sort_track 		40
+def select_sort ( self ) : 		42
+arr = copy . copy ( self . array ) 		49
+sort_track = [ ( copy . copy ( arr ) , 0 ) ] 		50
+for i in reversed ( xrange ( len ( arr ) ) ) : 		51
+largest = 0 		52
+for j in xrange ( 1 , i + 1 ) : 		53
+if arr [ largest ] < arr [ j ] : 		54
+largest = j 		55
+temp = arr [ largest ] 		58
+arr [ largest ] = arr [ i ] 		59
+arr [ i ] = temp 		60
+sort_track . append ( ( copy . copy ( arr ) , largest ) ) 		61
+return sort_track 		63
+def insert_sort ( self ) : 		65
+arr = copy . copy ( self . array ) 		72
+sort_track = [ ( copy . copy ( arr ) , 0 ) ] 		73
+self . _insert_sort_interval ( 1 , len ( arr ) - 1 , arr , sort_track , 1 ) 		84
+return sort_track 		85
+def _insert_sort_interval ( self , low , high , arr , sort_track , increment ) : 		87
+for unsort_pos in xrange ( low , high + 1 ) : 		88
+if arr [ unsort_pos ] < arr [ unsort_pos - increment ] : 		89
+pos = unsort_pos 		90
+cur = arr [ unsort_pos ] 		91
+while pos > 0 and arr [ pos - increment ] > cur : 		92
+arr [ pos ] = arr [ pos - increment ] 		93
+pos -= increment 		94
+arr [ pos ] = cur 		96
+sort_track . append ( ( copy . copy ( arr ) , pos ) ) 		97
+def shell_sort ( self ) : 		99
+arr = copy . copy ( self . array ) 		106
+sort_track = [ ( copy . copy ( arr ) , 0 ) ] 		107
+increment = len ( arr ) 		109
+while increment > 1 : 		110
+increment = increment / 3 + 1 		111
+for i in xrange ( 0 , increment ) : 		112
+self . _insert_sort_interval ( i , len ( arr ) - 1 , arr , sort_track , increment ) 		113
+return sort_track 		115
+def quick_sort ( self ) : 		117
+arr = copy . copy ( self . array ) 		124
+path_track = [ ( arr , 0 ) ] 		126
+self . _quick_sort_iter ( arr , path_track , 0 , len ( arr ) - 1 ) 		127
+return path_track 		128
+def _quick_sort_iter ( self , arr , path_track , lowindex , highindex ) : 		130
+pivotindex = 0 		134
+if lowindex < highindex : 		135
+pivotindex = self . _partion ( arr , lowindex , highindex ) 		136
+path_track . append ( ( copy . copy ( arr ) , pivotindex ) ) 		137
+self . _quick_sort_iter ( arr , path_track , lowindex , pivotindex - 1 ) 		138
+self . _quick_sort_iter ( arr , path_track , pivotindex + 1 , highindex ) 		139
+def _partion ( self , arr , lowindex , highindex ) : 		141
+temp = arr [ lowindex ] 		146
+arr [ lowindex ] = arr [ ( highindex + lowindex ) / 2 ] 		147
+arr [ ( lowindex + highindex ) / 2 ] = temp 		148
+pivot = arr [ lowindex ] 		150
+lastsmall = lowindex 		151
+for i in xrange ( lowindex + 1 , highindex + 1 ) : 		153
+if arr [ i ] < pivot : 		154
+lastsmall += 1 		155
+temp = arr [ i ] 		156
+arr [ i ] = arr [ lastsmall ] 		157
+arr [ lastsmall ] = temp 		158
+temp = arr [ lastsmall ] 		160
+arr [ lastsmall ] = arr [ lowindex ] 		161
+arr [ lowindex ] = temp 		162
+return lastsmall 		164
+def merge_sort_1 ( self ) : 		166
+arr = copy . copy ( self . array ) 		173
+print arr 		174
+path_track = [ ( copy . copy ( arr ) , 0 ) ] 		175
+path_track . append ( ( [ ] , 0 ) ) 		176
+sort_arr = self . _merge_sort_iter ( arr , path_track ) 		177
+print sort_arr 		178
+return path_track 		179
+def _merge_sort_iter_1 ( self , arr , path_track ) : 		181
+mid = int ( len ( arr ) / 2 ) 		182
+path_track . append ( ( copy . copy ( arr ) , mid ) ) 		183
+if len ( arr ) <= 1 : 		184
+return arr 		185
+return self . _merge ( self . _merge_sort_iter ( arr [ : mid ] , path_track ) , 		186
+self . _merge_sort_iter ( arr [ mid : ] , path_track ) ) 		187
+def _merge ( self , list1 , list2 ) : 		189
+final = [ ] 		193
+while list1 and list2 : 		194
+final . append ( list1 [ 0 ] <= list2 [ 0 ] and list1 . pop ( 0 ) or list2 . pop ( 0 ) ) 		195
+final_list = final + list1 + list2 		197
+return final_list 		198
+def merge_sort ( self ) : 		200
+arr = copy . copy ( self . array ) 		207
+path_track = [ ( copy . copy ( arr ) , 0 ) ] 		208
+self . _merge_sort ( arr , 0 , len ( arr ) - 1 , path_track ) 		209
+return path_track 		210
+def _merge_sort ( self , arr , low , high , path_track ) : 		212
+if high - low < 1 : 		213
+return 		214
+mid = ( low + high ) // 2 		215
+self . _merge_sort ( arr , low , mid , path_track ) 		217
+self . _merge_sort ( arr , mid + 1 , high , path_track ) 		218
+first = low 		220
+middle = mid 		221
+while first <= middle and middle + 1 <= high : 		223
+if arr [ first ] >= arr [ middle + 1 ] : 		224
+self . _insert_before ( arr , middle + 1 , first ) 		227
+middle += 1 		228
+path_track . append ( ( copy . copy ( arr ) , middle ) ) 		229
+first += 1 		230
+def _insert_before ( self , arr , from_index , to_index ) : 		232
+value = copy . copy ( arr [ from_index ] ) 		237
+copy_arr = copy . copy ( arr ) 		240
+if from_index == to_index : 		242
+return 		243
+for i in xrange ( to_index , from_index ) : 		245
+arr [ i + 1 ] = copy_arr [ i ] 		246
+arr [ to_index ] = value 		248
+if to_index < from_index : 		250
+from_index += 1 		251

@@ -1,0 +1,42 @@
+import itertools 		1
+def get_winner ( a , b ) : 		4
+if a == 0 : 		5
+if b == 2 : 		6
+return b 		7
+else : 		8
+return a 		9
+elif a == 1 : 		11
+if b == 0 : 		12
+return b 		13
+else : 		14
+return a 		15
+else : 		16
+if b == 1 : 		17
+return b 		18
+else : 		19
+return a 		20
+def is_valid ( comb ) : 		23
+if len ( comb ) == 1 : 		24
+return True 		25
+new_comb = [ ] 		26
+for i in range ( len ( comb ) / 2 ) : 		27
+if comb [ 2 * i ] == comb [ 2 * i + 1 ] : 		28
+return False 		29
+else : 		30
+new_comb . append ( get_winner ( comb [ 2 * i ] , comb [ 2 * i + 1 ] ) ) 		31
+return is_valid ( new_comb ) 		33
+def solve ( n , r , p , s ) : 		36
+IMPOSSIBLE = "IMPOSSIBLE" 		37
+dic = { 1 : "R" , 0 : "P" , 2 : "S" } 		38
+for comb in sorted ( set ( itertools . permutations ( [ 1 ] * r + [ 0 ] * p + [ 2 ] * s , n ) ) ) : 		39
+if is_valid ( comb ) : 		40
+return reduce ( lambda a , b : a + b , map ( dic . get , comb ) ) 		41
+return IMPOSSIBLE 		42
+def main ( ) : 		45
+with open ( "A-input.in" ) as fin : 		46
+with open ( "A-output.out" , 'w' ) as fout : 		47
+num_t = int ( fin . readline ( ) ) 		48
+for t in xrange ( num_t ) : 		49
+n , r , p , s = map ( int , fin . readline ( ) . strip ( ) . split ( ) ) 		50
+fout . write ( "Case #%d: %s\n" % ( t + 1 , solve ( 2 ** n , r , p , s ) ) ) 		51
+main ( ) 		53

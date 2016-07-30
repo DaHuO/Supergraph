@@ -1,0 +1,62 @@
+from collections import * 		8
+import itertools as ito 		9
+import operator as op 		10
+import functools as ft 		11
+from sys import argv , stdin , stdout , stderr , setrecursionlimit 		12
+errprt = ft . partial ( print , file = stderr ) 		16
+def readcase ( f ) : 		18
+n , r , p , s = readints ( f ) 		19
+return ( r , p , s , n ) 		20
+def solvecase ( case ) : 		22
+( r , p , s , n ) = case 		23
+if max ( r , p , s ) != min ( r , p , s ) + 1 : 		24
+return 'IMPOSSIBLE' 		25
+return bestout ( n , ( p , r , s ) ) 		26
+def bestout ( n , prs ) : 		28
+if n == 1 : 		29
+return '' . join ( c for c , i in zip ( 'PRS' , prs ) if i ) 		30
+if n & 1 : 		31
+i = prs . index ( min ( prs ) ) 		32
+k = prs [ i ] // 2 		33
+half = [ ] 		34
+for j in range ( 3 ) : 		35
+if i != j : 		36
+prs1 = [ k , k , k ] 		37
+prs1 [ j ] += 1 		38
+half . append ( bestout ( n - 1 , prs1 ) ) 		39
+else : 		40
+i = prs . index ( max ( prs ) ) 		41
+k = prs [ i ] // 2 		42
+half = [ ] 		43
+for j in range ( 3 ) : 		44
+if i != j : 		45
+prs1 = [ k , k , k ] 		46
+prs1 [ j ] -= 1 		47
+half . append ( bestout ( n - 1 , prs1 ) ) 		48
+if half [ 0 ] > half [ 1 ] : 		49
+half = reversed ( half ) 		50
+return '' . join ( half ) 		51
+def readints ( f ) : 		53
+return list ( map ( int , f . readline ( ) . strip ( ) . split ( ' ' ) ) ) 		54
+def readflds ( f , types ) : 		56
+if isinstance ( types , tuple ) : 		57
+return [ typ ( fld ) for fld , typ 		58
+in zip ( f . readline ( ) . strip ( ) . split ( ) , 		59
+ito . chain ( types , ito . repeat ( types [ - 1 ] ) ) ) ] 		60
+else : 		61
+return [ types ( fld ) for fld in f . readline ( ) . strip ( ) . split ( ) ] 		62
+def main ( ) : 		64
+with open ( argv [ 1 ] ) as f , open ( 'out' , 'w' ) as out : 		65
+cases = int ( f . readline ( ) ) 		66
+for ncase in range ( 1 , cases + 1 ) : 		67
+case = readcase ( f ) 		68
+soln = solvecase ( case ) 		69
+if len ( argv ) > 2 : 		70
+print ( 'Case #%d: %s' % ( ncase , soln ) ) 		71
+print ( 'Case #%d: %s' % ( ncase , soln ) , file = out ) 		72
+from datetime import datetime 		74
+start = datetime . now ( ) 		76
+print ( str ( start ) ) 		77
+main ( ) 		78
+stop = datetime . now ( ) 		79
+print ( str ( stop - start ) ) 		80

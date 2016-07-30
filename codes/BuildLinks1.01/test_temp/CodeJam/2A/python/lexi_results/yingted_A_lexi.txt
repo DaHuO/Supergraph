@@ -1,0 +1,63 @@
+forbidden_child_ = { 		2
+'RP' : None , 		3
+'PR' : 'P' , 		4
+'PS' : None , 		5
+'SP' : 'S' , 		6
+'SR' : None , 		7
+'RS' : 'R' , 		8
+} 		9
+def forbidden_child ( winner , other ) : 		10
+return forbidden_child_ [ winner + other ] 		11
+winner = { 		13
+'RP' : 'P' , 		14
+'PR' : 'P' , 		15
+'PS' : 'S' , 		16
+'SP' : 'S' , 		17
+'RS' : 'R' , 		18
+'SR' : 'R' , 		19
+} 		20
+def combine ( x , y ) : 		22
+if None in ( x , y ) : 		23
+return None 		24
+return winner . get ( x + y , 'ERROR' ) 		25
+def main ( ) : 		27
+for t in xrange ( 1 , 1 + int ( raw_input ( ) ) ) : 		28
+print 'Case #%d:' % t , 		29
+N , R , P , S = map ( int , raw_input ( ) . split ( ) ) 		30
+amt = { 'P' : P , 'R' : R , 'S' : S } 		31
+ans = [ None ] * ( ( 1 << ( N + 1 ) ) + 1 ) 		32
+last = 1 << N 		33
+def update ( i , x ) : 		35
+assert 0 <= i < ( 1 << N ) 		36
+j = last + i 		37
+while j != 0 : 		38
+y = combine ( x , ans [ j ^ 1 ] ) 		39
+if y == 'ERROR' : 		40
+return False 		41
+ans [ j ] = x 		42
+x = y 		43
+j /= 2 		44
+return True 		45
+def assign ( i , x ) : 		47
+if i == ( 1 << N ) : 		48
+return True 		49
+if amt [ x ] == 0 : 		51
+return False 		52
+amt [ x ] -= 1 		55
+if update ( i , x ) : 		56
+for x2 in 'PRS' : 		57
+if assign ( i + 1 , x2 ) : 		58
+return True 		59
+update ( i , None ) 		60
+amt [ x ] += 1 		62
+return False 		63
+def solve ( ) : 		65
+for x in 'PRS' : 		66
+if assign ( 0 , x ) : 		67
+return True 		68
+if solve ( ) : 		70
+print '' . join ( ans [ last : last + ( 1 << N ) ] ) 		71
+else : 		72
+print 'IMPOSSIBLE' 		73
+if __name__ == '__main__' : 		75
+main ( ) 		76

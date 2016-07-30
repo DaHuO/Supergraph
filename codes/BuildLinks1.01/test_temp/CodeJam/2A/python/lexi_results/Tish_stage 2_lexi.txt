@@ -1,0 +1,172 @@
+import sys 		1
+f = open ( 'C:\\Users\\Tish\\Desktop\\input3.in' , 'r' ) 		3
+g = open ( 'C:\\Users\\Tish\\Desktop\\output.txt' , 'w' ) 		4
+def read ( ) : 		6
+return f . readline ( ) 		7
+def finish ( a ) : 		9
+for i in range ( 10 ) : 		10
+if ( a [ i ] == 0 ) : 		11
+return 0 		12
+return 1 		13
+def output ( i , out ) : 		16
+g . write ( 'Case #' + str ( i + 1 ) + ': ' + str ( out ) + '\n' ) 		17
+def output1 ( i , out ) : 		18
+g . write ( 'Case #' + str ( i + 1 ) + ': ' ) 		19
+for i in out : 		20
+if i == 0 : 		21
+g . write ( 'P' ) 		22
+if i == 1 : 		23
+g . write ( 'R' ) 		24
+if i == 2 : 		25
+g . write ( 'S' ) 		26
+g . write ( '\n' ) 		27
+def my_print ( x ) : 		29
+g . write ( x ) 		30
+def calc ( n , res ) : 		33
+tmp = [ 0 , 0 , 0 ] 		34
+tmp2 = [ 0 , 0 , 0 ] 		35
+tmp [ 0 ] = res [ 0 ] 		36
+tmp [ 1 ] = res [ 1 ] 		37
+tmp [ 2 ] = res [ 2 ] 		38
+for i in range ( n ) : 		39
+tmp2 [ 0 ] = tmp [ 0 ] + tmp [ 1 ] 		40
+tmp2 [ 1 ] = tmp [ 1 ] + tmp [ 2 ] 		41
+tmp2 [ 2 ] = tmp [ 2 ] + tmp [ 0 ] 		42
+tmp = tmp2 		43
+return tmp 		44
+def convert ( sp , sr , ss ) : 		46
+if sp < sr : 		47
+np = sp + sr 		48
+else : 		49
+np = sr + sp 		50
+if sp < ss : 		51
+ns = sp + ss 		52
+else : 		53
+ns = ss + sp 		54
+if ss < sr : 		55
+nr = ss + sr 		56
+else : 		57
+nr = sr + ss 		58
+return ( np , nr , ns ) 		60
+def count ( x ) : 		62
+res = [ 0 , 0 , 0 ] 		63
+for i in x : 		64
+res [ i ] = res [ i ] + 1 		65
+return res 		66
+def q1 ( ind ) : 		67
+a = read ( ) . strip ( ) . split ( ' ' ) 		68
+n = int ( a [ 0 ] ) 		69
+r = int ( a [ 1 ] ) 		70
+p = int ( a [ 2 ] ) 		71
+s = int ( a [ 3 ] ) 		72
+b = [ p , r , s ] 		73
+sp = [ 0 ] 		75
+sr = [ 1 ] 		76
+ss = [ 2 ] 		77
+for i in range ( n ) : 		78
+( sp , sr , ss ) = convert ( sp , sr , ss ) 		79
+if count ( sp ) == b : 		80
+output1 ( ind , sp ) 		81
+return 		82
+if count ( ss ) == b : 		83
+output1 ( ind , ss ) 		84
+return 		85
+if count ( sr ) == b : 		86
+output1 ( ind , sr ) 		87
+return 		88
+output ( ind , 'IMPOSSIBLE' ) 		89
+def q1old ( ) : 		96
+n = int ( read ( ) ) 		97
+a = read ( ) . strip ( ) . split ( ' ' ) 		98
+for i in range ( n ) : 		99
+a [ i ] = int ( a [ i ] ) 		100
+m = 0 		102
+m2 = 0 		103
+ind = - 1 		104
+ind2 = - 1 		105
+for i in range ( n ) : 		106
+if ( m < a [ i ] ) : 		107
+m = a [ i ] 		108
+ind = i 		109
+for i in range ( n ) : 		110
+if i != ind : 		111
+if ( m2 < a [ i ] ) : 		112
+m2 = a [ i ] 		113
+ind2 = i 		114
+res = "" 		115
+for i in range ( m - m2 ) : 		116
+res = res + chr ( ord ( 'A' ) + ind ) + " " 		117
+for i in range ( n ) : 		118
+if i != ind and i != ind2 : 		119
+for j in range ( a [ i ] ) : 		120
+res = res + chr ( ord ( 'A' ) + i ) + " " 		121
+for i in range ( m2 - 1 ) : 		122
+res = res + chr ( ord ( 'A' ) + ind ) + chr ( ord ( 'A' ) + ind2 ) + " " 		123
+res = res + chr ( ord ( 'A' ) + ind ) + chr ( ord ( 'A' ) + ind2 ) 		124
+return res 		125
+def q2old ( test ) : 		127
+a = read ( ) . strip ( ) . split ( ' ' ) 		128
+b = int ( a [ 0 ] ) 		129
+m = int ( a [ 1 ] ) 		130
+if m > ( 2 ** ( b - 2 ) ) : 		131
+g . write ( 'Case #' + str ( test + 1 ) + ': ' + 'IMPOSSIBLE' + '\n' ) 		132
+return 		133
+g . write ( 'Case #' + str ( test + 1 ) + ': ' + 'POSSIBLE' + '\n' ) 		134
+x = 0 		135
+for i in range ( b ) : 		136
+if ( 2 ** x ) < m : 		137
+x = x + 1 		138
+mat = [ [ 0 for i in range ( b ) ] for j in range ( b ) ] 		139
+for i in range ( x + 1 ) : 		140
+for j in range ( i ) : 		141
+mat [ j ] [ i ] = 1 		142
+if ( 2 ** x ) == m : 		143
+for i in range ( x + 1 ) : 		144
+mat [ i ] [ x + 1 ] = 1 		145
+else : 		146
+s = 1 		147
+while m > 0 : 		148
+if m % 2 == 1 : 		149
+mat [ s ] [ x + 1 ] = 1 		150
+m = m // 2 		151
+s = s + 1 		152
+for i in range ( b - x - 2 ) : 		153
+mat [ x + 1 + i ] [ x + 2 + i ] = 1 		154
+for i in range ( b ) : 		155
+for j in range ( b ) : 		156
+my_print ( str ( mat [ i ] [ j ] ) ) 		157
+my_print ( '\n' ) 		158
+def q3old ( test ) : 		161
+a = read ( ) . strip ( ) . split ( ' ' ) 		162
+j = int ( a [ 0 ] ) 		163
+p = int ( a [ 1 ] ) 		164
+s = int ( a [ 2 ] ) 		165
+k = int ( a [ 3 ] ) 		166
+res = j * p * min ( k , s ) 		167
+g . write ( 'Case #' + str ( test + 1 ) + ': ' + str ( res ) + '\n' ) 		168
+if k >= p : 		169
+for i in range ( j ) : 		170
+for l in range ( p ) : 		171
+for m in range ( min ( k , s ) ) : 		172
+my_print ( str ( i + 1 ) + ' ' + str ( l + 1 ) + ' ' + str ( m + 1 ) + '\n' ) 		173
+return 		174
+if p == 2 : 		175
+if j == 1 : 		176
+my_print ( '1 1 1\n1 2 2\n' ) 		177
+else : 		178
+my_print ( '1 1 1\n1 2 2\n2 1 2\n2 2 1\n' ) 		179
+return 		180
+if k == 1 : 		181
+mat = [ [ 1 , 1 , 1 ] , [ 1 , 2 , 2 ] , [ 1 , 3 , 3 ] , [ 2 , 1 , 2 ] , [ 2 , 2 , 3 ] , [ 2 , 3 , 1 ] , [ 3 , 1 , 3 ] , [ 3 , 2 , 1 ] , [ 3 , 3 , 2 ] ] 		182
+for i in range ( 3 * j ) : 		183
+my_print ( str ( mat [ i ] [ 0 ] ) + ' ' + str ( mat [ i ] [ 1 ] ) + ' ' + str ( mat [ i ] [ 2 ] ) + '\n' ) 		184
+return 		185
+mat = [ [ 1 , 1 , 1 ] , [ 1 , 1 , 2 ] , [ 1 , 2 , 3 ] , [ 1 , 2 , 1 ] , [ 1 , 3 , 2 ] , [ 1 , 3 , 3 ] , [ 2 , 1 , 2 ] , [ 2 , 1 , 3 ] , [ 2 , 2 , 1 ] , [ 2 , 2 , 2 ] , [ 2 , 3 , 3 ] , [ 2 , 3 , 1 ] , [ 3 , 1 , 3 ] , [ 3 , 1 , 1 ] , [ 3 , 2 , 2 ] , [ 3 , 2 , 3 ] , [ 3 , 3 , 1 ] , [ 3 , 3 , 2 ] ] 		186
+for i in range ( 6 * j ) : 		187
+my_print ( str ( mat [ i ] [ 0 ] ) + ' ' + str ( mat [ i ] [ 1 ] ) + ' ' + str ( mat [ i ] [ 2 ] ) + '\n' ) 		188
+def main ( ) : 		191
+t = int ( read ( ) ) 		192
+for i in range ( t ) : 		193
+q1 ( i ) 		194
+g . close ( ) 		195
+main ( ) 		199

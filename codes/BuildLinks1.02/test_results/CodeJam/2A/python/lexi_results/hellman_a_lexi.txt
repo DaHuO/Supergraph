@@ -1,0 +1,60 @@
+import sys , math , random , operator 		4
+from string import ascii_lowercase 		5
+from string import ascii_uppercase 		6
+from fractions import Fraction , gcd 		7
+from decimal import Decimal , getcontext 		8
+from itertools import product , permutations , combinations 		9
+from Queue import Queue , PriorityQueue 		10
+from collections import deque , defaultdict , Counter 		11
+getcontext ( ) . prec = 100 		12
+MOD = 10 ** 9 + 7 		14
+INF = float ( "+inf" ) 		15
+if sys . subversion [ 0 ] != "CPython" : 		17
+raw_input = lambda : sys . stdin . readline ( ) . rstrip ( ) 		18
+pr = lambda * args : sys . stdout . write ( " " . join ( str ( x ) for x in args ) + "\n" ) 		19
+epr = lambda * args : sys . stderr . write ( " " . join ( str ( x ) for x in args ) + "\n" ) 		20
+die = lambda * args : pr ( * args ) ^ exit ( 0 ) 		21
+read_str = raw_input 		23
+read_strs = lambda : raw_input ( ) . split ( ) 		24
+read_int = lambda : int ( raw_input ( ) ) 		25
+read_ints = lambda : map ( int , raw_input ( ) . split ( ) ) 		26
+read_float = lambda : float ( raw_input ( ) ) 		27
+read_floats = lambda : map ( float , raw_input ( ) . split ( ) ) 		28
+"---------------------------------------------------------------" 		30
+c_to_lr = dict ( s = "ps" , r = "rs" , p = "pr" ) 		32
+class Node ( object ) : 		34
+def __init__ ( self , c , h ) : 		35
+self . c = c 		36
+self . h = h 		37
+self . l = None 		38
+self . r = None 		39
+if h > 0 : 		40
+l , r = c_to_lr [ c ] 		41
+self . l = Node ( l , h - 1 ) 		42
+self . r = Node ( r , h - 1 ) 		43
+def collapse ( self ) : 		45
+if self . h == 0 : 		46
+return 		47
+self . l . collapse ( ) 		48
+self . r . collapse ( ) 		49
+if self . l . c > self . r . c : 		50
+self . l , self . r = self . r , self . l 		51
+self . c = self . l . c + self . r . c 		52
+def solve ( n , cr , cp , cs ) : 		54
+words = [ ] 		55
+for c in "prs" : 		56
+w = Node ( c , n ) 		57
+w . collapse ( ) 		58
+s = w . c 		59
+if s . count ( "p" ) != cp : 		61
+continue 		62
+if s . count ( "r" ) != cr : 		63
+continue 		64
+if s . count ( "s" ) != cs : 		65
+continue 		66
+words . append ( s ) 		67
+return min ( words ) if words else "IMPOSSIBLE" 		68
+t = read_int ( ) 		70
+for t in xrange ( 1 , t + 1 ) : 		71
+n , r , p , s = read_ints ( ) 		72
+print "Case #%d: %s" % ( t , solve ( n , r , p , s ) . upper ( ) ) 		73

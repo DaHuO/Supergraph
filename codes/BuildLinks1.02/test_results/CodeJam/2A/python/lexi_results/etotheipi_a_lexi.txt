@@ -1,0 +1,35 @@
+def compete ( lineup ) : 		1
+ret = [ ] 		2
+for i in xrange ( len ( lineup ) / 2 ) : 		3
+first = lineup [ 2 * i ] 		4
+second = lineup [ 2 * i + 1 ] 		5
+if first == second : return None 		6
+if first == 'R' : 		7
+if second == 'P' : ret . append ( 'P' ) 		8
+else : ret . append ( 'R' ) 		9
+elif first == 'P' : 		10
+if second == 'S' : ret . append ( 'S' ) 		11
+else : ret . append ( 'P' ) 		12
+else : 		13
+if second == 'R' : ret . append ( 'R' ) 		14
+else : ret . append ( 'S' ) 		15
+return ret 		16
+import itertools 		18
+IN = open ( 'input.txt' , 'r' ) 		20
+OUT = open ( 'output.txt' , 'w' ) 		21
+NUM_TESTS = int ( IN . readline ( ) ) 		23
+for test in xrange ( NUM_TESTS ) : 		25
+N , R , P , S = map ( int , IN . readline ( ) . split ( ) ) 		26
+x = ( 'P' * P ) + ( 'R' * R ) + ( 'S' * S ) 		28
+answer = 'IMPOSSIBLE' 		29
+for lineup in itertools . permutations ( x ) : 		31
+temp = lineup 		32
+while lineup and len ( lineup ) > 1 : 		33
+lineup = compete ( lineup ) 		34
+if lineup : 		35
+answer = '' . join ( temp ) 		36
+break 		37
+OUT . write ( 'Case #{}: {}\n' . format ( test + 1 , answer ) ) 		39
+print test + 1 , answer 		40
+IN . close ( ) 		42
+OUT . close ( ) 		43

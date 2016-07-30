@@ -1,0 +1,48 @@
+import sys 		3
+def first_lineup ( n , r , p , s ) : 		5
+if n == 1 : 		7
+if max ( r , p , s ) > 1 : 		8
+raise ValueError 		9
+return 'P' * p + 'R' * r + 'S' * s 		10
+m = min ( r , p , s ) 		11
+dp , dr , ds = p - m , r - m , s - m 		12
+if n % 2 == 1 : 		13
+m3 = m // 2 		14
+if dp == dr == 1 and ds == 0 : 		15
+lp , lr , ls = 1 , 0 , 0 		16
+rp , rr , rs = 0 , 1 , 0 		17
+elif dr == ds == 1 and dp == 0 : 		18
+lp , lr , ls = 0 , 1 , 0 		19
+rp , rr , rs = 0 , 0 , 1 		20
+elif dp == ds == 1 and dr == 0 : 		21
+lp , lr , ls = 1 , 0 , 0 		22
+rp , rr , rs = 0 , 0 , 1 		23
+else : 		24
+raise ValueError 		25
+left = first_lineup ( n - 1 , m3 + lr , m3 + lp , m3 + ls ) 		26
+right = first_lineup ( n - 1 , m3 + rr , m3 + rp , m3 + rs ) 		27
+return left + right 		28
+else : 		29
+m3 = ( m + 1 ) // 2 		30
+if dp == dr == 0 and ds == 1 : 		31
+lp , lr , ls = 0 , 1 , 0 		32
+rp , rr , rs = 1 , 0 , 0 		33
+elif dr == ds == 0 and dp == 1 : 		34
+lp , lr , ls = 0 , 0 , 1 		35
+rp , rr , rs = 0 , 1 , 0 		36
+elif dp == ds == 0 and dr == 1 : 		37
+lp , lr , ls = 0 , 0 , 1 		38
+rp , rr , rs = 1 , 0 , 0 		39
+else : 		40
+raise ValueError 		41
+left = first_lineup ( n - 1 , m3 - lr , m3 - lp , m3 - ls ) 		42
+right = first_lineup ( n - 1 , m3 - rr , m3 - rp , m3 - rs ) 		43
+return left + right 		44
+t = int ( input ( ) ) 		47
+for _ in range ( t ) : 		48
+n , r , p , s = ( int ( i ) for i in input ( ) . split ( ) ) 		49
+try : 		51
+ans = first_lineup ( n , r , p , s ) 		52
+except ValueError : 		53
+ans = 'IMPOSSIBLE' 		54
+print ( 'Case #{}: {}' . format ( _ + 1 , ans ) ) 		56

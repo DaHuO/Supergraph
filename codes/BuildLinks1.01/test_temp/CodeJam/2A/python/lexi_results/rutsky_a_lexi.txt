@@ -1,0 +1,32 @@
+import sys 		2
+import itertools 		3
+sys . stdin = open ( "A-small-attempt0.in" , "rt" ) 		7
+sys . stdout = open ( "A-small-attempt0.out" , "wt" ) 		8
+class SameError ( Exception ) : 		13
+pass 		14
+def choose ( a , b ) : 		17
+if { a , b } == { 'R' , 'P' } : 		18
+return 'P' 		19
+if { a , b } == { 'R' , 'S' } : 		20
+return 'R' 		21
+if { a , b } == { 'P' , 'S' } : 		22
+return 'S' 		23
+raise SameError 		24
+def check ( line ) : 		27
+if len ( line ) == 1 : 		28
+return True 		29
+else : 		30
+try : 		31
+assert len ( line ) % 2 == 0 		32
+return check ( [ choose ( a , b ) for a , b in zip ( line [ : : 2 ] , line [ 1 : : 2 ] ) ] ) 		33
+except SameError : 		34
+return False 		35
+def solve ( N , R , P , S ) : 		38
+for perm in itertools . permutations ( 'P' * P + 'R' * R + 'S' * S ) : 		39
+if check ( perm ) : 		40
+return "" . join ( perm ) 		41
+return "IMPOSSIBLE" 		43
+cases = int ( input ( ) ) 		48
+for case_idx in range ( cases ) : 		49
+N , R , P , S = list ( map ( int , input ( ) . split ( ) ) ) 		50
+print ( "Case #{}: {}" . format ( case_idx + 1 , solve ( N , R , P , S ) ) ) 		51

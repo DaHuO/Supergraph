@@ -1,0 +1,133 @@
+def get2min ( x ) : 		3
+tmp = 2 		4
+while tmp <= x : 		5
+tmp = tmp * 2 		6
+return tmp / 2 		7
+def test ( N , R , P , S , target ) : 		10
+length = 2 ** N 		11
+if R + P + S != length : 		12
+return 'IMPOSSIBLE' 		13
+ans = '' 		14
+if target == 'R' : 		15
+ans += 'R' 		16
+R -= 1 		17
+if R < 0 : 		18
+return 'IMPOSSIBLE' 		19
+elif target == 'P' : 		20
+ans += 'P' 		21
+P -= 1 		22
+if P < 0 : 		23
+return 'IMPOSSIBLE' 		24
+elif target == 'S' : 		25
+ans += 'S' 		26
+S -= 1 		27
+if S < 0 : 		28
+return 'IMPOSSIBLE' 		29
+while len ( ans ) != length : 		30
+tmpl = len ( ans ) 		31
+if tmpl % 2 != 0 : 		32
+if ans [ - 1 ] == 'R' : 		33
+ans += 'S' 		34
+S -= 1 		35
+if S < 0 : 		36
+return 'IMPOSSIBLE' 		37
+elif ans [ - 1 ] == 'P' : 		38
+ans += 'R' 		39
+R -= 1 		40
+if R < 0 : 		41
+return 'IMPOSSIBLE' 		42
+elif ans [ - 1 ] == 'S' : 		43
+ans += 'P' 		44
+P -= 1 		45
+if P < 0 : 		46
+return 'IMPOSSIBLE' 		47
+else : 		48
+min2 = get2min ( tmpl ) 		49
+if min2 == tmpl : 		50
+if ans [ 0 ] == 'R' : 		51
+ans += 'S' 		52
+S -= 1 		53
+if S < 0 : 		54
+return 'IMPOSSIBLE' 		55
+elif ans [ 0 ] == 'P' : 		56
+ans += 'R' 		57
+R -= 1 		58
+if R < 0 : 		59
+return 'IMPOSSIBLE' 		60
+elif ans [ 0 ] == 'S' : 		61
+ans += 'P' 		62
+P -= 1 		63
+if P < 0 : 		64
+return 'IMPOSSIBLE' 		65
+else : 		66
+if ans [ min2 ] == 'R' : 		67
+ans += 'S' 		68
+S -= 1 		69
+if S < 0 : 		70
+return 'IMPOSSIBLE' 		71
+elif ans [ min2 ] == 'P' : 		72
+ans += 'R' 		73
+R -= 1 		74
+if R < 0 : 		75
+return 'IMPOSSIBLE' 		76
+elif ans [ min2 ] == 'S' : 		77
+ans += 'P' 		78
+P -= 1 		79
+if P < 0 : 		80
+return 'IMPOSSIBLE' 		81
+return ans 		82
+def alpha ( ans ) : 		85
+if ans == 'IMPOSSIBLE' : 		86
+return ans 		87
+tmp = '' 		88
+length = len ( ans ) 		89
+if length == 2 : 		90
+if ans [ 0 ] < ans [ 1 ] : 		91
+return ans 		92
+else : 		93
+return ans [ 1 ] + ans [ 0 ] 		94
+str1 = ans [ 0 : len ( ans ) / 2 ] 		95
+str2 = ans [ len ( ans ) / 2 : len ( ans ) ] 		96
+str1 = alpha ( str1 ) 		97
+str2 = alpha ( str2 ) 		98
+if str1 < str2 : 		99
+return str1 + str2 		100
+else : 		101
+return str2 + str1 		102
+def findans ( N , R , P , S ) : 		105
+str1 = alpha ( test ( N , R , P , S , 'R' ) ) 		106
+str2 = alpha ( test ( N , R , P , S , 'P' ) ) 		107
+str3 = alpha ( test ( N , R , P , S , 'S' ) ) 		108
+valid = [ ] 		109
+if str1 != 'IMPOSSIBLE' : 		110
+valid . append ( str1 ) 		111
+if str2 != 'IMPOSSIBLE' : 		112
+valid . append ( str2 ) 		113
+if str3 != 'IMPOSSIBLE' : 		114
+valid . append ( str3 ) 		115
+if valid == [ ] : 		116
+return 'IMPOSSIBLE' 		117
+else : 		118
+min0 = valid [ 0 ] [ 0 ] 		119
+minn = 0 		120
+for i in range ( len ( valid ) ) : 		121
+string = valid [ i ] 		122
+if string [ 0 ] < min0 : 		123
+min0 = string [ 0 ] 		124
+minn = i 		125
+return valid [ minn ] 		126
+f = open ( "a.txt" ) 		131
+lines = f . readlines ( ) 		133
+T = int ( lines [ 0 ] ) 		135
+cnt = 0 		137
+anslines = [ ] 		138
+ansf = open ( 'b.txt' , 'w' ) 		139
+for line in lines [ 1 : ] : 		140
+cnt += 1 		141
+line = line . split ( ' ' ) 		142
+N = int ( line [ 0 ] ) 		143
+R = int ( line [ 1 ] ) 		144
+P = int ( line [ 2 ] ) 		145
+S = int ( line [ 3 ] ) 		146
+ansstr = 'Case #' + str ( cnt ) + ': ' + findans ( N , R , P , S ) 		148
+print >> ansf , ansstr 		149

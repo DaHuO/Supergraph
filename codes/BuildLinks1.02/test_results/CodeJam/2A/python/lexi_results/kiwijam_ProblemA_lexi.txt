@@ -1,0 +1,42 @@
+import sys 		2
+from time import time 		3
+def init_script ( infilecode , is_practice = False ) : 		7
+global start_time , fin , fout , printoutput 		8
+start_time = time ( ) 		9
+practice_filename_options = { 'E' : 'example.txt' , 'A1' : 'A-small-practice.in' , 'A2' : 'A-large-practice.in' , 'B1' : 'B-small-practice.in' , 'B2' : 'B-large-practice.in' , 'C1' : 'C-small-practice.in' , 'C2' : 'C-large-practice.in' , 'D1' : 'D-small-practice.in' , 'D2' : 'D-large-practice.in' } 		10
+filename_options = { 'E' : 'example.txt' , 'A1' : 'A-small-attempt0.in' , 'A2' : 'A-large.in' , 'B1' : 'B-small-attempt1.in' , 'B2' : 'B-large.in' , 'C1' : 'C-small-attempt1.in' , 'C2' : 'C-large.in' , 'D1' : 'D-small-attempt1.in' , 'D2' : 'D-large.in' } 		11
+file_in = practice_filename_options [ infilecode ] if is_practice else filename_options [ infilecode ] 		12
+fin = open ( file_in , 'r' ) 		13
+sys . stdin = fin 		14
+foutname = fin . name . replace ( ".in" , ".out.txt" ) if file_in != 'example.txt' else 'example.out.txt' 		15
+fout = open ( foutname , 'w' ) 		16
+printoutput = lambda * args : print ( * args , flush = True , file = fout ) or print ( * args , flush = True , file = sys . stdout ) 		17
+def end_script ( ) : 		19
+print ( "Elapsed time =" , round ( time ( ) - start_time , 3 ) , "seconds." ) 		20
+init_script ( 'A2' , is_practice = False ) 		24
+T = int ( input ( ) ) 		26
+for case in range ( 1 , T + 1 ) : 		28
+ans = 0 		30
+N , R , P , S = [ int ( x ) for x in input ( ) . split ( ) ] 		31
+if abs ( R - P ) > 1 or abs ( R - S ) > 1 or abs ( S - P ) > 1 : 		33
+printoutput ( "Case #" + str ( case ) + ":" , 'IMPOSSIBLE' ) 		34
+continue 		35
+F = [ 0 ] * ( N + 1 ) 		39
+F [ 0 ] = ( 'P' , 'S' , 'R' ) 		41
+n = 0 		42
+f = ( 'PR' , 'PS' , 'RS' ) 		43
+n = 1 		44
+while n < N : 		46
+fa = f [ 0 ] 		48
+fb = f [ 1 ] 		49
+fc = f [ 2 ] 		50
+ga = min ( fa + fb , fb + fa ) 		51
+gb = min ( fa + fc , fc + fa ) 		52
+gc = min ( fc + fb , fb + fc ) 		53
+f = ( ga , gb , gc ) 		54
+n += 1 		55
+for opt in f : 		57
+if P == opt . count ( 'P' ) and R == opt . count ( 'R' ) : 		58
+ans = opt 		59
+printoutput ( "Case #" + str ( case ) + ":" , ans ) 		62
+end_script ( ) 		66

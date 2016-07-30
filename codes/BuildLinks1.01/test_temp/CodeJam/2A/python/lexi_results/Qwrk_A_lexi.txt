@@ -1,0 +1,45 @@
+from collections import deque 		1
+P , R , S = 0 , 1 , 2 		4
+match = { 0 : [ P , R ] , 1 : [ R , S ] , 2 : [ P , S ] } 		5
+tr = { 0 : 'P' , 1 : 'R' , 2 : 'S' } 		6
+def check ( n , depth ) : 		9
+t = deque ( ) 		10
+t . append ( n ) 		11
+for d in range ( depth ) : 		12
+for i in range ( 2 ** d ) : 		13
+t += match [ t . popleft ( ) ] 		14
+return [ t , t . count ( R ) , t . count ( P ) , t . count ( S ) ] 		15
+def sort_solution ( t , n ) : 		18
+if n == 1 : 		19
+return t 		20
+l = len ( t ) 		21
+t1 = sort_solution ( t [ : l // 2 ] , n - 1 ) 		22
+t2 = sort_solution ( t [ l // 2 : ] , n - 1 ) 		23
+if t1 < t2 : 		24
+return t1 + t2 		25
+else : 		26
+return t2 + t1 		27
+def main ( ) : 		30
+t = int ( input ( ) ) 		31
+for case in range ( 1 , t + 1 ) : 		32
+n , * rps = list ( map ( int , input ( ) . split ( ) ) ) 		33
+print ( 'Case #%d: ' % ( case , ) , end = '' , sep = '' ) 		34
+tp = check ( P , n ) 		35
+rt = check ( R , n ) 		36
+ts = check ( S , n ) 		37
+opts = [ ] 		38
+if rps == tp [ 1 : ] : 		39
+opts . append ( tp [ 0 ] ) 		40
+if rps == rt [ 1 : ] : 		41
+opts . append ( rt [ 0 ] ) 		42
+if rps == ts [ 1 : ] : 		43
+opts . append ( ts [ 0 ] ) 		44
+if len ( opts ) == 0 : 		46
+print ( 'IMPOSSIBLE' ) 		47
+else : 		48
+for i in range ( len ( opts ) ) : 		49
+opts [ i ] = sort_solution ( list ( opts [ i ] ) , n ) 		50
+sorted ( opts ) 		51
+print ( '' . join ( tr [ x ] for x in opts [ 0 ] ) ) 		52
+if __name__ == "__main__" : 		55
+main ( ) 		56

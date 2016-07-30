@@ -1,0 +1,53 @@
+import re 		1
+import sys 		2
+import itertools as it 		3
+import functools as fn 		4
+redtext = sys . stderr . write 		5
+@ fn . lru_cache ( None ) 		7
+def ty ( d , r ) : 		8
+if d == 0 : 		9
+if r == 'r' : 		10
+return r , [ 1 , 0 , 0 ] 		11
+elif r == 's' : 		12
+return r , [ 0 , 1 , 0 ] 		13
+elif r == 'p' : 		14
+return r , [ 0 , 0 , 1 ] 		15
+if r == 'p' : 		16
+o , x = ty ( d - 1 , 'p' ) 		17
+o2 , x2 = ty ( d - 1 , 'r' ) 		18
+elif r == 's' : 		19
+o , x = ty ( d - 1 , 'p' ) 		20
+o2 , x2 = ty ( d - 1 , 's' ) 		21
+elif r == 'r' : 		22
+o , x = ty ( d - 1 , 'r' ) 		23
+o2 , x2 = ty ( d - 1 , 's' ) 		24
+if o2 < o : 		25
+o , x , o2 , x2 = o2 , x2 , o , x 		26
+return o + o2 , [ x [ i ] + x2 [ i ] for i in range ( 3 ) ] 		27
+def calc ( n , * ix ) : 		30
+ix = list ( ix ) 		31
+ix [ 1 ] , ix [ 2 ] = ix [ 2 ] , ix [ 1 ] 		32
+if sum ( ix ) != ( 1 << n ) : 		33
+red ( 'what' ) 		34
+for i in 'rsp' : 		35
+s , out = ty ( n , i ) 		36
+if all ( out [ i ] == ix [ i ] for i in range ( 3 ) ) : 		37
+return s . upper ( ) 		38
+else : 		39
+return 'IMPOSSIBLE' 		40
+def scanit ( ) : 		43
+while True : 		44
+inbuf = ( i . strip ( ) for i in input ( ) . split ( ' ' ) ) 		45
+yield from ( i for i in inbuf if i ) 		46
+scangen = scanit ( ) 		47
+def scans ( ) : return next ( scangen ) 		48
+def scan ( ) : return int ( next ( scangen ) ) 		49
+red = sys . stderr . write 		51
+testcase = 1 		52
+output = 1 		53
+if testcase : 		54
+sys . stdin = open ( 'input.txt' ) 		55
+with open ( 'output.txt' , 'w' ) if output else sys . stdout as sys . stdout : 		56
+for t in range ( scan ( ) ) : 		57
+red ( 'Case #%d\n' % ( t + 1 ) ) 		58
+print ( 'Case #%d: %s' % ( t + 1 , calc ( scan ( ) , scan ( ) , scan ( ) , scan ( ) ) ) ) 		59

@@ -1,0 +1,72 @@
+typ = { 0 : 'P' , 1 : 'R' , 2 : 'S' } 		3
+def winner ( x , y ) : 		6
+if x > y : 		7
+return winner ( y , x ) 		8
+if x == 'P' and y == 'R' : 		10
+return 'P' 		11
+if x == 'P' and y == 'S' : 		12
+return 'S' 		13
+if x == 'R' and y == 'S' : 		14
+return 'R' 		15
+raise ValueError 		16
+def good ( a ) : 		18
+if len ( a ) == 1 : 		19
+return True 		20
+b = [ ] 		21
+for i in xrange ( 0 , len ( a ) , 2 ) : 		22
+if a [ i ] == a [ i + 1 ] : 		23
+return False 		24
+else : 		25
+b . append ( winner ( a [ i ] , a [ i + 1 ] ) ) 		26
+return good ( b ) 		27
+def valid ( a , r , p , s ) : 		29
+return ( 		30
+( sum ( 1 for x in a if x == 'R' ) == r ) and 		31
+( sum ( 1 for x in a if x == 'P' ) == p ) and 		32
+( sum ( 1 for x in a if x == 'S' ) == s ) 		33
+) 		34
+def f ( n , r , p , s ) : 		36
+ans = '' 		37
+for mask in xrange ( 3 ** ( 2 ** n ) ) : 		38
+t = mask 		39
+a = [ ] 		40
+for i in xrange ( 2 ** n ) : 		41
+a . append ( typ [ t % 3 ] ) 		42
+t = t / 3 		43
+if valid ( a , r , p , s ) and good ( a ) : 		45
+if ( not ans ) or a < ans : 		47
+ans = a 		48
+if not ans : 		49
+return "IMPOSSIBLE" 		50
+return '' . join ( ans ) 		51
+loser = { 		53
+'P' : 'R' , 		54
+'R' : 'S' , 		55
+'S' : 'P' , 		56
+} 		57
+def build ( n , root ) : 		59
+if n == 0 : 		60
+return root 		61
+u = loser [ root ] 		62
+c1 = build ( n - 1 , root ) 		63
+c2 = build ( n - 1 , u ) 		64
+if c1 < c2 : 		65
+return c1 + c2 		66
+else : 		67
+return c2 + c1 		68
+def g ( n , r , p , s ) : 		70
+ans = 'ZZZ' 		71
+pp = build ( n , 'P' ) 		72
+rr = build ( n , 'R' ) 		73
+ss = build ( n , 'S' ) 		74
+for uu in [ pp , rr , ss ] : 		75
+if valid ( uu , r , p , s ) : 		76
+ans = min ( ans , uu ) 		77
+if ans == 'ZZZ' : 		78
+return 'IMPOSSIBLE' 		79
+return ans 		80
+test_count = int ( raw_input ( ) . strip ( ) ) 		82
+for test in xrange ( 1 , test_count + 1 ) : 		83
+line = raw_input ( ) . strip ( ) . split ( ' ' ) 		84
+n , r , p , s = [ int ( x ) for x in line ] 		85
+print 'Case #{}: {}' . format ( test , g ( n , r , p , s ) ) 		86

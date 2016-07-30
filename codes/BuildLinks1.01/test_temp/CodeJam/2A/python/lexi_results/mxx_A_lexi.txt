@@ -1,0 +1,62 @@
+def readval ( typ = int ) : 		1
+return typ ( raw_input ( ) ) 		2
+def readvals ( typ = int ) : 		4
+return map ( typ , raw_input ( ) . split ( ) ) 		5
+def testcase ( cas ) : 		7
+N , R , P , S = readvals ( ) 		8
+NN = P + R + S 		9
+rules = { 'PS' : 'S' , 'PR' : 'P' , 'RS' : 'R' } 		11
+def check ( orders ) : 		12
+if len ( orders ) == 1 : return True 		13
+nextord = '' 		14
+for i in xrange ( 0 , len ( orders ) , 2 ) : 		15
+mat = '' . join ( sorted ( orders [ i : i + 2 ] ) ) 		16
+if mat not in rules : return False 		17
+nextord += rules [ mat ] 		18
+return check ( nextord ) 		19
+x , y , z = NN / 2 - R , NN / 2 - S , NN / 2 - P 		21
+if x < 0 or y < 0 or z < 0 or x + y != P or y + z != R or x + z != S : 		23
+print 'Case #%d: %s' % ( cas , 'IMPOSSIBLE' ) 		24
+return 		25
+allpairs = sorted ( [ 'PS' ] * x + [ 'PR' ] * y + [ 'RS' ] * z ) 		26
+checked = set ( ) 		27
+from itertools import permutations 		28
+for p in permutations ( allpairs ) : 		29
+order = '' . join ( p ) 		30
+if order not in checked : 		31
+if check ( order ) : 		32
+print 'Case #%d: %s' % ( cas , order ) 		33
+return 		34
+checked . add ( order ) 		35
+print 'Case #%d: %s' % ( cas , 'IMPOSSIBLE' ) 		36
+def testcase ( cas ) : 		38
+def getxyz ( p , r , s ) : 		40
+nn = p + r + s 		41
+x = nn / 2 - s 		42
+y = nn / 2 - r 		43
+z = nn / 2 - p 		44
+return x , y , z 		45
+N , R , P , S = readvals ( ) 		47
+for i in xrange ( N ) : 		48
+x , y , z = getxyz ( P , R , S ) 		49
+if x < 0 or y < 0 or z < 0 or x + y != P or x + z != R or y + z != S : 		50
+print 'Case #%d: %s' % ( cas , 'IMPOSSIBLE' ) 		51
+return 		52
+P , S , R = x , y , z 		53
+rules = { 'S' : 'PS' , 'P' : 'PR' , 'R' : 'SR' } 		54
+res = 'S' * S + 'P' * P + 'R' * R 		55
+for i in xrange ( N ) : 		56
+newres = '' 		57
+for c in res : newres += rules [ c ] 		58
+res = newres 		59
+for i in xrange ( 1 , N + 1 ) : 		64
+k = 2 ** i 		65
+for j in xrange ( 0 , len ( res ) , k ) : 		66
+if res [ j : j + k / 2 ] > res [ j + k / 2 : j + k ] : 		68
+tmp = res [ j + k / 2 : j + k ] + res [ j : j + k / 2 ] 		70
+res = res [ : j ] + tmp + res [ j + k : ] 		71
+print 'Case #%d: %s' % ( cas , res ) 		74
+if __name__ == '__main__' : 		78
+T = int ( raw_input ( ) ) 		79
+for i in xrange ( T ) : 		80
+testcase ( i + 1 ) 		81

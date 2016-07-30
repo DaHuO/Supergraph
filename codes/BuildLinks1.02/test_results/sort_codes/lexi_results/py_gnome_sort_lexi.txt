@@ -1,0 +1,16 @@
+from random import shuffle 		6
+def gnomeSort ( alist ) : 		8
+i , j , size = 1 , 2 , len ( alist ) 		9
+while i < size : 		11
+if alist [ i - 1 ] <= alist [ i ] : 		12
+i , j = j , j + 1 		13
+else : 		14
+alist [ i - 1 ] , alist [ i ] = alist [ i ] , alist [ i - 1 ] 		15
+i -= 1 		16
+if i == 0 : 		17
+i , j = j , j + 1 		18
+return alist 		19
+alist = [ i for i in range ( 100000 ) ] 		22
+shuffle ( alist ) 		23
+sortedL = gnomeSort ( alist ) 		25
+print sortedL 		26

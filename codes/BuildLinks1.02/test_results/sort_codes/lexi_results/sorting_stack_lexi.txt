@@ -1,0 +1,27 @@
+import pdb 		5
+from min_stack import Stack 		7
+def sort_stack ( stack ) : 		10
+other_stack = Stack ( ) 		11
+while not stack . is_empty ( ) : 		12
+current_v = stack . pop ( ) . v 		13
+flip_count = 0 		14
+while not other_stack . is_empty ( ) : 		15
+last_value = other_stack . peek ( ) 		16
+if current_v >= last_value : 		17
+break 		18
+else : 		19
+flip_count += 1 		20
+other_value = other_stack . pop ( ) . v 		21
+stack . push ( other_value ) 		22
+other_stack . push ( current_v ) 		23
+for i in range ( flip_count ) : 		24
+orig_v = stack . pop ( ) . v 		25
+other_stack . push ( orig_v ) 		26
+return other_stack 		27
+if __name__ == '__main__' : 		30
+vals = [ 6 , 9 , 10 , 5 , 4 , 7 , 3 , 8 , 22 , 9 ] 		31
+stack = Stack ( ) 		32
+for v in vals : 		33
+stack . push ( v ) 		34
+print vals 		35
+print sort_stack ( stack ) 		36

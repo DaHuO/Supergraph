@@ -1,0 +1,132 @@
+import sys 		4
+import argparse 		5
+from timeit import default_timer as time 		6
+from contextlib import contextmanager 		7
+from multiprocessing import Pool 		8
+try : 		11
+from itertools import imap as map 		12
+except ImportError : 		13
+pass 		14
+def get_command_line_kwargs ( name , args = None ) : 		17
+desc = ( "Solve the {} problem using a given input file. " 		19
+"By default, an '.out' file is written " 		20
+"with the same name as the input file. " 		21
+"The results are also printed along with " 		22
+"a timing of the whole execution. " 		23
+"Multiprocessing is used by default." ) 		24
+parser = argparse . ArgumentParser ( prog = name , 		25
+description = desc . format ( name ) ) 		26
+parser . add_argument ( 'input_file' , metavar = 'INPUT' , 		27
+type = str , 		28
+help = 'file to read' ) 		29
+parser . add_argument ( '--output' , '-o' , metavar = 'OUT' , 		30
+type = str , dest = 'output_file' , default = True , 		31
+help = 'write a specific file' ) 		32
+parser . add_argument ( '--no-result' , '-nr' , 		33
+dest = 'display' , action = 'store_false' , default = True , 		34
+help = 'do not print the results' ) 		35
+parser . add_argument ( '--no-timing' , '-nt' , 		36
+dest = 'timing' , action = 'store_false' , default = True , 		37
+help = 'do not time the execution' ) 		38
+parser . add_argument ( '--no-write' , '-nw' , 		39
+dest = 'output_file' , action = 'store_false' , 		40
+help = 'do not write the results' ) 		41
+parser . add_argument ( '--no-multi' , '-nm' , 		42
+dest = 'multiprocessing' , 		43
+action = 'store_false' , default = True , 		44
+help = 'do not use multiprocessing' ) 		45
+return dict ( parser . parse_args ( args ) . _get_kwargs ( ) ) 		46
+@ contextmanager 		49
+def timeit ( message , display = True ) : 		50
+start = time ( ) 		52
+yield 		53
+if not display : 		54
+return 		55
+print ( "{}: {:.3f} s" . format ( message , time ( ) - start ) ) 		56
+@ contextmanager 		59
+def open_output_file ( output_filename ) : 		60
+if not output_filename : 		62
+yield 		63
+return 		64
+with open ( output_filename , 'w' ) as output_file : 		65
+yield output_file 		66
+def check_function ( func ) : 		69
+module = sys . modules [ func . __module__ ] 		71
+if getattr ( module , func . __name__ , None ) is func : 		73
+return 		74
+func . __name__ = "__" + func . __name__ 		76
+setattr ( module , func . __name__ , func ) 		77
+def multiprocess_imap ( func , iterator ) : 		80
+pool = Pool ( ) 		82
+for result in pool . imap ( func , iterator ) : 		83
+yield result 		84
+pool . close ( ) , pool . join ( ) 		85
+def parse_file ( f , lines_per_case = 1 , header = True ) : 		88
+expression = isinstance ( lines_per_case , str ) and lines_per_case 		90
+for _ in range ( header ) : 		91
+next ( f ) 		92
+while True : 		93
+if expression and expression . lower ( ) == "dynamic" : 		94
+lines = ( ) 		95
+lines_per_case = int ( next ( f ) . strip ( ) ) 		96
+elif expression : 		97
+lines = ( next ( f ) , ) 		98
+variables = { 		99
+'lines' : lines , 		100
+'line' : lines [ 0 ] , 		101
+'args' : lines [ 0 ] . split ( ) } 		102
+lines_per_case = int ( eval ( expression , variables ) ) 		103
+else : 		104
+lines = ( ) 		105
+lines += tuple ( next ( f ) . strip ( ) for _ in range ( lines_per_case ) ) 		106
+if not lines : 		107
+return 		108
+yield lines 		109
+def print_result ( case , result , output = None , display = True ) : 		112
+line = "Case #{}: {}" . format ( case , result ) 		114
+if display : 		115
+print ( line ) 		116
+if output : 		117
+output . write ( line + '\n' ) 		118
+def solve ( solver , 		121
+input_file , output_file = True , 		122
+lines_per_case = 1 , header = True , start = 1 , 		123
+multiprocessing = True , timing = True , display = True ) : 		124
+with open ( input_file ) as input_f : 		127
+mapping = multiprocess_imap if multiprocessing else map 		129
+parser = parse_file ( input_f , lines_per_case , header ) 		130
+generator = enumerate ( mapping ( solver , parser ) , start ) 		131
+if output_file is True : 		133
+output_file = input_file . rstrip ( ".in" ) + ".out" 		134
+with open_output_file ( output_file ) as output_f : 		135
+timing_message = "Execution time for {}" . format ( input_file ) 		137
+with timeit ( timing_message , timing ) : 		138
+for case , result in generator : 		140
+print_result ( case , result , output_f , display ) 		141
+def solver ( func = None , lines_per_case = 1 , header = True , start = 1 ) : 		144
+def decorator ( func , solve_func = solve ) : 		168
+def solve ( input_file , output_file = True , 		170
+multiprocessing = True , timing = True , display = True ) : 		171
+return solve_func ( 		188
+func , input_file , 		189
+output_file = output_file , 		190
+lines_per_case = lines_per_case , 		191
+header = header , start = start , 		192
+multiprocessing = multiprocessing , 		193
+timing = timing , display = display ) 		194
+def from_cli ( args = None ) : 		196
+name = func . __name__ 		203
+kwargs = get_command_line_kwargs ( name , args = args ) 		204
+return func . solve ( ** kwargs ) 		205
+func . solve = solve 		207
+func . from_cli = from_cli 		208
+check_function ( func ) 		209
+return func 		210
+if func is None : 		212
+return decorator 		213
+return decorator ( func ) 		214
+if __name__ == "__main__" : 		218
+@ solver 		219
+def square ( lines ) : 		220
+return int ( lines [ 0 ] ) ** 2 		222
+square . from_cli ( ) 		224

@@ -1,0 +1,16 @@
+from math import ceil 		1
+def merge ( left , right ) : 		3
+merged = [ ] 		4
+while len ( left ) > 0 and len ( right ) > 0 : 		6
+merged += [ min ( left [ 0 ] , right [ 0 ] ) ] 		7
+if left [ 0 ] <= right [ 0 ] : 		8
+left = left [ 1 : ] 		9
+else : 		10
+right = right [ 1 : ] 		11
+return merged + left + right 		13
+def merge_sort ( seq ) : 		15
+if len ( seq ) == 1 : 		16
+return seq 		17
+split = ceil ( len ( seq ) / 2 ) 		19
+return merge ( merge_sort ( seq [ : split ] ) , 		20
+merge_sort ( seq [ split : ] ) ) 		21

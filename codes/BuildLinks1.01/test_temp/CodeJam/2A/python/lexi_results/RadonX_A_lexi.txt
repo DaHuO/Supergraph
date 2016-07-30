@@ -1,0 +1,21 @@
+from itertools import permutations 		2
+casen = int ( input ( ) ) 		4
+table = { 'PR' : 'P' , 'RP' : 'P' , 'RS' : 'R' , 'SR' : 'R' , 'SP' : 'S' , 'PS' : 'S' } 		6
+def play ( lineup ) : 		8
+if len ( lineup ) == 1 : 		9
+return True 		10
+nextround = [ ] 		11
+for i in range ( 0 , len ( lineup ) , 2 ) : 		12
+if lineup [ i ] == lineup [ i + 1 ] : 		13
+return False 		14
+nextround . append ( table [ lineup [ i ] + lineup [ i + 1 ] ] ) 		15
+return play ( nextround ) 		16
+for casei in range ( 1 , casen + 1 ) : 		19
+N , R , P , S = [ int ( x ) for x in input ( ) . split ( ' ' ) ] 		20
+players = [ 'P' ] * P + [ 'R' ] * R + [ 'S' ] * S 		21
+ans = "IMPOSSIBLE" 		22
+for perm in permutations ( players ) : 		23
+if play ( perm ) : 		24
+ans = "" . join ( perm ) 		25
+break 		26
+print ( "Case #" , casei , ": " , ans , sep = "" ) 		27

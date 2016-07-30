@@ -1,0 +1,56 @@
+__author__ = 'Roberto' 		1
+import math 		2
+from itertools import permutations 		3
+def finish ( index , solution ) : 		5
+print solution 		7
+file_out . write ( "Case #{0}: {1}\n" . format ( index + 1 , solution ) ) 		9
+def test_p ( p ) : 		11
+if len ( p ) == 1 : 		13
+return True 		14
+operations = { } 		16
+operations [ ( "R" , "R" ) ] = None 		17
+operations [ ( "R" , "P" ) ] = operations [ ( "P" , "R" ) ] = "P" 		18
+operations [ ( "R" , "S" ) ] = operations [ ( "S" , "R" ) ] = "R" 		19
+operations [ ( "S" , "S" ) ] = None 		20
+operations [ ( "S" , "P" ) ] = operations [ ( "P" , "S" ) ] = "S" 		21
+operations [ ( "P" , "P" ) ] = None 		22
+next_p = "" 		24
+i = 0 		25
+while i < len ( p ) : 		26
+next_c = operations [ ( p [ i ] , p [ i + 1 ] ) ] 		27
+if next_c == None : 		28
+return False 		29
+next_p += next_c 		30
+i += 2 		31
+return test_p ( next_p ) 		33
+def solve_test ( index , test_case ) : 		35
+print "Case: [{0}]" . format ( test_case ) 		37
+N , R , P , S = map ( int , test_case . split ( ) ) 		39
+letters = [ ] 		40
+letters . extend ( [ "R" ] * R ) 		41
+letters . extend ( [ "P" ] * P ) 		42
+letters . extend ( [ "S" ] * S ) 		43
+for p in sorted ( permutations ( letters ) ) : 		45
+if test_p ( p ) : 		46
+finish ( index , "" . join ( p ) ) 		47
+return 		48
+finish ( index , "IMPOSSIBLE" ) 		50
+task = "A" 		53
+level = 1 		54
+attempts = 0 		55
+if level == 0 : 		57
+file_name = "sample.in" 		58
+elif level == 1 : 		59
+file_name = "{0}-small-attempt{1}.in" . format ( task , attempts ) 		60
+else : 		61
+file_name = "{0}-large.in" . format ( task ) 		62
+file_out_name = file_name . replace ( "in" , "out" ) 		66
+file_out = open ( file_out_name , 'w' ) 		67
+with open ( file_name , 'r' ) as file : 		69
+content = file . read ( ) 		70
+lines = content . split ( '\n' ) 		72
+number_of_lines = int ( lines [ 0 ] ) 		73
+test_cases = lines [ 1 : ] 		75
+for i in xrange ( 0 , number_of_lines ) : 		77
+solve_test ( i , test_cases [ i ] ) 		79
+file_out . close ( ) 		81

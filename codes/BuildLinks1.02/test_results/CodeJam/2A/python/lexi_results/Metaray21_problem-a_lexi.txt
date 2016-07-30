@@ -1,0 +1,39 @@
+data = open ( "A-large.in" ) . readlines ( ) 		2
+tests = int ( data [ 0 ] ) 		3
+data = data [ 1 : ] 		4
+answ = [ ] 		5
+def calcsizes ( n , g ) : 		7
+if n == 0 : 		8
+a = [ 0 , 0 , 0 ] 		9
+a [ g ] = 1 		10
+return tuple ( a ) 		11
+else : 		12
+r1 , p1 , s1 = calcsizes ( n - 1 , g ) 		13
+r2 , p2 , s2 = calcsizes ( n - 1 , ( g - 1 ) % 3 ) 		14
+return r1 + r2 , p1 + p2 , s1 + s2 		15
+names = [ 'R' , 'P' , 'S' ] 		17
+def gentree ( n , g ) : 		18
+global names 		19
+if n == 0 : 		20
+return names [ g ] 		21
+else : 		22
+p1 = gentree ( n - 1 , g ) 		23
+p2 = gentree ( n - 1 , ( g - 1 ) % 3 ) 		24
+if p1 < p2 : 		25
+return p1 + p2 		26
+else : 		27
+return p2 + p1 		28
+for l in data : 		30
+n , r , p , s = map ( int , l . split ( ' ' ) ) 		31
+pl = r , p , s 		32
+if pl == calcsizes ( n , 1 ) : 		33
+answ . append ( gentree ( n , 1 ) ) 		34
+elif pl == calcsizes ( n , 0 ) : 		35
+answ . append ( gentree ( n , 0 ) ) 		36
+elif pl == calcsizes ( n , 2 ) : 		37
+answ . append ( gentree ( n , 2 ) ) 		38
+else : 		39
+answ . append ( "IMPOSSIBLE" ) 		40
+with open ( "A-large.out" , 'w' ) as f : 		42
+for i , v in enumerate ( answ ) : 		43
+f . write ( "Case #{}: {}\n" . format ( i + 1 , v ) ) 		44

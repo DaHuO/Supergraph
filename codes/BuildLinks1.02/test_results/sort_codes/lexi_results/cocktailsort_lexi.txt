@@ -1,0 +1,20 @@
+def cocktailsort ( lst ) : 		2
+begin , end = 0 , len ( lst ) - 1 		3
+finished = False 		4
+while not finished : 		5
+finished = True 		6
+for i in xrange ( begin , end ) : 		7
+if lst [ i ] > lst [ i + 1 ] : 		8
+lst [ i ] , lst [ i + 1 ] = lst [ i + 1 ] , lst [ i ] 		9
+lst . log ( ) 		10
+finished = False 		11
+if finished : 		12
+break 		13
+finished = True 		14
+end -= 1 		15
+for i in reversed ( xrange ( begin , end ) ) : 		16
+if lst [ i ] > lst [ i + 1 ] : 		17
+lst [ i ] , lst [ i + 1 ] = lst [ i + 1 ] , lst [ i ] 		18
+lst . log ( ) 		19
+finished = False 		20
+begin += 1 		21

@@ -1,0 +1,32 @@
+import itertools 		1
+import functools 		2
+def combine ( a , b ) : 		4
+return min ( a + b , b + a ) 		5
+def mkposs ( n ) : 		7
+if n == 0 : 		8
+return [ 		9
+[ 0 , 1 ] , 		10
+[ 1 , 2 ] , 		11
+[ 0 , 2 ] , 		12
+] 		13
+a = mkposs ( n - 1 ) 		14
+return [ 		15
+combine ( a [ 0 ] , a [ 1 ] ) , 		16
+combine ( a [ 1 ] , a [ 2 ] ) , 		17
+combine ( a [ 2 ] , a [ 0 ] ) 		18
+] 		19
+def cumul ( xs ) : 		21
+c = [ 0 ] * 3 		22
+for x in xs : 		23
+c [ x ] += 1 		24
+return tuple ( c ) 		25
+ans = { } 		27
+for i in range ( 13 ) : 		29
+for x in mkposs ( i ) : 		30
+ans [ cumul ( x ) ] = '' . join ( map ( lambda i : "PRS" [ i ] , x ) ) 		31
+def solve ( n , r , p , s ) : 		33
+return ans . get ( ( p , r , s ) , "IMPOSSIBLE" ) 		34
+def parse ( ) : 		36
+return map ( int , input ( ) . split ( ) ) 		37
+for t in range ( int ( input ( ) ) ) : 		39
+print ( "Case #{}: {}" . format ( t + 1 , solve ( * parse ( ) ) ) ) 		40

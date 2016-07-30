@@ -1,0 +1,30 @@
+t = int ( raw_input ( ) ) 		1
+def get_lineup ( n , r , p , s ) : 		3
+if abs ( r - p ) <= 1 and abs ( r - s ) <= 1 and abs ( p - s ) <= 1 : 		4
+if n == 1 : 		5
+seq = "" 		6
+if p == 1 : 		7
+seq += "P" 		8
+if r == 1 : 		9
+seq += "R" 		10
+if s == 1 : 		11
+seq += "S" 		12
+return seq 		13
+else : 		14
+if r > s and r > p : 		15
+return get_lineup ( n - 1 , r / 2 , p / 2 + 1 , s / 2 ) + get_lineup ( n - 1 , r / 2 , p / 2 , s / 2 + 1 ) 		16
+if s > r and s > p : 		17
+return get_lineup ( n - 1 , r / 2 , p / 2 + 1 , s / 2 ) + get_lineup ( n - 1 , r / 2 + 1 , p / 2 , s / 2 ) 		18
+if p > r and p > s : 		19
+return get_lineup ( n - 1 , r / 2 + 1 , p / 2 , s / 2 ) + get_lineup ( n - 1 , r / 2 , p / 2 , s / 2 + 1 ) 		20
+if r < s and r < p : 		21
+return get_lineup ( n - 1 , r / 2 , p / 2 + 1 , s / 2 ) + get_lineup ( n - 1 , r / 2 , p / 2 , s / 2 + 1 ) 		22
+if s < r and s < p : 		23
+return get_lineup ( n - 1 , r / 2 , p / 2 + 1 , s / 2 ) + get_lineup ( n - 1 , r / 2 + 1 , p / 2 , s / 2 ) 		24
+if p < r and p < s : 		25
+return get_lineup ( n - 1 , r / 2 + 1 , p / 2 , s / 2 ) + get_lineup ( n - 1 , r / 2 , p / 2 , s / 2 + 1 ) 		26
+else : 		28
+return "IMPOSSIBLE" 		29
+for i in range ( t ) : 		31
+[ n , r , p , s ] = map ( int , raw_input ( ) . split ( " " ) ) 		32
+print "Case #" + str ( i + 1 ) + ": " + get_lineup ( n , r , p , s ) 		33

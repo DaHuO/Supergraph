@@ -1,0 +1,45 @@
+import sys 		1
+from collections import defaultdict 		22
+Default = defaultdict ( dict ) 		24
+Default [ 1 ] [ 'S' ] = 'PS' 		25
+Default [ 1 ] [ 'R' ] = 'RS' 		26
+Default [ 1 ] [ 'P' ] = 'PR' 		27
+def to_get ( winner , depth ) : 		29
+if depth == 1 : 		30
+return Default [ 1 ] [ winner ] 		31
+ret = [ ] 		32
+left , right = to_get ( winner , 1 ) 		33
+lh = to_get ( left , depth - 1 ) 		35
+rh = to_get ( right , depth - 1 ) 		36
+if lh < rh : 		38
+ans = lh + rh 		39
+else : 		40
+ans = rh + lh 		41
+Default [ depth ] [ winner ] = ans 		43
+return ans 		45
+def solve ( N , R , P , S ) : 		47
+if any ( ( x > 2 ** ( N - 1 ) ) for x in [ R , P , S ] ) : 		48
+return 'IMPOSSIBLE' 		49
+r1 = to_get ( 'R' , N ) 		51
+r2 = to_get ( 'P' , N ) 		52
+r3 = to_get ( 'S' , N ) 		53
+def can_do ( r ) : 		55
+return R == r . count ( 'R' ) and P == r . count ( 'P' ) and S == r . count ( 'S' ) 		56
+ret = [ ] 		58
+if can_do ( r1 ) : 		59
+ret . append ( r1 ) 		60
+if can_do ( r2 ) : 		61
+ret . append ( r2 ) 		62
+if can_do ( r3 ) : 		63
+ret . append ( r3 ) 		64
+if not ret : 		66
+return 'IMPOSSIBLE' 		67
+return min ( ret ) 		69
+def main ( ) : 		71
+T = int ( sys . stdin . readline ( ) . strip ( ) ) 		72
+for i in xrange ( T ) : 		74
+N , R , P , S = map ( int , sys . stdin . readline ( ) . strip ( ) . split ( ) ) 		75
+ans = solve ( N , R , P , S ) 		76
+print 'Case #%s: %s' % ( i + 1 , ans ) 		77
+if __name__ == '__main__' : 		79
+main ( ) 		80

@@ -1,0 +1,58 @@
+import sys 		2
+class match : 		5
+def __init__ ( self , winner , a = None , b = None ) : 		6
+self . winner = winner 		7
+if a is not None : 		8
+if str ( a ) > str ( b ) : 		9
+a , b = b , a 		10
+self . a = a 		11
+self . b = b 		12
+def __str__ ( self ) : 		14
+if self . a is None : 		15
+return self . winner 		16
+return str ( self . a ) + str ( self . b ) 		17
+def problem ( n , r , p , s ) : 		20
+R = [ match ( 'R' ) for _ in range ( r ) ] 		21
+P = [ match ( 'P' ) for _ in range ( p ) ] 		22
+S = [ match ( 'S' ) for _ in range ( s ) ] 		23
+for run in range ( n ) : 		24
+new_R = [ ] 		25
+new_P = [ ] 		26
+new_S = [ ] 		27
+if len ( R ) + len ( P ) < len ( S ) : 		28
+return "IMPOSSIBLE" 		29
+if len ( R ) + len ( S ) < len ( P ) : 		30
+return "IMPOSSIBLE" 		31
+if len ( S ) + len ( P ) < len ( R ) : 		32
+return "IMPOSSIBLE" 		33
+while len ( R ) + len ( P ) != len ( S ) : 		34
+new_P . append ( match ( "" , R . pop ( 0 ) , P . pop ( 0 ) ) ) 		35
+while len ( R ) > 0 : 		36
+new_R . append ( match ( "" , R . pop ( 0 ) , S . pop ( 0 ) ) ) 		37
+while len ( P ) > 0 : 		38
+new_S . append ( match ( "" , P . pop ( 0 ) , S . pop ( 0 ) ) ) 		39
+R = sorted ( new_R , key = str ) 		40
+P = sorted ( new_P , key = str ) 		41
+S = sorted ( new_S , key = str ) 		42
+return str ( ( R + P + S ) [ 0 ] ) 		43
+def nextline ( input_file ) : 		47
+data = "" 		48
+while not data : 		49
+data = input_file . readline ( ) 		50
+return data [ : - 1 ] 		51
+def main ( ) : 		54
+result = "" 		55
+with sys . stdin if len ( sys . argv ) == 1 else open ( sys . argv [ 1 ] , 'r' ) as infile : 		56
+number = int ( nextline ( infile ) ) 		57
+for run in range ( number ) : 		58
+case = nextline ( infile ) . split ( " " ) 		59
+case = [ int ( c ) for c in case ] 		60
+n , r , p , s = case 		61
+result += 'Case #{}: {}\n' . format ( 1 + run , problem ( n , r , p , s ) ) 		62
+if len ( sys . argv ) == 1 : 		64
+print ( result , end = '' ) 		65
+else : 		66
+with open ( sys . argv [ 1 ] . replace ( 'in' , 'sol' ) , 'w' ) as result_file : 		67
+result_file . write ( result ) 		68
+if __name__ == '__main__' : 		70
+main ( ) 		71

@@ -1,0 +1,37 @@
+rest = [ ] 		1
+ans = [ ] 		2
+def dfs ( now , depth , pos ) : 		3
+if depth == n : 		4
+cur = pos - 2 ** n 		5
+ans [ cur ] = "RPS" [ now ] 		7
+rest [ now ] -= 1 		8
+return 1 		9
+if rest [ now ] == 0 or rest [ now - 1 ] == 0 : 		10
+return 0 		11
+if dfs ( now , depth + 1 , 2 * pos ) == 0 or dfs ( ( now + 2 ) % 3 , depth + 1 , 2 * pos + 1 ) == 0 : 		12
+return 0 		13
+le = ( 2 * pos ) * 2 ** ( n - depth - 1 ) - 2 ** n 		14
+ri = ( 2 * pos + 1 ) * 2 ** ( n - depth - 1 ) - 2 ** n 		15
+smaller = 0 		16
+for i in xrange ( ri - le ) : 		17
+if ans [ ri + i ] < ans [ le + i ] : 		18
+smaller = 1 		19
+break 		20
+if smaller : 		21
+for i in xrange ( ri - le ) : 		22
+ans [ ri + i ] , ans [ le + i ] = ans [ le + i ] , ans [ ri + i ] 		23
+return 1 		26
+for t in xrange ( input ( ) ) : 		28
+print "Case #%d:" % ( t + 1 ) , 		29
+n , r , p , s = map ( int , raw_input ( ) . split ( ) ) 		31
+ans = [ 4 ] * 2 ** n 		32
+res = "~" 		33
+for i in xrange ( 3 ) : 		35
+rest = [ r , p , s ] 		36
+if dfs ( i , 0 , 1 ) : 		37
+res = min ( res , "" . join ( ans ) ) 		38
+break 		39
+else : 		40
+print "IMPOSSIBLE" 		41
+continue 		42
+print res 		43

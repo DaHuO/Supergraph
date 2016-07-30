@@ -1,0 +1,34 @@
+from collections import Counter 		54
+T = input ( ) 		56
+def winner_to_match ( x ) : 		58
+if x == 'P' : 		59
+return 'PR' 		60
+if x == 'S' : 		61
+return 'PS' 		62
+if x == 'R' : 		63
+return 'RS' 		64
+assert False , x 		66
+def expand ( matchlist , N ) : 		68
+if N == 0 : 		69
+return matchlist 		70
+return expand ( '' . join ( winner_to_match ( x ) for x in matchlist ) , N - 1 ) 		72
+def optimized ( matchlist ) : 		74
+if len ( matchlist ) < 2 : 		75
+return matchlist 		76
+halflen = len ( matchlist ) / 2 		78
+left = optimized ( matchlist [ : halflen ] ) 		80
+right = optimized ( matchlist [ halflen : ] ) 		81
+if left < right : 		83
+return left + right 		84
+else : 		85
+return right + left 		86
+for case_num in xrange ( T ) : 		88
+N , R , P , S = map ( int , raw_input ( ) . split ( ) ) 		89
+ans = 'IMPOSSIBLE' 		91
+for victor in ( 'R' , 'P' , 'S' ) : 		93
+expanded = expand ( victor , N ) 		94
+counts = Counter ( expanded ) 		95
+if counts [ 'R' ] == R and counts [ 'P' ] == P and counts [ 'S' ] == S : 		96
+ans = optimized ( expanded ) 		97
+break 		98
+print 'Case #%d: %s' % ( case_num + 1 , ans ) 		100

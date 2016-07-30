@@ -1,0 +1,33 @@
+Y = [ [ 0 , 2 ] , [ 1 , 0 ] , [ 1 , 2 ] ] 		5
+W = [ 'R' , 'P' , 'S' ] 		6
+def so ( C , N ) : 		8
+nn = 2 ** N 		9
+for i in xrange ( N ) : 		10
+p = 2 ** i 		11
+step = 2 * p 		12
+for j in xrange ( 0 , nn , step ) : 		13
+A = C [ j : j + p ] 		14
+B = C [ j + p : j + step ] 		15
+if A > B : 		16
+C [ j : j + p ] , C [ j + p : j + step ] = B , A 		17
+return C 		18
+for nnn in xrange ( 1 , int ( raw_input ( ) ) + 1 ) : 		20
+print "Case #%d:" % ( nnn ) , 		21
+N , R , P , S = [ int ( x ) for x in raw_input ( ) . split ( ) ] 		22
+L = [ R , P , S ] 		23
+candidates = [ ] 		25
+for winner in xrange ( 3 ) : 		26
+A = [ winner ] 		27
+while True : 		28
+if A . count ( 0 ) >= R and A . count ( 1 ) >= P and A . count ( 2 ) >= S : 		29
+break 		30
+A = [ y for x in A for y in Y [ x ] ] 		31
+if A . count ( 0 ) == R and A . count ( 1 ) == P and A . count ( 2 ) == S : 		32
+C = [ W [ x ] for x in A ] 		33
+C = so ( C , N ) 		34
+candidates . append ( C ) 		35
+break 		36
+if len ( candidates ) > 0 : 		37
+print '' . join ( [ x for x in min ( candidates ) ] ) 		38
+else : 		39
+print "IMPOSSIBLE" 		40

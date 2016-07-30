@@ -1,0 +1,56 @@
+class Impossible ( Exception ) : 		7
+pass 		8
+def rsort ( seq ) : 		10
+if len ( seq ) == 1 : 		11
+return seq 		12
+h = len ( seq ) // 2 		13
+begin = rsort ( seq [ : h ] ) 		14
+end = rsort ( seq [ h : ] ) 		15
+if end < begin : 		16
+begin , end = end , begin 		17
+return begin + end 		18
+def prst ( func ) : 		20
+def wfunc ( * args ) : 		21
+rst = func ( * args ) 		22
+print ( args , rst ) 		23
+return rst 		24
+return wfunc 		25
+def solve ( nP , nR , nS ) : 		29
+if min ( nP , nR , nS ) < 0 : 		30
+raise Impossible ( ) 		31
+td = ( nP + nR + nS ) // 2 		32
+if td == 0 : 		33
+ans = '' 		34
+if nP : ans += 'P' 		35
+if nR : ans += 'R' 		36
+if nS : ans += 'S' 		37
+return ans 		38
+ans = [ ] 		39
+a , b , c = td - nS , td - nP , td - nR 		40
+for i in solve ( a , b , c ) : 		41
+if i == 'P' : 		42
+o = 'R' 		43
+a -= 1 		44
+elif i == 'R' : 		45
+o = 'S' 		46
+b -= 1 		47
+else : 		48
+o = 'P' 		49
+c -= 1 		50
+ans . append ( i ) 		51
+ans . append ( o ) 		52
+assert a == b == c == 0 		54
+ans = rsort ( ans ) 		55
+return '' . join ( ans ) 		56
+def main ( ) : 		59
+nr_case = int ( input ( ) ) 		60
+for i in range ( nr_case ) : 		61
+inp = list ( map ( int , input ( ) . split ( ) ) ) 		62
+R , P , S = inp [ 1 : ] 		63
+try : 		64
+ans = solve ( P , R , S ) 		65
+except Impossible : 		66
+ans = 'IMPOSSIBLE' 		67
+print ( 'Case #{}: {}' . format ( i + 1 , ans ) ) 		68
+if __name__ == '__main__' : 		70
+main ( ) 		71

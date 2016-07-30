@@ -1,0 +1,36 @@
+import numpy as np 		1
+from itertools import permutations 		2
+fin = open ( 'ain.txt' , 'r' ) 		4
+fout = open ( 'aout.txt' , 'w' ) 		5
+T = int ( fin . readline ( ) ) 		7
+def valid ( i ) : 		9
+if len ( i ) == 1 : 		10
+return True 		11
+x = [ ] 		12
+for j in range ( len ( i ) // 2 ) : 		13
+if i [ 2 * j ] == i [ 2 * j + 1 ] : 		14
+return False 		15
+if i [ 2 * j ] == "R" and i [ 2 * j + 1 ] == "P" : 		16
+x += [ "P" ] 		17
+elif i [ 2 * j ] == "R" and i [ 2 * j + 1 ] == "S" : 		18
+x += [ "R" ] 		19
+elif i [ 2 * j ] == "P" and i [ 2 * j + 1 ] == "R" : 		20
+x += [ "P" ] 		21
+elif i [ 2 * j ] == "P" and i [ 2 * j + 1 ] == "S" : 		22
+x += [ "S" ] 		23
+elif i [ 2 * j ] == "S" and i [ 2 * j + 1 ] == "R" : 		24
+x += [ "R" ] 		25
+elif i [ 2 * j ] == "S" and i [ 2 * j + 1 ] == "P" : 		26
+x += [ "S" ] 		27
+return valid ( x ) 		28
+def solve ( ) : 		31
+N , R , P , S = tuple ( [ int ( i ) for i in fin . readline ( ) . split ( ) ] ) 		32
+x = permutations ( "P" * P + "R" * R + "S" * S ) 		34
+for i in x : 		35
+if valid ( list ( i ) ) : 		36
+return '' . join ( i ) 		37
+return "IMPOSSIBLE" 		39
+for i in range ( T ) : 		41
+fout . write ( "Case #" + str ( i + 1 ) + ": " + str ( solve ( ) ) + "\n" ) 		42
+fin . close ( ) 		44
+fout . close ( ) 		45

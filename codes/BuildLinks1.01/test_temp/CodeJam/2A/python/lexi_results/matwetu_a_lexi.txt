@@ -1,0 +1,48 @@
+import math 		1
+T = int ( input ( ) ) 		4
+op = { 		6
+'S' : 'PS' , 		7
+'P' : 'PR' , 		8
+'R' : 'RS' 		9
+} 		10
+def solve ( n , r , p , s ) : 		12
+if n == 0 : 		13
+if r : return 'R' 		14
+if p : return 'P' 		15
+if s : return 'S' 		16
+s_ = 2 ** ( n - 1 ) - r 		17
+r_ = 2 ** ( n - 1 ) - p 		18
+p_ = 2 ** ( n - 1 ) - s 		19
+if s_ < 0 or r_ < 0 or p_ < 0 : 		20
+return 'IMPOSSIBLE' 		21
+result = solve ( n - 1 , r_ , p_ , s_ ) 		22
+if result == 'IMPOSSIBLE' : 		23
+return result 		24
+return '' . join ( map ( lambda x : op [ x ] , result ) ) 		25
+from collections import Counter 		26
+memo = { 		27
+} 		28
+def g ( n , w ) : 		29
+if n == 0 : 		30
+return w 		31
+if memo . get ( ( n , w ) ) : 		32
+return memo . get ( ( n , w ) ) 		33
+a , b = op [ w ] 		34
+t1 = g ( n - 1 , a ) 		35
+t2 = g ( n - 1 , b ) 		36
+if t1 < t2 : 		38
+ret = t1 + t2 		39
+else : 		40
+ret = t2 + t1 		41
+memo [ ( n , w ) ] = ret 		42
+return ret 		43
+def solve2 ( N , R , P , S ) : 		47
+for w in [ 'R' , 'P' , 'S' ] : 		48
+ret = g ( N , w ) 		49
+c = Counter ( ret ) 		50
+if c [ 'R' ] == R and c [ 'P' ] == P and c [ 'S' ] == S : 		51
+return ret 		52
+return "IMPOSSIBLE" 		53
+for t in range ( 1 , T + 1 ) : 		54
+N , R , P , S = map ( int , input ( ) . split ( ) ) 		55
+print ( "Case #%d: %s" % ( t , solve2 ( N , R , P , S ) ) ) 		56

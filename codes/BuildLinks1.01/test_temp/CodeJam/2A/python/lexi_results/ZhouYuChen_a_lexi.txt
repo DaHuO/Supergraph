@@ -1,0 +1,19 @@
+a = [ [ 'P' , 'R' , 'S' ] ] 		1
+u = 'PRS' 		2
+for n in range ( 1 , 13 ) : 		3
+v = [ ] 		4
+for t in range ( 3 ) : 		5
+x , y = a [ n - 1 ] [ t ] , a [ n - 1 ] [ ( t + 1 ) % 3 ] 		6
+v . append ( min ( x + y , y + x ) ) 		7
+a . append ( v ) 		8
+T = int ( input ( ) ) 		12
+for i in range ( T ) : 		13
+N , r , p , s = map ( int , input ( ) . split ( ) ) 		14
+res = 'IMPOSSIBLE' 		15
+for u in a [ N ] : 		16
+if u . count ( 'R' ) == r and u . count ( 'S' ) == s and u . count ( 'P' ) == p : 		17
+if res == 'IMPOSSIBLE' : 		18
+res = u 		19
+else : 		20
+res = min ( res , u ) 		21
+print ( "Case #%d:" % ( i + 1 ) , res ) 		22

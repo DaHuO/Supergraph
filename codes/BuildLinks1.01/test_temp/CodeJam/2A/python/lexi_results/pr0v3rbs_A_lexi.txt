@@ -1,0 +1,85 @@
+import itertools 		1
+def Check ( s ) : 		3
+result = True 		4
+l = [ ] 		5
+for i in s : 		6
+l . append ( i ) 		7
+l2 = [ ] 		8
+while len ( l ) != 1 : 		9
+l2 = [ ] 		10
+for i in range ( len ( l ) / 2 ) : 		11
+if l [ i * 2 ] == l [ i * 2 + 1 ] : 		12
+l2 . append ( l [ i * 2 ] ) 		13
+l2 . append ( l [ i * 2 + 1 ] ) 		14
+result = False 		15
+break 		16
+else : 		17
+if l [ i * 2 ] == 'P' and l [ i * 2 + 1 ] == 'R' : 		18
+l2 . append ( 'P' ) 		19
+elif l [ i * 2 ] == 'P' and l [ i * 2 + 1 ] == 'S' : 		20
+l2 . append ( 'S' ) 		21
+elif l [ i * 2 ] == 'R' and l [ i * 2 + 1 ] == 'P' : 		22
+l2 . append ( 'P' ) 		23
+elif l [ i * 2 ] == 'R' and l [ i * 2 + 1 ] == 'S' : 		24
+l2 . append ( 'R' ) 		25
+elif l [ i * 2 ] == 'S' and l [ i * 2 + 1 ] == 'P' : 		26
+l2 . append ( 'S' ) 		27
+elif l [ i * 2 ] == 'S' and l [ i * 2 + 1 ] == 'R' : 		28
+l2 . append ( 'R' ) 		29
+if len ( l ) % 2 == 1 : 		30
+l2 . append ( l [ - 1 ] ) 		31
+if len ( l ) == len ( l2 ) : 		32
+result = False 		33
+break 		34
+l = l2 		35
+return result 		36
+def GetResult ( N , L ) : 		38
+result = '' 		40
+if N > 1 and L [ 0 ] == 0 and L [ 1 ] == L [ 2 ] : 		42
+return "IMPOSSIBLE" 		43
+elif L [ 0 ] == 0 and L [ 1 ] == 0 : 		44
+return "IMPOSSIBLE" 		45
+elif L [ 1 ] == 0 and L [ 2 ] == 0 : 		46
+return "IMPOSSIBLE" 		47
+elif L [ 0 ] == 0 and L [ 2 ] == 0 : 		48
+return "IMPOSSIBLE" 		49
+elif N > 1 and L [ 1 ] == 0 and L [ 0 ] == L [ 2 ] : 		50
+return "IMPOSSIBLE" 		51
+elif N > 1 and L [ 2 ] == 0 and L [ 0 ] == L [ 1 ] : 		52
+return "IMPOSSIBLE" 		53
+c = { 0 : 'P' , 1 : 'R' , 2 : 'S' } 		55
+for i in range ( 3 ) : 		57
+if L [ i ] > 0 : 		58
+choice = i 		59
+result += c [ i ] 		60
+L [ i ] -= 1 		61
+break 		62
+while sum ( L ) != 0 : 		64
+choice = ( choice + 1 ) % 3 		65
+while L [ choice ] == 0 : 		66
+choice = ( choice + 1 ) % 3 		67
+if L [ choice ] == 1 and L [ ( choice + 1 ) % 3 ] == 2 and L [ ( choice + 2 ) % 3 ] == 0 : 		68
+choice = ( choice + 1 ) % 3 		69
+result += c [ choice ] 		70
+L [ choice ] -= 1 		71
+return result 		73
+for test in range ( 1 , input ( ) + 1 ) : 		75
+N , R , P , S = [ int ( i ) for i in raw_input ( ) . split ( ) ] 		76
+N = int ( N ) 		77
+R = int ( R ) 		78
+P = int ( P ) 		79
+S = int ( S ) 		80
+L = [ P , R , S ] 		81
+a = 'P' * P + 'R' * R + 'S' * S 		83
+perms = [ '' . join ( p ) for p in itertools . permutations ( a ) ] 		84
+perms = set ( perms ) 		85
+r = "Case #" + str ( test ) + ": " 		87
+check = False 		88
+for i in sorted ( perms ) : 		89
+if Check ( i ) : 		90
+check = True 		91
+r += i 		92
+break 		93
+if check == False : 		95
+r += "IMPOSSIBLE" 		96
+print r 		98

@@ -1,0 +1,76 @@
+import math 		1
+valid = [ ] 		3
+first = "" 		4
+def test ( C , r , p , s ) : 		7
+orig = C 		8
+if ( C . count ( 'P' ) != p ) : 		9
+return None 		10
+if ( C . count ( 'R' ) != r ) : 		11
+return None 		12
+if ( C . count ( 'S' ) != s ) : 		13
+return None 		14
+while True : 		15
+CC = "" 		16
+for i in range ( 0 , len ( C ) , 2 ) : 		17
+G = "" 		18
+if C [ i ] < C [ i + 1 ] : 		19
+G = C [ i ] + C [ i + 1 ] 		20
+else : 		21
+G = C [ i + 1 ] + C [ i ] 		22
+if ( G == 'PR' ) : 		23
+G = 'P' 		24
+elif ( G == 'PS' ) : 		25
+G = 'S' 		26
+elif ( G == 'RS' ) : 		27
+G = 'R' 		28
+else : 		29
+print ( "ERROR" ) 		30
+CC += G 		31
+C = CC 		32
+if ( len ( C ) == 1 ) : 		33
+global valid 		34
+global first 		35
+if valid == [ ] : 		36
+first = orig 		37
+valid . append ( orig ) 		38
+return orig 		39
+for i in range ( 0 , len ( C ) , 2 ) : 		40
+G = "" 		41
+if C [ i ] < C [ i + 1 ] : 		42
+G = C [ i ] + C [ i + 1 ] 		43
+else : 		44
+G = C [ i + 1 ] + C [ i ] 		45
+if ( G == "SS" ) or ( G == "PP" ) or ( G == "RR" ) : 		46
+return None 		47
+games = [ 'PR' , 'PS' , 'RS' ] ; 		50
+def generate ( r , p , s , C , l ) : 		51
+global games 		52
+if ( len ( C ) == l ) : 		54
+return test ( C , r , p , s ) 		55
+for x in games : 		56
+generate ( r , p , s , C + x , l ) 		57
+return None 		59
+def solve ( n , r , p , s ) : 		61
+global first 		62
+global valid 		63
+first = "" 		64
+valid = [ ] 		65
+a = generate ( r , p , s , '' , 2 ** n ) 		66
+valid . sort ( ) 		68
+if ( first != "" ) : 		69
+if ( first != valid [ 0 ] ) : 		70
+print ( "ERROR" ) 		71
+else : 		72
+return "IMPOSSIBLE" 		73
+return first 		74
+def output_res ( caseno , output , f ) : 		77
+s = "Case #{}: {}" . format ( caseno , output ) 		78
+print ( s ) 		79
+f . write ( s + "\n" ) 		81
+f = open ( "input.txt" ) 		85
+f = open ( "A-small-attempt4.in" ) 		86
+outfile = open ( "output" , "w+" ) 		87
+T = int ( f . readline ( ) ) 		88
+for case in range ( 1 , T + 1 ) : 		89
+n , r , p , s = map ( int , f . readline ( ) . strip ( ) . split ( ) ) 		90
+output_res ( case , solve ( n , r , p , s ) , outfile ) 		91

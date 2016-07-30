@@ -1,0 +1,32 @@
+import random 		1
+import math 		2
+from time import time , clock 		3
+def out ( n ) : 		4
+for num in n : 		5
+print ( num ) 		6
+print ( '\n' ) 		7
+def sort ( nums , digit , r ) : 		9
+buckets = [ [ ] for i in range ( r ) ] 		10
+for num in nums : 		11
+bucket = int ( ( num % ( r ** digit ) ) // ( r ** ( digit - 1 ) ) ) 		12
+buckets [ bucket ] . append ( num ) 		13
+return listify ( buckets ) 		14
+def LSD_sort ( r ) : 		16
+buckets = sort ( a , 0 , r ) 		17
+for i in range ( 1 , math . ceil ( math . log ( 100 , r ) ) + 1 ) : 		18
+buckets = sort ( buckets , i , r ) 		19
+return buckets 		20
+def listify ( listy_list ) : 		22
+out = [ ] 		23
+for a_list in listy_list : 		24
+out += a_list 		25
+return out 		26
+n = int ( input ( 'input n ' ) ) 		30
+r = 2 		31
+a = [ ] 		32
+for i in range ( n ) : a = a + [ int ( 100 * random . random ( ) ) ] 		33
+print ( a ) 		34
+t = clock ( ) 		36
+sorted_list = LSD_sort ( r ) 		37
+out ( sorted_list ) 		38
+print ( 'time ' , clock ( ) - t ) 		39

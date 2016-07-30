@@ -1,0 +1,24 @@
+from collections import Counter 		1
+def result ( input ) : 		3
+N , R , P , S = map ( int , input . split ( ' ' ) ) 		4
+a , b , c = 'P' , 'R' , 'S' 		5
+m = [ ( P , R , S ) ] 		6
+t = [ ( 'P' , 'R' , 'S' ) ] 		7
+while N : 		8
+N -= 1 		9
+m . append ( ( ( P + R - S ) // 2 , ( R + S - P ) // 2 , ( P + S - R ) // 2 ) ) 		10
+t . append ( ( min ( a + b , b + a ) , min ( b + c , c + b ) , min ( a + c , c + a ) ) ) 		11
+P , R , S = m [ - 1 ] 		12
+a , b , c = t [ - 1 ] 		13
+if any ( x < 0 for x in m [ - 1 ] ) : 		14
+return 'IMPOSSIBLE' 		15
+return t [ - 1 ] [ m [ - 1 ] . index ( 1 ) ] 		16
+f = open ( 'A-large.in' ) 		20
+r = f . readlines ( ) 		21
+w = open ( 'A-large.out' , 'w' ) 		22
+i = 1 		24
+while i < len ( r ) : 		25
+w . write ( 'Case #%d: %s\n' % ( i , result ( r [ i ] . strip ( ) ) ) ) 		26
+i += 1 		28
+f . close ( ) 		29
+w . close ( ) 		30

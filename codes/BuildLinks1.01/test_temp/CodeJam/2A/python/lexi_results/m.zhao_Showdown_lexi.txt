@@ -1,0 +1,48 @@
+read = open ( 'in.in' , 'r' ) 		2
+write = open ( 'out.out' , 'w' ) 		3
+cases = int ( read . readline ( ) ) 		5
+for case in range ( cases ) : 		7
+line = read . readline ( ) [ : - 1 ] 		9
+fields = line . split ( " " ) 		10
+n = int ( fields [ 0 ] ) 		11
+r = int ( fields [ 1 ] ) 		12
+p = int ( fields [ 2 ] ) 		13
+s = int ( fields [ 3 ] ) 		14
+imposs = False 		18
+for i in range ( n ) : 		19
+rp = ( r + s - p ) // 2 		20
+pp = ( r + p - s ) // 2 		21
+sp = ( s + p - r ) // 2 		22
+if rp < 0 or pp < 0 or sp < 0 : 		23
+imposs = True 		24
+break 		25
+r = rp 		26
+p = pp 		27
+s = sp 		28
+if imposs : 		31
+write . write ( "Case #{0}: {1}\n" . format ( case + 1 , "IMPOSSIBLE" ) ) 		32
+continue 		33
+string = '' 		37
+if r == 1 : 		39
+string = 'R' 		40
+if p == 1 : 		41
+string = 'P' 		42
+if s == 1 : 		43
+string = 'S' 		44
+for i in range ( n ) : 		45
+stringp = '' 		46
+for j in string : 		47
+if i == n - 1 and j == 'R' : 		48
+stringp += 'RS' 		49
+elif j == 'R' : 		50
+stringp += 'SR' 		51
+if j == 'P' : 		52
+stringp += 'PR' 		53
+if i < n - 2 and j == 'S' : 		54
+stringp += 'SP' 		55
+elif j == 'S' : 		56
+stringp += 'PS' 		57
+string = stringp 		58
+write . write ( "Case #{0}: {1}\n" . format ( case + 1 , string ) ) 		61
+read . close ( ) 		63
+write . close ( ) 		64

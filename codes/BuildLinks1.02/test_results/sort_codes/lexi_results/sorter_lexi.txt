@@ -1,0 +1,88 @@
+import math 		1
+__author__ = 'pawel' 		2
+class Sorter : 		3
+def merge_sort ( self , array ) : 		4
+if ( len ( array ) > 1 ) : 		5
+half = len ( array ) / 2 		6
+left = array [ : half ] 		7
+right = array [ half : ] 		8
+self . merge_sort ( left ) 		10
+self . merge_sort ( right ) 		11
+i = 0 ; 		12
+j = 0 ; 		13
+k = 0 ; 		14
+while i < len ( left ) and j < len ( right ) : 		15
+if ( left [ i ] < right [ j ] ) : 		16
+array [ k ] = left [ i ] 		17
+i += 1 		18
+else : 		19
+array [ k ] = right [ j ] 		20
+j += 1 		21
+k += 1 		23
+while i < len ( left ) : 		24
+array [ k ] = left [ i ] 		25
+i += 1 		26
+k += 1 		27
+while j < len ( right ) : 		28
+array [ k ] = right [ j ] 		29
+j += 1 		30
+k += 1 		31
+def bubble_sort_iteration ( self , array ) : 		33
+length = len ( array ) 		34
+counter = 1 ; 		35
+for i in range ( length ) : 		36
+for j in range ( length - counter ) : 		37
+if array [ j ] > array [ j + 1 ] : 		38
+array [ j ] , array [ j + 1 ] = array [ j + 1 ] , array [ j ] 		39
+counter += 1 		40
+def check_sorting ( self , array ) : 		43
+for i in range ( len ( array ) - 1 ) : 		44
+if ( array [ i ] > array [ i + 1 ] ) : 		45
+return "incorrect" 		46
+return "correct" 		47
+def insertion_sort ( self , array ) : 		49
+for j in range ( 1 , len ( array ) ) : 		50
+key = array [ j ] 		51
+i = j - 1 		52
+while i >= 0 and array [ i ] > key : 		53
+array [ i + 1 ] = array [ i ] 		54
+i -= 1 		55
+array [ i + 1 ] = key 		56
+def quicksort ( self , array , first , last ) : 		58
+if first < last : 		59
+pivot = array [ first ] 		60
+left = first + 1 		61
+right = last 		62
+done = False 		63
+while not done : 		64
+while left <= right and array [ left ] < pivot : 		65
+left += 1 		66
+while left <= right and array [ right ] > pivot : 		67
+right -= 1 		68
+if left > right : 		69
+done = True 		70
+else : 		71
+array [ left ] , array [ right ] = array [ right ] , array [ left ] 		72
+array [ first ] , array [ right ] = array [ right ] , array [ first ] 		73
+self . quicksort ( array , first , right - 1 ) 		74
+self . quicksort ( array , right + 1 , last ) 		75
+def max_heap ( self , array , i , length ) : 		77
+left = 2 * i 		78
+right = 2 * i + 1 		79
+if left <= length and array [ left - 1 ] > array [ i - 1 ] : 		80
+largestAt = left 		81
+else : 		82
+largestAt = i 		83
+if right <= length and array [ right - 1 ] > array [ largestAt - 1 ] : 		84
+largestAt = right 		85
+if largestAt != i : 		86
+array [ i - 1 ] , array [ largestAt - 1 ] = array [ largestAt - 1 ] , array [ i - 1 ] 		87
+self . max_heap ( array , largestAt , length ) 		88
+def heapsort ( self , array ) : 		90
+for i in range ( int ( math . floor ( len ( array ) / 2 ) + 1 ) , 0 , - 1 ) : 		93
+self . max_heap ( array , i , len ( array ) ) 		94
+length = len ( array ) 		96
+for i in range ( len ( array ) , 1 , - 1 ) : 		97
+array [ 0 ] , array [ length - 1 ] = array [ length - 1 ] , array [ 0 ] 		98
+length -= 1 		99
+self . max_heap ( array , 1 , length ) 		100

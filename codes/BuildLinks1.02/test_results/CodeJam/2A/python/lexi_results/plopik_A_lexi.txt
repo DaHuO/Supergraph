@@ -1,0 +1,48 @@
+t = int ( input ( ) ) 		1
+def fusion ( a , b ) : 		3
+c = a + b 		4
+d = b + a 		5
+if ( c < d ) : 		6
+return c 		7
+return d 		8
+def mergeSort ( name , depth ) : 		9
+if ( depth == 0 ) : 		10
+return name 		11
+else : 		12
+if ( name == 'R' ) : 		13
+other = 'S' 		14
+if ( name == 'S' ) : 		15
+other = 'P' 		16
+if ( name == 'P' ) : 		17
+other = 'R' 		18
+return fusion ( mergeSort ( name , depth - 1 ) , mergeSort ( other , depth - 1 ) ) 		19
+def testTree ( tree , r , p , s ) : 		21
+count = [ r , p , s ] 		22
+for a in tree : 		23
+if ( a == 'R' ) : 		24
+count [ 0 ] -= 1 		25
+if ( a == 'P' ) : 		26
+count [ 1 ] -= 1 		27
+if ( a == 'S' ) : 		28
+count [ 2 ] -= 1 		29
+possibru = True 		30
+for d in count : 		31
+if ( d != 0 ) : 		32
+possibru = False 		33
+break 		34
+if ( possibru ) : 		35
+print ( tree ) 		36
+return possibru 		37
+for x in range ( t ) : 		39
+print ( "Case #%d:" % ( x + 1 ) , end = " " ) 		40
+n , r , p , s = map ( int , input ( ) . split ( " " ) ) 		41
+ye = testTree ( mergeSort ( 'S' , n ) , r , p , s ) 		42
+if ( ye ) : 		43
+continue 		44
+ye = testTree ( mergeSort ( 'P' , n ) , r , p , s ) 		45
+if ( ye ) : 		46
+continue 		47
+ye = testTree ( mergeSort ( 'R' , n ) , r , p , s ) 		48
+if ( ye ) : 		50
+continue 		51
+print ( "IMPOSSIBLE" ) 		52

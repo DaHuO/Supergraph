@@ -1,0 +1,29 @@
+import os , sys , ljqpy , time 		3
+time . clock ( ) 		4
+nlst = [ ( 1 , 0 , 0 ) , ( 1 , 1 , 0 ) ] 		6
+for ii in range ( 2 , 14 ) : 		7
+z = nlst [ - 1 ] 		8
+zz = ( z [ 0 ] + z [ 2 ] , z [ 1 ] + z [ 0 ] , z [ 2 ] + z [ 1 ] ) 		9
+nlst . append ( zz ) 		10
+ee = 'PRS' 		12
+def Make ( N , t ) : 		13
+if N == 0 : return ee [ t ] 		14
+z1 = Make ( N - 1 , t ) 		15
+z2 = Make ( N - 1 , ( t + 1 ) % 3 ) 		16
+if z1 < z2 : return z1 + z2 		17
+return z2 + z1 		18
+def Run ( ss ) : 		20
+N , R , P , S = map ( int , ss . split ( ) ) 		21
+lst = [ P , R , S ] 		22
+for ii in range ( 3 ) : 		23
+z = ( lst [ ii % 3 ] , lst [ ( ii + 1 ) % 3 ] , lst [ ( ii + 2 ) % 3 ] ) 		24
+if z == nlst [ N ] : 		25
+return Make ( N , ii ) 		26
+return 'IMPOSSIBLE' 		27
+lst = ljqpy . LoadList ( 'A-large.in' ) 		29
+outf = 'A-large.out' 		30
+with open ( outf , 'w' ) as fout : 		32
+for k , v in enumerate ( lst [ 1 : ] ) : 		33
+fout . write ( 'Case #%d: %s\n' % ( 1 + k , Run ( v ) ) ) 		34
+os . system ( 'emeditor.exe ' + outf ) 		36
+print ( 'completed' ) 		37

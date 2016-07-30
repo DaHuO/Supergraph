@@ -1,0 +1,141 @@
+from getopt import getopt , GetoptError 		1
+from multiprocessing import Pool , Queue , Manager 		2
+from os import getpid 		3
+from sys import argv , stderr 		4
+from time import strftime 		5
+def multiCase ( inputList ) : 		8
+[ caseNumber , case , solver , queue ] = inputList 		9
+queue . put ( [ getpid ( ) , 0 , caseNumber ] ) 		10
+answer = solver ( case ) 		11
+queue . put ( [ getpid ( ) , 1 , caseNumber , answer ] ) 		12
+class FileWrapper : 		15
+def __init__ ( self , file ) : 		16
+self . file = file 		17
+def getInt ( self ) : 		19
+return int ( self . file . readline ( ) ) 		20
+def getInts ( self ) : 		22
+return [ int ( z ) for z in self . file . readline ( ) . split ( ) ] 		23
+def getFloat ( self ) : 		25
+return float ( self . file . readline ( ) ) 		26
+def getFloats ( self ) : 		28
+return [ float ( z ) for z in self . file . readline ( ) . split ( ) ] 		29
+def getWords ( self ) : 		31
+return self . file . readline ( ) . split ( ) 		32
+def readline ( self ) : 		34
+return self . file . readline ( ) . strip ( ) 		35
+def close ( self ) : 		37
+self . file . close 		38
+class GCJ : 		41
+def __init__ ( self , reader , solver , directory , question ) : 		109
+self . reader = reader 		110
+self . solver = solver 		111
+self . question = question 		112
+print >> stderr , "GCJ Wrapper initiated." 		113
+print >> stderr , "Reading command line arguments" 		114
+try : 		115
+opts , args = getopt ( argv [ 1 : ] , 		116
+"vs:tlm:" , 		117
+[ "validate" , "small" , "test" , "large" , "multi" ] ) 		118
+except GetoptError , err : 		119
+print str ( err ) 		120
+exit ( 2 ) 		121
+datatype = "test" 		122
+self . job = "run" 		123
+self . multi = 1 		124
+for o , a in opts : 		125
+if o in ( "-s" , "--small" ) : 		126
+datatype = "small-attempt" + str ( int ( a ) ) 		127
+elif o in ( "-l" , "--large" ) : 		128
+datatype = "large" 		129
+elif o in ( "-v" , "--validate" ) : 		130
+self . job = "validate" 		131
+elif o in ( "-m" , "--multi" ) : 		132
+self . multi = int ( a ) 		133
+filepref = directory + "/" + question + "-" + datatype 		134
+self . infile = filepref + ".in" 		135
+self . outfile = filepref + ".out" 		136
+self . errfile = filepref + ".err" 		137
+if ( self . job == "run" ) : 		138
+print >> stderr , "Creating " + self . outfile + " from " + self . infile 		139
+else : 		140
+print >> stderr , "Testing that " + self . outfile + " would create " + self . infile 		141
+print >> stderr , "Storing output in " + self . errfile + " otherwise" 		142
+def run ( self ) : 		144
+data = self . read ( ) 		145
+if ( self . multi == 1 ) : 		146
+answers = self . process ( data ) 		147
+else : 		148
+answers = self . multiprocess ( data , self . multi ) 		149
+text = "" . join ( [ "Case #%d: %s\n" % ( k + 1 , answers [ k ] ) for k in xrange ( len ( answers ) ) ] ) 		150
+if False : 		151
+print text 		152
+self . output ( text ) 		153
+def read ( self ) : 		155
+inh = FileWrapper ( open ( self . infile , 'r' ) ) 		156
+N = inh . getInt ( ) 		157
+data = [ self . reader ( inh ) for k in xrange ( N ) ] 		158
+inh . close ( ) 		159
+return data 		160
+def process ( self , data ) : 		162
+N = len ( data ) 		163
+answers = [ None ] * N 		164
+for k in xrange ( N ) : 		165
+print "%s:Working on Case %d" % ( strftime ( "%X" ) , k + 1 ) 		166
+answers [ k ] = self . solver ( data [ k ] ) 		167
+print "%s:Dealt with Case %d: %s" % ( strftime ( "%X" ) , k + 1 , answers [ k ] ) 		168
+return answers 		169
+def multiprocess ( self , data , numprocs ) : 		171
+N = len ( data ) 		172
+manager = Manager ( ) 		173
+queue = manager . Queue ( ) 		174
+data = [ [ k + 1 , data [ k ] , self . solver , queue ] for k in xrange ( N ) ] 		175
+pool = Pool ( numprocs ) 		176
+pool . map_async ( multiCase , data , 1 ) 		177
+answers = [ None ] * N 		178
+workerPids = [ ] 		179
+workingOn = [ ] 		180
+numTodo = N 		181
+numDoing = 0 		182
+numDone = 0 		183
+for k in xrange ( 2 * N ) : 		184
+report = queue . get ( ) 		185
+pid = report [ 0 ] 		186
+if pid in workerPids : 		187
+idx = workerPids . index ( pid ) 		188
+else : 		189
+idx = len ( workerPids ) 		190
+workerPids += [ pid ] 		191
+workingOn += [ None ] 		192
+if report [ 1 ] == 0 : 		193
+workingOn [ idx ] = report [ 2 ] 		194
+numTodo -= 1 		195
+numDoing += 1 		196
+else : 		197
+workingOn [ idx ] = None 		198
+answers [ report [ 2 ] - 1 ] = report [ 3 ] 		199
+numDoing -= 1 		200
+numDone += 1 		201
+print "%s:then %s now %s soon %s | %s" % ( strftime ( "%X" ) , self . clean ( numDone ) , self . clean ( numDoing ) , 		202
+self . clean ( numTodo ) , " " . join ( [ self . clean ( z ) for z in workingOn ] ) ) 		203
+return answers 		204
+def output ( self , text ) : 		206
+if self . job == "run" : 		207
+open ( self . outfile , 'w' ) . write ( text ) 		208
+else : 		209
+text2 = open ( self . outfile , 'r' ) . read ( ) 		210
+if ( text . strip ( ) == text2 . strip ( ) ) : 		211
+print "OK" 		212
+else : 		213
+print "Not OK" 		214
+open ( self . errfile , 'w' ) . write ( text ) 		215
+print "new output written to %s" % self . errfile 		216
+print "Differences:" 		217
+text = text . strip ( ) . split ( "\n" ) 		218
+text2 = text2 . strip ( ) . split ( "\n" ) 		219
+for k in xrange ( min ( len ( text ) , len ( text2 ) ) ) : 		220
+if text [ k ] != text2 [ k ] : 		221
+print "Line %d: '%s' vs '%s'" % ( k + 1 , text [ k ] , text2 [ k ] ) 		222
+if len ( text ) != len ( text2 ) : 		223
+print "Files have different number of lines: %d vs %d" % ( len ( text ) , len ( text2 ) ) 		224
+def clean ( self , r ) : 		226
+return "   " if ( r == None ) else ( "%3d" % r ) 		227

@@ -1,0 +1,47 @@
+import numpy as np 		1
+import random as rx 		2
+import math 		3
+f = open ( 'test' , 'r' ) 		5
+numcases = int ( f . readline ( ) . rstrip ( '\n' ) ) 		6
+for i in range ( 1 , numcases + 1 ) : 		8
+y = f . readline ( ) . rstrip ( '\n' ) 		10
+y = y . split ( ) 		11
+N = int ( y [ 0 ] ) 		13
+R = np . empty ( [ 20 ] ) 		15
+P = np . empty ( [ 20 ] ) 		16
+S = np . empty ( [ 20 ] ) 		17
+R [ 0 ] = int ( y [ 1 ] ) 		19
+P [ 0 ] = int ( y [ 2 ] ) 		20
+S [ 0 ] = int ( y [ 3 ] ) 		21
+Rname = np . chararray ( [ 20 ] , itemsize = 10000 ) 		23
+Pname = np . chararray ( [ 20 ] , itemsize = 10000 ) 		24
+Sname = np . chararray ( [ 20 ] , itemsize = 10000 ) 		25
+Rname [ 0 ] = "R" 		27
+Pname [ 0 ] = "P" 		28
+Sname [ 0 ] = "S" 		29
+for j in range ( 0 , N ) : 		31
+P [ j + 1 ] = ( R [ j ] + P [ j ] - S [ j ] ) / 2 		32
+R [ j + 1 ] = ( R [ j ] - P [ j ] + S [ j ] ) / 2 		33
+S [ j + 1 ] = ( - R [ j ] + P [ j ] + S [ j ] ) / 2 		34
+if P [ j + 1 ] < 0 or R [ j + 1 ] < 0 or S [ j + 1 ] < 0 : 		36
+print "Case #" + str ( i ) + ": " + "IMPOSSIBLE" 		37
+break 		38
+if Rname [ j ] < Sname [ j ] : 		40
+Rname [ j + 1 ] = Rname [ j ] + Sname [ j ] 		41
+else : 		42
+Rname [ j + 1 ] = Sname [ j ] + Rname [ j ] 		43
+if Pname [ j ] < Sname [ j ] : 		45
+Sname [ j + 1 ] = Pname [ j ] + Sname [ j ] 		46
+else : 		47
+Sname [ j + 1 ] = Sname [ j ] + Pname [ j ] 		48
+if Pname [ j ] < Rname [ j ] : 		50
+Pname [ j + 1 ] = Pname [ j ] + Rname [ j ] 		51
+else : 		52
+Pname [ j + 1 ] = Rname [ j ] + Pname [ j ] 		53
+if ( j + 1 ) == N : 		55
+if P [ j + 1 ] : 		56
+print "Case #" + str ( i ) + ": " + Pname [ j + 1 ] 		57
+elif S [ j + 1 ] : 		58
+print "Case #" + str ( i ) + ": " + Sname [ j + 1 ] 		59
+else : 		60
+print "Case #" + str ( i ) + ": " + Rname [ j + 1 ] 		61

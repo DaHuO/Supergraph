@@ -1,0 +1,34 @@
+from itertools import permutations 		1
+def reader ( in_file ) : 		2
+return in_file . getInts ( ) 		3
+def check ( s ) : 		6
+while len ( s ) != 1 : 		7
+news = "" 		8
+for i in range ( 0 , len ( s ) , 2 ) : 		9
+if s [ i ] == s [ i + 1 ] : 		10
+return False 		11
+elif s [ i ] == "R" and s [ i + 1 ] == "P" : 		12
+news += "P" 		13
+elif s [ i ] == "P" and s [ i + 1 ] == "R" : 		14
+news += "P" 		15
+elif s [ i ] == "R" and s [ i + 1 ] == "S" : 		17
+news += "R" 		18
+elif s [ i ] == "S" and s [ i + 1 ] == "R" : 		19
+news += "R" 		20
+elif s [ i ] == "P" and s [ i + 1 ] == "S" : 		22
+news += "S" 		23
+elif s [ i ] == "S" and s [ i + 1 ] == "P" : 		24
+news += "S" 		25
+s = news 		26
+return True 		27
+def solver ( ( n , r , p , s ) ) : 		30
+string = "R" * r + "P" * p + "S" * s 		31
+assert len ( string ) == 2 ** n 		32
+hmm = filter ( check , permutations ( string , len ( string ) ) ) 		33
+if len ( hmm ) == 0 : 		34
+return "IMPOSSIBLE" 		35
+hmm . sort ( ) 		36
+return "" . join ( hmm [ 0 ] ) 		38
+if __name__ == "__main__" : 		40
+from GCJ import GCJ 		42
+GCJ ( reader , solver , "a" , "A" ) . run ( ) 		43

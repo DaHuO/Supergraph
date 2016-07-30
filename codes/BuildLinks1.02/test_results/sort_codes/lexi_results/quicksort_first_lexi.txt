@@ -1,0 +1,24 @@
+def quick_sort ( a , l , r ) : 		3
+if l < r : 		5
+global comparisons 		6
+comparisons = comparisons + ( r - l - 1 ) 		7
+divider = partition ( a , l , r ) 		8
+quick_sort ( a , l , divider ) 		10
+quick_sort ( a , divider + 1 , r ) 		11
+def partition ( a , l , r ) : 		14
+pivot = a [ l ] 		15
+i = l + 1 		16
+for j in xrange ( l + 1 , r ) : 		17
+if a [ j ] < pivot : 		18
+a [ j ] , a [ i ] = a [ i ] , a [ j ] 		19
+i += 1 		20
+a [ l ] , a [ i - 1 ] = a [ i - 1 ] , a [ l ] 		22
+return i - 1 		23
+if __name__ == '__main__' : 		26
+f = open ( 'QuickSort.txt' , 'r' ) 		27
+a = f . read ( ) . splitlines ( ) 		28
+a = [ int ( i ) for i in a ] 		29
+comparisons = 0 		30
+quick_sort ( a , 0 , len ( a ) ) 		34
+print a 		35
+print "Number of comparisons : " , comparisons 		36

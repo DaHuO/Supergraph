@@ -1,0 +1,59 @@
+import itertools 		1
+T = int ( raw_input ( ) ) 		4
+Trees = { } 		6
+def generate_match ( winner , N ) : 		8
+def get_next_level_element ( el ) : 		9
+if el == 'R' : 		10
+return [ 'S' , 'R' ] 		11
+elif el == 'S' : 		12
+return [ 'S' , 'P' ] 		13
+elif el == 'P' : 		14
+return [ 'P' , 'R' ] 		15
+def get_next_level ( cur_level ) : 		16
+next_level = [ get_next_level_element ( x ) for x in cur_level ] 		17
+return list ( itertools . chain . from_iterable ( next_level ) ) 		18
+cur_level = [ winner ] 		20
+for i in xrange ( 0 , N ) : 		21
+cur_level = get_next_level ( cur_level ) 		22
+return cur_level 		24
+def count_match ( match ) : 		26
+counter = { } 		27
+for x in match : 		28
+if not x in counter : 		29
+counter [ x ] = 0 		30
+counter [ x ] += 1 		31
+return counter 		32
+def special_sort ( match ) : 		34
+smatch = match [ : ] 		35
+while len ( smatch ) > 1 : 		36
+for i in xrange ( 0 , len ( smatch ) , 2 ) : 		37
+if smatch [ i ] > smatch [ i + 1 ] : 		38
+temp = smatch [ i ] 		39
+smatch [ i ] = smatch [ i + 1 ] 		40
+smatch [ i + 1 ] = temp 		41
+smatch = [ smatch [ i ] + smatch [ i + 1 ] for i in xrange ( 0 , len ( smatch ) , 2 ) ] 		42
+return [ x for x in smatch [ 0 ] ] 		43
+for t in xrange ( 1 , T + 1 ) : 		47
+NRPS = raw_input ( ) . strip ( ) . split ( ) 		48
+N , R , P , S = tuple ( [ int ( x ) for x in NRPS ] ) 		49
+solution_match = None 		51
+match = generate_match ( 'R' , N ) 		54
+match_counter = count_match ( match ) 		55
+if match_counter . get ( 'R' , 0 ) == R and match_counter . get ( 'P' , 0 ) == P and match_counter . get ( 'S' , 0 ) == S : 		56
+if solution_match == None or solution_match > match : 		57
+solution_match = match 		58
+match = generate_match ( 'S' , N ) 		60
+match_counter = count_match ( match ) 		61
+if match_counter . get ( 'R' , 0 ) == R and match_counter . get ( 'P' , 0 ) == P and match_counter . get ( 'S' , 0 ) == S : 		62
+if solution_match == None or solution_match > match : 		63
+solution_match = match 		64
+match = generate_match ( 'P' , N ) 		66
+match_counter = count_match ( match ) 		67
+if match_counter . get ( 'R' , 0 ) == R and match_counter . get ( 'P' , 0 ) == P and match_counter . get ( 'S' , 0 ) == S : 		68
+if solution_match == None or solution_match > match : 		69
+solution_match = match 		70
+if solution_match != None : 		74
+solution_match = special_sort ( solution_match ) 		75
+print ( 'Case #%d: %s' % ( t , '' . join ( solution_match ) ) ) 		76
+else : 		77
+print ( 'Case #%d: IMPOSSIBLE' % ( t ) ) 		78

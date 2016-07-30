@@ -1,0 +1,32 @@
+def solve ( N , R , P , S ) : 		1
+sP = 'P' 		3
+sR = 'R' 		4
+sS = 'S' 		5
+def f ( a , b ) : 		7
+return '' . join ( sorted ( [ a , b ] ) ) 		8
+for i in range ( N ) : 		13
+t = P + S - R 		14
+if t < 0 or t % 2 != 0 : 		16
+return 		17
+t = t / 2 		19
+P = P - t 		20
+R = S - t 		21
+S = t 		22
+if P < 0 or R < 0 or S < 0 : 		24
+return 		25
+sP , sR , sS = f ( sP , sR ) , f ( sR , sS ) , f ( sP , sS ) 		27
+if P < 0 or R < 0 or S < 0 : 		31
+return 		32
+if sum ( [ P , R , S ] ) == 1 : 		34
+if P : 		35
+return sP ; 		36
+if R : 		37
+return sR ; 		38
+return sS ; 		39
+import sys 		41
+sys . stdin = open ( 'A-large.in' , 'rt' ) 		42
+sys . stdout = open ( 'A-large.out' , 'wt' ) 		43
+T = int ( raw_input ( ) . strip ( ) ) 		45
+for t in range ( 1 , T + 1 ) : 		46
+N , R , P , S = map ( int , raw_input ( ) . split ( ' ' ) ) 		47
+print 'Case #{}:' . format ( t ) , ( solve ( N , R , P , S ) or "IMPOSSIBLE" ) 		48

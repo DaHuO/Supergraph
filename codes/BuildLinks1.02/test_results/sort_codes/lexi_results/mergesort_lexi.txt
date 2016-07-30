@@ -1,0 +1,29 @@
+def _mergesort ( array , start , end ) : 		3
+mid = ( start + end ) / 2 		6
+if start < end : 		7
+_mergesort ( array , start , mid ) 		8
+_mergesort ( array , mid + 1 , end ) 		9
+elif start == end : return 		10
+L = start ; R = mid + 1 		13
+tmp_array = [ ] 		14
+while ( L <= mid and R <= end ) : 		15
+if ( array [ L ] < array [ R ] ) : 		16
+tmp_array . append ( array [ L ] ) 		17
+L += 1 		18
+else : 		19
+tmp_array . append ( array [ R ] ) 		20
+R += 1 		21
+if L <= mid : 		24
+tmp_array += array [ L : ] 		25
+else : 		26
+tmp_array += array [ R : ] 		27
+i = 0 ; 		30
+while ( start <= end ) : 		31
+array [ start ] = tmp_array [ i ] 		32
+start += 1 ; i += 1 ; 		33
+def mergesort ( array ) : 		35
+_mergesort ( array , 0 , len ( array ) - 1 ) 		36
+if __name__ == "__main__" : 		38
+array = [ 17 , 9 , 13 , 8 , 7 , 7 , - 5 , 6 , 11 , 3 , 4 , 1 , 2 ] 		39
+mergesort ( array ) ; 		40
+print array 		41

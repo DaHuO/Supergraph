@@ -1,0 +1,86 @@
+import sys 		1
+import random 		2
+import re 		3
+import itertools 		4
+import math 		5
+from collections import Counter 		6
+from multiprocessing import Pool 		7
+verbose = False 		9
+def read ( ) : 		12
+n , r , p , s = [ int ( u ) for u in sys . stdin . readline ( ) . split ( ) ] 		14
+return n , r , p , s 		16
+def write ( res ) : 		19
+print res 		21
+def order ( string ) : 		24
+if len ( string ) <= 1 : 		25
+return string 		26
+n = len ( string ) 		28
+assert n % 2 == 0 		29
+m = n / 2 		31
+x = order ( string [ : m ] ) 		33
+y = order ( string [ m : ] ) 		34
+if x < y : 		36
+return x + y 		37
+else : 		38
+return y + x 		39
+def solve ( data ) : 		44
+n , r , p , s = data 		45
+res = n , r , p , s 		47
+solutions = [ ] 		49
+for string in [ 'S' , 'P' , 'R' ] : 		51
+for i in xrange ( n ) : 		52
+x = '' 		53
+for c in string : 		54
+if c == 'S' : 		55
+x += 'PS' 		56
+elif c == 'P' : 		57
+x += 'PR' 		58
+else : 		59
+x += 'RS' 		60
+string = x 		61
+if x . count ( 'S' ) == s and x . count ( 'P' ) == p and x . count ( 'R' ) == r : 		63
+solutions . append ( order ( string ) ) 		65
+if verbose : 		68
+sys . stderr . write ( "." ) 		69
+sys . stderr . flush ( ) 		70
+return min ( solutions ) if len ( solutions ) > 0 else "IMPOSSIBLE" 		72
+def check ( data ) : 		75
+if verbose : 		77
+sys . stderr . write ( "." ) 		78
+sys . stderr . flush ( ) 		79
+return res 		81
+if __name__ == '__main__' : 		84
+check_mode = False 		85
+parallelize = False 		86
+if len ( sys . argv ) > 1 and "-v" in sys . argv [ 1 : ] : 		88
+verbose = True 		89
+if len ( sys . argv ) > 1 and "-c" in sys . argv [ 1 : ] : 		91
+check_mode = True 		92
+if len ( sys . argv ) > 1 and "-p" in sys . argv [ 1 : ] : 		94
+parallelize = True 		95
+i = sys . argv . index ( "-p" ) 		96
+if len ( sys . argv ) > i + 1 and sys . argv [ i + 1 ] . isdigit ( ) : 		97
+processes = int ( sys . argv [ i + 1 ] ) 		98
+else : 		99
+processes = 2 		100
+t = int ( sys . stdin . readline ( ) ) 		102
+if verbose : 		103
+print >> sys . stderr , "Solving %d test cases" % t 		104
+test_cases = [ read ( ) for i in xrange ( t ) ] 		107
+if parallelize : 		110
+process_pool = Pool ( processes = processes ) 		111
+if check_mode : 		112
+test_results = process_pool . map_async ( check , test_cases ) . get ( 9999999 ) 		113
+else : 		114
+test_results = process_pool . map_async ( solve , test_cases ) . get ( 9999999 ) 		115
+else : 		117
+if check_mode : 		118
+test_results = [ check ( data ) for data in test_cases ] 		119
+else : 		120
+test_results = [ solve ( data ) for data in test_cases ] 		121
+if verbose : 		123
+sys . stderr . write ( "\n" ) 		124
+sys . stderr . flush ( ) 		125
+for i , res in enumerate ( test_results ) : 		128
+print "Case #%d:" % ( i + 1 ) , 		129
+write ( res ) 		130

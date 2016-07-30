@@ -1,0 +1,131 @@
+from __future__ import absolute_import , division 		3
+from future_builtins import * 		5
+range = xrange 		6
+import collections 		8
+import itertools 		9
+import sys 		10
+class gcj : 		12
+IN = sys . stdin 		13
+buf = None 		14
+identity = lambda x : x 		16
+@ classmethod 		18
+def _read_line_raw ( cls ) : 		19
+if cls . buf : 		20
+res = cls . buf 		21
+cls . buf = None 		22
+else : 		23
+res = cls . IN . readline ( ) 		24
+if not res : 		25
+raise EOFError ( ) 		26
+return res 		27
+@ classmethod 		29
+def _read_line_view ( cls ) : 		30
+line = cls . _read_line_raw ( ) 		31
+if not isinstance ( line , memoryview ) : 		32
+line = memoryview ( line ) 		33
+return line 		34
+@ classmethod 		36
+def _read_line ( cls ) : 		37
+line = cls . _read_line_raw ( ) 		38
+if isinstance ( line , memoryview ) : 		39
+line = line . tobytes ( ) 		40
+return line 		41
+@ classmethod 		43
+def line ( cls , conv = identity ) : 		44
+line = cls . _read_line ( ) 		45
+return conv ( line . rstrip ( b'\r\n' ) ) 		46
+@ classmethod 		48
+def splitline ( cls , conv = identity ) : 		49
+line = cls . _read_line ( ) 		50
+return [ conv ( x ) for x in line . split ( ) ] 		51
+@ classmethod 		53
+def whitespace ( cls ) : 		54
+line = None 		55
+while not line : 		56
+line = cls . _read_line_raw ( ) 		57
+i = 0 		58
+l = len ( line ) 		59
+while i < l and line [ i ] . isspace ( ) : 		60
+i += 1 		61
+line = memoryview ( line ) [ i : ] 		62
+cls . buf = line 		63
+@ classmethod 		65
+def token ( cls , conv = identity ) : 		66
+cls . whitespace ( ) 		67
+line = cls . _read_line_view ( ) 		68
+i = 0 		69
+l = len ( line ) 		70
+while i < l and not line [ i ] . isspace ( ) : 		71
+i += 1 		72
+cls . buf = line [ i : ] if i < l else None 		73
+return conv ( line [ : i ] . tobytes ( ) ) 		74
+@ classmethod 		76
+def tokens ( cls , cnt , conv = identity ) : 		77
+return [ cls . token ( conv ) for _ in range ( cnt ) ] 		78
+current_case = 0 		80
+@ classmethod 		82
+def case ( cls ) : 		83
+cls . current_case += 1 		84
+return b'Case #{}:' . format ( cls . current_case ) 		85
+def result ( a , b ) : 		87
+results = { 		88
+'PR' : 'P' , 		89
+'RS' : 'R' , 		90
+'PS' : 'S' , 		91
+} 		92
+if a < b : 		93
+return results [ a + b ] 		94
+else : 		95
+return results [ b + a ] 		96
+memo = { } 		98
+def make ( n , p , r , s , res ) : 		100
+if max ( p , r , s ) - min ( p , r , s ) > 1 : 		101
+return None 		102
+if p + r + s != 2 ** n : 		103
+return None 		104
+if ( p , r , s , res ) in memo : 		105
+return memo [ p , r , s , res ] 		106
+if n == 0 : 		107
+if p == res . count ( 'P' ) and r == res . count ( 'R' ) and s == res . count ( 'S' ) : 		108
+return res 		109
+return None 		110
+if res == 'P' : 		111
+sec = 'R' 		112
+elif res == 'S' : 		113
+sec = 'P' 		114
+elif res == 'R' : 		115
+sec = 'S' 		116
+x = 2 ** ( n - 1 ) // 3 		118
+for p1 in xrange ( x , x + 2 ) : 		119
+for r1 in xrange ( x , x + 2 ) : 		120
+for s1 in xrange ( x , x + 2 ) : 		121
+a = make ( n - 1 , p1 , r1 , s1 , res ) 		122
+if a is None : 		123
+continue 		124
+b = make ( n - 1 , p - p1 , r - r1 , s - s1 , sec ) 		125
+if b is None : 		126
+continue 		127
+q = min ( a , b ) + max ( a , b ) 		128
+memo [ p , r , s , res ] = q 		129
+return q 		130
+return None 		131
+def solve ( ) : 		133
+n , r , p , s = gcj . tokens ( 4 , int ) 		134
+res = None 		135
+for x in 'PRS' : 		136
+y = make ( n , p , r , s , x ) 		137
+if y is not None : 		138
+if res is None : 		139
+res = y 		140
+else : 		141
+res = min ( res , y ) 		142
+if res is not None : 		143
+return res 		144
+return 'IMPOSSIBLE' 		145
+def main ( ) : 		147
+sys . setrecursionlimit ( 10000 ) 		148
+t = gcj . token ( int ) 		149
+for _ in xrange ( t ) : 		150
+print gcj . case ( ) , solve ( ) 		151
+sys . stdout . flush ( ) 		152
+main ( ) 		154

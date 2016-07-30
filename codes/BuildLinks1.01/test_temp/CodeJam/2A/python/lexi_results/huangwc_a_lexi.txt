@@ -1,0 +1,36 @@
+import sys 		1
+sys . stdin = open ( 'A-large.in' , 'r' ) 		3
+sys . stdout = open ( 'A-large.out' , 'w' ) 		4
+def reorder ( s ) : 		7
+L = len ( s ) 		8
+if L <= 1 : 		9
+return s 		10
+l = reorder ( s [ 0 : L // 2 ] ) 		11
+r = reorder ( s [ L // 2 : ] ) 		12
+return l + r if l < r else r + l 		13
+for t in range ( 1 , int ( input ( ) ) + 1 ) : 		16
+N , R , P , S = map ( int , input ( ) . split ( ) ) 		18
+result = [ ] 		20
+for c in 'RPS' : 		22
+D = dict ( R = 0 , P = 0 , S = 0 ) 		23
+s = c 		24
+D [ c ] = 1 		25
+for n in range ( N ) : 		26
+_s = '' 		27
+for x in s : 		28
+if x == 'R' : 		29
+_s += 'RS' 		30
+D [ 'S' ] += 1 		31
+elif x == 'S' : 		32
+_s += 'PS' 		33
+D [ 'P' ] += 1 		34
+else : 		35
+_s += 'PR' 		36
+D [ 'R' ] += 1 		37
+s = _s 		38
+if P == D [ 'P' ] and R == D [ 'R' ] and S == D [ 'S' ] : 		39
+result . append ( reorder ( s ) ) 		40
+if result : 		42
+print ( 'Case #%s: %s' % ( t , min ( result ) ) ) 		43
+else : 		44
+print ( 'Case #%s: %s' % ( t , 'IMPOSSIBLE' ) ) 		45

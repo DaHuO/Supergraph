@@ -1,0 +1,53 @@
+d = { } 		2
+d [ ( 1 , 'rp' ) ] = ( 1 , 1 , 0 ) 		3
+d [ ( 1 , 'ps' ) ] = ( 0 , 1 , 1 ) 		4
+d [ ( 1 , 'sr' ) ] = ( 1 , 0 , 1 ) 		5
+for n in range ( 2 , 13 ) : 		6
+for idx in range ( n ) : 		7
+d [ ( n , 'rp' ) ] = ( d [ ( n - 1 , 'rp' ) ] [ 0 ] + d [ ( n - 1 , 'rp' ) ] [ 1 ] , d [ ( n - 1 , 'rp' ) ] [ 1 ] + d [ ( n - 1 , 'rp' ) ] [ 2 ] , d [ ( n - 1 , 'rp' ) ] [ 0 ] + d [ ( n - 1 , 'rp' ) ] [ 2 ] ) 		8
+d [ ( n , 'ps' ) ] = ( d [ ( n - 1 , 'ps' ) ] [ 0 ] + d [ ( n - 1 , 'ps' ) ] [ 1 ] , d [ ( n - 1 , 'ps' ) ] [ 1 ] + d [ ( n - 1 , 'ps' ) ] [ 2 ] , d [ ( n - 1 , 'ps' ) ] [ 0 ] + d [ ( n - 1 , 'ps' ) ] [ 2 ] ) 		9
+d [ ( n , 'sr' ) ] = ( d [ ( n - 1 , 'sr' ) ] [ 0 ] + d [ ( n - 1 , 'sr' ) ] [ 1 ] , d [ ( n - 1 , 'sr' ) ] [ 1 ] + d [ ( n - 1 , 'sr' ) ] [ 2 ] , d [ ( n - 1 , 'sr' ) ] [ 0 ] + d [ ( n - 1 , 'sr' ) ] [ 2 ] ) 		10
+fp = open ( "b1s.txt" ) 		12
+fw = open ( "b1a.txt" , 'w' ) 		13
+t = int ( fp . readline ( ) . strip ( ) ) 		14
+for case in range ( t ) : 		16
+n , r , p , s = fp . readline ( ) . strip ( ) . split ( ) 		17
+start = '' 		18
+n = int ( n ) 		19
+r = int ( r ) 		20
+p = int ( p ) 		21
+s = int ( s ) 		22
+for init in [ 'rp' , 'ps' , 'sr' ] : 		23
+print ( init , ( r , p , s ) , d [ ( n , init ) ] ) 		24
+if ( r , p , s ) == d [ ( n , init ) ] : 		25
+start = init 		26
+if not start : 		27
+fw . write ( "Case #{0}: {1}\n" . format ( case + 1 , 'IMPOSSIBLE' ) ) 		28
+else : 		29
+if start == 'rp' : 		30
+start = 'pr' 		31
+if start == 'ps' : 		32
+start = 'ps' 		33
+if start == 'sr' : 		34
+start = 'rs' 		35
+for idx in range ( n - 1 ) : 		37
+end = '' 		38
+for c in start : 		39
+if c == 'r' : 		40
+end += 'rs' 		41
+if c == 'p' : 		42
+end += 'pr' 		43
+if c == 's' : 		44
+end += 'ps' 		45
+start = end 		46
+z = [ start [ i ] + start [ i + 1 ] for i in range ( 0 , len ( start ) , 2 ) ] 		47
+for _ in range ( n - 1 ) : 		48
+s = [ ] 		49
+for i in range ( 0 , len ( z ) , 2 ) : 		50
+if z [ i ] > z [ i + 1 ] : 		51
+s . append ( z [ i + 1 ] + z [ i ] ) 		52
+else : 		53
+s . append ( z [ i ] + z [ i + 1 ] ) 		54
+z = s 		55
+print ( len ( z ) ) 		56
+fw . write ( "Case #{0}: {1}\n" . format ( case + 1 , z [ 0 ] ) ) 		57

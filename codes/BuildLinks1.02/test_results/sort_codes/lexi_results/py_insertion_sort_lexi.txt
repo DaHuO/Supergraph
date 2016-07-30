@@ -1,0 +1,14 @@
+from random import shuffle 		4
+def insertionSort ( alist ) : 		6
+for index in range ( 1 , len ( alist ) ) : 		7
+currentValue = alist [ index ] 		8
+position = index 		9
+while position > 0 and alist [ position - 1 ] > currentValue : 		11
+alist [ position ] = alist [ position - 1 ] 		12
+position = position - 1 		13
+alist [ position ] = currentValue 		15
+print ( alist ) 		16
+alist = [ i for i in range ( 15 ) ] 		19
+shuffle ( alist ) 		20
+insertionSort ( alist ) 		22
+print ( alist ) 		23

@@ -1,0 +1,12 @@
+def insert_sort ( list ) : 		7
+for i in range ( 1 , len ( list ) ) : 		9
+key = list [ i ] 		10
+j = i - 1 		11
+while j >= 0 and key < list [ j ] : 		12
+list [ j + 1 ] = list [ j ] 		13
+j -= 1 		14
+list [ j + 1 ] = key 		15
+return list 		16
+if __name__ == '__main__' : 		19
+list = [ 52 , 46 , 2 , 7584 , 542 ] 		20
+print insert_sort ( list ) 		21

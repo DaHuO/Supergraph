@@ -1,0 +1,31 @@
+T = int ( input ( ) ) 		1
+for case in range ( T ) : 		2
+num = [ 1 , 0 , 0 ] 		3
+n , r , p , s = map ( int , input ( ) . split ( ) ) 		4
+for i in range ( n ) : 		6
+num [ 0 ] , num [ 1 ] , num [ 2 ] = num [ 0 ] + num [ 2 ] , num [ 1 ] + num [ 0 ] , num [ 1 ] + num [ 2 ] 		7
+if [ p , r , s ] == num : 		9
+winner = 0 		10
+elif [ r , s , p ] == num : 		11
+winner = 1 		12
+elif [ s , p , r ] == num : 		13
+winner = 2 		14
+else : 		15
+print ( "Case #{}: IMPOSSIBLE" . format ( case + 1 ) ) 		16
+continue 		17
+tree = [ [ ] for i in range ( n + 1 ) ] 		18
+tree [ 0 ] . append ( winner ) 		19
+for i in range ( 1 , n + 1 ) : 		21
+for k in tree [ i - 1 ] : 		22
+tree [ i ] . append ( k ) 		23
+tree [ i ] . append ( ( k + 1 ) % 3 ) 		24
+k = [ "P" , "R" , "S" ] 		26
+res = "" 		27
+for c in tree [ n ] : 		28
+res += k [ c ] 		29
+for i in range ( 1 , n + 1 ) : 		31
+length = 2 ** ( i - 1 ) 		32
+for pos in range ( 0 , 2 ** n , length * 2 ) : 		33
+if res [ pos : pos + length ] > res [ pos + length : pos + 2 * length ] : 		34
+res = res [ : pos ] + res [ pos + length : pos + 2 * length ] + res [ pos : pos + length ] + res [ pos + 2 * length : ] 		35
+print ( "Case #{}: {}" . format ( case + 1 , res ) ) 		37

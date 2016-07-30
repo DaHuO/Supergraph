@@ -1,0 +1,34 @@
+def make ( i , n , cur ) : 		2
+if i == n : 		3
+return cur 		4
+ret = '' 		6
+for c in cur : 		7
+a , b = None , None 		8
+if c == 'P' : 		9
+a , b = 'P' , 'R' 		10
+elif c == 'R' : 		11
+a , b = 'R' , 'S' 		12
+elif c == 'S' : 		13
+a , b = 'P' , 'S' 		14
+l1 = make ( i + 1 , n , a ) 		15
+l2 = make ( i + 1 , n , b ) 		16
+if l1 < l2 : 		17
+ret += l1 		18
+ret += l2 		19
+else : 		20
+ret += l2 		21
+ret += l1 		22
+return ret 		23
+T = int ( raw_input ( ) ) 		25
+for t in xrange ( T ) : 		26
+N , R , P , S = map ( int , raw_input ( ) . split ( ) ) 		27
+opt = 'IMPOSSIBLE' 		28
+answers = [ 		29
+make ( 0 , N , 'R' ) , 		30
+make ( 0 , N , 'P' ) , 		31
+make ( 0 , N , 'S' ) , 		32
+] 		33
+for ans in answers : 		34
+if ans . count ( 'P' ) == P and ans . count ( 'R' ) == R and ans . count ( 'S' ) == S : 		35
+opt = ans 		36
+print 'Case #%d: %s' % ( t + 1 , opt ) 		37

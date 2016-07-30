@@ -1,0 +1,41 @@
+TEST = 		1
+def solve ( n , r , p , s ) : 		10
+l = [ ] 		12
+for poss_winner in [ "R" , "S" , "P" ] : 		13
+poss_answer = round_with_winner ( n , poss_winner ) 		14
+l . append ( poss_answer ) 		15
+new_l = filter ( lambda x : comp_count_correct ( x , r , p , s ) , l ) 		16
+new_l . sort ( ) 		17
+if new_l : 		18
+return new_l [ 0 ] 		19
+else : 		20
+return "IMPOSSIBLE" 		21
+def comp_count_correct ( ans , r , p , s ) : 		24
+correct = ( ans . count ( "R" ) == r ) and ( ans . count ( "P" ) == p ) and ( ans . count ( "S" ) == s ) 		25
+return correct 		26
+def round_with_winner ( n , winner ) : 		28
+if n == 1 : 		29
+if winner == "R" : 		30
+return "RS" 		31
+elif winner == "S" : 		32
+return "PS" 		33
+elif winner == "P" : 		34
+return "PR" 		35
+else : 		37
+if winner == "R" : 		38
+a = round_with_winner ( n - 1 , "R" ) 		39
+b = round_with_winner ( n - 1 , "S" ) 		40
+elif winner == "S" : 		41
+a = round_with_winner ( n - 1 , "P" ) 		42
+b = round_with_winner ( n - 1 , "S" ) 		43
+elif winner == "P" : 		44
+a = round_with_winner ( n - 1 , "P" ) 		45
+b = round_with_winner ( n - 1 , "R" ) 		46
+l = [ a , b ] 		47
+l . sort ( ) 		48
+return "" . join ( l ) 		49
+if __name__ == "__main__" : 		51
+t = int ( raw_input ( ) ) 		52
+for i in xrange ( 1 , t + 1 ) : 		53
+n , r , p , s = [ int ( s ) for s in raw_input ( ) . split ( " " ) ] 		54
+print "Case #{}: {}" . format ( i , solve ( n , r , p , s ) ) 		55

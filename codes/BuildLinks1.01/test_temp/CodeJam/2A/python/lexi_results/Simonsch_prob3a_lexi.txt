@@ -1,0 +1,46 @@
+import sys 		1
+import math 		2
+import numpy as np 		3
+def num_to_chr ( i ) : 		6
+if i == 0 : 		7
+return 'P' 		8
+elif i == 1 : 		9
+return 'R' 		10
+else : 		11
+return 'S' 		12
+T = int ( sys . stdin . readline ( ) ) 		14
+for t in range ( 1 , T + 1 ) : 		15
+line = sys . stdin . readline ( ) 		16
+( N , R , P , S ) = map ( int , line . split ( ' ' ) ) 		17
+NN = 2 ** N 		18
+found = False 		20
+s = np . zeros ( NN ) 		21
+for c in range ( 3 ) : 		22
+s [ 0 ] = c 		23
+n = 1 		24
+while n < NN : 		25
+for i in range ( n ) : 		26
+index = i * ( NN // n ) 		27
+s [ index + ( NN // ( 2 * n ) ) ] = ( s [ index ] + 1 ) % 3 		28
+n = 2 * n 		29
+if ( np . count_nonzero ( s == 0 ) == P ) and ( np . count_nonzero ( s == 1 ) == R ) : 		30
+found = True 		31
+break 		32
+if found == False : 		34
+print ( "Case #{}: " . format ( t ) , end = "" ) 		35
+print ( "IMPOSSIBLE" ) 		36
+continue 		37
+sl = s . tolist ( ) 		38
+n = 1 		39
+while n < NN : 		40
+i = 0 		41
+while i < NN : 		42
+if sl [ i : ( i + n ) ] > sl [ ( i + n ) : ( i + 2 * n ) ] : 		43
+h = sl [ i : ( i + n ) ] 		44
+sl [ i : ( i + n ) ] = sl [ ( i + n ) : ( i + 2 * n ) ] 		45
+sl [ ( i + n ) : ( i + 2 * n ) ] = h 		46
+i = i + 2 * n 		47
+n = 2 * n 		48
+so = '' . join ( num_to_chr ( i ) for i in sl ) 		49
+print ( "Case #{}: " . format ( t ) , end = "" ) 		50
+print ( so ) 		51

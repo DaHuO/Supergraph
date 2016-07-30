@@ -1,0 +1,50 @@
+import sys 		1
+def sort_rps ( x , N ) : 		4
+if N == 0 : 		5
+return x 		6
+k = 2 ** ( N - 1 ) 		7
+a = sort_rps ( x [ : k ] , N - 1 ) 		8
+b = sort_rps ( x [ k : ] , N - 1 ) 		9
+if a < b : 		10
+return a + b 		11
+else : 		12
+return b + a 		13
+def make ( N , x , R , P , S ) : 		15
+m = { 'R' : "RS" , 'P' : "PR" , 'S' : "PS" } 		16
+for i in xrange ( N ) : 		17
+x = '' . join ( map ( lambda a : m [ a ] , x ) ) 		18
+counts = [ 0 , 0 , 0 ] 		19
+for a in x : 		20
+if a == 'R' : counts [ 0 ] += 1 		21
+if a == 'P' : counts [ 1 ] += 1 		22
+if a == 'S' : counts [ 2 ] += 1 		23
+if counts != [ R , P , S ] : 		24
+return None 		25
+return sort_rps ( x , N ) 		26
+def compute ( N , R , P , S ) : 		29
+x = make ( N , "R" , R , P , S ) 		30
+if x is not None : 		31
+return x 		32
+x = make ( N , "P" , R , P , S ) 		33
+if x is not None : 		34
+return x 		35
+x = make ( N , "S" , R , P , S ) 		36
+if x is not None : 		37
+return x 		38
+return "IMPOSSIBLE" 		39
+def parse ( ) : 		42
+N , R , P , S = map ( int , sys . stdin . readline ( ) . strip ( ) . split ( ) ) 		43
+return N , R , P , S 		44
+if __name__ == "__main__" : 		47
+sys . setrecursionlimit ( 100000 ) 		48
+T = int ( sys . stdin . readline ( ) . strip ( ) ) 		49
+count = 1 		50
+part = 0 		51
+if len ( sys . argv ) == 3 : 		52
+part = int ( sys . argv [ 1 ] ) 		53
+count = int ( sys . argv [ 2 ] ) 		54
+for i in xrange ( T ) : 		55
+data = parse ( ) 		56
+if i * count >= part * T and i * count < ( part + 1 ) * T : 		57
+result = compute ( * data ) 		58
+print "Case #%d: %s" % ( i + 1 , result ) 		59

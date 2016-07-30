@@ -1,0 +1,34 @@
+def sp ( a , b , c ) : 		1
+if ( a + b + c == 2 ) : 		2
+if a == 0 : 		3
+return ( 'PS' ) 		4
+elif b == 0 : 		5
+return ( 'RS' ) 		6
+else : 		7
+return ( 'PR' ) 		8
+else : 		9
+m = max ( a , b , c ) 		10
+a1 = m // 2 		11
+b1 , c1 = a1 , a1 		12
+if a1 * 2 != a : 		13
+a1 = a - a1 		14
+elif b1 * 2 != b : 		15
+b1 = b - b1 		16
+else : 		17
+c1 = c - c1 		18
+x = sp ( a1 , b1 , c1 ) 		19
+y = sp ( a - a1 , b - b1 , c - c1 ) 		20
+if x < y : 		21
+return x + y 		22
+else : 		23
+return y + x 		24
+T = int ( raw_input ( ) ) 		30
+for K in range ( T ) : 		33
+N , r , p , s = [ int ( s ) for s in raw_input ( ) . split ( " " ) ] 		34
+n = 2 ** N 		35
+n = n // 3 		36
+if ( 0 <= r - n <= 1 ) and ( 0 <= p - n <= 1 ) and ( 0 <= s - n <= 1 ) : 		37
+ret = sp ( r , p , s ) 		38
+print "Case #{}: {}" . format ( K + 1 , ret ) 		39
+else : 		42
+print "Case #{}: {}" . format ( K + 1 , 'IMPOSSIBLE' ) 		43

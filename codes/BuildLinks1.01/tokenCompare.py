@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 def tokenCompare(target, compared):
-	threshold = 0.8
+	threshold = 0.75
 	target = map(lambda st:st.lower(), target)
 	compared = map(lambda st:st.lower(), compared)
 	lent = len(target)

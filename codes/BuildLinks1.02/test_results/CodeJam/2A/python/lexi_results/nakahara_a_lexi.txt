@@ -1,0 +1,86 @@
+import math 		2
+def convert ( s ) : 		4
+if s == 'PR' or s == 'RP' : 		5
+return 'P' 		6
+elif s == 'PS' or s == 'SP' : 		7
+return 'S' 		8
+elif s == 'RS' or s == 'SR' : 		9
+return 'R' 		10
+else : 		11
+print ( 'ERROR' , s ) 		12
+return 'P' 		13
+def order ( up , low , n , lis ) : 		15
+if n == 0 : 		16
+return up [ 0 ] 		17
+nup = [ ] 		18
+nlow = [ ] 		19
+if len ( up ) == 1 : 		20
+if 'P' == up [ 0 ] : 		21
+nup = [ 'P' , 'S' ] 		22
+nlow = [ 'R' ] 		23
+if 'R' == up [ 0 ] : 		24
+nup = [ 'R' , 'P' ] 		25
+nlow = [ 'S' ] 		26
+if 'S' == up [ 0 ] : 		27
+nup = [ 'R' , 'S' ] 		28
+nlow = [ 'P' ] 		29
+elif len ( low ) == 1 : 		30
+if 'P' == low [ 0 ] : 		31
+nlow = [ 'P' , 'S' ] 		32
+nup = [ 'R' ] 		33
+if 'R' == low [ 0 ] : 		34
+nlow = [ 'R' , 'P' ] 		35
+nup = [ 'S' ] 		36
+if 'S' == low [ 0 ] : 		37
+nlow = [ 'R' , 'S' ] 		38
+nup = [ 'P' ] 		39
+strin = order ( nup , nlow , n - 1 , '' . join ( [ convert ( e ) for e in [ lis [ 0 : 2 ] , lis [ 0 ] + lis [ 2 ] , lis [ 1 : ] ] ] ) ) 		41
+return replace ( strin , lis ) 		42
+def replace ( s , lis ) : 		44
+news = '' 		45
+subst = [ lis [ 0 : 2 ] , lis [ 1 : ] , lis [ 0 ] + lis [ 2 ] ] 		46
+for j in range ( len ( s ) ) : 		47
+if s [ j ] == 'P' : 		48
+if 'PR' in subst : 		49
+news += 'PR' 		50
+else : 		51
+news += 'RP' 		52
+elif s [ j ] == 'S' : 		53
+if 'PS' in subst : 		54
+news += 'PS' 		55
+else : 		56
+news += 'SP' 		57
+else : 		58
+if 'RS' in subst : 		59
+news += 'RS' 		60
+else : 		61
+news += 'SR' 		62
+return news 		63
+def solve ( ) : 		67
+N , R , P , S = [ int ( e ) for e in input ( ) . split ( ) ] 		68
+up = math . ceil ( 2 ** N / 3 ) 		69
+low = math . floor ( 2 ** N / 3 ) 		70
+if R < low or R > up : 		72
+return 'IMPOSSIBLE' 		73
+if P < low or P > up : 		74
+return 'IMPOSSIBLE' 		75
+if S < low or S > up : 		76
+return 'IMPOSSIBLE' 		77
+nup = [ ] 		79
+nlow = [ ] 		80
+if P == up : 		81
+nup . append ( 'P' ) 		82
+else : 		83
+nlow . append ( 'P' ) 		84
+if R == up : 		85
+nup . append ( 'R' ) 		86
+else : 		87
+nlow . append ( 'R' ) 		88
+if S == up : 		89
+nup . append ( 'S' ) 		90
+else : 		91
+nlow . append ( 'S' ) 		92
+return order ( nup , nlow , N , 'PRS' ) 		94
+T = int ( input ( ) ) ; 		96
+for t in range ( 1 , T + 1 ) : 		98
+print ( "Case #" + str ( t ) + ": " + solve ( ) ) 		99

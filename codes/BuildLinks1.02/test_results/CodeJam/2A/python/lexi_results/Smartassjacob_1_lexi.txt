@@ -1,0 +1,39 @@
+import math 		1
+input = open ( '1in' , 'r' ) 		2
+output = open ( '1out' , 'w' ) 		3
+T = int ( input . readline ( ) ) 		4
+g = { } 		5
+def w ( c ) : 		6
+if c == 'R' : 		7
+return 'S' 		8
+if c == 'S' : 		9
+return 'P' 		10
+if c == 'P' : 		11
+return 'R' 		12
+def f ( N , c ) : 		13
+if ( N , c ) in g : 		14
+return g [ ( N , c ) ] 		15
+if N == 0 : 		16
+return c 		17
+else : 		18
+s1 = f ( N - 1 , c ) 		19
+s2 = f ( N - 1 , w ( c ) ) 		20
+A = [ s1 , s2 ] 		21
+A . sort ( ) 		22
+g [ ( N , c ) ] = A [ 0 ] + A [ 1 ] 		23
+return g [ ( N , c ) ] 		24
+for dummy in range ( T ) : 		25
+print dummy + 1 		26
+output . write ( 'Case #' + str ( dummy + 1 ) + ': ' ) 		27
+[ N , R , P , S ] = [ int ( x ) for x in input . readline ( ) . split ( ) ] 		28
+s1 = f ( N , 'P' ) 		29
+s2 = f ( N , 'R' ) 		30
+s3 = f ( N , 'S' ) 		31
+if s1 . count ( 'R' ) == R and s1 . count ( 'S' ) == S and s1 . count ( 'P' ) == P : 		32
+output . write ( s1 + '\n' ) 		33
+elif s2 . count ( 'R' ) == R and s2 . count ( 'S' ) == S and s2 . count ( 'P' ) == P : 		34
+output . write ( s2 + '\n' ) 		35
+elif s3 . count ( 'R' ) == R and s3 . count ( 'S' ) == S and s3 . count ( 'P' ) == P : 		36
+output . write ( s3 + '\n' ) 		37
+else : 		38
+output . write ( 'IMPOSSIBLE\n' ) 		39

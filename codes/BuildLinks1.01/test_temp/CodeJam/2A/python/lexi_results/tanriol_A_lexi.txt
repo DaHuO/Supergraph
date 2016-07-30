@@ -1,0 +1,67 @@
+from __future__ import division 		4
+from __future__ import with_statement 		5
+from __future__ import print_function 		6
+def memoized ( func ) : 		11
+mem = { } 		12
+def wrapped ( * args ) : 		14
+if args not in mem : 		15
+mem [ args ] = func ( * args ) 		16
+return mem [ args ] 		17
+return wrapped 		18
+readint = lambda infile : int ( infile . readline ( ) ) 		22
+readints = lambda infile : [ int ( s ) for s in infile . readline ( ) . split ( ) ] 		24
+class ProblemSolver ( object ) : 		28
+def __init__ ( self ) : 		29
+self . precalculate ( ) 		30
+def precalculate ( self ) : 		32
+raise NotImplementedError 		33
+def process ( self , infile , ncase ) : 		35
+raise NotImplementedError 		36
+def run ( self , infile , outfile ) : 		38
+cases = int ( infile . readline ( ) ) 		39
+for ncase in range ( cases ) : 		40
+print ( "Case #{nc}" . format ( nc = ncase + 1 ) ) 		41
+data = self . process ( infile , ncase = ncase ) 		43
+outfile . write ( "Case #{nc}: {data}\n" . format ( 		44
+nc = ncase + 1 , data = data ) ) 		45
+from collections import Counter 		47
+PREV = { 		49
+'R' : 'RS' , 		50
+'P' : 'PR' , 		51
+'S' : 'SP' 		52
+} 		53
+class Solver ( ProblemSolver ) : 		56
+@ staticmethod 		57
+def expand ( char , count ) : 		58
+if count == 0 : 		59
+return char 		60
+left , right = [ Solver . expand ( c , count - 1 ) for c in PREV [ char ] ] 		61
+return left + right if left < right else right + left 		62
+def precalculate ( self ) : 		64
+pass 		66
+def process ( self , infile , ncase ) : 		68
+N , R , P , S = readints ( infile ) 		70
+for line in 'R' , 'P' , 'S' : 		71
+line = self . expand ( line , N ) 		72
+counts = Counter ( line ) 		73
+if R == counts [ 'R' ] and P == counts [ 'P' ] and S == counts [ 'S' ] : 		74
+return line 		75
+return "IMPOSSIBLE" 		76
+if __name__ == '__main__' : 		79
+from os . path import basename , splitext 		82
+TASK = splitext ( basename ( __file__ ) ) [ 0 ] 		83
+print ( "Task {}" . format ( TASK ) ) 		84
+from sys import argv 		85
+if len ( argv ) > 1 : 		86
+print ( "Filename given: {}" . format ( argv [ 1 ] ) ) 		87
+FILE = splitext ( argv [ 1 ] ) [ 0 ] 		88
+else : 		89
+FILE = TASK 		90
+print ( "Initialization..." ) 		92
+solver = Solver ( ) 		93
+print ( "Initialization done." ) 		94
+print ( "Calculation..." ) 		96
+with open ( FILE + ".in" ) as infile : 		97
+with open ( FILE + ".out" , mode = "wt" ) as outfile : 		98
+solver . run ( infile , outfile ) 		99
+print ( "Calculation done." ) 		100

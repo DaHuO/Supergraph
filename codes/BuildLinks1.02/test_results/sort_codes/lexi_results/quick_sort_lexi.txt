@@ -1,0 +1,71 @@
+def swap ( arr , i , j ) : 		1
+temp = arr [ i ] 		2
+arr [ i ] = arr [ j ] 		3
+arr [ j ] = temp 		4
+def find_median ( arr , i , j , k ) : 		6
+if arr [ i ] < arr [ j ] : 		7
+if arr [ i ] < arr [ k ] : 		8
+return j if arr [ j ] < arr [ k ] else k 		9
+else : 		10
+return i 		11
+else : 		12
+if arr [ i ] > arr [ k ] : 		13
+return k if arr [ j ] < arr [ k ] else j 		14
+else : 		15
+return i 		16
+def quick1 ( arr , start , end ) : 		25
+if end <= start : 		27
+return 0 		28
+pivot = arr [ start ] 		30
+i = start 		32
+count = 0 		33
+for j in xrange ( start , end + 1 ) : 		39
+if arr [ j ] < pivot : 		40
+swap ( arr , i + 1 , j ) 		41
+i += 1 		42
+swap ( arr , start , i ) 		44
+count = end - start 		45
+count1 = quick1 ( arr , start , i - 1 ) 		46
+count2 = quick1 ( arr , i + 1 , end ) 		47
+count = count + count1 + count2 		48
+return count 		49
+def quick2 ( arr , start , end ) : 		57
+if end <= start : 		58
+return 0 		59
+swap ( arr , start , end ) 		61
+pivot = arr [ start ] 		62
+i = start 		63
+count = 0 		64
+for j in xrange ( start , end + 1 ) : 		65
+if arr [ j ] < pivot : 		66
+swap ( arr , i + 1 , j ) 		67
+i += 1 		68
+swap ( arr , start , i ) 		70
+count = end - start 		71
+count1 = quick2 ( arr , start , i - 1 ) 		72
+count2 = quick2 ( arr , i + 1 , end ) 		73
+count = count + count1 + count2 		74
+return count 		75
+def quick3 ( arr , start , end ) : 		85
+if end <= start : 		86
+return 0 		87
+mid = ( start + end ) / 2 		90
+median = find_median ( arr , start , mid , end ) 		91
+swap ( arr , start , median ) 		93
+pivot = arr [ start ] 		95
+i = start 		97
+count = 0 		98
+for j in xrange ( start , end + 1 ) : 		99
+if arr [ j ] < pivot : 		100
+swap ( arr , i + 1 , j ) 		101
+i += 1 		102
+swap ( arr , start , i ) 		104
+count = end - start 		105
+count1 = quick3 ( arr , start , i - 1 ) 		106
+count2 = quick3 ( arr , i + 1 , end ) 		107
+count = count + count1 + count2 		108
+return count 		109
+if __name__ == "__main__" : 		112
+with open ( "QuickSort.txt" , "r" ) as f : 		116
+data = [ int ( line ) for line in f ] 		117
+print "quick3 answer {}" . format ( quick3 ( data , 0 , len ( data ) - 1 ) ) 		120

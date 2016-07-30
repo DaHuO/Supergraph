@@ -1,0 +1,34 @@
+__author__ = 'Tianren Liu' 		2
+import sys 		4
+import numpy as np 		5
+def solve ( R , P , S ) : 		7
+if ( R < 0 or P < 0 or S < 0 ) : 		8
+return "IMPOSSIBLE" 		9
+if R + P + S == 1 : 		10
+return 'R' if R > 0 else 'P' if P > 0 else 'S' 		11
+Rn , Pn , Sn = ( R + S - P ) // 2 , ( P - S + R ) // 2 , ( - R + S + P ) // 2 		12
+if ( Rn > R or Pn > P or Sn > S ) : 		13
+return "IMPOSSIBLE" 		14
+res = solve ( Rn , Pn , Sn ) 		15
+if res == "IMPOSSIBLE" : 		16
+return "IMPOSSIBLE" 		17
+else : 		18
+nres = '' 		19
+m = { 'R' : 'RS' , 'S' : 'SP' , 'P' : 'PR' } 		20
+for c in res : 		21
+nres += m [ c ] 		22
+return nres 		23
+def asort ( S ) : 		25
+if S == "IMPOSSIBLE" : 		26
+return S 		27
+l = len ( S ) 		28
+if l > 1 : 		29
+Sl = asort ( S [ : l // 2 ] ) 		30
+Sh = asort ( S [ l // 2 : ] ) 		31
+S = Sl + Sh if Sl < Sh else Sh + Sl 		32
+return S 		33
+if __name__ == "__main__" : 		35
+T = int ( sys . stdin . readline ( ) ) 		36
+for t in range ( T ) : 		37
+N , R , P , S = map ( int , sys . stdin . readline ( ) . split ( ) ) 		38
+print ( "Case #{}: {}" . format ( t + 1 , asort ( solve ( R , P , S ) ) ) ) 		39

@@ -1,0 +1,65 @@
+from functools import lru_cache 		1
+def valid ( a , b , c ) : 		3
+return max ( [ abs ( a - b ) , abs ( b - c ) , abs ( a - b ) ] ) <= 1 		4
+@ lru_cache ( None ) 		7
+def solve ( P , R , S ) : 		8
+if P + R + S == 1 : 		9
+if P : 		10
+return 'P' 		11
+if R : 		12
+return 'R' 		13
+if S : 		14
+return 'S' 		15
+a = b = c = ( P + R + S ) // 6 		17
+d = e = f = ( P + R + S ) // 6 		18
+X = P - a - d 		20
+Y = R - b - e 		21
+Z = S - c - f 		22
+if ( X , Y , Z ) == ( 1 , 1 , 0 ) : 		24
+a += 1 		25
+e += 1 		26
+elif ( X , Y , Z ) == ( 1 , 0 , 1 ) : 		28
+a += 1 		29
+f += 1 		30
+elif ( X , Y , Z ) == ( 0 , 1 , 1 ) : 		32
+b += 1 		33
+f += 1 		34
+elif ( X , Y , Z ) == ( 2 , 0 , 0 ) : 		36
+a += 1 		37
+d += 1 		38
+elif ( X , Y , Z ) == ( 0 , 2 , 0 ) : 		40
+b += 1 		41
+e += 1 		42
+elif ( X , Y , Z ) == ( 0 , 0 , 2 ) : 		44
+c += 1 		45
+f += 1 		46
+elif ( X , Y , Z ) == ( 1 , 1 , 2 ) : 		48
+a += 1 		49
+c += 1 		50
+e += 1 		51
+f += 1 		52
+elif ( X , Y , Z ) == ( 1 , 2 , 1 ) : 		54
+a += 1 		55
+b += 1 		56
+e += 1 		57
+f += 1 		58
+elif ( X , Y , Z ) == ( 2 , 1 , 1 ) : 		60
+a += 1 		61
+b += 1 		62
+d += 1 		63
+f += 1 		64
+else : 		66
+print ( X , Y , Z ) 		67
+return solve ( a , b , c ) + solve ( d , e , f ) 		69
+with open ( "A-large.in" ) as infile : 		72
+with open ( "a.out" , "w" ) as outfile : 		73
+cases = int ( next ( infile ) ) 		74
+for case in range ( 1 , cases + 1 ) : 		76
+N , R , P , S = list ( map ( int , next ( infile ) . split ( ) ) ) 		77
+if not valid ( P , R , S ) : 		79
+print ( "Case #{}: IMPOSSIBLE" . format ( case ) , file = outfile ) 		80
+continue 		81
+print ( "Case #{}: {}" . format ( case , solve ( P , R , S ) ) , file = outfile ) 		83
+assert solve ( 6 , 5 , 5 ) == "PRPSPRRSPRPSPSRS" 		85
+assert solve ( 1 , 2 , 1 ) == "PRRS" 		86
+assert solve ( 1 , 1 , 2 ) == "PSRS" 		87

@@ -1,0 +1,67 @@
+def play ( N , R , P , S ) : 		1
+total = R + P + S 		2
+half = total / 2 		3
+if R > half or P > half or S > half : 		4
+return 'IMPOSSIBLE' 		5
+if total == 2 : 		6
+res = '' 		7
+if P : 		8
+res += 'P' 		9
+if R : 		10
+res += 'R' 		11
+if S : 		12
+res += 'S' 		13
+return res 		14
+AR = ( R + S - P ) / 2 		15
+AS = ( P + S - R ) / 2 		16
+AP = ( R + P - S ) / 2 		17
+next = play ( N , AR , AP , AS ) 		18
+if next == 'IMPOSSIBLE' : 		19
+return 'IMPOSSIBLE' 		20
+else : 		21
+if N == total : 		22
+res = [ ] 		23
+for i in next : 		24
+if i == 'R' : 		25
+res += [ 'RS' ] 		26
+elif i == 'P' : 		27
+res += [ 'PR' ] 		28
+else : 		29
+res += [ 'PS' ] 		30
+return res 		31
+else : 		32
+res = '' 		33
+for i in next : 		34
+if i == 'R' : 		35
+res += 'RS' 		36
+elif i == 'P' : 		37
+res += 'PR' 		38
+else : 		39
+res += 'PS' 		40
+return res 		41
+def sor ( strs , N , total ) : 		43
+for i in range ( N - 1 ) : 		44
+new_strs = [ ] 		45
+length = 2 ** ( N - i - 2 ) 		46
+for e in range ( length ) : 		47
+a = strs [ 2 * e ] 		48
+b = strs [ 2 * e + 1 ] 		49
+if b < a : 		50
+a , b = b , a 		51
+new_strs += [ a + b ] 		52
+strs = new_strs 		53
+return '' . join ( strs ) 		54
+def solve ( case_number ) : 		57
+input_numbers = [ int ( s ) for s in raw_input ( ) . split ( " " ) ] 		58
+N , R , P , S = input_numbers 		59
+total = 2 ** N 		60
+ans = play ( total , R , P , S ) 		61
+if ans == 'IMPOSSIBLE' : 		62
+print "Case #{}: {}" . format ( case_number , ans ) 		63
+return 		64
+if N > 1 : 		65
+ans = sor ( ans , N , total ) 		66
+print "Case #{}: {}" . format ( case_number , ans ) 		67
+t = int ( raw_input ( ) ) 		69
+for case in xrange ( 1 , t + 1 ) : 		70
+solve ( case ) 		71

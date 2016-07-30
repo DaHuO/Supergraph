@@ -1,0 +1,47 @@
+def order2 ( p , order ) : 		1
+ordering = [ ] 		2
+if order == 0 : 		3
+ordering = [ 'P' , 'R' , 'S' ] 		4
+if order == 1 : 		5
+ordering = [ 'P' , 'S' , 'R' ] 		6
+if order == 2 : 		7
+ordering = [ 'S' , 'P' , 'R' ] 		8
+if order == 3 : 		9
+ordering = [ 'S' , 'R' , 'P' ] 		10
+if order == 4 : 		11
+ordering = [ 'R' , 'S' , 'P' ] 		12
+if order == 5 : 		13
+ordering = [ 'R' , 'P' , 'S' ] 		14
+out = [ ] 		16
+for i in range ( 3 ) : 		17
+if ordering [ i ] in p : 		18
+out . append ( ordering [ i ] ) 		19
+return out 		21
+hands = { 'P' : [ 'P' , 'R' ] , 'R' : [ 'R' , 'S' ] , 'S' : [ 'S' , 'P' ] } 		23
+def rps ( n , r , p , s , order ) : 		26
+pnext = 2 ** ( n - 1 ) - s 		27
+rnext = 2 ** ( n - 1 ) - p 		28
+snext = 2 ** ( n - 1 ) - r 		29
+if pnext < 0 or rnext < 0 or snext < 0 : 		31
+return 'IMPOSSIBLE' 		32
+if n == 1 : 		34
+if pnext : 		35
+return order2 ( [ 'P' , 'R' ] , order ) 		36
+if rnext : 		37
+return order2 ( [ 'R' , 'S' ] , order ) 		38
+if snext : 		39
+return order2 ( [ 'P' , 'S' ] , order ) 		40
+recurse = rps ( n - 1 , rnext , pnext , snext , ( order + 1 ) % 6 ) 		42
+if recurse == 'IMPOSSIBLE' : 		44
+return 'IMPOSSIBLE' 		45
+else : 		46
+out = [ ] 		47
+for i in recurse : 		48
+out += order2 ( hands [ i ] , order ) 		49
+return out 		51
+with open ( 'A-large.in' , 'r' ) as f : 		55
+cases = int ( f . readline ( ) ) 		56
+lines = f . readlines ( ) 		57
+for i in range ( cases ) : 		59
+n , r , p , s = map ( int , lines [ i ] . strip ( ) . split ( ' ' ) ) 		60
+print "Case #" + str ( i + 1 ) + ": " + '' . join ( rps ( n , r , p , s , 0 ) ) 		61

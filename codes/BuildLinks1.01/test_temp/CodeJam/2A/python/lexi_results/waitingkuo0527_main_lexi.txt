@@ -1,0 +1,47 @@
+_map = { 		1
+'R' : 'RS' , 		2
+'S' : 'PS' , 		3
+'P' : 'PR' 		4
+} 		5
+def solve ( N , R , P , S ) : 		6
+for win in [ 'R' , 'P' , 'S' ] : 		9
+s = win 		10
+for i in range ( N ) : 		11
+next_s = '' 		12
+for c in s : 		13
+next_s += _map [ c ] 		14
+s = next_s 		15
+_R = 0 		16
+_P = 0 		17
+_S = 0 		18
+for c in s : 		19
+if c == 'R' : _R += 1 		20
+if c == 'P' : _P += 1 		21
+if c == 'S' : _S += 1 		22
+if R == _R and P == _P and S == _S : 		23
+for i in range ( N ) : 		24
+next_s = '' 		25
+cur = 0 		26
+interval = 2 ** i 		27
+while cur < 2 ** N : 		28
+left = s [ cur : cur + interval ] 		29
+right = s [ cur + interval : cur + interval * 2 ] 		30
+if left < right : 		31
+next_s += left + right 		32
+else : 		33
+next_s += right + left 		34
+cur += 2 * interval 		35
+s = next_s 		36
+return s 		38
+return 'IMPOSSIBLE' 		40
+def parse ( ) : 		43
+N , R , P , S = [ int ( x ) for x in input ( ) . split ( ) ] 		46
+return N , R , P , S 		48
+def main ( ) : 		51
+T = int ( input ( ) ) 		53
+for t in range ( 1 , T + 1 ) : 		56
+params = parse ( ) 		57
+result = solve ( * params ) 		58
+print ( 'Case #%d: %s' % ( t , result ) ) 		59
+if __name__ == '__main__' : 		62
+main ( ) 		64

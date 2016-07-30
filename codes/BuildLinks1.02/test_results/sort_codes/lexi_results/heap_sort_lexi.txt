@@ -1,0 +1,40 @@
+__author__ = 'rg.kavodkar' 		1
+from math import floor 		3
+def sort ( list_ ) : 		6
+length = len ( list_ ) 		12
+build_max_heap ( list_ , length ) 		13
+while length > 0 : 		15
+list_ [ length - 1 ] , list_ [ 0 ] = list_ [ 0 ] , list_ [ length - 1 ] 		18
+length -= 1 		19
+max_heapify ( list_ , length ) 		21
+return list_ 		22
+def max_heapify ( list_ , length ) : 		25
+index = 0 		32
+while index < int ( floor ( ( length - 1 ) / 2 ) ) : 		33
+max_child_index = get_max_child_index ( list_ , index , length ) 		35
+if list_ [ index ] < list_ [ max_child_index ] : 		36
+list_ [ index ] , list_ [ max_child_index ] = list_ [ max_child_index ] , list_ [ index ] 		37
+index = max_child_index 		38
+else : 		39
+break 		40
+def get_max_child_index ( list_ , index , length ) : 		43
+left_child = 2 * index + 1 		53
+right_child = 2 * index + 2 		55
+if left_child > length - 1 : 		58
+return - 1 		59
+elif left_child == length - 1 : 		61
+return left_child 		62
+if list_ [ left_child ] > list_ [ right_child ] : 		66
+return left_child 		67
+else : 		68
+return right_child 		69
+def build_max_heap ( list_ , length ) : 		72
+for j in range ( 2 , length ) : 		81
+i = j 		82
+while i > 0 : 		83
+parent_index = int ( floor ( ( i - 1 ) / 2 ) ) 		84
+if list_ [ i ] > list_ [ parent_index ] : 		85
+list_ [ i ] , list_ [ parent_index ] = list_ [ parent_index ] , list_ [ i ] 		86
+i = parent_index 		87
+else : 		88
+break 		89

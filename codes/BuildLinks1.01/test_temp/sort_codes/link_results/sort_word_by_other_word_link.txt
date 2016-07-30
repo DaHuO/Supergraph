@@ -1,0 +1,31 @@
+22		mergesort		38
+22		merge_sort		43
+22		insertionsort		15
+22		insertion-sort		17
+22		insert_sort		19
+22		heapsort		43
+22		cocktail_shaker_sort		176
+22		bucketsort		22
+22		bubblesort		16
+22		bubble_sort		17
+22		Arraysort		65
+22		qsort		46
+22		quick_sort		112
+22		quicksort_first		26
+22		quicksort_inplace		27
+22		quicksort_last		27
+22		quicksort		34
+22		quicksort_median		39
+22		quicksort_solved		118
+22		selection_sort		21
+22		selectionsort		16
+22		shell_sort		21
+22		sort		110
+22		sorting_algorithms		135
+22		sorting_stack		30
+22		sortingtest		27
+22		stoogesort		24
+22		test_sorts		77
+
+
+The best linked code is bucketsort, and 1 links are found.

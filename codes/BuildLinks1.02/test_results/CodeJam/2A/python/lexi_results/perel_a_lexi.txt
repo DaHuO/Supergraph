@@ -1,0 +1,56 @@
+import time 		1
+INFILE = 'al.in' 		4
+OUTFILE = 'a.out' 		5
+def solve ( n , r , p , s ) : 		8
+m = ( 2 ** n - 2 ) / 2 		9
+if m % 3 == 0 : 		10
+if r == p - 1 and p == s : 		12
+res = 'PRS' 		13
+elif p == r - 1 and r == s : 		14
+res = 'SPR' 		15
+elif s == p - 1 and p == r : 		16
+res = 'RSP' 		17
+else : 		18
+return 'IMPOSSIBLE' 		19
+r1 = ( '' . join ( [ i + i for i in res ] ) ) 		20
+r2 = list ( res [ 2 ] + r1 * ( m / 3 ) + res [ 0 ] ) 		21
+else : 		22
+if r == p + 1 and p == s : 		23
+res = 'PRS' 		24
+elif p == r + 1 and r == s : 		25
+res = 'SPR' 		26
+elif s == p + 1 and p == r : 		27
+res = 'RSP' 		28
+else : 		29
+return 'IMPOSSIBLE' 		30
+r1 = ( '' . join ( [ i + i for i in res ] ) ) * ( m / 3 + 1 ) 		31
+r2 = list ( r1 [ 1 : 2 ** n + 1 ] ) 		32
+for i in range ( 1 , n + 1 ) : 		33
+for j in range ( 0 , 2 ** n , 2 ** i ) : 		34
+step = 2 ** ( i - 1 ) 		35
+if r2 [ j : j + step ] > r2 [ j + step : j + step * 2 ] : 		36
+r2 [ j : j + step ] , r2 [ j + step : j + step * 2 ] = r2 [ j + step : j + step * 2 ] , r2 [ j : j + step ] 		37
+return '' . join ( r2 ) 		38
+def read_input ( fi ) : 		42
+read = lambda type : type ( fi . readline ( ) [ : - 1 ] ) 		43
+readArray = lambda type : map ( type , fi . readline ( ) . split ( ) ) 		44
+readMatrix = lambda type , x : [ map ( type , fi . readline ( ) . split ( ) ) for i in range ( x ) ] 		45
+readLines = lambda type , x : [ type ( fi . readline ( ) [ : - 1 ] ) for i in range ( x ) ] 		46
+n , r , p , s = readArray ( int ) 		47
+return n , r , p , s 		48
+def main ( ) : 		50
+fi = file ( INFILE ) 		51
+fo = file ( OUTFILE , 'w' ) 		52
+time0 = time . time ( ) 		53
+t = int ( fi . readline ( ) ) 		54
+for ti in range ( t ) : 		55
+time1 = time . time ( ) 		56
+t = read_input ( fi ) 		57
+ans = "Case #%d: %s" % ( ti + 1 , solve ( * t ) ) 		58
+print ans , "%.3f" % ( time . time ( ) - time1 ) 		59
+fo . write ( ans + '\n' ) 		60
+print "%.3f" % ( time . time ( ) - time0 ) 		61
+fi . close ( ) 		62
+fo . close ( ) 		63
+if __name__ == '__main__' : 		66
+main ( ) 		67

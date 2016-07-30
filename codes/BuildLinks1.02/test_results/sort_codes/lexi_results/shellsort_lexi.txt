@@ -1,0 +1,16 @@
+def shellsort ( lst ) : 		2
+t = [ 5 , 3 , 1 ] 		3
+for h in t : 		4
+for j in range ( h , len ( lst ) ) : 		5
+i = j - h 		6
+r = lst [ j ] 		7
+flag = 0 		8
+while i > - 1 : 		9
+if r < lst [ i ] : 		10
+flag = 1 		11
+lst [ i + h ] , lst [ i ] = lst [ i ] , lst [ i + h ] 		12
+i -= h 		13
+lst . log ( ) 		14
+else : 		15
+break 		16
+lst [ i + h ] = r 		17

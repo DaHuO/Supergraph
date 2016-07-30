@@ -1,0 +1,30 @@
+from itertools import chain 		1
+filein = open ( 'A-large.in.txt' , 'r' ) 		2
+fileout = open ( 'A-large.out.txt' , 'w' ) 		3
+mp = { 		4
+'R' : [ 'R' , 'S' ] , 		5
+'P' : [ 'P' , 'R' ] , 		6
+'S' : [ 'P' , 'S' ] 		7
+} 		8
+T = int ( filein . readline ( ) ) 		10
+for t in range ( T ) : 		12
+fileout . write ( 'Case #%d: ' % ( t + 1 ) ) 		13
+N , R , P , S = map ( int , filein . readline ( ) . rstrip ( ) . split ( ) ) 		14
+rst = 'T' 		15
+for start in [ 'P' , 'R' , 'S' ] : 		16
+l = [ start ] 		17
+for i in range ( N ) : 		18
+l = list ( chain ( * list ( map ( lambda x : mp [ x ] , l ) ) ) ) 		19
+if l . count ( 'R' ) > R or l . count ( 'P' ) > P or l . count ( 'R' ) > R or l . count ( 'S' ) > S : 		20
+break 		21
+if l . count ( 'R' ) != R or l . count ( 'P' ) != P or l . count ( 'S' ) != S : 		22
+continue 		23
+while len ( l ) != 1 : 		24
+l = [ min ( l [ i ] , l [ i + 1 ] ) + max ( l [ i ] , l [ i + 1 ] ) 		25
+for i in range ( 0 , len ( l ) , 2 ) ] 		26
+rst = min ( rst , '' . join ( l ) ) 		27
+if rst == 'T' : 		28
+rst = 'IMPOSSIBLE' 		29
+fileout . write ( rst + '\n' ) 		30
+filein . close ( ) 		32
+fileout . close ( ) 		33

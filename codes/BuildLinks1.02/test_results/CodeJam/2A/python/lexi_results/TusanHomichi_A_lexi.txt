@@ -1,0 +1,58 @@
+T = int ( raw_input ( ) ) 		1
+def check ( p , r , s ) : 		3
+if ( p + r + s ) == 1 : 		4
+return True 		5
+pairs = ( p + r + s ) / 2 		6
+pr = pairs - s 		7
+ps = pairs - r 		8
+rs = pairs - p 		9
+if pr < 0 or ps < 0 or rs < 0 : 		10
+return False 		11
+return check ( pr , rs , ps ) 		12
+def solve_pair ( p ) : 		14
+if p == "PR" or p == "RP" : 		15
+return "P" 		16
+if p == "PS" or p == "SP" : 		17
+return "S" 		18
+if p == "RS" or p == "SR" : 		19
+return "R" 		20
+def find_min ( p , r , s , order ) : 		22
+if ( p + r + s ) == 1 : 		23
+if p == 1 : 		24
+return "P" 		25
+if r == 1 : 		26
+return "R" 		27
+if s == 1 : 		28
+return "S" 		29
+pairs = ( p + r + s ) / 2 		30
+pr = pairs - s 		31
+ps = pairs - r 		32
+rs = pairs - p 		33
+new_ord = solve_pair ( order [ 0 ] + order [ 1 ] ) + solve_pair ( order [ 0 ] + order [ 2 ] ) + solve_pair ( order [ 1 ] + order [ 2 ] ) 		34
+s = find_min ( pr , rs , ps , new_ord ) 		35
+ret = "" 		36
+for c in s : 		37
+if c == "P" : 		38
+if order . find ( "P" ) < order . find ( "R" ) : 		39
+ret += "PR" 		40
+else : 		41
+ret += "RP" 		42
+if c == "R" : 		43
+if order . find ( "R" ) < order . find ( "S" ) : 		44
+ret += "RS" 		45
+else : 		46
+ret += "SR" 		47
+if c == "S" : 		48
+if order . find ( "S" ) < order . find ( "P" ) : 		49
+ret += "SP" 		50
+else : 		51
+ret += "PS" 		52
+return ret 		53
+def solve ( ) : 		55
+N , r , p , s = map ( int , raw_input ( ) . split ( ' ' ) ) 		56
+if check ( p , r , s ) : 		57
+return find_min ( p , r , s , "PRS" ) 		58
+else : 		59
+return "IMPOSSIBLE" 		60
+for i in range ( 1 , T + 1 ) : 		62
+print "Case #" + str ( i ) + ": " + solve ( ) 		63

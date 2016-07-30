@@ -1,0 +1,27 @@
+import itertools 		1
+n = int ( raw_input ( ) ) 		3
+def red ( x ) : 		5
+i = 0 		6
+r = '' 		7
+if len ( x ) == 1 : 		8
+return True 		10
+while len ( x [ i : i + 2 ] ) != 0 : 		12
+xx = '' . join ( sorted ( x [ i : i + 2 ] ) ) 		13
+i += 2 		15
+if xx == 'PR' : 		16
+r += 'P' 		17
+elif xx == 'PS' : 		18
+r += 'S' 		19
+elif xx == 'RS' : 		20
+r += 'R' 		21
+else : 		22
+return False 		24
+return red ( r ) 		25
+for nn in xrange ( n ) : 		27
+[ i , r , p , s ] = map ( int , raw_input ( ) . split ( ) ) 		28
+res = 'IMPOSSIBLE' 		29
+s = 'R' * r + 'P' * p + 'S' * s 		30
+for x in itertools . permutations ( s ) : 		31
+if red ( x ) and ( '' . join ( x ) < res or res == 'IMPOSSIBLE' ) : 		33
+res = '' . join ( x ) 		35
+print "Case #{}: {}" . format ( nn + 1 , res ) 		36

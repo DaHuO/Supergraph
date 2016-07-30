@@ -1,0 +1,56 @@
+OPP = { 		2
+'S' : 'P' , 		3
+'P' : 'R' , 		4
+'R' : 'S' , 		5
+} 		6
+def get_lineup ( winner , N ) : 		9
+lineup = [ None ] * ( 2 ** N ) 		10
+lineup [ 0 ] = winner 		11
+fill_lineup ( lineup , 0 , len ( lineup ) ) 		12
+return lineup 		13
+def fill_lineup ( lineup , start , end ) : 		15
+if end > start + 1 : 		16
+mid = ( start + end ) // 2 		17
+lineup [ mid ] = OPP [ lineup [ start ] ] 		18
+fill_lineup ( lineup , start , mid ) 		19
+fill_lineup ( lineup , mid , end ) 		20
+def sort_lineup ( lineup ) : 		22
+i = 1 		23
+while i < len ( lineup ) : 		24
+for k in range ( 0 , len ( lineup ) , i * 2 ) : 		25
+if greater ( lineup , k , lineup , k + i , i ) : 		26
+lineup [ k : k + i ] , lineup [ k + i : k + 2 * i ] = lineup [ k + i : k + 2 * i ] , lineup [ k : k + i ] 		27
+i *= 2 		28
+def greater ( lineup1 , k1 , lineup2 , k2 , n ) : 		30
+for j in range ( n ) : 		31
+if lineup1 [ k1 + j ] > lineup2 [ k2 + j ] : 		32
+return True 		33
+elif lineup1 [ k1 + j ] < lineup2 [ k2 + j ] : 		34
+return False 		35
+return False 		36
+def lineup_ok ( lineup , R , P , S ) : 		38
+return lineup . count ( 'R' ) == R and lineup . count ( 'S' ) == S and lineup . count ( 'P' ) == P 		39
+def solve ( N , R , P , S ) : 		41
+best_lineup = None 		42
+for winner in [ 'R' , 'P' , 'S' ] : 		43
+lineup = get_lineup ( winner , N ) 		44
+if lineup_ok ( lineup , R , P , S ) : 		45
+sort_lineup ( lineup ) 		46
+if best_lineup is None or greater ( best_lineup , 0 , lineup , 0 , len ( lineup ) ) : 		47
+best_lineup = lineup 		48
+return best_lineup 		49
+def run ( name ) : 		51
+f = open ( '{0}.in' . format ( name ) , 'r' ) 		52
+g = open ( '{0}.out' . format ( name ) , 'w' ) 		53
+T = int ( f . readline ( ) ) 		55
+for t in range ( T ) : 		56
+N , R , P , S = [ int ( x ) for x in f . readline ( ) . split ( ) ] 		57
+lineup = solve ( N , R , P , S ) 		58
+if lineup : 		59
+g . write ( 'Case #{0}: {1}\n' . format ( t + 1 , '' . join ( lineup ) ) ) 		60
+else : 		61
+g . write ( 'Case #{0}: IMPOSSIBLE\n' . format ( t + 1 ) ) 		62
+f . close ( ) 		64
+g . close ( ) 		65
+if __name__ == '__main__' : 		67
+run ( 'A-large' ) 		68

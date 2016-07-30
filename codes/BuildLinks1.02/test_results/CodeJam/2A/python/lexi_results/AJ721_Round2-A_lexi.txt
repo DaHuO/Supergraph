@@ -1,0 +1,72 @@
+from collections import defaultdict 		1
+cache = dict ( ) 		3
+choices = [ 'P' , 'R' , 'S' ] 		5
+def who_wins ( lft , rt ) : 		7
+if lft == rt : 		8
+return None 		9
+if lft == 'P' and rt == 'S' : 		10
+return 'S' 		11
+if lft == 'S' and rt == 'R' : 		12
+return 'R' 		13
+if lft == 'R' and rt == 'P' : 		14
+return 'P' 		15
+return who_wins ( rt , lft ) 		16
+def best_tournament ( N , R , P , S , winner ) : 		18
+if ( N == 1 ) : 		20
+if winner == "R" : 		21
+if R > 0 : 		22
+return "R" 		23
+else : 		24
+return None 		25
+if winner == "P" : 		26
+if P > 0 : 		27
+return "P" 		28
+else : 		29
+return None 		30
+if winner == "S" : 		31
+if S > 0 : 		32
+return "S" 		33
+else : 		34
+return None 		35
+if ( R , P , S , winner ) in cache : 		37
+return cache . get ( ( R , P , S , winner ) ) 		38
+best = None 		40
+for lft in choices : 		41
+for rt in choices : 		42
+win = who_wins ( lft , rt ) 		43
+if ( win is not None and win == winner ) : 		44
+for rs in xrange ( min ( R , N / 2 ) + 1 ) : 		45
+for ps in xrange ( min ( P , N / 2 - rs ) + 1 ) : 		46
+ss = N / 2 - ps - rs 		47
+if ( ss >= 0 and ss <= S ) : 		48
+bl = best_tournament ( N / 2 , rs , ps , ss , lft ) 		49
+if bl is not None : 		50
+br = best_tournament ( N / 2 , R - rs , P - ps , S - ss , rt ) 		51
+if bl is not None and br is not None : 		52
+next = bl + br 		53
+if best is None or next < best : 		54
+best = next 		55
+cache [ ( R , P , S , winner ) ] = best 		56
+return best 		57
+def do_case ( N , R , P , S ) : 		59
+global cache 		60
+cache = dict ( ) 		61
+bv = None 		62
+for ch in choices : 		63
+gv = best_tournament ( N , R , P , S , ch ) 		64
+if ( bv is None or ( gv is not None and gv < bv ) ) : 		65
+bv = gv 		66
+if bv is None : 		67
+return "IMPOSSIBLE" 		68
+return bv 		70
+f = open ( "A-small-attempt0.in" ) . read ( ) 		72
+lines = f . split ( "\n" ) 		73
+T = int ( lines [ 0 ] ) 		74
+i = 1 		75
+out = "" 		76
+for line in lines [ 1 : ] : 		77
+if len ( line ) > 0 : 		78
+parts = line . split ( " " ) 		79
+out += "Case #%d: %s\n" % ( i , do_case ( 2 ** int ( parts [ 0 ] ) , int ( parts [ 1 ] ) , int ( parts [ 2 ] ) , int ( parts [ 3 ] ) ) ) 		80
+i += 1 		81
+open ( "A-small.out" , "w" ) . write ( out ) 		83

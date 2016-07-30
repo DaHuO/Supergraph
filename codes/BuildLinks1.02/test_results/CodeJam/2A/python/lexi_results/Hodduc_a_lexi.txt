@@ -1,0 +1,34 @@
+def main ( ) : 		1
+T = input ( ) 		2
+for t in range ( 1 , T + 1 ) : 		4
+N , R , P , S = map ( int , raw_input ( ) . split ( ) ) 		6
+def tr ( n , ch ) : 		8
+if n == 0 : 		9
+return ch 		10
+if ch == 'P' : 		12
+l , r = tr ( n - 1 , 'P' ) , tr ( n - 1 , 'R' ) 		13
+elif ch == 'R' : 		14
+l , r = tr ( n - 1 , 'S' ) , tr ( n - 1 , 'R' ) 		15
+else : 		16
+l , r = tr ( n - 1 , 'P' ) , tr ( n - 1 , 'S' ) 		17
+if l > r : 		19
+return r + l 		20
+else : 		21
+return l + r 		22
+ans = None 		24
+x = tr ( N , 'P' ) 		26
+if x . count ( 'P' ) == P and x . count ( 'R' ) == R and x . count ( 'S' ) == S : 		27
+ans = x 		28
+x = tr ( N , 'R' ) 		30
+if x . count ( 'P' ) == P and x . count ( 'R' ) == R and x . count ( 'S' ) == S : 		31
+if ans is None or ans > x : 		32
+ans = x 		33
+x = tr ( N , 'S' ) 		35
+if x . count ( 'P' ) == P and x . count ( 'R' ) == R and x . count ( 'S' ) == S : 		36
+if ans is None or ans > x : 		37
+ans = x 		38
+if ans == None : 		40
+print "Case #%d: IMPOSSIBLE" % t 		41
+else : 		42
+print "Case #%d: %s" % ( t , ans ) 		43
+main ( ) 		45

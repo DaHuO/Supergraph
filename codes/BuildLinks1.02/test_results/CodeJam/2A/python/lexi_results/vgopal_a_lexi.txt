@@ -1,0 +1,34 @@
+from itertools import permutations 		1
+FILENAME = 'a-small.txt' 		3
+f = open ( FILENAME ) 		5
+def play_game ( string ) : 		7
+if len ( string ) == 1 : 		8
+return True 		9
+winners = [ ] 		10
+for i in xrange ( 0 , len ( string ) , 2 ) : 		11
+letters = sorted ( [ string [ i ] , string [ i + 1 ] ] ) 		12
+if string [ i ] == string [ i + 1 ] : 		13
+return False 		14
+elif letters == [ 'R' , 'S' ] : 		15
+winners . append ( 'R' ) 		16
+elif letters == [ 'P' , 'R' ] : 		17
+winners . append ( 'P' ) 		18
+else : 		19
+winners . append ( 'S' ) 		20
+return play_game ( '' . join ( winners ) ) 		21
+def answer ( N , R , P , S ) : 		24
+string = 'R' * R + 'P' * P + 'S' * S 		25
+works = None 		26
+for permutation in permutations ( string ) : 		27
+permutation = '' . join ( permutation ) 		28
+if play_game ( permutation ) : 		29
+if works is None or permutation < works : 		30
+works = permutation 		31
+if works : 		32
+return works 		33
+return 'IMPOSSIBLE' 		34
+num_cases = int ( f . readline ( ) ) 		37
+for case in xrange ( 1 , num_cases + 1 ) : 		38
+N , R , P , S = [ int ( x ) for x in f . readline ( ) . split ( ) ] 		39
+val = answer ( N , R , P , S ) 		40
+print 'Case #{}: {}' . format ( case , val ) 		41

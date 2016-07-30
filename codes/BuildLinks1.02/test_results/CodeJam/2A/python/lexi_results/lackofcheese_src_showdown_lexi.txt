@@ -1,0 +1,58 @@
+from __future__ import print_function , division 		2
+try : 		3
+range = xrange 		4
+except NameError : 		5
+pass 		6
+import itertools as it 		10
+import os 		16
+import sys 		17
+sys . path . append ( os . path . join ( 		19
+os . environ [ 'GOOGLE_DRIVE' ] , 'Coding' , 'GCJ' , 'CodeJamLib' ) ) 		20
+import codejam_io 		21
+def toks_line ( f_in , fun = int ) : 		23
+return [ fun ( k ) for k in f_in . readline ( ) . split ( ) ] 		24
+def process_first ( f_in ) : 		26
+num_cases = int ( f_in . readline ( ) ) 		27
+other_data = None 		28
+return num_cases , other_data 		29
+def process_case ( f_in , f_out , case_no , other_data = None ) : 		31
+N , R , P , S = toks_line ( f_in ) 		32
+ans = solve ( N , R , P , S ) 		33
+if ans is None : 		34
+ans = "IMPOSSIBLE" 		35
+print ( "Case #{}: {}" . format ( case_no , ans ) , file = f_out ) 		36
+def solve ( N , R , P , S ) : 		38
+lineups = [ ] 		39
+players = "R" * R + "P" * P + "S" * S 		40
+for perm in it . permutations ( players ) : 		41
+lineup = '' . join ( perm ) 		42
+for i in range ( N ) : 		43
+lineup = round ( lineup ) 		44
+if lineup is None : 		45
+break 		46
+if lineup is not None : 		47
+lineups . append ( '' . join ( perm ) ) 		48
+if not lineups : 		49
+return None 		50
+lineups . sort ( ) 		51
+return lineups [ 0 ] 		52
+def round ( lineup ) : 		54
+new_lineup = "" 		55
+for i in range ( len ( lineup ) // 2 ) : 		56
+winner = fight ( lineup [ i * 2 ] , lineup [ i * 2 + 1 ] ) 		57
+if winner is None : 		58
+return None 		59
+new_lineup += winner 		60
+return new_lineup 		61
+WINNERS = dict ( [ 		63
+( frozenset ( [ 'R' , 'P' ] ) , 'P' ) , 		64
+( frozenset ( [ 'R' , 'S' ] ) , 'R' ) , 		65
+( frozenset ( [ 'S' , 'P' ] ) , 'S' ) 		66
+] ) 		67
+def fight ( a , b ) : 		69
+if a == b : 		70
+return None 		71
+else : 		72
+return WINNERS [ frozenset ( [ a , b ] ) ] 		73
+if __name__ == '__main__' : 		75
+codejam_io . process_input ( process_case , process_first , __file__ ) 		76

@@ -1,0 +1,39 @@
+import sys 		5
+def debug ( * args ) : 		8
+print ( * args , file = sys . stderr ) 		9
+fin = sys . stdin 		11
+T = int ( fin . readline ( ) ) 		12
+for case in range ( 1 , T + 1 ) : 		13
+N , R , P , S = list ( map ( int , fin . readline ( ) . split ( ) ) ) 		14
+r , p , s = R , P , S 		16
+possible = True 		18
+for i in range ( N ) : 		19
+a = ( r + s - p ) // 2 		20
+b = ( p + r - s ) // 2 		21
+c = ( s + p - r ) // 2 		22
+if min ( a , b , c ) < 0 : 		23
+possible = False 		24
+break 		25
+r = a 		26
+p = b 		27
+s = c 		28
+if possible and r + p + s != 1 : 		29
+raise Exception ( "Something went wrong: %d %d %d" % ( r , p , s ) ) 		30
+if not possible : 		32
+print ( "Case #%d: %s" % ( case , 'IMPOSSIBLE' ) ) 		33
+else : 		34
+m = { 'P' : 'P' , 'R' : 'R' , 'S' : 'S' } 		35
+for i in range ( N ) : 		36
+next = { } 		37
+next [ 'P' ] = min ( m [ 'P' ] + m [ 'R' ] , m [ 'R' ] + m [ 'P' ] ) 		38
+next [ 'S' ] = min ( m [ 'P' ] + m [ 'S' ] , m [ 'S' ] + m [ 'P' ] ) 		39
+next [ 'R' ] = min ( m [ 'R' ] + m [ 'S' ] , m [ 'S' ] + m [ 'R' ] ) 		40
+m = next 		41
+debug ( case , next ) 		42
+if r > 0 : 		45
+result = m [ 'R' ] 		46
+elif s > 0 : 		47
+result = m [ 'S' ] 		48
+elif p > 0 : 		49
+result = m [ 'P' ] 		50
+print ( "Case #%d: %s" % ( case , result ) ) 		52

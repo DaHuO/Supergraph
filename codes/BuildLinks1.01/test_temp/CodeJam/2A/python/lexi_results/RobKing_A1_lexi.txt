@@ -1,0 +1,67 @@
+from sys import * 		1
+def getexpectedcount ( N ) : 		3
+if N == 1 : 		4
+return [ 1 , 1 , 0 ] 		5
+else : 		6
+expectedcounts = getexpectedcount ( N - 1 ) 		7
+P = expectedcounts [ 0 ] 		8
+R = expectedcounts [ 1 ] 		9
+S = expectedcounts [ 2 ] 		10
+P_new = P + S 		11
+R_new = R + P 		12
+S_new = R + S 		13
+return [ P_new , R_new , S_new ] 		14
+def sortseed ( seed ) : 		16
+if len ( seed ) == 1 : 		17
+return seed 		18
+else : 		19
+if seed [ len ( seed ) / 2 : len ( seed ) ] < seed [ 0 : len ( seed ) / 2 ] : 		20
+newseed = '' 		21
+newseed += sortseed ( seed [ len ( seed ) / 2 : len ( seed ) ] ) 		22
+newseed += sortseed ( seed [ 0 : len ( seed ) / 2 ] ) 		23
+seed = newseed 		24
+else : 		25
+newseed = '' 		26
+newseed += sortseed ( seed [ 0 : len ( seed ) / 2 ] ) 		27
+newseed += sortseed ( seed [ len ( seed ) / 2 : len ( seed ) ] ) 		28
+return newseed 		29
+def expandlist ( seed ) : 		31
+newlist = '' 		32
+for i in range ( len ( seed ) ) : 		33
+if seed [ i ] == 'P' : 		34
+newlist += 'PR' 		35
+if seed [ i ] == 'R' : 		36
+newlist += 'RS' 		37
+if seed [ i ] == 'S' : 		38
+newlist += 'PS' 		39
+return newlist 		40
+def solve ( T , N , R , P , S ) : 		42
+ecounts = getexpectedcount ( N ) 		44
+if P == ecounts [ 0 ] and R == ecounts [ 1 ] and S == ecounts [ 2 ] : 		45
+seed = 'PR' 		46
+for i in range ( N - 1 ) : 		47
+seed = expandlist ( seed ) 		48
+seed = sortseed ( seed ) 		49
+print "Case #%d: %s" % ( T + 1 , seed ) 		50
+elif R == ecounts [ 0 ] and S == ecounts [ 1 ] and P == ecounts [ 2 ] : 		51
+seed = 'SR' 		52
+for i in range ( N - 1 ) : 		53
+seed = expandlist ( seed ) 		54
+seed = sortseed ( seed ) 		55
+print "Case #%d: %s" % ( T + 1 , seed ) 		56
+elif S == ecounts [ 0 ] and P == ecounts [ 1 ] and R == ecounts [ 2 ] : 		57
+seed = 'PS' 		58
+for i in range ( N - 1 ) : 		59
+seed = expandlist ( seed ) 		60
+seed = sortseed ( seed ) 		61
+print "Case #%d: %s" % ( T + 1 , seed ) 		62
+else : 		63
+print "Case #%d: IMPOSSIBLE" % ( T + 1 ) 		64
+cases = int ( raw_input ( ) ) 		66
+for T in xrange ( cases ) : 		68
+N , R , P , S = raw_input ( ) . split ( ) 		69
+N = int ( N ) 		70
+R = int ( R ) 		71
+P = int ( P ) 		72
+S = int ( S ) 		73
+solve ( T , N , R , P , S ) 		74

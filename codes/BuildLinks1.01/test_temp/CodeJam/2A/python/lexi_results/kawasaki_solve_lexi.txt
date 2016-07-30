@@ -1,0 +1,28 @@
+from itertools import permutations 		1
+T = int ( raw_input ( ) ) 		3
+for tc in xrange ( 1 , T + 1 ) : 		4
+N , R , P , S = map ( int , raw_input ( ) . split ( ) ) 		5
+def solve ( ) : 		7
+for hs in permutations ( 'P' * P + 'R' * R + 'S' * S , r = 1 << N ) : 		8
+winners = hs 		9
+for i in xrange ( N ) : 		10
+tmp = [ None ] * ( len ( winners ) / 2 ) 		11
+for j in xrange ( 1 << N - 1 - i ) : 		12
+tmp [ j ] = { 		13
+'RS' : 'R' , 		14
+'RP' : 'P' , 		15
+'SR' : 'R' , 		16
+'SP' : 'S' , 		17
+'PR' : 'P' , 		18
+'PS' : 'S' , 		19
+} . get ( winners [ 2 * j ] + winners [ 2 * j + 1 ] ) 		20
+if tmp [ j ] is None : 		21
+break 		22
+else : 		23
+winners = tmp 		24
+continue 		25
+break 		26
+else : 		27
+return '' . join ( hs ) 		28
+return 'IMPOSSIBLE' 		29
+print 'Case #{}: {}' . format ( tc , solve ( ) ) 		31

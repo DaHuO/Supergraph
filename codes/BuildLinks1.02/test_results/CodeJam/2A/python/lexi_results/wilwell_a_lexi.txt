@@ -1,0 +1,43 @@
+from collections import Counter 		1
+def make_sort ( new_cur ) : 		3
+if len ( new_cur ) == 1 : 		4
+return new_cur 		5
+middle = len ( new_cur ) // 2 		6
+left = make_sort ( new_cur [ : middle ] ) 		7
+right = make_sort ( new_cur [ middle : ] ) 		8
+if left < right : 		9
+return left + right 		10
+else : 		11
+return right + left 		12
+def count ( N , R , P , S ) : 		14
+answers = [ ] 		15
+for start in [ 'R' , 'P' , 'S' ] : 		16
+cur = [ start ] 		17
+while len ( cur ) != 2 ** N : 		18
+new_cur = [ ] 		19
+for x in cur : 		20
+if x == 'R' : 		21
+new_cur += [ 'S' , 'R' ] 		22
+elif x == 'S' : 		23
+new_cur += [ 'P' , 'S' ] 		24
+else : 		25
+new_cur += [ 'R' , 'P' ] 		26
+cur = new_cur 		27
+if new_cur . count ( 'R' ) == R and new_cur . count ( 'P' ) == P and new_cur . count ( 'S' ) == S : 		28
+answers . append ( '' . join ( make_sort ( new_cur ) ) ) 		29
+answers . sort ( ) 		30
+if len ( answers ) != 0 : 		31
+return answers [ 0 ] 		32
+return 'IMPOSSIBLE' 		33
+with open ( 'A-large.in' , 'r' ) as f , open ( 'a.out' , 'w' ) as g : 		34
+tests = None 		35
+n = 0 		36
+for line in f : 		37
+line = line . rstrip ( ) 		38
+if tests is None : 		39
+tests = int ( line ) 		40
+continue 		41
+n += 1 		42
+N , R , P , S = map ( int , line . split ( ) ) 		43
+ans = count ( N , R , P , S ) 		44
+g . write ( 'Case #' + str ( n ) + ': ' + ans + '\n' ) 		45

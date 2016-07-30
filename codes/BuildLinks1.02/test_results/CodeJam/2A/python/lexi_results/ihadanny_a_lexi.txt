@@ -1,0 +1,48 @@
+from __future__ import print_function 		1
+import sys 		2
+from collections import defaultdict 		3
+from fractions import gcd 		4
+from math import factorial 		5
+from scipy . optimize import linprog 		6
+import numpy as np 		7
+import itertools as it 		8
+import math 		10
+import os . path 		11
+import cPickle 		12
+from collections import Counter 		13
+T = int ( sys . stdin . readline ( ) ) 		15
+def get_sons ( s ) : 		16
+ret = '' 		17
+for c in s : 		18
+if c == 'P' : 		19
+ret += 'PR' 		20
+if c == 'R' : 		21
+ret += 'RS' 		22
+if c == 'S' : 		23
+ret += 'PS' 		24
+a , b = ret [ : len ( s ) / 2 + 1 ] , ret [ len ( s ) / 2 + 1 : ] 		25
+return min ( a , b ) + max ( a , b ) 		27
+case = 1 		29
+for case in range ( 1 , T + 1 ) : 		30
+N , R , P , S = map ( int , sys . stdin . readline ( ) . strip ( ) . split ( ) ) 		31
+options = [ ] 		32
+for winner in 'PRS' : 		33
+players = winner 		34
+for i in range ( N ) : 		35
+players = get_sons ( players ) 		36
+c = Counter ( players ) 		37
+if c [ 'R' ] == R and c [ 'P' ] == P and c [ 'S' ] == S : 		39
+dis = 1 		40
+for i in range ( N ) : 		41
+dis *= 2 		42
+new_players = "" 		43
+for j in range ( 0 , len ( players ) , dis ) : 		45
+a , b = players [ j : j + dis / 2 ] , players [ j + dis / 2 : j + dis ] 		46
+new_players += min ( a , b ) + max ( a , b ) 		48
+players = new_players 		49
+options . append ( players ) 		50
+if len ( options ) == 0 : 		51
+print ( "Case #{0}:" . format ( case ) , "IMPOSSIBLE" ) 		52
+else : 		53
+w = min ( options ) 		54
+print ( "Case #{0}:" . format ( case ) , w ) 		55

@@ -1,0 +1,28 @@
+let = 'RPS' 		2
+def cons ( a , n ) : 		4
+if n == 0 : return let [ max ( range ( 3 ) , key = lambda i : a [ i ] ) ] 		5
+ww = [ 0 ] * 3 		6
+bw = [ 0 ] * 3 		7
+gotmore = False 		8
+for i in xrange ( 3 ) : 		9
+if a [ i ] % 2 == 1 : 		10
+if gotmore : ww [ i ] = a [ i ] // 2 		11
+else : 		12
+ww [ i ] = a [ i ] // 2 + 1 		13
+gotmore = True 		14
+else : 		15
+ww [ i ] = a [ i ] / 2 		16
+bw [ i ] = a [ i ] - ww [ i ] 		17
+x = cons ( ww , n - 1 ) 		18
+y = cons ( bw , n - 1 ) 		19
+if x < y : return x + y 		20
+else : return y + x 		21
+T = input ( ) 		23
+for c in xrange ( 1 , T + 1 ) : 		24
+print 'Case #%d:' % c , 		25
+n , r , p , s = map ( int , raw_input ( ) . split ( ) ) 		26
+good = { 2 ** n // 3 , 2 ** n // 3 + 1 } 		27
+if r in good and p in good and s in good : 		28
+print cons ( [ r , p , s ] , n ) 		29
+else : 		30
+print 'IMPOSSIBLE' 		31

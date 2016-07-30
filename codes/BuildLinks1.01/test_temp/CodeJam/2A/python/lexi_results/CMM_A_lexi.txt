@@ -1,0 +1,50 @@
+import sys 		1
+def win ( a , b ) : 		2
+if a == b : return - 1 		3
+if a == 'r' : 		4
+if b == 's' : 		5
+return 0 		6
+elif b == 'p' : 		7
+return 1 		8
+if a == 'p' : 		9
+if b == 's' : 		10
+return 1 		11
+elif b == 'r' : 		12
+return 0 		13
+if a == 's' : 		14
+if b == 'p' : 		15
+return 0 		16
+elif b == 'r' : 		17
+return 1 		18
+def test ( s ) : 		20
+while len ( s ) > 1 : 		21
+sp = "" 		22
+for i in range ( 0 , len ( s ) , 2 ) : 		23
+ww = win ( s [ i ] , s [ i + 1 ] ) 		24
+if ww == - 1 : return False 		25
+sp += s [ i : i + 2 ] [ ww ] 		26
+s = sp 		27
+return True 		28
+def b3 ( n , t ) : 		30
+y = "rps" 		31
+s = "" 		32
+for i in range ( t ) : 		33
+s += y [ n % 3 ] 		34
+n /= 3 		35
+return s 		36
+def solve ( r , p , s ) : 		39
+f = "z" 		40
+t = r + p + s 		41
+for i in range ( 3 ** t ) : 		42
+q = b3 ( i , t ) 		43
+if q . count ( "r" ) == r and q . count ( "p" ) == p and q . count ( "s" ) == s : 		45
+if test ( q ) and q < f : 		46
+f = q 		47
+if f == "z" : return "IMPOSSIBLE" 		48
+return f 		49
+CASES = int ( raw_input ( ) ) 		52
+case = 1 		54
+for i in range ( CASES ) : 		55
+n , r , p , s = [ int ( i ) for i in raw_input ( ) . split ( ) ] 		56
+print "Case #" + str ( case ) + ": " + solve ( r , p , s ) . upper ( ) 		57
+case += 1 		58

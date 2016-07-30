@@ -1,0 +1,26 @@
+RR = [ "R" ] 		6
+SS = [ "S" ] 		7
+PP = [ "P" ] 		8
+for i in range ( 12 ) : 		9
+sx = "" 		10
+px = "" 		11
+rx = "" 		12
+if SS [ i ] < PP [ i ] : sx = SS [ i ] + PP [ i ] 		13
+else : sx = PP [ i ] + SS [ i ] 		14
+if RR [ i ] < SS [ i ] : rx = RR [ i ] + SS [ i ] 		15
+else : rx = SS [ i ] + RR [ i ] 		16
+if PP [ i ] < RR [ i ] : px = PP [ i ] + RR [ i ] 		17
+else : px = RR [ i ] + PP [ i ] 		18
+RR . append ( rx ) 		19
+SS . append ( sx ) 		20
+PP . append ( px ) 		21
+def check ( a , r , p , s ) : 		25
+return ( a . count ( "R" ) is r and a . count ( "P" ) is p and a . count ( "S" ) is s ) 		26
+T = input ( ) 		27
+for i in range ( 1 , T + 1 ) : 		28
+a , r , p , s = map ( int , raw_input ( ) . split ( ) ) 		29
+ans = "IMPOSSIBLE" 		31
+if check ( RR [ a ] , r , p , s ) : ans = RR [ a ] 		32
+if check ( SS [ a ] , r , p , s ) : ans = SS [ a ] 		33
+if check ( PP [ a ] , r , p , s ) : ans = PP [ a ] 		34
+print "Case #%d: %s" % ( i , ans ) 		36

@@ -1,0 +1,12 @@
+def sort_selection ( lst ) : 		4
+length = len ( lst ) 		5
+for i in range ( length ) : 		6
+min_val = lst [ i ] 		7
+min_index = i 		8
+for j in range ( i , length ) : 		9
+if lst [ j ] < min_val : 		10
+min_val = lst [ j ] 		11
+min_index = j 		12
+if lst [ i ] > min_val : 		13
+lst [ i ] , lst [ min_index ] = min_val , lst [ i ] 		14
+return lst 		15

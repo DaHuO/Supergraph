@@ -1,0 +1,37 @@
+import fileinput 		1
+from random import shuffle 		2
+from timer import Timer 		3
+l = [ ] 		5
+for i in fileinput . input ( ) : 		6
+l . append ( int ( i ) ) 		7
+def merge ( a , b ) : 		9
+l = [ ] 		10
+while len ( a ) > 0 or len ( b ) > 0 : 		11
+if len ( a ) > 0 and len ( b ) > 0 : 		12
+if a [ 0 ] <= b [ 0 ] : 		13
+l . append ( a . pop ( 0 ) ) 		14
+else : 		15
+l . append ( b . pop ( 0 ) ) 		16
+elif len ( a ) > 0 : 		17
+l . append ( a . pop ( 0 ) ) 		18
+else : 		19
+l . append ( b . pop ( 0 ) ) 		20
+return l 		21
+def sort_merge ( l ) : 		23
+if len ( l ) <= 1 : 		24
+return l 		25
+middle = int ( len ( l ) / 2 ) 		26
+left = [ ] 		27
+right = [ ] 		28
+for x in xrange ( 0 , middle ) : 		29
+left . append ( l [ x ] ) 		30
+for x in xrange ( middle , len ( l ) ) : 		31
+right . append ( l [ x ] ) 		32
+left = sort_merge ( left ) 		34
+right = sort_merge ( right ) 		35
+return merge ( left , right ) 		36
+with Timer ( ) as t : 		38
+l = sort_merge ( l ) 		39
+print l 		41
+print ( 'List length: %i' % len ( l ) ) 		42
+print ( 'Sort time: %.05fs' % t . interval ) 		43

@@ -1,0 +1,30 @@
+def f ( N , R , P , S ) : 		1
+if ( N == 1 ) : 		3
+return ( "P" * P ) + ( "R" * R ) + ( "S" * S ) 		4
+if 2 * max ( R , P , S ) > N : 		5
+return "IMPOSSIBLE" 		6
+a = ( R + S - P ) / 2 		7
+b = ( R + P - S ) / 2 		8
+c = ( P + S - R ) / 2 		9
+sub = f ( N / 2 , a , b , c ) 		13
+if sub == "IMPOSSIBLE" : 		14
+return sub 		15
+return [ t for z in sub for t in [ z , "S" if z == "R" else "P" if z == "S" else "R" ] ] 		16
+def g ( N , R , P , S ) : 		18
+N = 2 ** N 		19
+ans = f ( N , R , P , S ) 		20
+if ans == "IMPOSSIBLE" : 		21
+return ans 		22
+i = 1 		23
+while i <= N : 		24
+k = 0 		25
+while k < N : 		26
+if ans [ k : k + i ] > ans [ k + i : k + 2 * i ] : 		27
+ans = ans [ : k ] + ans [ k + i : k + 2 * i ] + ans [ k : k + i ] + ans [ k + 2 * i : ] 		28
+k += 2 * i 		29
+i += i 		30
+return "" . join ( ans ) 		31
+from sys import stdin 		33
+for i in xrange ( 1 , 1 + int ( stdin . readline ( ) ) ) : 		35
+[ N , R , P , S ] = [ int ( z ) for z in stdin . readline ( ) . split ( ) ] 		36
+print "Case #{}: {}" . format ( i , g ( N , R , P , S ) ) 		37

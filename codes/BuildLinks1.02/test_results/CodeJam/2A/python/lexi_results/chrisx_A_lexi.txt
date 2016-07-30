@@ -1,0 +1,100 @@
+from itertools import zip_longest 		1
+import itertools 		2
+import ipdb 		3
+def parse ( input_file , output_file ) : 		5
+with open ( input_file ) as f : 		6
+T = int ( f . readline ( ) . split ( ) [ 0 ] ) 		7
+out = open ( output_file , 'w' ) 		8
+solu = Solu ( 12 ) 		9
+for i in range ( T ) : 		10
+N , R , P , S = map ( int , f . readline ( ) . split ( ) ) 		11
+sol = solu . solve ( N , R , P , S ) 		12
+line = "Case #" + str ( i + 1 ) + ": " + str ( sol ) 		13
+print ( line ) 		14
+out . write ( line + '\n' ) 		15
+return 		16
+def trans ( d ) : 		19
+if int ( d ) == 0 : 		20
+return 'P' 		21
+if int ( d ) == 1 : 		22
+return 'R' 		23
+if int ( d ) == 2 : 		24
+return 'S' 		25
+def small_solve ( N , R , P , S ) : 		29
+all_perm = itertools . permutations ( [ 0 ] * P + [ 1 ] * R + [ 2 ] * S ) 		30
+for perm in all_perm : 		31
+if check ( perm ) : 		32
+return '' . join ( map ( trans , perm ) ) 		33
+return 'IMPOSSIBLE' 		34
+def check ( perm ) : 		37
+if len ( perm ) == 1 : 		38
+return True 		39
+if not perm : 		40
+raise ValueError 		41
+winners = [ ] 		42
+firsts = range ( 0 , len ( perm ) , 2 ) 		44
+seconds = range ( 1 , len ( perm ) , 2 ) 		45
+for f , s in zip ( firsts , seconds ) : 		46
+if perm [ f ] == perm [ s ] : 		47
+return False 		48
+summ = perm [ f ] + perm [ s ] 		49
+if summ == 3 : 		50
+winners . append ( 1 ) 		51
+elif summ == 2 : 		52
+winners . append ( 2 ) 		53
+elif summ == 1 : 		54
+winners . append ( 0 ) 		55
+else : 		56
+raise ValueError 		57
+return check ( winners ) 		58
+def get_dist ( N ) : 		60
+ret = [ ] 		61
+for final in range ( 3 ) : 		62
+counts = [ 0 , 0 , 0 ] 		63
+counts [ final ] += 1 		64
+rounds = N 		65
+while rounds != 0 : 		66
+newcounts = [ 0 , 0 , 0 ] 		67
+newcounts [ 0 ] += counts [ 0 ] 		68
+newcounts [ 0 ] += counts [ 2 ] 		69
+newcounts [ 1 ] += counts [ 0 ] 		70
+newcounts [ 1 ] += counts [ 1 ] 		71
+newcounts [ 2 ] += counts [ 1 ] 		72
+newcounts [ 2 ] += counts [ 2 ] 		73
+rounds -= 1 		74
+counts = newcounts 		75
+ret . append ( counts ) 		76
+return ret 		77
+class Solu ( object ) : 		81
+def __init__ ( self , N ) : 		82
+self . N = N 		84
+self . res = dict ( ) 		85
+self . res [ 1 ] = { 0 : '01' , 1 : '12' , 2 : '02' } 		88
+self . popu ( ) 		90
+def popu ( self ) : 		92
+for n in range ( 2 , self . N + 1 ) : 		93
+nsol = { 0 : None , 1 : None , 2 : None } 		94
+for surviving in range ( 3 ) : 		95
+first_dig = int ( self . res [ 1 ] [ surviving ] [ 0 ] ) 		96
+second_dig = int ( self . res [ 1 ] [ surviving ] [ 1 ] ) 		97
+first_sol = self . res [ n - 1 ] [ first_dig ] 		98
+second_sol = self . res [ n - 1 ] [ second_dig ] 		99
+nsol [ surviving ] = min ( first_sol + second_sol , second_sol + first_sol ) 		100
+self . res [ n ] = nsol 		102
+def solve ( self , N , R , P , S ) : 		105
+dists = get_dist ( N ) 		106
+if [ R , P , S ] not in dists : 		107
+return 'IMPOSSIBLE' 		108
+surviving = dists . index ( [ P , R , S ] ) 		109
+ret = self . res [ N ] [ surviving ] 		110
+return '' . join ( map ( trans , ret ) ) 		111
+dir = "./" 		114
+input_file = dir + "A-test.txt" 		118
+output_file = dir + "A-test.out.txt" 		119
+input_file = dir + "A-small-attempt0.in" 		121
+output_file = dir + "A-small-attempt0.txt" 		122
+input_file = dir + "A-small-attempt0.in" 		124
+output_file = dir + "A-small-attempt0.withLarge.txt" 		125
+input_file = dir + "A-large.in" 		127
+output_file = dir + "A-large.txt" 		128
+parse ( input_file , output_file ) 		132

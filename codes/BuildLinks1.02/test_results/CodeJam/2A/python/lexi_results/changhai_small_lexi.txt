@@ -1,0 +1,42 @@
+def pr ( * a ) : 		2
+for x in a : print x , 		4
+print 		5
+def check ( a ) : 		7
+r = list ( a ) 		8
+while len ( r ) > 1 : 		9
+r2 = [ ] 		10
+for i in range ( 0 , len ( r ) , 2 ) : 		11
+if r [ i ] == r [ i + 1 ] : return 0 		12
+if r [ i ] == "P" and r [ i + 1 ] == "R" : 		13
+r2 . append ( "P" ) 		14
+if r [ i ] == "R" and r [ i + 1 ] == "P" : 		15
+r2 . append ( "P" ) 		16
+if r [ i ] == "P" and r [ i + 1 ] == "S" : 		17
+r2 . append ( "S" ) 		18
+if r [ i ] == "S" and r [ i + 1 ] == "P" : 		19
+r2 . append ( "S" ) 		20
+if r [ i ] == "R" and r [ i + 1 ] == "S" : 		21
+r2 . append ( "R" ) 		22
+if r [ i ] == "S" and r [ i + 1 ] == "R" : 		23
+r2 . append ( "R" ) 		24
+r = r2 		25
+return 1 		26
+def solve ( P , R , S ) : 		29
+a = "P" * P + "R" * R + "S" * S 		30
+for per in itertools . permutations ( a ) : 		31
+if check ( per ) : 		32
+return "" . join ( per ) 		33
+return "IMPOSSIBLE" 		34
+import sys , itertools 		36
+f = open ( sys . argv [ 1 ] ) 		37
+out_fname = sys . argv [ 1 ] [ : - 2 ] + "out" 		38
+out = open ( out_fname , "w" ) 		39
+T = int ( f . readline ( ) . strip ( ) ) 		40
+for tc in range ( 1 , T + 1 ) : 		42
+N , R , P , S = f . readline ( ) . strip ( ) . split ( ) 		43
+N , R , P , S = int ( N ) , int ( R ) , int ( P ) , int ( S ) 		44
+rt = solve ( P , R , S ) 		45
+pr ( "Case #%d: %s" % ( tc , str ( rt ) ) ) 		46
+pr ( "=" * 20 ) 		47
+print >> out , "Case #%d: %s" % ( tc , str ( rt ) ) 		48
+out . close ( ) 		50

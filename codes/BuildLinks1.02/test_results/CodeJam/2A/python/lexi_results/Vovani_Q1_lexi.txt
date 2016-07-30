@@ -1,0 +1,36 @@
+anc = { 		2
+'P' : [ 'P' , 'R' ] , 		3
+'R' : [ 'R' , 'S' ] , 		4
+'S' : [ 'P' , 'S' ] 		5
+} 		6
+def solve ( N , R , P , S ) : 		7
+pos = [ ] 		8
+for opt in 'RPS' : 		9
+layers = [ [ anc [ opt ] ] ] 		10
+for i in xrange ( 1 , N ) : 		11
+layers . append ( map ( lambda letter : anc [ letter ] , sum ( layers [ i - 1 ] , [ ] ) ) ) 		12
+lineup = sum ( layers [ len ( layers ) - 1 ] , [ ] ) 		13
+r , p , s = [ lineup . count ( 'R' ) , lineup . count ( 'P' ) , lineup . count ( 'S' ) ] 		14
+if r == R and p == P and s == S : 		15
+pos . append ( layers [ len ( layers ) - 1 ] ) 		16
+if len ( pos ) == 0 : 		18
+return "IMPOSSIBLE" 		19
+sorted_lineups = [ ] 		21
+for p in pos : 		22
+cur = p 		23
+for layer in xrange ( N - 1 ) : 		24
+merged = [ ] 		25
+for i in xrange ( len ( cur ) / 2 ) : 		26
+tmp = [ cur [ 2 * i ] , cur [ 2 * i + 1 ] ] 		27
+tmp . sort ( key = lambda x : "" . join ( x ) ) 		28
+merged . append ( sum ( tmp , [ ] ) ) 		29
+cur = merged 		30
+sorted_lineups . append ( cur ) 		31
+sorted_lineups . sort ( key = lambda x : x [ 0 ] ) 		32
+print sorted_lineups 		33
+rv = "" . join ( sum ( sorted_lineups [ 0 ] , [ ] ) ) 		34
+assert ( len ( rv ) == 2 ** N ) 		35
+return rv 		36
+def read1 ( f ) : 		38
+l = f . readline ( ) . strip ( ) 		39
+return map ( int , l . split ( ) ) 		40

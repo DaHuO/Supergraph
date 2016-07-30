@@ -1,0 +1,30 @@
+from itertools import permutations 		1
+import sys 		2
+def valid ( keys ) : 		4
+w = { 		5
+'R' : { 'R' : '' , 'P' : 'P' , 'S' : 'R' } , 		6
+'P' : { 'R' : 'P' , 'P' : '' , 'S' : 'S' } , 		7
+'S' : { 'R' : 'R' , 'P' : 'S' , 'S' : '' } , 		8
+} 		9
+x = [ i for i in keys ] 		10
+while len ( x ) > 1 : 		11
+y = [ ] 		12
+for i in range ( 0 , len ( x ) , 2 ) : 		13
+z = w [ x [ i ] ] [ x [ i + 1 ] ] 		14
+if z == '' : 		15
+return False 		16
+y . append ( z ) 		17
+x = y 		19
+return True 		20
+a = open ( sys . argv [ 1 ] + '.in' ) . readlines ( ) 		22
+b = [ [ int ( x ) for x in a [ i ] . strip ( ) . split ( ' ' ) ] for i in range ( 1 , len ( a ) ) ] 		23
+out = open ( sys . argv [ 1 ] + '.out' , 'w' ) 		24
+for i in range ( len ( b ) ) : 		26
+n = int ( b [ i ] [ 0 ] ) 		27
+r = int ( b [ i ] [ 1 ] ) 		28
+p = int ( b [ i ] [ 2 ] ) 		29
+s = int ( b [ i ] [ 3 ] ) 		30
+x = [ '' . join ( j ) for j in permutations ( 'R' * r + 'P' * p + 'S' * s ) if valid ( j ) ] 		31
+out . write ( 'Case #%d: %s\n' % ( i + 1 , min ( x ) if len ( x ) > 0 else "IMPOSSIBLE" ) ) 		32
+out . flush ( ) 		33
+out . close ( ) 		35

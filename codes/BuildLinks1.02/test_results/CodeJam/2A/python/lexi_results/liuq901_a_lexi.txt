@@ -1,0 +1,38 @@
+import sys 		1
+in_file = open ( 'a-large.in' , 'r' ) 		3
+out_file = open ( 'a.out' , 'w' ) 		4
+sys . stdin = in_file 		5
+sys . stdout = out_file 		6
+def calc ( winner ) : 		8
+if winner == 'R' : 		9
+return 'S' 		10
+if winner == 'S' : 		11
+return 'P' 		12
+if winner == 'P' : 		13
+return 'R' 		14
+assert False 		15
+def check ( n , winner ) : 		17
+if n == 0 : 		18
+return winner 		19
+other = calc ( winner ) 		20
+l = check ( n - 1 , winner ) 		21
+r = check ( n - 1 , calc ( winner ) ) 		22
+if l < r : 		23
+return l + r 		24
+else : 		25
+return r + l 		26
+T = int ( raw_input ( ) ) 		28
+for t in xrange ( T ) : 		29
+n , R , P , S = map ( int , raw_input ( ) . split ( ) ) 		30
+ans = None 		31
+for win in ( 'R' , 'P' , 'S' ) : 		32
+best = check ( n , win ) 		33
+if best . count ( 'R' ) != R or best . count ( 'P' ) != P or best . count ( 'S' ) != S : 		34
+continue 		35
+if ans == None or best < ans : 		36
+ans = best 		37
+if ans == None : 		38
+ans = 'IMPOSSIBLE' 		39
+print 'Case #%d: %s' % ( t + 1 , ans ) 		40
+in_file . close ( ) 		42
+out_file . close ( ) 		43

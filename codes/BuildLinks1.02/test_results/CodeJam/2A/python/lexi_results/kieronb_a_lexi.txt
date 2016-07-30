@@ -1,0 +1,45 @@
+import sys 		3
+import logging 		4
+import itertools 		5
+logging . basicConfig ( stream = sys . stderr , level = logging . DEBUG ) 		7
+def solve ( n , r , p , s ) : 		9
+if max ( r , p , s ) - min ( r , p , s ) > 1 : 		10
+return 'IMPOSSIBLE' 		11
+for d in itertools . permutations ( 'P' * p + 'R' * r + 'S' * s ) : 		13
+c = d [ : ] 		14
+ok = True 		15
+for i in range ( n ) : 		16
+res = contest ( c ) 		17
+if not res : 		18
+ok = False 		19
+break ; 		20
+c = res 		21
+if not ok : 		22
+continue 		23
+return '' . join ( d ) 		24
+def winner ( pair ) : 		28
+if pair == { 'R' , 'P' } : 		29
+return 'P' 		30
+if pair == { 'P' , 'S' } : 		31
+return 'S' 		32
+if pair == { 'S' , 'R' } : 		33
+return 'R' 		34
+return 'X' 		35
+def contest ( lst ) : 		37
+r = [ ] 		38
+for i in range ( len ( lst ) / 2 ) : 		39
+w = winner ( { lst [ i * 2 ] , lst [ i * 2 + 1 ] } ) 		40
+if w == 'X' : 		41
+return False 		42
+r . append ( w ) 		43
+return r 		44
+first = True 		49
+i = 0 		50
+for line in sys . stdin : 		51
+if first : 		52
+first = False 		53
+else : 		54
+i += 1 		55
+n , r , p , s = map ( int , line . split ( ) ) 		56
+ans = solve ( n , r , p , s ) 		57
+print "Case #%d: %s" % ( i , ans ) 		58

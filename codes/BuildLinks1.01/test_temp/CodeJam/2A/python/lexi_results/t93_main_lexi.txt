@@ -1,0 +1,42 @@
+def main ( ) : 		1
+tn = int ( raw_input ( ) ) 		2
+for ti in xrange ( tn ) : 		3
+n , r , p , s = map ( int , raw_input ( ) . split ( " " ) ) 		4
+x , y = 0 , 1 		5
+while x + x + y != r + p + s : 		6
+x , y = ( x + y ) , x + x 		7
+if sorted ( [ r , p , s ] ) != sorted ( [ x , x , y ] ) : 		8
+print "Case #%d: %s" % ( ti + 1 , "IMPOSSIBLE" ) 		9
+else : 		10
+ans = solve ( r , p , s ) 		11
+print "Case #%d: %s" % ( ti + 1 , ans ) 		12
+def solve ( r , p , s ) : 		14
+if r + p + s == 1 : 		15
+if r == 1 : 		16
+return "R" 		17
+elif p == 1 : 		18
+return "P" 		19
+elif s == 1 : 		20
+return "S" 		21
+else : 		22
+raise Exception ( ( r , p , s ) ) 		23
+if r == p : 		24
+x = s / 2 		25
+y = r - x 		26
+a = solve ( x , y , x ) 		27
+b = solve ( y , x , x ) 		28
+elif p == s : 		29
+x = r / 2 		30
+y = p - x 		31
+a = solve ( x , y , x ) 		32
+b = solve ( x , x , y ) 		33
+elif r == s : 		34
+x = p / 2 		35
+y = r - x 		36
+a = solve ( x , x , y ) 		37
+b = solve ( y , x , x ) 		38
+else : 		39
+raise Exception ( ( r , p , s ) ) 		40
+return min ( a , b ) + max ( a , b ) 		41
+if __name__ == "__main__" : 		43
+main ( ) 		44

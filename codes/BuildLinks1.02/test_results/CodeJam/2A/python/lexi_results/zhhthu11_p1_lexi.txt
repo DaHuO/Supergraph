@@ -1,0 +1,36 @@
+import sys 		1
+def search ( x , y , z , curr_level ) : 		3
+global N , R , P , S , final , curr 		4
+if ( x > R or y > P or z > S ) : 		5
+return "IMPOSSIBLE" 		6
+if ( curr_level == N ) : 		7
+final = curr 		8
+return "FINAL" 		9
+curr = curr . replace ( "RS" , "1" ) 		10
+curr = curr . replace ( "PS" , "2" ) 		11
+curr = curr . replace ( "PR" , "3" ) 		12
+curr = curr . replace ( "1" , "PSRS" ) 		13
+curr = curr . replace ( "2" , "PRPS" ) 		14
+curr = curr . replace ( "3" , "PRRS" ) 		15
+return search ( x + y , y + z , z + x , curr_level + 1 ) 		16
+def solve ( ) : 		19
+global N , R , P , S , final , curr 		20
+input_s = raw_input ( ) . split ( " " ) 		21
+N = int ( input_s [ 0 ] ) 		22
+R = int ( input_s [ 1 ] ) 		23
+P = int ( input_s [ 2 ] ) 		24
+S = int ( input_s [ 3 ] ) 		25
+final = "" 		26
+curr = "PR" 		27
+if ( search ( 1 , 1 , 0 , 1 ) == "FINAL" ) : 		28
+return final 		29
+curr = "PS" 		30
+if ( search ( 0 , 1 , 1 , 1 ) == "FINAL" ) : 		31
+return final 		32
+curr = "RS" 		33
+if ( search ( 1 , 0 , 1 , 1 ) == "FINAL" ) : 		34
+return final 		35
+return "IMPOSSIBLE" 		36
+T = int ( raw_input ( ) ) 		38
+for i in range ( T ) : 		39
+print "Case #{}: {}" . format ( i + 1 , solve ( ) ) 		40

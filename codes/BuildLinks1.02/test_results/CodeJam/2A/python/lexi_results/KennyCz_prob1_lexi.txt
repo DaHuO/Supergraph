@@ -1,0 +1,38 @@
+import sys 		1
+from sets import Set 		2
+import itertools 		3
+def Winner ( st1 , st2 ) : 		7
+st = Set ( { st1 , st2 } ) 		8
+if st == Set ( { 'P' , 'S' } ) : 		9
+return 'S' 		10
+if st == Set ( { 'S' , 'R' } ) : 		11
+return 'R' 		12
+if st == Set ( { 'R' , 'P' } ) : 		13
+return 'P' 		14
+def NextRnd ( st ) : 		16
+ans = [ ] 		17
+for i in range ( 0 , len ( st ) , 2 ) : 		18
+if st [ i ] == st [ i + 1 ] : 		19
+return None 		20
+ans . append ( Winner ( st [ i ] , st [ i + 1 ] ) ) 		21
+return ans 		22
+def Works ( st ) : 		24
+while len ( st ) > 1 : 		25
+st = NextRnd ( st ) 		26
+if not st : 		27
+return False 		28
+return True 		29
+def answer ( query ) : 		32
+lst1 = [ 'R' ] * query [ 1 ] + [ 'P' ] * query [ 2 ] + [ 'S' ] * query [ 3 ] 		33
+perms = Set ( itertools . permutations ( lst1 ) ) 		34
+anslist = sorted ( [ "" . join ( item ) for item in perms if Works ( item ) ] ) 		36
+if anslist : 		39
+return anslist [ 0 ] 		40
+return 'IMPOSSIBLE' 		41
+if __name__ == "__main__" : 		44
+T = int ( sys . stdin . next ( ) ) 		46
+queries = [ ] 		47
+for i in range ( T ) : 		48
+queries . append ( list ( map ( int , sys . stdin . next ( ) . rstrip ( ) . split ( ' ' ) ) ) ) 		49
+for i , st in enumerate ( queries ) : 		50
+print "" . join ( [ "Case #" , str ( i + 1 ) , ": " , answer ( st ) ] ) 		51

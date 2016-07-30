@@ -1,0 +1,36 @@
+def f ( n , r , p , s ) : 		1
+p1 = expand ( 'R' , n ) 		2
+p2 = expand ( 'P' , n ) 		3
+p3 = expand ( 'S' , n ) 		4
+poss = [ p1 , p2 , p3 ] 		5
+possAns = [ ] 		7
+for i in poss : 		8
+if i . count ( 'R' ) == r and i . count ( 'S' ) == s and i . count ( 'P' ) == p : 		9
+possAns . append ( i ) 		10
+if len ( possAns ) == 0 : 		11
+return "IMPOSSIBLE" 		12
+possAns . sort ( ) 		13
+return possAns [ 0 ] 		14
+e = dict ( ) 		17
+e [ 'R' ] = 'RS' 		18
+e [ 'P' ] = 'PR' 		19
+e [ 'S' ] = 'PS' 		20
+d = { } 		22
+def expand ( l , layers ) : 		23
+if layers == 0 : 		24
+return l 		25
+if ( l , layers ) in d : 		26
+return d [ ( l , layers ) ] 		27
+s = e [ l ] 		28
+a = expand ( s [ 0 ] , layers - 1 ) 		29
+b = expand ( s [ 1 ] , layers - 1 ) 		30
+if ( a < b ) : 		31
+ans = a + b 		32
+else : 		33
+ans = b + a 		34
+d [ ( l , layers ) ] = ans 		35
+return ans 		36
+n = int ( input ( ) ) 		41
+for i in range ( n ) : 		42
+x = f ( * map ( int , input ( ) . split ( ) ) ) 		43
+print ( "Case #{0}: {1}" . format ( i + 1 , x ) ) 		44

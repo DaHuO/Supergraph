@@ -1,0 +1,180 @@
+{ 		1
+"cells" : [ 		2
+{ 		3
+"cell_type" : "code" , 		4
+"execution_count" : 50 , 		5
+"metadata" : { 		6
+"collapsed" : true 		7
+} , 		8
+"outputs" : [ ] , 		9
+"source" : [ 		10
+"# imports\n" , 		11
+"import numpy as np # http://www.numpy.org/\n" , 		12
+"import math # https://docs.python.org/2/library/math.html\n" , 		13
+"import itertools as it # https://docs.python.org/2/library/itertools.html" 		14
+] 		15
+} , 		16
+{ 		17
+"cell_type" : "code" , 		18
+"execution_count" : 51 , 		19
+"metadata" : { 		20
+"collapsed" : true 		21
+} , 		22
+"outputs" : [ ] , 		23
+"source" : [ 		24
+"basepath = '/home/epg/halde/codejam/2016/2/A/'" 		25
+] 		26
+} , 		27
+{ 		28
+"cell_type" : "code" , 		29
+"execution_count" : 52 , 		30
+"metadata" : { 		31
+"collapsed" : true 		32
+} , 		33
+"outputs" : [ ] , 		34
+"source" : [ 		35
+"testset = 'A-small-attempt1'" 		36
+] 		37
+} , 		38
+{ 		39
+"cell_type" : "code" , 		40
+"execution_count" : 53 , 		41
+"metadata" : { 		42
+"collapsed" : false 		43
+} , 		44
+"outputs" : [ ] , 		45
+"source" : [ 		46
+"def completes(s):\n" , 		47
+"    r = s\n" , 		48
+"    while len(r) > 1:\n" , 		49
+"        next_round = ''\n" , 		50
+"        for i in xrange(len(r)/2):\n" , 		51
+"            c1 = r[2*i]\n" , 		52
+"            c2 = r[2*i+1]\n" , 		53
+"            \n" , 		54
+"            if c1 == c2:\n" , 		55
+"                # tie\n" , 		56
+"                return False\n" , 		57
+"            elif c1+c2 in ['PR', 'RP']:\n" , 		58
+"                next_round += 'P'\n" , 		59
+"            elif c1+c2 in ['PS', 'SP']:\n" , 		60
+"                next_round += 'S'\n" , 		61
+"            elif c1+c2 in ['RS', 'SR']:\n" , 		62
+"                next_round += 'R'\n" , 		63
+"        r = next_round\n" , 		64
+"    return True\n" , 		65
+"\n" , 		66
+"def do_solve(N, R, P, S):\n" , 		67
+"    # tie unavoidable in first round\n" , 		68
+"    if P + R < S or P + S < R or R + S < P:\n" , 		69
+"        return 'IMPOSSIBLE'\n" , 		70
+"    # tie unavoidable in later round\n" , 		71
+"    if N > 1:\n" , 		72
+"        if P == 0 or R == 0 or S == 0:\n" , 		73
+"            return 'IMPOSSIBLE'\n" , 		74
+"    \n" , 		75
+"    start = ''\n" , 		76
+"    # remaining values\n" , 		77
+"    p = P\n" , 		78
+"    r = R\n" , 		79
+"    s = S\n" , 		80
+"    # choose smallest possible start character\n" , 		81
+"    if P > 0:\n" , 		82
+"        start += 'P'\n" , 		83
+"        p -= 1\n" , 		84
+"    else:\n" , 		85
+"        # R and S exist\n" , 		86
+"        start += 'R'\n" , 		87
+"        r -= 1\n" , 		88
+"    for p in it.permutations('P'*p + 'R'*r + 'S'*s, 2**N-1):\n" , 		89
+"        res = start + ''.join(p)\n" , 		90
+"        if completes(res):\n" , 		91
+"            return res\n" , 		92
+"    \n" , 		93
+"    return 'IMPOSSIBLE'" 		94
+] 		95
+} , 		96
+{ 		97
+"cell_type" : "code" , 		98
+"execution_count" : 54 , 		99
+"metadata" : { 		100
+"collapsed" : false 		101
+} , 		102
+"outputs" : [ 		103
+{ 		104
+"name" : "stdout" , 		105
+"output_type" : "stream" , 		106
+"text" : [ 		107
+"Case #1: PR\n" , 		108
+"Case #2: IMPOSSIBLE\n" , 		109
+"Case #3: PSRS\n" , 		110
+"Case #4: IMPOSSIBLE\n" , 		111
+"Case #5: RS\n" , 		112
+"Case #6: IMPOSSIBLE\n" , 		113
+"Case #7: IMPOSSIBLE\n" , 		114
+"Case #8: PRRS\n" , 		115
+"Case #9: IMPOSSIBLE\n" , 		116
+"Case #10: IMPOSSIBLE\n" , 		117
+"Case #11: PRRSPSRS\n" , 		118
+"Case #12: IMPOSSIBLE\n" , 		119
+"Case #13: PS\n" , 		120
+"Case #14: IMPOSSIBLE\n" , 		121
+"Case #15: IMPOSSIBLE\n" , 		122
+"Case #16: PRPSPSRS\n" , 		123
+"Case #17: IMPOSSIBLE\n" , 		124
+"Case #18: IMPOSSIBLE\n" , 		125
+"Case #19: IMPOSSIBLE\n" , 		126
+"Case #20: IMPOSSIBLE\n" , 		127
+"Case #21: IMPOSSIBLE\n" , 		128
+"Case #22: PRPSPRRS\n" , 		129
+"Case #23: PRPS\n" , 		130
+"Case #24: IMPOSSIBLE\n" , 		131
+"Case #25: IMPOSSIBLE\n" 		132
+] 		133
+} 		134
+] , 		135
+"source" : [ 		136
+"with open(basepath + testset + '.in') as fin, open(basepath + testset + '.out', 'w') as fout:\n" , 		137
+"    T = int(fin.readline().rstrip('\\r\\n'))\n" , 		138
+"    for i in xrange(T):\n" , 		139
+"        N, R, P, S = tuple(map(int, fin.readline().rstrip('\\r\\n').split(' ')))\n" , 		140
+"        \n" , 		141
+"        sol = do_solve(N, R, P, S)\n" , 		142
+"        \n" , 		143
+"        sol_string = 'Case #{}: {}'.format(i+1, sol)\n" , 		144
+"        fout.write(sol_string + '\\n')\n" , 		145
+"        print sol_string" 		146
+] 		147
+} , 		148
+{ 		149
+"cell_type" : "code" , 		150
+"execution_count" : null , 		151
+"metadata" : { 		152
+"collapsed" : true 		153
+} , 		154
+"outputs" : [ ] , 		155
+"source" : [ ] 		156
+} 		157
+] , 		158
+"metadata" : { 		159
+"kernelspec" : { 		160
+"display_name" : "Python 2" , 		161
+"language" : "python2" , 		162
+"name" : "python2" 		163
+} , 		164
+"language_info" : { 		165
+"codemirror_mode" : { 		166
+"name" : "ipython" , 		167
+"version" : 2 		168
+} , 		169
+"file_extension" : ".py" , 		170
+"mimetype" : "text/x-python" , 		171
+"name" : "python" , 		172
+"nbconvert_exporter" : "python" , 		173
+"pygments_lexer" : "ipython2" , 		174
+"version" : "2.7.11" 		175
+} 		176
+} , 		177
+"nbformat" : 4 , 		178
+"nbformat_minor" : 0 		179
+} 		180

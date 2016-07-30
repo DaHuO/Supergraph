@@ -1,0 +1,18 @@
+tr = dict ( { 'pr' : 'p' , 'rp' : 'p' , 'ps' : 's' , 'sp' : 's' , 'rs' : 'r' , 'sr' : 'r' } ) 		1
+def RPS ( n , r , p , s , od ) : 		2
+if n == 0 : 		3
+res = 'R' * r + 'P' * p + 'S' * s 		4
+return res 		5
+r1 , s1 , p1 = ( r + s - p ) / 2 , ( s + p - r ) / 2 , ( p + r - s ) / 2 		6
+if r1 < 0 or p1 < 0 or s1 < 0 : 		7
+return 'IMPOSSIBLE' 		8
+od1 = tr [ od [ 0 ] + od [ 1 ] ] + tr [ od [ 0 ] + od [ 2 ] ] + tr [ od [ 1 ] + od [ 2 ] ] 		9
+res1 = RPS ( n - 1 , r1 , p1 , s1 , od1 ) 		10
+if res1 == 'IMPOSSIBLE' : 		11
+return res1 		12
+res = res1 . replace ( 'R' , od . replace ( 'p' , '' ) ) . replace ( 'S' , od . replace ( 'r' , '' ) ) . replace ( 'P' , od . replace ( 's' , '' ) ) 		13
+return res . upper ( ) 		14
+t = int ( raw_input ( ) ) 		17
+for i in range ( 1 , t + 1 ) : 		18
+n , r , p , s = map ( int , raw_input ( ) . split ( ) ) 		19
+print 'Case #%d: %s' % ( i , RPS ( n , r , p , s , 'prs' ) ) 		20
