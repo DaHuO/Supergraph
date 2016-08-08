@@ -1,0 +1,1 @@
+main_code x N R P S = tuple map int input split names = r R p P s S for _ in range N p = P + R - S r = R + S 		1 27

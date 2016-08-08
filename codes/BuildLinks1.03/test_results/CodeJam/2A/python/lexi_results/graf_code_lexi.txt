@@ -1,0 +1,30 @@
+import sys 		1
+winners = 1 0 1 1 S 1 1 0 P 1 0 1 R 2 1 2 1 S 2 1 1 P 1 1 2 R 3 3 2 3 P 2 3 3 R 3 3 2 S 4 5 5 6 P 5 6 5 R 6 5 5 S 5 11 10 11 S 10 11 11 P 11 11 10 R 6 21 21 22 S 21 22 21 P 22 21 21 R 7 43 42 43 R 42 43 43 S 43 43 42 P 8 85 85 86 R 85 86 85 S 86 85 85 P 9 171 170 171 P 170 171 171 R 171 171 170 S 10 341 341 342 P 341 342 341 R 342 341 341 S 11 683 682 683 S 682 683 683 P 683 683 682 R 12 1365 1365 1366 S 1365 1366 1365 P 1366 1365 1365 R 13 2731 2730 2731 R 2730 2731 2731 S 2731 2731 2730 P 14 5461 5461 5462 R 5461 5462 5461 S 5462 5461 5461 P 15 10923 10922 10923 P 10922 10923 10923 R 10923 10923 10922 S 16 21845 21845 21846 P 21845 21846 21845 R 21846 21845 21845 S 17 43691 43690 43691 S 43690 43691 43691 P 43691 43691 43690 R 18 87381 87381 87382 S 87381 87382 87381 P 87382 87381 87381 R 19 174763 174762 174763 R 174762 174763 174763 S 174763 174763 174762 P 		3
+win = R RS S SP P PR 		4
+def expand k s 		6
+if k == 0 		7
+return s 		8
+return  join sorted expand k - 1 win s 0 expand k - 1 win s 1 		9
+def solve_test inp 		12
+N R P S = map int inp readline split 		13
+case = winners N 		15
+if R P S not in case 		16
+return IMPOSSIBLE 		17
+ans = case R P S 		20
+ans = expand N ans 		21
+return ans 		22
+def solve_dumb inp 		24
+return 1 		25
+inp = open sys argv 1 		27
+inp_dumb = open sys argv 1 		28
+out = open sys argv 1 rsplit . 1 0 + .out w 		29
+out_dumb = open sys argv 1 rsplit . 1 0 + .dumb.out w 		30
+n_tests = int inp readline 		31
+for i in range n_tests 		32
+ans = solve_test inp 		33
+print Case #%d:  % i + 1 + ans file = out 		34
+ans_dumb = solve_dumb inp_dumb 		37
+print Case #%d:  % i + 1 + ans_dumb file = out_dumb 		38
+if ans != ans_dumb 		40
+print Wrong i + 1 file = sys stderr 		41
+out close 		43

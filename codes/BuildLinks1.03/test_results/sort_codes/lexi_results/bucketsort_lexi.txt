@@ -1,0 +1,19 @@
+import random 		3
+def bucket_sort A num_buckets debug = False 		5
+min_ = min A 		7
+max_ = max A 		8
+B = for i in range num_buckets 		9
+for e in A 		10
+i = int e - min_ / max_ - min_ * num_buckets - 1 		11
+B i append e 		12
+for i in range len B 		13
+B i = sorted B i 		14
+if debug 		15
+print Buckets: 		16
+for b in B 		17
+print b 		18
+return reduce lambda x y x + y B 		19
+if __name__ == __main__ 		22
+N = 100 		23
+A = random uniform 0 1 for i in range N 		24
+bucket_sort A 100 debug = True 		25

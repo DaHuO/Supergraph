@@ -1,0 +1,17 @@
+def 		144 145
+read_floats self 		153 154
+def close self 		156 159
+read_string 		138 139
+read_integers read 		12 14
+read_strings read_string 		141 142
+parallel _verbose _verbose FileParser log Solving test_cases parallel process_pool test_results process_pool map_async solve_data test_cases 		83 103
+def generate n winner P R S = 0 1 2 if winner == P count = 1 0 		17 43
+log * 		114 116
+solve_data data res 		106 111
+def __init__ self filepath 		129 133
+read_integers self 		147 148
+def write 		76 80
+read_lines 		135 136
+read_float 		150 151
+def order res l = len res if 		46 55
+count_p res_p count_p res_p p s count = p r s res 		57 73

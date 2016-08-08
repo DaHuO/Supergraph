@@ -1,0 +1,2 @@
+def quick_sort a l r if l 		3 11
+def partition a l r a l a r - 1 = a 		14 24

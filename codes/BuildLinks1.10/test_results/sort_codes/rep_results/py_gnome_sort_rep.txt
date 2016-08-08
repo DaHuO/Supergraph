@@ -1,0 +1,1 @@
+gnomeSort alist i j size = 1 2 len alist while 		8 19

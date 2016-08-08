@@ -1,0 +1,1 @@
+i3 i3 i3 i3 P S for i in xrange N r = 0 p = 0 s = 0 while R > 0 or P > 0 or S > 0 if R > 0 and P == 0 and S == 0 return IMPOSSIBLE if R == 0 and P > 0 and S 		3 57

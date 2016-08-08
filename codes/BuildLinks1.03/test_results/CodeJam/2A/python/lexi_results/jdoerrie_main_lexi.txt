@@ -1,0 +1,54 @@
+NO = IMPOSSIBLE 		4
+states_to_winner = 		6
+def gen_state state 		9
+new_state = list state 		13
+new_state 0 += state 1 		14
+new_state 1 += state 2 		15
+new_state 2 += state 0 		16
+return tuple new_state 		17
+def solve 		20
+N R P S = map int input split 		21
+assert 2 ** N == R + P + S 		22
+state = R P S 		23
+if state not in states_to_winner 		24
+return NO 		25
+winner = states_to_winner state 		27
+tourney = RPS winner 		28
+for i in range N 		30
+rnd =  		31
+for c in tourney 		32
+if c == R 		33
+rnd += RS 		34
+elif c == S 		35
+rnd += SP 		36
+else 		37
+rnd += PR 		38
+tourney = rnd 		39
+assert len tourney == 2 ** N 		41
+for i in range N 		43
+batch = 2 ** i 		44
+nrnd =  		45
+okay = False 		46
+for j in range 0 2 ** N 2 * batch 		47
+A = tourney j j + batch 		48
+B = tourney j + batch j + 2 * batch 		49
+nrnd += min A B + max A B 		50
+okay = True 		51
+if okay 		53
+tourney = nrnd 		54
+return tourney 		56
+def init 		59
+for i in range 3 		60
+state = 0 0 0 		61
+state i = 1 		62
+state = tuple state 		63
+for j in range 12 		65
+state = gen_state state 		66
+states_to_winner state = i 		67
+def main 		70
+init 		71
+T = int input 		72
+for t in range T 		73
+print Case #{}: {} format t + 1 solve 		74
+if __name__ == __main__ 		77
+main 		78

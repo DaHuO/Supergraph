@@ -1,0 +1,1 @@
+def solve for hs in permutations P * P + R * R + S * S r 		7 29

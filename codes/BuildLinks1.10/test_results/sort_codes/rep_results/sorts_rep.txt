@@ -1,0 +1,9 @@
+Insert insert_sort input_data verbose = False tstart = time clock data = input_data copy p = 0 		197 223
+shell_sort 701 301 132 57 23 701 round 2.25 insert Shell clock if not gap_sequence or len gap_sequence < 1 or gap_sequence - 1 != 1 gap_sequence 		11 43
+random_data size 		226 232
+_quick_sort_in _quick_sort_in second _quick_sort_in second return else pivot 		68 78
+_quick_sort_in quick_sort input_data verbose = False tstart = 		81 95
+heap_sort heapq datan datan heapq heappop datan datan clock data = 		46 65
+def merge_sort input_data verbose = False tstart = time clock data = input_data copy data2 = data copy i = 0 while 2 ** i < len input_data s1 = 0 e1 = s1 + 2 ** 		98 140
+def bubble_sort input_data verbose = False tstart = time clock data = input_data copy q = 0 i 		170 194
+select_sort Select verbose = False tstart = time clock data = input_data copy q = 0 		143 167

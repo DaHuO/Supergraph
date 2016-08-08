@@ -1,0 +1,26 @@
+from sys import stdin 		1
+T = int stdin readline 		3
+STD = 		5
+def ST p r s 		6
+if p r s not in STD 		7
+STD p r s = STM p r s 		8
+return STD p r s 		9
+def STM p r s 		11
+if r == 0 and s == 0 		12
+return P 		13
+elif p == 0 and s == 0 		14
+return R 		15
+elif p == 0 and r == 0 		16
+return S 		17
+if p == r and p > s or s > p and s > r 		19
+return ST p + 1 / 2 r - 1 / 2 s / 2 + ST p - 1 / 2 r + 1 / 2 s / 2 		20
+if p > r and p > s or r > p and r == s 		21
+return ST p / 2 r + 1 / 2 s - 1 / 2 + ST p / 2 r - 1 / 2 s + 1 / 2 		22
+if p == s and p > r or r > p and r > s 		23
+return ST p + 1 / 2 r / 2 s - 1 / 2 + ST p - 1 / 2 r / 2 s + 1 / 2 		24
+for t in range T 		26
+N R P S = int i for i in stdin readline split 		27
+if len set R P S R + P + S / 3 R + P + S / 3 + 1 != 2 		28
+print Case #{}: IMPOSSIBLE format t + 1 		29
+else 		30
+print Case #{}: {} format t + 1 ST P R S 		31

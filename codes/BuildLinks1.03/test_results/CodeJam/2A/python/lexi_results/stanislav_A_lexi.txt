@@ -1,0 +1,45 @@
+import sys 		1
+mem = 		4
+def check s 		7
+if s in mem return mem s 		8
+return True 		9
+def gen N ns 		12
+if N == 0 		13
+if ns 0 > 0 		14
+ns 0 -= 1 		15
+yield P P 		16
+ns 0 += 1 		17
+if ns 1 > 0 		18
+ns 1 -= 1 		19
+yield R R 		20
+ns 1 += 1 		21
+if ns 2 > 0 		22
+ns 2 -= 1 		23
+yield S S 		24
+ns 2 += 1 		25
+else 		26
+for left w1 in gen N - 1 ns 		27
+for right w2 in gen N - 1 ns 		28
+if w1 != w2 		29
+ans = left + right 		30
+win =  		31
+if w1 == P and w2 == R win = P 		32
+if w2 == P and w1 == R win = P 		33
+if w1 == R and w2 == S win = R 		34
+if w2 == R and w1 == S win = R 		35
+if w1 == P and w2 == S win = S 		36
+if w2 == P and w1 == S win = S 		37
+yield ans win 		38
+def run t 		41
+N R P S = map int raw_input split 		42
+res = None 		44
+for ans win in gen N P R S 		45
+res = ans 		46
+break 		47
+if not res 		48
+print Case #{}: {} format t IMPOSSIBLE 		49
+else 		50
+print Case #{}: {} format t res 		51
+T = int raw_input 		53
+for t in xrange 1 T + 1 		54
+run t 		55

@@ -1,0 +1,6 @@
+def readlinearray foo = int return list map foo input split 		16 17
+def GCD a b while b a b = b a % b return a 		20 23
+def gen_primes max primes = 1 * max + 1 for i in range 2 max + 1 if primes i for j in range i + i max + 1 i primes j = 0 primes 0 = 0 return x for x in range 2 max + 1 if primes x 		26 33
+def readint return int input 		4 5
+def readfloat return float input 		8 9
+def readarray N foo = input return foo for i in range N 		12 13

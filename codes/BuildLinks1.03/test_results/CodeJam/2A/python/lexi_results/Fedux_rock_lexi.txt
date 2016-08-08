@@ -1,0 +1,110 @@
+from __future__ import division 		4
+import sys 		5
+from multiprocessing import Pool 		6
+import os 		7
+verbose = True 		9
+def read inputfile 		12
+N R P S = inputfile read_integers 		13
+return N R P S 		14
+def generate n winner 		17
+P R S = 0 1 2 		18
+if winner == P 		19
+count = 1 0 0 		20
+elif winner == R 		21
+count = 0 1 0 		22
+elif winner == S 		23
+count = 0 0 1 		24
+else 		25
+assert False 		26
+res = winner 		27
+for _ in xrange n 		29
+count = 		31
+count P + count S 		32
+count R + count P 		33
+count S + count R 		34
+res =  join 		36
+PR if x == P else 		37
+RS if x == R else 		38
+PS if x == S else None 		39
+for x in res 		40
+return tuple count res 		43
+def order res 		46
+l = len res 		47
+if l == 1 		48
+return res 		49
+a b = res l // 2 res l // 2 		50
+a b = order a order b 		51
+if a <= b 		52
+return a + b 		53
+else 		54
+return b + a 		55
+def solve n r p s 		57
+count = p r s 		58
+res = 		60
+for winner in PRS 		61
+count_p res_p = generate n winner 		62
+if count_p == count 		63
+res append order res_p 		64
+if len res 		66
+x = min res 		67
+assert r == x count R 		68
+assert p == x count P 		69
+assert s == x count S 		70
+return x 		71
+else 		72
+return None 		73
+def write result 		76
+if result is None 		77
+print IMPOSSIBLE 		78
+else 		79
+print result 		80
+def main parallel = False _verbose = True 		83
+global verbose 		84
+verbose = _verbose 		85
+inputfile = FileParser 		88
+T = inputfile read_int 		89
+log Solving T test cases 		90
+test_cases = read inputfile for _ in xrange T 		91
+if parallel 		94
+process_pool = Pool processes = 4 		95
+test_results = process_pool map_async solve_data test_cases get 9999999 		96
+else 		97
+test_results = map solve_data test_cases 		98
+for i result in enumerate test_results 		101
+print Case #{}: format i + 1 		102
+write result 		103
+def solve_data data 		106
+res = solve * data 		107
+if verbose 		108
+sys stderr write . 		109
+sys stderr flush 		110
+return res 		111
+def log * args 		114
+if verbose 		115
+print >> sys stderr   join map str args 		116
+class FileParser object 		119
+def __init__ self filepath = None 		129
+if filepath is None 		130
+self fd = sys stdin 		131
+else 		132
+self fd = open filepath 		133
+def read_lines self 		135
+return self fd readlines 		136
+def read_string self 		138
+return self fd readline rstrip 		139
+def read_strings self 		141
+return x for x in self read_string split 		142
+def read_int self 		144
+return int self fd readline 		145
+def read_integers self 		147
+return int x for x in self fd readline split 		148
+def read_float self 		150
+return float self fd readline 		151
+def read_floats self 		153
+return float x for x in self fd readline split 		154
+def close self 		156
+if self fd is not sys stdin 		157
+self fd close 		158
+self fd = None 		159
+if __name__ == __main__ 		162
+main -p in sys argv -q not in sys argv 		163

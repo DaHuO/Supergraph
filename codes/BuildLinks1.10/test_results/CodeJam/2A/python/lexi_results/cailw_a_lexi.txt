@@ -1,0 +1,4 @@
+def readints return list map int fi readline split 		8 9
+def print_case * args print Case #%d: % icase * args file = fo 		12 13
+def msum a b return min a + b b + a 		20 21
+def readint return int fi readline strip 		6 7

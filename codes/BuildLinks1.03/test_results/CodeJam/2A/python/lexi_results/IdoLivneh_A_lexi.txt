@@ -1,0 +1,216 @@
+import sys 		1
+import time 		2
+import itertools 		3
+import random 		4
+import math 		5
+import heapq 		6
+def iterate_cases_1lpc filepath 		12
+with file filepath rb as f_in 		13
+for line_index line in enumerate f_in 		14
+if line_index == 0 		15
+continue 		16
+yield line_index line strip split   		17
+def iterate_cases_nlpc filepath n 		19
+with file filepath rb as f_in 		20
+case_counter = 1 		21
+case = 		22
+for line_index line in enumerate f_in 		23
+if line_index == 0 		24
+continue 		25
+case append line strip split   		26
+if not line_index % n 		27
+yield case_counter case 		28
+case_counter += 1 		29
+case = 		30
+def iterate_cases_subsections filepath num_of_subs 		32
+with file filepath rb as f_in 		33
+case_counter = 0 		34
+new_case = True 		35
+for line_index line in enumerate f_in 		36
+if line_index == 0 		37
+continue 		38
+if new_case 		39
+new_case = False 		40
+new_sub_case = True 		41
+sub_cases_left = num_of_subs 		42
+case_counter += 1 		43
+case = 		44
+if new_sub_case 		45
+new_sub_case = False 		46
+sub_case = 		47
+assert len line strip split   == 1 		48
+lines_left = int line strip 		49
+continue 		50
+if lines_left 		51
+lines_left -= 1 		52
+sub_case append line strip split   		53
+if not lines_left 		54
+case append sub_case 		55
+sub_cases_left -= 1 		56
+new_sub_case = True 		57
+if not sub_cases_left 		58
+new_case = True 		59
+yield case_counter case 		60
+def iterate_cases_glpc filepath 		62
+with file filepath rb as f_in 		63
+case_counter = 0 		64
+new_case = True 		65
+for line_index line in enumerate f_in 		66
+if line_index == 0 		67
+continue 		68
+if new_case 		69
+new_case = False 		70
+case_counter += 1 		71
+case = 		72
+assert len line strip split   == 1 		73
+lines_left = int line strip 		74
+if not lines_left 		75
+new_case = True 		76
+yield case_counter case 		77
+continue 		78
+if lines_left 		79
+lines_left -= 1 		80
+case append line strip split   		81
+if not lines_left 		82
+new_case = True 		83
+yield case_counter case 		84
+def part_of_list_to_int array flags 		86
+assert len array == len flags 		87
+output = 		88
+for index elem in enumerate array 		89
+if flags index 		90
+output append int elem 		91
+else 		92
+output append elem 		93
+return output 		94
+def list_to_int array 		96
+return part_of_list_to_int array True * len array 		97
+def part_of_list_to_float array flags 		99
+assert len array == len flags 		100
+output = 		101
+for index elem in enumerate array 		102
+if flags index 		103
+output append float elem 		104
+else 		105
+output append elem 		106
+return output 		107
+def list_to_float array 		109
+return part_of_list_to_float array True * len array 		110
+def get_max_array_on_index array index 		112
+elem_len = len array 0 		113
+assert index < elem_len 		114
+for elem in array 		115
+assert elem_len == len elem 		116
+max_sub = array 0 index 		117
+max_elem = array 0 		118
+for elem in array 		119
+if elem index > max_sub 		120
+max_sub = elem index 		121
+max_elem = elem 		122
+return max_elem 		123
+def list_index_in_sorted_with_position a_list value pos 		125
+list_len = len a_list 		126
+if list_len == 1 		127
+if a_list 0 == value 		128
+return pos 		129
+return - 1 		130
+if a_list list_len / 2 > value 		131
+return list_index_in_sorted_with_position a_list list_len / 2 value pos 		132
+else 		133
+return list_index_in_sorted_with_position a_list list_len / 2 value pos + list_len / 2 		134
+def list_index_in_sorted_list a_list value 		136
+return list_index_in_sorted_with_position a_list value 0 		137
+def copy_list list 		139
+res = 		140
+res extend list 		141
+return res 		142
+def gcd a b 		144
+while b 		149
+a b = b a % b 		150
+return a 		151
+PRIMES_FILENAME = prime.txt 		153
+def get_primes N 		154
+primes = 		158
+with file PRIMES_FILENAME rb as f 		159
+for line in f readlines 		160
+p = int line strip 		161
+if p > N 		162
+break 		163
+primes append p 		164
+else 		165
+raise ValueError Create a bigger prime file 		166
+return primes 		167
+def choice a b 		169
+assert a >= b 		174
+res = 1 		175
+if b > a - b 		176
+for i in xrange b + 1 a + 1 		177
+res *= i 		178
+for i in xrange 1 a - b + 1 		179
+res /= i 		180
+else 		181
+for i in xrange a - b + 1 a + 1 		182
+res *= i 		183
+for i in xrange 1 b + 1 		184
+res /= i 		185
+return res 		186
+def my_sort result 		193
+if len result == 1 		194
+return result 		195
+if len result == 2 		196
+result sort 		197
+return result 		198
+res = 		199
+a = my_sort result len result / 2 		200
+b = my_sort result len result / 2 		201
+m = a b 		202
+m sort 		203
+res extend m 0 		204
+res extend m 1 		205
+return res 		206
+def solve P R S 		208
+elems = P R S 		209
+result = 		211
+if max elems - min elems >= 2 		212
+return IMPOSSIBLE 		213
+if elems count max elems == 1 		214
+j = elems index max elems 		215
+if j == 1 		216
+i = 0 		217
+else 		218
+i = j 		219
+elif elems count max elems == 2 		220
+j = elems index max elems - 1 		221
+i = j + 1 % 3 		222
+elif elems count max elems == 3 		223
+i = 0 		224
+while True 		227
+if elems == 0 0 0 		229
+break 		230
+if elems i == 0 		231
+i = i + 1 % 3 		232
+continue 		233
+result append i 		234
+elems i -= 1 		235
+i = i + 1 % 3 		236
+result = my_sort result 		239
+real_result =  		242
+tran = 0 P 1 R 2 S 		243
+for r in result 		244
+real_result += tran r 		245
+return real_result 		247
+def calc_result case 		249
+result = None 		251
+N R P S = list_to_int case 		253
+result = solve P R S 		255
+print result 		256
+return result 		257
+def main filepath 		259
+start_time = time time 		261
+with file output.txt wb as f_out 		262
+for case_index case in iterate_cases_1lpc filepath 		270
+print case #%d: time:%.02f % case_index time time - start_time 		272
+result = calc_result case 		273
+f_out write Case #%d: %s\n % case_index result 		278
+if __name__ == __main__ 		280
+main sys argv 1 		281

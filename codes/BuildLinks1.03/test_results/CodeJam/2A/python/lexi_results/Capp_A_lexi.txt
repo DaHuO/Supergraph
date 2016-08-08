@@ -1,0 +1,33 @@
+from sys import stdin stderr 		3
+from struct import pack 		4
+def Solve N R P S 		6
+a = max R P S 		7
+b = min R P S 		8
+if a - b > 1 return IMPOSSIBLE 		9
+clist = 		10
+if R == a clist += R 		11
+if P == a clist += P 		12
+if S == a clist += S 		13
+for c in R P S 		14
+if not c in clist clist += c 		15
+pass 		16
+Nval = 2 ** N 		17
+ret = clist 0 + clist 1 + clist 2 * Nval / 3 		18
+if Nval % 3 == 1 ret += clist 0 		19
+if Nval % 3 == 2 ret += clist 0 + clist 1 		20
+for n in range N 		21
+pos = 0 		22
+ret2 =  		23
+while pos < 2 ** N 		24
+s1 = ret pos pos + 2 ** n 		25
+s2 = ret pos + 2 ** n pos + 2 ** n * 2 		26
+if s1 < s2 ret2 += s1 + s2 		27
+else ret2 += s2 + s1 		28
+pos += 2 ** n * 2 		29
+pass 		30
+ret = ret2 		31
+return ret 		32
+for T in range int stdin readline 		35
+print Case #%d: % T + 1 		36
+N R P S = int w for w in stdin readline split 		38
+print Solve N R P S 		40

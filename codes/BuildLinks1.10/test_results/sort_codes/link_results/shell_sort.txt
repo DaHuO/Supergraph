@@ -1,0 +1,5 @@
+7 - 19 links:
+sorts	:	11 - 43
+insert_sort	:	7 - 16
+sorts	:	11 - 43
+

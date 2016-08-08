@@ -1,0 +1,3 @@
+#%s: main T = int sys stdin 		33 37
+def build v n if n 		11 17
+def solve N R P S ret = for t in 		19 30

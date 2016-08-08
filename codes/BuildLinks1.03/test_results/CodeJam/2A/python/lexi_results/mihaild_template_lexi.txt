@@ -1,0 +1,60 @@
+import string 		1
+import itertools 		2
+def readint 		4
+return int input 		5
+def readfloat 		8
+return float input 		9
+def readarray N foo = input 		12
+return foo for i in range N 		13
+def readlinearray foo = int 		16
+return list map foo input split 		17
+def GCD a b 		20
+while b 		21
+a b = b a % b 		22
+return a 		23
+def gen_primes max 		26
+primes = 1 * max + 1 		27
+for i in range 2 max + 1 		28
+if primes i 		29
+for j in range i + i max + 1 i 		30
+primes j = 0 		31
+primes 0 = 0 		32
+return x for x in range 2 max + 1 if primes x 		33
+case_number = readint 		36
+for case in range case_number 		37
+n r p s = readlinearray 		38
+c = list p * p + r * r + s * s 		39
+ok = False 		40
+solutions = 		41
+for perm in itertools permutations c 		42
+prev = perm 		43
+while True 		44
+n = False 		46
+if len prev == 1 		47
+ok = True 		48
+okperm = perm 		49
+break 		50
+x = 		51
+for i in range 1 len prev 2 		52
+if prev i - 1 == p and prev i == r or prev i - 1 == r and prev i == p 		53
+x append p 		54
+elif prev i - 1 == r and prev i == s or prev i - 1 == s and prev i == r 		55
+x append r 		56
+elif prev i - 1 == s and prev i == p or prev i - 1 == p and prev i == s 		57
+x append s 		58
+else 		59
+n = True 		60
+if n 		61
+break 		62
+if len prev % 2 		63
+x append prev - 1 		64
+if x == prev 		65
+break 		66
+prev = x 		67
+if ok 		68
+solutions append  join perm 		69
+ok = False 		70
+if solutions 		71
+print Case #%d: %s % case + 1 min solutions upper 		72
+else 		73
+print Case #%d: IMPOSSIBLE % case + 1 		74

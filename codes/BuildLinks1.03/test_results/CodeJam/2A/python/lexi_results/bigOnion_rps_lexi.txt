@@ -1,0 +1,202 @@
+from functools import wraps update_wrapper 		5
+import time 		6
+import os 		7
+__memoization_registry = 		13
+_CALL_FUNC_COUNTERS = 		14
+def memoize_it inner_func 		18
+global __memoization_registry 		19
+cache = 		20
+__memoization_registry append cache 		21
+wraps inner_func 		23
+def wrapper * args ** kwargs 		24
+if args not in cache 		25
+cache args = inner_func * args ** kwargs 		26
+return cache args 		27
+return wrapper 		28
+def reset_memoization 		32
+global __memoization_registry 		33
+try 		34
+for cache_d in __memoization_registry 		35
+cache_d clear 		36
+except NameError 		37
+pass 		38
+def time_it inner_func 		42
+wraps inner_func 		43
+def wrapper * args ** kwargs 		44
+print --> Start function \' + inner_func __qualname__ + \' :  time ctime 		45
+start_time = time time 		46
+res = inner_func * args ** kwargs 		47
+end_time = time time 		48
+print --> End   function \' + inner_func __qualname__ + \' :  time ctime 		49
+print --> Elapsed time \' + inner_func __qualname__ + \' :  end_time - start_time 		50
+print 		51
+return res 		52
+return wrapper 		53
+def log_it arguments = True output = True 		57
+def decorating_function user_function 		58
+def wrapper * args ** kwargs 		59
+if arguments 		60
+print time ctime 		61
+: function \' + user_function __qualname__ + \' arguments args= args kwargs= kwargs 		62
+result = user_function * args ** kwargs 		63
+if output 		64
+print time ctime : function \' + user_function __qualname__ + \' outputs  result 		65
+return result 		66
+return update_wrapper wrapper user_function 		67
+return decorating_function 		68
+def count_it inner_func 		72
+global _CALL_FUNC_COUNTERS 		73
+assert type _CALL_FUNC_COUNTERS == dict 		74
+assert inner_func __qualname__ not in _CALL_FUNC_COUNTERS 		75
+_CALL_FUNC_COUNTERS inner_func __qualname__ = 0 		76
+wraps inner_func 		78
+def wrapper * args ** kwargs 		79
+global _CALL_FUNC_COUNTERS 		80
+_CALL_FUNC_COUNTERS inner_func __qualname__ += 1 		81
+return inner_func * args ** kwargs 		82
+return wrapper 		83
+def pre_process_it inner_func 		87
+import inspect 		88
+import pickle 		89
+a = inspect signature inner_func 		90
+if len a aparmeters 		91
+raise ValueError A pre process function must not have arguments 		92
+time_it 		94
+wraps inner_func 		95
+def wrapper * args ** kwargs 		96
+filename = pre-process_ + inner_func __qualname__ + .pickle 		97
+if filename not in os listdir 		98
+print --> Pre process started for function \' + inner_func __qualname__ + \' .... 		99
+pre_process_data = inner_func 		100
+print --> Pre process ended for function \' + inner_func __qualname__ + \' 		101
+print --> Pickling started for function \' + inner_func __qualname__ + \' .... 		102
+with open filename wb as f_pp 		103
+pickle dump pre_process_data f_pp pickle HIGHEST_PROTOCOL 		104
+print --> Pickling ended for function \' + inner_func __qualname__ + \' 		105
+print --> Unpickling pre-processed data of function \' + inner_func __qualname__ + \' ... 		106
+with open filename rb as f_pp 		107
+data = pickle load f_pp 		108
+print --> Unpickling ended 		109
+print 		110
+return data 		111
+return wrapper 		113
+class GCJIOWrapper 		121
+def __init__ self input_filename parsed_filename output_filename 		123
+self __input_filename = input_filename 		124
+self __parsed_filename = parsed_filename 		125
+self __output_filename = output_filename 		126
+self __index_test_case = 0 		127
+self __input_file = None 		128
+self __parsed_file = None 		129
+self __output_file = None 		130
+def __enter__ self 		132
+self __input_file = open self __input_filename r 		134
+self __parsed_file = open self __parsed_filename w 		135
+self __output_file = open self __output_filename w 		136
+def __exit__ self type_e value tb 		138
+self __input_file close 		140
+self __parsed_file close 		141
+self __output_file close 		142
+def readline self 		144
+l = self __input_file readline 		146
+self __parsed_file write l 		147
+return l 		148
+def new_test_case self 		150
+self __index_test_case += 1 		152
+self __parsed_file write \n## _BigOnion Test case:  + str self __index_test_case +  ##\n 		153
+def write self s 		155
+self __output_file write s 		157
+def get_test_case self 		159
+return self __index_test_case 		161
+time_it 		165
+def main_run 		166
+print Directory :  os getcwd 		169
+file_names = x for x in os listdir 		170
+l1 = os stat x st_mtime x for x in file_names if x endswith .in 		171
+if not l1 		172
+raise ValueError No input file found 		173
+chosen_prefix = sorted l1 - 1 1 - 3 		174
+input_filename = chosen_prefix + .in 		175
+print Chosen Input :  input_filename 		176
+parsed_filename = chosen_prefix + .parsed.txt 		179
+l2 = x split . 0 for x in file_names if x endswith .out and x startswith chosen_prefix 		183
+l2 = int x split -run - 1 for x in l2 		184
+output_file_index = 000 + str max 0 + l2 + 1 - 3 		185
+output_filename = chosen_prefix + -run + output_file_index + .out 		186
+print Chosen Output :  output_filename 		187
+print 		188
+io_wrapper = GCJIOWrapper input_filename parsed_filename output_filename 		190
+with io_wrapper 		191
+solve_all_cases io_wrapper 		192
+print 		195
+print Conclusion : 		196
+print Directory :  os getcwd 		197
+print Chosen Input :  input_filename 		198
+print Chosen Output :  output_filename 		199
+time_it 		203
+def solve_all_cases io_wrapper 		204
+T = int io_wrapper readline 		205
+for test_case in range 1 T + 1 		206
+io_wrapper new_test_case 		207
+assert io_wrapper get_test_case == test_case 		208
+solve_one_case io_wrapper 		209
+ROCK = R 		216
+PAPER = P 		217
+SCISSORS = S 		218
+def solve_one_case io_wrapper 		220
+N R P S = int x for x in io_wrapper readline split 		222
+assert R + P + S == 2 ** N 		223
+solution = find_solution N R P S 		224
+io_wrapper write Case # + str io_wrapper get_test_case + :  + solution + \n 		225
+def find_solution N R P S 		228
+a = try_winner ROCK N R P S 		229
+print a 		230
+if a is not None 		231
+a = alphabetically_first_solution a 		232
+else 		233
+a = Z 		234
+b = try_winner PAPER N R P S 		235
+print b 		236
+if b is not None 		237
+b = alphabetically_first_solution b 		238
+else 		239
+b = Z 		240
+c = try_winner SCISSORS N R P S 		241
+print c 		242
+if c is not None 		243
+c = alphabetically_first_solution c 		244
+else 		245
+c = Z 		246
+print 		247
+if a == b == c == Z 		248
+return IMPOSSIBLE 		249
+return min a b c 		250
+def try_winner winner N R P S 		253
+l = winner 		254
+for _round in range N 		255
+l2 = 		256
+for i in l 		257
+if i == ROCK 		258
+l2 extend ROCK SCISSORS 		259
+elif i == PAPER 		260
+l2 extend PAPER ROCK 		261
+else 		262
+assert i == SCISSORS 		263
+l2 extend SCISSORS PAPER 		264
+l = l2 		265
+if l count ROCK == R and l count PAPER == P and l count SCISSORS == S 		266
+return l 		267
+return None 		268
+def alphabetically_first_solution l 		271
+jump = 1 		272
+while jump < len l 		273
+for s in range 0 len l 2 * jump 		274
+t1 = l s s + jump 		275
+t2 = l s + jump s + 2 * jump 		276
+if t2 < t1 		277
+l s + jump s + 2 * jump = t1 		278
+l s s + jump = t2 		279
+jump *= 2 		280
+assert jump == len l 		281
+return  join l 		282
+main_run 		286

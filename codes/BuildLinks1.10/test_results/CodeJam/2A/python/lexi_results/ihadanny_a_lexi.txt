@@ -1,0 +1,1 @@
+def get_sons s ret = for c in s if c == P ret += PR if c == R ret += RS if c == S ret += PS a b = ret len s / 2 + 1 ret len s / 2 + 1 return min a b + max a b 		16 27

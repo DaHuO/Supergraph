@@ -1,0 +1,2 @@
+def solvable p r s n = p + r + s if n == 1 return P * p + R * r + S * s k = n // 2 if p > k or r > k or s > k return False res = solvable p + r - k r + s - k s + p - k if res == False return res res2 = for c in res if c == P res2 += PR elif c == R res2 += RS elif c == S res2 += PS return res2 		21 39
+def main casenum n r p s = readints if r p s in best n writecase casenum best n r p s else writecase casenum IMPOSSIBLE 		41 46

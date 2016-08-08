@@ -1,0 +1,3 @@
+run_game new_array na na new_array na new_array new_array old_array 		19 32
+run_game solve r p s pos = for i in range 		35 49
+def winner a b if a == r and b == p return 		4 17

@@ -1,0 +1,82 @@
+import os 		3
+import sys 		4
+import re 		5
+import itertools 		6
+import collections 		7
+import copy 		8
+import fractions 		9
+import bisect 		10
+import decimal 		11
+import math 		12
+import random 		13
+def solve f skip = False 		18
+n r p s = f read_int_list 		19
+if skip return 0 		20
+for p1 p2 in itertools combinations R P S 2 		22
+h = p1 + p2 		23
+for i in xrange n - 1 		24
+hold = h 		25
+h =  		26
+for hh in hold 		27
+if hh == R 		28
+h += RS 		29
+elif hh == P 		30
+h += PR 		31
+else 		32
+h += PS 		33
+c = collections Counter h 		35
+if c R == r and c P == p and c S == s 		36
+for j in xrange 1 n + 1 		37
+for i in xrange 0 len h 2 ** j 		38
+if h i i + 2 ** j - 1 > h i + 2 ** j - 1 i + 2 ** j 		39
+h = h i + h i + 2 ** j - 1 i + 2 ** j + h i i + 2 ** j - 1 + h i + 2 ** j 		40
+return h 		41
+return IMPOSSIBLE 		43
+class Reader object 		45
+def __init__ self filename 		46
+self f = open filename 		47
+self linenum = 1 		48
+def read_int self 		50
+self linenum += 1 		51
+return int self f readline strip 		52
+def read_float self 		53
+self linenum += 1 		54
+return float self f readline strip 		55
+def read_decimal self 		56
+self linenum += 1 		57
+return decimal Decimal self f readline strip 		58
+def read_str self 		59
+self linenum += 1 		60
+return self f readline strip 		61
+def read_int_list self 		63
+self linenum += 1 		64
+return map int self f readline split 		65
+def read_float_list self 		66
+self linenum += 1 		67
+return map float self f readline split 		68
+def read_decimal_list self 		69
+self linenum += 1 		70
+return map decimal Decimal self f readline split 		71
+def read_str_list self 		72
+self linenum += 1 		73
+return self f readline split 		74
+if __name__ == __main__ 		76
+filename = sys argv 1 if len sys argv > 1 else sys argv 0 replace .py -sample.in 		77
+cnum = int sys argv 2 if len sys argv > 2 else None 		78
+output = filename - 3 + .out if filename - 3 == .in else filename + .out 		79
+f = Reader filename 		80
+cases = f read_int 		81
+if cnum 		83
+for case in xrange cases 		84
+if cnum == case + 1 		85
+print (line: %d)  % f linenum 		86
+line = Case #%d: %s\n % case + 1 str solve f 		87
+print line 		88
+else 		89
+solve f skip = True 		90
+else 		91
+g = open output w 		92
+for case in xrange cases 		93
+line = Case #%d: %s\n % case + 1 str solve f 		94
+g write line 		95
+print line 		96

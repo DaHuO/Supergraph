@@ -1,0 +1,55 @@
+T = input 		1
+def win x y 		3
+if x == y 		4
+return None 		5
+if x y == R P 		6
+return P 		7
+if x y == P S 		8
+return S 		9
+return R 		10
+def simul s 		12
+if len s == 1 		13
+return True 		14
+nr =  		15
+for i in range len s / 2 		16
+res = win s 2 * i s 2 * i + 1 		17
+if res is None return False 		18
+nr += res 		19
+return simul nr 		20
+MEMO = 		22
+1 1 0 PR 		23
+1 0 1 RS 		24
+0 1 1 PS 		25
+def recur N R P S 		28
+global MEMO 		29
+if R P S in MEMO return MEMO R P S 		30
+if N % 3 == 1 		33
+if R - 1 == P == S 		34
+a b = recur N / 2 R / 2 R / 2 - 1 R / 2 recur N / 2 R / 2 R / 2 R / 2 - 1 		35
+if R == P - 1 == S 		36
+a b = recur N / 2 P / 2 - 1 P / 2 P / 2 recur N / 2 P / 2 P / 2 P / 2 - 1 		37
+if R == P == S - 1 		38
+a b = recur N / 2 S / 2 - 1 S / 2 S / 2 recur N / 2 S / 2 S / 2 - 1 S / 2 		39
+else 		40
+if R == P == S + 1 		41
+a b = recur N / 2 S / 2 + 1 S / 2 S / 2 recur N / 2 S / 2 S / 2 + 1 S / 2 		42
+if R == P + 1 == S 		43
+a b = recur N / 2 P / 2 + 1 P / 2 P / 2 recur N / 2 P / 2 P / 2 P / 2 + 1 		44
+if R + 1 == P == S 		45
+a b = recur N / 2 R / 2 R / 2 + 1 R / 2 recur N / 2 R / 2 R / 2 R / 2 + 1 		46
+ans = a + b if a < b else b + a 		48
+MEMO R P S = ans 		49
+return ans 		50
+from itertools import combinations product 		52
+from collections import Counter 		53
+def solve N R P S 		55
+if abs R - P >= 2 or abs P - S >= 2 or abs S - R >= 2 		56
+return IMPOSSIBLE 		57
+ans = recur 2 ** N R P S 		59
+c = Counter ans 		60
+assert not c R != R or c P != P or c S != S 		61
+return ans 		62
+return IMPOSSIBLE 		70
+for i in range 1 T + 1 		72
+N R P S = map int raw_input strip split 		73
+print Case #{}: {} format i solve N R P S 		74

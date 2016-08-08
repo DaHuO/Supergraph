@@ -1,0 +1,20 @@
+test_bsort_repeat self 		32 33
+test_isort_repeat self 		48 49
+test_qsort_single self 		87 88
+test_bsort_single self 		26 27
+test_isort_empty 		42 43
+test_qsort_empty 		84 85
+test_isort_single self 		45 46
+test_bsort_empty 		23 24
+test_bsort_max self 		29 30
+test_msort_merge mergetwo self 		56 57
+test_qsort_merge self self 		77 78
+test_msort_sort self 		60 61
+test_qsort_sort self 		81 82
+test_msort_single self 		66 67
+test_qsort_repeat self 		90 91
+setUp 8 6 A = 		11 15
+test_msort_repeat self 		69 70
+test_bsort_sort self 		20 21
+test_isort_sort self 		39 40
+test_msort_empty 		63 64

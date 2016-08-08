@@ -1,0 +1,1 @@
+def get_lineup n r p s if abs r - p <= 1 and abs r - s <= 1 and abs p - s <= 1 if n == 1 seq = if p == 1 seq += P if r == 1 seq += R if s == 1 seq += S return seq else if r 		3 29

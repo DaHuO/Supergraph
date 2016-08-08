@@ -1,0 +1,37 @@
+import StringIO 		1
+import itertools 		3
+from ecodejam input_parser import * 		5
+def solve_n n top 		8
+if n == 0 		9
+return top 		10
+if top == P 		12
+a = P 		13
+b = R 		14
+if top == R 		15
+a = R 		16
+b = S 		17
+if top == S 		18
+a = S 		19
+b = P 		20
+a_word = solve_n n - 1 a 		22
+b_word = solve_n n - 1 b 		23
+if a_word < b_word 		25
+return a_word + b_word 		26
+return b_word + a_word 		27
+def solve case_index 		30
+print case_index 		31
+n = read_int 		32
+r = read_int 		33
+p = read_int 		34
+s = read_int 		35
+next_line 		36
+opts = sorted solve_n n P solve_n n R solve_n n S 		38
+for opt in opts 		40
+if opt count R == r and opt count S == s and opt count P == p 		41
+return opt 		42
+return IMPOSSIBLE 		43
+SAMPLE = 		48
+if __name__ == __main__ 		56
+set_parsed_input 		57
+StringIO StringIO SAMPLE 		58
+run_solver solve 		60

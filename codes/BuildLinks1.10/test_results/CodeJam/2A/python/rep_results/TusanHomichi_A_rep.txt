@@ -1,0 +1,4 @@
+find_min solve N r p 		55 60
+solve_pair p if p == PR 		14 20
+def check p r s if p + r + s 		3 12
+find_min new_ord solve_pair solve_pair solve_pair find_min new_ord + r + s == 1 if p == 1 return P if r == 1 return R if s == 1 		22 53

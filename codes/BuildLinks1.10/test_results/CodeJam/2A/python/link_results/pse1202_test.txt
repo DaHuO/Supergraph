@@ -1,0 +1,18 @@
+5 - 6 links:
+kevinsogo_a	:	58 - 62
+eMBe_A	:	87 - 96
+aklecram_solveA	:	45 - 53
+Yuichiro_a	:	4 - 19
+EscapeSequence_main	:	1 - 7
+LinesPrower_p1	:	9 - 16
+LinesPrower_p1	:	6 - 37
+Fedux_rock	:	46 - 55
+johannesk_a	:	4 - 5
+Eirage_1	:	1 - 24
+laughinging_a	:	1 - 4
+johnLate_a	:	15 - 25
+aguy_codejam1	:	23 - 36
+
+8 - 9 links:
+aklecram_solveA	:	36 - 43
+

@@ -1,0 +1,2 @@
+all re findall C for w in RPS r = 0 		19 32
+def e s r = for 		6 16

@@ -1,0 +1,2 @@
+each_case N R P S win lose loselose = 1 1 0 for 		16 24
+def players win player = R P S for i in xrange 		3 14

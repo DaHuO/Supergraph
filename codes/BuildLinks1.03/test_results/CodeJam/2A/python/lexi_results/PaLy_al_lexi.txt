@@ -1,0 +1,54 @@
+from collections import Counter 		1
+from multiprocessing pool import Pool 		2
+def winner a b 		5
+aa = min a b 		6
+bb = max a b 		7
+if aa == P and bb == R 		8
+return P 		9
+elif aa == P and bb == S 		10
+return S 		11
+elif aa == R and bb == S 		12
+return R 		13
+def solve args 		16
+n r p s = args 		17
+ww = P S R 		18
+res = 		19
+for w in ww 		20
+t = w 		21
+for i in range n 		22
+t2 = 		23
+for j in range len t 		24
+if t j == P 		25
+t2 += P R 		26
+elif t j == R 		27
+t2 += R S 		28
+else 		29
+t2 += P S 		30
+t = t2 		31
+cc = Counter t 		32
+if cc P == p and cc R == r and cc S == s 		33
+res append  join x for x in t 		34
+if len res == 0 		36
+return IMPOSSIBLE 		37
+else 		38
+pres = 		39
+for r in res 		40
+for k in range n 		41
+q = 		42
+for i in range len r // 2 		43
+aa = min r 2 * i r 2 * i + 1 		44
+bb = max r 2 * i r 2 * i + 1 		45
+q append aa + bb 		46
+r = q 		47
+pres append r 		48
+return  join x for x in min pres 		49
+t = int input 		52
+t = 5 		53
+nfs = 		54
+for tt in range 1 t + 1 		55
+n r p s = map int input split 		56
+nfs append n r p s 		57
+with Pool 8 as p 		59
+res = p map solve nfs 		60
+for tt in range 1 t + 1 		61
+print Case # + str tt + : res tt - 1 		62

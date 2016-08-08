@@ -1,0 +1,3 @@
+def solve N R P S return solns get N P R S IMPOSSIBLE 		28 29
+def main outfile = open a.out w T = int string strip raw_input for k in xrange 1 T + 1 print k N R P S = map int string strip raw_input split answer = solve N R P S outfile write Case #%d: %s\n % k answer 		36 45
+def test inputs ans b = solve * inputs if b != ans print Failed test! Inputs {} should give answer of {} not {} format  join inputs ans b 		31 34

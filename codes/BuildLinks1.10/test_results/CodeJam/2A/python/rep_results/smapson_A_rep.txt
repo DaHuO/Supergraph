@@ -1,0 +1,3 @@
+correct_tournament generate_tournament R P S for seed in 0 		13 20
+sort_tournament sort_tournament sort_tournament len tournament == 1 		1 11
+generate_tournament N seed tournament = 		22 26

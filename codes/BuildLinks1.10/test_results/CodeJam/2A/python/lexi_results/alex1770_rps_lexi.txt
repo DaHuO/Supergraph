@@ -1,0 +1,2 @@
+def count t s return len filter lambda x x == s t 		3 3
+def thing N R P S sts = d = R RS S SP P PR al = Z for w in RPS t = w for n in range N s = for x in t s += d x t = s if R == count t R and P == count t P and S == count t S for n in range N u = for k in range 0 1 << N 1 << n + 1 u0 = t k k + 1 << n u1 = t k + 1 << n k + 2 << n if u0 < u1 u += u0 + u1 else u += u1 + u0 t = u if t < al al = t if al == Z return IMPOSSIBLE return al 		5 27

@@ -1,0 +1,37 @@
+memo = 		1
+def solve x R P S 		3
+if x R P S in memo 		4
+return memo x R P S 		5
+out = False 		6
+if R + P + S == 1 		7
+if x == 0 and R == 1 		8
+out = R 		9
+elif x == 1 and P == 1 		10
+out = P 		11
+elif x == 2 and S == 1 		12
+out = S 		13
+else 		14
+n = R + P + S / 2 		15
+for r in xrange 0 min R n + 1 		17
+for p in xrange 0 min P n - r + 1 		18
+s = n - r - p 		19
+if s <= S 		20
+a = solve x r p s 		21
+b = solve x + 2 % 3 R - r P - p S - s 		22
+if a and b and not out or a + b < out 		23
+out = a + b 		24
+a = solve x + 2 % 3 r p s 		25
+b = solve x R - r P - p S - s 		26
+if a and b and not out or a + b < out 		27
+out = a + b 		28
+memo x R P S = out 		29
+return out 		30
+T = int raw_input 		32
+for t in xrange 1 T + 1 		33
+N R P S = map int raw_input split 		34
+out = False 		35
+for x in xrange 3 		36
+y = solve x R P S 		37
+if y and not out or y < out 		38
+out = y 		39
+print Case #%d: % t out if out else IMPOSSIBLE 		40

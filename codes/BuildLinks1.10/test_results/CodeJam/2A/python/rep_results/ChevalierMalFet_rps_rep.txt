@@ -1,0 +1,2 @@
+getDistribution n x = 0 		42 48
+makeTournament l3 sortedTourney sortedTourney sortedTourney getDistribution makeTournament l3 remainingLetters l3 makeTournament remainingLetters 0 0 l1 = sortedLetters 0 1 n2 = sortedLetters 1 0 l2 = sortedLetters 		9 38

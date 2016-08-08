@@ -1,0 +1,1 @@
+def gnomeSort alist i j size = 1 2 len alist while i < size if alist i - 1 <= alist i i j = j j + 1 else alist i - 1 alist i = alist i alist i - 1 i -= 1 if i == 0 i j = j j + 1 return alist 		8 19

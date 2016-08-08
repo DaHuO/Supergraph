@@ -1,0 +1,59 @@
+import sys 		1
+import os 		2
+import math 		3
+fin = open A-large.in 		6
+fout = open out_1 w 		8
+def expand st n p r s 		10
+if len st == 2 ** n 		11
+return st 		12
+st2 =  		13
+rf pf sf = 0 0 0 		14
+for sym in st 		15
+if sym == p 		16
+st2 += pr 		17
+pf += 1 		18
+rf += 1 		19
+elif sym == r 		20
+st2 += rs 		21
+rf += 1 		22
+sf += 1 		23
+elif sym == s 		24
+st2 += ps 		25
+pf += 1 		26
+sf += 1 		27
+if pf > p or rf > r or sf > s 		28
+raise TypeError Pew 		29
+return expand st2 n p r s 		30
+def chunks l n 		32
+for i in range 0 len l n 		34
+yield l i i + n 		35
+def perplex n x 		37
+x2 =  		38
+for i in range 2 n + 1 		39
+for ch in chunks x 2 ** i 		40
+a = ch int len ch / 2 		41
+b = ch int len ch / 2 		42
+if a < b 		43
+x2 += a + b 		44
+else 		45
+x2 += b + a 		46
+x = x2 		47
+x2 =  		48
+return x 		49
+def solve n p r s 		51
+ans = 		52
+for sym in r p s 		53
+try 		54
+ans append expand sym n p r s 		55
+except TypeError 		56
+continue 		57
+if ans 		58
+return min map lambda x perplex n x ans upper 		59
+else 		60
+return Impossible 		61
+if __name__ == __main__ 		63
+count = int fin readline strip 		64
+for i in range count 		66
+n r p s = map int fin readline strip split 		67
+result = solve n p r s 		68
+fout write Case #%s: %s\n % i + 1 result 		69

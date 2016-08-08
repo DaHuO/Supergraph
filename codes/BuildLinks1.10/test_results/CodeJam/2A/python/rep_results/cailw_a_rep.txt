@@ -1,0 +1,4 @@
+def 		8 9
+print_case icase 		12 13
+msum a 		20 21
+def 		6 7

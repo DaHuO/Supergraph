@@ -1,0 +1,5 @@
+def best data data = list 		48 54
+back data 		56 59
+back find_solution r s p if r < 0 return None if s < 0 return 		6 31
+tmpx yy tmpy tmpx yy zz tmpz tmpy zz tmpz SP z 		33 46
+def solve case n r p s = map 		62 70

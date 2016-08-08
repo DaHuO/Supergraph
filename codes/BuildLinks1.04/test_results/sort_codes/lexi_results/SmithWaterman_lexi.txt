@@ -1,0 +1,16 @@
+
+**function**		5	33
+def SWcompare seq1 seq2 global match mismatch gap match = 2 mismatch = - 1 gap = - 1 rows = len seq1 + 1 cols = len seq2 + 1 got_it score_matrix start_pos = create_score_matrix rows cols seq1 seq2 if not got_it return False seq1_aligned seq2_aligned = traceback score_matrix start_pos seq1 seq2 se1 = for i in seq1_aligned se1 append i se2 = for i in seq2_aligned se2 append i ratio = float len se1 / len seq1 if ratio > 0.8 return True else return False 
+end on function
+**function**		36	51
+def create_score_matrix rows cols seq1 seq2 score_matrix = 0 for col in range cols for row in range rows max_score = 0 max_pos = None got_it = True for i in range 1 rows for j in range 1 cols score = calc_score score_matrix i j seq1 seq2 if score > max_score max_score = score max_pos = i j score_matrix i j = score if max_pos == None got_it = False return got_it score_matrix max_pos 
+end on function
+**function**		54	60
+def calc_score matrix x y seq1 seq2 similarity = match if seq1 x - 1 == seq2 y - 1 else mismatch diag_score = matrix x - 1 y - 1 + similarity up_score = matrix x - 1 y + gap left_score = matrix x y - 1 + gap return max 0 diag_score up_score left_score 
+end on function
+**function**		62	87
+def traceback score_matrix start_pos seq1 seq2 END DIAG UP LEFT = range 4 aligned_seq1 = aligned_seq2 = x y = start_pos move = next_move score_matrix x y while move != END if move == DIAG aligned_seq1 append seq1 x - 1 aligned_seq2 append seq2 y - 1 x -= 1 y -= 1 elif move == UP aligned_seq1 append seq1 x - 1 aligned_seq2 append #gap# x -= 1 else aligned_seq1 append #gap# aligned_seq2 append seq2 y - 1 y -= 1 move = next_move score_matrix x y aligned_seq1 append seq1 x - 1 aligned_seq2 append seq2 y - 1 return reversed aligned_seq1 reversed aligned_seq2 
+end on function
+**function**		89	101
+def next_move score_matrix x y diag = score_matrix x - 1 y - 1 up = score_matrix x - 1 y left = score_matrix x y - 1 if diag >= up and diag >= left return 1 if diag != 0 else 0 elif up > diag and up >= left return 2 if up != 0 else 0 elif left > diag and left > up return 3 if left != 0 else 0 else raise ValueError invalid move during traceback 
+end on function

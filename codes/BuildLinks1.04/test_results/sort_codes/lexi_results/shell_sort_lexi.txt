@@ -1,0 +1,1 @@
+def shell_sort list dist = len list / 2 while dist > 0 for i in range dist len list tmp = list i j = i while j >= dist and tmp < list j - dist list j = list j - dist j -= dist list j = tmp dist /= 2 return list 		7 19

@@ -1,0 +1,9 @@
+8 - 18 links:
+Nin0_a	:	12 - 19
+
+30 - 40 links:
+manu.factor_A	:	33 - 40
+narri_A	:	33 - 47
+LiranR_showdown2	:	32 - 36
+ikicha_rock_paper_scissor	:	23 - 33
+

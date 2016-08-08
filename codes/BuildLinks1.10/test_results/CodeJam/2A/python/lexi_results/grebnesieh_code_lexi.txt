@@ -1,0 +1,1 @@
+def solve X n if count X == - 1 return False if n == 0 return X if count beats X count beats X -= 1 x y = solve X n - 1 solve beats X n - 1 if x and y if x > y return y + x else return x + y return False 		1 14

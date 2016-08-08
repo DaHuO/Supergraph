@@ -1,0 +1,1 @@
+def main word1 word2 counts = defaultdict int for char in word2 counts char += 1 output = list for char in word1 if char in counts for x in range counts char output append char return join output 		8 18

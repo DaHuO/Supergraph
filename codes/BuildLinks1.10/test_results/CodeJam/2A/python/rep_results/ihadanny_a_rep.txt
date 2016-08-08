@@ -1,0 +1,1 @@
+get_sons s ret = for c in s if c 		16 27

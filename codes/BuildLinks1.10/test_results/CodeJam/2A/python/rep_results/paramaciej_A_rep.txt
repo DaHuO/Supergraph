@@ -1,0 +1,4 @@
+allowed can appended appended use appended plrs values == 0 return 		24 37
+def check pairs try x = winner p 		39 46
+use new_plrs new_plrs 		18 22
+can plrs pair 		15 16

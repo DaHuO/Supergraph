@@ -1,0 +1,19 @@
+44 - 47 links:
+timsort	:	18 - 19
+timsort	:	18 - 19
+
+34 - 38 links:
+timsort	:	22 - 38
+
+7 - 12 links:
+timsort	:	12 - 16
+
+40 - 42 links:
+timsort	:	22 - 38
+
+49 - 52 links:
+pysort	:	122 - 134
+
+65 - 81 links:
+pysort	:	122 - 134
+

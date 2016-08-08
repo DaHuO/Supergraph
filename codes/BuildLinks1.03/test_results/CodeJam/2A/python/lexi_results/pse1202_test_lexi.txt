@@ -1,0 +1,24 @@
+filename = A-small-attempt1.in 		1
+f = open filename r 		2
+T = int f readline 		3
+def next a b c 		5
+return a + b b + c a + c 		6
+def prev a b c 		8
+return a + c - b / 2 a + b - c / 2 - a + b + c / 2 		9
+x y z = 1 0 0 		11
+for i in range 1 T + 1 		14
+print Case #%d: % i 		15
+n r p s = map int f readline split 		16
+if max r p s - min r p s != 1 		17
+print IMPOSSIBLE 		18
+else 		19
+a b c = r p s 		20
+while sum a b c != 1 		21
+a b c = prev a b c 		22
+w = RPS 		23
+a = w a b c index 1 		24
+ans = dict 		38
+ans P = P PR PRRS PRRSPSRS 		39
+ans R = R RS PSRS PRPSPSRS 		40
+ans S = S PS PRPS PRPSPRRS 		41
+print ans a n 		43

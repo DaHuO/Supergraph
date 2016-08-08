@@ -1,0 +1,62 @@
+import sys 		6
+import time 		7
+import heapq 		8
+import random 		11
+def _doquicksort values left right 		13
+def partition values left right pivotidx 		15
+pivot = values pivotidx 		19
+values right values pivotidx = values pivotidx values right 		21
+storeidx = left 		23
+for idx in range left right 		24
+if values idx < pivot 		25
+values idx values storeidx = values storeidx values idx 		26
+storeidx += 1 		27
+values storeidx values right = values right values storeidx 		30
+return storeidx 		31
+if right > left 		33
+pivotidx = random randint left right 		35
+pivotidx = partition values left right pivotidx 		36
+_doquicksort values left pivotidx 		37
+_doquicksort values pivotidx + 1 right 		38
+return values 		40
+def quicksort mylist 		42
+return _doquicksort mylist 0 len mylist - 1 		43
+from guppy import hpy 		47
+h = hpy 		48
+if len sys argv != 2 		50
+sys exit usage: find_missing_int filename 		51
+infile = open sys argv 1 		53
+lines = infile readlines 		54
+list = list 		55
+t = time clock 		59
+for l in lines 		61
+number = l split 		62
+list append int number 0 		63
+t = time clock - t 		65
+print Time taken to build list: t  seconds 		66
+list_length = len list 		68
+max_int = list_length + 1 		69
+test_value = max_int + 1 		70
+t = time clock 		73
+quicksort list 		75
+t = time clock - t 		78
+print Time taken to sort list: t  seconds 		79
+t = time clock 		82
+pointer_position = 0 		84
+if list_length % 2 == 0 		86
+tries = list_length / 2 		87
+else 		88
+tries = list_length - 1 / 2 		89
+for item in xrange tries 		93
+if list item + list - item + 1 > test_value 		94
+missing_value = 1 + item 		95
+break 		96
+elif list item + list - item + 1 < test_value 		97
+missing_value = max_int - item 		98
+break 		99
+else 		100
+missing_value = max_int + 1 / 2 		101
+t = time clock - t 		103
+print Time taken to find missing number: missing_value is t  seconds. 		104
+print h heap 		105
+infile close 		108

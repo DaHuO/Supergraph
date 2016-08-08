@@ -1,0 +1,2 @@
+down_one_round players new_players = for player in players 		3 15
+rps_sort new_answer new_answer new_answer 4 while group_size <= len answer = for i in range 		17 36

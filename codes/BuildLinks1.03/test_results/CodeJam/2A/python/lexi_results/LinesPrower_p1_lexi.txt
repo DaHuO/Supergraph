@@ -1,0 +1,62 @@
+import io sys 		1
+import datetime 		2
+fin = None 		4
+def solve 		6
+n r p s = nums 		7
+f = R S S P P R 		8
+def build lev c 		9
+if lev == 0 		10
+return c 		11
+a = build lev - 1 c 		12
+b = build lev - 1 f c 		13
+if a < b 		14
+return a + b 		15
+return b + a 		16
+res = Z 		17
+def cnt s x 		19
+res = 0 		20
+for c in s 		21
+if c == x 		22
+res += 1 		23
+return res 		24
+for base in RPS 		26
+t = build n base 		27
+if cnt t R != r 		28
+continue 		29
+if cnt t P != p 		30
+continue 		31
+if cnt t S != s 		32
+continue 		33
+res = min res t 		34
+if res == Z 		35
+res = IMPOSSIBLE 		36
+return res 		37
+def main 		39
+fname = test.in 		40
+if len sys argv > 1 		41
+fname = sys argv 1 		42
+global fin 		43
+fin = io open fname 		44
+fout = io open fname + .out w 		45
+t0 = datetime datetime now 		46
+t = int fin readline 		47
+for i in range t 		49
+fout write Case #%d:  % i + 1 		50
+fout write %s\n % str solve 		51
+print Time = %s % str datetime datetime now - t0 		53
+fin close 		54
+fout close 		55
+def nums 		57
+return int x for x in fin readline split 		58
+def fnums 		59
+return float x for x in fin readline split 		60
+def num 		61
+return int fin readline 		62
+def sstrip 		63
+return fin readline strip 		64
+def strs 		65
+return fin readline split 		66
+def arrstr a sep =   		67
+return sep join str x for x in a 		68
+if __name__ == __main__ 		70
+main 		71

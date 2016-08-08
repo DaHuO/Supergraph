@@ -1,0 +1,37 @@
+players = 		43
+R RS 		44
+S SP 		45
+P RP 		46
+memo = 		49
+def gen_tourney n winner 		50
+if n winner in memo 		51
+return memo n winner 		52
+if n == 0 		53
+result = winner 		54
+else 		55
+t1 = gen_tourney n - 1 players winner 0 		56
+t2 = gen_tourney n - 1 players winner 1 		57
+if t1 < t2 		58
+result = t1 + t2 		59
+else 		60
+result = t2 + t1 		61
+memo n winner = result 		62
+return result 		63
+from collections import Counter 		65
+def solve n r p s 		66
+desired_hist = Counter R r P p S s 		67
+for winner in RPS 		68
+t = gen_tourney n winner 		69
+hist = Counter t 		70
+if all hist c == desired_hist c for c in RPS 		71
+return t 		72
+return IMPOSSIBLE 		73
+if __name__ == __main__ 		75
+import sys 		76
+fp = open sys argv 1 		77
+def readline 		78
+return fp readline strip 		79
+num_cases = int readline 		80
+for i in xrange num_cases 		81
+n r p s = int x for x in readline split 		82
+print Case #%d: %s % i + 1 solve n r p s 		83

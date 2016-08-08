@@ -1,0 +1,2 @@
+def solve N R P S n r p s = N R P S winner = None while True if n == 0 if r == 1 		22 58
+def f winner n if n == 0 if winner == 		4 19

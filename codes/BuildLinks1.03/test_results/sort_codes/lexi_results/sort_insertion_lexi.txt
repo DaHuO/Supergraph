@@ -1,0 +1,33 @@
+import fileinput 		1
+from timer import Timer 		2
+l = 		4
+for i in fileinput input 		5
+l append int i 		6
+def insertion l 		8
+for i in xrange 1 len l 		9
+j = i 		10
+while j > 0 and l j - 1 > l j 		11
+l j - 1 l j = l j l j - 1 		12
+j = j - 1 		13
+return l 		14
+def insertion_n_mem l 		16
+l_sorted = 		17
+for i in l 		18
+for x in xrange len l 		19
+try 		20
+if i < l_sorted x 		21
+l_sorted insert x i 		22
+break 		23
+except IndexError 		24
+l_sorted append i 		25
+break 		26
+l = l_sorted 		27
+in_place = True 		29
+with Timer as t 		30
+if in_place 		31
+l = insertion l 		32
+else 		33
+l = insertion_n_mem l 		34
+print l 		36
+print List length: %i % len l 		37
+print Sort time: %.05fs % t interval 		38

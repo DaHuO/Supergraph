@@ -1,0 +1,8 @@
+def check seq res = seq while 		47 54
+def winner a b if 		40 45
+def new_seq 		4 8
+char_seq seq chars 		22 26
+final_seq n res 		10 14
+def counts seq 		16 20
+final_seq cou cou char_seq cou char_seq cou char_seq sort_seq input split seq = n = counts 		57 79
+sort_seq sort_seq sort_seq len seq == 1 		28 38

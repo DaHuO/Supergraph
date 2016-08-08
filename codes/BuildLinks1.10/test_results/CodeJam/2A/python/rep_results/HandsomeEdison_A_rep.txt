@@ -1,0 +1,2 @@
+resort resort resort = len ans if n == 		43 55
+Fuck! solve N R P S if R < 0 or P < 0 or S < 0 return IMPOSSIBLE - 1 if N == 0 		6 41

@@ -1,0 +1,2 @@
+permute lvl global L L2 N global slist slist2 = while len 		3 16
+pcount rcount scount pcount rcount rcount scount scount pcount scount pcount rcount 0 = 0 for i in L 		18 52

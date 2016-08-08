@@ -1,0 +1,67 @@
+import sys 		3
+import numpy as np 		4
+if len sys argv != 2 		6
+print usage: ./a.py <input_file_name> 		7
+exit 		8
+input_file_name = sys argv 1 		10
+if input_file_name - 3 == .in 		11
+output_file_name = input_file_name - 3 + .out 		12
+else 		13
+output_file_name = input_file_name + .out 		14
+def solve R P S 		16
+if R + P + S == 1 		17
+if R == 1 		18
+return R 		19
+elif P == 1 		20
+return P 		21
+elif S == 1 		22
+return S 		23
+a = P + R - S 		24
+b = R + S - P 		25
+c = P + S - R 		26
+if a % 2 != 0 or b % 2 != 0 or c % 2 != 0 		27
+return IMPOSSIBLE 		28
+x = a / 2 		29
+y = b / 2 		30
+z = c / 2 		31
+if x < 0 or y < 0 or z < 0 		32
+return IMPOSSIBLE 		33
+r = solve R - x P - z S - y 		34
+if r == IMPOSSIBLE 		35
+return IMPOSSIBLE 		36
+ret =  		37
+for c in r 		38
+if c == R 		39
+ret += RS 		40
+elif c == P 		41
+ret += PR 		42
+elif c == S 		43
+ret += PS 		44
+return ret 		45
+def sort_result s 		47
+if s == IMPOSSIBLE 		48
+return s 		49
+if len s == 1 		50
+return s 		51
+a = s len s / 2 		52
+b = s len s / 2 		53
+x = sort_result a 		54
+y = sort_result b 		55
+if x < y 		56
+return x + y 		57
+else 		58
+return y + x 		59
+results = 		61
+with open input_file_name r as f 		62
+T = int f readline 		63
+for i in xrange T 		64
+line = f readline 		65
+N R P S = int x for x in line split   		66
+ret = solve R P S 		67
+ret = sort_result ret 		68
+results append ret 		69
+with open output_file_name w as f 		71
+for i in range len results 		72
+output_string = Case #%d: %s\n % i + 1 results i 		73
+print output_string - 1 		74
+f write output_string 		75

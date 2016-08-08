@@ -1,0 +1,14 @@
+8 - 11 links:
+insertionsort	:	3 - 6
+quick_sort	:	1 - 4
+heapsort	:	3 - 6
+selectionsort	:	3 - 6
+bubblesort	:	3 - 6
+quicksort	:	3 - 6
+
+81 - 115 links:
+sortable	:	65 - 81
+
+23 - 65 links:
+smoothsort	:	61 - 98
+

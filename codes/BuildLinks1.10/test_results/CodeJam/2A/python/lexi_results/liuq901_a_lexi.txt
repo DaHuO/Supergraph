@@ -1,0 +1,2 @@
+def check n winner if n == 0 return winner other = calc winner l = check n - 1 winner r = check n - 1 calc winner if l < r return l + r else return r + l 		17 26
+def calc winner if winner == R return S if winner == S return P if winner == P return R assert False 		8 15

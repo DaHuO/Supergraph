@@ -1,0 +1,2 @@
+def next a b c return a + b b + c a + c 		5 6
+def prev a b c return a + c - b / 2 a + b - c / 2 - a + b + c / 2 		8 9

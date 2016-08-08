@@ -1,0 +1,20 @@
+from collections import defaultdict 		5
+def main word1 word2 		8
+counts = defaultdict int 		9
+for char in word2 		10
+counts char += 1 		11
+output = list 		12
+for char in word1 		14
+if char in counts 		15
+for x in range counts char 		16
+output append char 		17
+return  join output 		18
+if __name__ == __main__ 		22
+word1 word2 = apetxgriubncvl angela 		23
+print main word1 word2 		24
+word1 word2 = apetxgriubncvl  		26
+print main word1 word2 		27
+word1 word2 = apetxgriubncvl xxxx 		29
+print main word1 word2 		30
+word1 word2 = apetxgriubncvl ts 		32
+print main word1 word2 		33

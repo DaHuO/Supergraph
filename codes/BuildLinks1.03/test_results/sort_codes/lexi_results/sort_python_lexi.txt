@@ -1,0 +1,13 @@
+import fileinput 		1
+from random import shuffle 		2
+from timer import Timer 		3
+l = 		5
+for i in fileinput input 		6
+l append int i 		7
+def sort_python l 		9
+return sorted l 		10
+with Timer as t 		12
+l = sort_python l 		13
+print l 		15
+print List length: %i % len l 		16
+print Sort time: %.05fs % t interval 		17

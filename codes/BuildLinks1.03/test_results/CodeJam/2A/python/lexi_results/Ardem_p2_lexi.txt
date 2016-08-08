@@ -1,0 +1,39 @@
+fin = open B.in r 		1
+fout = open file.out w 		2
+n = fin readline 		3
+chars = P R S 		4
+cache = 		5
+def dp n vals 		6
+if vals 0 vals 1 vals 2 in cache 		8
+return cache vals 0 vals 1 vals 2 		9
+out =  		10
+if sum vals <= 2 		11
+for i v in enumerate vals 		12
+if v == 1 		13
+out += chars i 		14
+return out 		15
+greater = map lambda x 0 if x < 2 ** n / 3. else 1 vals 		16
+if sum greater == 2 		18
+for i v in enumerate greater 		19
+if v == 1 		20
+base = max vals - 1 / 2 		21
+temp = base base base 		22
+temp i += 1 		23
+out += dp n - 1 temp 		25
+else 		26
+for i v in enumerate greater - 1 		27
+if v == 0 		28
+base = max vals / 2 		29
+temp = base base base 		30
+temp 2 - i -= 1 		31
+out += dp n - 1 temp 		33
+cache vals 0 vals 1 vals 2 = out 		34
+return out 		35
+for l in range int n 		38
+n r p s = map int fin readline split 		39
+if max map lambda x abs 2 ** n / 3. - x p r s > 1 		41
+fout write Case #%d: IMPOSSIBLE\n % l + 1 		42
+else 		43
+fout write Case #%d: %s\n % l + 1 dp n p r s 		44
+fin close 		46
+fout close 		47

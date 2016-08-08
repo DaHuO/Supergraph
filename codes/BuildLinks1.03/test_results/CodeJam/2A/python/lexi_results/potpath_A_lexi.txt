@@ -1,0 +1,40 @@
+n = 		1
+P PR R 		2
+S PS P 		3
+R RS S 		4
+T = int input 		7
+for t in range 1 T + 1 		8
+N R P S = map int input split 		9
+anss = IMPOSSIBLE 		10
+for last in PRS 		11
+counter = 		12
+P 0 		13
+R 0 		14
+S 0 		15
+counter last += 1 		17
+ans = last 		18
+while counter P <= P and counter R <= R and counter S <= S and not counter P == P and counter R == R and counter S == S 		19
+next =  		20
+for c in ans 		21
+nn l = n c 		22
+next += nn 		23
+counter l += 1 		24
+ans = next 		25
+if counter P == P and counter R == R and counter S == S 		27
+anss = ans 		28
+break 		29
+if anss != IMPOSSIBLE 		31
+a = 2 		32
+while a < len anss 		33
+b = a * 2 		34
+next =  		35
+for i in range 0 len anss b 		36
+q = anss i i + a 		37
+w = anss i + a i + b 		38
+if q < w 		39
+next += q + w 		40
+else 		41
+next += w + q 		42
+anss = next 		44
+a *= 2 		45
+print Case #%d: %s % t anss 		46

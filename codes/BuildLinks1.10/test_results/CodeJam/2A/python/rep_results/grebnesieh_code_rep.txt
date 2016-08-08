@@ -1,0 +1,1 @@
+def solve X n if count X == - 1 return 		1 14

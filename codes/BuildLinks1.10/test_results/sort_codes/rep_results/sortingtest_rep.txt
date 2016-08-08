@@ -1,0 +1,4 @@
+test_number SORTERS l = 		16 19
+test_empty SORTERS 		8 10
+test_string ailwefawlILWESFBNSLIEFWIWFleifwnslifenFLIWENLISNqrwpoueitrwezuiopgsdfjhklöaljkfyvmcx SORTERS 		21 24
+test_one SORTERS 		12 14

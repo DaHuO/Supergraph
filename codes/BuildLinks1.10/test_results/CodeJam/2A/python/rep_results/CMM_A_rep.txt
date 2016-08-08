@@ -1,0 +1,4 @@
+b3 n t y 		30 36
+def test s while len s > 1 sp 		20 28
+b3 solve r p s f = z t = r + 		39 49
+def win a b if a == b return - 1 		2 18

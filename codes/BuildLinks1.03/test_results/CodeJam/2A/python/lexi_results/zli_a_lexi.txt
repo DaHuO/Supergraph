@@ -1,0 +1,34 @@
+import numpy 		1
+from numpy import array as ar 		2
+import sys 		3
+from collections import Counter 		4
+def xl l 		10
+return xrange len l 		11
+def next_line 		13
+return input_file readline rstrip 		14
+rewrite = r rs p pr s ps 		16
+rps = 		19
+rps append p p r r s s 		22
+for i in range 13 		23
+new = 		24
+for c in rewrite 		25
+substr = rps - 1 c2 for c2 in rewrite c 		26
+if substr 0 < substr 1 		27
+new c = substr 0 + substr 1 		28
+else 		29
+new c = substr 1 + substr 0 		30
+rps append new 		41
+input_file = open sys argv 1 		43
+for case in range 1 int next_line + 1 		44
+print Case #%s: % case 		45
+N R P S = map int next_line split 		46
+counts = r R p P s S 		47
+for c in rps 		48
+if counts c == 0 		49
+del counts c 		50
+for s in rps N values 		52
+if dict Counter s == counts 		53
+print s upper 		54
+break 		55
+else 		56
+print IMPOSSIBLE 		57

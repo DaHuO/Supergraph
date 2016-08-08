@@ -1,0 +1,43 @@
+cases = int input 		3
+allowed = pr ps rs 		5
+winner = 		6
+pr p 		7
+ps s 		8
+rp p 		9
+rs r 		10
+sp s 		11
+sr r 		12
+def can plrs pair 		15
+return plrs pair 0 > 0 and plrs pair 1 > 0 		16
+def use plrs pair 		18
+new_plrs = dict plrs 		19
+for x in pair 		20
+new_plrs x -= 1 		21
+return new_plrs 		22
+def tree plrs l 		24
+if sum plrs values == 0 		25
+return l if check l else None 		26
+for pair in allowed 		28
+if can plrs pair 		29
+if len l % 2 == 1 and l - 1 == pair 		30
+continue 		31
+appended = list l 		32
+appended append pair 		33
+r = tree use plrs pair appended 		34
+if r 		35
+return r 		36
+return None 		37
+def check pairs 		39
+try 		41
+x = winner p for p in pairs 		42
+if len x == 1 		43
+return True 		44
+new = x 2 * i + x 2 * i + 1 for i in range len x // 2 		45
+return check new 		46
+except KeyError 		47
+return False 		48
+for T in range 1 cases + 1 		52
+N R P S = int x for x in input split 		53
+players = p P r R s S 		54
+r = tree players 		56
+print Case #{}: {} format T  join r upper if r else IMPOSSIBLE 		57

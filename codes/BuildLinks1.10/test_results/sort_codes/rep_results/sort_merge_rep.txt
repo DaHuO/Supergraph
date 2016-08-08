@@ -1,0 +1,2 @@
+sort_merge sort_merge sort_merge len l <= 1 return l middle 		23 36
+def merge a b l = while len a > 0 or 		9 21

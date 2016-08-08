@@ -1,0 +1,3 @@
+def makeTree top n if n == 0 return top else if top == P other = R elif top == R other = S elif top == S other = P else assert False one = makeTree top n - 1 two = makeTree other n - 1 if one < two return one + two else return two + one 		41 58
+def propCounts counts n newcounts = tot = 0 for i in range n - 1 - 1 if i in counts tot += counts i if tot > 0 and i > 0 newcounts i - 1 = tot return newcounts 		5 13
+def getCounts n if n in memo return memo n cs = 0 0 0 css = cur = 0 counts = for i in range n + 1 assert i <= n counts i = 1 while counts cs cur % 3 += counts 0 cur += 1 css append counts 0 counts = propCounts counts n assert len css == n + 1 assert len cs == 3 memo n = tuple cs return memo n 		17 39

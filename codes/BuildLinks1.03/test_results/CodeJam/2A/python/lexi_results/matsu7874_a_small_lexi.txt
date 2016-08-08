@@ -1,0 +1,37 @@
+import itertools 		1
+TESTCASE = int input 		2
+def sim hs 		4
+r = hs 		5
+nr = 		6
+while len r + len nr > 1 		7
+a = r pop 		8
+b = r pop 		9
+if a == b 		10
+return False 		11
+if P R S index a - P R S index b + 3 % 3 == 1 		12
+nr append a 		13
+else 		14
+nr append b 		15
+if len r == 0 		16
+r = nr 		17
+nr = 		18
+return True 		19
+for test in range TESTCASE 		22
+n r p s = map int input split 		23
+hs = 		24
+cand = 		25
+for i in range p 		26
+hs append P 		27
+for i in range r 		28
+hs append R 		29
+for i in range s 		30
+hs append S 		31
+ans = IMPOSSIBLE 		32
+for h in itertools permutations hs 2 ** n 		33
+for i in range n 		34
+if sim list h 		35
+cand append  join h 		36
+if cand 		37
+cand sort 		38
+ans = cand 0 		39
+print Case # + str test + 1 + : ans 		41

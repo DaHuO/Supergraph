@@ -1,0 +1,4 @@
+pattern pattern N R 		44 48
+generateAll {1} global patterns T = input 		50 56
+def generate R P S if R + P + S == 1 if R == 1 return R elif P == 1 return 		22 42
+generateAll thisOne thisOne thisOne thisOne canbe patterns append 1 0 0 for i 		5 19

@@ -1,0 +1,2 @@
+def sort_result s if s == IMPOSSIBLE return s if 		47 59
+def solve R P S if R + P + S == 1 if R == 1 return R elif P == 1 return P elif S == 1 		16 45

@@ -1,0 +1,20 @@
+def solve 		1
+n r p s = map int raw_input split 		2
+xt = R RS P PR S PS 		3
+res =  		4
+for c in PRS 		5
+l = c 		6
+for j in xrange n 		7
+l = xt x for x in l 		8
+while len l > 1 		9
+l = l k + l k + 1 if l k < l k + 1 else l k + 1 + l k for k in xrange 0 len l 2 		10
+l = l 0 		11
+if l count R == r and l count P == p and l count S == s 		12
+if not res or res > l 		13
+res = l 		14
+if res 		15
+return res 		16
+return IMPOSSIBLE 		17
+T = int raw_input 		19
+for t in xrange T 		20
+print Case #%d: % t + 1 solve 		21

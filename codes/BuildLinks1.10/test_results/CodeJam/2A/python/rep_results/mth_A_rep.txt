@@ -1,0 +1,5 @@
+def parse inp n 		8 10
+setrecursionlimit RECURSION_LIMIT soft hard getrlimit RLIMIT_AS setrlimit RLIMIT_AS MEM_LIMIT_GB 1024 hard FILE_NAME_BASE NUM_PROCESSES runners apply signal SIGINT SIG_IGN signal NUM_PROCESSES signal SIGINT SIG_IGN runners apply_async caseFmt progressFmt [%s/%s] %%s\n 		55 83
+participants participants deadlock r p s = 1 << n def rec lineup r p s if len lineup == if not 		29 53
+deadlock lineup while len lineup > 1 winners = for a b in zip lineup 2 		12 27
+participants deadlock lineup r p s if len lineup == if not lineup yield join lineup if 		32 50

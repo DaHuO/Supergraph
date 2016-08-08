@@ -1,0 +1,12 @@
+46 - 65 links:
+pysort	:	379 - 394
+
+197 - 223 links:
+Arraysort	:	69 - 88
+
+11 - 43 links:
+sort_insertion	:	16 - 27
+
+143 - 167 links:
+sortalg	:	42 - 63
+

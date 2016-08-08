@@ -1,0 +1,3 @@
+compute get_first_from_winner = 0 0 0 		63 72
+asum asum asum = sum a if == 1 if a 0 == 1 		11 28
+lru_cache maxsize get_first_from_winner get_first_from_winner get_first_from_winner next1 almost_best next2 almost_best next1 next2 winner if rounds == 1 if winner == 2 return lookup 0 + 		30 61

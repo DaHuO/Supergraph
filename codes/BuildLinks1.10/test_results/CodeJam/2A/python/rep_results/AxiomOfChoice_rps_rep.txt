@@ -1,0 +1,2 @@
+def gen for i in range N solns i + 1 		10 16
+def main gen for 		19 23

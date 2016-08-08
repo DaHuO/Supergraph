@@ -1,0 +1,44 @@
+import sys 		1
+def get_final s N 		4
+for i in xrange N 		5
+next =  		6
+for j in s 		7
+if j == R 		8
+next += RS 		9
+elif j == S 		10
+next += PS 		11
+elif j == P 		12
+next += PR 		13
+s = next 		14
+assert len s == 2 ** N 		15
+return sort_l s N 		16
+def sort_l s N 		18
+for i in xrange 0 N 		19
+for j in xrange 0 len s 2 ** i + 1 		20
+substrA = s j j + 2 ** i 		21
+substrB = s j + 2 ** i j + 2 * 2 ** i 		22
+assert len substrA == len substrB 		23
+if substrA > substrB 		24
+s = s j + substrB + substrA + s j + 2 * 2 ** i 		25
+return s 		26
+answers = dict 		28
+for N in xrange 1 13 + 1 		29
+for s in R P S 		30
+foo = get_final s N 		31
+R = foo count R 		32
+P = foo count P 		33
+S = foo count S 		34
+if R P S in answers 		35
+if foo < answers R P S 		36
+answers R P S = foo 		37
+else 		38
+answers R P S = foo 		39
+with open sys argv 1 as f 		41
+lines = f readlines 		42
+T = int lines 0 10 		44
+for tt l in enumerate lines 1 		45
+N R P S = tuple map int l strip split   		46
+if R P S in answers 		47
+print Case #%d: % tt + 1 answers R P S 		48
+else 		49
+print Case #%d: % tt + 1 IMPOSSIBLE 		50

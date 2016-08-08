@@ -1,0 +1,149 @@
+__author__ = Salmelu 		5
+import random 		7
+import time 		8
+import heapq 		9
+def shell_sort input_data gap_sequence = None verbose = False 		11
+tstart = time clock 		18
+if not gap_sequence or len gap_sequence < 1 or gap_sequence - 1 != 1 		19
+gap_sequence = 701 301 132 57 23 10 4 1 		20
+n = 701 		21
+while n < len input_data 		22
+n = round n * 2.25 		23
+gap_sequence insert 0 n 		24
+data = input_data copy 		26
+t = 0 		27
+for gap in gap_sequence 		29
+if gap >= len data continue 		30
+for i in range gap len data 		31
+t = data i 		32
+j = i 		33
+while j >= gap and data j - gap >= t 		34
+data j = data j - gap 		35
+j -= gap 		36
+data j = t 		37
+tend = time clock 		39
+if verbose 		41
+print Shell sort needed tend - tstart seconds to sort the data of size  + str len data 		42
+return data 		43
+def heap_sort input_data verbose = False 		46
+tstart = time clock 		51
+data = input_data copy 		53
+length = len input_data 		55
+heapq heapify data 		56
+datan = 		57
+for i in range length 		59
+datan append heapq heappop data 		60
+tend = time clock 		62
+if verbose 		63
+print Heap sort needed tend - tstart seconds to sort the data of size  + str len datan 		64
+return datan 		65
+def _quick_sort_in input_data 		68
+if input_data == 		72
+return 		73
+else 		74
+pivot = input_data 0 		75
+first = _quick_sort_in x for x in input_data 1 if x < pivot 		76
+second = _quick_sort_in x for x in input_data 1 if x > pivot 		77
+return first + pivot + second 		78
+def quick_sort input_data verbose = False 		81
+tstart = time clock 		87
+data = input_data copy 		88
+_quick_sort_in data 		90
+tend = time clock 		92
+if verbose 		93
+print Quick sort needed tend - tstart seconds to sort the data of size  + str len data 		94
+return data 		95
+def merge_sort input_data verbose = False 		98
+tstart = time clock 		104
+data = input_data copy 		105
+data2 = data copy 		106
+i = 0 		108
+while 2 ** i < len input_data 		109
+s1 = 0 		110
+e1 = s1 + 2 ** i - 1 		111
+s2 = e1 + 1 		112
+e2 = s2 + 2 ** i - 1 		113
+j = 0 		114
+while s2 < len input_data 		115
+if e2 >= len input_data 		116
+e2 = len input_data - 1 		117
+while s1 <= e1 or s2 <= e2 		118
+if s2 > e2 		119
+data2 j = data s1 		120
+s1 += 1 		121
+elif s1 <= e1 and data s1 < data s2 		122
+data2 j = data s1 		123
+s1 += 1 		124
+else 		125
+data2 j = data s2 		126
+s2 += 1 		127
+j += 1 		128
+s1 = e2 + 1 		129
+e1 = s1 + 2 ** i - 1 		130
+s2 = e1 + 1 		131
+e2 = s2 + 2 ** i - 1 		132
+data = data2 		133
+data2 = data copy 		134
+i += 1 		135
+tend = time clock 		137
+if verbose 		138
+print Merge sort needed tend - tstart seconds to sort the data of size  + str len data 		139
+return data 		140
+def select_sort input_data verbose = False 		143
+tstart = time clock 		149
+data = input_data copy 		150
+q = 0 		152
+min_index = 0 		153
+for i in range len data 		155
+min_index = i 		156
+for j in range i len data 		157
+if data j < data min_index 		158
+min_index = j 		159
+q = data i 		160
+data i = data min_index 		161
+data min_index = q 		162
+tend = time clock 		164
+if verbose 		165
+print Select sort needed tend - tstart seconds to sort the data of size  + str len data 		166
+return data 		167
+def bubble_sort input_data verbose = False 		170
+tstart = time clock 		176
+data = input_data copy 		177
+q = 0 		179
+i = len data - 1 		180
+while i > 0 		181
+j = 0 		182
+while j < i 		183
+if data j > data j + 1 		184
+q = data j 		185
+data j = data j + 1 		186
+data j + 1 = q 		187
+j += 1 		188
+i -= 1 		189
+tend = time clock 		191
+if verbose 		192
+print Bubble sort needed tend - tstart seconds to sort the data of size  + str len data 		193
+return data 		194
+def insert_sort input_data verbose = False 		197
+tstart = time clock 		203
+data = input_data copy 		204
+p = 0 		206
+q = 0 		207
+for i in range 1 len data 		209
+p = i - 1 		210
+q = data i 		211
+while p >= 0 		212
+if data p > q 		213
+data p + 1 = data p 		214
+p -= 1 		215
+else 		216
+break 		217
+data p + 1 = q 		218
+tend = time clock 		220
+if verbose 		221
+print Insert sort needed tend - tstart seconds to sort the data of size  + str len data 		222
+return data 		223
+def random_data size 		226
+data = list range size 		230
+random shuffle data 		231
+return data 		232

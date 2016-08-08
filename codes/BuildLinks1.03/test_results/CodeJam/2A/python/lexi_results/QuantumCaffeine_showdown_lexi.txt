@@ -1,0 +1,49 @@
+import sys 		3
+def cases inputFile 		5
+with open inputFile r as f 		6
+numCases = int f readline 		7
+for _ in range numCases 		8
+yield int x for x in f readline split 		9
+beats = R S P R S P 		11
+def build winner n 		13
+current = winner 		14
+results = 		15
+for _ in range n 		16
+results append current 		17
+newCurrent =  		18
+for player in current 		19
+newCurrent += player + beats player 		20
+current = newCurrent 		21
+results append current 		22
+return results 		23
+def sortBuild results 		25
+for row in range len results 		26
+r = results row 		27
+group = 1 		28
+while group <= len r / 2 		29
+for p in xrange 0 len r 2 * group 		30
+bit1 = r p p + group 		31
+bit2 = r p + group p + 2 * group 		32
+if bit2 < bit1 		33
+r = r p + bit2 + bit1 + r p + 2 * group 		34
+group *= 2 		35
+results row = r 		36
+precalc = 		38
+for winner in R P S 		39
+t = build winner 12 		40
+sortBuild t 		41
+precalc winner = t 		42
+def solve n r p s 		44
+ans =  		45
+for winner in R P S 		46
+test = precalc winner n 		47
+if test count R == r and test count P == p and test count S == s 		48
+if ans ==  or test < ans 		49
+ans = test 		50
+if ans !=  		51
+return ans 		52
+else 		53
+return IMPOSSIBLE 		54
+with open sys argv 2 w as f 		56
+for num data in enumerate cases sys argv 1 		57
+f write Case #%d: %s\n % num + 1 solve * data 		58

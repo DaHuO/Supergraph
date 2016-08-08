@@ -1,0 +1,14 @@
+18 - 31 links:
+cwillmore_solve	:	50 - 63
+
+3 - 4 links:
+fandersen_GCJ	:	31 - 32
+fandersen_GCJ	:	31 - 32
+
+6 - 7 links:
+fandersen_GCJ	:	22 - 23
+fandersen_GCJ	:	31 - 32
+
+9 - 12 links:
+fandersen_GCJ	:	22 - 23
+

@@ -1,0 +1,1217 @@
+setrecursionlimit	:	eMBe_A  147 152	mth_A  55 83	
+gv	:	AJ721_Round2-A  59 70	AJ721_Round2-A  59 70	AJ721_Round2-A  59 70	AJ721_Round2-A  59 70	
+all	:	codespam_q1  19 32	programcaicai_A  6 40	cwillmore_solve  66 73	
+code	:	Zark_CJ201620A  15 31	Zark_CJ201620A  15 31	
+:(	:	Wertle_A  42 102	
+u0	:	alex1770_rps  5 27	alex1770_rps  5 27	alex1770_rps  5 27	alex1770_rps  5 27	
+iterator	:	Ha.sH_solver  80 85	Ha.sH_solver  80 85	
+#{nc}:	:	tanriol_A  38 44	
+skip	:	dpforest_A  18 43	dpforest_A  18 43	
+Sl	:	liutianren_a  25 33	liutianren_a  25 33	liutianren_a  25 33	liutianren_a  25 33	
+dynamic	:	Ha.sH_solver  88 109	
+do_parse	:	romd_RPS  57 58	romd_RPS  60 76	
+manager	:	fandersen_GCJ  171 204	fandersen_GCJ  171 204	
+sort_l	:	Salls_a  18 26	Salls_a  4 16	
+per	:	changhai_small  29 34	changhai_small  29 34	changhai_small  29 34	
+sim	:	matsu7874_a_small  4 19	
+tournoi_optimal_S	:	alpha3_Script  15 29	alpha3_Script  15 29	alpha3_Script  15 29	alpha3_Script  15 29	
+query	:	KennyCz_prob1  32 41	KennyCz_prob1  32 41	KennyCz_prob1  32 41	KennyCz_prob1  32 41	
+tournoi_optimal_P	:	alpha3_Script  15 29	alpha3_Script  15 29	alpha3_Script  15 29	alpha3_Script  15 29	
+rdstrs	:	rompel_rps  9 9	
+findall	:	codespam_q1  19 32	
+FILE_NAME_BASE	:	mth_A  55 83	mth_A  55 83	
+timing_message	:	Ha.sH_solver  121 141	Ha.sH_solver  121 141	
+chain	:	onepiecehoki_a  8 24	onepiecehoki_a  16 18	
+solve2	:	matwetu_a  47 53	NekoChen_a  30 51	
+case_number	:	yichen_solution  57 67	yichen_solution  57 67	yichen_solution  57 67	
+-l	:	fandersen_GCJ  109 142	
+SPR	:	perel_a  8 38	perel_a  8 38	
+default.	:	Ha.sH_solver  17 46	
+list_to_int	:	IdoLivneh_A  96 97	IdoLivneh_A  249 257	
+get_next_level	:	onepiecehoki_a  8 24	onepiecehoki_a  8 24	onepiecehoki_a  16 18	
+tn	:	t93_main  1 12	t93_main  1 12	
+to	:	Ha.sH_solver  17 46	fandersen_GCJ  206 224	
+init	:	jdoerrie_main  70 74	jdoerrie_main  59 67	xwu_A  23 31	
+-v	:	fandersen_GCJ  109 142	
+get_max_array_on_index	:	IdoLivneh_A  112 123	
+swap	:	rishig_a  3 6	rishig_a  8 12	LiranR_showdown2  5 10	LiranR_showdown2  13 21	
+-s	:	fandersen_GCJ  109 142	
+oldPC	:	lostrainbow_A  10 34	lostrainbow_A  10 34	lostrainbow_A  10 34	
+Not	:	fandersen_GCJ  206 224	
+lstrip	:	tpablo_main-large  35 41	
+must	:	bigOnion_rps  87 113	
+tb	:	bigOnion_rps  138 142	
+isspace	:	eMBe_A  53 63	eMBe_A  65 74	
+Reader	:	tpablo_main-large  147 166	
+pairs2	:	ruslanbes_a  25 78	ruslanbes_a  25 78	ruslanbes_a  25 78	
+pairs1	:	ruslanbes_a  25 78	ruslanbes_a  25 78	ruslanbes_a  25 78	
+outputFile	:	Veltz_A  80 100	Veltz_A  80 100	
+__exit__	:	bigOnion_rps  138 142	
+play_game	:	vgopal_a  7 21	vgopal_a  7 21	vgopal_a  24 34	
+S_new	:	RobKing_A1  3 14	RobKing_A1  3 14	
+process_pool	:	Fedux_rock  83 103	Fedux_rock  83 103	
+tree1	:	narri_A  18 31	narri_A  18 31	narri_A  18 31	narri_A  18 31	
+sort_tournament	:	smapson_A  1 11	smapson_A  1 11	smapson_A  1 11	
+parseTestCase	:	Yaksha_A  38 39	Yaksha_A  18 31	
+enableDebug	:	Wertle_A  7 9	
+merge	:	tpablo_main-large  193 206	tpablo_main-large  181 190	
+Fuck!	:	HandsomeEdison_A  6 41	
+count_it	:	bigOnion_rps  72 83	
+src.zip	:	lackofcheese_src_codejam_io  90 113	
+test_results	:	Fedux_rock  83 103	Fedux_rock  83 103	Fedux_rock  83 103	
+9999999	:	Fedux_rock  83 103	
+{data}\n	:	tanriol_A  38 44	
+isdir	:	tpablo_main-large  147 166	
+WW	:	tpablo_main-large  68 97	tpablo_main-large  68 97	tpablo_main-large  68 97	tpablo_main-large  68 97	
+newres	:	mxx_A  38 74	mxx_A  38 74	mxx_A  38 74	
+Testing	:	fandersen_GCJ  109 142	
+t0	:	LinesPrower_p1  39 55	LinesPrower_p1  39 55	
+large	:	fandersen_GCJ  109 142	fandersen_GCJ  109 142	
+item	:	KennyCz_prob1  32 41	KennyCz_prob1  32 41	KennyCz_prob1  32 41	
+Case:	:	feketrob_main  35 50	
+--jobs	:	tpablo_main-large  209 220	
+PRPS	:	romd_RPS  8 19	elcapovarela_showdown  6 83	klolos_jam  25 51	zhhthu11_p1  3 16	
+dists	:	chrisx_A  105 111	chrisx_A  105 111	chrisx_A  105 111	
+small	:	mcpower_a  15 49	mcpower_a  15 49	mcpower_a  15 49	fandersen_GCJ  109 142	
+solve_bf	:	FatAlex_a  48 50	FatAlex_a  107 108	
+do_case	:	romd_RPS  5 7	romd_RPS  60 76	mcpower_a  1 11	AJ721_Round2-A  59 70	
+__output_file	:	bigOnion_rps  132 136	bigOnion_rps  155 157	bigOnion_rps  123 130	bigOnion_rps  138 142	
+getsourcefile	:	lackofcheese_src_codejam_io  90 113	
+upper	:	Yaksha_A  41 60	Terence_A  2 14	PhilippSinitsyn_problem  51 61	
+0110	:	romd_RPS  20 55	
+mn	:	stan_a  3 27	stan_a  3 27	stan_a  3 27	stan_a  3 27	
+small-attempt	:	fandersen_GCJ  109 142	
+P_new	:	RobKing_A1  3 14	RobKing_A1  3 14	
+sort_lineup	:	wilsonhsu_A  41 49	wilsonhsu_A  22 28	
+rps_sort	:	DAMF_make_legitimate_final_states  17 36	
+makeTournament	:	ChevalierMalFet_rps  9 38	ChevalierMalFet_rps  9 38	ChevalierMalFet_rps  9 38	
+expandlist	:	RobKing_A1  31 40	RobKing_A1  42 64	RobKing_A1  42 64	RobKing_A1  42 64	
+readfloat	:	mihaild_template  8 9	EricStansifer_common  18 19	
+precalculate	:	tanriol_A  32 33	tanriol_A  29 30	tanriol_A  64 66	
+%s.out	:	aklecram_solveA  8 28	
+go	:	milki_a  48 57	milki_a  26 34	
+rdline	:	rompel_rps  11 11	rompel_rps  8 8	
+oldRC	:	lostrainbow_A  10 34	lostrainbow_A  10 34	lostrainbow_A  10 34	
+addC	:	lostrainbow_A  7 8	lostrainbow_A  10 34	lostrainbow_A  10 34	lostrainbow_A  10 34	
+numDoing	:	fandersen_GCJ  171 204	fandersen_GCJ  171 204	fandersen_GCJ  171 204	fandersen_GCJ  171 204	
+zz	:	ppershing_large  33 46	ppershing_large  33 46	
+tournoi_optimal_R	:	alpha3_Script  15 29	alpha3_Script  15 29	alpha3_Script  15 29	alpha3_Script  15 29	
+--small	:	fandersen_GCJ  109 142	
+readArray	:	perel_a  42 48	perel_a  42 48	
+choices	:	AJ721_Round2-A  59 70	AJ721_Round2-A  18 57	AJ721_Round2-A  18 57	
+randint	:	Strikeskids_A  59 63	
+pre_process_it	:	bigOnion_rps  87 113	
+gl	:	kenneth.maples_showdown  52 57	kenneth.maples_showdown  52 57	kenneth.maples_showdown  10 11	
+Deleted	:	lackofcheese_src_codejam_io  90 113	
+read_str	:	dpforest_A  59 61	
+children	:	Strikeskids_A  15 22	Strikeskids_A  15 22	Strikeskids_A  24 27	
+getsol	:	lkj_a  10 22	lkj_a  24 32	
+seconds	:	chrisx_A  37 58	chrisx_A  37 58	
+Wrong	:	FatAlex_a  110 123	FatAlex_a  129 142	
+endOfWord	:	tpablo_main-large  35 41	
+read_int_list	:	dpforest_A  63 65	dpforest_A  18 43	
+run_game	:	bootandy_a  19 32	bootandy_a  35 49	
+Line	:	fandersen_GCJ  206 224	
+list_index_in_sorted_list	:	IdoLivneh_A  136 137	
+1011	:	romd_RPS  20 55	
+can	:	paramaciej_A  24 37	paramaciej_A  15 16	
+spec_sort	:	ScallopSky_main  8 20	ScallopSky_main  8 20	ScallopSky_main  8 20	
+GCJ	:	fandersen_GCJ  109 142	tpablo_main-large  209 220	
+time:%.02f	:	IdoLivneh_A  259 278	
+print_solution	:	elockhart_A  72 76	
+getcwd	:	bigOnion_rps  165 199	bigOnion_rps  165 199	
+RPSP	:	romd_RPS  8 19	
+read_case	:	elockhart_A  28 29	
+POSSIBLE	:	Tish_stage 2  127 158	
+sub_case	:	IdoLivneh_A  32 60	IdoLivneh_A  32 60	IdoLivneh_A  32 60	
+willfinish	:	Yaksha_A  41 60	Yaksha_A  62 77	
+#%s	:	aklecram_solveA  30 33	
+clean_results	:	tpablo_main-large  193 206	
+{0}.in	:	wilsonhsu_A  51 65	
+DEBUG	:	UberFarmer_A  8 10	
+2101	:	romd_RPS  20 55	
+all_perm	:	chrisx_A  29 34	chrisx_A  29 34	
+get_final	:	Salls_a  4 16	
+3:	:	UberFarmer_A  12 71	
+down_one_round	:	DAMF_make_legitimate_final_states  3 15	
+load_cases	:	FatAlex_a  110 123	FatAlex_a  18 24	FatAlex_a  92 97	
+to_state	:	jzj_A  43 53	jzj_A  16 25	
+items	:	kevinsogo_a  10 11	Yaksha_A  10 15	programcaicai_A  6 40	
+b'Case #{}:'	:	eMBe_A  82 85	
+make_archive	:	lackofcheese_src_codejam_io  90 113	lackofcheese_src_codejam_io  37 88	
+mx	:	stan_a  3 27	stan_a  3 27	stan_a  3 27	
+to_string	:	jzj_A  5 13	jzj_A  43 53	jzj_A  43 53	
+trial	:	CyberEwok_a2  1 15	CyberEwok_a2  1 15	
+_read_line_view	:	eMBe_A  29 34	eMBe_A  65 74	
+staticmethod	:	tanriol_A  57 62	
+rf	:	PhilippSinitsyn_problem  10 30	PhilippSinitsyn_problem  10 30	PhilippSinitsyn_problem  10 30	PhilippSinitsyn_problem  10 30	
+make_tree	:	narri_A  18 31	narri_A  18 31	narri_A  18 31	narri_A  33 47	
+tmpy	:	ppershing_large  33 46	ppershing_large  33 46	
+niz	:	Nin0_a  21 30	Nin0_a  21 30	
+-o	:	Ha.sH_solver  17 46	tpablo_main-large  209 220	
+forbidden_child	:	yingted_A  10 11	
+lineup1	:	wilsonhsu_A  30 36	wilsonhsu_A  30 36	wilsonhsu_A  30 36	
+lineup2	:	wilsonhsu_A  30 36	wilsonhsu_A  30 36	wilsonhsu_A  30 36	
+appended	:	paramaciej_A  24 37	paramaciej_A  24 37	paramaciej_A  24 37	
+shuffle	:	tpablo_main-large  193 206	
+A-output.out	:	ikicha_rock_paper_scissor  45 51	
+solved...	:	tpablo_main-large  169 178	
+prevs	:	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	
+layer	:	Vovani_Q1  7 36	farin_a  24 77	farin_a  24 77	farin_a  91 95	
+args,	:	EricStansifer_common  35 75	
+outcomes	:	FatAlex_a  88 91	FatAlex_a  88 91	FatAlex_a  92 97	FatAlex_a  92 97	
+WINNERS	:	lackofcheese_src_showdown  69 73	
+writeline	:	EricStansifer_common  29 30	
+SPPR	:	romd_RPS  8 19	
+checkCounter	:	unsneakyNinja_rps  29 33	unsneakyNinja_rps  45 58	unsneakyNinja_rps  45 58	
+Input	:	bigOnion_rps  165 199	bigOnion_rps  165 199	
+orderings	:	Uts_rps  25 35	
+gen_cases	:	FatAlex_a  125 127	FatAlex_a  129 142	
+rd1int	:	rompel_rps  11 11	rompel_rps  49 53	
+add_tuple	:	jcb_q1  14 15	
+use	:	Ha.sH_solver  17 46	paramaciej_A  24 37	paramaciej_A  18 22	
+remaking	:	lackofcheese_src_codejam_io  90 113	
+Creating	:	fandersen_GCJ  109 142	
+second_dig	:	chrisx_A  92 102	chrisx_A  92 102	
+give	:	wonstin_A  31 34	
+##\n	:	bigOnion_rps  150 153	
+two	:	gurtej.kanwar_A  41 58	gurtej.kanwar_A  41 58	gurtej.kanwar_A  41 58	gurtej.kanwar_A  41 58	
+make_mature	:	xenosoz.here_A  34 39	xenosoz.here_A  25 29	
+test_solutions_gen	:	FatAlex_a  129 142	
+call	:	tpablo_main-large  169 178	
+map_async	:	Fedux_rock  83 103	fandersen_GCJ  171 204	
+memory	:	gilesg_A  12 15	gilesg_A  12 15	gilesg_A  12 15	gilesg_A  9 11	
+msg	:	elockhart_A  72 76	elockhart_A  72 76	elockhart_A  72 76	
+makeTree	:	gurtej.kanwar_A  41 58	gurtej.kanwar_A  41 58	gurtej.kanwar_A  41 58	
+prev	:	pse1202_test  8 9	aklecram_solveA  36 43	aklecram_solveA  36 43	aklecram_solveA  36 43	
+prep	:	xwu_A  40 45	xwu_A  23 31	
+pres	:	PaLy_al  16 49	PaLy_al  16 49	PaLy_al  16 49	
+OUT	:	Ha.sH_solver  17 46	
+first_bracket	:	UberFarmer_A  105 125	UberFarmer_A  105 125	UberFarmer_A  105 125	
+#{:d}:	:	EricStansifer_common  32 33	
+rearrange	:	farin_a  79 88	farin_a  79 88	farin_a  79 88	farin_a  91 95	
+{:d}	:	EricStansifer_common  35 75	
+.pickle	:	bigOnion_rps  94 111	bigOnion_rps  87 113	
+started	:	bigOnion_rps  94 111	bigOnion_rps  94 111	bigOnion_rps  87 113	bigOnion_rps  87 113	
+outputs	:	bigOnion_rps  57 68	bigOnion_rps  58 67	bigOnion_rps  59 66	
+current_case	:	eMBe_A  82 85	eMBe_A  82 85	
+-r	:	tpablo_main-large  209 220	
+save_outcomes	:	FatAlex_a  88 91	FatAlex_a  92 97	
+casestr	:	ruslanbes_a  6 10	ruslanbes_a  6 10	
+c_p	:	milki_a  26 34	milki_a  26 34	
+runAlgorithm	:	mdippel_A  74 82	
+Sh	:	liutianren_a  25 33	liutianren_a  25 33	liutianren_a  25 33	liutianren_a  25 33	
+Sn	:	liutianren_a  7 23	liutianren_a  7 23	liutianren_a  7 23	
+tournament_for	:	Eric.W_main  11 15	Eric.W_main  22 26	
+twoValues	:	mrauen_A  11 28	mrauen_A  11 28	mrauen_A  11 28	
+hold	:	dpforest_A  18 43	dpforest_A  18 43	
+fnums	:	LinesPrower_p1  59 60	
+outcome!	:	FatAlex_a  110 123	FatAlex_a  129 142	
+task.	:	tpablo_main-large  209 220	
+--output	:	Ha.sH_solver  17 46	
+getWords	:	edgarthewise_A  6 7	edgarthewise_A  3 4	fandersen_GCJ  31 32	
+second_sol	:	chrisx_A  92 102	chrisx_A  92 102	chrisx_A  92 102	
+err	:	fandersen_GCJ  109 142	fandersen_GCJ  109 142	
+halflen	:	jlfwong_a.large  74 86	jlfwong_a.large  74 86	jlfwong_a.large  74 86	
+pre_process_data	:	bigOnion_rps  94 111	bigOnion_rps  94 111	bigOnion_rps  87 113	bigOnion_rps  87 113	
+fight_table	:	jzj_A  43 53	jzj_A  43 53	
+pid	:	fandersen_GCJ  171 204	fandersen_GCJ  171 204	fandersen_GCJ  171 204	fandersen_GCJ  171 204	
+readLines	:	perel_a  42 48	
+reads	:	ukikagi_a  11 12	
+tc	:	johnLate_a  6 7	johnLate_a  6 7	
+good_start	:	elcapovarela_showdown  6 83	
+[%s/%s]	:	mth_A  55 83	
+caseFmt	:	mth_A  55 83	mth_A  55 83	mth_A  55 83	
+already	:	tpablo_main-large  169 178	
+getWord	:	tpablo_main-large  32 33	tpablo_main-large  35 41	
+check_function	:	Ha.sH_solver  69 77	Ha.sH_solver  168 210	Ha.sH_solver  144 214	
+find_lineup_bf	:	Triply_a  58 62	
+comp_count_correct	:	Inmania_showdown  10 21	Inmania_showdown  24 26	
+S_2	:	Veltz_A  40 78	Veltz_A  40 78	Veltz_A  40 78	Veltz_A  40 78	
+readMatrix	:	perel_a  42 48	
+startswith	:	bigOnion_rps  165 199	lackofcheese_src_codejam_io  90 113	lackofcheese_src_codejam_io  37 88	
+elem_len	:	IdoLivneh_A  112 123	IdoLivneh_A  112 123	IdoLivneh_A  112 123	
+floor	:	nakahara_a  67 94	
+Unpickling	:	bigOnion_rps  94 111	bigOnion_rps  94 111	bigOnion_rps  87 113	bigOnion_rps  87 113	
+read_tuple	:	FatAlex_a  14 15	FatAlex_a  11 12	
+prst	:	Jed_solve  20 25	
+pprs	:	lkj_a  24 32	lkj_a  24 32	lkj_a  24 32	
+parsed_input	:	romd_RPS  60 76	romd_RPS  60 76	
+allowed	:	klolos_jam  15 20	klolos_jam  6 12	paramaciej_A  24 37	
+num_of_test_cases	:	romd_RPS  60 76	romd_RPS  60 76	
+steps	:	johnLate_a  9 13	johnLate_a  9 13	
+gotmore	:	smurty_A  4 21	smurty_A  4 21	smurty_A  4 21	
+nr_case	:	Jed_solve  59 68	Jed_solve  59 68	
+inputType	:	Veltz_A  15 25	Veltz_A  15 25	
+looser	:	Nin0_a  12 19	
+testTmpHandle	:	tpablo_main-large  135 144	tpablo_main-large  135 144	tpablo_main-large  135 144	
+a_word	:	eshirazi_A  8 27	eshirazi_A  8 27	eshirazi_A  8 27	eshirazi_A  8 27	
+input_lines	:	romd_RPS  60 76	romd_RPS  60 76	
+requirements	:	jabbawookiees_r2a  8 18	
+gcd	:	IdoLivneh_A  144 151	
+thing	:	alex1770_rps  5 27	
+str3	:	YXR_tournament  105 126	YXR_tournament  105 126	YXR_tournament  105 126	
+gcj	:	eMBe_A  133 145	eMBe_A  147 152	eMBe_A  147 152	
+finalist	:	pavlovic_a  6 22	pavlovic_a  6 22	pavlovic_a  6 22	pavlovic_a  6 22	
+%.5d.pickle	:	tpablo_main-large  147 166	
+getWinningString	:	unsneakyNinja_rps  45 58	unsneakyNinja_rps  45 58	unsneakyNinja_rps  45 58	unsneakyNinja_rps  20 27	
+--no-write	:	Ha.sH_solver  17 46	
+first_result	:	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	
+sprs	:	lkj_a  24 32	lkj_a  24 32	lkj_a  24 32	
+rightparents	:	HexTree_2a  1 22	HexTree_2a  1 22	
+optimal	:	Sylvus_solution  73 86	
+%%s\n	:	mth_A  55 83	
+%s:Working	:	fandersen_GCJ  162 169	
+main2	:	lidaobing_1  48 58	
+expand_orderd	:	romd_RPS  8 19	romd_RPS  20 55	romd_RPS  20 55	romd_RPS  20 55	
+solve_all_cases	:	bigOnion_rps  165 199	bigOnion_rps  203 209	
+product	:	lmz_a  11 38	
+BoundedSemaphore	:	tpablo_main-large  193 206	
+s_	:	matwetu_a  12 25	matwetu_a  12 25	matwetu_a  12 25	
+description	:	Ha.sH_solver  17 46	tpablo_main-large  209 220	
+type_e	:	bigOnion_rps  138 142	
+toks_line	:	lackofcheese_src_showdown  31 36	lackofcheese_src_showdown  23 24	
+sort_seq	:	mario.lipovsky_A  57 79	mario.lipovsky_A  28 38	mario.lipovsky_A  28 38	mario.lipovsky_A  28 38	
+STM	:	Math.Wizard.Boy_rps  11 24	Math.Wizard.Boy_rps  6 9	
+after	:	kevinsogo_a  15 22	kevinsogo_a  13 24	kevinsogo_a  13 24	kevinsogo_a  14 23	
+mapping	:	Ha.sH_showdown  8 11	Ha.sH_solver  121 141	Ha.sH_solver  121 141	
+makesmaller	:	HenrikRueping_a  1 8	HenrikRueping_a  1 8	HenrikRueping_a  1 8	
+state2	:	jzj_A  43 53	jzj_A  43 53	jzj_A  43 53	jzj_A  43 53	
+state1	:	jzj_A  43 53	jzj_A  43 53	jzj_A  43 53	jzj_A  43 53	
+fc	:	kevinsogo_a  13 24	kevinsogo_a  13 24	kevinsogo_a  14 23	
+coup	:	Tashiqi_RatherPerplexingShowdown  6 10	Tashiqi_RatherPerplexingShowdown  2 4	
+sss	:	elockhart_A  65 70	elockhart_A  65 70	elockhart_A  40 47	elockhart_A  40 47	
+_BigOnion	:	bigOnion_rps  150 153	
+ceil	:	nakahara_a  67 94	
+parallel	:	Fedux_rock  83 103	Fedux_rock  83 103	
+fn	:	gilesg_A  12 15	gilesg_A  9 11	xenosoz.here_A  21 23	xenosoz.here_A  21 23	
+nrnd	:	jdoerrie_main  20 56	jdoerrie_main  20 56	jdoerrie_main  20 56	
+main_code	:	toaDime_showdown  1 27	
+argparse	:	Ha.sH_solver  17 46	tpablo_main-large  209 220	
+pre-process_	:	bigOnion_rps  94 111	bigOnion_rps  87 113	
+mytree	:	narri_A  33 47	narri_A  33 47	narri_A  33 47	narri_A  33 47	
+new_strs	:	yichen_solution  43 54	yichen_solution  43 54	yichen_solution  43 54	
+datatype	:	fandersen_GCJ  109 142	fandersen_GCJ  109 142	fandersen_GCJ  109 142	fandersen_GCJ  109 142	
+wins	:	carlos.perez_A  10 40	carlos.perez_A  10 40	
+winp	:	FatAlex_a  31 39	FatAlex_a  53 59	FatAlex_a  53 59	FatAlex_a  53 59	
+-j	:	tpablo_main-large  209 220	
+so	:	ojos_a  8 18	
+b'\r\n'	:	eMBe_A  43 46	
+rang_precedent	:	alpha3_Script  31 40	alpha3_Script  31 40	alpha3_Script  31 40	
+NotImplementedError	:	tanriol_A  32 33	tanriol_A  35 36	
+\n\n	:	FatAlex_a  110 123	FatAlex_a  129 142	
+sf	:	PhilippSinitsyn_problem  10 30	PhilippSinitsyn_problem  10 30	PhilippSinitsyn_problem  10 30	PhilippSinitsyn_problem  10 30	
+itemgetter	:	ruslanbes_a  25 78	
+__	:	Ha.sH_solver  69 77	
+1\n1	:	Tish_stage 2  161 188	Tish_stage 2  161 188	
+expand_chars	:	Strikeskids_A  15 22	Strikeskids_A  3 9	
+s0	:	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	
+INPUT_FILE	:	tpablo_main-large  209 220	
+FINAL	:	zhhthu11_p1  3 16	zhhthu11_p1  19 36	zhhthu11_p1  19 36	zhhthu11_p1  19 36	
+extensive	:	Strikeskids_A  59 63	
+matchup	:	Uts_rps  25 35	Uts_rps  25 35	Uts_rps  25 35	Uts_rps  25 35	
+round_for	:	Eric.W_main  11 15	Eric.W_main  3 9	
+max_sub	:	IdoLivneh_A  112 123	IdoLivneh_A  112 123	IdoLivneh_A  112 123	
+_S	:	waitingkuo0527_main  6 40	waitingkuo0527_main  6 40	waitingkuo0527_main  6 40	
+IMPOSSIBLE\n	:	wilsonhsu_A  51 65	Zark_CJ201620A  59 64	tpablo_main-large  108 132	tpablo_main-large  108 132	
+thisOne	:	YuMS_A  5 19	YuMS_A  5 19	YuMS_A  5 19	YuMS_A  5 19	
+HIGHEST_PROTOCOL	:	bigOnion_rps  94 111	bigOnion_rps  87 113	
+fp	:	cwillmore_solve  78 79	
+args=	:	bigOnion_rps  57 68	bigOnion_rps  58 67	bigOnion_rps  59 66	
+Rn	:	liutianren_a  7 23	liutianren_a  7 23	liutianren_a  7 23	
+run_test	:	Strikeskids_A  53 57	Strikeskids_A  49 51	
+foo3	:	lidaobing_1  77 86	lidaobing_1  107 114	
+\r\n	:	Veltz_A  80 100	
+Inputs	:	wonstin_A  31 34	
+getLine	:	tpablo_main-large  27 30	
+fit	:	laughinging_a  16 17	
+numtestcases	:	unsneakyNinja_rps  5 10	unsneakyNinja_rps  5 10	
+lo	:	mdippel_A  31 43	mdippel_A  31 43	mdippel_A  31 43	
+,	:	kevinsogo_a  10 11	kevinsogo_a  10 11	kevinsogo_a  10 11	
+2:	:	UberFarmer_A  12 71	
+OK	:	fandersen_GCJ  206 224	fandersen_GCJ  206 224	
+resort	:	HandsomeEdison_A  43 55	HandsomeEdison_A  43 55	HandsomeEdison_A  43 55	
+case_id	:	xenosoz.here_A  41 45	xenosoz.here_A  41 45	
+choose	:	rutsky_a  17 24	rutsky_a  27 33	
+splitext	:	lackofcheese_src_codejam_io  37 88	
+has_winner	:	178855371157_a  17 26	178855371157_a  28 50	
+2\n2	:	Tish_stage 2  161 188	Tish_stage 2  161 188	
+2011	:	romd_RPS  20 55	
+prevNode	:	musicman3320_showdown  6 9	
+good	:	dkorduban_A  36 51	dkorduban_A  18 27	dkorduban_A  18 27	
+print_case	:	cailw_a  12 13	
+factorial	:	DAMF_rather_perplexing_showdown  131 135	DAMF_rather_perplexing_showdown  131 135	
+%d	:	fandersen_GCJ  162 169	fandersen_GCJ  206 224	fandersen_GCJ  206 224	
+st_mtime	:	bigOnion_rps  165 199	
+find_sol	:	Nin0_a  12 19	Nin0_a  12 19	Nin0_a  12 19	
+read_string	:	Fedux_rock  138 139	Fedux_rock  141 142	
+yy	:	ppershing_large  33 46	ppershing_large  33 46	
+Wrapper	:	fandersen_GCJ  109 142	
+hands	:	layersof_A  41 60	layersof_A  41 60	gauravjs_1  26 51	
+new_comb	:	ikicha_rock_paper_scissor  23 33	ikicha_rock_paper_scissor  23 33	ikicha_rock_paper_scissor  23 33	
+Works	:	KennyCz_prob1  32 41	KennyCz_prob1  24 29	
+rsplit	:	FatAlex_a  92 97	
+{}:	:	Ha.sH_solver  49 56	
+decorator	:	Ha.sH_solver  168 210	Ha.sH_solver  144 214	Ha.sH_solver  144 214	Ha.sH_solver  144 214	
+Pre	:	bigOnion_rps  94 111	bigOnion_rps  94 111	bigOnion_rps  87 113	bigOnion_rps  87 113	
+multiprocess	:	fandersen_GCJ  144 153	fandersen_GCJ  171 204	
+2p	:	romd_RPS  8 19	
+output_res	:	robostac_test  77 81	
+2r	:	romd_RPS  8 19	
+2s	:	romd_RPS  8 19	
+getplayers	:	devjoe_rps  5 11	devjoe_rps  5 11	
+reduce_lineup	:	Tedday_A  14 28	Tedday_A  9 11	
+decimal	:	dpforest_A  69 71	dpforest_A  56 58	
+tran	:	IdoLivneh_A  208 247	IdoLivneh_A  208 247	
+inputList	:	fandersen_GCJ  8 12	fandersen_GCJ  8 12	
+OUTFILE	:	perel_a  50 63	
+token	:	eMBe_A  76 78	eMBe_A  147 152	eMBe_A  65 74	
+css	:	gurtej.kanwar_A  17 39	gurtej.kanwar_A  17 39	gurtej.kanwar_A  17 39	
+oldR	:	lostrainbow_A  10 34	lostrainbow_A  10 34	lostrainbow_A  10 34	
+expectedcounts	:	RobKing_A1  3 14	RobKing_A1  3 14	RobKing_A1  3 14	RobKing_A1  3 14	
+R_new	:	RobKing_A1  3 14	RobKing_A1  3 14	
+|	:	fandersen_GCJ  171 204	
+load_single_case	:	FatAlex_a  18 24	FatAlex_a  14 15	
+_split	:	tpablo_main-large  147 166	
+1\n	:	Tish_stage 2  161 188	
+STD	:	Math.Wizard.Boy_rps  6 9	Math.Wizard.Boy_rps  6 9	Math.Wizard.Boy_rps  6 9	
+lru_cache	:	Alan.Chang_A  30 61	
+square	:	Ha.sH_solver  219 222	
+End	:	bigOnion_rps  43 52	bigOnion_rps  42 53	
+rR	:	elockhart_A  40 47	elockhart_A  40 47	elockhart_A  40 47	
+rS	:	elockhart_A  40 47	elockhart_A  40 47	elockhart_A  40 47	
+ee	:	Ljq_a  13 18	
+R_2	:	Veltz_A  40 78	Veltz_A  40 78	Veltz_A  40 78	Veltz_A  40 78	
+Winner	:	KennyCz_prob1  16 22	KennyCz_prob1  7 14	
+reduce	:	Veltz_A  37 38	Veltz_A  35 36	ikicha_rock_paper_scissor  36 42	
+small_solve	:	chrisx_A  29 34	
+32767	:	kevinsogo_a  28 35	kevinsogo_a  26 37	
+Next	:	Cerezo_A  41 42	
+readlinearray	:	mihaild_template  16 17	
+from_iterable	:	onepiecehoki_a  8 24	onepiecehoki_a  16 18	
+case_num	:	arknave_rps  59 69	arknave_rps  59 69	arknave_rps  59 69	
+getFirst	:	edgarthewise_A  18 31	edgarthewise_A  18 31	edgarthewise_A  18 31	
+transitions	:	CyberEwok_a2  1 15	CyberEwok_a2  1 15	CyberEwok_a2  1 15	CyberEwok_a2  1 15	
+tmp1	:	Zark_CJ201620A  33 57	Zark_CJ201620A  33 57	Zark_CJ201620A  33 57	
+metavar	:	Ha.sH_solver  17 46	Ha.sH_solver  17 46	tpablo_main-large  209 220	
+alpha2	:	kenneth.maples_showdown  34 50	kenneth.maples_showdown  34 50	kenneth.maples_showdown  34 50	
+rv	:	Vovani_Q1  7 36	Vovani_Q1  7 36	Vovani_Q1  7 36	
+firsts	:	chrisx_A  37 58	chrisx_A  37 58	
+--large	:	fandersen_GCJ  109 142	
+generateAll	:	YuMS_A  50 56	YuMS_A  5 19	
+<<=	:	arknave_rps  29 57	
+newSC	:	lostrainbow_A  10 34	lostrainbow_A  10 34	
+rep	:	romd_RPS  8 19	romd_RPS  8 19	
+req	:	jabbawookiees_r2a  8 18	jabbawookiees_r2a  8 18	jabbawookiees_r2a  8 18	
+time0	:	perel_a  50 63	perel_a  50 63	
+time1	:	perel_a  50 63	perel_a  50 63	
+until_first_fail	:	FatAlex_a  110 123	FatAlex_a  110 123	FatAlex_a  129 142	FatAlex_a  129 142	
+re	:	codespam_q1  19 32	tpablo_main-large  35 41	
+participants	:	mth_A  29 53	mth_A  29 53	mth_A  32 50	
+make_sense	:	xenosoz.here_A  34 39	xenosoz.here_A  31 32	
+7	:	tpablo_main-large  193 206	tpablo_main-large  135 144	tpablo_main-large  169 178	tpablo_main-large  181 190	
+progressFmt	:	mth_A  55 83	mth_A  55 83	
+char_seq	:	mario.lipovsky_A  22 26	mario.lipovsky_A  57 79	mario.lipovsky_A  57 79	mario.lipovsky_A  57 79	
+rh	:	ody42_solve  29 45	ody42_solve  29 45	ody42_solve  29 45	ody42_solve  29 45	
+correct	:	Inmania_showdown  24 26	Inmania_showdown  24 26	
+math	:	nakahara_a  67 94	nakahara_a  67 94	
+next1	:	Alan.Chang_A  30 61	Alan.Chang_A  30 61	
+stat	:	bigOnion_rps  165 199	
+tmpl	:	YXR_tournament  10 82	YXR_tournament  10 82	YXR_tournament  10 82	YXR_tournament  10 82	
+LINES_FOR_EACH_INPUT	:	romd_RPS  60 76	romd_RPS  60 76	
+NUM_PROCESSES	:	mth_A  55 83	mth_A  55 83	
+GCD	:	Veltz_A  27 32	Veltz_A  33 34	Veltz_A  35 36	mihaild_template  20 23	
+dictionary	:	mrauen_A  30 53	mrauen_A  30 53	mrauen_A  30 53	mrauen_A  30 53	
+written	:	fandersen_GCJ  206 224	
+first_dig	:	chrisx_A  92 102	chrisx_A  92 102	
+newR	:	lostrainbow_A  10 34	lostrainbow_A  10 34	
+0101	:	romd_RPS  20 55	
+given	:	Ha.sH_solver  17 46	bananaphone_1  11 18	bananaphone_1  11 18	
+alphabetically_first_solution	:	bigOnion_rps  271 282	bigOnion_rps  228 250	bigOnion_rps  228 250	bigOnion_rps  228 250	
+numprocs	:	fandersen_GCJ  171 204	fandersen_GCJ  171 204	
+Solve	:	Ha.sH_solver  17 46	Capp_A  6 32	tpablo_main-large  209 220	
+tmpx	:	ppershing_large  33 46	ppershing_large  33 46	
+keys	:	argusdusty_A  4 20	argusdusty_A  4 20	
+tobytes	:	eMBe_A  36 41	eMBe_A  65 74	
+put	:	Subscheme_A-small  15 16	fandersen_GCJ  8 12	fandersen_GCJ  8 12	
+%s:Dealt	:	fandersen_GCJ  162 169	
+keep_order	:	tpablo_main-large  193 206	
+ZZZ	:	dkorduban_A  70 80	dkorduban_A  70 80	
+u1	:	alex1770_rps  5 27	alex1770_rps  5 27	alex1770_rps  5 27	alex1770_rps  5 27	
+list_index_in_sorted_with_position	:	IdoLivneh_A  125 134	IdoLivneh_A  125 134	IdoLivneh_A  125 134	IdoLivneh_A  136 137	
+getFloat	:	fandersen_GCJ  25 26	
+backwards	:	Brian_a  13 30	Brian_a  1 11	
+r0	:	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	
+multiprocess_imap	:	Ha.sH_solver  121 141	Ha.sH_solver  80 85	
+gen_tourney	:	cwillmore_solve  50 63	cwillmore_solve  50 63	cwillmore_solve  50 63	cwillmore_solve  66 73	
+read_input	:	perel_a  50 63	perel_a  42 48	
+gen_state	:	jdoerrie_main  9 17	jdoerrie_main  59 67	
+reset_memoization	:	bigOnion_rps  32 36	
+tries	:	rompel_rps  16 24	rompel_rps  16 24	
+round	:	lackofcheese_src_showdown  38 52	lackofcheese_src_showdown  54 61	
+filter	:	Inmania_showdown  10 21	soon_main  45 46	fandersen_a  30 38	alex1770_rps  3 3	
+new_ord	:	TusanHomichi_A  22 53	TusanHomichi_A  22 53	
+newS	:	lostrainbow_A  10 34	lostrainbow_A  10 34	
+OTHER	:	narri_A  18 31	
+100000	:	Strikeskids_A  59 63	
+signature	:	bigOnion_rps  87 113	
+MEM_LIMIT_GB	:	mth_A  55 83	
+file_names	:	bigOnion_rps  165 199	bigOnion_rps  165 199	bigOnion_rps  165 199	
+RECURSION_LIMIT	:	mth_A  55 83	
+make_prs_tree	:	Meerness_rock_paper_scissors  10 25	
+'%s'	:	fandersen_GCJ  206 224	fandersen_GCJ  206 224	
+desired_hist	:	cwillmore_solve  66 73	cwillmore_solve  66 73	
+oper	:	Zark_CJ201620A  15 31	Zark_CJ201620A  15 31	
+oldP	:	lostrainbow_A  10 34	lostrainbow_A  10 34	lostrainbow_A  10 34	
+oldS	:	lostrainbow_A  10 34	lostrainbow_A  10 34	lostrainbow_A  10 34	
+Pickling	:	bigOnion_rps  94 111	bigOnion_rps  94 111	bigOnion_rps  87 113	bigOnion_rps  87 113	
+directory	:	fandersen_GCJ  109 142	fandersen_GCJ  109 142	
+xl	:	zli_a  10 11	
+1,	:	EricStansifer_common  35 75	
+writecase	:	EricStansifer_a  41 46	EricStansifer_a  41 46	EricStansifer_common  32 33	
+fill_lineup	:	wilsonhsu_A  9 13	wilsonhsu_A  15 20	wilsonhsu_A  15 20	wilsonhsu_A  15 20	
+variables	:	Ha.sH_solver  88 109	Ha.sH_solver  88 109	
+maxsize	:	Alan.Chang_A  30 61	
+s3p	:	newbility_A  6 10	newbility_A  6 10	newbility_A  6 10	newbility_A  6 10	
+calcsizes	:	Metaray21_problem-a  7 15	Metaray21_problem-a  7 15	Metaray21_problem-a  7 15	
+one	:	gurtej.kanwar_A  41 58	gurtej.kanwar_A  41 58	gurtej.kanwar_A  41 58	gurtej.kanwar_A  41 58	
+states_to_winner	:	jdoerrie_main  59 67	jdoerrie_main  20 56	jdoerrie_main  20 56	
+Start	:	bigOnion_rps  43 52	bigOnion_rps  42 53	
+printstr	:	Yaksha_A  10 15	Yaksha_A  10 15	Yaksha_A  10 15	
+smaller	:	tjake_a  3 26	tjake_a  3 26	tjake_a  3 26	
+RULE	:	NekoChen_a  11 16	
+accu	:	alpha3_Script  31 40	alpha3_Script  31 40	alpha3_Script  31 40	alpha3_Script  31 40	
+impossible	:	Wertle_A  42 102	
+message	:	Ha.sH_solver  49 56	Ha.sH_solver  49 56	
+read_integers	:	Fedux_rock  12 14	Fedux_rock  147 148	
+xt	:	nwin_a  1 17	nwin_a  1 17	
+count_match	:	onepiecehoki_a  26 32	
+1p	:	romd_RPS  8 19	
+1s	:	romd_RPS  8 19	
+1r	:	romd_RPS  8 19	
+checked	:	mxx_A  7 36	mxx_A  7 36	mxx_A  7 36	
+exists	:	tpablo_main-large  147 166	tpablo_main-large  193 206	tpablo_main-large  169 178	tpablo_main-large  181 190	
+invalid	:	Cypi_A  7 28	Cypi_A  1 5	
+_args	:	aklecram_solveA  30 33	aklecram_solveA  30 33	
+inputLine	:	Veltz_A  15 25	Veltz_A  15 25	Veltz_A  15 25	
+mkdir	:	tpablo_main-large  147 166	
+subst	:	nakahara_a  44 63	nakahara_a  44 63	nakahara_a  44 63	nakahara_a  44 63	
+tot	:	gurtej.kanwar_A  5 13	gurtej.kanwar_A  5 13	gurtej.kanwar_A  5 13	gurtej.kanwar_A  5 13	
+grow	:	xenosoz.here_A  25 29	xenosoz.here_A  21 23	
+contextmanager	:	Ha.sH_solver  49 56	Ha.sH_solver  59 66	
+who_wins	:	AJ721_Round2-A  7 16	AJ721_Round2-A  7 16	AJ721_Round2-A  18 57	
+cumul	:	johannesk_a  21 25	
+get_init_string	:	Ananya_A  23 56	Ananya_A  11 21	Ananya_A  11 21	Ananya_A  11 21	
+identity	:	eMBe_A  76 78	eMBe_A  43 46	eMBe_A  65 74	eMBe_A  48 51	
+wrapped	:	tanriol_A  14 17	tanriol_A  11 18	tanriol_A  11 18	
+params	:	waitingkuo0527_main  51 59	waitingkuo0527_main  51 59	
+poss_winner	:	Inmania_showdown  10 21	Inmania_showdown  10 21	
+fo	:	perel_a  50 63	perel_a  50 63	perel_a  50 63	cailw_a  12 13	
+bits	:	Uts_rps  19 23	
+st1	:	KennyCz_prob1  7 14	KennyCz_prob1  7 14	
+readvals	:	mxx_A  4 5	mxx_A  38 74	mxx_A  7 36	
+Pew	:	PhilippSinitsyn_problem  10 30	
+collapse	:	hellman_a  54 68	hellman_a  45 52	hellman_a  45 52	hellman_a  45 52	
+LCMList	:	Veltz_A  37 38	
+reversed	:	mcpower_a  15 49	xenosoz.here_A  25 29	
+acquire	:	tpablo_main-large  169 178	
+b_word	:	eshirazi_A  8 27	eshirazi_A  8 27	eshirazi_A  8 27	eshirazi_A  8 27	
+emit	:	EricDLee_A  59 69	EricDLee_A  59 69	EricDLee_A  59 69	EricDLee_A  59 69	
+inputfilename	:	unsneakyNinja_rps  5 10	
+tokens	:	eMBe_A  76 78	eMBe_A  133 145	
+2110	:	romd_RPS  20 55	
+Differences:	:	fandersen_GCJ  206 224	
+real_result	:	IdoLivneh_A  208 247	IdoLivneh_A  208 247	IdoLivneh_A  208 247	
+arrstr	:	LinesPrower_p1  67 68	
+number	:	fandersen_GCJ  206 224	
+copy	:	Yaksha_A  62 77	Yaksha_A  62 77	
+runners	:	mth_A  55 83	mth_A  55 83	mth_A  55 83	
+numDone	:	fandersen_GCJ  171 204	fandersen_GCJ  171 204	fandersen_GCJ  171 204	
+10	:	romd_RPS  60 76	Tish_stage 2  9 13	Strikeskids_A  59 63	
+13	:	lidaobing_1  48 58	rishig_a  42 49	
+--no-timing	:	Ha.sH_solver  17 46	
+INPUT_FILE_NAME	:	romd_RPS  60 76	
+Failed	:	wonstin_A  31 34	
+store_true	:	tpablo_main-large  209 220	tpablo_main-large  209 220	tpablo_main-large  209 220	
+double	:	FatAlex_a  61 64	FatAlex_a  65 68	
+1:	:	UberFarmer_A  12 71	
+getexpectedcount	:	RobKing_A1  3 14	RobKing_A1  3 14	RobKing_A1  42 64	
+decorating_function	:	bigOnion_rps  57 68	bigOnion_rps  57 68	bigOnion_rps  58 67	
+caseno	:	robostac_test  77 81	robostac_test  77 81	
+INFILE	:	perel_a  50 63	
+bit1	:	QuantumCaffeine_showdown  25 36	QuantumCaffeine_showdown  25 36	QuantumCaffeine_showdown  25 36	
+pre	:	bigOnion_rps  87 113	
+caseIndex	:	Zark_CJ201620A  59 64	Zark_CJ201620A  59 64	Zark_CJ201620A  5 10	Zark_CJ201620A  5 10	
+sort_sub	:	CyberEwok_a2  24 33	CyberEwok_a2  17 22	
+findans	:	YXR_tournament  105 126	
+minn	:	YXR_tournament  105 126	YXR_tournament  105 126	YXR_tournament  105 126	
+anc	:	Vovani_Q1  7 36	Vovani_Q1  7 36	
+runner	:	mth_A  55 83	mth_A  55 83	
+cnum	:	rompel_rps  16 24	rompel_rps  16 24	rompel_rps  16 24	
+reduction	:	jilljenn_A  15 25	jilljenn_A  15 25	jilljenn_A  15 25	
+GCDList	:	Veltz_A  35 36	
+Queue	:	fandersen_GCJ  171 204	
+orig	:	robostac_test  7 47	robostac_test  7 47	robostac_test  7 47	robostac_test  7 47	
+raw	:	gilesg_A  5 5	gilesg_A  4 4	
+minz	:	tana_a  2 8	
+substrA	:	Salls_a  18 26	Salls_a  18 26	Salls_a  18 26	Salls_a  18 26	
+get_tree	:	AdGold_A  24 32	AdGold_A  13 21	AdGold_A  13 21	AdGold_A  13 21	
+contest	:	kieronb_a  9 24	kieronb_a  37 44	
+scount	:	MathProgrammer_prob1  18 52	MathProgrammer_prob1  18 52	MathProgrammer_prob1  18 52	MathProgrammer_prob1  18 52	
+max_elem	:	IdoLivneh_A  112 123	IdoLivneh_A  112 123	IdoLivneh_A  112 123	
+getFloats	:	fandersen_GCJ  28 29	
+anslist	:	KennyCz_prob1  32 41	KennyCz_prob1  32 41	KennyCz_prob1  32 41	
+ARG	:	lmz_a  11 38	
+paths	:	lackofcheese_src_codejam_io  90 113	lackofcheese_src_codejam_io  90 113	lackofcheese_src_codejam_io  90 113	lackofcheese_src_codejam_io  90 113	
+--keep-order	:	tpablo_main-large  209 220	
+^=	:	Uts_rps  19 23	
+read_list	:	FatAlex_a  9 10	FatAlex_a  11 12	
+MultiOutput	:	lackofcheese_src_codejam_io  37 88	
+sol2	:	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	
+inputVector	:	Veltz_A  15 25	Veltz_A  15 25	Veltz_A  15 25	
+is_allowed	:	klolos_jam  15 20	klolos_jam  54 59	
+r3	:	ody42_solve  47 69	ody42_solve  47 69	ody42_solve  47 69	
+compute_insomnia	:	Strikeskids_A  59 63	
+readFile	:	unsneakyNinja_rps  5 10	
+rcount	:	MathProgrammer_prob1  18 52	MathProgrammer_prob1  18 52	MathProgrammer_prob1  18 52	MathProgrammer_prob1  18 52	
+archive	:	lackofcheese_src_codejam_io  90 113	lackofcheese_src_codejam_io  90 113	lackofcheese_src_codejam_io  90 113	
+getDistribution	:	ChevalierMalFet_rps  42 48	ChevalierMalFet_rps  9 38	
+fname	:	LinesPrower_p1  39 55	LinesPrower_p1  39 55	LinesPrower_p1  39 55	LinesPrower_p1  39 55	
+Nval	:	Capp_A  6 32	Capp_A  6 32	Capp_A  6 32	Capp_A  6 32	
+environ	:	lackofcheese_src_codejam_io  90 113	
+left_res	:	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	
+ps_matches	:	matt.j.wu13_a  5 46	matt.j.wu13_a  5 46	matt.j.wu13_a  4 58	matt.j.wu13_a  4 58	
+_cases	:	aklecram_solveA  8 28	aklecram_solveA  8 28	aklecram_solveA  8 28	
+Decimal	:	dpforest_A  69 71	dpforest_A  56 58	
+{1})	:	kpbochenek_perplexing-showdown  7 8	
+next_line	:	zli_a  13 14	eshirazi_A  30 43	
+play	:	yichen_solution  57 67	yichen_solution  1 41	yichen_solution  1 41	
+gentree	:	Metaray21_problem-a  18 28	Metaray21_problem-a  18 28	Metaray21_problem-a  18 28	
+getStart	:	mrauen_A  55 61	mrauen_A  30 53	
+PRRS	:	romd_RPS  8 19	elcapovarela_showdown  6 83	klolos_jam  25 51	zhhthu11_p1  3 16	
+inputNumber	:	Veltz_A  15 25	Veltz_A  15 25	Veltz_A  15 25	
+%s:then	:	fandersen_GCJ  171 204	
+doit	:	kappahouse_a  10 15	kappahouse_a  5 8	kappahouse_a  5 8	
+optimized	:	jlfwong_a.large  74 86	jlfwong_a.large  74 86	jlfwong_a.large  74 86	
+remainingLetters	:	ChevalierMalFet_rps  9 38	ChevalierMalFet_rps  9 38	
+min0	:	YXR_tournament  105 126	YXR_tournament  105 126	YXR_tournament  105 126	
+get_dist	:	chrisx_A  105 111	chrisx_A  60 77	
+optimalString	:	mrauen_A  55 61	mrauen_A  11 28	mrauen_A  11 28	mrauen_A  11 28	
+[{0}]	:	feketrob_main  35 50	
+lh	:	ody42_solve  29 45	ody42_solve  29 45	ody42_solve  29 45	ody42_solve  29 45	
+exe	:	Zark_CJ201620A  5 10	Zark_CJ201620A  15 31	
+asum	:	Alan.Chang_A  11 28	Alan.Chang_A  11 28	Alan.Chang_A  11 28	
+bestComp	:	romd_RPS  5 7	romd_RPS  20 55	romd_RPS  20 55	
+RSP	:	perel_a  8 38	perel_a  8 38	AdGold_A  24 32	
+_get_kwargs	:	Ha.sH_solver  17 46	
+bracket_sort	:	UberFarmer_A  105 125	UberFarmer_A  93 103	UberFarmer_A  93 103	UberFarmer_A  93 103	
+solve_data	:	Fedux_rock  83 103	Fedux_rock  83 103	Fedux_rock  106 111	
+testcase	:	mxx_A  38 74	mxx_A  7 36	
+_in	:	gilesg_A  4 4	
+competitors	:	pavlovic_a  25 31	pavlovic_a  25 31	pavlovic_a  25 31	
+Gamer({0},	:	kpbochenek_perplexing-showdown  7 8	
+opts	:	eshirazi_A  30 43	eshirazi_A  30 43	fandersen_GCJ  109 142	fandersen_GCJ  109 142	
+exp	:	LiranR_showdown2  23 30	
+try_winner	:	bigOnion_rps  228 250	bigOnion_rps  228 250	bigOnion_rps  228 250	bigOnion_rps  253 268	
+ky	:	narri_A  18 31	narri_A  18 31	narri_A  18 31	narri_A  18 31	
+AttributeError	:	lackofcheese_src_codejam_io  90 113	
+can_finish	:	Triply_a  58 62	Triply_a  25 39	
+wins_over	:	luca.wehrstedt_A  15 22	luca.wehrstedt_A  24 34	
+rdints	:	rompel_rps  10 10	rompel_rps  16 24	
+make_sort	:	wilwell_a  14 33	wilwell_a  3 12	wilwell_a  3 12	wilwell_a  3 12	
+simulate	:	bananaphone_1  11 18	bananaphone_1  38 71	bananaphone_1  38 71	bananaphone_1  38 71	
+nextC	:	Nika86_Showdown  21 31	Nika86_Showdown  13 19	
+_read_line_raw	:	eMBe_A  36 41	eMBe_A  18 27	eMBe_A  53 63	eMBe_A  29 34	
+__str__	:	kpbochenek_perplexing-showdown  7 8	
+random	:	tpablo_main-large  193 206	Strikeskids_A  59 63	Strikeskids_A  59 63	
+path_out	:	FatAlex_a  92 97	FatAlex_a  92 97	FatAlex_a  92 97	FatAlex_a  92 97	
+rep2	:	romd_RPS  20 55	romd_RPS  20 55	
+calc_result	:	IdoLivneh_A  259 278	IdoLivneh_A  249 257	
+datetime	:	LinesPrower_p1  39 55	LinesPrower_p1  39 55	LinesPrower_p1  39 55	LinesPrower_p1  39 55	
+goal	:	rompel_rps  16 24	rompel_rps  16 24	
+strin	:	nakahara_a  15 42	nakahara_a  15 42	
+makeStuff	:	gengkev_A2  30 35	gengkev_A2  5 15	
+popu	:	chrisx_A  82 90	chrisx_A  92 102	
+Test	:	bigOnion_rps  150 153	tpablo_main-large  147 166	
+rightCount	:	Wertle_A  42 102	
+d2	:	programcaicai_A  6 40	programcaicai_A  6 40	
+makeRow	:	tpablo_main-large  108 132	tpablo_main-large  68 97	tpablo_main-large  68 97	tpablo_main-large  68 97	
+q1	:	Tish_stage 2  67 89	Tish_stage 2  191 195	
+stored	:	edgarthewise_A  18 31	edgarthewise_A  18 31	edgarthewise_A  18 31	
+processInputLine	:	Veltz_A  15 25	Veltz_A  80 100	Veltz_A  80 100	
+Wc	:	tpablo_main-large  108 132	tpablo_main-large  108 132	tpablo_main-large  108 132	tpablo_main-large  68 97	
+alphexpand	:	Cerezo_A  25 36	Cerezo_A  14 21	Cerezo_A  14 21	Cerezo_A  14 21	
+__enter__	:	bigOnion_rps  132 136	
+OSError	:	lackofcheese_src_codejam_io  90 113	
+should	:	wonstin_A  31 34	
+here	:	Furor_Showdown  15 23	Furor_Showdown  15 23	Furor_Showdown  15 23	Furor_Showdown  15 23	
+get_first_from_winner	:	Alan.Chang_A  63 72	Alan.Chang_A  30 61	Alan.Chang_A  30 61	Alan.Chang_A  30 61	
+ress	:	luca.wehrstedt_A  24 34	luca.wehrstedt_A  24 34	luca.wehrstedt_A  24 34	luca.wehrstedt_A  24 34	
+__call__	:	gilesg_A  12 15	
+next_level	:	onepiecehoki_a  8 24	onepiecehoki_a  8 24	onepiecehoki_a  16 18	onepiecehoki_a  16 18	
+asort	:	liutianren_a  25 33	liutianren_a  25 33	liutianren_a  25 33	
+basename	:	lackofcheese_src_codejam_io  90 113	
+merged	:	Vovani_Q1  7 36	Vovani_Q1  7 36	Vovani_Q1  7 36	
+dn	:	lslah_solve  4 26	lslah_solve  4 26	lslah_solve  4 26	lslah_solve  4 26	
+do	:	Ha.sH_solver  17 46	Ha.sH_solver  17 46	Ha.sH_solver  17 46	Ha.sH_solver  17 46	
+reorder_seq	:	Sylvus_solution  73 86	Sylvus_solution  60 70	
+solve_one_case	:	bigOnion_rps  203 209	bigOnion_rps  220 225	
+lst1	:	KennyCz_prob1  32 41	KennyCz_prob1  32 41	
+1024	:	mth_A  55 83	
+--test-case	:	tpablo_main-large  209 220	tpablo_main-large  169 178	
+read_str_list	:	dpforest_A  72 74	
+zipfile	:	lackofcheese_src_codejam_io  90 113	
+repr	:	kevinsogo_a  10 11	kevinsogo_a  10 11	
+trees	:	Eric.W_main  22 26	
+ssr	:	rompel_rps  10 10	rompel_rps  9 9	rompel_rps  8 8	
+words	:	hellman_a  54 68	hellman_a  54 68	hellman_a  54 68	hellman_a  54 68	
+combinations	:	dpforest_A  18 43	
+_P	:	waitingkuo0527_main  6 40	waitingkuo0527_main  6 40	waitingkuo0527_main  6 40	
+read_decimal	:	dpforest_A  56 58	
+copy_list	:	IdoLivneh_A  139 142	
+prime	:	IdoLivneh_A  154 167	
+question	:	fandersen_GCJ  109 142	fandersen_GCJ  109 142	fandersen_GCJ  109 142	fandersen_GCJ  109 142	
+correct_tournament	:	smapson_A  13 20	
+resolve	:	kenneth.maples_showdown  24 32	kenneth.maples_showdown  24 32	kenneth.maples_showdown  24 32	kenneth.maples_showdown  34 50	
+setattr	:	Ha.sH_solver  69 77	
+_round	:	bigOnion_rps  253 268	
+get_next_level_element	:	onepiecehoki_a  8 24	onepiecehoki_a  8 24	onepiecehoki_a  16 18	onepiecehoki_a  9 15	
+doprob	:	bananaphone_1  38 71	
+{1}\n	:	feketrob_main  5 9	FatAlex_a  88 91	wilsonhsu_A  51 65	
+expansions	:	FatAlex_a  76 78	
+remove	:	jzj_A  43 53	lackofcheese_src_codejam_io  90 113	lackofcheese_src_codejam_io  37 88	
+{0}	:	EricDLee_A  59 69	
+reducable	:	layersof_A  41 60	layersof_A  29 39	layersof_A  29 39	
+sstrip	:	LinesPrower_p1  63 64	
+stuff	:	Wertle_A  7 9	Wertle_A  7 9	
+end_time	:	bigOnion_rps  43 52	bigOnion_rps  43 52	bigOnion_rps  42 53	bigOnion_rps  42 53	
+next2	:	Alan.Chang_A  30 61	Alan.Chang_A  30 61	
+test_p	:	feketrob_main  35 50	feketrob_main  11 33	feketrob_main  11 33	
+release	:	tpablo_main-large  169 178	
+Impossible	:	Jed_solve  59 68	Jed_solve  29 56	PhilippSinitsyn_problem  51 61	
+sep	:	LinesPrower_p1  67 68	LinesPrower_p1  67 68	
+--no-multi	:	Ha.sH_solver  17 46	
+pre-processed	:	bigOnion_rps  94 111	bigOnion_rps  87 113	
+__module__	:	Ha.sH_solver  69 77	
+q1old	:	Tish_stage 2  96 125	
+part_of_list_to_int	:	IdoLivneh_A  96 97	IdoLivneh_A  86 94	
+dump	:	bigOnion_rps  94 111	bigOnion_rps  87 113	tpablo_main-large  147 166	
+newCurrent	:	QuantumCaffeine_showdown  13 23	QuantumCaffeine_showdown  13 23	QuantumCaffeine_showdown  13 23	
+__memoization_registry	:	bigOnion_rps  18 28	bigOnion_rps  18 28	bigOnion_rps  32 36	bigOnion_rps  32 36	
+Create	:	IdoLivneh_A  154 167	
+showdown	:	Ha.sH_showdown  19 28	kappahouse_a  10 15	kenneth.maples_showdown  52 57	kenneth.maples_showdown  34 50	
+{}\n	:	CyberEwok_a2  1 15	EricStansifer_common  32 33	
+module	:	Ha.sH_solver  69 77	Ha.sH_solver  69 77	Ha.sH_solver  69 77	
+var	:	Yaksha_A  10 15	Yaksha_A  10 15	
+sec	:	eMBe_A  100 131	eMBe_A  100 131	eMBe_A  100 131	eMBe_A  100 131	
+__output_filename	:	bigOnion_rps  132 136	bigOnion_rps  123 130	
+arg	:	lackofcheese_src_codejam_io  37 88	lackofcheese_src_codejam_io  37 88	lackofcheese_src_codejam_io  37 88	lackofcheese_src_codejam_io  37 88	
+fail	:	newbility_A  6 10	newbility_A  42 46	
+jobs	:	tpablo_main-large  193 206	
+stack	:	bananaphone_1  11 18	bananaphone_1  3 9	
+Pn	:	liutianren_a  7 23	liutianren_a  7 23	liutianren_a  7 23	
+solve_test	:	feketrob_main  35 50	
+sol1	:	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	
+RSSP	:	romd_RPS  8 19	
+StringType	:	devjoe_rps  5 11	
+timeit	:	Ha.sH_solver  121 141	Ha.sH_solver  49 56	
+01	:	chrisx_A  82 90	
+Run	:	Ljq_a  20 27	
+get_primes	:	IdoLivneh_A  154 167	
+ntrip	:	rishig_a  27 31	rishig_a  27 31	
+pattern	:	YuMS_A  44 48	YuMS_A  44 48	
+hist	:	cwillmore_solve  66 73	cwillmore_solve  66 73	
+getattr	:	Ha.sH_solver  69 77	
+getInts	:	edgarthewise_A  6 7	edgarthewise_A  9 12	fandersen_a  2 3	fandersen_GCJ  22 23	
+od1	:	Terence_A  2 14	Terence_A  2 14	
+testsDir	:	tpablo_main-large  147 166	tpablo_main-large  147 166	tpablo_main-large  147 166	tpablo_main-large  147 166	
+itervalues	:	lslah_solve  4 26	
+A2	:	Furor_Showdown  2 7	Furor_Showdown  2 7	
+0,	:	EricStansifer_common  35 75	
+Check	:	pr0v3rbs_A  3 36	
+soln	:	jabbawookiees_r2a  23 27	jabbawookiees_r2a  23 27	
+SameError	:	rutsky_a  17 24	
+ends	:	MaksK_a  13 21	
+nextNode	:	musicman3320_showdown  6 9	
+parsed_filename	:	bigOnion_rps  165 199	bigOnion_rps  165 199	bigOnion_rps  123 130	bigOnion_rps  123 130	
+wb	:	IdoLivneh_A  259 278	bigOnion_rps  94 111	bigOnion_rps  87 113	tpablo_main-large  147 166	
+tup	:	musicman3320_showdown  11 70	musicman3320_showdown  11 70	
+get_sons	:	ihadanny_a  16 27	
+-nr	:	Ha.sH_solver  17 46	
+rprs	:	lkj_a  24 32	lkj_a  24 32	lkj_a  24 32	
+-nt	:	Ha.sH_solver  17 46	
+-nw	:	Ha.sH_solver  17 46	
+old_seq	:	Sylvus_solution  73 86	Sylvus_solution  73 86	
+log_it	:	bigOnion_rps  57 68	
+job	:	fandersen_GCJ  206 224	fandersen_GCJ  109 142	fandersen_GCJ  109 142	fandersen_GCJ  109 142	
+wt	:	tpablo_main-large  135 144	tpablo_main-large  181 190	
+-nm	:	Ha.sH_solver  17 46	
+res_p	:	Fedux_rock  57 73	Fedux_rock  57 73	
+frozenset	:	lackofcheese_src_showdown  69 73	
+Directory	:	bigOnion_rps  165 199	bigOnion_rps  165 199	
+INPUT	:	Ha.sH_solver  17 46	
+solu	:	chrisx_A  5 16	chrisx_A  5 16	
+basic_test	:	mdippel_A  69 72	
+0r	:	romd_RPS  8 19	
+read_line	:	FatAlex_a  4 8	FatAlex_a  9 10	
+0p	:	romd_RPS  8 19	
+TypeError	:	lackofcheese_src_codejam_io  90 113	PhilippSinitsyn_problem  10 30	PhilippSinitsyn_problem  51 61	
+cou	:	mario.lipovsky_A  57 79	mario.lipovsky_A  57 79	mario.lipovsky_A  57 79	mario.lipovsky_A  57 79	
+total_amount	:	elcapovarela_showdown  6 83	elcapovarela_showdown  6 83	elcapovarela_showdown  6 83	elcapovarela_showdown  6 83	
+part_of_list_to_float	:	IdoLivneh_A  109 110	IdoLivneh_A  99 107	
+update_wrapper	:	bigOnion_rps  57 68	bigOnion_rps  58 67	
+kwargs=	:	bigOnion_rps  57 68	bigOnion_rps  58 67	bigOnion_rps  59 66	
+02	:	chrisx_A  82 90	
+inputName	:	tpablo_main-large  147 166	tpablo_main-large  147 166	tpablo_main-large  181 190	tpablo_main-large  181 190	
+curr_level	:	zhhthu11_p1  3 16	zhhthu11_p1  3 16	zhhthu11_p1  3 16	
+bit2	:	QuantumCaffeine_showdown  25 36	QuantumCaffeine_showdown  25 36	QuantumCaffeine_showdown  25 36	
+newString	:	daniel.werner_a  4 35	daniel.werner_a  4 35	daniel.werner_a  4 35	daniel.werner_a  4 35	
+iterate_cases_glpc	:	IdoLivneh_A  62 84	
+right_res	:	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	
+BRUTE_FORCE	:	mdippel_A  26 29	mdippel_A  57 66	
+PSR	:	xenosoz.here_A  34 39	
+let	:	smurty_A  4 21	
+newP	:	lostrainbow_A  10 34	lostrainbow_A  10 34	
+LCM	:	Veltz_A  33 34	Veltz_A  37 38	
+testTmpFn	:	tpablo_main-large  135 144	tpablo_main-large  135 144	tpablo_main-large  135 144	
+nextXs	:	carlos.perez_A  10 40	carlos.perez_A  10 40	carlos.perez_A  10 40	
+otherwise	:	fandersen_GCJ  109 142	
+load	:	bigOnion_rps  94 111	bigOnion_rps  87 113	tpablo_main-large  135 144	
+gen_primes	:	mihaild_template  26 33	
+build_tree	:	Omrigan_main  16 28	Omrigan_main  16 28	Omrigan_main  16 28	
+PRIMES_FILENAME	:	IdoLivneh_A  154 167	
+pWorks	:	byc_A  25 34	byc_A  25 34	
+cn	:	FatAlex_a  110 123	FatAlex_a  110 123	FatAlex_a  129 142	FatAlex_a  129 142	
+NextRnd	:	KennyCz_prob1  16 22	KennyCz_prob1  24 29	
+nchoosek	:	DAMF_rather_perplexing_showdown  138 144	
+Solving	:	aklecram_solveA  30 33	Fedux_rock  83 103	tpablo_main-large  169 178	
+new_plrs	:	paramaciej_A  18 22	paramaciej_A  18 22	paramaciej_A  18 22	
+p_	:	matwetu_a  12 25	matwetu_a  12 25	matwetu_a  12 25	
+origString	:	daniel.werner_a  4 35	daniel.werner_a  4 35	
+walk	:	lmz_a  11 38	lmz_a  11 38	lmz_a  11 38	
+na	:	bootandy_a  19 32	bootandy_a  19 32	bootandy_a  19 32	
+-run	:	bigOnion_rps  165 199	bigOnion_rps  165 199	
+SPSR	:	romd_RPS  8 19	
+ty	:	Kelsier718_s  7 9	
+ct	:	Sempr_A  17 28	Sempr_A  17 28	Sempr_A  17 28	Sempr_A  17 28	
+FileParser	:	Fedux_rock  83 103	
+mkposs	:	johannesk_a  7 15	johannesk_a  7 15	
+Outcome:	:	FatAlex_a  110 123	FatAlex_a  129 142	
+create	:	fandersen_GCJ  109 142	Tashiqi_RatherPerplexingShowdown  6 10	Tashiqi_RatherPerplexingShowdown  6 10	
+icase	:	cailw_a  12 13	
+SIGINT	:	mth_A  55 83	mth_A  55 83	
+get2min	:	YXR_tournament  3 7	YXR_tournament  10 82	
+apply_async	:	mth_A  55 83	
+z1	:	Ljq_a  13 18	Ljq_a  13 18	Ljq_a  13 18	Ljq_a  13 18	
+poss_answer	:	Inmania_showdown  10 21	Inmania_showdown  10 21	
+%.3f	:	perel_a  50 63	perel_a  50 63	
+2\n	:	Tish_stage 2  161 188	
+pf	:	PhilippSinitsyn_problem  10 30	PhilippSinitsyn_problem  10 30	PhilippSinitsyn_problem  10 30	PhilippSinitsyn_problem  10 30	
+in_file	:	fandersen_a  2 3	fandersen_a  2 3	
+tree2	:	narri_A  18 31	narri_A  18 31	narri_A  18 31	narri_A  18 31	
+parse_file	:	Ha.sH_solver  121 141	Ha.sH_solver  88 109	
+collections	:	dpforest_A  18 43	
+GetoptError	:	fandersen_GCJ  109 142	
+nums	:	LinesPrower_p1  57 58	LinesPrower_p1  6 37	Strikeskids_A  49 51	Strikeskids_A  49 51	
+test_cases	:	Fedux_rock  83 103	Fedux_rock  83 103	Fedux_rock  83 103	
+getpid	:	fandersen_GCJ  8 12	fandersen_GCJ  8 12	
+files	:	lackofcheese_src_codejam_io  19 21	lackofcheese_src_codejam_io  19 21	
+__index_test_case	:	bigOnion_rps  123 130	bigOnion_rps  150 153	bigOnion_rps  150 153	bigOnion_rps  159 161	
+spair	:	elockhart_A  40 47	
+ans3	:	unsneakyNinja_rps  45 58	unsneakyNinja_rps  45 58	unsneakyNinja_rps  45 58	
+imap_unordered	:	aklecram_solveA  8 28	
+ALGORITHM	:	mdippel_A  26 29	mdippel_A  74 82	
+splitline	:	eMBe_A  48 51	klolos_jam  70 71	klolos_jam  54 59	
+forbidden_child_	:	yingted_A  10 11	
+errfile	:	fandersen_GCJ  206 224	fandersen_GCJ  206 224	fandersen_GCJ  109 142	fandersen_GCJ  109 142	
+convert	:	Tish_stage 2  67 89	Tish_stage 2  46 60	nakahara_a  4 13	nakahara_a  15 42	
+iterate_cases_subsections	:	IdoLivneh_A  32 60	
+getInt	:	edgarthewise_A  9 12	fandersen_GCJ  155 160	fandersen_GCJ  19 20	
+parse_args	:	Ha.sH_solver  17 46	tpablo_main-large  209 220	
+caseNum	:	Zark_CJ201620A  5 10	Zark_CJ201620A  5 10	
+rs_matches	:	matt.j.wu13_a  5 46	matt.j.wu13_a  5 46	matt.j.wu13_a  4 58	matt.j.wu13_a  4 58	
+OPP	:	wilsonhsu_A  15 20	
+imap	:	Ha.sH_solver  80 85	
+^	:	yingted_A  35 45	yingted_A  27 73	
+p3	:	aguy_codejam1  1 14	aguy_codejam1  1 14	
+Process	:	tpablo_main-large  193 206	
+newPC	:	lostrainbow_A  10 34	lostrainbow_A  10 34	
+leftparents	:	HexTree_2a  1 22	HexTree_2a  1 22	
+ret2	:	Capp_A  6 32	Capp_A  6 32	Capp_A  6 32	Capp_A  6 32	
+tt	:	bananaphone_1  22 35	bananaphone_1  22 35	bananaphone_1  38 71	bananaphone_1  38 71	
+.parsed.txt	:	bigOnion_rps  165 199	
+1101	:	romd_RPS  20 55	
+fun	:	lackofcheese_src_showdown  23 24	lackofcheese_src_showdown  23 24	
+new_l	:	Inmania_showdown  10 21	Inmania_showdown  10 21	Inmania_showdown  10 21	Inmania_showdown  10 21	
+PREV	:	tanriol_A  57 62	
+processInput	:	mdippel_A  74 82	mdippel_A  8 15	
+~	:	Uts_rps  19 23	
+rename	:	tpablo_main-large  135 144	
+cand	:	xwu_A  23 31	xwu_A  23 31	xwu_A  23 31	
+cons	:	smurty_A  4 21	smurty_A  4 21	smurty_A  4 21	
+10000	:	eMBe_A  147 152	
+prs	:	hellman_a  54 68	
+GCJIOWrapper	:	bigOnion_rps  165 199	
+get_possible_starts	:	soon_main  45 46	soon_main  34 42	
+%X	:	fandersen_GCJ  162 169	fandersen_GCJ  162 169	fandersen_GCJ  171 204	
+ZipFile	:	lackofcheese_src_codejam_io  90 113	
+it	:	lackofcheese_src_showdown  38 52	Triply_a  25 39	Triply_a  25 39	Triply_a  25 39	
+int_to_char	:	Ananya_A  23 56	
+middle	:	wilwell_a  3 12	wilwell_a  3 12	wilwell_a  3 12	
+outputVector	:	Veltz_A  15 25	Veltz_A  15 25	Veltz_A  15 25	Veltz_A  15 25	
+vs	:	fandersen_GCJ  206 224	fandersen_GCJ  206 224	
+io	:	LinesPrower_p1  39 55	LinesPrower_p1  39 55	
+%3d	:	fandersen_GCJ  226 227	
+writeOutput	:	mdippel_A  74 82	mdippel_A  18 21	
+different	:	fandersen_GCJ  206 224	
+nextArr	:	gengkev_A2  5 15	gengkev_A2  5 15	gengkev_A2  5 15	
+special_sort	:	onepiecehoki_a  34 43	
+i_	:	layersof_A  41 60	layersof_A  41 60	
+.tmp	:	tpablo_main-large  135 144	
+n_P	:	Meerness_rock_paper_scissors  10 25	Meerness_rock_paper_scissors  10 25	
+A-input.in	:	ikicha_rock_paper_scissor  45 51	
+n_R	:	Meerness_rock_paper_scissors  10 25	Meerness_rock_paper_scissors  10 25	
+n_S	:	Meerness_rock_paper_scissors  10 25	Meerness_rock_paper_scissors  10 25	
+newRC	:	lostrainbow_A  10 34	lostrainbow_A  10 34	
+a.out	:	wonstin_A  36 45	
+big	:	mcpower_a  15 49	mcpower_a  15 49	mcpower_a  15 49	
+#{nc}	:	tanriol_A  38 44	
+_read_line	:	eMBe_A  36 41	eMBe_A  43 46	eMBe_A  48 51	
+3.	:	Ardem_p2  6 35	
+status	:	ruslanbes_a  6 10	ruslanbes_a  6 10	
+recursive_sort	:	cdothuynh_rps  3 7	cdothuynh_rps  3 7	cdothuynh_rps  3 7	
+listdir	:	bigOnion_rps  94 111	bigOnion_rps  87 113	bigOnion_rps  165 199	
+finish	:	feketrob_main  5 9	feketrob_main  35 50	feketrob_main  35 50	Tish_stage 2  9 13	
+slave	:	tpablo_main-large  209 220	tpablo_main-large  135 144	
+--no-result	:	Ha.sH_solver  17 46	
+getCounts	:	gurtej.kanwar_A  17 39	
+i3	:	sekiye_a  3 57	sekiye_a  3 57	sekiye_a  3 57	sekiye_a  3 57	
+list_to_float	:	IdoLivneh_A  109 110	
+{:.3f}	:	Ha.sH_solver  49 56	
+read1	:	Vovani_Q1  38 40	
+read_floats	:	Fedux_rock  153 154	
+000	:	bigOnion_rps  165 199	
+solve_pair	:	TusanHomichi_A  14 20	TusanHomichi_A  22 53	TusanHomichi_A  22 53	TusanHomichi_A  22 53	
+IN	:	eMBe_A  18 27	
+snext	:	gauravjs_1  26 51	gauravjs_1  26 51	gauravjs_1  26 51	gauravjs_1  26 51	
+validate	:	fandersen_GCJ  109 142	fandersen_GCJ  109 142	
+on	:	fandersen_GCJ  162 169	
+test.in	:	LinesPrower_p1  39 55	lackofcheese_src_codejam_io  37 88	
+A1	:	Furor_Showdown  2 7	Furor_Showdown  2 7	
+count_ok	:	aklecram_solveA  61 67	aklecram_solveA  55 59	
+getMatch	:	unsneakyNinja_rps  12 18	unsneakyNinja_rps  20 27	
+lower	:	Ha.sH_solver  88 109	
+string1	:	mrauen_A  11 28	mrauen_A  11 28	mrauen_A  11 28	mrauen_A  11 28	
+rsort	:	Jed_solve  29 56	Jed_solve  10 18	Jed_solve  10 18	Jed_solve  10 18	
+docase	:	Fornax_A  5 111	
+ordered_solutions	:	Meerness_rock_paper_scissors  10 25	Meerness_rock_paper_scissors  10 25	Meerness_rock_paper_scissors  10 25	Meerness_rock_paper_scissors  10 25	
+main_run	:	bigOnion_rps  165 199	
+find_min	:	TusanHomichi_A  55 60	TusanHomichi_A  22 53	TusanHomichi_A  22 53	
+Manager	:	fandersen_GCJ  171 204	
+command	:	fandersen_GCJ  109 142	
+strftime	:	fandersen_GCJ  162 169	fandersen_GCJ  162 169	fandersen_GCJ  171 204	
+winner_to_match	:	jlfwong_a.large  68 72	jlfwong_a.large  58 66	
+trials	:	CyberEwok_a2  1 15	CyberEwok_a2  1 15	
+the	:	Ha.sH_solver  17 46	Ha.sH_solver  17 46	Ha.sH_solver  17 46	Ha.sH_solver  17 46	
+drawing	:	lbj_A  22 40	lbj_A  2 18	lbj_A  2 18	
+bsort	:	rishig_a  8 12	rishig_a  27 31	
+newPossibleEndings	:	mrauen_A  30 53	mrauen_A  30 53	mrauen_A  30 53	
+new_array	:	bootandy_a  19 32	bootandy_a  19 32	bootandy_a  19 32	bootandy_a  19 32	
+unlink	:	tpablo_main-large  193 206	
+lines:	:	fandersen_GCJ  206 224	
+isTie	:	Sylvus_solution  21 31	Sylvus_solution  21 31	
+new_one	:	Ananya_A  11 21	Ananya_A  11 21	Ananya_A  11 21	
+half	:	yichen_solution  1 41	yichen_solution  1 41	yichen_solution  1 41	yichen_solution  1 41	
+_file	:	aklecram_solveA  8 28	aklecram_solveA  8 28	aklecram_solveA  8 28	
+rest	:	tjake_a  3 26	tjake_a  3 26	tjake_a  3 26	
+Possible	:	lostrainbow_A  37 47	lostrainbow_A  37 47	lostrainbow_A  37 47	
+test!	:	wonstin_A  31 34	
+CC	:	robostac_test  7 47	robostac_test  7 47	robostac_test  7 47	
+getxyz	:	mxx_A  40 45	mxx_A  38 74	mxx_A  38 74	
+testHandle	:	tpablo_main-large  147 166	tpablo_main-large  147 166	tpablo_main-large  147 166	
+generate_match	:	onepiecehoki_a  8 24	
+c_to_lr	:	hellman_a  35 43	
+memoryview	:	eMBe_A  36 41	eMBe_A  53 63	eMBe_A  29 34	eMBe_A  29 34	
+outcome_string	:	FatAlex_a  84 85	FatAlex_a  88 91	
+getd	:	rishig_a  42 49	
+lex	:	h4tguy_a  25 32	h4tguy_a  25 32	h4tguy_a  25 32	h4tguy_a  1 17	
+permute	:	MathProgrammer_prob1  3 16	
+Files	:	fandersen_GCJ  206 224	
+filepref	:	fandersen_GCJ  109 142	fandersen_GCJ  109 142	fandersen_GCJ  109 142	fandersen_GCJ  109 142	
+%s=%s\t	:	Yaksha_A  10 15	
+generator	:	Ha.sH_solver  121 141	Ha.sH_solver  121 141	
+getprs	:	lkj_a  1 8	lkj_a  24 32	lkj_a  24 32	lkj_a  24 32	
+other_index_arr	:	Ananya_A  23 56	
+qparts	:	kevinsogo_a  45 47	
+_files	:	lackofcheese_src_codejam_io  23 27	lackofcheese_src_codejam_io  29 35	lackofcheese_src_codejam_io  19 21	
+Elapsed	:	bigOnion_rps  43 52	bigOnion_rps  42 53	
+first_sol	:	chrisx_A  92 102	chrisx_A  92 102	chrisx_A  92 102	
+is_valid	:	jabbawookiees_r2a  30 40	ikicha_rock_paper_scissor  36 42	ikicha_rock_paper_scissor  23 33	ikicha_rock_paper_scissor  23 33	
+parents	:	Eric.W_main  11 15	HexTree_2a  1 22	HexTree_2a  1 22	HexTree_2a  1 22	
+bigger	:	IdoLivneh_A  154 167	
+win_map	:	Ananya_A  11 21	
+-m	:	fandersen_GCJ  109 142	
+bool	:	tpablo_main-large  24 25	
+startingValue	:	mrauen_A  30 53	mrauen_A  30 53	
+solvable	:	EricStansifer_a  21 39	EricStansifer_a  21 39	
+remaining	:	gengkev_A2  5 15	gengkev_A2  5 15	
+SIG_IGN	:	mth_A  55 83	mth_A  55 83	
+...	:	bigOnion_rps  94 111	bigOnion_rps  87 113	
+tests	:	tpablo_main-large  147 166	tpablo_main-large  147 166	
+winner_tree	:	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	
+clean_pickles	:	tpablo_main-large  147 166	
+fileout	:	byc_A  8 11	byc_A  8 11	byc_A  8 11	
+res1	:	Terence_A  2 14	Terence_A  2 14	Terence_A  2 14	Terence_A  2 14	
+possible	:	Ha.sH_showdown  13 17	Ha.sH_showdown  19 28	
+print_sol	:	johnLate_a  6 7	
+FileWrapper	:	fandersen_GCJ  155 160	
+Error!	:	Sylvus_solution  6 17	
+summ	:	chrisx_A  37 58	chrisx_A  37 58	chrisx_A  37 58	chrisx_A  37 58	
+iter	:	NekoChen_a  11 16	Triply_a  25 39	
+getopt	:	fandersen_GCJ  109 142	
+memoized	:	tanriol_A  11 18	
+using	:	Ha.sH_solver  17 46	
+execution	:	Ha.sH_solver  17 46	
+getrlimit	:	mth_A  55 83	
+desc	:	Ha.sH_solver  17 46	Ha.sH_solver  17 46	
+possibleEndings	:	mrauen_A  30 53	mrauen_A  30 53	mrauen_A  30 53	mrauen_A  30 53	
+compute_rps	:	Strikeskids_A  49 51	Strikeskids_A  43 47	
+reduce_map	:	Tedday_A  9 11	Tedday_A  9 11	Tedday_A  9 11	
+nsol	:	chrisx_A  92 102	chrisx_A  92 102	chrisx_A  92 102	
+SRPR	:	romd_RPS  8 19	
+file_out	:	feketrob_main  5 9	
+allpairs	:	mxx_A  7 36	mxx_A  7 36	
+get_counts	:	arknave_rps  59 69	arknave_rps  21 27	
+signal	:	mth_A  55 83	mth_A  55 83	mth_A  55 83	
+cur_game	:	jzj_A  94 106	jzj_A  94 106	jzj_A  94 106	jzj_A  94 106	
+loser	:	gilesg_A  17 53	gilesg_A  17 53	gilesg_A  17 53	dkorduban_A  59 68	
+specific	:	Ha.sH_solver  17 46	
+case:	:	bigOnion_rps  150 153	
+new_result	:	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	
+have	:	bigOnion_rps  87 113	fandersen_GCJ  206 224	
+#%s:	:	aklecram_solveA  8 28	ody42_solve  71 77	klolos_jam  62 63	phire_1  33 37	
+soft	:	mth_A  55 83	
+new_answer	:	DAMF_make_legitimate_final_states  17 36	DAMF_make_legitimate_final_states  17 36	DAMF_make_legitimate_final_states  17 36	
+aparmeters	:	bigOnion_rps  87 113	
+readfloats	:	EricStansifer_common  25 27	
+\n##	:	bigOnion_rps  150 153	
+multiCase	:	fandersen_GCJ  8 12	fandersen_GCJ  171 204	
+realpath	:	lackofcheese_src_codejam_io  90 113	
+Chosen	:	bigOnion_rps  165 199	bigOnion_rps  165 199	bigOnion_rps  165 199	bigOnion_rps  165 199	
+iterate_cases_1lpc	:	IdoLivneh_A  259 278	IdoLivneh_A  12 17	
+vs:tlm:	:	fandersen_GCJ  109 142	
+some	:	tpablo_main-large  209 220	
+input_numbers	:	yichen_solution  57 67	yichen_solution  57 67	
+ArgumentParser	:	Ha.sH_solver  17 46	tpablo_main-large  209 220	
+get_order	:	FatAlex_a  53 59	FatAlex_a  53 59	
+chunks	:	PhilippSinitsyn_problem  37 49	PhilippSinitsyn_problem  32 35	
+read_float_list	:	dpforest_A  66 68	
+b2	:	UberFarmer_A  93 103	UberFarmer_A  93 103	UberFarmer_A  93 103	UberFarmer_A  93 103	
+apply	:	mth_A  55 83	
+output1	:	Tish_stage 2  67 89	Tish_stage 2  67 89	Tish_stage 2  67 89	Tish_stage 2  18 27	
+OUTPUT_FILE_NAME	:	romd_RPS  60 76	
+pos2	:	LiranR_showdown2  5 10	LiranR_showdown2  5 10	LiranR_showdown2  5 10	LiranR_showdown2  5 10	
+open_output_file	:	Ha.sH_solver  121 141	Ha.sH_solver  59 66	
+getMinString	:	Nika86_Showdown  21 31	Nika86_Showdown  21 31	Nika86_Showdown  21 31	
+Solu	:	chrisx_A  5 16	
+lineup_ok	:	wilsonhsu_A  38 39	wilsonhsu_A  41 49	
+WINNER	:	178855371157_a  17 26	
+rnext	:	gauravjs_1  26 51	gauravjs_1  26 51	gauravjs_1  26 51	gauravjs_1  26 51	
+runSolveMode	:	tpablo_main-large  193 206	tpablo_main-large  169 178	
+sub_cases_left	:	IdoLivneh_A  32 60	IdoLivneh_A  32 60	IdoLivneh_A  32 60	
+bst	:	rompel_rps  27 42	rompel_rps  27 42	rompel_rps  27 42	
+read_lines	:	Fedux_rock  135 136	
+pcount	:	MathProgrammer_prob1  18 52	MathProgrammer_prob1  18 52	MathProgrammer_prob1  18 52	MathProgrammer_prob1  18 52	
+exit	:	fandersen_GCJ  109 142	Strikeskids_A  59 63	
+get_game	:	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	jzj_A  94 106	
+--validate	:	fandersen_GCJ  109 142	
+Conclusion	:	bigOnion_rps  165 199	
+proc	:	tpablo_main-large  193 206	tpablo_main-large  193 206	tpablo_main-large  193 206	tpablo_main-large  193 206	
+setrlimit	:	mth_A  55 83	
+l3	:	ChevalierMalFet_rps  9 38	ChevalierMalFet_rps  9 38	ChevalierMalFet_rps  9 38	
+Default	:	ody42_solve  29 45	ody42_solve  29 45	
+outputFn	:	tpablo_main-large  181 190	tpablo_main-large  181 190	
+EOFError	:	eMBe_A  18 27	
+ba	:	farin_a  79 88	farin_a  79 88	
+memoized_solve	:	jabbawookiees_r2a  23 27	jabbawookiees_r2a  8 18	jabbawookiees_r2a  8 18	
+Solver	:	tanriol_A  57 62	
+bl	:	AJ721_Round2-A  18 57	AJ721_Round2-A  18 57	AJ721_Round2-A  18 57	AJ721_Round2-A  18 57	
+inspect	:	bigOnion_rps  87 113	bigOnion_rps  87 113	lackofcheese_src_codejam_io  90 113	
+sts	:	alex1770_rps  5 27	
+lineout	:	byc_A  8 11	
+O	:	Veltz_A  80 100	Veltz_A  80 100	Veltz_A  80 100	
+evolve	:	xenosoz.here_A  21 23	xenosoz.here_A  13 19	
+bw	:	smurty_A  4 21	smurty_A  4 21	smurty_A  4 21	
+oldSC	:	lostrainbow_A  10 34	lostrainbow_A  10 34	lostrainbow_A  10 34	
+GetResult	:	pr0v3rbs_A  38 73	
+br	:	AJ721_Round2-A  18 57	AJ721_Round2-A  18 57	AJ721_Round2-A  18 57	
+module_name	:	lackofcheese_src_codejam_io  90 113	lackofcheese_src_codejam_io  90 113	
+Storing	:	fandersen_GCJ  109 142	
+sortedTourney	:	ChevalierMalFet_rps  9 38	ChevalierMalFet_rps  9 38	ChevalierMalFet_rps  9 38	
+pnext	:	gauravjs_1  26 51	gauravjs_1  26 51	gauravjs_1  26 51	gauravjs_1  26 51	
+build_recursive_solution	:	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  28 36	Meerness_rock_paper_scissors  10 25	
+__input_filename	:	bigOnion_rps  132 136	bigOnion_rps  123 130	
+z2	:	Ljq_a  13 18	Ljq_a  13 18	Ljq_a  13 18	Ljq_a  13 18	
+???	:	elockhart_A  40 47	
+out2	:	alikhtarov_a  8 23	alikhtarov_a  8 23	alikhtarov_a  8 23	
+output.txt	:	IdoLivneh_A  259 278	
+hard	:	mth_A  55 83	mth_A  55 83	
+would	:	fandersen_GCJ  109 142	
+idx	:	fandersen_GCJ  171 204	fandersen_GCJ  171 204	fandersen_GCJ  171 204	fandersen_GCJ  171 204	
+AP	:	yichen_solution  1 41	yichen_solution  1 41	
+of	:	bigOnion_rps  94 111	bigOnion_rps  87 113	wonstin_A  31 34	fandersen_GCJ  206 224	
+oe	:	FatAlex_a  61 64	FatAlex_a  61 64	
+msum	:	cailw_a  20 21	
+simul	:	m.camac_A  12 20	m.camac_A  12 20	
+iterate_cases_nlpc	:	IdoLivneh_A  19 30	
+doSolve	:	Yaksha_A  18 31	
+get_command_line_kwargs	:	Ha.sH_solver  196 205	Ha.sH_solver  168 210	Ha.sH_solver  144 214	Ha.sH_solver  17 46	
+{1}	:	YuMS_A  50 56	NekoChen_a  66 73	EricDLee_A  59 69	EricDLee_A  59 69	
+op	:	matwetu_a  12 25	matwetu_a  29 43	
+new_test_case	:	bigOnion_rps  150 153	bigOnion_rps  203 209	
+pfun	:	lackofcheese_src_codejam_io  37 88	lackofcheese_src_codejam_io  37 88	
+_case	:	aklecram_solveA  8 28	aklecram_solveA  8 28	aklecram_solveA  8 28	aklecram_solveA  8 28	
+No	:	bigOnion_rps  165 199	
+new_matchup	:	Uts_rps  25 35	Uts_rps  25 35	Uts_rps  25 35	
+0s	:	romd_RPS  8 19	
+Make	:	Ljq_a  13 18	Ljq_a  13 18	Ljq_a  13 18	Ljq_a  20 27	
+process_first	:	lackofcheese_src_showdown  26 29	
+sor	:	yichen_solution  57 67	yichen_solution  43 54	
+master	:	tpablo_main-large  193 206	tpablo_main-large  209 220	
+ints	:	gilesg_A  5 5	
+__input_file	:	bigOnion_rps  132 136	bigOnion_rps  123 130	bigOnion_rps  144 148	bigOnion_rps  138 142	
+wrap	:	Subscheme_A-small  5 10	Subscheme_A-small  5 10	Subscheme_A-small  7 9	
+rP	:	elockhart_A  40 47	elockhart_A  40 47	elockhart_A  40 47	
+soon	:	fandersen_GCJ  171 204	
+file.	:	Ha.sH_solver  17 46	
+winnerStr	:	unsneakyNinja_rps  20 27	unsneakyNinja_rps  20 27	unsneakyNinja_rps  20 27	
+_cc	:	narri_A  3 6	
+log	:	Fedux_rock  83 103	Fedux_rock  114 116	Yaksha_A  18 31	Yaksha_A  18 31	
+NO	:	jdoerrie_main  20 56	
+getNums	:	gengkev_A2  30 35	gengkev_A2  18 27	
+recBuild	:	eXtreme_A  9 27	eXtreme_A  9 27	eXtreme_A  9 27	
+initial	:	CyberEwok_a2  35 41	CyberEwok_a2  35 41	CyberEwok_a2  35 41	CyberEwok_a2  35 41	
+%s=%s	:	kevinsogo_a  10 11	
+transform	:	Sylvus_solution  34 46	
+fight	:	lackofcheese_src_showdown  69 73	lackofcheese_src_showdown  54 61	kpbochenek_perplexing-showdown  10 16	jzj_A  43 53	
+process_case	:	lackofcheese_src_showdown  31 36	
+process_input	:	lackofcheese_src_codejam_io  37 88	
+second_result	:	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	
+num_of_subs	:	IdoLivneh_A  32 60	IdoLivneh_A  32 60	
+verify_result	:	Morph0_r2a  5 21	Morph0_r2a  5 21	Morph0_r2a  25 36	
+initiated.	:	fandersen_GCJ  109 142	
+Execution	:	Ha.sH_solver  121 141	
+sortBuild	:	QuantumCaffeine_showdown  25 36	
+sol_quick	:	LiranR_showdown2  32 36	
+substrB	:	Salls_a  18 26	Salls_a  18 26	Salls_a  18 26	Salls_a  18 26	
+r_	:	matwetu_a  12 25	matwetu_a  12 25	matwetu_a  12 25	
+sub2	:	CyberEwok_a2  24 33	CyberEwok_a2  24 33	CyberEwok_a2  24 33	
+perplex	:	PhilippSinitsyn_problem  37 49	PhilippSinitsyn_problem  51 61	
+memoize_it	:	bigOnion_rps  18 28	
+sub1	:	CyberEwok_a2  24 33	CyberEwok_a2  24 33	CyberEwok_a2  24 33	
+MEMO	:	m.camac_A  28 50	m.camac_A  28 50	m.camac_A  28 50	m.camac_A  28 50	
+.err	:	fandersen_GCJ  109 142	
+back	:	ppershing_large  56 59	ppershing_large  6 31	
+output_file_index	:	bigOnion_rps  165 199	bigOnion_rps  165 199	
+hh	:	dpforest_A  18 43	dpforest_A  18 43	dpforest_A  18 43	
+hi	:	mdippel_A  31 43	mdippel_A  31 43	mdippel_A  31 43	mdippel_A  31 43	
+__parsed_filename	:	bigOnion_rps  132 136	bigOnion_rps  123 130	
+_R	:	waitingkuo0527_main  6 40	waitingkuo0527_main  6 40	waitingkuo0527_main  6 40	
+_verbose	:	Fedux_rock  83 103	Fedux_rock  83 103	
+new_sub_case	:	IdoLivneh_A  32 60	IdoLivneh_A  32 60	IdoLivneh_A  32 60	IdoLivneh_A  32 60	
+RSRP	:	romd_RPS  8 19	
+compute	:	gepa_A  29 39	Alan.Chang_A  63 72	
+vecadd	:	lidaobing_1  60 61	lidaobing_1  65 75	lidaobing_1  65 75	lidaobing_1  65 75	
+_map	:	waitingkuo0527_main  6 40	
+uu	:	dkorduban_A  70 80	dkorduban_A  70 80	dkorduban_A  70 80	
+....	:	bigOnion_rps  94 111	bigOnion_rps  94 111	bigOnion_rps  87 113	bigOnion_rps  87 113	
+hmm	:	fandersen_a  30 38	fandersen_a  30 38	fandersen_a  30 38	fandersen_a  30 38	
+cache_d	:	bigOnion_rps  32 36	bigOnion_rps  32 36	
+generate_tournament	:	smapson_A  13 20	smapson_A  22 26	
+GOOGLE_DRIVE	:	lackofcheese_src_codejam_io  90 113	
+Added	:	lackofcheese_src_codejam_io  90 113	
+precalc	:	QuantumCaffeine_showdown  44 54	
+verify_outcome	:	FatAlex_a  110 123	FatAlex_a  129 142	FatAlex_a  107 108	
+lvl	:	MathProgrammer_prob1  3 16	
+problem	:	Ha.sH_solver  17 46	
+deadlock	:	mth_A  29 53	mth_A  12 27	mth_A  32 50	
+clear	:	bigOnion_rps  32 36	NekoChen_a  53 64	
+rotateLex	:	EvgeniSergeev_a  13 22	
+store_false	:	Ha.sH_solver  17 46	Ha.sH_solver  17 46	Ha.sH_solver  17 46	Ha.sH_solver  17 46	
+Time	:	LinesPrower_p1  39 55	
+ab	:	farin_a  79 88	farin_a  79 88	
+0011	:	romd_RPS  20 55	
+inputSeparator	:	Veltz_A  15 25	Veltz_A  15 25	Veltz_A  15 25	
+sort_rps	:	gepa_A  4 13	gepa_A  4 13	gepa_A  4 13	gepa_A  15 26	
+mask	:	dkorduban_A  36 51	dkorduban_A  36 51	
+RLIMIT_AS	:	mth_A  55 83	mth_A  55 83	
+b3	:	CMM_A  30 36	CMM_A  39 49	
+readlines	:	romd_RPS  60 76	IdoLivneh_A  154 167	Fedux_rock  135 136	
+final_seq	:	mario.lipovsky_A  10 14	mario.lipovsky_A  57 79	
+tmpz	:	ppershing_large  33 46	ppershing_large  33 46	
+next_S	:	mdippel_A  45 53	mdippel_A  45 53	mdippel_A  45 53	mdippel_A  45 53	
+Expected	:	EricStansifer_common  35 75	
+q2old	:	Tish_stage 2  127 158	
+executer_calcul	:	alpha3_Script  15 29	
+inh	:	fandersen_GCJ  155 160	fandersen_GCJ  155 160	fandersen_GCJ  155 160	fandersen_GCJ  155 160	
+``%s\'\'...	:	tpablo_main-large  169 178	
+IF	:	lostrainbow_A  37 47	lostrainbow_A  37 47	
+{0}.out	:	wilsonhsu_A  51 65	
+%d:	:	fandersen_GCJ  162 169	fandersen_GCJ  206 224	
+#%i:	:	Mordecai_PRS  12 16	
+parsed	:	romd_RPS  5 7	romd_RPS  5 7	romd_RPS  5 7	romd_RPS  5 7	
+best_tournament	:	AJ721_Round2-A  59 70	AJ721_Round2-A  18 57	AJ721_Round2-A  18 57	AJ721_Round2-A  18 57	
+read_decimal_list	:	dpforest_A  69 71	
+Reading	:	fandersen_GCJ  109 142	
+test_solutions	:	FatAlex_a  110 123	
+wfunc	:	Jed_solve  20 25	Jed_solve  20 25	Jed_solve  21 24	
+read_float	:	dpforest_A  53 55	Fedux_rock  150 151	
+--multi	:	fandersen_GCJ  109 142	
+next_p	:	feketrob_main  11 33	feketrob_main  11 33	feketrob_main  11 33	
+ext	:	lackofcheese_src_codejam_io  37 88	lackofcheese_src_codejam_io  37 88	
+readval	:	mxx_A  1 2	
+get_test_case	:	bigOnion_rps  203 209	bigOnion_rps  220 225	bigOnion_rps  159 161	
+solve_wrapper	:	aklecram_solveA  30 33	aklecram_solveA  8 28	aklecram_solveA  8 28	
+1110	:	romd_RPS  20 55	
+that	:	fandersen_GCJ  109 142	
+read_strings	:	Fedux_rock  141 142	
+treesort	:	ahausch_Atest  26 35	ahausch_Atest  26 35	ahausch_Atest  26 35	
+ranger	:	Tashiqi_RatherPerplexingShowdown  12 27	Tashiqi_RatherPerplexingShowdown  12 27	Tashiqi_RatherPerplexingShowdown  12 27	
+almost_best	:	Alan.Chang_A  30 61	Alan.Chang_A  30 61	
+tie	:	mdippel_A  31 43	mdippel_A  31 43	mdippel_A  31 43	
+do_one_case	:	rompel_rps  49 53	rompel_rps  16 24	
+memoize	:	kevinsogo_a  26 37	gilesg_A  17 53	
+string2	:	mrauen_A  11 28	mrauen_A  11 28	mrauen_A  11 28	mrauen_A  11 28	
+-p	:	tpablo_main-large  209 220	
+``%s\'\'	:	tpablo_main-large  169 178	
+next_c	:	feketrob_main  11 33	feketrob_main  11 33	feketrob_main  11 33	
+nlst	:	Ljq_a  20 27	
+executer_gagnant	:	alpha3_Script  31 40	alpha3_Script  31 40	alpha3_Script  31 40	
+--clean-pickles	:	tpablo_main-large  209 220	
+games	:	robostac_test  51 59	robostac_test  51 59	
+--clean-results	:	tpablo_main-large  209 220	
+each_case	:	ChienYu_gcj_RPS  16 24	
+q3old	:	Tish_stage 2  161 188	
+bundle	:	jilljenn_A  6 13	jilljenn_A  6 13	jilljenn_A  6 13	
+propCounts	:	gurtej.kanwar_A  5 13	gurtej.kanwar_A  17 39	
+AS	:	yichen_solution  1 41	yichen_solution  1 41	
+AR	:	yichen_solution  1 41	yichen_solution  1 41	
+eval	:	Ha.sH_solver  88 109	
+Output	:	bigOnion_rps  165 199	bigOnion_rps  165 199	
+pos1	:	LiranR_showdown2  5 10	LiranR_showdown2  5 10	LiranR_showdown2  5 10	
+whitespace	:	eMBe_A  53 63	eMBe_A  65 74	
+reduc	:	jilljenn_A  1 4	
+nxt	:	rishig_a  42 49	rishig_a  27 31	johnLate_a  9 13	johnLate_a  9 13	
+compute_rps_tree	:	Strikeskids_A  43 47	Strikeskids_A  30 41	Strikeskids_A  30 41	
+count_p	:	Fedux_rock  57 73	Fedux_rock  57 73	
+num_t	:	ikicha_rock_paper_scissor  45 51	ikicha_rock_paper_scissor  45 51	
+modules	:	Ha.sH_solver  69 77	lackofcheese_src_codejam_io  90 113	lackofcheese_src_codejam_io  90 113	
+c_s	:	milki_a  26 34	milki_a  26 34	
+rule	:	rompel_rps  27 42	
+numTodo	:	fandersen_GCJ  171 204	fandersen_GCJ  171 204	fandersen_GCJ  171 204	
+multisort	:	LiranR_showdown2  23 30	LiranR_showdown2  13 21	
+c_r	:	milki_a  26 34	milki_a  26 34	
+compete	:	etotheipi_a  1 16	Subscheme_A-small  49 50	Subscheme_A-small  52 57	
+n0	:	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	jzj_A  56 91	
+P_2	:	Veltz_A  40 78	Veltz_A  40 78	Veltz_A  40 78	Veltz_A  40 78	
+readarray	:	mihaild_template  12 13	

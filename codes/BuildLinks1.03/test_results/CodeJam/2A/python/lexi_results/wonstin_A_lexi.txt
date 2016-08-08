@@ -1,0 +1,38 @@
+import itertools 		1
+import string 		2
+beats = P R R S S P 		4
+loses_to = b a for a b in beats items 		5
+solns = 		8
+for winner in PRS 		9
+okStrings = winner 		10
+for N in range 3 		11
+print N 		12
+print {} current acceptable strings format len okStrings 		13
+newOkStrings = 		14
+for okString in okStrings 		15
+lists = itertools product * p beats p beats p p for p in okString 		16
+for list in lists 		17
+newOkStrings append  join  join pair for pair in list 		18
+okStrings = sorted newOkStrings 		20
+best = okStrings 0 		21
+P R S = best count P best count R best count S 		22
+solns N + 1 P R S = best 		23
+for key in sorted solns keys 		25
+print key solns key 		26
+def solve N R P S 		28
+return solns get N P R S IMPOSSIBLE 		29
+def test inputs ans 		31
+b = solve * inputs 		32
+if b != ans 		33
+print Failed test! Inputs {} should give answer of {} not {} format   join inputs ans b 		34
+def main 		36
+outfile = open a.out w 		38
+T = int string strip raw_input 		39
+for k in xrange 1 T + 1 		41
+print k 		42
+N R P S = map int string strip raw_input split 		43
+answer = solve N R P S 		44
+outfile write Case #%d: %s\n % k answer 		45
+if __name__ == __main__ 		47
+main 		48
+pass 		49

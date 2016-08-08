@@ -1,0 +1,32 @@
+import sys 		1
+def round_for L 		3
+if L == R 		4
+return RS 		5
+if L == S 		6
+return PS 		7
+if L == P 		8
+return PR 		9
+def tournament_for l N 		11
+if N == 0 return l 		12
+parents = round_for l 		14
+return  join 		15
+sorted 		16
+tournament_for p N - 1 		17
+for p in parents 		18
+def solve N R P S 		22
+trees = tournament_for letter N 		23
+for letter in PRS 		24
+try 		25
+return min 		26
+t 		27
+for t in trees 		28
+if t count P == P and t count R == R 		29
+except ValueError 		31
+return IMPOSSIBLE 		32
+sys stdin = open large.in 		34
+sys stdout = open large.out w 		35
+T = int input 		37
+for i in range T 		39
+N R P S = int x for x in input split 		40
+res = solve N R P S 		42
+print Case #{}: {} format i + 1 res 		43

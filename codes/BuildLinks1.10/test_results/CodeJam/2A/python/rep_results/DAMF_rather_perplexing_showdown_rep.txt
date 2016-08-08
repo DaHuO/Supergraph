@@ -1,0 +1,2 @@
+factorial factorial if 		131 135
+nchoosek n k answer = 		138 144

@@ -1,0 +1,2 @@
+array_length array_length array_length array_length mid_element mid_element r - l if % 2 == 0 median = / 2 - 1 else median 		14 36
+def quick_sort a l r if l 		3 11

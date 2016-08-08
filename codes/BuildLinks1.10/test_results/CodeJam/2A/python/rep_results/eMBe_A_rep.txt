@@ -1,0 +1,13 @@
+_read_line _read_line_raw memoryview 		36 41
+tokens identity token 		76 78
+sec sec sec sec r s res if max p r s - min p r s > 1 return None if p + r + s != 2 ** n return None if p r 		100 131
+gcj tokens n r p s = 4 int res 		133 145
+_read_line_raw IN EOFError if cls 		18 27
+setrecursionlimit 10000 gcj token 		147 152
+whitespace _read_line_raw isspace memoryview = None while not 		53 63
+_read_line_view _read_line_raw memoryview 		29 34
+identity _read_line b'\r\n' 		43 46
+token identity whitespace _read_line_view isspace tobytes line = cls 		65 74
+def result a b results 		87 96
+splitline identity _read_line 		48 51
+current_case b'Case #{}:' 		82 85

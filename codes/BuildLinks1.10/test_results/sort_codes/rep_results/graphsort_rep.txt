@@ -1,0 +1,8 @@
+bubbleSort sleep 0.1 appWindow drawGraph update_idletasks len self numberList 		19 28
+Canvas height 400 width 600 relief RAISED bg 		71 74
+bubble Button text Sort command bubbleSort bubble BOTTOM selection Button text Selection Sort command 		49 60
+genButtonEvent entry get 		62 66
+drawGraph numList delete ALL leftRect create_rectangle 580 300 fill white outline 		78 85
+genNumbers 290 appWindow drawGraph 		12 16
+genNumbers 		7 8
+selectionSort sleep 0.1 appWindow drawGraph update_idletasks len self numberList - 1 0 		30 45

@@ -1,0 +1,5 @@
+do_parse input 		57 58
+expand_orderd rep 0p PRRS 0s PRPS 		8 19
+do_case parsed 		5 7
+bestComp rep2 0011 0101 0110 1011 1101 1110 2011 2101 2110 rep2 bestComp expand_orderd expand_orderd expand_orderd if R == 1 return R if P == 1 return P if S == 1 return S if players 		20 55
+INPUT_FILE_NAME num_of_test_cases 10 input_lines readlines num_of_test_cases parsed_input do_parse input_lines LINES_FOR_EACH_INPUT LINES_FOR_EACH_INPUT do_case 		60 76

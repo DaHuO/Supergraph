@@ -1,0 +1,52 @@
+from collections import defaultdict 		1
+patterns = 		2
+canbe = defaultdict list 		3
+def generateAll N 		5
+global patterns 		6
+global canbe 		7
+patterns append 1 0 0 		8
+for i in range N 		9
+last = patterns - 1 		10
+thisOne = last 		11
+for j in range 3 		12
+thisOne j = last j + 2 % 3 		13
+thisOne j += last j 		14
+patterns append thisOne 		15
+for i in range N 0 - 1 		17
+for j in range 3 		18
+canbe patterns i j append patterns i - 1 j 		19
+def generate R P S 		22
+if R + P + S == 1 		23
+if R == 1 		24
+return R 		25
+elif P == 1 		26
+return P 		27
+else 		28
+return S 		29
+if R == S 		30
+piece0 = generate canbe R 0 canbe P 0 canbe S 1 		31
+piece1 = generate canbe R 1 canbe P 0 canbe S 0 		32
+elif R == P 		33
+piece0 = generate canbe R 0 canbe P 1 canbe S 0 		34
+piece1 = generate canbe R 1 canbe P 0 canbe S 0 		35
+else 		36
+piece0 = generate canbe R 0 canbe P 0 canbe S 1 		37
+piece1 = generate canbe R 0 canbe P 1 canbe S 0 		38
+if piece0 < piece1 		39
+return piece0 + piece1 		40
+else 		41
+return piece1 + piece0 		42
+def solve N R P S 		44
+pattern = patterns N 		45
+if sorted pattern != sorted R P S 		46
+return IMPOSSIBLE 		47
+return generate R P S 		48
+def main 		50
+global patterns 		51
+T = input 		52
+generateAll 12 		53
+for i in xrange 1 T + 1 		54
+N R P S = map int raw_input split 		55
+print Case #{0}: {1} format i solve N R P S 		56
+if __name__ == __main__ 		58
+main 		59

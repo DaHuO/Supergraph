@@ -1,0 +1,42 @@
+import plotting 		4
+data = 		9
+def isSorted 		14
+return all data i <= data i + 1 for i in xrange len data - 1 		16
+def genData 		18
+from random import randint 		20
+return randint 1 80 for i in xrange data_length 		21
+def genPermutation 		23
+from random import shuffle 		25
+x = range data_length 		26
+shuffle x 		27
+return x 		28
+def testAlgorithm n = 100 		34
+global data 		36
+global test 		37
+test = True 		39
+for __ in xrange n 		40
+data = genData 		41
+data = algorithm 		42
+if not isSorted 		43
+print Error! A counterexample was found! 		44
+print self data 		45
+return False 		46
+return True 		47
+def plotAlgorithm 		49
+global data 		51
+global test 		52
+test = False 		54
+data = genPermutation 		55
+data = algorithm 		56
+def start 		63
+return data 		65
+def swap i j 		67
+data i data j = data j data i 		69
+if plot_swaps and not test plotting swaps i j 		70
+def iteration 		72
+if not test plotting snapshot 		74
+def end 		76
+if not test 		78
+plotting snapshot 		79
+plotting createMovie 		80
+plotting restart 		81

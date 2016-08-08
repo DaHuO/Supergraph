@@ -1,0 +1,5 @@
+go l ret = for t 		48 57
+def output 		60 61
+def bin_sort l if len l <= 2 		36 46
+def main T = int raw_input gen R 12 gen P 12 gen S 		5 24
+go c_r c_p c_s c_r c_p c_s = l for r in range 		26 34

@@ -1,0 +1,4 @@
+def partition array start end pivot = array end 		8 22
+_quicksort 		31 32
+def swap array 		3 6
+_quicksort _quicksort _quicksort end if 		24 29

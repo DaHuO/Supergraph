@@ -1,0 +1,5 @@
+sort_sub sub1 sub2 sub1 sub2 sub1 sub2 = 		24 33
+def count tour r p s = 		43 52
+initial initial initial initial 		35 41
+sort_sub sort word n 		17 22
+trials transitions trial trials transitions transitions transitions {}\n trial R SR P PR S PS for in range 1 		1 15

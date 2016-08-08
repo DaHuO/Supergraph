@@ -1,0 +1,2 @@
+lex lex lex if n == 0 		25 32
+lex solve n r p s poss = for i in RPS m = 		1 17

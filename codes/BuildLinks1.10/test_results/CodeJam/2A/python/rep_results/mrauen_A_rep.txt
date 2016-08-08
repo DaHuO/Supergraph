@@ -1,0 +1,3 @@
+getStart optimalString N R P 		55 61
+optimalString twoValues string1 optimalString twoValues string2 optimalString twoValues string1 string2 string1 string2 string2 		11 28
+getStart possibleEndings newPossibleEndings possibleEndings newPossibleEndings possibleEndings newPossibleEndings possibleEndings dictionary startingValue dictionary dictionary dictionary startingValue S 0 P 0 R 0 S 1 		30 53

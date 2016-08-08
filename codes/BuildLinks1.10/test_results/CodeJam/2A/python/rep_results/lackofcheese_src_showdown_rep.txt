@@ -1,0 +1,6 @@
+fight WINNERS frozenset 		69 73
+process_case toks_line f_out case_no other_data = None 		31 36
+process_first f_in 		26 29
+it round N R P S lineups = players = R * 		38 52
+round fight new_lineup = for i in 		54 61
+toks_line fun 		23 24

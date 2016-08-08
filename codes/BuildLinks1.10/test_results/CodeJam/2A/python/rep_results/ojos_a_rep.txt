@@ -1,0 +1,1 @@
+so C N nn = 2 ** N for i in xrange N 		8 18

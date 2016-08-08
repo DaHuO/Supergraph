@@ -1,0 +1,47 @@
+def expand s 		1
+anss =  		2
+for i in s 		3
+if i == R 		4
+anss += RS 		5
+elif i == P 		6
+anss += PR 		7
+else 		8
+anss += PS 		9
+return anss 		10
+def game s 		12
+if len s == 1 		13
+return s 		14
+else 		15
+s1 = s len s / 2 		16
+s2 = s len s / 2 		17
+s1 = game s1 		18
+s2 = game s2 		19
+if s1 < s2 		20
+return s1 + s2 		21
+else 		22
+return s2 + s1 		23
+te = input 		24
+for qe in range 1 te + 1 		25
+n r p s = map int raw_input split 		27
+ans = 		29
+ss = S 		30
+for i in range n 		31
+ss = expand ss 		32
+if ss count P == p and ss count S == s and ss count R == r 		34
+ans append ss 		35
+rr = R 		38
+for i in range n 		39
+rr = expand rr 		40
+if rr count P == p and rr count S == s and rr count R == r 		42
+ans append rr 		43
+pp = P 		46
+for i in range n 		47
+pp = expand pp 		48
+if pp count P == p and pp count S == s and pp count R == r 		50
+ans append pp 		51
+ans = game ii for ii in ans 		53
+if len ans == 0 		55
+AAA = IMPOSSIBLE 		56
+else 		57
+AAA = sorted ans 0 		58
+print Case #{}: {} format qe AAA 		60

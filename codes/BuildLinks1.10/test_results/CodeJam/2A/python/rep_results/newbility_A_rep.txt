@@ -1,0 +1,3 @@
+fail s3p s3p s3p s3p = R + P 		6 10
+fail foo a N R 		42 46
+def output R P S remainder = s = R + P + S if s == 1 return R * R + P * P + S * S s3 = s / 3 RPS 		12 40

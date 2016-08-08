@@ -1,0 +1,62 @@
+import os inspect 		1
+problemName = A 		3
+testCase = large 		5
+attempt = 0 		7
+cache = 		9
+def optimalString finalValue X 		11
+if X in cache 		12
+return cache finalValue X 		13
+if X == 1 		15
+return finalValue 		16
+twoValues = R R S S S P P P R finalValue 		18
+string1 = optimalString twoValues 0 X / 2 		19
+string2 = optimalString twoValues 1 X / 2 		20
+if string1 < string2 		22
+result = string1 + string2 		23
+else 		24
+result = string2 + string1 		25
+cache finalValue X = result 		27
+return result 		28
+def getStart R P S 		30
+X = R + P + S 		31
+possibleEndings = R 1 S 0 P 0 R 0 S 1 P 0 R 0 S 0 P 1 		32
+value = 1 		33
+while value < X 		35
+value *= 2 		36
+newPossibleEndings = 		37
+for possibleEnding in possibleEndings 		38
+newDictionary = 		39
+newDictionary R = possibleEnding P + possibleEnding R 		40
+newDictionary P = possibleEnding S + possibleEnding P 		41
+newDictionary S = possibleEnding R + possibleEnding S 		42
+newPossibleEndings append newDictionary 		43
+possibleEndings = newPossibleEndings 		45
+for possibleEnding in zip possibleEndings R S P 		47
+dictionary = possibleEnding 0 		48
+startingValue = possibleEnding 1 		49
+if dictionary R == R and dictionary S == S and dictionary P == P 		50
+return startingValue 		51
+return None 		53
+def solution N R P S 		55
+result = getStart R P S 		56
+if result is None 		58
+return IMPOSSIBLE 		59
+return optimalString result R + P + S 		61
+currentDir = os path dirname os path abspath inspect getfile inspect currentframe 		63
+if testCase in large example 		64
+inputString = problemName + -%s % testCase 		65
+outputString = problemName + -%s % testCase 		66
+else 		67
+inputString = problemName + -%s-attempt%d % testCase attempt 		68
+outputString = problemName + -%s % testCase 		69
+inFile = os path join currentDir inputfiles %s.in % inputString 		71
+outFile = os path join currentDir outputfiles %s.out % outputString 		72
+if os path exists outFile 		74
+os remove outFile 		75
+with open inFile r as inputfile 		77
+numberOfCases = int inputfile readline 		78
+for case in xrange 1 numberOfCases + 1 		79
+N R P S = map int inputfile readline split   		80
+result = solution N R P S 		83
+with open outFile a as f 		85
+f write Case #%d: %s\n % case result 		86

@@ -1,0 +1,4 @@
+query lst1 query query query lst1 anslist item 		32 41
+NextRnd Winner ans = for i 		16 22
+Winner st1 st1 = Set st2 		7 14
+Works NextRnd while 		24 29

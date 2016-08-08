@@ -1,0 +1,3 @@
+def gen_tourney n winner if n winner in memo return memo n winner if n == 0 result = winner else t1 = gen_tourney n - 1 players winner 0 t2 = gen_tourney n - 1 players winner 1 if t1 < t2 result = t1 + t2 else result = t2 + t1 memo n winner = result return result 		50 63
+def readline return fp readline strip 		78 79
+def solve n r p s desired_hist = Counter R r P p S s for winner in RPS t = gen_tourney n winner hist = Counter t if all hist c == desired_hist c for c in RPS return t return IMPOSSIBLE 		66 73

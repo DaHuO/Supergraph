@@ -1,0 +1,2 @@
+STM p r s if r == 0 and s == 0 return P elif p == 0 and s == 0 return R elif p == 0 and r == 0 return S 		11 24
+STD STD STM STD s 		6 9

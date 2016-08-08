@@ -1,0 +1,2 @@
+has_winner WINNER curr = ordering while len curr > 1 		17 26
+has_winner find_winner o p r s if not p and not r and not s 		28 50

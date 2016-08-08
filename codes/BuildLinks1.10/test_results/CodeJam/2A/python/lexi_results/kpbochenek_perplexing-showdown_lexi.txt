@@ -1,0 +1,4 @@
+def fight la lb if la == R and lb == S return R if la == R and lb == P return P if la == P and lb == S return S if la == P and lb == R return P if la == S and lb == P return S if la == S and lb == R return R 		10 16
+def get_letters depth letter if depth == 0 return letter if letter == R left = get_letters depth - 1 R right = get_letters depth - 1 S if letter == S left = get_letters depth - 1 S right = get_letters depth - 1 P if letter == P left = get_letters depth - 1 P right = get_letters depth - 1 R if left > right return right + left return left + right 		19 33
+def __str__ self return Gamer({0}, {1}) format self letter self count 		7 8
+def __init__ self letter count self letter = letter self count = count 		3 5

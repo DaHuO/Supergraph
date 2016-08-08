@@ -1,0 +1,8 @@
+47 - 53 links:
+tanriol_A	:	68 - 76
+m.camac_A	:	55 - 70
+manu.factor_A	:	33 - 40
+LiranR_showdown2	:	32 - 36
+QuantumCaffeine_showdown	:	44 - 54
+NekoChen_a	:	30 - 51
+

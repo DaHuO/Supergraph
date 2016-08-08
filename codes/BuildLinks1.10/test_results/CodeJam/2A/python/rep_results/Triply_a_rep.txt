@@ -1,0 +1,4 @@
+find_lineup_bf can_finish r 		58 62
+def gen_lineups p r s current if p > 0 for l in 		43 54
+def match p1 p2 if p1 == p2 		11 22
+can_finish it iter it it while len old_lineup > 1 		25 39

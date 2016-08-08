@@ -1,0 +1,5 @@
+def count_match match counter = for x in match if not x in counter counter x = 0 counter x += 1 return counter 		26 32
+def generate_match winner N def get_next_level_element el if el == R return S R elif el == S return S P elif el == P return P R def get_next_level cur_level next_level = get_next_level_element x for x in cur_level return list itertools chain from_iterable next_level cur_level = winner for i in xrange 0 N cur_level = get_next_level cur_level return cur_level 		8 24
+def special_sort match smatch = match while len smatch > 1 for i in xrange 0 len smatch 2 if smatch i > smatch i + 1 temp = smatch i smatch i = smatch i + 1 smatch i + 1 = temp smatch = smatch i + smatch i + 1 for i in xrange 0 len smatch 2 return x for x in smatch 0 		34 43
+def get_next_level cur_level next_level = get_next_level_element x for x in cur_level return list itertools chain from_iterable next_level 		16 18
+def get_next_level_element el if el == R return S R elif el == S return S P elif el == P return P R 		9 15

@@ -1,0 +1,1 @@
+makesmaller makesmaller makesmaller len A == 		1 8

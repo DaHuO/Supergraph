@@ -1,0 +1,2 @@
+		4 5
+staticmethod def sort array for i in range 0 len array 		7 17

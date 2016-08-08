@@ -1,0 +1,1 @@
+sim hs r = hs nr = while len r + len nr 		4 19

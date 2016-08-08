@@ -1,0 +1,12 @@
+from random import shuffle 		3
+def bubbleSort alist 		6
+for passnum in range len alist - 1 0 - 1 		7
+for i in range passnum 		8
+if alist i > alist i + 1 		9
+temp = alist i 		10
+alist i = alist i + 1 		11
+alist i + 1 = temp 		12
+alist = i for i in range 10000 		15
+shuffle alist 		16
+bubbleSort alist 		18
+print alist 		19

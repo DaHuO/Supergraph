@@ -1,0 +1,26 @@
+from solver import solver 		1
+mapping = 		3
+P PR 		4
+S SP 		5
+R RS 		6
+def rec s n 		8
+if not n 		9
+return s 		10
+return  join sorted rec c n - 1 for c in mapping s 		11
+def possible n 		13
+a b c = 1 0 0 		14
+for x in range n 		15
+a b c = a + c b + a c + b 		16
+return a b c 		17
+solver 		19
+def showdown lines 		20
+n r p s = map int lines 0 split 		21
+d = r s p R 		22
+s p r S 		23
+p r s P 		24
+key = possible n 		25
+if key not in d 		26
+return IMPOSSIBLE 		27
+return rec d key n 		28
+if __name__ == __main__ 		30
+showdown from_cli 		31

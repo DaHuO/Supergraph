@@ -1,0 +1,65 @@
+fin = open A-large.in r 		1
+fout = open A-large.out w 		2
+class Node 		5
+def __init__ self 		6
+self nextNode = None 		7
+self prevNode = None 		8
+self val = R 		9
+def Recurse N tup 		11
+R P S = tup 		12
+if N == 1 		13
+if R P S == 1 1 0 		14
+return PR 		15
+elif R P S == 1 0 1 		16
+return RS 		17
+elif R P S == 0 1 1 		18
+return PS 		19
+else 		20
+return IMPOSSIBLE 		21
+sortedlist = list sorted R P S 		23
+if sortedlist 0 == sortedlist 1 and sortedlist 1 == sortedlist 2 - 1 		25
+first = 0 0 0 		26
+second = 0 0 0 		27
+m = max sortedlist / 2 		28
+if R == m * 2 		30
+first = m m m - 1 		31
+second = m m - 1 m 		32
+elif P == m * 2 		33
+first = m m m - 1 		34
+second = m - 1 m m 		35
+else 		36
+first = m - 1 m m 		37
+second = m m - 1 m 		38
+firstout = Recurse N - 1 first 		40
+secondout = Recurse N - 1 second 		41
+if firstout == IMPOSSIBLE or secondout == IMPOSSIBLE 		43
+return IMPOSSIBLE 		44
+return firstout + secondout 		46
+elif sortedlist 1 == sortedlist 2 and sortedlist 1 == sortedlist 0 + 1 		47
+first = 0 0 0 		48
+second = 0 0 0 		49
+m = min sortedlist / 2 		50
+if R == m * 2 		52
+first = m m + 1 m 		53
+second = m m m + 1 		54
+elif P == m * 2 		55
+first = m + 1 m m 		56
+second = m m m + 1 		57
+else 		58
+first = m m + 1 m 		59
+second = m + 1 m m 		60
+firstout = Recurse N - 1 first 		62
+secondout = Recurse N - 1 second 		63
+if firstout == IMPOSSIBLE or secondout == IMPOSSIBLE 		65
+return IMPOSSIBLE 		66
+return firstout + secondout 		68
+else 		69
+return IMPOSSIBLE 		70
+numlines = int fin readline rstrip 		72
+for line in range numlines 		74
+vals = str fin readline rstrip 		75
+N R P S = tuple int c for c in vals split   		76
+sortedlist = list sorted R P S 		78
+result = Recurse N R P S 		79
+outstr = Case # + str line + 1 + :  + str result + \n 		81
+fout write outstr 		83

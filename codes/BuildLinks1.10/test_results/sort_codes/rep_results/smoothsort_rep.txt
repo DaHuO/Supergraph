@@ -1,0 +1,4 @@
+sift lst pshift head while pshift > 1 rt = head - 1 lf = 		22 36
+trailingzeroes MultiplyDeBruijnBitPosition 		18 19
+smoothsort sift >>= sift <<= <<= |= trailingzeroes ~ >>= <<= ^= 7 >> len lst - 1 if p & 3 == 3 lst pshift head p 2 pshift 		61 98
+trusty trusty trailingzeroes ~ >>= trusty trusty sift != 1 stepson = head - LP pshift if lst stepson 		39 58

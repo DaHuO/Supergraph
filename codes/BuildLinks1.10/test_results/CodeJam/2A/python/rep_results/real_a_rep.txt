@@ -1,0 +1,1 @@
+def gen win level if level == 		8 13

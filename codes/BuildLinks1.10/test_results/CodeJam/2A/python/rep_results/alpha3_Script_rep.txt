@@ -1,0 +1,2 @@
+executer_calcul tournoi_optimal_P tournoi_optimal_P tournoi_optimal_P tournoi_optimal_P tournoi_optimal_R tournoi_optimal_R tournoi_optimal_R tournoi_optimal_R tournoi_optimal_S tournoi_optimal_S tournoi_optimal_S tournoi_optimal_S 2 S = entrees 3 Case = entrees 4 		15 29
+executer_gagnant rang_precedent executer_gagnant accu rang_precedent accu accu executer_gagnant rang_precedent accu N == 		31 40

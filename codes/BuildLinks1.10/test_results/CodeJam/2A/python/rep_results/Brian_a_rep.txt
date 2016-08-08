@@ -1,0 +1,2 @@
+backwards solve R P S depth if R + P + S == 1 if R == 1 		13 30
+backwards c depth if c == 		1 11

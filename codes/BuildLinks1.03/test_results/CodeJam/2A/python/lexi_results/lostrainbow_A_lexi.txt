@@ -1,0 +1,45 @@
+def addC X Y 		7
+return X 0 + Y 0 X 1 + Y 1 X 2 + Y 2 		8
+def generate N 		10
+if N == 1 		11
+return PR 1 1 0 RS 0 1 1 PS 1 0 1 		12
+else 		13
+temp = generate N - 1 		14
+oldP = temp 0 		15
+oldPC = temp 1 		16
+oldR = temp 2 		17
+oldRC = temp 3 		18
+oldS = temp 4 		19
+oldSC = temp 5 		20
+temp = sorted oldP oldR 		22
+newP = temp 0 + temp 1 		23
+newPC = addC oldPC oldRC 		24
+temp = sorted oldR oldS 		26
+newR = temp 0 + temp 1 		27
+newRC = addC oldRC oldSC 		28
+temp = sorted oldP oldS 		30
+newS = temp 0 + temp 1 		31
+newSC = addC oldPC oldSC 		32
+return newP newPC newR newRC newS newSC 		34
+def sol IF 		37
+temp = IF readline split 		38
+N = int temp 0 		39
+R = int temp 1 		40
+P = int temp 2 		41
+S = int temp 3 		42
+Possible = generate N 		43
+for i in range 1 6 2 		44
+if P R S == Possible i 		45
+return Possible i - 1 		46
+return IMPOSSIBLE 		47
+IF = open A-large.in r 		52
+OF = open A-large-output w 		53
+CaseN = int IF readline 		54
+for i in range 1 CaseN + 1 		55
+pretext = Case #{}:  format i 		56
+ans = sol IF 		57
+if i < CaseN 		58
+ans = ans + \n 		59
+OF write pretext + ans 		60
+IF close 		64
+OF close 		65

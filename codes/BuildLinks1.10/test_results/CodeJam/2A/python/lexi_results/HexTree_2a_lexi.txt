@@ -1,0 +1,1 @@
+def parents finalists if len finalists == 1 if finalists 0 == R return R S S R elif finalists 0 == S return P S S P elif finalists 0 == P return P R R P m = len finalists left = finalists m / 2 right = finalists m / 2 leftparents = parents left rightparents = parents right result = for x in leftparents for y in rightparents arr = x + y result append arr return result 		1 22

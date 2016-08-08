@@ -1,0 +1,42 @@
+def expand s rs ss ps n 		4
+ans = None 		5
+if s == S and ps > 0 		6
+ans = PS if n <= 2 else SP 		7
+ps -= 1 		8
+elif s == P and rs > 0 		9
+ans = PR 		10
+rs -= 1 		11
+elif s == R and ss > 0 		12
+ans = RS if n == 1 else SR 		13
+ss -= 1 		14
+return ans rs ss ps 		15
+def generate start rs ss ps n 		18
+ans = start 		19
+while n > 0 		20
+ans1 = 		22
+for s in ans 		23
+s1 rs ss ps = expand s rs ss ps n 		24
+if s1 is None 		25
+return None 		26
+ans1 += s1 		27
+ans =  join ans1 		28
+n -= 1 		29
+return ans 		31
+def get_possible_starts r p s 		34
+ans = 		35
+if r > 0 		36
+ans append R 		37
+if s > 0 		38
+ans append S 		39
+if p > 0 		40
+ans append P 		41
+return ans 		42
+def solve n r p s 		45
+return min list filter None generate ss r s p n for ss in get_possible_starts r p s or IMPOSSIBLE 		46
+def main 		49
+t = int input 		50
+for i in range 1 t + 1 		51
+n r p s = int x for x in input split 		52
+print Case #{}: {} format i solve n r p s 		53
+if __name__ == __main__ 		56
+main 		57

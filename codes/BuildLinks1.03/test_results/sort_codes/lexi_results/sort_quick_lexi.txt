@@ -1,0 +1,19 @@
+import random 		4
+def partition arr p r 		6
+x = arr r 		7
+i = p - 1 		8
+for j in range p r 		9
+if arr j <= x 		10
+i = i + 1 		11
+arr i arr j = arr j arr i 		12
+arr i + 1 arr r = arr r arr i + 1 		13
+return i + 1 		14
+def randomPartition arr p r 		16
+i = random randrange p r 		17
+arr r arr i = arr i arr r 		18
+return partition arr p r 		19
+def randomQuickSort arr p r 		21
+if p < r 		22
+q = randomPartition arr p r 		23
+randomQuickSort arr p q - 1 		24
+randomQuickSort arr q + 1 r 		25

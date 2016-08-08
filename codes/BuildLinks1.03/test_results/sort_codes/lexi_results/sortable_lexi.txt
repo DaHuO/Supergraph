@@ -1,0 +1,49 @@
+class Sortable 		2
+def __init__ self tracklist i 		3
+self tracklist self i = tracklist i 		4
+self path = 		5
+def __cmp__ self other 		7
+self tracklist total_comparisons += 1 		10
+try 		11
+return cmp self i other i 		12
+except AttributeError 		13
+return cmp self i other 		14
+def __int__ self 		16
+return self i 		17
+def __repr__ self 		19
+return str self i 		20
+class TrackList 		23
+def __init__ self itms 		28
+self lst = Sortable self i for i in itms 		29
+self start = self lst 		30
+self total_comparisons = 0 		31
+self log 		32
+def wrap self wrapper 		34
+self lst = wrapper i for i in self lst 		37
+self start = self lst 		38
+def reset self 		40
+self total_comparisons = 0 		41
+self lst = self start 		42
+def __getattr__ self attr 		44
+return getattr self lst attr 		47
+def log self 		49
+for i v in enumerate self 		50
+if v is not None 		51
+v path append i 		52
+class DummySortable object 		55
+def __init__ self i 		56
+self i = i 		57
+self path = 		58
+def __int__ self 		60
+return self i 		61
+def read_paths fp 		65
+sortables = 		72
+for i in fp readlines 		73
+n = i split 		74
+if not sortables 		75
+for j in n 		76
+j = int j 		77
+sortables j = DummySortable j 		78
+for offset j in enumerate n 		79
+sortables int j path append offset 		80
+return sortables values 		81

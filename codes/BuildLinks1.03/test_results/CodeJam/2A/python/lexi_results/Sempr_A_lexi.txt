@@ -1,0 +1,31 @@
+import sys 		1
+from collections import Counter 		2
+p = S PS R RS P PR 		4
+def dfs t c 		6
+if t == 0 		7
+return c 		8
+new = p c 		9
+l = dfs t - 1 new 0 		10
+r = dfs t - 1 new 1 		11
+if l < r 		12
+return l + r 		13
+else 		14
+return r + l 		15
+def solve t N R P S 		17
+a = dfs N R 		18
+b = dfs N P 		19
+c = dfs N S 		20
+for x in sorted a b c 		22
+ct = Counter list x 		23
+if ct S == S and ct P == P and ct R == R 		24
+print Case #{}: {} format t + 1 x 		25
+break 		26
+else 		27
+print Case #{}: IMPOSSIBLE format t + 1 		28
+def main 		32
+T = int sys stdin readline 		33
+for t in xrange T 		34
+N R P S = tuple int x for x in sys stdin readline strip split 4 		35
+solve t N R P S 		36
+if __name__ == __main__ 		38
+main 		39

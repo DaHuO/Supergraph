@@ -1,0 +1,24 @@
+def gen n C r 		2
+if n == 0 		3
+return 1 if i == r else 0 for i in range 3 C r 		4
+A1 s1 = gen n - 1 C r 		5
+A2 s2 = gen n - 1 C r + 1 % 3 		6
+return A1 i + A2 i for i in range 3 min s1 s2 + max s1 s2 		7
+def check n N C r 		9
+A s = gen n C r 		10
+if A 0 == N 0 and A 1 == N 1 and A 2 == N 2 		11
+return s 		12
+return None 		13
+def solve n N C 		15
+ans = None 		16
+for i in range 3 		17
+here = check n N C i 		18
+if ans is None or here and here < ans 		19
+ans = here 		20
+if ans 		21
+return ans 		22
+return IMPOSSIBLE 		23
+t = int input strip 		25
+for i in range t 		26
+C = input strip split 		27
+print Case #{}: {} format i + 1 solve int C 0 int C 3 int C 2 int C 1 S P R 		28

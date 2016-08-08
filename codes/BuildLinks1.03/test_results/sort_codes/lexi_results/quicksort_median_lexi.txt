@@ -1,0 +1,33 @@
+def quick_sort a l r 		3
+if l < r 		5
+global comparisons 		6
+comparisons = comparisons + r - l - 1 		7
+divider = partition a l r 		8
+quick_sort a l divider 		10
+quick_sort a divider + 1 r 		11
+def partition a l r 		14
+array_length = r - l 		16
+if array_length % 2 == 0 		18
+median = array_length / 2 - 1 		19
+else 		20
+median = array_length / 2 		21
+median = l + median 		23
+mid_element = sorted a l a r - 1 a median 1 		24
+index = a index mid_element 		25
+a l a index = a index a l 		26
+pivot = a l 		28
+i = l + 1 		29
+for j in xrange l + 1 r 		30
+if a j < pivot 		31
+a j a i = a i a j 		32
+i += 1 		33
+a l a i - 1 = a i - 1 a l 		35
+return i - 1 		36
+if __name__ == __main__ 		39
+f = open QuickSort.txt r 		40
+a = f read splitlines 		41
+a = int i for i in a 		42
+comparisons = 0 		43
+quick_sort a 0 len a 		49
+print a 		50
+print Number of comparisons :  comparisons 		51

@@ -1,0 +1,2 @@
+def count niz r p s = 0 0 0 for x in niz if x == R r += 1 elif x == P p += 1 else s += 1 return r p s 		21 30
+def find_sol winner n if n == 0 return winner a = find_sol winner n - 1 b = find_sol looser winner n - 1 if a > b a b = b a return a + b 		12 19

@@ -1,0 +1,9 @@
+def precalculate self raise NotImplementedError 		32 33
+def wrapped * args if args not in mem mem args = func * args return mem args 		14 17
+staticmethod def expand char count if count == 0 return char left right = Solver expand c count - 1 for c in PREV char return left + right if left < right else right + left 		57 62
+def __init__ self self precalculate 		29 30
+def process self infile ncase N R P S = readints infile for line in R P S line = self expand line N counts = Counter line if R == counts R and P == counts P and S == counts S return line return IMPOSSIBLE 		68 76
+def run self infile outfile cases = int infile readline for ncase in range cases print Case #{nc} format nc = ncase + 1 data = self process infile ncase = ncase outfile write Case #{nc}: {data}\n format 		38 44
+def memoized func mem = def wrapped * args if args not in mem mem args = func * args return mem args return wrapped 		11 18
+def process self infile ncase raise NotImplementedError 		35 36
+def precalculate self pass 		64 66

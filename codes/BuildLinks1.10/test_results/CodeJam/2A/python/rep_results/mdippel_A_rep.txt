@@ -1,0 +1,8 @@
+lo hi lo hi hi tie lo hi tie 		31 43
+ALGORITHM BRUTE_FORCE N 		26 29
+runAlgorithm processInput ALGORITHM writeOutput test_case in results 		74 82
+basic_test assert tourny_concludes 		69 72
+BRUTE_FORCE test_case N R P S = test_case S 		57 66
+writeOutput 		18 21
+next_S next_S next_S next_S len S == 1 return True 		45 53
+processInput T = int raw_input for i 		8 15

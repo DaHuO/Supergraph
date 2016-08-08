@@ -1,0 +1,86 @@
+def match o 		4
+if o == P 		5
+return P R 		6
+elif o == R 		7
+return R S 		8
+elif o == S 		9
+return P S 		10
+def cal_n N 		13
+l = P 		14
+for i in range N 		15
+nl = 		16
+for item in l 		17
+nl += match item 		18
+l = nl 		19
+c_p = 0 		20
+c_r = 0 		21
+c_s = 0 		22
+for i in l 		23
+if i == P 		24
+c_p += 1 		25
+if i == R 		26
+c_r += 1 		27
+if i == S 		28
+c_s += 1 		29
+return c_r c_p c_s l 		30
+def refine s 		33
+if len s == 2 		34
+a b = s 		35
+if a > b 		36
+a b = b a 		37
+return a + b 		38
+hls = len s // 2 		39
+a b = s hls s hls 		40
+a = refine a 		41
+b = refine b 		42
+if a > b 		43
+a b = b a 		44
+return a + b 		45
+T = int input 		48
+for test in range 1 T + 1 		50
+print Case # + str test + :  end =  		51
+n r p s = int i for i in input split 		52
+arr ll = cal_n n 		53
+a_r = None 		54
+a_p = None 		55
+a_s = None 		56
+r_done = False 		57
+p_done = False 		58
+s_done = False 		59
+if r == arr 0 		60
+a_r = R 		61
+r_done = True 		62
+elif p == arr 0 		63
+a_r = P 		64
+p_done = True 		65
+elif s == arr 0 		66
+a_r = S 		67
+s_done = True 		68
+if not r_done and r == arr 1 		69
+a_p = R 		70
+r_done = True 		71
+elif not p_done and p == arr 1 		72
+a_p = P 		73
+p_done = True 		74
+elif not s_done and s == arr 1 		75
+a_p = S 		76
+s_done = True 		77
+if not r_done and r == arr 2 		78
+a_s = R 		79
+elif not p_done and p == arr 2 		80
+a_s = P 		81
+elif not s_done and s == arr 2 		82
+a_s = S 		83
+if a_r is None or a_p is None or a_s is None 		88
+print IMPOSSIBLE 		89
+else 		90
+ans =  		91
+for i in ll 		92
+if i == R 		93
+ans += a_r 		94
+if i == P 		95
+ans += a_p 		96
+if i == S 		97
+ans += a_s 		98
+ans = refine ans 		99
+print ans 		100

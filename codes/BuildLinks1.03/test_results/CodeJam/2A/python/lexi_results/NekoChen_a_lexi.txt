@@ -1,0 +1,59 @@
+import sys numpy as np 		1
+from itertools import combinations permutations 		2
+from operator import itemgetter 		3
+from collections import deque defaultdict 		4
+import heapq 		5
+RULE = R P P P R P 		7
+P S S S P S 		8
+S R R R S R 		9
+def tour b 		11
+c = 		12
+for i j in zip * iter b * 2 		13
+if i == j return 		14
+c append RULE i j 		15
+return c 		16
+cache = set 		18
+def test b s 		20
+t =  join b 		21
+if t in cache 		22
+return 		23
+while len b > 1 		24
+b = tour b 		25
+if b == None 		26
+return 		27
+return s append t 		28
+def solve2 N R P S 		30
+M = 1 << N 		31
+a = sorted R R P P S S reverse = True 		32
+b = 0 * M 		33
+n p = a 0 		35
+if n > M >> 1 		36
+return IMPOSSIBLE 		37
+b n * 2 2 = p * n 		38
+n1 p1 = a 1 		40
+b n * 2 2 = p1 * M >> 1 - n 		41
+n1 -= M >> 1 - n 		43
+n2 p2 = a 2 		44
+z = permutations p1 * n1 + p2 * n2 		46
+for i in z 		47
+b 1 2 = i 		48
+if test b 		49
+return  join b 		50
+return IMPOSSIBLE 		51
+def solve N R P S 		53
+z = permutations R * R + P * P + S * S 		54
+cache clear 		55
+s = 		56
+for i in z 		57
+test i s 		61
+if len s == 0 		62
+return IMPOSSIBLE 		63
+return min s 		64
+def main 		66
+f = open sys argv 1 if len sys argv >= 2 else sys stdin 		67
+T = int f next 		69
+for case in range 1 T + 1 		70
+N R P S = map int f next strip split 		72
+print Case #{0}: {1} format case solve N R P S 		73
+if __name__ == __main__ 		76
+main 		77

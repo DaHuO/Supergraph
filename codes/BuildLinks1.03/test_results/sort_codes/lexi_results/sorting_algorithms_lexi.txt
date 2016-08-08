@@ -1,0 +1,53 @@
+def bubble_sort file 		1
+for j in range len file 		13
+swapped = True 		14
+for i in range len file - j - 1 		15
+if file i > file i + 1 		17
+swapped = True 		18
+file i file i + 1 = file i + 1 file i 		19
+if swapped == False 		21
+break 		22
+def selection_sort file 		24
+for outer in range len file - 1 		37
+for inner in range outer len file 		38
+if file inner < file outer 		39
+file inner file outer = file outer file inner 		40
+def insertion_sort file 		42
+for outer in range 1 len file 		55
+current_pos = outer 		56
+while file current_pos < file current_pos - 1 and current_pos > 0 		57
+file current_pos file current_pos - 1 = file current_pos - 1 		58
+file current_pos 		59
+current_pos += - 1 		60
+def quick_sort file 		62
+if len file <= 1 		81
+return file 		82
+pivot = file len file // 2 		84
+small_pile = 		85
+large_pile = 		86
+pivot_count = 0 		87
+small_pile = x for x in file if x < pivot 		89
+large_pile = x for x in file if x > pivot 		90
+pivot_count = file count pivot 		91
+return quick_sort small_pile + 		92
+pivot * pivot_count + 		93
+quick_sort large_pile 		94
+def quick_sort_inplace file lower = None upper = None 		96
+if lower is None lower = 0 		114
+if upper is None upper = len file - 1 		115
+if upper - lower > 0 		116
+pivot_value = file lower 		117
+l h = lower upper 		118
+while h > l 		123
+while file l <= pivot_value and h > l 		124
+l += 1 		125
+while file h > pivot_value and h >= l 		126
+h -= 1 		127
+if h > l 		128
+file l file h = file h file l 		129
+file lower file h = file h file lower 		130
+quick_sort_inplace file lower h - 1 		132
+quick_sort_inplace file h + 1 upper 		133
+if __name__ == __main__ 		135
+import doctest 		136
+doctest testmod 		137

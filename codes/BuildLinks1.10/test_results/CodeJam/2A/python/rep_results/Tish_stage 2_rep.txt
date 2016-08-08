@@ -1,0 +1,13 @@
+def output i 		16 17
+finish 10 for 		9 13
+q1 convert output1 output1 output1 strip split  n = int a 0 r = int a 		67 89
+		6 7
+def calc n res tmp = 0 0 0 tmp2 = 0 		33 44
+convert sp sr ss if sp < sr np = 		46 60
+def 		29 30
+def count x res 		62 66
+output1 i out g write Case # + 		18 27
+q3old 1\n1 2\n 1\n1 2\n2 2\n2 1\n  j = int a 0 p = int a 1 s = int a 2 k = int a 3 res = j * p * min k s g write Case # + str test + 1 + : + str res + \n 		161 188
+q1 main 		191 195
+q2old POSSIBLE a = read strip split  b = int a 0 m = int a 1 if m > 2 ** b - 2 g write Case # + str test + 1 + : + IMPOSSIBLE 		127 158
+q1old n = int read a = read strip split  for i in range n a i = int a i m = 0 m2 = 0 ind = - 1 ind2 		96 125

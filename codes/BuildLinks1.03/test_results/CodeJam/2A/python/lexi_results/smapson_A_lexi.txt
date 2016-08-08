@@ -1,0 +1,35 @@
+def sort_tournament tournament 		1
+if len tournament == 1 		2
+return tournament 		3
+else 		4
+l = len tournament / 2 		5
+t1 = sort_tournament tournament l 		6
+t2 = sort_tournament tournament l 		7
+if t1 < t2 		8
+return t1 + t2 		9
+else 		10
+return t2 + t1 		11
+def correct_tournament N R P S 		13
+for seed in 0 1 2 		14
+tournament = generate_tournament N seed 		15
+p = tournament count 0 		16
+r = tournament count 1 		17
+s = tournament count 2 		18
+if p == P and r == R and s == S 		19
+return tournament 		20
+def generate_tournament N seed 		22
+tournament = seed 		23
+for _ in range N 		24
+tournament = sum x x + 1 % 3 for x in tournament 		25
+return tournament 		26
+T = int raw_input 		28
+for test_case in range T 		29
+N R P S = int x for x in raw_input split 		30
+if max R P S > min R P S + 1 		31
+answer = IMPOSSIBLE 		32
+else 		33
+answer = correct_tournament N R P S 		34
+answer = sort_tournament answer 		35
+alphabet = PRS 		36
+answer =  join alphabet x for x in answer 		37
+print Case #%s: %s % test_case + 1 answer 		38

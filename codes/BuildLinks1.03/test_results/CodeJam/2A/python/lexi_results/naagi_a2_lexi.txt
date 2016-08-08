@@ -1,0 +1,27 @@
+import sys 		1
+def sort s 		3
+n = len s 		4
+if n <= 1 		5
+return s 		6
+s1 = sort s n / 2 		7
+s2 = sort s n / 2 		8
+if s1 < s2 		9
+return s1 + s2 		10
+else 		11
+return s2 + s1 		12
+tests = input 		14
+for test in range tests 		15
+n r p s = map int sys stdin readline split 		16
+res = IMPOSSIBLE 		17
+for winner in R P S 		18
+lineup = winner 		19
+for i in range n 		20
+lineup = lineup replace R rs 		21
+lineup = lineup replace S ps 		22
+lineup = lineup replace P pr 		23
+lineup = lineup upper 		24
+lineup = sort lineup 		25
+if lineup count R <= r and lineup count P <= p and lineup count S <= s 		26
+if res == IMPOSSIBLE or res > lineup 		27
+res = lineup 		28
+print Case # + str test + 1 + :  + str res 		29

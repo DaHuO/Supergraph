@@ -1,0 +1,2 @@
+ceil merge_sort seq if 		15 20
+merged merged merged right = while len left 		3 13

@@ -1,0 +1,7 @@
+34 - 47 links:
+Arraysort	:	69 - 88
+
+14 - 16 links:
+bogosort	:	3 - 7
+sort_bogo	:	9 - 12
+

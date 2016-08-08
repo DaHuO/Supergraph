@@ -1,0 +1,2 @@
+GetResult N N N N -= break sum != -= == 0 and L 1 == L 2 return IMPOSSIBLE elif L 0 == 0 and L 1 == 0 return IMPOSSIBLE elif L 1 == 0 		38 73
+Check True != / False break False break in s l append i l2 = while len l 1 l2 = for i in range len l 2 if l i * 2 == l i * 2 + 1 		3 36

@@ -1,0 +1,10 @@
+read_decimal_list decimal 		69 71
+def __init__ 		46 48
+read_float self 		53 55
+read_str_list self 		72 74
+read_decimal decimal 		56 58
+read_float_list self 		66 68
+read_int_list self 		63 65
+skip read_int_list skip combinations hold hh hold hh hh collections f if return 0 for p1 p2 in itertools R P S 2 h = p1 + p2 for i in xrange n 		18 43
+def read_int 		50 52
+read_str self 		59 61

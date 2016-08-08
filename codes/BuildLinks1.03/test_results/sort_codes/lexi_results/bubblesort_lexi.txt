@@ -1,0 +1,15 @@
+def swap array i j 		3
+tmp = array i 		4
+array i = array j 		5
+array j = tmp 		6
+def bubblesort array 		8
+n = len array - 1 		9
+for i in range 0 len array 		10
+for j in range 0 n 		11
+if array j > array j + 1 		12
+swap array j + 1 j 		13
+n -= 1 		14
+if __name__ == __main__ 		16
+array = 17 9 13 8 7 - 5 6 11 3 4 1 2 		17
+bubblesort array 		18
+print array 		19

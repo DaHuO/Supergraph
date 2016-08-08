@@ -1,0 +1,83 @@
+f = open test.in r 		1
+new_file = open testingOutput w 		2
+t = int f readline 		3
+def good_start n r p s 		6
+if n == 1 		7
+if p == 1 and r == 1 		8
+return PR 		9
+if p == 1 and s == 1 		10
+return PS 		11
+if r == 1 and s == 1 		12
+return RS 		13
+else 		14
+return IMPOSSIBLE 		15
+if r == 0 or p == 0 or s == 0 		16
+return IMPOSSIBLE 		17
+total_amount = 2 ** n 		18
+if r > total_amount / 2 or p > total_amount / 2 or s > total_amount / 2 		19
+return IMPOSSIBLE 		20
+if abs r - p > 1 or abs p - s > 1 or abs r - s > 1 		21
+return IMPOSSIBLE 		22
+else 		23
+a = PRPS 		24
+b = PRRS 		25
+c = PSRS 		26
+result = 		27
+if p > s and p > r 		28
+for i in range 0 p / 4 		29
+result append a 		30
+result append b 		31
+result append c 		32
+result append a 		33
+return  join result 		34
+if r > s and r > p 		35
+for i in range 0 r / 4 		36
+result append a 		37
+result append b 		38
+result append c 		39
+result append b 		40
+return  join result 		41
+if s > r and s > p 		42
+if n == 2 		43
+return c 		44
+for i in range 1 s / 4 		45
+result append a 		46
+result append b 		47
+result append c 		48
+result append a 		49
+result append c 		50
+result append b 		51
+result append c 		52
+return  join result 		53
+if p > s and r > s 		55
+for i in range 0 p / 4 		56
+result append a 		57
+result append b 		58
+result append c 		59
+result append a 		60
+result append b 		61
+return  join result 		62
+if p > r and s > r 		63
+for i in range 0 p / 4 		64
+result append a 		65
+result append b 		66
+result append c 		67
+result append a 		68
+result append c 		69
+return  join result 		70
+if r > p and s > p 		71
+if n == 3 		72
+return b + c 		73
+for i in range 1 p / 4 		74
+result append a 		75
+result append b 		76
+result append c 		77
+result append b 		78
+result append a 		79
+result append c 		80
+result append b 		81
+result append c 		82
+return  join result 		83
+for i in range 1 t + 1 		87
+n r p s = int x for x in f readline split   		88
+new_file write Case # + str i + :  + str good_start n r p s + \n 		89

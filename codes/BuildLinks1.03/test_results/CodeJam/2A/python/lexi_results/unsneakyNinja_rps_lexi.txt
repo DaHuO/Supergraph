@@ -1,0 +1,51 @@
+import sys 		2
+from collections import Counter 		3
+def readFile inputfilename 		5
+inputfile = open sys argv 1 		6
+numtestcases = int inputfile readline 		7
+for i in range numtestcases 		8
+N R P S = int num for num in inputfile readline split 		9
+print Case # + str i + 1 + :  + str rps N R P S 		10
+def getMatch winner 		12
+if winner == P 		13
+return PR 		14
+if winner == R 		15
+return RS 		16
+if winner == S 		17
+return PS 		18
+def getWinningString winnerStr N 		20
+newStr =  		21
+for i in range N 		22
+newStr =  		23
+for char in winnerStr 		24
+newStr += getMatch char 		25
+winnerStr = newStr 		26
+return newStr 		27
+def checkCounter s R P S 		29
+c = Counter s 		30
+if c P == P and c R == R 		31
+return 1 		32
+return 0 		33
+def fixans s 		35
+if len s == 1 		36
+return s 		37
+first = fixans s len s / 2 		39
+second = fixans s - len s / 2 		40
+if first < second 		41
+return first + second 		42
+return second + first 		43
+def rps N R P S 		45
+if abs R - P > 1 or abs R - S > 1 or abs P - S > 1 		46
+return IMPOSSIBLE 		47
+if P == 0 		48
+return RS 		49
+else 		50
+ans1 = getWinningString P N 		51
+ans2 = getWinningString R N 		52
+ans3 = getWinningString S N 		53
+if checkCounter ans1 R P S 		54
+return fixans ans1 		55
+if checkCounter ans3 R P S 		56
+return fixans ans3 		57
+return fixans ans2 		58
+readFile sys argv 1 		63

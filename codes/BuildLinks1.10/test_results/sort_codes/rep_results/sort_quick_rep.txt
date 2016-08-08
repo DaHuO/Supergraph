@@ -1,0 +1,3 @@
+randomQuickSort randomPartition randomQuickSort randomQuickSort if 		21 25
+randomPartition randrange p r 		16 19
+def partition arr p r x = arr r i = 		6 14

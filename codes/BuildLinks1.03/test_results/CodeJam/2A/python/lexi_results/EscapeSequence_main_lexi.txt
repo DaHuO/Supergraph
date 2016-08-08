@@ -1,0 +1,47 @@
+def maketree x n 		1
+if n == 0 return x 		2
+if x == P a b = maketree P n - 1 maketree R n - 1 		3
+if x == R a b = maketree R n - 1 maketree S n - 1 		4
+if x == S a b = maketree P n - 1 maketree S n - 1 		5
+if a < b return a + b 		6
+else return b + a 		7
+def solve n r p s 		9
+if r == s 		10
+if n % 2 == 1 		11
+if p != r - 1 		12
+return IMPOSSIBLE 		13
+if n % 2 == 0 		14
+if p != r + 1 		15
+return IMPOSSIBLE 		16
+tmp = 2 		17
+elif s == p 		18
+if n % 2 == 1 		19
+if r != s - 1 		20
+return IMPOSSIBLE 		21
+if n % 2 == 0 		22
+if r != s + 1 		23
+return IMPOSSIBLE 		24
+tmp = 0 		25
+elif p == r 		26
+if n % 2 == 1 		27
+if s != p - 1 		28
+return IMPOSSIBLE 		29
+if n % 2 == 0 		30
+if s != p + 1 		31
+return IMPOSSIBLE 		32
+tmp = 1 		33
+else 		34
+return IMPOSSIBLE 		35
+winners = R S P 		37
+winner = winners tmp + n % 3 		38
+return maketree winner n 		40
+f = open A-large.in r 		42
+out = open out.txt w 		43
+cases = int f readline 		45
+for case in range 1 cases + 1 		47
+n r p s = int x for x in f readline split 		48
+res = solve n r p s 		49
+output = Case #{0}:  format case +   + res + \n 		50
+print output 		51
+out write output 		52
+out close 		54

@@ -1,0 +1,30 @@
+from itertools import permutations 		1
+import sys 		2
+def solve N R P S 		4
+d = 		5
+P PR 		6
+R RS 		7
+S PS 		8
+for i in range N - 1 		10
+dn = dict 		11
+for v in d itervalues 		12
+n = len v / 2 		13
+a = d v n 		14
+b = d v n 		15
+if a < b 		16
+dn v = a + b 		17
+else 		18
+dn v = b + a 		19
+d = dn 		20
+for x in d values 		22
+if x count P == P and x count R == R and x count S == S 		23
+return x 		24
+return IMPOSSIBLE 		26
+def main 		28
+T = int sys stdin readline 		29
+for i in range T 		30
+N R P S = int x for x in sys stdin readline - 1 split   		31
+res = solve N R P S 		32
+print Case #%d: %s % i + 1 res 		33
+if __name__ == __main__ 		35
+main 		36

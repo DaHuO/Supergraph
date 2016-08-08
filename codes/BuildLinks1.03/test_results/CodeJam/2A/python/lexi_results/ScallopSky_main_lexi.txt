@@ -1,0 +1,53 @@
+import sys requests json os traceback datetime 		3
+reload sys 		4
+sys setdefaultencoding utf8 		5
+from itertools import permutations 		6
+def spec_sort a 		8
+l = len a 		9
+if l == 1 		10
+return a 		11
+mid = l / 2 		13
+left = spec_sort a mid 		14
+right = spec_sort a mid 		15
+if left > right 		17
+return right + left 		18
+else 		19
+return left + right 		20
+c = RPS 		22
+T = int raw_input 		24
+for Case in range 1 T + 1 		25
+inputs = map int raw_input split   		26
+n = inputs 0 		27
+rps = inputs 1 		28
+best = None 		32
+ans = 		33
+now = 		34
+for winner in range 3 		35
+ans = winner 		36
+flag = True 		37
+for i in xrange n 		39
+now = 		40
+cnt = 0 0 0 		41
+for x in ans 		42
+y = x + 1 % 3 		43
+if c x < c y 		44
+now append x 		45
+now append y 		46
+else 		47
+now append y 		48
+now append x 		49
+cnt x += 1 		50
+cnt y += 1 		51
+for j x in enumerate cnt 		52
+if x > rps j 		53
+flag = False 		55
+ans = now 		57
+if flag 		59
+ans =  join c x for x in ans 		60
+ans = spec_sort ans 		65
+if not best or ans < best 		66
+best = ans 		67
+if best 		68
+print Case #%d: % Case best 		69
+else 		70
+print Case #%d: % Case IMPOSSIBLE 		71

@@ -1,0 +1,2 @@
+pres pres pres n r p s = args ww = P S R res = for w in ww t = w for i in range n t2 = for j 		16 49
+def winner a b aa = min a 		5 13

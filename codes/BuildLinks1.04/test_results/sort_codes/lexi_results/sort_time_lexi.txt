@@ -1,0 +1,2 @@
+staticmethod def times array return 		9 11
+def __init__ self pass 		6 7

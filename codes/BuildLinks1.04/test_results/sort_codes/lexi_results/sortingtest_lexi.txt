@@ -1,0 +1,4 @@
+def test_number self l = random for i in range 100 for sorter in SORTERS self assertEqual sorter sorted l sorted l 		16 19
+def test_empty self for sorter in SORTERS self assertEqual len sorter sorted 0 		8 10
+def test_string self s = ailwefawlILWESFBNSLIEFWIWFleifwnslifenFLIWENLISNqrwpoueitrwezuiopgsdfjhklöaljkfyvmcx for sorter in SORTERS self assertEqual sorter sorted s sorted s 		21 24
+def test_one self for sorter in SORTERS self assertEqual len sorter sorted one 1 		12 14

@@ -1,0 +1,2 @@
+def insertionsort array for i in 		8 13
+def swap array 		3 6

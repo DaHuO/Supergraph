@@ -1,0 +1,2 @@
+def win a b 		3 7
+ends arr for j in range n for i 		13 21

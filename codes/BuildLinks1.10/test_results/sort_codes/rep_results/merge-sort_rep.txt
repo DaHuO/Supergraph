@@ -1,0 +1,2 @@
+def merge left right result = i j = 0 		2 14
+def mergeSort u if len u 		16 26

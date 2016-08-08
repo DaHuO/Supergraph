@@ -1,0 +1,3 @@
+cnt cnt siftDown cnt len lst 		14 20
+sort_heap siftDown lst = heapify lst end 		5 12
+siftDown lst start end root = start while root * 2 + 1 <= 		22 36

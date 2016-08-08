@@ -1,0 +1,1 @@
+def first_lineup n r p s if n == 1 if max r p s > 1 raise ValueError return P * p + R * r + S * s m = min r p s dp dr ds = p - m r - m s - m if n % 2 == 1 m3 		5 44

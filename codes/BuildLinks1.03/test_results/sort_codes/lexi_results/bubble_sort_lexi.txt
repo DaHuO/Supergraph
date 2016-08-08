@@ -1,0 +1,12 @@
+def bubble_sort list 		7
+dist = len list 		8
+for j in range 0 dist 		9
+for i in range 0 dist - 1 		10
+if list i > list i + 1 		11
+t = list i 		12
+list i = list i + 1 		13
+list i + 1 = t 		14
+return list 		15
+if __name__ == __main__ 		17
+list = 52 46 2 7584 542 		18
+print bubble_sort list 		19

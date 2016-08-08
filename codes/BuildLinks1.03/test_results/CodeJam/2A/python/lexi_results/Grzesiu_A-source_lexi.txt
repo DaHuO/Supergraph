@@ -1,0 +1,39 @@
+import imp sys 		1
+sys modules utils = __mod = imp new_module utils 		3
+exec 		4
+in vars __mod 		14
+from utils import iline 		18
+from itertools import permutations 		19
+from sys import stderr 		20
+translate = P RP R SR S SP 		22
+def test 		24
+N r p s = iline 		25
+yield 		27
+for win in PRS 		29
+x = win 		30
+for i in xrange N 		31
+x =  join map translate get x 		32
+if x count R != r or x count S != s or x count P != p 		34
+continue 		35
+answer = list x 		37
+for i in range 1 N + 1 		38
+length = 2 ** i 		39
+for a in range 0 2 ** N length 		40
+b = a + length / 2 		41
+c = b + length / 2 		42
+if answer a b > answer b c 		43
+tmp = answer a b 		44
+answer a b = answer b c 		45
+answer b c = tmp 		46
+print  join answer 		47
+return 		48
+print IMPOSSIBLE 		50
+if __name__ == __main__ 		53
+T = input 		54
+for i in xrange 1 T + 1 		55
+print Case #%d: % i 		56
+solver = test 		57
+if hasattr solver next 		58
+list solver 		59
+elif callable solver 		60
+solver 		61

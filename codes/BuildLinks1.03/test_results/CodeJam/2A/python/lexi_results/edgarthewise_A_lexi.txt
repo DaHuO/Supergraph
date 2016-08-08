@@ -1,0 +1,53 @@
+import sys 		1
+def getWords 		3
+return sys stdin readline strip split 		4
+def getInts 		6
+return int i for i in getWords 		7
+def getInt 		9
+i = getInts 		10
+assert len i == 1 		11
+return i 0 		12
+stored = dict 		16
+beats = P R R S S P 		17
+def getFirst n c 		18
+if n c in stored 		19
+return stored n c 		20
+if n == 0 		21
+ans = c 		22
+else 		23
+a = getFirst n - 1 c 		24
+b = getFirst n - 1 beats c 		25
+if a < b 		26
+ans = a + b 		27
+else 		28
+ans = b + a 		29
+stored n c = ans 		30
+return ans 		31
+T = getInt 		33
+for caseNo in xrange 1 T + 1 		34
+N R P S = getInts 		36
+p = 		38
+r = 		39
+s = 		40
+good = True 		41
+for i in xrange N 		42
+p append P 		43
+r append R 		44
+s append S 		45
+h = P + R + S // 2 		46
+P R S = h - S h - P h - R 		47
+if min P R S < 0 		48
+good = False 		49
+break 		50
+if good 		51
+assert P + R + S == 1 		52
+if P == 1 		53
+last = P 		54
+elif R == 1 		55
+last = R 		56
+else 		57
+last = S 		58
+answer = getFirst N last 		59
+else 		60
+answer = IMPOSSIBLE 		61
+print Case #%d: %s % caseNo answer 		62

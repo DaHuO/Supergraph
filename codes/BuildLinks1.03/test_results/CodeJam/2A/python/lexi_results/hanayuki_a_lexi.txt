@@ -1,0 +1,31 @@
+import sys 		1
+T = int raw_input 		3
+for t in range 1 T + 1 		5
+N R P S = map int raw_input split 		6
+ret = IMPOSSIBLE 		8
+orders = 		10
+for winner in S R P 		12
+order = winner 		13
+for i in range N 0 - 1 		15
+order_new =  		16
+for c in order 		17
+if c == S 		18
+if i >= 3 		19
+order_new += SP 		20
+else 		21
+order_new += PS 		22
+elif c == P 		23
+order_new += PR 		24
+else 		25
+if i == 1 		26
+order_new += RS 		27
+else 		28
+order_new += SR 		29
+order = order_new 		30
+cnts = map lambda x order count x R P S 		32
+if cnts == R P S 		33
+orders append order 		34
+if orders 		37
+sorted orders 		38
+ret = orders 0 		39
+print Case #%d: %s % t ret 		41

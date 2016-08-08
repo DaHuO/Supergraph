@@ -1,0 +1,117 @@
+import pdb 		3
+import sys 		4
+import re 		5
+import time 		6
+from collections import namedtuple 		7
+from itertools import * 		8
+from copy import copy deepcopy 		9
+from pprint import pprint 		10
+from glob import glob 		11
+taskname = A 		13
+input_file = None 		14
+def readstr 		17
+return next input_file strip 		18
+def readintlist 		21
+lst = list map int readstr split 		22
+return lst 		23
+def readint 		26
+lst = readintlist 		27
+assert len lst == 1 		28
+return lst 0 		29
+winner = 		31
+rr  rp p rs r 		32
+pr p pp  ps s 		33
+sr r sp s ss  		34
+def update_best best left right 		38
+for l_winner l_s in left 		39
+for r_winner r_s in right 		40
+w = winner l_winner + r_winner 		41
+if w 		42
+s = l_s + r_s 		43
+if best get w z > s 		44
+best w = s 		45
+mem = 		47
+def solve_rec r p s 		48
+total = r + p + s 		49
+if total == 1 		50
+if r 		51
+return r r 		52
+elif p 		53
+return p p 		54
+else 		55
+return s s 		56
+mem_key = total r p 		58
+best = mem get mem_key None 		59
+if best is not None 		60
+return best 		61
+half_total = total // 2 		63
+best = 		64
+for r1 in range 0 r + 1 		65
+for p1 in range 0 p + 1 		66
+s1 = half_total - r1 - p1 		67
+if 0 <= s1 <= s 		68
+left = solve_rec r1 p1 s1 		69
+right = solve_rec r - r1 p - p1 s - s1 		70
+update_best best left right 		71
+mem mem_key = best = sorted best items 		73
+return best 		75
+def solve_rec_fast r p s 		77
+if max abs r - p abs r - s abs s - p > 1 return 		78
+total = r + p + s 		79
+if total == 1 		80
+if r 		81
+return r r 		82
+elif p 		83
+return p p 		84
+else 		85
+return s s 		86
+mem_key = total r p 		88
+best = mem get mem_key None 		89
+if best is not None 		90
+return best 		91
+avg = total // 6 		93
+best = 		94
+for r1 in range avg avg + 2 		95
+for p1 in range avg avg + 2 		96
+s1 = total // 2 - r1 - p1 		97
+if 0 <= s1 <= s 		98
+left = solve_rec_fast r1 p1 s1 		99
+right = solve_rec_fast r - r1 p - p1 s - s1 		100
+update_best best left right 		101
+mem mem_key = best = sorted best items 		103
+return best 		105
+def main2 		107
+total = 1024 		108
+for r in range 0 total + 1 		109
+for p in range 0 total - r + 1 		110
+solve_rec_fast r p total - r - p 		111
+for x in sorted mem items 		112
+if x 1 		113
+print x 		114
+def solvecase 		119
+N R P S = readintlist 		120
+assert S + R + P == 2 ** N 		121
+best = solve_rec_fast R P S 		122
+if not best 		123
+return IMPOSSIBLE 		124
+res = min v for _ v in best upper 		125
+return res 		126
+def solve input_name output_name 		129
+global input_file 		130
+tstart = time clock 		131
+with open input_name r as input_file open output_name w as output_file 		132
+casecount = readint 		133
+for case in range 1 casecount + 1 		135
+s = solvecase 		136
+s = Case #%d: %s % case str s 		137
+print s file = output_file 		138
+print s 		139
+print %s solved in %.3f % input_name time clock - tstart 		141
+def main 		144
+input_names = glob taskname + -*.in 		145
+assert len input_names 		146
+input_names sort reverse = True 		147
+for input_name in input_names 		148
+solve input_name input_name replace .in .out 		149
+if __name__ == __main__ 		152
+main 		153

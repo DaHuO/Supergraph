@@ -1,0 +1,36 @@
+from random import shuffle 		3
+def quickSort alist 		5
+quickSortHelper alist 0 len alist - 1 		6
+def quickSortHelper alist first last 		8
+if first < last 		9
+splitpoint = partition alist first last 		11
+quickSortHelper alist first splitpoint - 1 		13
+quickSortHelper alist splitpoint + 1 last 		14
+def partition alist first last 		18
+pivotValue = alist first 		19
+leftmark = first + 1 		21
+rightmark = last 		22
+done = False 		24
+while not done 		26
+while leftmark <= rightmark and alist leftmark <= pivotValue 		28
+leftmark = leftmark + 1 		29
+while alist rightmark >= pivotValue and rightmark >= leftmark 		31
+rightmark = rightmark - 1 		32
+if rightmark < leftmark 		34
+done = True 		35
+else 		37
+temp = alist leftmark 		38
+alist leftmark = alist rightmark 		39
+alist rightmark = temp 		40
+temp = alist first 		42
+alist first = alist rightmark 		43
+alist rightmark = temp 		44
+return rightmark 		46
+alist = i for i in range 1000000 		48
+shuffle alist 		49
+print alist 		50
+print ===================================================== 		52
+print ===================================================== 		53
+print ===================================================== 		54
+quickSort alist 		56
+print alist 		57

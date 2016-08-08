@@ -1,0 +1,10 @@
+16 - 29 links:
+py_heap_sort	:	20 - 34
+
+3 - 6 links:
+quick_sort	:	1 - 4
+quicksort_solved	:	8 - 11
+
+31 - 41 links:
+pysort	:	379 - 394
+

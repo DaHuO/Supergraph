@@ -1,0 +1,5 @@
+def testRandom self self _helper random randint java lang Integer MIN_VALUE java lang Integer MAX_VALUE for x in range 1000 		36 38
+def testSorted self self _helper i for i in range 10 		28 30
+def _helper self array sortedArray = array sortedArray sort jArray = jarray array sortedArray java lang Integer for method in METHODS arrayCopy = jarray array array java lang Integer method arrayCopy self assertEqual jArray arrayCopy Failed method %s during %s % 		13 21
+def testReverse self self _helper i for i in range 10 0 - 1 		32 34
+def testEmpty self self _helper list 		24 26

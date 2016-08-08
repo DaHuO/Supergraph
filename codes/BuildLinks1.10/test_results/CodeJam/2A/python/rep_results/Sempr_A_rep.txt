@@ -1,0 +1,3 @@
+def dfs t c if t == 0 		6 15
+ct ct ct ct R P S a = dfs N R b 		17 28
+def main T = int sys stdin 		32 36

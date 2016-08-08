@@ -1,0 +1,2 @@
+docase f n r p s = int _ for _ in f readline split if max abs r - p abs r - s abs p - s != 1 return IMPOSSIBLE nm = n % 6 beats = P R R S S P if r == s if p > r if nm == 2 b = P c = R a = S elif nm == 4 		5 111
+def expand a r if 		105 110

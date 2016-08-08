@@ -1,0 +1,18 @@
+def cyclesort lst 		3
+for i in range len lst 		4
+if i != lst i 		5
+n = i 		6
+while 1 		7
+tmp = lst int n 		8
+if n != i 		9
+lst int n = last_value 		10
+lst log 		11
+else 		12
+lst int n = None 		13
+lst log 		14
+last_value = tmp 		15
+n = last_value 		16
+if n == i 		17
+lst int n = last_value 		18
+lst log 		19
+break 		20

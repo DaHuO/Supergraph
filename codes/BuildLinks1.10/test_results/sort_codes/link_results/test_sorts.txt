@@ -1,0 +1,9 @@
+19 - 26 links:
+pysort	:	162 - 183
+
+29 - 39 links:
+Arraysort	:	69 - 88
+
+50 - 74 links:
+sort_bogo	:	9 - 12
+

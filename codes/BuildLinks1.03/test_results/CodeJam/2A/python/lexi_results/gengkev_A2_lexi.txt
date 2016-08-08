@@ -1,0 +1,32 @@
+import itertools 		3
+def makeStuff n i trip 		5
+reverse = n % 2 == 0 		6
+arr = PRS i 		7
+for j in range n 		8
+nextArr = 		9
+for el in arr 		10
+remaining = P R S - el 		11
+nextArr extend sorted remaining reverse = reverse 		12
+arr = nextArr 		13
+reverse = not reverse 		14
+return arr 		15
+def getNums n s 		18
+counts = 0 0 0 		19
+counts s = 1 		20
+for i in range n 		21
+counts = 		22
+counts 1 + counts 2 		23
+counts 0 + counts 2 		24
+counts 0 + counts 1 		25
+return counts 		27
+def solve n r p s 		30
+trip = p r s 		31
+for i in range 3 		32
+if trip == getNums n i 		33
+return makeStuff n i trip 		34
+return None 		35
+N = int input 		39
+for t in range 1 N + 1 		40
+n r p s = map int input split 		41
+perm = solve n r p s 		42
+print Case #%d: % t  join perm if perm else IMPOSSIBLE 		43

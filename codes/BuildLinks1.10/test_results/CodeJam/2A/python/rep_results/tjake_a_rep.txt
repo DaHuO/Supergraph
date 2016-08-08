@@ -1,0 +1,1 @@
+rest rest rest smaller smaller smaller depth == n cur = pos - 2 ** n ans cur = RPS now now -= 1 return 1 if now == 0 or 		3 26

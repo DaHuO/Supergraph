@@ -1,0 +1,2 @@
+def Make N t if N == 0 return ee t z1 = Make N - 1 t z2 = Make N - 1 t + 1 % 3 if z1 < z2 return z1 + z2 return z2 + z1 		13 18
+def Run ss N R P S = map int ss split lst = P R S for ii in range 3 z = lst ii % 3 lst ii + 1 % 3 lst ii + 2 % 3 if z == nlst N return Make N ii return IMPOSSIBLE 		20 27

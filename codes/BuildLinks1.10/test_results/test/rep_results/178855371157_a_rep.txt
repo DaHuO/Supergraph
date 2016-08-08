@@ -1,0 +1,2 @@
+has_winner ordering ordering next / False next WINNER next True 		17 26
+find_winner not not not has_winner None find_winner find_winner find_winner None s if o return o 		28 50

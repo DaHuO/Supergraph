@@ -1,0 +1,23 @@
+import math 		1
+ASCENDING = True 		2
+DESCENDING = False 		3
+def compare lst i j dir 		5
+if dir == lst i > lst j 		6
+lst i lst j = lst j lst i 		7
+lst log 		8
+def merge lst lo n dir 		11
+if n > 1 		12
+k = n / 2 		13
+for i in range lo lo + k 		14
+compare lst i i + k dir 		15
+merge lst lo k dir 		16
+merge lst lo + k k dir 		17
+def _bitonicsort lst lo n dir 		20
+if n > 1 		21
+k = n / 2 		22
+_bitonicsort lst lo k ASCENDING 		23
+_bitonicsort lst lo + k k DESCENDING 		24
+merge lst lo n dir 		25
+def bitonicsort lst 		28
+assert math modf math log len lst 2 0 == 0 		30
+_bitonicsort lst 0 len lst ASCENDING 		31

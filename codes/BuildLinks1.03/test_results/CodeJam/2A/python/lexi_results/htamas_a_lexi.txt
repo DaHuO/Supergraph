@@ -1,0 +1,12 @@
+sol = P P R R S S 		4
+for i in range 12 		5
+sol append 		6
+P  join sorted sol - 1 P sol - 1 R 		7
+R  join sorted sol - 1 R sol - 1 S 		8
+S  join sorted sol - 1 S sol - 1 P 		9
+T = int input 		12
+for case in range 1 T + 1 		13
+N R P S = map int input split 		14
+rl = t for t in sol N values if t count P == P and t count R == R and t count S == S 		15
+res = min rl if rl else IMPOSSIBLE 		16
+print Case #{}: {} format case res 		17

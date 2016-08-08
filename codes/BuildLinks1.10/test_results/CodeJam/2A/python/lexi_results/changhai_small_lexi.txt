@@ -1,0 +1,3 @@
+def pr * a for x in a print x print 		2 5
+def solve P R S a = P * P + R * R + S * S for per in itertools permutations a if check per return join per return IMPOSSIBLE 		29 34
+def check a r = list a while len r > 1 r2 = for i in range 0 len r 2 if r i == r i + 1 return 0 if r i == P and r i + 1 == R r2 append P if r i == R and r i + 1 == P r2 append P if r i == P and r i + 1 == S r2 append S if r i == S and r i + 1 == P r2 append S if r i == R and r i + 1 == S r2 append R if r i == S and r i + 1 == R r2 append R r = r2 return 1 		7 26

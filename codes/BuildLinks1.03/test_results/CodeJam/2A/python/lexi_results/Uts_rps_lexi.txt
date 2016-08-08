@@ -1,0 +1,35 @@
+import sys 		1
+import pdb 		2
+winners = P PR R RS S PS 		4
+orderings = PRS PSR SPR SRP RSP RPS 		5
+def solve N R P S 		7
+best = presolve N R 		8
+if R P S == best count R best count P best count S 		9
+return best 		10
+best = presolve N P 		11
+if R P S == best count R best count P best count S 		12
+return best 		13
+best = presolve N S 		14
+if R P S == best count R best count P best count S 		15
+return best 		16
+return IMPOSSIBLE 		17
+def bits n 		19
+while n 		20
+b = n & ~ n + 1 		21
+yield b 		22
+n ^= b 		23
+def presolve N matchup 		25
+if N == 0 		26
+return matchup 		27
+new_matchup =  		28
+for j in range len matchup 		29
+ordering = orderings N - 1 % 6 		30
+winner = winners matchup j 		31
+if ordering index winner 0 > ordering index winner 1 		32
+winner = winner - 1 		33
+new_matchup += winner 		34
+return presolve N - 1 new_matchup 		35
+T = int raw_input 		37
+for t in range 1 T + 1 		38
+N R P S = int i for i in raw_input split 		39
+print Case #%d: %s % t solve N R P S 		40

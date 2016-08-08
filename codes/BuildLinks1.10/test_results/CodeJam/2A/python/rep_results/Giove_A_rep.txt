@@ -1,0 +1,5 @@
+def solve data n r p s = data res = n r p s solutions = for string 		44 72
+def check 		75 81
+def read n r 		12 16
+def order string if len string <= 1 return 		24 39
+		19 21

@@ -1,0 +1,55 @@
+f = open 2AlInput.in r 		1
+T = int f readline 		2
+import sys 		3
+n =  		5
+for i in range 0 T 		6
+N = f readline split 		7
+R = int N 1 		9
+P = int N 2 		10
+S = int N 3 		11
+N = int N 0 		12
+r = 2 ** N / 3 - R ** 2 		13
+p = 2 ** N / 3 - P ** 2 		14
+s = 2 ** N / 3 - S ** 2 		15
+if r > 1 or s > 1 or p > 1 		16
+t = IMPOSSIBLE 		17
+else 		18
+p1 = 0 		19
+r1 = 1 		20
+s1 = 2 		21
+for j in range 0 N 		22
+if int p1 < int r1 		23
+p2 = p1 + r1 		24
+else p2 = r1 + p1 		25
+if int r1 < int s1 		26
+r2 = r1 + s1 		27
+else r2 = s1 + r1 		28
+if int s1 < int p1 		29
+s2 = s1 + p1 		30
+else s2 = p1 + s1 		31
+p1 = p2 		32
+r1 = r2 		33
+s1 = s2 		34
+if P == p2 count 0 		35
+if R == p2 count 1 		36
+w = p2 		37
+if P == r2 count 0 		38
+if R == r2 count 1 		39
+w = r2 		40
+if P == s2 count 0 		41
+if R == s2 count 1 		42
+w = s2 		43
+t =  		44
+for l in w 		45
+if l == 0 		46
+t = t + P 		47
+if l == 1 		48
+t = t + R 		49
+if l == 2 		50
+t = t + S 		51
+n = n + Case # + str i + 1 + :  + t + \n 		52
+n = n strip 		53
+f close 		55
+f = open 2AlOutput.txt w 		56
+f write n 		57
+f close 		58

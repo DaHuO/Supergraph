@@ -1,0 +1,2 @@
+def expand s anss = 		1 10
+def game s if len s == 1 return 		12 23

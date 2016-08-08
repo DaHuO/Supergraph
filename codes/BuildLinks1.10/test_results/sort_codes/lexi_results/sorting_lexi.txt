@@ -1,0 +1,9 @@
+def isSorted return all data i <= data i + 1 for i in xrange len data - 1 		14 16
+def genPermutation from random import shuffle x = range data_length shuffle x return x 		23 28
+def iteration if not test plotting snapshot 		72 74
+def plotAlgorithm global data global test test = False data = genPermutation data = algorithm 		49 56
+def end if not test plotting snapshot plotting createMovie plotting restart 		76 81
+def swap i j data i data j = data j data i if plot_swaps and not test plotting swaps i j 		67 70
+def testAlgorithm n = 100 global data global test test = True for __ in xrange n data = genData data = algorithm if not isSorted print Error! A counterexample was found! print self data return False return True 		34 47
+def genData from random import randint return randint 1 80 for i in xrange data_length 		18 21
+def start return data 		63 65

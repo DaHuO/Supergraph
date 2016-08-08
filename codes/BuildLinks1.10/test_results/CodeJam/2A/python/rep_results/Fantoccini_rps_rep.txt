@@ -1,0 +1,2 @@
+def solve line n r p s = map int line strip split res = IMPOSSIBLE tr = R for i in xrange n rr = 0 pp = 0 ss = 0 ttr = for j in xrange len tr if tr j == R rr += 1 ss += 1 ttr += 		14 83
+def st s n = len s 		4 12

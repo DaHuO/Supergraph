@@ -1,0 +1,3 @@
+def solve n cr cp cs words = for c in prs w = Node c n w collapse s = w c if s count p != cp continue if s count r != cr continue if s count s != cs continue words append s return min words if words else IMPOSSIBLE 		54 68
+def collapse self if self h == 0 return self l collapse self r collapse if self l c > self r c self l self r = self r self l self c = self l c + self r c 		45 52
+def __init__ self c h self c = c self h = h self l = None self r = None if h > 0 l r = c_to_lr c self l = Node l h - 1 self r = Node r h - 1 		35 43

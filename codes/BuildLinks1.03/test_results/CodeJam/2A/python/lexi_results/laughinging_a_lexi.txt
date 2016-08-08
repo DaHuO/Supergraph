@@ -1,0 +1,28 @@
+def c a b 		1
+if a < b 		2
+return a + b 		3
+return b + a 		4
+def h n 		6
+R = R 		7
+P = P 		8
+S = S 		9
+for i in xrange 1 n 		10
+R append c R i - 1 S i - 1 		11
+P append c P i - 1 R i - 1 		12
+S append c S i - 1 P i - 1 		13
+return R - 1 P - 1 S - 1 		14
+def fit n1 n2 n3 s 		16
+return s count R s count P s count S == n1 n2 n3 		17
+f = open A-large.in r 		21
+t = int f readline strip 		22
+for i in xrange t 		23
+s = f readline split 		24
+n nR nP nS = int k for k in s 		25
+R P S = h n + 1 		27
+u = z 		29
+for j in R P S 		30
+if fit nR nP nS j and j < u 		31
+u = j 		32
+if u == z 		34
+u = IMPOSSIBLE 		35
+print Case # + str i + 1 + :  + str u 		36

@@ -1,0 +1,2 @@
+invalid build n r p s assert not n r p s if n == 1 if p > 0 and r > 0 return PR if p > 0 and s > 0 return PS return 		7 28
+invalid n r p s N = 		1 5

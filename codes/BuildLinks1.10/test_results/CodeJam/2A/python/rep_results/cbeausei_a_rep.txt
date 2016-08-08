@@ -1,0 +1,2 @@
+def find r p s st if r + p + s == 0 if test st return 		34 53
+def test s s2 = if len s == 1 return True else for i in range len 		5 32

@@ -1,0 +1,13 @@
+t = int input 		1
+for q in range 1 t + 1 		3
+n r p s = map int input split 		4
+a b c = P R S 		6
+for _ in range n 		8
+a b c = a + b a + c b + c 		9
+print Case #{}:  format q end =  		11
+for o in a b c 		12
+if o count R == r and o count P == p and o count S == s 		13
+print o 		14
+break 		15
+else 		16
+print IMPOSSIBLE 		17

@@ -1,0 +1,1 @@
+def red x i = 0 r = if len x == 		5 25

@@ -1,0 +1,41 @@
+1		radixrsort		2
+1		sorter		1
+7		cocktailsort		9
+7		cocktailsort		18
+7		combsort		10
+7		oddevensort		9
+7		shellsort		12
+7		smoothsort		29
+7		smoothsort		33
+7		smoothsort		49
+7		sort_heap		9
+7		sort_heap		32
+7		sort_selection		14
+8		cocktailsort		10
+8		cocktailsort		19
+8		combsort		11
+8		cyclesort		11
+8		cyclesort		14
+8		cyclesort		19
+8		oddevensort		10
+8		shellsort		14
+8		smoothsort		36
+8		smoothsort		50
+8		timsort		34
+8		timsort		37
+28		oddevensort		2
+28		cyclesort		3
+28		combsort		2
+28		cocktailsort		2
+28		shellsort		2
+28		smoothsort		22
+28		smoothsort		39
+28		smoothsort		61
+28		sort_heap		5
+28		sort_heap		14
+28		sort_heap		22
+28		sort_selection		4
+28		timsort		22
+
+
+The best linked code is smoothsort, and 8 links are found.

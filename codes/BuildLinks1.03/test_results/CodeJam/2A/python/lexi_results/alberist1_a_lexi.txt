@@ -1,0 +1,24 @@
+def calc win n 		5
+if n == 0 		6
+return win 		7
+p = calc win n - 1 		8
+if win == P 		9
+p2 = calc R n - 1 		10
+elif win == R 		11
+p2 = calc S n - 1 		12
+else 		13
+p2 = calc P n - 1 		14
+if p < p2 		15
+return p + p2 		16
+return p2 + p 		17
+def solve 		20
+n r p s = map int input split 		21
+res = sorted calc P n calc R n calc S n 		22
+for line in res 		23
+if line count P == p and line count R == r 		24
+return line 		25
+return IMPOSSIBLE 		26
+if __name__ == __main__ 		29
+t = int input 		30
+for i in range t 		31
+print Case #%d: % i + 1 solve 		32

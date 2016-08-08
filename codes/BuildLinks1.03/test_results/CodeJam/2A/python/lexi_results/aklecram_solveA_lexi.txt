@@ -1,0 +1,55 @@
+import sys 		1
+from multiprocessing import Pool 		2
+sys path append /home/marcelka/projects/cocoli/ 		6
+def run pool = None 		8
+inp = sys argv 1 		9
+outp = %s.out % inp split . 0 		10
+with open inp r as _file open outp w as out 		12
+_cases = int _file readline 		13
+arguments = 		14
+for _case in range _cases 		15
+N R P S = tuple int x for x in _file readline split   		16
+arguments append _case + 1 N R P S 		17
+if pool == None 		19
+results = list map solve_wrapper arguments 		20
+else 		21
+results = sorted 		22
+list pool imap_unordered solve_wrapper arguments 		23
+key = lambda r r 0 		24
+assert len results == _cases 		25
+for _case result in results 		27
+out write Case #%s: %s\n % _case result 		28
+def solve_wrapper args 		30
+case_no _args = args 		31
+print Solving case #%s % case_no 		32
+return case_no solve * _args 		33
+def lineup N top 		36
+if N == 0 return top 		37
+prev = 		38
+P PR 		39
+R RS 		40
+S PS 		41
+top 		42
+return lineup N - 1 prev 0 + lineup N - 1 prev 1 		43
+def order ln 		45
+l = len ln // 2 		46
+if l == 0 		47
+return ln 		48
+else 		49
+a = order ln l 		50
+b = order ln l 		51
+if a < b return a + b 		52
+else return b + a 		53
+def count_ok P R S ln 		55
+if ln count P != P return False 		56
+if ln count R != R return False 		57
+if ln count S != S return False 		58
+return True 		59
+def solve N R P S 		61
+pl = order lineup N P 		62
+rl = order lineup N R 		63
+sl = order lineup N S 		64
+for l in sorted pl rl sl 		65
+if count_ok P R S l return l 		66
+return IMPOSSIBLE 		67
+run 		69

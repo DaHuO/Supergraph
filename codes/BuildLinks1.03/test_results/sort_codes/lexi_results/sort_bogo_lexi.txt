@@ -1,0 +1,15 @@
+import fileinput 		1
+from random import shuffle 		2
+from timer import Timer 		3
+l = 		5
+for i in fileinput input 		6
+l append int i 		7
+def sort_bogo l 		9
+while not all l i - 1 <= l i for i in xrange 1 len l 		10
+shuffle l 		11
+return l 		12
+with Timer as t 		14
+l = sort_bogo l 		15
+print l 		17
+print List length: %i % len l 		18
+print Sort time: %.05fs % t interval 		19

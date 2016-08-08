@@ -1,0 +1,3 @@
+def solve 		28 29
+a.out main outfile = open w T = int 		36 45
+Failed test! Inputs should give of 		31 34

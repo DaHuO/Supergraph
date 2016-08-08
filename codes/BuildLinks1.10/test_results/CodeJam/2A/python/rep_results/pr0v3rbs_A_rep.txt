@@ -1,0 +1,2 @@
+GetResult N L result = if N > 1 and L 0 == 0 and L 1 == L 2 return IMPOSSIBLE elif L 0 == 0 and L 1 == 0 return IMPOSSIBLE elif L 1 		38 73
+Check s result = True l = for i in s l append i l2 = while len l != 1 l2 = for i in range len l / 2 if l i * 2 == l i * 		3 36

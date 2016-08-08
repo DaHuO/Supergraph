@@ -1,0 +1,4 @@
+def heapify array start = len array - 2 / 2 while start >= 0 perc_down array start len array - 1 start -= 1 		8 14
+def perc_down array start end largest = 2 * start + 1 while largest <= end if largest < end and array largest < array largest + 1 largest += 1 if array largest > array start swap array largest start start = largest largest = 2 * start + 1 else return 		16 29
+def swap array i j tmp = array i array i = array j array j = tmp 		3 6
+def heap_sort array heapify array end = len array - 1 while end > 0 swap array end 0 perc_down array 0 end - 1 end -= 1 		31 41

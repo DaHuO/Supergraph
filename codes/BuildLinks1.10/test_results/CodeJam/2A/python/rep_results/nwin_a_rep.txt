@@ -1,0 +1,1 @@
+xt xt n r p s = map int raw_input split = R RS P PR S PS res = for c in 		1 17

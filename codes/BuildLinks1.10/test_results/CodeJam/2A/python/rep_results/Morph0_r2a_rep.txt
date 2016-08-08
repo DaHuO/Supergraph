@@ -1,0 +1,2 @@
+verify_result verify_result if len result == 1 return True next_result = for x in xrange 0 len result 		5 21
+verify_result solve n r p s possible_results = for 		25 36

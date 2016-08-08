@@ -1,0 +1,1 @@
+def solve N R P S if N == 1 if R == 0 return PS elif P == 0 return RS else return PR else 		4 18

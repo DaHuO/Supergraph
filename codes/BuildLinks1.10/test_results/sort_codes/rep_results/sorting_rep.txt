@@ -1,0 +1,9 @@
+isSorted all data 		14 16
+genPermutation from 		23 28
+iteration 		72 74
+plotAlgorithm genPermutation 		49 56
+snapshot createMovie 		76 81
+plot_swaps swap i j 		67 70
+testAlgorithm __ genData algorithm isSorted Error! counterexample 		34 47
+genData from 		18 21
+		63 65

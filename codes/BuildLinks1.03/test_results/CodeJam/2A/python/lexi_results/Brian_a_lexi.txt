@@ -1,0 +1,31 @@
+def backwards c depth 		1
+if c == P 		2
+return PR 		3
+elif c == R 		4
+if depth >= 2 		5
+return SR 		6
+return RS 		7
+else 		8
+if depth >= 3 		9
+return SP 		10
+return PS 		11
+def solve R P S depth 		13
+if R + P + S == 1 		14
+if R == 1 return R 		15
+if P == 1 return P 		16
+return S 		17
+RP = R + P - S / 2 		19
+PS = P + S - R / 2 		20
+SR = S + R - P / 2 		21
+if RP < 0 or PS < 0 or SR < 0 		23
+return None 		24
+sub = solve SR RP PS depth + 1 		26
+if sub is None 		27
+return None 		28
+return  join backwards c depth + 1 for c in sub 		30
+with open a.in as f 		32
+t = int next f 		33
+for case in xrange t 		34
+N R P S = int s for s in next f strip split   		35
+x = solve R P S 0 		37
+print Case #{}: {} format case + 1 x or IMPOSSIBLE 		38

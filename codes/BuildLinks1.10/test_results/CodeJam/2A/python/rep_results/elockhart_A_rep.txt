@@ -1,0 +1,10 @@
+def solve_case n 		49 51
+def 		22 23
+def okay s if len s == 1 return True 		53 59
+		28 29
+print_solution msg msg msg 		72 76
+def readints 		25 26
+def winner 		62 63
+def okay r p s if r 		31 34
+sss sss n r p s = R 		65 70
+sss rR rP rS spair rR rS rP sss rR rP rS ??? + s == 		40 47

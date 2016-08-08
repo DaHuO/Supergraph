@@ -1,0 +1,68 @@
+LINES_FOR_EACH_INPUT = 1 		1
+INPUT_FILE_NAME = A-large.in 		2
+OUTPUT_FILE_NAME = A-large.out 		3
+def do_case parsed 		5
+return bestComp parsed 1 parsed 2 parsed 3 0 		7
+def expand_orderd round_num letter 		8
+rep = 		9
+0p PRRS 		10
+0s PRPS 		11
+0r PSRS 		12
+1p SRPR 		13
+1s SPPR 		14
+1r SPSR 		15
+2p RSRP 		16
+2s RPSP 		17
+2r RSSP 		18
+return rep str round_num % 3 + str letter 		19
+def bestComp R P S round_num 		20
+players = R + P + S 		21
+if players == 1 		22
+if R == 1 		23
+return R 		24
+if P == 1 		25
+return P 		26
+if S == 1 		27
+return S 		28
+if players == 2 		30
+if R == 2 or S == 2 or P == 2 		31
+return IMPOSSIBLE 		32
+rep2 = 		33
+0011 PS 		34
+0101 RS 		35
+0110 PR 		36
+1011 SP 		37
+1101 SR 		38
+1110 PR 		39
+2011 SP 		40
+2101 RS 		41
+2110 RP 		42
+return rep2 str round_num % 3 + str R + str P + str S 		43
+if R < players / 4 or S < players / 4 or P < players / 4 		44
+return IMPOSSIBLE 		45
+temp = bestComp int S - players / 4 int R - players / 4 int P - players / 4 round_num + 1 		46
+if temp == IMPOSSIBLE 		47
+return temp 		48
+temp = temp replace R r 		49
+temp = temp replace P p 		50
+temp = temp replace S s 		51
+temp = temp replace r expand_orderd round_num r 		52
+temp = temp replace p expand_orderd round_num p 		53
+temp = temp replace s expand_orderd round_num s 		54
+return temp 		55
+def do_parse input 		57
+return int num for num in input 0 rstrip split   		58
+def main 		60
+input_f = open INPUT_FILE_NAME r 		61
+output = 		62
+num_of_test_cases = int input_f readline 10 		64
+input_lines = input_f readlines 		66
+for test_case in range num_of_test_cases 		68
+parsed_input = do_parse input_lines test_case * LINES_FOR_EACH_INPUT test_case + 1 * LINES_FOR_EACH_INPUT 		69
+output append Case # + str test_case + 1 + :  + do_case parsed_input 		70
+output_f = open OUTPUT_FILE_NAME w 		72
+output_f write \n join output 		73
+input_f close 		75
+output_f close 		76
+if __name__ == __main__ 		78
+main 		79

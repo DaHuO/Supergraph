@@ -1,0 +1,4 @@
+def main T = input for 		3 7
+def match a b if a == b return 		9 27
+hands i_ hands i_ reducable S = P R S h = None for i 		41 60
+reducable reducable if len line == 1 return 		29 39

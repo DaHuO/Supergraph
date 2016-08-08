@@ -1,0 +1,33 @@
+import sys 		1
+def solve n p r s 		3
+mx = max p r s 		4
+mn = min p r s 		5
+if n == 1 		6
+if p == 0 		7
+return RS 		8
+elif r == 0 		9
+return PS 		10
+else 		11
+return PR 		12
+if n % 2 == 0 		13
+if p == mx 		14
+return solve n - 1 p / 2 p / 2 p / 2 - 1 + solve n - 1 p / 2 p / 2 - 1 p / 2 		15
+elif r == mx 		16
+return solve n - 1 r / 2 r / 2 r / 2 - 1 + solve n - 1 r / 2 - 1 r / 2 r / 2 		17
+else 		18
+return solve n - 1 s / 2 s / 2 - 1 s / 2 + solve n - 1 s / 2 - 1 s / 2 s / 2 		19
+else 		20
+q = mn / 2 		21
+if s == mn 		22
+return solve n - 1 q + 1 q q + solve n - 1 q q + 1 q 		23
+elif r == mn 		24
+return solve n - 1 q + 1 q q + solve n - 1 q q q + 1 		25
+else 		26
+return solve n - 1 q q + 1 q + solve n - 1 q q q + 1 		27
+tc = int sys stdin readline 		30
+for t in xrange 1 tc + 1 		31
+n r p s = map int sys stdin readline split 		32
+if max r p s != min r p s + 1 		33
+print Case #%d: IMPOSSIBLE % t 		34
+else 		35
+print Case #%d: %s % t solve n p r s 		36

@@ -1,0 +1,4 @@
+MEMO MEMO MEMO MEMO P S global if R P S in return R P S if N % 3 == 1 if R - 1 == P == S a b = recur N / 2 R / 2 R / 2 - 1 R / 2 recur N / 2 R / 2 R / 2 		28 50
+def win x y if 		3 10
+simul simul if len s == 1 return 		12 20
+def solve N R P S if abs R - P >= 		55 70

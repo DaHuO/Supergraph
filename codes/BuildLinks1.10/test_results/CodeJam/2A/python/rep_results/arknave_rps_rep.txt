@@ -1,0 +1,5 @@
+<<= solve l n out = if l 0 out = P elif l 1 out = R else out 		29 57
+case_num get_counts case_num case_num int input for in range 1 T + 		59 69
+def valid moves while len moves > 1 		11 19
+def winner a b if a > b 		1 9
+get_counts p r s counts = p r s 		21 27

@@ -1,0 +1,4 @@
+def valid data res p = sum 1 for i in res if i == P r = sum 1 for i in res if i == R s = sum 1 for i in res if i == S return data 0 == p and data 1 == r and data 2 == s 		1 5
+def ch l if l == P return PR if l == R return RS if l == S return PS 		11 17
+def solve N d w if N == 1 return w tmp = ch w res = arr = 0 * 2 for j in range 2 arr j = solve N / 2 d tmp j if arr 0 < arr 1 return arr 0 + arr 1 else return arr 1 + arr 0 		19 30
+def ty w tmp = P R S return tmp w 		7 9

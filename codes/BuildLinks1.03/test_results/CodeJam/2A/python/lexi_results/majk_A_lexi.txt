@@ -1,0 +1,18 @@
+def comb a b 		1
+return a 0 + b 0 a 1 + b 1 a 2 + b 2 min a 3 b 3 + max a 3 b 3 		2
+MN = 13 		4
+O = for _ in range MN + 1 		5
+O 0 = R 1 0 0 R P 0 1 0 P S 0 0 1 S 		6
+for s in range MN 		7
+O s + 1 = 		8
+R comb O s R O s S 		9
+P comb O s P O s R 		10
+S comb O s P O s S 		11
+T = int input 		14
+for t in range T 		15
+N R P S = map int input split 		16
+ans = IMPOSSIBLE 		17
+for v in O N values 		18
+if v 0 == R and v 1 == P and v 2 == S 		19
+ans = v 3 		20
+print Case #%d: %s % t + 1 ans 		21

@@ -1,0 +1,2 @@
+def w c if 		6 12
+def f N c if N c in g return 		13 24

@@ -1,0 +1,1 @@
+def recursive_sort s if len s == 2 return join sorted s else return join sorted recursive_sort s len s / 2 recursive_sort s len s / 2 		3 7

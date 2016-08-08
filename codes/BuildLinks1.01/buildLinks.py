@@ -4,6 +4,7 @@
 from lexicalAnalysis import lexicalanalysis
 from tokenCompare import tokenCompare
 from corpus import Corpus
+from SmithWaterman import SWcompare
 
 import sys
 import os
@@ -11,6 +12,7 @@ from os import listdir
 from os.path import isfile, join
 import operator
 import bisect
+import time
 
 
 class buildlinks(object):
@@ -65,7 +67,8 @@ class buildlinks(object):
 					if flag == -1:
 						continue
 					else:
-						if self.corpus[key][flag][1] != file_in and tokenCompare(body, self.corpus[key][flag][0]):
+						# if self.corpus[key][flag][1] != file_in and tokenCompare(body, self.corpus[key][flag][0]):
+						if self.corpus[key][flag][1] != file_in and SWcompare(body, self.corpus[key][flag][0]):
 							link_tuple = (lineNum, self.corpus[key][flag][1], self.corpus[key][flag][2])
 							if link_tuple in link_tuples:
 								pass
@@ -83,7 +86,8 @@ class buildlinks(object):
 						else:
 							while(left >= 0 and self.corpus[key][left][0][0]==body[0]):
 								# print body, '==left==', left, self.corpus[key][left][0]
-								if self.corpus[key][left][1] != file_in and tokenCompare(body, self.corpus[key][left][0]):
+								# if self.corpus[key][left][1] != file_in and tokenCompare(body, self.corpus[key][left][0]):
+								if self.corpus[key][left][1] != file_in and SWcompare(body, self.corpus[key][left][0]):
 									link_tuple = (lineNum, self.corpus[key][left][1], self.corpus[key][left][2])
 									if link_tuple in link_tuples:
 										pass
@@ -100,7 +104,8 @@ class buildlinks(object):
 						else:
 							while(right <= len(self.corpus[key]) - 1 and self.corpus[key][right][0][0]==body[0]):
 								# print body, '==right==', right, self.corpus[key][right][0]
-								if self.corpus[key][right][1] != file_in and tokenCompare(body, self.corpus[key][right][0]):
+								# if self.corpus[key][right][1] != file_in and tokenCompare(body, self.corpus[key][right][0]):
+								if self.corpus[key][right][1] != file_in and SWcompare(body, self.corpus[key][right][0]):
 									link_tuple = (lineNum, self.corpus[key][right][1], self.corpus[key][right][2])
 									if link_tuple in link_tuples:
 										pass
@@ -129,7 +134,8 @@ class buildlinks(object):
 							# 	lexi_out.write(lineNum + '\t\t' + corp[1] + '\t\t' + str(corp[2]) + '\n')
 				else:
 					for corp in self.corpus['_']:
-						if corp[1] != file_in and tokenCompare(body, corp[0]):
+						# if corp[1] != file_in and tokenCompare(body, corp[0]):
+						if corp[1] != file_in and SWcompare(body, corp[0]):
 							link_tuple = (lineNum, corp[1], corp[2])
 							if link_tuple in link_tuples:
 								continue
@@ -183,4 +189,9 @@ class buildlinks(object):
 if __name__ == '__main__':
 	folder = 'CodeJam/2A/python'
 	# folder = 'sort_codes'
+	start = time.time()
 	buildinks = buildlinks(folder)
+	end = time.time()
+	timelength = end - start
+	print "time spent:"
+	print timelength

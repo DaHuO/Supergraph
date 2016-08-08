@@ -1,0 +1,3 @@
+solve2 N R P S for w 		47 53
+s_ r_ p_ s_ r_ p_ r_ p_ s_ op if r return R if p return 		12 25
+op g n w if n == 0 return w if memo 		29 43

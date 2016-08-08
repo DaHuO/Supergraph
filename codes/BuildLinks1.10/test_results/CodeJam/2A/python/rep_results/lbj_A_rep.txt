@@ -1,0 +1,2 @@
+drawing step l n p r s if p < 0 or r < 0 or s 		22 40
+drawing drawing if len l < 2 return False s = for 		2 18

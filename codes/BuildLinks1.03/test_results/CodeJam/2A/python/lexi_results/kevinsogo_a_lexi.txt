@@ -1,0 +1,65 @@
+if 1 		1
+from sys import * 		2
+from functools import * 		3
+from collections import * 		4
+from itertools import * 		5
+from functools import * 		6
+from heapq import * 		7
+xr = xrange 		8
+def print_args * args ** kwargs 		10
+return , join value for value in , join map repr args , join %s=%s % k repr v for k v in kwargs items if value 		11
+def print_result before = False after = True 		13
+def fc func 		14
+wraps func 		15
+def f * args ** kwargs 		16
+if before 		17
+print %s(%s) % func __name__ print_args * args ** kwargs 		18
+r = func * args ** kwargs 		19
+if after 		20
+print %s(%s) = %s % func __name__ print_args * args ** kwargs r 		21
+return r 		22
+return f 		23
+return fc 		24
+def memoize function 		26
+memo = 		27
+wraps function 		28
+def f * args 		29
+key = args 		30
+if key not in memo 		31
+memo key = function * args 		32
+if not len memo & 32767 		33
+print >> stderr memo function __name__ len memo 		34
+return memo key 		35
+f memo = memo 		36
+return f 		37
+def line 		39
+return raw_input strip 		40
+def parts f = int 		42
+return map f line split 		43
+def qparts f = int 		45
+data = line split 		46
+return data 0 map f data 1 		47
+def combine a b 		58
+if a < b 		59
+return a + b 		60
+else 		61
+return b + a 		62
+def tourn r p s 		64
+if r + p + s == 1 		65
+if r return R 		66
+if p return P 		67
+if s return S 		68
+if p == s 		69
+return combine tourn r / 2 p / 2 s / 2 + 1 tourn r / 2 p / 2 + 1 s / 2 		70
+if s == r 		71
+return combine tourn r / 2 + 1 p / 2 s / 2 tourn r / 2 p / 2 s / 2 + 1 		72
+if r == p 		73
+return combine tourn r / 2 p / 2 + 1 s / 2 tourn r / 2 + 1 p / 2 s / 2 		74
+assert False 		75
+for cas in xrange 1 1 + input 		77
+n r p s = parts 		78
+print Case #%s: % cas 		80
+if max r p s - min r p s > 1 		81
+print IMPOSSIBLE 		82
+else 		83
+print tourn r p s 		84

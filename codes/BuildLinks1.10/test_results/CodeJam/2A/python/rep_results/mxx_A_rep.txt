@@ -1,0 +1,6 @@
+readval 		1 2
+getxyz p r s nn = p 		40 45
+readvals 		4 5
+testcase getxyz readvals getxyz newres newres newres = p + r + s x = nn / 2 - s y = nn / 2 - r z = nn / 2 - p return x y z N R P S = 		38 74
+def check orders if len orders == 1 		12 19
+testcase readvals allpairs checked allpairs checked checked NN = P + R + S rules = PS S PR P RS R def check orders if len orders == 1 return True nextord = for 		7 36

@@ -1,0 +1,1 @@
+keys keys w = R R P P S R P R P 		4 20

@@ -1,0 +1,110 @@
+import math 		1
+from time import time 		2
+import itertools 		3
+import operator 		4
+from sys import * 		5
+from heapq import * 		6
+from time import time 		7
+from multiprocessing import Pool 		8
+from collections import * 		9
+import itertools 		10
+from copy import deepcopy 		11
+from bisect import * 		12
+setrecursionlimit 10000 		13
+from math import * 		14
+from time import sleep 		15
+import os 		16
+import sys 		17
+import re 		18
+import numpy as np 		19
+import heapq 		20
+def readint 		22
+return int fi readline 		23
+def readints 		25
+return int X for X in fi readline split 		26
+def read_case 		28
+return readints 		29
+def okay r p s 		31
+if r + p + s <= 2 		32
+return max r p s < 2 		33
+return p <= r + s and r <= s + p and s <= p + r 		34
+pairs = 1 1 0 0 1 1 1 0 1 		36
+outcome = 0 1 0 0 0 1 1 0 0 		37
+spair = PR PS RS 		38
+def build r p s 		40
+print r p s 		41
+if r + p + s == 1 return  		42
+for R P S sss rR rP rS in zip pairs spair outcome 		43
+if R <= r and S <= s and P <= p 		44
+if okay r - R + rR s - S + rS p - P + rP continue 		45
+return sss + build r - R + rR p - P + rP s - S + rS 		46
+return ??? 		47
+def solve_case n r p s 		49
+if not okay r p s return IMPOSSIBLE 		50
+return build r p s 		51
+def okay s 		53
+if len s == 1 return True 		54
+t =  		55
+for I in range len s // 2 		56
+if s 2 * I == s 2 * I + 1 return False 		57
+t = t + winner s 2 * I s 2 * I + 1 		58
+return okay t 		59
+w = P R P P S S R S R 		61
+def winner a b 		62
+return w min a b max a b 		63
+def solve_case n r p s 		65
+sss = R * r + P * p + S * s 		66
+poss = sorted  join X for X in itertools permutations sss 		67
+for P in poss 		68
+if okay P return P 		69
+return IMPOSSIBLE 		70
+def print_solution case 		72
+val = solve_case * case 1 		73
+msg = Case #{}: {} format case 0 val 		74
+print msg 		75
+return msg 		76
+t0 = time 		78
+t1 = time 		79
+print Intialisation took %f seconds % t1 - t0 		80
+if t1 - t0 > 5 input Press Enter to continue... 		81
+t1 = time 		82
+if __name__ == __main__ 		84
+fni = %s-%s-%s.in % argv 1 argv 2 argv 3 		85
+fno = %s-%s-%s.out % argv 1 argv 2 argv 3 		86
+if not os path isfile fni 		88
+sys stdout write Waiting for input file {}... format fni 		89
+while not os path isfile fni 		90
+sys stdout flush 		91
+sleep 1 		92
+sys stdout write . 		93
+sleep 1 		94
+print  		95
+fi = open fni r 		96
+numcases = readint 		98
+cases = I read_case for I in range 1 1 + numcases 		99
+mt = False 		101
+if mt 		102
+print Running multi-threaded 		103
+p = Pool 8 		104
+output = list p map print_solution cases 		105
+else 		106
+print Running single-threaded 		107
+output = list map print_solution cases 		108
+print Elapsed time %f seconds  % time - t1 		109
+if os path isfile fno 		111
+print Verifying against existing results 		112
+fo = open fno r 		113
+oc = re split (Case #[0-9]+:\s*) fo read 1 		114
+refout = A + B rstrip for A B in zip oc 2 oc 1 2 		115
+diffs = 0 		116
+for C in range numcases 		117
+if refout C != output C 		118
+print - * 20 		119
+print Input {}\nReference Output {}\nGenerated Output {} format cases C 1 refout C output C 		120
+print - * 20 		121
+diffs += 1 		122
+print {} diffs found format diffs 		123
+else 		124
+fo = open fno w 		125
+fo write \n join output 		126
+print {} cases written format len output 		127

@@ -1,0 +1,3 @@
+bundle bundle bundle n c = 		6 13
+reduc l P S R 		1 4
+reduction reduction reduction len tree == 1 		15 25

@@ -1,0 +1,2 @@
+sort_l substrA substrB substrA substrB substrA substrB substrB substrA for j in xrange 0 		18 26
+get_final sort_l N for i in xrange N next 		4 16

@@ -1,0 +1,3 @@
+def fit n1 n2 n3 s return s count R s count P s count S == n1 n2 n3 		16 17
+def c a b if a < b return a + b return b + a 		1 4
+def h n R = R P = P S = S for i in xrange 1 n R append c R i - 1 S i - 1 P append c P i - 1 R i - 1 S append c S i - 1 P i - 1 return R - 1 P - 1 S - 1 		6 14

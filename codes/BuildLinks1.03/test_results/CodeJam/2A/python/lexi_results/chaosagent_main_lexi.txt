@@ -1,0 +1,47 @@
+def dfs r p s 		1
+total = r + p + s 		2
+if total == 1 		3
+if r 		4
+return R 		5
+elif p 		6
+return P 		7
+else 		8
+return S 		9
+elif r > total / 2 or p > total / 2 or s > total / 2 		10
+return False 		11
+i = r + p - s / 2 		12
+nr = r - i 		13
+np = i 		14
+ns = p - i 		15
+if nr < 0 or np < 0 or ns < 0 		16
+return False 		17
+result = dfs nr np ns 		18
+if result 		19
+toreturn = 		20
+for c in result 		21
+if c == R 		22
+toreturn += R S 		23
+elif c == P 		24
+toreturn += P R 		25
+else 		26
+toreturn += P S 		27
+return toreturn 		28
+else 		29
+return False 		30
+def sort l s e 		33
+if e - s == 1 		34
+return 		35
+m = s + e / 2 		36
+sort l s m 		37
+sort l m e 		38
+if l m e < l s m 		39
+l s m l m e = l m e l s m 		40
+t = int raw_input 		42
+for case in xrange 1 t + 1 		43
+n r p s = map int raw_input split 		44
+result = dfs r p s 		45
+if result 		46
+sort result 0 2 ** n 		47
+print Case #%d: %s % case  join result 		48
+else 		49
+print Case #%d: %s % case IMPOSSIBLE 		50

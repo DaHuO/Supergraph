@@ -1,0 +1,60 @@
+from sys import stdin stdout 		1
+class Solver 		3
+def run self 		5
+caseNum = int stdin readline 		6
+for caseIndex in range caseNum 		7
+self input 		8
+self exe 		9
+self output caseIndex + 1 		10
+def input self 		12
+self N self R self P self S = int _ for _ in stdin readline split 		13
+def exe self 		15
+oper = P R S 		16
+self length = 1 << self N 		17
+self result = 		18
+for code in range 3 ** self length 		19
+order = 		20
+tmp = code 		21
+counts = 0 0 0 		22
+for i in range self length 		23
+r = tmp % 3 		24
+tmp /= 3 		25
+order append oper r 		26
+counts r += 1 		27
+if counts 0 == self P and counts 1 == self R and counts 2 == self S 		28
+if self check order 		29
+if len self result == 0 or self result > order 		30
+self result = order 		31
+def check self order 		33
+tmp = order 		34
+while len tmp > 1 		35
+tmp1 = 		36
+for i in range len tmp >> 1 		37
+a = tmp i * 2 		38
+b = tmp i * 2 + 1 		39
+if a == b 		40
+return False 		41
+if a == P and b == R 		42
+c = P 		43
+elif a == P and b == S 		44
+c = S 		45
+elif a == R and b == P 		46
+c = P 		47
+elif a == R and b == S 		48
+c = R 		49
+elif a == S and b == P 		50
+c = S 		51
+elif a == S and b == R 		52
+c = R 		53
+tmp1 append c 		55
+tmp = tmp1 		56
+return True 		57
+def output self caseIndex 		59
+stdout write Case #%d:  % caseIndex 		60
+if len self result == 0 		61
+stdout write IMPOSSIBLE\n 		62
+else 		63
+stdout write %s\n %  join self result 		64
+if __name__ == __main__ 		66
+instance = Solver 		67
+instance run 		68

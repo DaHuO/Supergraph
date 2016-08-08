@@ -1,0 +1,6 @@
+PSR make_mature make_sense R 		34 39
+make_mature reversed grow 		25 29
+case_id case_id T = int input 		41 45
+grow fn evolve 		21 23
+evolve s level if s == P return PR 		13 19
+make_sense adult R P 		31 32

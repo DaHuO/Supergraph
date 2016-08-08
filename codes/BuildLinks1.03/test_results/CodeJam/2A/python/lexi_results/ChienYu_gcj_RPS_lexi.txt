@@ -1,0 +1,24 @@
+from sys import stdin 		1
+def players win 		3
+player = R P S 		4
+for i in xrange N 		5
+y =  * 3 		6
+for i in xrange 3 		7
+if player i < player i - 1 % 3 		8
+y i = player i + player i - 1 % 3 		9
+else 		10
+y i = player i - 1 % 3 + player i 		11
+player = y 		12
+return player win 		14
+def each_case N R P S 		16
+win lose loselose = 1 1 0 		17
+for i in xrange N - 1 		18
+win lose loselose = loselose + win win + lose lose + loselose 		19
+if R P S == win loselose lose return players 0 		21
+if R P S == lose win loselose return players 1 		22
+if R P S == loselose lose win return players 2 		23
+return IMPOSSIBLE 		24
+T = int stdin readline 		26
+for t in xrange 1 T + 1 		27
+N R P S = map int stdin readline split 		28
+print Case #{}: {} format t each_case N R P S 		29

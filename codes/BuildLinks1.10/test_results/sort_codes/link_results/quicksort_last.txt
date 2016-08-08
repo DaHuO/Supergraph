@@ -1,0 +1,4 @@
+3 - 11 links:
+quicksort_first	:	3 - 11
+quicksort_median	:	3 - 11
+

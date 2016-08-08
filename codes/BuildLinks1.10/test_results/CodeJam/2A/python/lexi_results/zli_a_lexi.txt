@@ -1,0 +1,2 @@
+def next_line return input_file readline rstrip 		13 14
+def xl l return xrange len l 		10 11

@@ -1,0 +1,5 @@
+1 - 8 links:
+sort_insertion	:	8 - 14
+sort_bubble	:	8 - 17
+pysort	:	136 - 152
+

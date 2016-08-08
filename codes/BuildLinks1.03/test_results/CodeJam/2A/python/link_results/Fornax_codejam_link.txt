@@ -1,0 +1,47 @@
+2		Zark_CJ201620A		1
+4		hellman_a		34
+4		Fedux_rock		119
+4		dpforest_A		45
+4		chrisx_A		81
+4		lackofcheese_src_codejam_io		9
+4		tanriol_A		28
+4		tpablo_main-large		17
+4		tpablo_main-large		44
+6		hellman_a		51
+6		tpablo_main-large		36
+6		tpablo_main-large		49
+6		Zark_CJ201620A		13
+7		hellman_a		51
+7		tpablo_main-large		36
+7		tpablo_main-large		49
+7		Zark_CJ201620A		13
+8		fandersen_GCJ		206
+10		dpforest_A		46
+11		Fantoccini_rps		88
+11		bigOnion_rps		107
+11		bigOnion_rps		103
+11		ikicha_rock_paper_scissor		46
+11		Triply_a		66
+11		Vytis_A		32
+12		mth_A		78
+12		CyberEwok_a2		60
+12		Yaksha_A		20
+15		eXtreme_A		30
+16		tpablo_main-large		37
+16		Strikeskids_A		25
+16		Zark_CJ201620A		30
+16		Zark_CJ201620A		61
+17		lackofcheese_src_codejam_io		112
+17		tanriol_A		84
+17		wonstin_A		34
+18		jcb_q1		63
+18		eXtreme_A		31
+18		KAP_a		30
+18		mcpower_a		37
+18		naagi_a2		15
+18		tpablo_main-large		156
+18		xenosoz.here_A		27
+21		Vytis_A		37
+
+
+The best linked code is tpablo_main-large, and 8 links are found.

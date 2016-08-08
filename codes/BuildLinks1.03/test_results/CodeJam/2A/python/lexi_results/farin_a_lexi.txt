@@ -1,0 +1,65 @@
+def layer r p s last 		24
+if r + p + s == 1 		25
+if r 		26
+return R 		27
+if p 		28
+return P 		29
+if s 		30
+return S 		31
+nr np ns = 0 0 0 		33
+while r or p or s 		34
+if r > p and s > p 		35
+r -= 1 		36
+s -= 1 		37
+nr += 1 		39
+continue 		40
+if p > r and s > r 		41
+p -= 1 		42
+s -= 1 		43
+ns += 1 		45
+continue 		46
+if p > s and r > s 		47
+p -= 1 		48
+r -= 1 		49
+np += 1 		51
+continue 		52
+if s > p and s > r 		53
+p -= 1 		54
+s -= 1 		55
+ns += 1 		57
+continue 		58
+p -= 1 		59
+r -= 1 		60
+np += 1 		62
+t = 		64
+l = layer nr np ns False 		65
+for c in l 		67
+if c == P 		68
+t append PR 		69
+elif c == R 		70
+if last 		71
+t append RS 		72
+else 		73
+t append SR 		74
+elif c == S 		75
+t append PS 		76
+return  join t 		77
+def rearrange s 		79
+l = len s 		80
+if l == 1 		81
+return s 		82
+a b = s l // 2 s l // 2 		83
+a = rearrange a 		84
+b = rearrange b 		85
+ab = a + b 		86
+ba = b + a 		87
+return min ab ba 		88
+def solve n r p s 		91
+if abs r - s > 1 or abs r - p > 1 or abs s - p > 1 		92
+return IMPOSSIBLE 		93
+l = layer r p s True 		94
+return rearrange l 		95
+testcases = int input 		125
+for case_n in range 1 testcases + 1 		127
+case_data = map int input split 		128
+print Case #%i: %s % case_n solve * case_data 		130

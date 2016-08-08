@@ -1,0 +1,2 @@
+def check n winner if n == 0 		17 26
+def calc winner if 		8 15

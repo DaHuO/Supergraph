@@ -1,0 +1,32 @@
+def makesmaller A 		1
+if len A == 1 		2
+return A 		3
+else 		4
+l = len A // 2 		5
+L = makesmaller A l 		6
+R = makesmaller A l 		7
+return min L + R R + L 		8
+filename = A-large.in 		10
+f = open filename r 		11
+out = open output.out w 		12
+T = int f readline 		13
+for Ca in range T 		14
+N R P S = int j for j in f readline split 		15
+k = int P + R - S / 2 		16
+ret =  		18
+for i in range N 		19
+k = P + R - S / 2 		20
+P R S = k R - k P - k 		22
+if P < 0 or R < 0 or S < 0 		23
+ret = IMPOSSIBLE 		24
+break 		25
+if ret != IMPOSSIBLE 		26
+ret = P * int P + R * int R + S * int S 		27
+for i in range N 		28
+ret = ret replace P pr replace R rs replace S sp 		29
+ret = ret replace r R replace s S replace p P 		30
+ret = makesmaller ret 		32
+print Case # + str Ca + 1 + :  + ret 		33
+out write Case # + str Ca + 1 + :  + ret + \n 		34
+f close 		35
+out close 		36

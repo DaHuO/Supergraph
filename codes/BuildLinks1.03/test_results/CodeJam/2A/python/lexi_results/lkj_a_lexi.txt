@@ -1,0 +1,32 @@
+def getprs n w 		1
+c = w 		2
+for i in range n 		3
+nc =  		4
+for l in c 		5
+nc += P PR R SR S SP l 		6
+c = nc 		7
+return c count ch for ch in PRS 		8
+def getsol n w 		10
+c = w 		11
+for i in range n 		12
+nc =  		13
+for l in c 		14
+nc += P PR R SR S SP l 		15
+c = nc 		16
+for loginvsize in range 0 n 		17
+for sgind in range 0 2 ** n 2 ** loginvsize + 1 		19
+if c sgind sgind + 2 ** loginvsize > c sgind + 2 ** loginvsize sgind + 2 * 2 ** loginvsize 		20
+c = c sgind + c sgind + 2 ** loginvsize sgind + 2 * 2 ** loginvsize + c sgind sgind + 2 ** loginvsize + c sgind + 2 * 2 ** loginvsize 		21
+return c 		22
+def solve n r p s 		24
+pprs = getprs n P 		25
+rprs = getprs n R 		26
+sprs = getprs n S 		27
+if not p r s in pprs rprs sprs 		29
+return IMPOSSIBLE 		30
+else 		31
+return getsol n PRS pprs rprs sprs index p r s 		32
+tc = int input 		34
+for t in range 1 tc + 1 		35
+n r p s = int x for x in input split 		36
+print Case #{}: {} format t solve n r p s 		37

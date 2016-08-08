@@ -1,0 +1,3 @@
+make_tree ky ky ky tree1 make_tree tree2 make_tree OTHER tree1 tree2 		18 31
+_cc for 		3 6
+mytree make_tree mytree mytree mytree S out = None for ch in RPS = 		33 47

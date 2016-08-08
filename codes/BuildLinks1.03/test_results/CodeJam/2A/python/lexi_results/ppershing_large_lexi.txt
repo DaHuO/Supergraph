@@ -1,0 +1,62 @@
+import sys 		1
+import itertools 		2
+cases = int sys stdin readline strip 		4
+def find_solution r s p 		6
+if r < 0 		8
+return None 		9
+if s < 0 		10
+return None 		11
+if p < 0 		12
+return None 		13
+if r + s + p == 1 		14
+if r 		15
+return R 		16
+if s 		17
+return S 		18
+if p 		19
+return P 		20
+assert False 		21
+for x in range r + 1 		22
+y = s - x 		23
+z = r - x 		24
+if y + z != p 		25
+continue 		26
+res = find_solution x y z 		28
+if res 		29
+return best back res 		30
+return None 		31
+def expand data 		33
+x = RS SR 		34
+y = PS SP 		35
+z = PR RP 		36
+res = data replace R X 		37
+res = res replace S Y 		38
+res = res replace P Z 		39
+for xx in x 		40
+tmpx = res replace X xx 		41
+for yy in y 		42
+tmpy = tmpx replace Y yy 		43
+for zz in z 		44
+tmpz = tmpy replace Z zz 		45
+yield tmpz 		46
+def best data 		48
+data = list data 		49
+res = 		50
+for order in itertools permutations P R S 		51
+res append max data key = lambda string order index s for s in string 		53
+return res 		54
+def back data 		56
+for res in data 		57
+for x in expand res 		58
+yield x 		59
+def solve case 		62
+n r p s = map int sys stdin readline strip split 		63
+assert r + p + s == 2 ** n 		64
+res = find_solution r s p 		65
+if not res 		66
+res = IMPOSSIBLE 		67
+else 		68
+res = res - 1 		69
+print Case #%d: %s % case res 		70
+for i in range cases 		72
+solve i + 1 		73

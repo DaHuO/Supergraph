@@ -1,0 +1,42 @@
+import sys re string math fractions itertools 		3
+from fractions import Fraction 		4
+ssr = sys stdin readline 		6
+ssw = sys stdout write 		7
+def rdline return ssr strip 		8
+def rdstrs return ssr split 		9
+def rdints return map int ssr split 		10
+def rd1int return int rdline 		11
+rule = R RS P PR S SP 		13
+bst = 		14
+def do_one_case cnum 		16
+N R P S = rdints 		17
+goal = P * P + R * R + S * S 		18
+tries = best N 		19
+t2 = t 0 for t in tries if t 1 == goal 		20
+if t2 		21
+print Case #%d: %s % cnum min t2 		22
+else 		23
+print Case #%d: IMPOSSIBLE % cnum 		24
+def best N 		27
+if N in bst 		28
+return bst N 		29
+NN = 2 ** N 		30
+B = 		31
+for t in RPS 		32
+x = t 		33
+for i in range N 		34
+x =  join rule c for c in x 		35
+for i in range N 		36
+k = 2 ** i 		37
+x =  join  join sorted x j j + k x j + k j + 2 * k for j in range 0 NN 2 * k 		38
+y =  join sorted x 		39
+B append x y 		40
+bst N = B 		41
+return B 		42
+def main 		49
+T = rd1int 		50
+for i in range T 		51
+do_one_case i + 1 		52
+sys stdout flush 		53
+if __name__ == __main__ 		56
+main 		57

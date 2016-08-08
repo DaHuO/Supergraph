@@ -1,0 +1,4 @@
+def valid data res p = sum 1 for i 		1 5
+def ch l if 		11 17
+def solve N d w if N == 1 return w 		19 30
+ty w 		7 9

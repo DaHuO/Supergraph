@@ -1,0 +1,2 @@
+rotateLex s length = 1 while length < len s for k in range 		13 22
+def 		3 3

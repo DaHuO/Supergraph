@@ -1,0 +1,104 @@
+from abc import ABCMeta abstractmethod 		1
+class Sorter metaclass = ABCMeta 		4
+abstractmethod 		6
+def sort self l list 		7
+pass 		8
+def sorted self l list - > list 		10
+r = list l 		11
+self sort r 		12
+return r 		13
+class Timsort Sorter 		16
+def sort self l list 		18
+l sort 		19
+def sorted self l list 		21
+return sorted l 		22
+class Bubblesort Sorter 		25
+def sort self l list 		27
+swapped = True 		28
+while swapped 		29
+swapped = False 		30
+for i in range len l - 1 		31
+if l i > l i + 1 		32
+swapped = True 		33
+l i l i + 1 = l i + 1 l i 		34
+class Insertionsort Sorter 		37
+def sort self l list 		39
+for i in range len l 		40
+j = i 		41
+cmp = l i 		42
+while j and l j - 1 > cmp 		43
+l j = l j - 1 		44
+j -= 1 		45
+l j = cmp 		46
+class Selectionsort Sorter 		49
+def sort self l list 		51
+for i in range len l 		52
+pmin = i 		53
+for j in range i + 1 len l 		54
+if l j < l pmin 		55
+pmin = j 		56
+l i l pmin = l pmin l i 		57
+class Mergesort Sorter 		60
+def sorted self l list 		62
+return self sort list l 		64
+def sort self l list 		66
+if len l < 2 		67
+return l 		68
+mid = len l // 2 		69
+return self merge self sort l mid self sort l mid 		70
+def merge self left list right list - > list 		72
+result = 		73
+while len left > 0 and len right > 0 		74
+if left 0 < right 0 		75
+result append left pop 0 		76
+else 		77
+result append right pop 0 		78
+rest = right if len left == 0 else left 		80
+for el in rest 		81
+result append el 		82
+return result 		83
+class AltMergesort Sorter 		86
+def __init__ self 		88
+self li = 		89
+self tmp = 		90
+def sort self l list 		92
+self li = l 		93
+self tmp = None * len l 		94
+self _sort 0 len l 		95
+return self li 		96
+def _sort self s e 		98
+if e - s < 2 		99
+return 		100
+mid = e + s // 2 		101
+self _sort s mid 		102
+self _sort mid e 		103
+self _merge s mid e 		104
+self _copy_back s e 		105
+def _merge self ls mid re 		107
+l r = ls mid 		108
+for j in range ls re 		109
+if l < mid and r >= re or self li l <= self li r 		110
+self tmp j = self li l 		111
+l += 1 		112
+else 		113
+self tmp j = self li r 		114
+r += 1 		115
+def _copy_back self s e 		117
+for i in range s e 		118
+self li i = self tmp i 		119
+class Quicksort Sorter 		122
+def sorted self l list 		124
+return self sort l 		126
+def sort self l list 		128
+if len l < 2 		129
+return l 		130
+pivot = l len l // 2 		131
+left right pivots = 		132
+for x in l 		133
+if x < pivot 		134
+left append x 		135
+elif x == pivot 		136
+pivots append x 		137
+else 		138
+right append x 		139
+return self sort left + pivots + self sort right 		140

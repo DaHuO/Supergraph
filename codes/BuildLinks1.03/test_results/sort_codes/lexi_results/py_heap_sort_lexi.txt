@@ -1,0 +1,30 @@
+from random import shuffle 		3
+def heapsort aList 		5
+length = len aList - 1 		7
+leastParent = length / 2 		8
+for i in range leastParent - 1 - 1 		9
+moveDown aList i length 		10
+print aList 		11
+for i in range length 0 - 1 		14
+if aList 0 > aList i 		15
+swap aList 0 i 		16
+moveDown aList 0 i - 1 		17
+def moveDown aList first last 		20
+largest = 2 * first + 1 		21
+while largest <= last 		22
+if largest < last and aList largest < aList largest + 1 		24
+largest += 1 		25
+if aList largest > aList first 		28
+swap aList largest first 		29
+first = largest 		31
+largest = 2 * first + 1 		32
+else 		33
+return 		34
+def swap A x y 		37
+tmp = A x 		38
+A x = A y 		39
+A y = tmp 		40
+alist = i for i in range 10 		43
+shuffle alist 		44
+heapsort alist 		46
+print alist 		47

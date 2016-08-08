@@ -1,0 +1,46 @@
+import sys 		1
+import random 		2
+T = int sys stdin readline 		4
+WINNER = 		6
+P R P 		7
+P S S 		8
+R P P 		10
+R S R 		11
+S P S 		13
+S R R 		14
+def has_winner ordering 		17
+curr = ordering 		18
+while len curr > 1 		19
+next = 		20
+for i in range len curr / 2 		21
+if curr 2 * i == curr 2 * i + 1 		22
+return False 		23
+next append WINNER curr 2 * i curr 2 * i + 1 		24
+curr = next 		25
+return True 		26
+def find_winner o p r s 		28
+if not p and not r and not s 		29
+if has_winner o 		30
+return o 		31
+else 		32
+return None 		33
+if p 		35
+t = find_winner o + P p - 1 r s 		36
+if t 		37
+return t 		38
+if r 		40
+t = find_winner o + R p r - 1 s 		41
+if t 		42
+return t 		43
+if s 		45
+t = find_winner o + S p r s - 1 		46
+if t 		47
+return t 		48
+return None 		50
+for n in range 1 T + 1 		53
+N R P S = int x for x in sys stdin readline split 		54
+o = find_winner  P R S 		56
+if o 		58
+print Case #{}: {} format n o 		59
+else 		60
+print Case #{}: {} format n IMPOSSIBLE 		61

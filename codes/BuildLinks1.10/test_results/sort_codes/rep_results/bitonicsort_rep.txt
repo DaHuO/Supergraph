@@ -1,0 +1,4 @@
+modf _bitonicsort ASCENDING 		28 31
+compare merge lst lo n dir if n 		11 17
+_bitonicsort _bitonicsort ASCENDING _bitonicsort DESCENDING if 		20 25
+compare lst i j 		5 8

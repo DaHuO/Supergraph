@@ -1,0 +1,5 @@
+solve x PR RS PS & < min <<= = P elif l 1 out = R else out = 		29 57
+main T int input case_num T map int input split works True 		59 69
+valid False winner True moves > 1 n 		11 19
+winner winner b if a > b return 		1 9
+get_counts // // // counts = p r s 		21 27

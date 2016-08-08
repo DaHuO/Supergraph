@@ -1,0 +1,37 @@
+T = int raw_input 		1
+def recursive_sort s 		3
+if len s == 2 		4
+return  join sorted s 		5
+else 		6
+return  join sorted recursive_sort s len s / 2 recursive_sort s len s / 2 		7
+dj = S PS R RS P PR 		10
+for t in xrange T 		11
+N R P S = int x for x in raw_input split 		12
+ssr = R 		13
+ssp = P 		14
+sss = S 		15
+for n in xrange N 		16
+nssr =  		17
+for i in ssr 		18
+nssr += dj i 		19
+ssr = nssr 		20
+nssp =  		21
+for i in ssp 		22
+nssp += dj i 		23
+ssp = nssp 		24
+nsss =  		25
+for i in sss 		26
+nsss += dj i 		27
+sss = nsss 		28
+sort_ssr =  join sorted ssr 		29
+sort_ssp =  join sorted ssp 		30
+sort_sss =  join sorted sss 		31
+target = P * P + R * R + S * S 		32
+if sort_ssp == target 		33
+print Case # + str t + 1 + :  + recursive_sort ssp 		34
+elif sort_sss == target 		35
+print Case # + str t + 1 + :  + recursive_sort sss 		36
+elif sort_ssr == target 		37
+print Case # + str t + 1 + :  + recursive_sort ssr 		38
+else 		39
+print Case # + str t + 1 + : IMPOSSIBLE 		40

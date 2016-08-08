@@ -1,0 +1,73 @@
+FILE_NAME_BASE = A-small-attempt0 		3
+NUM_PROCESSES = 0 		4
+MEM_LIMIT_GB = 1.5 		5
+RECURSION_LIMIT = 1000 		6
+def parse inp 		8
+n r p s = int x for x in inp readline split 		9
+return n r p s 		10
+def deadlock lineup 		12
+while len lineup > 1 		13
+winners = 		14
+for a b in zip lineup 2 lineup 1 2 		15
+if a == b 		16
+return True 		17
+if max a b == S and min a b == R 		18
+winners append R 		19
+elif max a b == R and min a b == P 		20
+winners append P 		21
+elif max a b == S and min a b == P 		22
+winners append S 		23
+else 		24
+assert False a b 		25
+lineup = winners 		26
+return False 		27
+def solve n r p s 		29
+participants = 1 << n 		30
+def rec lineup r p s 		32
+if len lineup == participants 		33
+if not deadlock lineup 		34
+yield  join lineup 		35
+if r > 0 		36
+lineup append R 		37
+for found in rec lineup r - 1 p s 		38
+yield found 		39
+del lineup - 1 		40
+if p > 0 		41
+lineup append P 		42
+for found in rec lineup r p - 1 s 		43
+yield found 		44
+del lineup - 1 		45
+if s > 0 		46
+lineup append S 		47
+for found in rec lineup r p s - 1 		48
+yield found 		49
+del lineup - 1 		50
+lineups = sorted rec r p s 		52
+return lineups 0 if len lineups > 0 else IMPOSSIBLE 		53
+def main 		55
+import sys 		56
+sys setrecursionlimit RECURSION_LIMIT 		57
+import resource 		59
+soft hard = resource getrlimit resource RLIMIT_AS 		60
+resource setrlimit resource RLIMIT_AS MEM_LIMIT_GB * 1024 ** 3 hard 		61
+with open FILE_NAME_BASE + .in r as inp 		63
+numCases = int inp readline 		64
+inputs = parse inp for _ in xrange numCases 		65
+if NUM_PROCESSES == 0 		67
+runners = lambda inp = inp apply solve inp for inp in inputs 		68
+else 		69
+from multiprocessing import Pool 		70
+from signal import SIGINT SIG_IGN signal 		71
+pool = Pool NUM_PROCESSES signal SIGINT SIG_IGN 		72
+runners = pool apply_async solve inp get for inp in inputs 		73
+pool close 		74
+caseFmt = % + str len str numCases + d 		76
+progressFmt = [%s/%s] %%s\n % caseFmt caseFmt 		77
+with open FILE_NAME_BASE + .out w as out 		78
+for case runner in enumerate runners 1 		79
+result = runner 		80
+out write Case #%d: %s\n % case result 		81
+out flush 		82
+sys stderr write progressFmt % case numCases result 		83
+if __name__ == __main__ 		85
+main 		86

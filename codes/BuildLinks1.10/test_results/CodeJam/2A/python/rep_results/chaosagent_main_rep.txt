@@ -1,0 +1,2 @@
+def sort l s e if e - s 		33 40
+def dfs r p s total = r + p + s if total == 1 if r return R elif p return P 		1 30

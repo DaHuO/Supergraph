@@ -1,0 +1,3 @@
+A1 A2 A1 A2 r if n == 0 return 1 if 		2 7
+def check n N C r 		9 13
+here here here here C ans = 		15 23

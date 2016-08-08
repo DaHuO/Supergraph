@@ -1,0 +1,10 @@
+def 		65 66
+nums return 		57 58
+def 		61 62
+fnums return 		59 60
+def cnt s 		19 24
+def build lev c if lev == 		9 16
+sstrip 		63 64
+arrstr sep 		67 68
+fname test.in fname io fname io fname t0 datetime datetime Time datetime datetime t0 		39 55
+nums solve n r p s = f = R S S P P R def build lev c if lev == 0 		6 37

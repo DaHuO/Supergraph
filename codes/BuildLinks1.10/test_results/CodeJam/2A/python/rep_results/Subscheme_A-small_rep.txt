@@ -1,0 +1,8 @@
+compete seq return 		49 50
+def gen p r s if p + r + s == 0 yield elif p 		18 32
+compete def works 		52 57
+def solve n 		61 65
+wrap wrap f cache = 		5 10
+def winner a b if a == b raise 		34 46
+put caseNumber 		15 16
+wrap * args 		7 9

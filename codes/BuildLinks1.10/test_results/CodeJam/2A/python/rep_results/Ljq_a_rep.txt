@@ -1,0 +1,2 @@
+Make ee z1 Make z2 Make z1 z2 		13 18
+Run nlst Make R P S = map int ss 		20 27

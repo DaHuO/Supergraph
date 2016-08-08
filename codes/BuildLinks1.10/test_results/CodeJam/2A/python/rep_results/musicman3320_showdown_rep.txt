@@ -1,0 +1,2 @@
+nextNode prevNode 		6 9
+tup tup N R P S = if N == 1 if R P S == 1 1 0 return PR elif R P S == 1 0 1 return RS elif R P S == 0 1 1 return PS else return IMPOSSIBLE sortedlist = list sorted R P S if sortedlist 0 == sortedlist 		11 70

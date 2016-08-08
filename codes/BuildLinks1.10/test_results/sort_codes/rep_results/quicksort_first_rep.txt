@@ -1,0 +1,2 @@
+def partition a l r pivot = a l i = 		14 23
+def quick_sort a l r if l 		3 11

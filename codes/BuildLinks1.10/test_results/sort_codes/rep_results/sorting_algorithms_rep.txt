@@ -1,0 +1,5 @@
+small_pile large_pile pivot_count small_pile large_pile pivot_count small_pile 1 return file 		62 92
+selection_sort inner inner inner inner range 		24 40
+def bubble_sort file for j in range len file swapped 		1 22
+def insertion_sort file for outer in range 1 		42 60
+quick_sort_inplace quick_sort_inplace quick_sort_inplace = None upper = None if lower is None lower = 0 if upper is None upper 		96 133

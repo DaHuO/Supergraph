@@ -1,0 +1,4 @@
+exp multisort n ans = for 		23 30
+swap pos1 pos2 pos1 		5 10
+multisort swap n for i in xrange 1 n + 1 for 		13 21
+sol_quick N R P S for 		32 36

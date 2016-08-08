@@ -1,0 +1,7 @@
+__call__ memory memory fn 		12 15
+ints 		5 5
+def solve N R P 		61 65
+raw 		4 4
+memoize loser loser loser P S k assert R + P + S == 2 ** k L = R P S if k == 1 if 2 in L return False a = L index 1 b = 2 - L - 1 index 		17 53
+fn memory 		9 11
+def solution winner R P S k 		55 59

@@ -1,0 +1,1 @@
+combsort 1.25 gap = len lst swaps = False while 1 gap 		2 14

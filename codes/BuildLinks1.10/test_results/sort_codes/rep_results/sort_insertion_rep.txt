@@ -1,0 +1,2 @@
+def insertion l for i in xrange 1 		8 14
+insertion_n_mem try insert except IndexError i 		16 27

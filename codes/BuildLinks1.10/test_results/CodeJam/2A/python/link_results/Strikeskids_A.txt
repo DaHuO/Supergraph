@@ -1,0 +1,33 @@
+53 - 57 links:
+jdoerrie_main	:	70 - 74
+xwu_A	:	40 - 45
+layersof_A	:	3 - 7
+Hodduc_a	:	1 - 43
+Sempr_A	:	32 - 36
+Mordecai_PRS	:	12 - 16
+soon_main	:	49 - 53
+jzj_A	:	109 - 112
+NekoChen_a	:	66 - 73
+wonstin_A	:	36 - 45
+phire_1	:	33 - 37
+lslah_solve	:	28 - 33
+
+49 - 51 links:
+LinesPrower_p1	:	6 - 37
+
+12 - 13 links:
+dpforest_A	:	46 - 48
+kpbochenek_perplexing-showdown	:	3 - 5
+fandersen_GCJ	:	16 - 17
+tpablo_main-large	:	20 - 22
+tpablo_main-large	:	45 - 46
+
+3 - 9 links:
+waitingkuo0527_main	:	6 - 40
+
+43 - 47 links:
+mrauen_A	:	55 - 61
+
+59 - 63 links:
+fandersen_GCJ	:	109 - 142
+

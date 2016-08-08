@@ -1,0 +1,3 @@
+wins_over reverse n start lineup 		15 22
+def reorder foo if len foo 		8 13
+ress wins_over ress ress ress s = tuple int x for 		24 34

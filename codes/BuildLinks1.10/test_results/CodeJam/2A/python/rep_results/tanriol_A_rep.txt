@@ -1,0 +1,9 @@
+		32 33
+wrapped * args 		14 17
+staticmethod Solver PREV count if count == 		57 62
+		29 30
+def process self infile ncase N R P S 		68 76
+#{nc} #{nc}: {data}\n infile outfile cases = 		38 44
+memoized wrapped wrapped = 		11 18
+NotImplementedError 		35 36
+		64 66

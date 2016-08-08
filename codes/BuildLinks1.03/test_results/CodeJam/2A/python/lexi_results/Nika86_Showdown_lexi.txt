@@ -1,0 +1,35 @@
+nums = 1 0 0 		3
+for i in range 15 		5
+newNums = nums - 1 		6
+for j in range 3 		8
+newNums j += nums - 1 j + 2 % 3 		9
+nums += newNums 		11
+def nextC c 		13
+if c == P 		14
+return R 		15
+elif c == R 		16
+return S 		17
+else 		18
+return P 		19
+def getMinString n c 		21
+if n == 0 		22
+return c 		23
+s1 = getMinString n - 1 c 		25
+s2 = getMinString n - 1 nextC c 		26
+if s1 < s2 		28
+return s1 + s2 		29
+else 		30
+return s2 + s1 		31
+T = int raw_input 		34
+for t in range 1 T + 1 		36
+n r p s = int inp for inp in raw_input split 		37
+if set p r s != set nums n 		39
+print Case # + str t + :  + IMPOSSIBLE 		40
+else 		41
+if p r s == nums n 		42
+c = P 		43
+elif r s p == nums n 		44
+c = R 		45
+else 		46
+c = S 		47
+print Case # + str t + :  + getMinString n c 		49

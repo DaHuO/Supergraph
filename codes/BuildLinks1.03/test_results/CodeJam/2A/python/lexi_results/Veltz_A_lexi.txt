@@ -1,0 +1,77 @@
+import numpy as np 		8
+import fractions as fr 		9
+import collections as co 		10
+import math as ma 		11
+import re 		12
+def processInputLine inputFile inputType = int inputNumber = None inputSeparator =   		15
+inputLine = inputFile readline rstrip 		16
+if inputNumber == None 		17
+inputVector = inputLine split inputSeparator 		18
+else 		19
+inputVector = inputLine split inputSeparator inputNumber 		20
+outputVector = map inputType inputVector 		21
+if len outputVector == 1 		22
+return outputVector 0 		23
+else 		24
+return outputVector 		25
+def GCD a b 		27
+a = abs a 		28
+b = abs b 		29
+while a 		30
+a b = b % a a 		31
+return b 		32
+def LCM a b 		33
+return a * b // GCD a b 		34
+def GCDList v 		35
+return reduce GCD v 		36
+def LCMList v 		37
+return reduce LCM v 		38
+def MUP P R S 		40
+if P == 0 		41
+if R == 1 and S == 1 		42
+return RS 		43
+else 		44
+return None 		45
+if R == 0 		46
+if P == 1 and S == 1 		47
+return PS 		48
+else 		49
+return None 		50
+if S == 0 		51
+if R == 1 and P == 1 		52
+return PR 		53
+else 		54
+return None 		55
+P2 = P / 2 		57
+P_2 = P % 2 		58
+R2 = R / 2 		59
+R_2 = R % 2 		60
+S2 = S / 2 		61
+S_2 = S % 2 		62
+if P_2 == 0 		64
+first = MUP P2 R2 + R_2 S2 		65
+second = MUP P2 R2 S2 + S_2 		66
+elif R_2 == 0 		67
+first = MUP P2 + P_2 R2 S2 		68
+second = MUP P2 R2 S2 + S_2 		69
+elif S_2 == 0 		70
+first = MUP P2 + P_2 R2 S2 		71
+second = MUP P2 R2 + R_2 S2 		72
+if first is None or second is None or first == second 		75
+return None 		76
+else 		77
+return first + second 		78
+def solve inputFile outputFile 		80
+T = processInputLine inputFile 		82
+for t in range T 		85
+_ R P S = processInputLine inputFile 		87
+result = MUP P R S 		89
+if result is None 		90
+O = IMPOSSIBLE 		91
+else 		92
+O = result 		93
+outputLine = Case # + str t + 1 + :  + O 		96
+if t < T - 1 		97
+outputLine += \r\n 		98
+outputFile write outputLine 		99
+print outputLine 		100

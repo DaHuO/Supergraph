@@ -1,0 +1,2 @@
+def PRS N P R S if any x > 1 for x in P - S R - P S - R return IMPOSSIBLE if N == 1 if S == 		1 10
+#%i: main cases = int raw_input 		12 16

@@ -1,0 +1,4 @@
+def dfs i c n if i >= 		13 20
+prep main T = 		40 45
+prep init cand cand cand in range 1 12 		23 31
+def calc n r 		35 37

@@ -1,0 +1,9 @@
+8 - 14 links:
+Arraysort	:	46 - 59
+insertion_sort	:	1 - 8
+sort_bubble	:	8 - 17
+Arraysort	:	4 - 61
+
+16 - 27 links:
+timsort	:	22 - 38
+

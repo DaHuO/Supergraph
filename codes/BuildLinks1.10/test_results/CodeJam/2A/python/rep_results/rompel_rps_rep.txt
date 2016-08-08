@@ -1,0 +1,7 @@
+		11 11
+rdints 		10 10
+		9 9
+rd1int do_one_case T 		49 53
+bst bst rule bst N in return N NN = 2 ** N B = for t in 		27 42
+		8 8
+do_one_case cnum rdints goal tries tries goal cnum cnum P + 		16 24

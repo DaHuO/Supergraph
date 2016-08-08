@@ -1,0 +1,53 @@
+t = int input 		1
+def solve n r p s 		4
+def get_strings n r p s prevR prevP prevS 		5
+prevR sort 		6
+prevP sort 		7
+prevS sort 		8
+if n == 0 		10
+if r == 1 		11
+return prevR 0 		12
+elif p == 1 		13
+return prevP 0 		14
+elif s == 1 		15
+return prevS 0 		16
+num = 2 ** n - 1 		17
+if r > num or p > num or s > num 		18
+return IMPOSSIBLE 		19
+rp_matches = r + p - s // 2 		21
+rs_matches = r - rp_matches 		22
+ps_matches = p - rp_matches 		23
+r2 = rs_matches 		25
+p2 = rp_matches 		26
+s2 = ps_matches 		27
+nextR = 		29
+nextP = 		30
+nextS = 		31
+for i in range p2 		33
+a = prevP pop 0 		34
+b = prevR pop 0 		35
+nextP append min a b + max a b 		36
+for i in range r2 		37
+a = prevS pop 0 		38
+b = prevR pop 0 		39
+nextR append min a b + max a b 		40
+for i in range s2 		41
+a = prevP pop 0 		42
+b = prevS pop 0 		43
+nextS append min a b + max a b 		44
+return get_strings n - 1 r2 p2 s2 nextR nextP nextS 		46
+prevR = 		48
+prevP = 		49
+prevS = 		50
+for i in range r 		51
+prevR append R 		52
+for i in range p 		53
+prevP append P 		54
+for i in range s 		55
+prevS append S 		56
+return get_strings n r p s prevR prevP prevS 		58
+for i in range 1 t + 1 		62
+line = input 		63
+n r p s = line split   		64
+solution = solve int n int r int p int s 		66
+print Case #{}: {} format i solution 		68

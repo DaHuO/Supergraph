@@ -1,0 +1,1 @@
+def calc n r p s ans = if n == 1 if r != 0 ans += R if p != 0 		1 28

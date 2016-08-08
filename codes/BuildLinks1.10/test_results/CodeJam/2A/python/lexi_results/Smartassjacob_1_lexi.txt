@@ -1,0 +1,2 @@
+def w c if c == R return S if c == S return P if c == P return R 		6 12
+def f N c if N c in g return g N c if N == 0 return c else s1 = f N - 1 c s2 = f N - 1 w c A = s1 s2 A sort g N c = A 0 + A 1 return g N c 		13 24

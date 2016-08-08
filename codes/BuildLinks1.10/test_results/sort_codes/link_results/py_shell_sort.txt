@@ -1,0 +1,7 @@
+5 - 14 links:
+stoogesort	:	15 - 22
+
+16 - 26 links:
+insertion-sort	:	4 - 13
+py_insertion_sort	:	6 - 16
+

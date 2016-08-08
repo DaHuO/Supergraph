@@ -1,0 +1,5 @@
+def combine 		4 5
+cumul xs c 		21 25
+def 		36 37
+mkposs mkposs if n 		7 15
+def solve 		33 34

@@ -1,0 +1,5 @@
+14 - 23 links:
+quicksort_last	:	14 - 24
+quicksort_solved	:	23 - 65
+quicksort_median	:	14 - 36
+

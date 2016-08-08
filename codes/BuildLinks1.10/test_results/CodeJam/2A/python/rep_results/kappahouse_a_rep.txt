@@ -1,0 +1,2 @@
+showdown doit r p s ret = sorted 		10 15
+doit doit n if 		5 8

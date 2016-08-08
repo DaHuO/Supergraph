@@ -1,0 +1,1 @@
+def sort s n = len s 		3 12

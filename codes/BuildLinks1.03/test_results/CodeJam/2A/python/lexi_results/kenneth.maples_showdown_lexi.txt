@@ -1,0 +1,49 @@
+import sys 		2
+sys setrecursionlimit 5000 		3
+from collections import Counter defaultdict 		4
+from random import choice 		5
+import random 		6
+DEBUG = True 		8
+def gl 		10
+return sys stdin readline strip 		11
+def expand q 		13
+if isinstance q list 		14
+return expand q 0 expand q 1 		15
+if q == P 		16
+return P R 		17
+if q == S 		18
+return P S 		19
+if q == R 		20
+return R S 		21
+assert False str q 		22
+def resolve lst 		24
+if not isinstance lst list 		25
+return lst 		26
+x = resolve lst 0 		28
+y = resolve lst 1 		29
+if x < y 		30
+return x + y 		31
+return y + x 		32
+def showdown N R P S 		34
+while R + P + S > 1 		35
+alpha2 = R + P - S 		36
+if alpha2 % 2 != 0 		37
+return IMPOSSIBLE 		38
+alpha = alpha2 / 2 		39
+if alpha > P or R - alpha > S or alpha > R or alpha < 0 		40
+return IMPOSSIBLE 		41
+R P S = R - alpha alpha P - alpha 		42
+winner = R * R + P * P + S * S 		44
+tree = winner 		46
+for _ in range N 		47
+tree = expand tree 		48
+solution = resolve tree 		49
+return solution 		50
+def main 		52
+T = int gl 		53
+for k in range T 		54
+N R P S = map int gl split 		55
+solution = showdown N R P S 		56
+print Case # + str k + 1 + :  + solution 		57
+if __name__ == __main__ 		59
+main 		60

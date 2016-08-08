@@ -1,0 +1,2 @@
+rightCount impossible :( nP nS level if level == 0 if nR > 0 result 0 += R if nP > 0 result 0 += P if nS > 0 result 0 += S return level -= 1 count = 2 ** level / 3 target = 2 ** level leftP = count leftR = count leftS 		42 102
+stuff enableDebug 		7 9

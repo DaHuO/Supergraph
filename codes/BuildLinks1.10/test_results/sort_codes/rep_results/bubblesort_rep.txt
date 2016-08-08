@@ -1,0 +1,2 @@
+def bubblesort array n = len array 		8 14
+def swap array 		3 6

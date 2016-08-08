@@ -1,0 +1,2 @@
+def g N R P S N = 2 ** N ans = f N R P S 		18 31
+def f N R P S if N == 1 return P * P + R * R + 		1 16

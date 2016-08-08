@@ -1,0 +1,5 @@
+is_median ar i 		14 19
+def swap ar 		8 11
+6 PIVOT_FIRST f QuickSort.txt line f readlines line PIVOT_FIRST PIVOT_FINAL PIVOT_MEDIAN quickSort input_array 		81 115
+_quickSort quickSort 		69 77
+_quickSort PIVOT_FIRST PIVOT_FINAL PIVOT_MEDIAN >> is_median is_median _quickSort _quickSort >= r return p = 0 if pivot == p = ar l elif pivot == p 		23 65

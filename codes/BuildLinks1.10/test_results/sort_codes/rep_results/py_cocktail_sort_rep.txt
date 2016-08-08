@@ -1,0 +1,1 @@
+cocktailSort up indices up up indices - 1 while True 		7 18

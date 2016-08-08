@@ -1,0 +1,45 @@
+requirements = 		1
+P PR 		2
+R RS 		3
+S PS 		4
+def solve winner level 		8
+if level == 0 		9
+return winner 		10
+else 		11
+req = requirements winner 		12
+left = memoized_solve req 0 level - 1 		13
+right = memoized_solve req 1 level - 1 		14
+if left < right 		15
+return left + right 		16
+else 		17
+return right + left 		18
+cache = 		20
+def memoized_solve winner level 		23
+if cache get winner level is None 		24
+soln = solve winner level 		25
+cache winner level = soln 		26
+return cache winner level 		27
+def is_valid sol r p s 		30
+counter = 		31
+R 0 		32
+P 0 		33
+S 0 		34
+for c in sol 		36
+counter c += 1 		37
+if counter R == r and counter P == p and counter S == s 		38
+return True 		39
+return False 		40
+cases = int raw_input 		42
+for ctr in xrange cases 		43
+n r p s = int x for x in raw_input split   		44
+solp = memoized_solve P n 		45
+solr = memoized_solve R n 		46
+sols = memoized_solve S n 		47
+solns = sol for sol in solr sols solp if is_valid sol r p s 		48
+if solns 		50
+soln = min solns 		51
+else 		52
+soln = None 		53
+if not soln 		55
+soln = IMPOSSIBLE 		56
+print Case #%d: %s % ctr + 1 soln 		58

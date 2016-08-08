@@ -1,0 +1,3 @@
+def correct_tournament N R P S for seed in 0 1 2 tournament = generate_tournament N seed p = tournament count 0 r = tournament count 1 s = tournament count 2 if p == P and r == R and s == S return tournament 		13 20
+def sort_tournament tournament if len tournament == 1 return tournament else l = len tournament / 2 t1 = sort_tournament tournament l t2 = sort_tournament tournament l if t1 < t2 return t1 + t2 else return t2 + t1 		1 11
+def generate_tournament N seed tournament = seed for _ in range N tournament = sum x x + 1 % 3 for x in tournament return tournament 		22 26

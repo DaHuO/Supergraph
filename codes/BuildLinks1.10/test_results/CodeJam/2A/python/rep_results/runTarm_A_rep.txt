@@ -1,0 +1,2 @@
+def 		7 8
+def solve N R P S sP = P sR = R sS = S def f a b return join sorted a b 		1 39

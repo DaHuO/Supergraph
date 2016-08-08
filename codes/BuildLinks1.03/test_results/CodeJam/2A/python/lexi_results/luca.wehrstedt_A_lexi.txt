@@ -1,0 +1,33 @@
+wins_over = 		2
+R S 		3
+S P 		4
+P R 		5
+def reorder foo 		8
+if len foo == 1 		9
+return foo 		10
+l = reorder foo len foo // 2 		11
+r = reorder foo len foo // 2 		12
+return  join sorted l r 		13
+def reverse n start 		15
+lineup = start 		16
+for i in range n 		17
+new_lineup = 		18
+for c in lineup 		19
+new_lineup extend c wins_over c 		20
+lineup = new_lineup 		21
+return reorder  join lineup 		22
+def run 		24
+n r p s = tuple int x for x in input split 		25
+ress = set 		26
+for c in wins_over 		27
+foo = reverse n c 		28
+if foo count R == r and foo count P == p and foo count S == s 		29
+ress add foo 		30
+if len ress == 0 		31
+return IMPOSSIBLE 		32
+else 		33
+return min ress 		34
+tc = int input 		37
+for i in range tc 		38
+res = run 		39
+print Case #%d: %s % i + 1 res 		40

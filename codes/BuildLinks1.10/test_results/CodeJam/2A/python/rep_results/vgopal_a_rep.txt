@@ -1,0 +1,2 @@
+play_game play_game if len string == 1 return True winners = for 		7 21
+play_game answer N R P S string = R * 		24 34

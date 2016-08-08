@@ -1,0 +1,6 @@
+def combine x 		22 25
+forbidden_child 		10 11
+^ update i x assert 0 <= i < 		35 45
+def assign i x if i == 1 << 		47 63
+def solve 		65 68
+^ main for t in xrange 1 1 + int raw_input print Case #%d: % t N R P S = map int raw_input split amt = P P R R S S 		27 73

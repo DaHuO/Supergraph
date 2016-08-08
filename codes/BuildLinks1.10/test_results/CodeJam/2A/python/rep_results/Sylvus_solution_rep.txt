@@ -1,0 +1,6 @@
+optimal old_seq reorder_seq old_seq True = 		73 86
+isTie isTie if len seq <= 1 return False 		21 31
+def constructTree root depth P R S if depth == 0 return root if root 		49 57
+Error! add a b if a == b return 0 if 		6 17
+transform seq P R S newseq = for s 		34 46
+reorder_seq seq distance for i in range 2 * distance len seq + 1 2 		60 70

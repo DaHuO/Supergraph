@@ -1,0 +1,35 @@
+def drawing l 		2
+if len l < 2 		4
+return False 		5
+s =  		6
+for i in range 0 len l + 1 2 		7
+p = l i i + 2 		8
+if p in PP RR SS 		10
+return True 		11
+if p in PR RP 		12
+s += P 		13
+if p in PS SP 		14
+s += S 		15
+if p in RS SR 		16
+s += R 		17
+return drawing s 		18
+for t in range int input 		19
+n r p s = map int input split 		20
+def step l n p r s 		22
+if p < 0 or r < 0 or s < 0 		23
+return False 		24
+if drawing l 		25
+return False 		27
+if n == 0 		28
+return l 		29
+res = step l + P n - 1 p - 1 r s 		30
+if res 		31
+return res 		32
+res = step l + R n - 1 p r - 1 s 		33
+if res 		34
+return res 		35
+res = step l + S n - 1 p r s - 1 		36
+if res 		37
+return res 		38
+return False 		40
+print Case #%d: %s % t + 1 step  2 ** n p r s or IMPOSSIBLE 		41

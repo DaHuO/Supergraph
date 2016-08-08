@@ -1,0 +1,5 @@
+8 - 9 links:
+test_insertion_sort	:	8 - 9
+test_merge_sort	:	8 - 9
+sorttests	:	56 - 57
+

@@ -1,0 +1,46 @@
+winner	:	arknave_rps  11 19	arknave_rps  1 9	arknave_rps  1 9	
+int	:	arknave_rps  59 69	arknave_rps  59 69	
+case_num	:	arknave_rps  59 69	arknave_rps  59 69	arknave_rps  59 69	
+{}	:	arknave_rps  59 69	
+!=	:	pr0v3rbs_A  38 73	pr0v3rbs_A  3 36	
+any	:	arknave_rps  59 69	arknave_rps  59 69	
+row	:	arknave_rps  59 69	arknave_rps  59 69	
+PR	:	arknave_rps  29 57	
+PS	:	arknave_rps  29 57	
+<<=	:	arknave_rps  29 57	
+RS	:	arknave_rps  29 57	
+ordering	:	178855371157_a  17 26	178855371157_a  17 26	
+sum	:	pr0v3rbs_A  38 73	
+WINNER	:	178855371157_a  17 26	
+/	:	pr0v3rbs_A  3 36	178855371157_a  17 26	
+next	:	178855371157_a  17 26	178855371157_a  17 26	178855371157_a  17 26	
+valid	:	arknave_rps  11 19	
+split	:	arknave_rps  59 69	
+has_winner	:	178855371157_a  17 26	178855371157_a  28 50	
+input	:	arknave_rps  59 69	arknave_rps  59 69	
+main	:	arknave_rps  59 69	
+True	:	pr0v3rbs_A  3 36	178855371157_a  17 26	arknave_rps  59 69	arknave_rps  11 19	
+<	:	arknave_rps  29 57	arknave_rps  59 69	
+Case	:	arknave_rps  59 69	arknave_rps  59 69	
+map	:	arknave_rps  59 69	
+None	:	178855371157_a  28 50	178855371157_a  28 50	
+format	:	arknave_rps  59 69	arknave_rps  59 69	
+GetResult	:	pr0v3rbs_A  38 73	
+N	:	pr0v3rbs_A  38 73	pr0v3rbs_A  38 73	pr0v3rbs_A  38 73	pr0v3rbs_A  38 73	
+break	:	pr0v3rbs_A  38 73	pr0v3rbs_A  3 36	pr0v3rbs_A  3 36	
+print	:	arknave_rps  59 69	arknave_rps  59 69	
+T	:	arknave_rps  59 69	arknave_rps  59 69	
+not	:	178855371157_a  28 50	178855371157_a  28 50	178855371157_a  28 50	
+#{}:	:	arknave_rps  59 69	arknave_rps  59 69	
+//	:	arknave_rps  21 27	arknave_rps  21 27	arknave_rps  21 27	
+False	:	pr0v3rbs_A  3 36	pr0v3rbs_A  3 36	178855371157_a  17 26	arknave_rps  11 19	
+get_counts	:	arknave_rps  59 69	arknave_rps  21 27	
+&	:	arknave_rps  29 57	
+solve	:	arknave_rps  29 57	arknave_rps  59 69	
+min	:	arknave_rps  29 57	
+v	:	arknave_rps  59 69	arknave_rps  59 69	
+-=	:	pr0v3rbs_A  38 73	pr0v3rbs_A  38 73	
+x	:	arknave_rps  29 57	
+find_winner	:	178855371157_a  28 50	178855371157_a  28 50	178855371157_a  28 50	178855371157_a  28 50	
+works	:	arknave_rps  59 69	
+Check	:	pr0v3rbs_A  3 36	

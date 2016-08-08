@@ -1,0 +1,31 @@
+T = int input 		1
+def best N whom 		3
+other = None 		4
+if whom == R 		5
+other = S 		6
+elif whom == P 		7
+other = R 		8
+else 		9
+other = P 		10
+if N == 1 		11
+return min whom + other other + whom 		12
+left = best N - 1 whom 		13
+right = best N - 1 other 		14
+return min left + right right + left 		15
+for test in range 1 T + 1 		17
+N R P S = int x for x in input split 		18
+print Case #%d:  % test end =  		20
+answer = None 		21
+pos = RPS 		23
+for c in pos 		24
+aux = best N c 		25
+if aux count R != R or aux count S != S or aux count P != P 		26
+continue 		27
+if answer 		28
+answer = min answer aux 		29
+else 		30
+answer = aux 		31
+if answer is None 		32
+print IMPOSSIBLE 		33
+else 		34
+print answer 		35

@@ -1,0 +1,15 @@
+def shell_sort list 		7
+dist = len list / 2 		8
+while dist > 0 		10
+for i in range dist len list 		11
+tmp = list i 		12
+j = i 		13
+while j >= dist and tmp < list j - dist 		14
+list j = list j - dist 		15
+j -= dist 		16
+list j = tmp 		17
+dist /= 2 		18
+return list 		19
+if __name__ == __main__ 		21
+list = 52 46 2 7584 542 		22
+print shell_sort list 		23

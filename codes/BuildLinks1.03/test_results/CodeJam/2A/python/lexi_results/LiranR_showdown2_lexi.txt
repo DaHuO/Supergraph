@@ -1,0 +1,28 @@
+import itertools as it 		1
+exp = dict R RS P PR S SP 		3
+def swap s pos1 pos2 length 		5
+return s pos1 + s pos2 pos2 + length + s pos1 + length pos2 + 		10
+s pos1 pos1 + length + s pos2 + length 		11
+def multisort s n 		13
+for i in xrange 1 n + 1 		17
+for j in xrange 0 len s 2 ** i 		18
+if s j j + 2 ** i - 1 > s j + 2 ** i - 1 j + 2 ** i 		19
+s = swap s j j + 2 ** i - 1 2 ** i - 1 		20
+return s 		21
+def winners n 		23
+ans = 		24
+for c in R P S 		25
+cur = c 		26
+for i in xrange n 		27
+cur =  join exp x for x in cur 		28
+ans append multisort cur n 		29
+return ans 		30
+def sol_quick N R P S 		32
+for w in winners N 		33
+if w count R == R and w count P == P and w count S == S 		34
+return w 		35
+return IMPOSSIBLE 		36
+T = int raw_input 		39
+for t in xrange 1 T + 1 		40
+N R P S = map int raw_input split 		41
+print Case #%d: %s % t sol_quick N R P S 		42

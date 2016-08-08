@@ -1,0 +1,97 @@
+def add a b 		6
+if a == b 		7
+return 0 		8
+if min a b == 1 and max a b == 2 		9
+return 2 		10
+if min a b == 1 and max a b == 3 		11
+return 1 		12
+if min a b == 2 and max a b == 3 		13
+return 3 		14
+print Error! 		16
+return 0 		17
+def isTie seq 		21
+if len seq <= 1 		22
+return False 		23
+new_seq = 		24
+for i in range 0 len seq 2 		25
+result = add seq i seq i + 1 		26
+if result == 0 		27
+return True 		28
+else 		29
+new_seq append add seq i seq i + 1 		30
+return isTie new_seq 		31
+def transform seq P R S 		34
+newseq =  		35
+for s in seq 		36
+if s == 1 		37
+newseq += P 		38
+P -= 1 		39
+if s == 2 		40
+newseq += R 		41
+R -= 1 		42
+if s == 3 		43
+newseq += S 		44
+S -= 1 		45
+return newseq P R S 		46
+def constructTree root depth P R S 		49
+if depth == 0 		50
+return root 		51
+if root == 1 		52
+return constructTree 1 depth - 1 P R S + constructTree 2 depth - 1 P R S 		53
+if root == 2 		54
+return constructTree 2 depth - 1 P R S + constructTree 3 depth - 1 P R S 		55
+if root == 3 		56
+return constructTree 1 depth - 1 P R S + constructTree 3 depth - 1 P R S 		57
+def reorder_seq seq distance 		60
+for i in range 2 * distance len seq + 1 2 * distance 		61
+partA = seq i - 2 * distance i - distance 		63
+partB = seq i - distance i 		64
+if partB < partA 		65
+new_seq = seq i - 2 * distance + partB + partA + seq i 		66
+if partB >= partA 		67
+new_seq = seq i - 2 * distance + partA + partB + seq i 		68
+seq = new_seq 		69
+return seq 		70
+def optimal seq length 		73
+while True 		75
+old_seq = seq 		76
+for i in range 1 length + 1 		78
+distance = 2 ** i 		79
+seq = reorder_seq seq distance 		81
+if seq == old_seq 		83
+return seq 		84
+return seq 		86
+with open A-large.in as f 		88
+data = f readlines 		89
+test_case_counter = 0 		92
+test_cases = int data 0 - 1 		93
+line_counter = 1 		94
+for _ in range test_cases 		95
+test_case_counter += 1 		96
+numbers = data line_counter - 1 split   		97
+line_counter += 1 		98
+N R P S = int numbers 0 int numbers 1 int numbers 2 int numbers 3 		99
+sequence1 P1 R1 S1 = transform constructTree 1 N P R S P R S 		102
+sequence2 P2 R2 S2 = transform constructTree 2 N P R S P R S 		103
+sequence3 P3 R3 S3 = transform constructTree 3 N P R S P R S 		104
+NTotal = 2 ** N 		106
+P1 R1 S1 		107
+if P1 < 0 or R1 < 0 or S1 < 0 and P2 < 0 or R2 < 0 or S2 < 0 and P3 < 0 or R3 < 0 or S3 < 0 		108
+print Case # + str test_case_counter + :  + IMPOSSIBLE 		109
+continue 		110
+list = 		112
+counter = 0 		113
+if not P1 < 0 or R1 < 0 or S1 < 0 		114
+list append optimal sequence1 N 		115
+counter += 1 		116
+if not P2 < 0 or R2 < 0 or S2 < 0 		117
+list append optimal sequence2 N 		118
+counter += 1 		119
+if not P3 < 0 or R3 < 0 or S3 < 0 		120
+list append optimal sequence3 N 		121
+counter += 1 		122
+if counter > 1 		123
+sortedList = sorted list 		124
+else 		125
+sortedList = list 		126
+print Case # + str test_case_counter + :  + str sortedList 0 		128

@@ -1,0 +1,1 @@
+compete lineup ret = for i in xrange len lineup / 2 first = lineup 		1 16

@@ -1,0 +1,1 @@
+shell_sort /= dist = len list / 2 while dist > 		7 19

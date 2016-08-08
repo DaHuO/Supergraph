@@ -1,0 +1,46 @@
+from math import sqrt 		1
+from scipy misc import comb 		2
+NN = 12 		4
+def expand c 		6
+if c == P 		7
+return PR 		8
+if c == R 		9
+return RS 		10
+if c == S 		11
+return PS 		12
+def alphexpand line 		14
+if len line == 1 		15
+return expand line 0 		16
+else 		17
+mid = len line / 2 		18
+a = alphexpand line mid 		19
+b = alphexpand line mid 		20
+return  join min a b max a b 		21
+dic = 		23
+def build s dic 		25
+line = s 		27
+for i in xrange NN 		28
+line = alphexpand line 		29
+p = line count P 		30
+r = line count R 		31
+s = line count S 		32
+dic i + 1 r p s = line 		34
+return line 		36
+for x in P R S 		38
+build x dic 		39
+def Next N R P S dic 		41
+return dic get N R P S IMPOSSIBLE 		42
+input = open r'A-large.in' 		47
+T = int input readline 		49
+sol = 		51
+for i in xrange T 		53
+N R P S = int x for x in input readline strip split 		54
+sol += Next N R P S dic 		55
+if not i % 10 print i 		56
+tofile = True 		59
+if tofile 		60
+with open r'./outputA-L.txt' w as output 		61
+for i in range len sol 		62
+output write Case #%s: %s\n % i + 1 sol i 		63
+else 		64
+print sol 		65

@@ -1,0 +1,4 @@
+def cases inputFile with open 		5 9
+newCurrent newCurrent newCurrent n current = winner 		13 23
+precalc solve n r p s ans = for winner 		44 54
+sortBuild bit1 bit2 bit2 bit1 bit2 bit1 results r = results row group = 1 		25 36

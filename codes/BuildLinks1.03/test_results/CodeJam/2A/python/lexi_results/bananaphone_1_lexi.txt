@@ -1,0 +1,58 @@
+T = int raw_input 		1
+def stack c 		3
+if c == P 		4
+return PR 		5
+if c == S 		6
+return PS 		7
+if c == R 		8
+return RS 		9
+def simulate N given 		11
+out = given 		12
+for i in xrange N 		13
+new =  		14
+for ch in out 		15
+new += stack ch 		16
+out = new 		17
+return new 		18
+def fix tt N 		22
+operate = list tt 		23
+for i in xrange N 		24
+new = 		25
+while len operate > 0 		26
+a = operate pop 		27
+b = operate pop 		28
+if a > b 		29
+new append b + a 		30
+else 		31
+new append a + b 		32
+new reverse 		33
+operate = new 		34
+return operate 		35
+def doprob 		38
+read = raw_input split 		39
+N = int read 0 		40
+R = int read 1 		41
+P = int read 2 		42
+S = int read 3 		43
+legit = 		45
+t1 = simulate N R 		47
+if t1 count R == R 		49
+if t1 count P == P 		50
+if t1 count S == S 		51
+legit append t1 		52
+t2 = simulate N P 		54
+if t2 count R == R 		56
+if t2 count P == P 		57
+if t2 count S == S 		58
+legit append t2 		59
+t3 = simulate N S 		61
+if t3 count R == R 		63
+if t3 count P == P 		64
+if t3 count S == S 		65
+legit append t3 		66
+if len legit == 0 		68
+return IMPOSSIBLE 		69
+legit = fix tt N 0 for tt in legit 		70
+return sorted legit 0 		71
+for qq in xrange T 		73
+print Case # + str qq + 1 + :  + str doprob 		74

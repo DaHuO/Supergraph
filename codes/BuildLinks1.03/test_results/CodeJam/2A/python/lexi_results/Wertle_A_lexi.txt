@@ -1,0 +1,83 @@
+from __future__ import print_function 		1
+import sys 		2
+enableDebug = False 		5
+def printe * stuff 		7
+if enableDebug 		8
+print * stuff file = sys stderr 		9
+filename = sys argv 1 		13
+inputFile = open filename r 		14
+lines = l rstrip \n for l in inputFile 		15
+linesIter = iter lines 		16
+nCases = int linesIter next 		17
+for iCase in range 1 nCases + 1 		21
+printe \nProcessing case  + str iCase 		22
+lineItems = linesIter next split   		25
+N = int lineItems 0 		26
+R = int lineItems 1 		27
+P = int lineItems 2 		28
+S = int lineItems 3 		29
+impossible = False 		32
+if max abs R - P abs R - S abs P - S > 1 		36
+impossible 0 = True 		37
+result =  		40
+def recurse nR nP nS level 		42
+if level == 0 		44
+if nR > 0 		45
+result 0 += R 		46
+if nP > 0 		47
+result 0 += P 		48
+if nS > 0 		49
+result 0 += S 		50
+return 		51
+level -= 1 		53
+count = 2 ** level / 3 		55
+target = 2 ** level 		56
+leftP = count 		57
+leftR = count 		58
+leftS = count 		59
+rightP = count 		60
+rightR = count 		61
+rightS = count 		62
+nR -= 2 * count 		63
+nP -= 2 * count 		64
+nS -= 2 * count 		65
+leftCount = 3 * count 		66
+rightCount = 3 * count 		67
+if nP > 0 		68
+leftP += 1 		69
+nP -= 1 		70
+leftCount += 1 		71
+if nR > 0 and leftCount < target and nS < 2 		72
+leftR += 1 		73
+nR -= 1 		74
+leftCount += 1 		75
+if nS > 0 and leftCount < target 		76
+leftS += 1 		77
+nS -= 1 		78
+leftCount += 1 		79
+if nP > 0 		80
+rightP += 1 		81
+nP -= 1 		82
+if nR > 0 		83
+rightR += 1 		84
+nR -= 1 		85
+if nS > 0 		86
+rightS += 1 		87
+nS -= 1 		88
+if nR < 0 or nP < 0 or nS < 0 or leftP + leftR + leftS != 2 ** level or rightP + rightR + rightS != 2 ** level 		90
+impossible 0 = True 		91
+printe :( 		92
+printe level =  + str level 		93
+printe nR =  + str nR 		94
+printe nP =  + str nP 		95
+printe nS =  + str nS 		96
+printe leftP =  + str leftP +    leftR =  + str leftR +     leftS =  + str leftS 		97
+printe rightP =  + str rightP +    rightR =  + str rightR +     rightS =  + str rightS 		98
+return 		99
+recurse leftR leftP leftS level 		101
+recurse rightR rightP rightS level 		102
+recurse R P S N 		104
+if impossible 0 		106
+print Case #{}: {} format iCase IMPOSSIBLE 		107
+else 		108
+print Case #{}: {} format iCase result 0 		109

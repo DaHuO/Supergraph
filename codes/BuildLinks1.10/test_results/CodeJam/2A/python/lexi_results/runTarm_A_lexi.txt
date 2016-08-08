@@ -1,0 +1,2 @@
+def f a b return join sorted a b 		7 8
+def solve N R P S sP = P sR = R sS = S def f a b return join sorted a b for i in range N t = P + S - R if t < 0 or t % 2 != 0 return t = t / 2 P = P - t R = S - t S = t if P < 0 or R < 0 or S < 0 return sP sR sS = f sP sR f sR sS f sP sS if P < 0 or R < 0 or S < 0 return if sum P R S == 1 if P return sP if R return sR return sS 		1 39

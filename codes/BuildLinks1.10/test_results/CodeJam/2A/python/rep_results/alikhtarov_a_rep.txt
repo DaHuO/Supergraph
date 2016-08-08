@@ -1,0 +1,2 @@
+def ss s if len s == 		25 33
+out2 out2 out2 i r opp = i - 1 + 3 % 3 if 		8 23

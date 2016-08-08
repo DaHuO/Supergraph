@@ -1,0 +1,29 @@
+def main_code x 		1
+N R P S = tuple map int input split 		2
+names = r R p P s S 		3
+for _ in range N 		4
+p = P + R - S 		5
+r = R + S - P 		6
+s = S + P - R 		7
+if p % 2 == 1 or p < 0 or s % 2 == 1 or s < 0 or r % 2 == 1 or r < 0 		8
+print Case # + str x + 1 + : IMPOSSIBLE 		9
+return 		10
+P = p / 2 		11
+R = r / 2 		12
+S = s / 2 		13
+pp =  join sorted names r names p 		14
+rr =  join sorted names r names s 		15
+ss =  join sorted names s names p 		16
+names = r rr p pp s ss 		17
+assert P or R or S 		19
+if P 		20
+print Case # + str x + 1 + : names p 		21
+elif R 		22
+print Case # + str x + 1 + : names r 		23
+elif S 		24
+print Case # + str x + 1 + : names s 		25
+else 		26
+assert False 		27
+T = int input 		29
+for x in range T 		30
+main_code x 		31

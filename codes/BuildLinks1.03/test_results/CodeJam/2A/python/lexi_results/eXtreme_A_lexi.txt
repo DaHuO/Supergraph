@@ -1,0 +1,39 @@
+import sys 		1
+f = sys stdin 		3
+if f != sys stdin 		6
+print WARNING: Input not from stdin 		7
+def recBuild c n 		9
+if n == 0 		10
+return c 		11
+if n == 1 		12
+if c == R 		13
+s = RS 		14
+elif c == P 		15
+s = PR 		16
+elif c == S 		17
+s = PS 		18
+return s 		19
+else 		20
+base = recBuild c 1 		21
+parts = 		22
+for l in base 		23
+parts append recBuild l n - 1 		24
+if parts 0 > parts 1 		25
+parts 0 parts 1 = parts 1 parts 0 		26
+return parts 0 + parts 1 		27
+tests = int f readline 		30
+for t in range 1 tests + 1 		31
+n r p s = map int f readline strip split 		32
+cands = 		34
+for c in RPS 		35
+cand = recBuild c n 		36
+d = R 0 P 0 S 0 		37
+for u in cand 		39
+d u += 1 		40
+if d R == r and d P == p and d S == s 		42
+cands append cand 		43
+cands sort 		45
+if cands 		47
+print Case #%d: %s % t cands 0 		48
+else 		49
+print Case #%d: IMPOSSIBLE % t 		50

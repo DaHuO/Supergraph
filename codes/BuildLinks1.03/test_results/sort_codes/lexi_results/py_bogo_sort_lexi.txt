@@ -1,0 +1,19 @@
+import random 		4
+def bogoSort alist 		6
+while not in_order alist 		7
+random shuffle alist 		8
+print alist 		9
+return alist 		10
+def in_order alist 		12
+if not alist 		13
+return True 		14
+last = alist 0 		16
+for x in alist 1 		17
+if x < last 		18
+return False 		19
+last = x 		20
+return True 		21
+alist = i for i in range 10 		25
+random shuffle alist 		26
+alist = bogoSort alist 		28
+print alist 		29

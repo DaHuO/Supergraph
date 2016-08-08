@@ -1,0 +1,1 @@
+def recBuild c n if n == 0 return c if n == 1 if c == R s = RS elif c == P s = PR elif c == S s = PS return s else base = recBuild c 1 parts = for l in base parts append recBuild l n - 1 if parts 0 > parts 1 parts 0 parts 1 = parts 1 parts 0 return parts 0 + parts 1 		9 27

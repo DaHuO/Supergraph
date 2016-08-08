@@ -1,0 +1,52 @@
+INPUT = A-small-attempt0.in 		5
+OUTPUT = A-small-attempt0.out 		6
+def match p1 p2 		11
+if p1 == p2 		12
+return False 		13
+else 		14
+s1 = min p1 p2 		15
+s2 = max p1 p2 		16
+if s1 == P and s2 == R 		17
+return P 		18
+elif s1 == P and s2 == S 		19
+return S 		20
+else 		21
+return R 		22
+def can_finish lineup 		25
+old_lineup = lineup 		26
+while len old_lineup > 1 		27
+current = 		28
+it = iter old_lineup 		29
+for _ in xrange len old_lineup / 2 		30
+p1 = next it 		31
+p2 = next it 		32
+res = match p1 p2 		33
+if res 		34
+current append res 		35
+else 		36
+return False 		37
+old_lineup = current 		38
+return True 		39
+def gen_lineups p r s current 		43
+if p > 0 		44
+for l in gen_lineups p - 1 r s current + P 		45
+yield l 		46
+if r > 0 		47
+for l in gen_lineups p r - 1 s current + R 		48
+yield l 		49
+if s > 0 		50
+for l in gen_lineups p r s - 1 current + S 		51
+yield l 		52
+if p + r + s == 0 		53
+yield current 		54
+def find_lineup_bf p r s 		58
+for l in gen_lineups p r s 		59
+if can_finish l 		60
+return  join l 		61
+return IMPOSSIBLE 		62
+with open INPUT r as fin 		66
+T = int fin readline 		67
+with open OUTPUT w as fout 		68
+for i in xrange 1 T + 1 		69
+n r p s = map int fin readline split   		70
+fout write Case #{}: {}\n format i find_lineup_bf p r s 		71

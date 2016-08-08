@@ -1,0 +1,29 @@
+TEST = large 		3
+IN = A-{}.in format TEST 		4
+OUT = A-{}.out format TEST 		5
+q = 		7
+P P R 		8
+R R S 		9
+S P S 		10
+def plan n ch 		13
+if n == 0 		14
+return ch int ch == R int ch == P int ch == S 		15
+a ra pa sa = plan n - 1 q ch 0 		16
+b rb pb sb = plan n - 1 q ch 1 		17
+return min a + b b + a ra + rb pa + pb sa + sb 		18
+def good_plans n r p s 		21
+for c in q keys 		22
+pl pr pp ps = plan n c 		23
+if pr pp ps == r p s 		24
+yield pl 		25
+def run n r p s 		27
+return min good_plans n r p s default = IMPOSSIBLE 		28
+def main 		31
+with open IN as fin open OUT w as fout 		32
+t = int fin readline strip 		33
+for i in range t 		34
+n r p s = map int fin readline split 		35
+res = run n r p s 		36
+print Case #{}: {} format i + 1 res file = fout 		37
+if __name__ == __main__ 		40
+main 		41

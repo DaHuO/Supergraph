@@ -1,0 +1,4 @@
+def Next N R P S dic return dic get N R P S IMPOSSIBLE 		41 42
+def expand c if c == P return PR if c == R return RS if c == S return PS 		6 12
+def build s dic line = s for i in xrange NN line = alphexpand line p = line count P r = line count R s = line count S dic i + 1 r p s = line return line 		25 36
+def alphexpand line if len line == 1 return expand line 0 else mid = len line / 2 a = alphexpand line mid b = alphexpand line mid return join min a b max a b 		14 21

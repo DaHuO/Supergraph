@@ -1,0 +1,1 @@
+def insert_sort list for i in range 1 len 		7 16

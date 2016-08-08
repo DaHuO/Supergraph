@@ -1,0 +1,1 @@
+3. dp n vals if vals 0 vals 1 vals 2 in cache return cache vals 0 vals 1 vals 2 out = if sum vals <= 2 for 		6 35

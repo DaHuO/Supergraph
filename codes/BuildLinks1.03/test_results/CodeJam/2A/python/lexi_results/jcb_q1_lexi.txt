@@ -1,0 +1,43 @@
+import sys 		4
+import random 		5
+best = R R 1 0 0 S S 0 0 1 P P 0 1 0 		7
+def order x y 		9
+if x < y 		10
+return x y 		11
+return y x 		12
+def add_tuple x y 		14
+return tuple x i + y i for i in range len x 		15
+N = 12 		17
+for i in range 1 N + 1 		19
+a b = order best R i - 1 best S i - 1 		21
+best R append a 0 + b 0 add_tuple a 1 b 1 		22
+a b = order best P i - 1 best R i - 1 		25
+best P append a 0 + b 0 add_tuple a 1 b 1 		26
+a b = order best S i - 1 best P i - 1 		29
+best S append a 0 + b 0 add_tuple a 1 b 1 		30
+def solve t 		34
+N R P S = t 		35
+candidate = None 		36
+for c in best 		37
+if best c N 1 == R P S 		38
+if candidate == None or best c N 0 < candidate 		39
+candidate = best c N 0 		40
+return IMPOSSIBLE if not candidate else candidate 		43
+total = None 		45
+count = 0 		46
+f = sys stdin 		47
+count = None 		49
+tests = 		50
+for line in sys stdin 		51
+if not count 		52
+count = int line strip 		53
+continue 		54
+else 		55
+tests append int x for x in line strip split 		56
+if count != len tests 		58
+print Wrong number of test cases 		59
+sys exit 0 		60
+counter = 0 		62
+for s in tests 		63
+counter += 1 		64
+print Case #%d: %s % counter solve s 		66

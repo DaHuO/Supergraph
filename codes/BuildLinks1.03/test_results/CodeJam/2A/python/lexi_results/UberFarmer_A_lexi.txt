@@ -1,0 +1,104 @@
+from sys import stdin 		1
+import collections 		2
+import functools 		3
+DEBUG = False 		5
+def debug_print * args 		8
+if DEBUG 		9
+print args 		10
+def find_winner S R P 		12
+if S == 1 and R == 0 and P == 0 		14
+return S 		15
+if S == 0 and R == 1 and P == 0 		16
+return R 		17
+if S == 0 and R == 0 and P == 1 		18
+return P 		19
+N = S + R + P 		21
+if S > N / 2 or R > N / 2 or P > N / 2 		22
+return False 		23
+S_1 = 0 		25
+R_1 = 0 		26
+P_1 = 0 		27
+if S <= R and S <= P 		29
+if P > R 		30
+S_1 = P - R 		31
+S -= S_1 		32
+P -= S_1 		33
+else 		34
+R_1 = R - P 		35
+S -= R_1 		36
+R -= R_1 		37
+S_1 += S / 2 		38
+R_1 += S / 2 		39
+P_1 = N / 2 - S_1 - R_1 		40
+debug_print 1: R_1 P_1 S_1 		41
+elif R <= S and R <= P 		43
+if S > P 		44
+R_1 = S - P 		45
+S -= R_1 		46
+R -= R_1 		47
+else 		48
+P_1 = P - S 		49
+P -= P_1 		50
+R -= P_1 		51
+R_1 += R / 2 		52
+P_1 += R / 2 		53
+S_1 = N / 2 - R_1 - P_1 		54
+debug_print 2: R_1 P_1 S_1 		55
+else 		57
+if R > S 		58
+P_1 = R - S 		59
+P -= P_1 		60
+R -= P_1 		61
+else 		62
+S_1 = S - R 		63
+S -= S_1 		64
+P -= S_1 		65
+P_1 += P / 2 		66
+S_1 += P / 2 		67
+R_1 = N / 2 - P_1 - S_1 		68
+debug_print 3: R_1 P_1 S_1 		69
+return find_winner S_1 R_1 P_1 		71
+def bracket_from_winner winner N 		73
+if N == 0 		74
+return winner 		75
+if winner == R 		77
+if N == 1 		78
+return S R 		79
+else 		80
+return bracket_from_winner S N - 1 bracket_from_winner R N - 1 		81
+if winner == P 		82
+if N == 1 		83
+return P R 		84
+else 		85
+return bracket_from_winner P N - 1 bracket_from_winner R N - 1 		86
+if winner == S 		87
+if N == 1 		88
+return P S 		89
+else 		90
+return bracket_from_winner P N - 1 bracket_from_winner S N - 1 		91
+def bracket_sort bracket 		93
+if bracket in R S P 		94
+return bracket 		95
+b1 = bracket_sort bracket 0 		97
+b2 = bracket_sort bracket 1 		98
+if b1 < b2 		100
+return b1 + b2 		101
+else 		102
+return b2 + b1 		103
+def main 		105
+num_cases = int stdin readline 		106
+for case in range 1 num_cases + 1 		107
+N R P S = map int stdin readline split 		109
+debug_print input R P S 		111
+winner = find_winner S R P 		113
+if not winner 		114
+print Case #{}: IMPOSSIBLE format case 		115
+continue 		116
+debug_print winner 		118
+bracket = bracket_from_winner winner N 		119
+debug_print bracket 		120
+first_bracket = bracket_sort bracket 		122
+debug_print first_bracket 		123
+print Case #{}: {} format case first_bracket 		125
+if __name__ == __main__ 		127
+main 		128

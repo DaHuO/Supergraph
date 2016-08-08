@@ -1,0 +1,1 @@
+parents leftparents parents rightparents parents leftparents rightparents if finalists 0 == R return R S S 		1 22

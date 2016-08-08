@@ -1,0 +1,46 @@
+import sys 		7
+import collections 		8
+class IO 		10
+def get reader = str 		11
+return reader input strip 		12
+def gets reader = str delim = None 		13
+return reader x for x in input strip split delim 		14
+def tostr raw writer = str delim =   		15
+return delim join writer x for x in raw 		16
+def prework argv 		18
+pass 		21
+nextd = P PR R RS S PS 		23
+def gennext s 		25
+if len s == 1 		26
+return nextd s 		27
+l = len s // 2 		28
+s1 = gennext s l 		30
+s2 = gennext s l 		31
+return s1 + s2 if s1 < s2 else s2 + s1 		32
+def once 		34
+n r p s = IO gets int 		36
+for init in P R S 		39
+ss = init 		40
+for _ in range n 		41
+ss = gennext ss 		42
+printerr repr ss 		43
+c = dict fromkeys PRS 0 		44
+for x in ss 		45
+c x = c x + 1 		46
+if all int c R == r int c P == p c S == s 		50
+return ss 		51
+return IMPOSSIBLE 		52
+def show ans 		54
+return ans 		55
+def printerr * v 		57
+print * v file = sys stderr 		58
+def main 		60
+TT = int input 		61
+for tt in range 1 TT + 1 		62
+printerr coping Case %d.. % tt 		63
+ans = once 		64
+print Case #%d: %s % tt show ans 		65
+if __name__ == __main__ 		67
+msg = prework sys argv 		68
+print prework done with msg file = sys stderr 		69
+main 		70

@@ -1,0 +1,2 @@
+def solve N R P S = tuple 		31 39
+def valid i if len i == 1 return True x = for j in range len i // 2 if i 2 * j == i 2 * j 		9 28

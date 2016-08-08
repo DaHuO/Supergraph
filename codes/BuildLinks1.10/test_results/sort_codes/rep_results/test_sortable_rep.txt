@@ -1,0 +1,4 @@
+seqs seqs seqs seqs algorithms items TrackList raise AssertionError %s failed sort. l = range self N 		26 47
+test_simple TrackList l = 1 2 3 		8 14
+test_read_paths cStringIO StringIO 3\n 3\n read_paths sortable s for i 		51 63
+test_bitonicsort TrackList TrackList libpry raises AssertionError libpry 		20 24

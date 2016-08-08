@@ -1,0 +1,30 @@
+from itertools import chain 		2
+filein = open 20162A.in r 		3
+fileout = open 20162A.out w 		4
+reduce_map = 		5
+S P S 		6
+P P R 		7
+R R S 		8
+T = int filein readline 		11
+for t in range T 		13
+fileout write Case #%d:  % t + 1 		14
+N R P S = map int filein readline rstrip split 		15
+ans = Z 		16
+for start in P R S 		17
+l = start 		18
+for i in range N 		19
+l = list chain * list map lambda x reduce_map x l 		20
+if l count P > P or l count R > R or l count S > S 		21
+break 		22
+if l count P != P or l count R != R or l count S != S 		23
+continue 		24
+while len l != 1 		25
+l = min l i l i + 1 + max l i l i + 1 		26
+for i in range 0 len l 2 		27
+print l 		28
+ans = min ans  join l 		29
+if ans == Z 		30
+ans = IMPOSSIBLE 		31
+fileout write ans + \n 		32
+filein close 		34
+fileout close 		35

@@ -1,0 +1,1 @@
+def solve x R P S if x R P S in memo return memo x R P S out = False if R + P + S == 1 if x == 0 and R == 1 out 		3 30

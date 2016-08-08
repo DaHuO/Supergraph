@@ -1,0 +1,3 @@
+getNums makeStuff n r p 		30 35
+makeStuff nextArr remaining nextArr remaining nextArr n % 2 		5 15
+getNums n s counts = 0 0 		18 27

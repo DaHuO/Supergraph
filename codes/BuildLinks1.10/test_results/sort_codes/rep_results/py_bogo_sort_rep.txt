@@ -1,0 +1,2 @@
+in_order alist if not alist 		12 21
+bogoSort in_order 		6 10

@@ -1,0 +1,3 @@
+def solve t N R P S = t 		34 43
+add_tuple x y 		14 15
+def order 		9 12

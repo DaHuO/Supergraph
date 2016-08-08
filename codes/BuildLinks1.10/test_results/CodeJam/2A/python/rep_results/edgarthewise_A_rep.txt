@@ -1,0 +1,4 @@
+getFirst stored stored getFirst getFirst stored in return n c if 		18 31
+getInts 		6 7
+getWords 		3 4
+getInt getInts 		9 12

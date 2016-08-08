@@ -1,0 +1,31 @@
+class TimBreak Exception pass 		2
+class TimWrapper 		5
+list = None 		6
+comparisons = 0 		7
+limit = 0 		8
+def __init__ self n 		9
+self n = n 		10
+def __cmp__ self other 		12
+if TimWrapper comparisons > TimWrapper limit 		13
+raise TimBreak 		14
+TimWrapper comparisons += 1 		15
+return cmp self n other n 		16
+def __getattr__ self attr 		18
+return getattr self n attr 		19
+def timsort lst 		22
+lst wrap TimWrapper 		23
+TimWrapper list = lst 		24
+prev = i n for i in lst 		25
+while 1 		26
+TimWrapper comparisons = 0 		27
+TimWrapper limit += 1 		28
+lst reset 		29
+try 		30
+lst sort 		31
+except TimBreak 		32
+if prev != i n for i in lst 		33
+lst log 		34
+prev = i n for i in lst 		35
+else 		36
+lst log 		37
+break 		38

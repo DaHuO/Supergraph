@@ -1,0 +1,2 @@
+competitors competitors competitors = 		25 31
+finalist finalist finalist finalist if rounds == 0 return winner if 		6 22

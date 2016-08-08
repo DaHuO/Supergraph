@@ -1,0 +1,94 @@
+import sys 		1
+import numpy 		2
+sys setrecursionlimit 10000 		3
+b = 		6
+ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE 		7
+c = 0 * 26 for i in range 10 		10
+for i in range 10 		11
+for x in b i 		12
+c i ord x - ord A += 1 		13
+allletters = sorted  join list set list sorted  join b 		15
+tenletters = allletters 10 		16
+d = 0 * 10 for i in range 10 		19
+for i in range 10 		20
+for j in range 10 		21
+d j i = b i count tenletters j 		22
+foo2 = 		25
+foo2 RS = R 		26
+foo2 SR = R 		27
+foo2 SP = S 		28
+foo2 PS = S 		29
+foo2 PR = P 		30
+foo2 RP = P 		31
+def check a 		35
+if len a == 1 		36
+return True 		37
+res =  		38
+for i in range 0 len a 2 		39
+if a i == a i + 1 		40
+return False 		41
+res += foo2 a i i + 2 		42
+return check res 		43
+a = None * 13 		46
+def main2 		48
+a 0 = 0 0 1 		49
+for i in range 1 13 		50
+t1 = a i - 1 		51
+t2 = t1 - 1 		52
+t3 = 0 * 3 		53
+t3 0 = t1 0 + t2 0 		54
+t3 1 = t1 1 + t2 1 		55
+t3 2 = t1 2 + t2 2 		56
+t3 sort 		57
+a i = t3 		58
+def vecadd b c 		60
+return b 0 + c 0 		61
+b 1 + c 1 		62
+b 2 + c 2 		63
+def split n res 		65
+a1 = a n - 1 		66
+a2 = a1 1 + a1 0 		67
+a3 = a2 1 + a2 0 		68
+if vecadd a1 a2 == res 		69
+return a1 a2 		70
+if vecadd a1 a3 == res 		71
+return a1 a3 		72
+if vecadd a2 a3 == res 		73
+return a2 a3 		74
+print ERROR 		75
+def foo3 res 		77
+res = list res 		79
+level = 1 		80
+while level + level <= len res 		81
+for i in range 0 len res 2 * level 		82
+if res i i + level > res i + level i + level + level 		83
+res i i + level res i + level i + level + level = res i + level i + level + level res i i + level 		84
+level *= 2 		85
+return  join res 		86
+def foo2 n aa 		89
+if n == 1 		90
+res =  		91
+if aa 0 > 0 		92
+res += R 		93
+if aa 1 > 0 		94
+res += P 		95
+if aa 2 > 0 		96
+res += S 		97
+return res 		98
+a1 a2 = split n aa 		99
+return foo2 n - 1 a1 + foo2 n - 1 a2 		100
+def foo ifile 		107
+n r p s = int x for x in ifile readline split 		108
+t = r p s 		109
+t sort 		110
+if t != a n 		111
+return IMPOSSIBLE 		112
+res = foo2 n r p s 		113
+return foo3 res 		114
+def main 		119
+ifile = sys stdin 		120
+n = int ifile readline 		121
+for i in range n 		122
+print Case #%d: %s % i + 1 foo ifile 		123
+main2 		125
+main 		126

@@ -1,0 +1,1 @@
+def makesmaller A if len A == 1 return A else l = len A // 2 L = makesmaller A l R = makesmaller A l return min L + R R + L 		1 8

@@ -1,0 +1,35 @@
+def rl s return xrange len s 		3
+INF = 2147483647 		5
+import sys 		8
+stdin = sys stdin 		9
+T = int stdin readline strip 		11
+def rotateLex s 		13
+length = 1 		14
+while length < len s 		15
+for k in range 0 len s 2 * length 		16
+if s k k + length > s k + length k + 2 * length 		17
+s k + length k + 2 * length s k k + length = s k k + length 		18
+s k + length k + 2 * length 		19
+length *= 2 		20
+return s 		22
+must_have = R R S 		24
+P P R 		25
+S S P 		26
+for icase in range 1 T + 1 		28
+N R P S = map int stdin readline strip split 		29
+best = None 		31
+for seed in RPS 		32
+s = seed 		33
+while len s < 1 << N 		34
+s2 = 		35
+for letter in s 		36
+s2 extend must_have letter 		37
+s = s2 		38
+rs = s count R 		39
+ps = s count P 		40
+if rs == R and ps == P 		42
+here = rotateLex s 		43
+if None is best or best > here 		44
+best = here 		45
+rr = IMPOSSIBLE if best is None else  join best 		47
+print Case #%d: % icase rr 		48

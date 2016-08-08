@@ -1,0 +1,2 @@
+shellSort startposition gapInsertionSort startposition After increments The 		5 14
+gapInsertionSort currentvalue currentvalue currentvalue for i in range start 		16 26

@@ -1,0 +1,3 @@
+words prs collapse words words words = for c in 		54 68
+collapse collapse collapse self h == 0 return 		45 52
+c_to_lr __init__ self c h self c = c 		35 43

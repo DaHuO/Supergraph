@@ -1,0 +1,1 @@
+cyclesort lst for i in range len lst if i != lst 		3 20

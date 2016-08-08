@@ -1,0 +1,2 @@
+calcsizes calcsizes calcsizes if n == 0 a = 0 		7 15
+gentree gentree gentree global names if n == 		18 28

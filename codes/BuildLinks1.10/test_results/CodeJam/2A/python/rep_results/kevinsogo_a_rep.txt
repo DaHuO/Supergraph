@@ -1,0 +1,11 @@
+after func def f * args ** kwargs 		15 22
+, , repr , %s=%s repr 		10 11
+after fc after fc False = True def func wraps func 		13 24
+		39 40
+qparts f = 		45 47
+def tourn r p s if r + p + s == 1 if r return R if p return P if s 		64 75
+32767 function def f * args key 		28 35
+memoize 32767 memo = wraps function def f * 		26 37
+def combine a 		58 62
+def 		42 43
+fc after wraps func def f * args ** 		14 23

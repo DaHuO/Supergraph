@@ -1,0 +1,1 @@
+def sp a b c if a + b + c == 2 if a == 0 return PS elif b == 0 return RS else return PR else m = max a b c a1 = m // 2 b1 c1 = a1 a1 if a1 * 2 != a a1 = a - a1 elif b1 * 2 != b b1 = b - b1 else c1 = c - c1 x = sp a1 b1 c1 y = sp a - a1 b - b1 c - c1 if x < y return x + y else return y + x 		1 24

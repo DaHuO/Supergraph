@@ -1,0 +1,31 @@
+import sys 		3
+def solve winner rounds 		6
+if rounds == 0 		8
+return winner 		9
+if winner == R 		10
+finalist = S 		11
+elif winner == P 		12
+finalist = R 		13
+else 		14
+finalist = P 		15
+half1 = solve winner rounds - 1 		17
+half2 = solve finalist rounds - 1 		18
+if half1 + half2 < half2 + half1 		20
+return half1 + half2 		21
+return half2 + half1 		22
+def cnt competitors 		25
+res = R 0 P 0 S 0 		27
+for i in range len competitors 		28
+res competitors i += 1 		29
+return res 		31
+t = int sys stdin readline strip 		33
+for i in range t 		35
+n r p s = map int sys stdin readline strip split 		36
+sol = None 		38
+for win in R P S 		39
+competitors = solve win n 		40
+c = cnt competitors 		41
+if c R == r and c P == p and c S == s 		42
+if sol is None or sol > competitors 		43
+sol = competitors 		44
+print Case #%d: %s % i + 1 IMPOSSIBLE if sol is None else sol 		46

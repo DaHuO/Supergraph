@@ -1,0 +1,2 @@
+def in_order alist if not alist return True last = alist 0 for x in alist 1 if x < last return False last = x return True 		12 21
+def bogoSort alist while not in_order alist random shuffle alist print alist return alist 		6 10

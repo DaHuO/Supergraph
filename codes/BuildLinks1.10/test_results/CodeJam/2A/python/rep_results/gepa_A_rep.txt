@@ -1,0 +1,4 @@
+sort_rps sort_rps sort_rps if N == 0 return x 		4 13
+compute N R P S x = make N R 		29 39
+def parse N 		42 44
+sort_rps make N x R P S m = R RS P PR S 		15 26

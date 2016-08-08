@@ -1,0 +1,1 @@
+def minz a1 a2 if a1 is None return a2 elif a2 is None return a1 else return min a1 a2 		2 8

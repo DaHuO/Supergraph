@@ -1,0 +1,20 @@
+from random import shuffle 		3
+def shellSort alist 		5
+sublistcount = len alist // 2 		6
+while sublistcount > 0 		8
+for startposition in range sublistcount 		9
+gapInsertionSort alist startposition sublistcount 		10
+print After increments of size sublistcount The list is alist 		12
+sublistcount = sublistcount // 2 		14
+def gapInsertionSort alist start gap 		16
+for i in range start + gap len alist gap 		17
+currentvalue = alist i 		19
+position = i 		20
+while position >= gap and alist position - gap > currentvalue 		22
+alist position = alist position - gap 		23
+position = position - gap 		24
+alist position = currentvalue 		26
+alist = i for i in range 1000000 		29
+shuffle alist 		30
+shellSort alist 		32
+print alist 		33

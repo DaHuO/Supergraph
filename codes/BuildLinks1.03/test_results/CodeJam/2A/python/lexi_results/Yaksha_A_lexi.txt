@@ -1,0 +1,70 @@
+import logging 		1
+from logging import debug as d 		2
+from itertools import combinations permutations 		3
+import copy 		4
+EPS = 10 ** - 6 		6
+logging basicConfig level = logging DEBUG format = %(funcName)s(%(lineno)d):  %(message)s 		8
+def p ** kwargs 		10
+printstr =  		11
+for key var in kwargs items 		12
+printstr += %s=%s\t % key var 		13
+return printstr 		15
+def doSolve filename solver log = False 		18
+with open filename as infile 		19
+with open filename + .out w as outfile 		20
+numCases = int infile readline 		21
+for i in range numCases 		23
+inputs = parseTestCase infile 		24
+result = solver inputs 		25
+if log 		26
+print inputs 		27
+print result 		28
+print   		29
+outfile write Case #%d: %s\n % i + 1 str result 		31
+def parseTestCase file 		38
+return int x for x in file readline strip split 		39
+def solver values 		41
+r = values 1 		42
+p = values 2 		43
+s = values 3 		44
+bestresult = None 		46
+players = r * r + p * p + s * s 		48
+for p in permutations players 		49
+if willfinish p 		50
+result =  join p 		51
+if bestresult is None 		52
+bestresult = result 		53
+else 		54
+bestresult = result if result < bestresult else bestresult 		55
+if bestresult is None 		57
+return IMPOSSIBLE 		58
+else 		59
+return bestresult upper 		60
+def willfinish players 		62
+nextround = players 		64
+while len nextround > 1 		65
+thisround = copy copy nextround 		66
+nextround = 		67
+while thisround 		69
+win = winner thisround 0 thisround 1 		70
+if win is None 		71
+return False 		72
+nextround append win 		74
+thisround = thisround 2 		75
+return True 		77
+def winner a b 		79
+if a == r and b == s 		80
+return a 		81
+if a == r and b == p 		83
+return b 		84
+if a == s and b == r 		86
+return b 		87
+if a == s and b == p 		89
+return a 		90
+if a == p and b == r 		92
+return a 		93
+if a == p and b == s 		95
+return b 		96
+return None 		98
+FILENAME = r"K:\downloads\A-small-attempt0.in" 		102
+doSolve FILENAME solver True 		103

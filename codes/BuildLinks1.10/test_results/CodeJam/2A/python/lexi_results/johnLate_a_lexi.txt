@@ -1,0 +1,3 @@
+def generate cur steps for _ in range steps nxt = join P PR R RS S PS x for x in cur cur = nxt return cur cur count x for x in RPS 		9 13
+def print_sol tc ans print Case #{}: {} format tc ans 		6 7
+def sort_result res m = len res // 2 a = res 0 m b = res m if len a > 1 a = sort_result a b = sort_result b assert a != b if a < b return a + b return b + a 		15 25

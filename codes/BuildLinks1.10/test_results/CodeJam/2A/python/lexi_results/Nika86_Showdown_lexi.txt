@@ -1,0 +1,2 @@
+def getMinString n c if n == 0 return c s1 = getMinString n - 1 c s2 = getMinString n - 1 nextC c if s1 < s2 return s1 + s2 else return s2 + s1 		21 31
+def nextC c if c == P return R elif c == R return S else return P 		13 19

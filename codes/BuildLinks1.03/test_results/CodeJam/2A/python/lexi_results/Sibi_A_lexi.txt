@@ -1,0 +1,53 @@
+import sys 		1
+iFile = open sys argv 1 r 		3
+T = int iFile readline strip 		5
+N_max = 12 		7
+R_tree = 		9
+P_tree = 		10
+S_tree = 		11
+start = S SP P PR R SR 		13
+mid = S PS P PR R SR 		14
+end = S PS P PR R RS 		15
+for n in range 1 N_max + 1 		17
+R_string = R 		18
+P_string = P 		19
+S_string = S 		20
+for i in range n 		22
+tmp_R =  		23
+tmp_P =  		24
+tmp_S =  		25
+for c in range len R_string 		26
+if i == n - 1 		27
+tmp_R += end R_string c 		28
+tmp_P += end P_string c 		29
+tmp_S += end S_string c 		30
+elif i == n - 2 		31
+tmp_R += mid R_string c 		32
+tmp_P += mid P_string c 		33
+tmp_S += mid S_string c 		34
+else 		35
+tmp_R += start R_string c 		36
+tmp_P += start P_string c 		37
+tmp_S += start S_string c 		38
+R_string = tmp_R 		40
+P_string = tmp_P 		41
+S_string = tmp_S 		42
+R_tree n = R_string 		45
+P_tree n = P_string 		46
+S_tree n = S_string 		47
+for t in range T 		49
+line = iFile readline strip split 		50
+N = int line 0 		52
+R = int line 1 		53
+P = int line 2 		54
+S = int line 3 		55
+if R_tree N count R == R and R_tree N count P == P and R_tree N count S == S 		57
+answer = R_tree N 		58
+elif P_tree N count R == R and P_tree N count P == P and P_tree N count S == S 		59
+answer = P_tree N 		60
+elif S_tree N count R == R and S_tree N count P == P and S_tree N count S == S 		61
+answer = S_tree N 		62
+else 		63
+answer = IMPOSSIBLE 		64
+output = str answer 		66
+print Case # + str t + 1 + :  + output 		68

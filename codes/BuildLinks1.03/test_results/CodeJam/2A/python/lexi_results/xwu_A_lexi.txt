@@ -1,0 +1,35 @@
+import sys 		1
+from collections import Counter 		2
+m = 		5
+P PR 		6
+R RS 		7
+S PS 		8
+ans = 		10
+def dfs i c n 		13
+if i >= n 		14
+return c 		15
+else 		16
+c2 = m c 		17
+l = dfs i + 1 c2 0 n 		18
+r = dfs i + 1 c2 1 n 		19
+return min l + r r + l 		20
+def prep 		23
+global ans 		24
+for n in range 1 12 + 1 		25
+for s in PRS 		26
+init = s 		27
+s = dfs 0 s n 		28
+cc = Counter s 		29
+cand = cc R cc P cc S 		30
+ans cand = min ans get cand Z s 		31
+def calc 		35
+n r p s = int _ for _ in raw_input split 		36
+return ans get r p s IMPOSSIBLE 		37
+def main 		40
+prep 		41
+T = input 		42
+for t in range T 		43
+ans = calc 		44
+print Case #%d: %s % t + 1 ans 		45
+if __name__ == __main__ 		48
+main 		49

@@ -1,0 +1,3 @@
+mylist _doquicksort 		42 43
+def partition values left right pivotidx pivot = values pivotidx values 		15 31
+_doquicksort _doquicksort _doquicksort right def partition values left right pivotidx pivot = values pivotidx values right values 		13 40

@@ -1,0 +1,2 @@
+reduce_lineup test_case N R P S = int i for i in input_file readline split num = 2 		14 28
+reduce_lineup reduce_map reduce_map reduce_map P PR P SP 		9 11

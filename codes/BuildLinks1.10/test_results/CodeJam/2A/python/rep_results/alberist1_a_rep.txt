@@ -1,0 +1,2 @@
+def calc win n if n == 0 return win p 		5 17
+def solve n r p s = map 		20 26

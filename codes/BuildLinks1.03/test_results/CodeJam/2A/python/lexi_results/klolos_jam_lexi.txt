@@ -1,0 +1,56 @@
+import sys 		3
+def allowed 		6
+a = 1 1 0 		7
+for i in range 12 		8
+v1 v2 v3 = a - 1 		9
+a append v1 + v2 v1 + v3 v2 + v3 		10
+return a 		12
+def is_allowed v1 v2 v3 		15
+for a in allowed 		16
+if set v1 v2 v3 == set a 		17
+return True 		18
+return False 		20
+bs = P PRPS R PRRS S PSRS 		23
+def blocks v1 v2 v3 		25
+if v1 + v2 + v3 == 2 		26
+if v1 == 0 		27
+return RS 		28
+elif v2 == 0 		29
+return PS 		30
+elif v3 == 0 		31
+return PR 		32
+elif v1 + v2 + v3 == 4 		33
+if v1 == 2 		34
+return PRPS 		35
+elif v2 == 2 		36
+return PRRS 		37
+else 		38
+return PSRS 		39
+elif v1 > v2 and v1 > v3 		40
+return blocks v1 / 2 v2 / 2 + 1 v3 / 2 + blocks v1 / 2 v2 / 2 v3 / 2 + 1 		41
+elif v2 > v1 and v2 > v3 		42
+return blocks v1 / 2 + 1 v2 / 2 v3 / 2 + blocks v1 / 2 v2 / 2 v3 / 2 + 1 		43
+elif v3 > v1 and v3 > v2 		44
+return blocks v1 / 2 + 1 v2 / 2 v3 / 2 + blocks v1 / 2 v2 / 2 + 1 v3 / 2 		45
+elif v3 < v1 and v3 < v2 		46
+return blocks v1 / 2 + 1 v2 / 2 v3 / 2 + blocks v1 / 2 v2 / 2 + 1 v3 / 2 		47
+elif v2 < v1 and v2 < v3 		48
+return blocks v1 / 2 + 1 v2 / 2 v3 / 2 + blocks v1 / 2 v2 / 2 v3 / 2 + 1 		49
+elif v1 < v2 and v1 < v3 		50
+return blocks v1 / 2 v2 / 2 + 1 v3 / 2 + blocks v1 / 2 v2 / 2 v3 / 2 + 1 		51
+def solve 		54
+_ v2 v1 v3 = splitline int 		55
+if not is_allowed v1 v2 v3 		56
+return IMPOSSIBLE 		57
+return blocks v1 v2 v3 		59
+def print_result result i 		62
+sys stdout write Case #%s: %s\n % i result 		63
+def readline 		66
+return sys stdin readline rstrip \n 		67
+def splitline f 		70
+return map f readline split 		71
+def main 		74
+for i in range int readline 		75
+print_result solve i + 1 		76
+if __name__ == __main__ 		79
+main 		80

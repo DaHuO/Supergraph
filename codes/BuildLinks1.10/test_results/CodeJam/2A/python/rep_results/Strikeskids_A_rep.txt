@@ -1,0 +1,9 @@
+run_test main 		53 57
+children expand_chars children if self 		15 22
+run_test nums compute_rps 		49 51
+def 		12 13
+children sort self if 		24 27
+expand_chars c if c 		3 9
+extensive random 100000 		59 63
+compute_rps compute_rps_tree R P 		43 47
+compute_rps_tree compute_rps_tree R P S if n == 0 return Node R * R 		30 41

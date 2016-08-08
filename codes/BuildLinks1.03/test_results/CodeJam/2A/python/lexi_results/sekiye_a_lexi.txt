@@ -1,0 +1,65 @@
+from multiprocessing import Pool 		1
+def solve N R P S 		3
+for i in xrange N 		4
+r = 0 		5
+p = 0 		6
+s = 0 		7
+while R > 0 or P > 0 or S > 0 		8
+if R > 0 and P == 0 and S == 0 		9
+return IMPOSSIBLE 		10
+if R == 0 and P > 0 and S == 0 		11
+return IMPOSSIBLE 		12
+if R == 0 and P == 0 and S > 0 		13
+return IMPOSSIBLE 		14
+if min R P S == S and R > 0 and P > 0 		15
+p += 1 		16
+R -= 1 		17
+P -= 1 		18
+if min R P S == R and P > 0 and S > 0 		19
+s += 1 		20
+P -= 1 		21
+S -= 1 		22
+if min R P S == P and S > 0 and R > 0 		23
+r += 1 		24
+S -= 1 		25
+R -= 1 		26
+R = r 		27
+P = p 		28
+S = s 		29
+ans =  		30
+if R > 0 		31
+ans = R 		32
+if P > 0 		33
+ans = P 		34
+if S > 0 		35
+ans = S 		36
+for i in xrange N 		37
+s =  		38
+for ch in ans 		39
+if ch == R 		40
+s += RS 		41
+if ch == S 		42
+s += PS 		43
+if ch == P 		44
+s += PR 		45
+ans = s 		46
+l = list ans 		47
+for i in xrange N 		48
+x = 2 ** N - i - 1 		49
+y = 2 ** i 		50
+for j in xrange x 		51
+i1 = 2 ** y * j 		52
+i2 = i1 + y 		53
+i3 = i2 + y 		54
+if l i1 i2 > l i2 i3 		55
+l i1 i2 l i2 i3 = l i2 i3 l i1 i2 		56
+return  join l 		57
+T = int raw_input 		59
+p = Pool 4 		60
+args = 		61
+for i in range T 		62
+N R P S = map int raw_input split 		63
+args append N R P S 		64
+ans = p map solve args 		65
+for i in range T 		66
+print Case #%d: % i + 1 ans i 		67

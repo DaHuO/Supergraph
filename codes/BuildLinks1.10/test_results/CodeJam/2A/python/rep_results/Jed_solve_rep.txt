@@ -1,0 +1,5 @@
+nr_case nr_case Impossible int input for i in 		59 68
+prst wfunc wfunc 		20 25
+Impossible rsort nP nR nS if min nP nR nS < 0 raise td = nP + nR + nS // 2 if 		29 56
+wfunc * 		21 24
+rsort rsort rsort len seq == 1 		10 18

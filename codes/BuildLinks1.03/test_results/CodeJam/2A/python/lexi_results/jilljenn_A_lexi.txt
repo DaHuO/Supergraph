@@ -1,0 +1,38 @@
+def reduc l 		1
+P S R = l 		2
+N = P + S + R // 2 		3
+return N - S N - R N - P 		4
+def build letter n 		6
+c = P PR R RS S PS 		7
+if n == 0 		8
+return letter 		9
+bundle = 		10
+for l in c letter 		11
+bundle append build l n - 1 		12
+return bundle 		13
+def reduction tree 		15
+if len tree == 1 		16
+return tree 0 		17
+else 		18
+t1 t2 = tree 		19
+x = reduction t1 		20
+y = reduction t2 		21
+if x < y 		22
+return x + y 		23
+else 		24
+return y + x 		25
+T = int input 		27
+for t in range T 		28
+N R P S = map int input split 		29
+l = P S R 		30
+stuff = 		31
+for _ in range N 		32
+stuff append l 		33
+l = reduc l 		34
+stuff append l 		35
+if any x < 0 for x in l 		36
+sol = IMPOSSIBLE 		37
+else 		38
+sol = reduction build PSR l index 1 N 		39
+print Case #%d: %s % t + 1 sol 		40
+reduc 1 2 1 		42

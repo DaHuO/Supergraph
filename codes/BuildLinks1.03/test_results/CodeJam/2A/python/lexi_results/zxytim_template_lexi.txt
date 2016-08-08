@@ -1,0 +1,32 @@
+import math 		7
+import numpy as np 		8
+import functools 		9
+import collections 		10
+functools lru_cache maxsize = 10000000 		13
+def produce winner level 		14
+if level == 0 		15
+return winner 		16
+else 		17
+oppo = dict R = S P = R S = P winner 		18
+a = produce winner level - 1 		19
+b = produce oppo level - 1 		20
+if a < b 		21
+return a + b 		22
+return b + a 		23
+def solve 		26
+N R P S = map int input split 		27
+ans = None 		28
+for winner in R P S 		29
+s = produce winner N 		30
+cnt = collections Counter list s 		31
+if cnt P == P and cnt R == R and cnt S == S 		32
+if ans is None or s < ans 		33
+ans = s 		34
+if ans is None 		35
+print IMPOSSIBLE 		36
+else 		37
+print ans 		38
+nr_case = int input strip 		41
+for case_id in range 1 nr_case + 1 		43
+print Case #{}:  format case_id end =  		44
+solve 		45

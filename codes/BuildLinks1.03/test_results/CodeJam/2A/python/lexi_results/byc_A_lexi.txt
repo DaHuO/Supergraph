@@ -1,0 +1,36 @@
+import sys os itertools 		2
+file_prefix = A- + sample small-attempt0 large 1 		4
+filein = open file_prefix + .in r 		5
+fileout = sys stdout if sample in file_prefix else open file_prefix + .out w 		6
+linein = lambda filein readline strip 		7
+def lineout s * args 		8
+global fileout 		9
+out = s format * args fileout write out + \n 		10
+if fileout != sys stdout print out 		11
+ncases = int linein 		13
+def winner a b 		15
+if a == P and b == S 		17
+return S 		18
+elif a == R and b == S 		19
+return R 		20
+elif a == R and b == P 		21
+return P 		22
+return None 		23
+def pWorks s 		25
+if len s == 1 return True 		27
+nextS =  		28
+for i in range len s // 2 		29
+w = winner s i * 2 s i * 2 + 1 or winner s i * 2 + 1 s i * 2 		30
+if not w return False 		32
+nextS += w 		33
+return pWorks nextS 		34
+for case in range ncases 		36
+N R P S = int x for x in linein split 		37
+letters = P * P + R * R + S * S 		39
+answer = IMPOSSIBLE 		41
+for pl in itertools permutations letters 		43
+p =  join pl 		44
+if pWorks p 		45
+answer = p 		46
+break 		47
+lineout Case #{0}: {1} case + 1 answer 		49

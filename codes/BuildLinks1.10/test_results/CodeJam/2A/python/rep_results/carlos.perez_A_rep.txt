@@ -1,0 +1,2 @@
+wins nextXs nextXs wins nextXs S = P PR R RS S PS solution = None for start in P 		10 40
+def reorder xs if len xs 		1 8

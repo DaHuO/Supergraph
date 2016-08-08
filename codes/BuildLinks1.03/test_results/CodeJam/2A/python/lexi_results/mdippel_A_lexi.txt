@@ -1,0 +1,63 @@
+import sys getopt 		3
+from collections import defaultdict as dd 		4
+def processInput 		8
+T = int raw_input 		10
+for i in range T 		11
+N R P S = map int raw_input split 		12
+assert R + P + S == 2 ** N 		13
+yield N R P S 		14
+return 		15
+def writeOutput results 		18
+for result in results 		19
+print result 		20
+return 		21
+def ALGORITHM test_case 		26
+N R P S = test_case 		27
+if N <= 3 		28
+return BRUTE_FORCE test_case 		29
+def winner a b 		31
+lo hi = min a b max a b 		32
+if lo == P 		33
+if hi == R 		34
+return P 		35
+elif hi == S 		36
+return S 		37
+raise ValueError tie 		38
+elif lo == R 		39
+if hi == S 		40
+return R 		41
+raise ValueError tie 		42
+raise ValueError tie 		43
+def tourny_concludes S 		45
+if len S == 1 		46
+return True 		47
+next_S =  		48
+for i in range len S / 2 		49
+if S 2 * i == S 2 * i + 1 		50
+return False 		51
+next_S = next_S + winner S 2 * i S 2 * i + 1 		52
+return tourny_concludes next_S 		53
+def BRUTE_FORCE test_case 		57
+N R P S = test_case 		58
+S = P * P + R * R + S * S 		59
+from itertools import permutations 		60
+perms =  join p for p in permutations S 		61
+perms = sorted perms 		62
+for s in perms 		63
+if tourny_concludes s 		64
+return s 		65
+return IMPOSSIBLE 		66
+def basic_test 		69
+assert tourny_concludes PR == True 		70
+assert tourny_concludes PSRS == True 		71
+assert tourny_concludes RR == False 		72
+def runAlgorithm 		74
+results = 		75
+for test_case in processInput 		76
+results append ALGORITHM test_case 		77
+for i in range len results 		79
+results i = Case # + str i + 1 + :  + results i + \n 		80
+writeOutput results 		82
+if __name__ == __main__ 		84
+basic_test 		85
+runAlgorithm 		86

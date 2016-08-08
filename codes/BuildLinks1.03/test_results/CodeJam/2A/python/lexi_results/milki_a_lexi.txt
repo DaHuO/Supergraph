@@ -1,0 +1,51 @@
+from collections import defaultdict 		1
+d = 		3
+def main 		5
+T = int raw_input 		6
+gen R 12 		7
+gen P 12 		8
+gen S 12 		9
+for i in xrange T 		12
+N R P S = map int raw_input split 		13
+found = 		14
+for t in R P S 		15
+st cr cp cs = d t N 		16
+if cr != R or cp != P or cs != S 		17
+continue 		18
+found append st 		19
+if not found 		20
+found append IMPOSSIBLE 		21
+found = sorted found 		22
+output i found 0 		24
+def gen l n 		26
+global d 		27
+ret = l 		28
+for r in range n 		29
+ret = go ret 		30
+c_r = sum 1 for t in ret if t == R 		31
+c_p = sum 1 for t in ret if t == P 		32
+c_s = sum 1 for t in ret if t == S 		33
+d l r + 1 =  join bin_sort ret c_r c_p c_s 		34
+def bin_sort l 		36
+if len l <= 2 		37
+return sorted l 		38
+le = len l / 2 		39
+left = l le 		40
+right = l le 		41
+if left < right 		43
+return bin_sort left + bin_sort right 		44
+else 		45
+return bin_sort right + bin_sort left 		46
+def go l 		48
+ret = 		49
+for t in l 		50
+if t == R 		51
+ret += R S 		52
+if t == S 		53
+ret += P S 		54
+if t == P 		55
+ret += P R 		56
+return ret 		57
+def output casenum ret 		60
+print Case #%d: %s % casenum + 1 ret 		61
+main 		64

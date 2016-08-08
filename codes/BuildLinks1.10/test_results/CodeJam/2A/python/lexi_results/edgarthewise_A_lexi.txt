@@ -1,0 +1,4 @@
+def getFirst n c if n c in stored return stored n c if n == 0 ans = c else a = getFirst n - 1 c b = getFirst n - 1 beats c if a < b ans = a + b else ans = b + a stored n c = ans return ans 		18 31
+def getInts return int i for i in getWords 		6 7
+def getWords return sys stdin readline strip split 		3 4
+def getInt i = getInts assert len i == 1 return i 0 		9 12

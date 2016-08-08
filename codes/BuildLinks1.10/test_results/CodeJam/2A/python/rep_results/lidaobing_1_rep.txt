@@ -1,0 +1,8 @@
+foo3 res res = list res level = 1 while level + level <= len 		77 86
+def foo2 n aa if n == 1 res = 		89 100
+vecadd 		60 61
+def check a if len a == 1 		35 43
+main2 13 0 = 0 0 1 for i in range 		48 58
+def main ifile = sys 		119 123
+foo3 foo ifile n r p s 		107 114
+vecadd vecadd vecadd res a1 = a n - 1 		65 75

@@ -1,0 +1,32 @@
+from sys import stdin 		1
+def best x level 		3
+if level == 0 		4
+return x 		5
+if x == R 		6
+best0 = best R level - 1 		7
+best1 = best S level - 1 		8
+elif x == P 		9
+best0 = best P level - 1 		10
+best1 = best R level - 1 		11
+else 		12
+best0 = best S level - 1 		13
+best1 = best P level - 1 		14
+if best0 <= best1 		15
+return best0 + best1 		16
+return best1 + best0 		17
+def match s R P S 		19
+return s count R == R and s count P == P and s count S == S 		20
+T = int stdin readline 		22
+for case in xrange T 		23
+N R P S = map int stdin readline split 		24
+bestr = best R N 		25
+bestp = best P N 		26
+bests = best S N 		27
+ans = IMPOSSIBLE 		28
+if match bestr R P S 		29
+ans = bestr 		30
+elif match bestp R P S 		31
+ans = bestp 		32
+elif match bests R P S 		33
+ans = bests 		34
+print Case #{}: {} format case + 1 ans 		35
