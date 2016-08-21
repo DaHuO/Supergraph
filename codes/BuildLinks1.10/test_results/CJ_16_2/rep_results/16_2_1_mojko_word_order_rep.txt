@@ -1,0 +1,2 @@
+def removeLetters d 		10 13
+letterCount word d 		4 8

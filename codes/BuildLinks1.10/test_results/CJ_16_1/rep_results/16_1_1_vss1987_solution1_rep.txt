@@ -1,0 +1,1 @@
+def solve s s = list s res 		1 10

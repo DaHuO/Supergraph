@@ -1,0 +1,1 @@
+def len2 p res = r = j for j in p if j > 0 ind = p index max p if max r > min r p p index max r = p p index max r + min r - max r res += d ind * max r - min r al = d o for o in range len p if p o > 0 r = j for j in p if j > 0 if r 0 == r 1 s =  + str al 0 + str al 1 res += s * r 0 return res 		5 19

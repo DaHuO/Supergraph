@@ -1,0 +1,35 @@
+9 10:
+def	0	0	8	6
+__init__	1	0	7	5
+self	2	0	6	4
+n	3	1	5	3
+self	4	2	4	2
+n	5	3	3	1
+=	6	4	2	0
+n	7	5	1	0
+
+22 38:
+timsort	1	0	57	45
+wrap	4	0	54	42
+timwrapper	5	0	53	41
+timwrapper	6	0	52	40
+prev	10	0	48	36
+timwrapper	20	8	38	26
+timwrapper	24	12	34	22
+limit	25	13	33	21
+reset	29	17	29	17
+try	30	18	28	16
+except	33	21	25	13
+timbreak	34	22	24	12
+
+18 19:
+__getattr__	1	0	8	6
+attr	3	1	6	4
+
+12 16:
+__cmp__	1	0	21	16
+other	3	0	19	14
+timwrapper	5	0	17	12
+timwrapper	8	3	14	9
+limit	9	4	13	8
+

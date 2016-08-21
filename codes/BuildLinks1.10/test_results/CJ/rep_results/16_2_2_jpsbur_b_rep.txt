@@ -1,0 +1,4 @@
+getmin s res = 		23 30
+-1 better c j ac aj if ac == return true if abs 		3 12
+-1 -1 getmax getmin getmin getmax input split ac aj = n = len c for eq in range n + 1 c0 = j0 = ok = true for i in range eq if c i != ? and j i != 		32 79
+getmax s res = 		14 21

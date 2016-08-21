@@ -1,0 +1,1 @@
+def best_word word result = 		5 14

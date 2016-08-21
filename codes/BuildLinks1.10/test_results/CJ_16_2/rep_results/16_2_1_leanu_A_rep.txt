@@ -1,0 +1,2 @@
+def number s n0 = s count Z s = deldig 0 s n0 n6 = s count X s = deldig 6 s n6 n2 = s count W s 		3 24
+def deldig dig s 		25 30

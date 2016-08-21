@@ -1,0 +1,4 @@
+getPerm getPerm c j lc = c lj = j 		14 27
+first_line main to_write = with open sys argv 1 r as f 		34 47
+getPerm newlc newlc newlc c while ? in 		4 12
+def solve c 		29 31

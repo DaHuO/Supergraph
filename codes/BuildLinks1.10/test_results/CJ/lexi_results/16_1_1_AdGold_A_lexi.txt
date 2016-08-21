@@ -1,0 +1,1 @@
+def solve s maxes = a - 1 * len s maxes 0 = s 0 0 for i e in enumerate s if not i continue maxes i = maxes i - 1 e = e i if e > maxes i maxes i = e s = list s backwards = for i e in reversed list enumerate maxes if e 1 == i backwards append e 0 s i = return join backwards + join s 		8 32

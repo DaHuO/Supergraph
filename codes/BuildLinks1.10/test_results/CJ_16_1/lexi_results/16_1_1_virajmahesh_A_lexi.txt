@@ -1,0 +1,1 @@
+def solve s s = deque for l in s if len s != 0 and ord l >= ord s 0 s appendleft l else s append l return s 		3 10

@@ -1,0 +1,2 @@
+problema input_file.txt isfile checking!!! this should happen path output_file_name os remove output_file_name first 		6 25
+def check_number test_case_number s output_file = open output_file_name a first = true text = for 		28 44

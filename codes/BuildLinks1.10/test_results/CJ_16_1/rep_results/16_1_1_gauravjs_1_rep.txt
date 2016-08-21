@@ -1,0 +1,1 @@
+bestword bestword if len s == 0 return last = a 		1 20

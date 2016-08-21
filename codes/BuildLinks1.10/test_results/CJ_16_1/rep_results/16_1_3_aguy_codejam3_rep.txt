@@ -1,0 +1,4 @@
+def 		64 136
+findpairs x ans = used = set 		18 27
+findpairs pairnum pairnum isleaf isleaf longestpaths isleaf pairnum pairnum longestpaths longestpaths longestpaths longestpaths 1 for p in pairs for i in p 		30 62
+def longestcycle x ans = 0 for start in 		1 15

@@ -1,0 +1,2 @@
+tcno tcno totalstringlist totalstringlist startstring endstring totalstringlist startstring totalstringlist endstring templist totalstringlist permstring templist startstring permstring endstring permstring totalstringlist startstring totalstringlist 		8 38
+r'd:\spyderworkspace\codejamroundone\results\a-small-attempt2 (1).out' r'd:\spyderworkspace\codejamroundone\results\a-small-attempt2 (1).in' nooftcs nooftcs open w filein 		40 51

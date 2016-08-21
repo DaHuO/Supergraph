@@ -1,0 +1,1 @@
+def ok n1 n2 s1 s2 q1 = str n1 q2 = str n2 q1 = 0 * len s1 - len q1 + q1 q2 = 0 * len s2 - len q2 + q2 for i in range len s1 if s1 i != ? and s1 i != q1 i return False 1 2 for i in range len s2 if s2 i != ? and s2 i != q2 i return False 1 2 return True q1 q2 		5 16

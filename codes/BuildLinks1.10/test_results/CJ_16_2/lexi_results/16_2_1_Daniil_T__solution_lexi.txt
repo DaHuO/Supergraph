@@ -1,0 +1,1 @@
+def decrease num hash for ch in representation num hash ch -= 1 		4 6

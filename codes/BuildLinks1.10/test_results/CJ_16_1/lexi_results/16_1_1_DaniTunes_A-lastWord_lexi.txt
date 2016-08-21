@@ -1,0 +1,1 @@
+def solve s r = s 0 for c in s 1 if c >= r 0 r = c + r else r += c return r 		8 15

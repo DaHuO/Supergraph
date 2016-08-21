@@ -1,0 +1,3 @@
+def process global list visited max 		47 59
+updatemax count 		11 17
+updatemax updatemax index current global list visited max global friend if visited current == 		19 45

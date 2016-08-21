@@ -1,0 +1,1 @@
+def even word result = cursor = 0 new_word = while cursor < len word char = word cursor if char == Z found 		3 12

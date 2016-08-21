@@ -1,0 +1,2 @@
+todict f line bffs = map int line split  n = len bffs 		11 25
+todict l d 		4 8

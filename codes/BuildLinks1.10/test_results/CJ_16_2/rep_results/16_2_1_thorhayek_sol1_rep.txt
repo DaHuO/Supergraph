@@ -1,0 +1,2 @@
+getPhone line out = store = dict for w in line if w in store store w += 1 else store w = 1 while check store if Z in store for i in range store Z out append 0 store E -= 1 store R -= 1 store O -= 1 store Z = 0 if W in store for 		4 86
+def check store 		88 95

@@ -1,0 +1,3 @@
+def solve s ctr 		35 39
+ui ui t 		67 68
+def main for i in range int input n 		3 30

@@ -1,2 +1,2 @@
-next_line opts opts print case_index n = read_int r = read_int 		30 43
-a_word b_word a_word b_word a_word b_word b_word a_word return top if top == 		8 27
+next_line solve case_index print case_index n = read_int r = read_int 		30 43
+def solve_n n top if n == 0 return top if top == 		8 27

@@ -1,0 +1,1 @@
+def findlastword line if len line <= 1 return line maxchar = max line maxindex = line rfind maxchar return maxchar + findlastword line 0 maxindex + line maxindex + 1 		7 12

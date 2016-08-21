@@ -1,0 +1,1 @@
+def solve old_parts candidates = set for part in old_parts for c in part if c in candidates candidates remove c else candidates add c output = sorted map int candidates return  join map str output 		16 28

@@ -1,0 +1,3 @@
+def main it = fileinput 		14 18
+place_letter s c 		3 6
+place_letter solve o 		8 12

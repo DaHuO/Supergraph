@@ -1,0 +1,2 @@
+def get_letter_weight char 		24 27
+problema last_letter_w first_letter_w weight last_letter_w first_letter_w weight first_letter_w = 0 		1 22

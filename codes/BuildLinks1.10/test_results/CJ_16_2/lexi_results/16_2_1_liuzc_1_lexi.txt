@@ -1,0 +1,1 @@
+def dfs dic cnt ans level global get if get return if level > 9 return if cnt == 0 print Case #{}: {} format i ans get = True else x = number level flag = True for l in x if l not in dic or dic l <= 0 flag = False break if flag new_dic = copy deepcopy dic for l in x new_dic l = new_dic l - 1 dfs new_dic cnt - len x ans + str level level dfs dic cnt ans level + 1 		5 27

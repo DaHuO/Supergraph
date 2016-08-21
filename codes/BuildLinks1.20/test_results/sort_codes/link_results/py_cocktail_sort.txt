@@ -1,0 +1,8 @@
+
+With same rare tokens:
+7 - 18 links:
+cocktailsort	:	2 - 21
+test_sortable	:	26 - 47
+counting_sort	:	15 - 44
+sortalg	:	42 - 63
+

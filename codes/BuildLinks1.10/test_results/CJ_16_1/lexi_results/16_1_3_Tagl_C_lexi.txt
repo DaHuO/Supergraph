@@ -1,0 +1,3 @@
+def dfs g c v c if c v == 0 c v = c for u in g v dfs g c u c 		5 9
+def cycle g v p v if not v v v v = true p append v return cycle g v p g v else return v 		11 17
+def longest g v d if len g v == 0 return d else mx = d for u in g v mx = max mx longest g u d + 1 return mx 		19 27

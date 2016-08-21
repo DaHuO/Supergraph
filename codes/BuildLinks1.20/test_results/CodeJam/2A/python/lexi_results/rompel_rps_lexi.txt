@@ -1,0 +1,7 @@
+def rd1int return int rdline 		11 11
+def rdints return map int ssr split 		10 10
+def rdstrs return ssr split 		9 9
+def main t = rd1int for i in range t do_one_case i + 1 sys stdout flush 		49 53
+def best n if n in bst return bst n nn = 2 ** n b = for t in rps x = t for i in range n x = join rule c for c in x for i in range n k = 2 ** i x = join join sorted x j j + k x j + k j + 2 * k for j in range 0 nn 2 * k y = join sorted x b append x y bst n = b return b 		27 42
+def rdline return ssr strip 		8 8
+def do_one_case cnum n r p s = rdints goal = p * p + r * r + s * s tries = best n t2 = t 0 for t in tries if t 1 == goal if t2 print case #%d: %s % cnum min t2 else print case #%d: impossible % cnum 		16 24

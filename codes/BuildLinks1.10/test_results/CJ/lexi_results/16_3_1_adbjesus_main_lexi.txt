@@ -1,0 +1,1 @@
+def solve n = int raw_input p = int i for i in raw_input split ret = while sum p > 0 z = p index max p p z -= 1 ret += %c % 65 + z if max p > sum p / 2 z = p index max p p z -= 1 ret += %c % 65 + z ret +=  return ret 		1 21

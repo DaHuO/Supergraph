@@ -1,0 +1,1 @@
+def dfs v anses = 0 for v2 in revedges v anses append dfs v2 + 1 return max anses 		21 25

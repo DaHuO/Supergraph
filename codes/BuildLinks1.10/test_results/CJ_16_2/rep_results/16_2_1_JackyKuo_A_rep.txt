@@ -1,0 +1,4 @@
+isExist s d tmpD = for c in 		3 10
+Number_Strings isExist Number_Strings Number_Strings Number_Strings if len d == 0 global globalAns globalAns = ans return 		12 28
+def solve s d = for 		31 40
+A-small-attempt0.out main inFile = open A-small-attempt0.in r outFile 		42 49

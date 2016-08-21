@@ -1,0 +1,3 @@
+execute input_name output_name input_name 		37 46
+trips trips trips output t = int next input_file for i in range t c j = next input_file strip split = 		48 64
+def all a b lis = list a list b num = for i in range len a if a i == ? num append i 		5 32

@@ -1,0 +1,1 @@
+def check p s 		4 8

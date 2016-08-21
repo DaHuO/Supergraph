@@ -1,0 +1,3 @@
+getmax dic mkey = 		6 11
+getmax ismajority nmkey getmax nmkey nmkey nmkey if dic mkey == 		22 33
+ismajority getmax mkey = dic sum 		12 20

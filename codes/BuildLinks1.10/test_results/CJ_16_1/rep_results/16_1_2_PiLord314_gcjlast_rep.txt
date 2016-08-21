@@ -1,0 +1,2 @@
+2600 main length = int input ans = for i in range 0 length file = 0 		10 30
+def rank file ans = 		1 6

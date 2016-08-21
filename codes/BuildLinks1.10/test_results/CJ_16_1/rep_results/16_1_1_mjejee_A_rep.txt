@@ -1,0 +1,1 @@
+processlastword s ls = c for c in 		6 17

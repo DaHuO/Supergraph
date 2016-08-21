@@ -1,0 +1,1 @@
+def work line current_max = - 1 result = for letter in line if ord letter - ord a >= current_max result = letter + result current_max = ord letter - ord a else result = result + letter return result 		4 13

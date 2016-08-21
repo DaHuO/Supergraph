@@ -1,0 +1,2 @@
+def replace s ind new return s ind + new + s ind + 1 		58 59
+def result input a b = input split comp = 0 min_dist = 10 ** 6 rtn = num = counter a ? + counter b ? for i in range 10 ** num s = str i zfill num new_a = str a new_b = str b ind = 0 while ? in new_a new_a = replace new_a new_a index ? s ind ind += 1 while ? in new_b new_b = replace new_b new_b index ? s ind ind += 1 dist = abs int new_a - int new_b if dist < min_dist min_dist = dist rtn = %s %s % new_a new_b print rtn return rtn 		3 53

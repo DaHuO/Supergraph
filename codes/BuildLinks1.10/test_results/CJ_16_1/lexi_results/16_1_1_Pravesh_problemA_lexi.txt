@@ -1,0 +1,1 @@
+def get_last_word s word = for s in s if word == word = s else if ord s >= ord word 0 word = s + word else word = word + s return word 		7 16

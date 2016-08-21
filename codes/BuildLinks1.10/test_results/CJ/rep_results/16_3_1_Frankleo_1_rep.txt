@@ -1,0 +1,2 @@
+party_name_list party_num_list party_name_list party_name_list party_num_list = = = p res = for i in range n append chr ord a + i for i in xrange n party = party i i party_list append party while party_list party_list = sorted party_list key = 		7 54
+def __init__ 		3 5

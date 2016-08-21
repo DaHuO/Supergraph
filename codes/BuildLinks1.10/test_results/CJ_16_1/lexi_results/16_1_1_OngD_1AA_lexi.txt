@@ -1,0 +1,2 @@
+def openfile input_file with open input_file as f my_list = f read splitlines return my_list 		4 12
+def last_word n ret = deque n 0 n = n 1 for char in n if char >= ret 0 ret appendleft char else ret append char return join ret 		15 23

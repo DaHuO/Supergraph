@@ -1,0 +1,8 @@
+get_index_one_max 		39 40
+testcasesnumber testcasesnumber result = i = 1 with open a-large.in r as inputfile = 		82 101
+get_index_one_max remove_two_max indexes_max get_index_two_max indexes_max remove_two_max error: senators > 0 if not 		61 76
+def majority senators 		10 14
+get_index_two_max get_index_one_max get_index_one_max = senators index max senators s2 = senators 0 		42 52
+def remove_one_max senators 		19 23
+remove_two_max senators s = copy senators index_max = s index max 		25 35
+		55 56

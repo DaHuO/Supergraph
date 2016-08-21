@@ -1,0 +1,2 @@
+def main t = int input for i in range 1 t + 1 s = input last_word = calculate_last_word s print case #{}: {} format i last_word 		40 45
+def calculate_last_word word last_word = for c in word if len last_word == 0 last_word += c else a = last_word + c b = c + last_word if a > b last_word = a else last_word = b return last_word 		24 37

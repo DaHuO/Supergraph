@@ -1,0 +1,2 @@
+def formatanswer index answer answer = string join str x for x in answer  return case # + str index + : + answer 		9 11
+def computeanswer heights heights sort heightcount = dict for row in heights for i in row if i in heightcount heightcount i += 1 else heightcount i = 1 oddcounts = for key in sorted heightcount keys if heightcount key % 2 == 1 oddcounts append key return sorted oddcounts 		13 27

@@ -1,0 +1,13 @@
+Direct links:
+20 - 21 links:
+16_0_4_deniswerner_d	:	27 - 53
+16_0_4_DayBit_probD	:	16 - 19
+16_0_4_aPoCaLYpSe_fractiles	:	10 - 12
+16_0_4_aflag_fractiles	:	3 - 16
+
+
+With same rare tokens:
+6 - 17 links:
+16_0_4_ait_configLoader	:	7 - 9
+16_0_4_ait_loadFile	:	5 - 7
+

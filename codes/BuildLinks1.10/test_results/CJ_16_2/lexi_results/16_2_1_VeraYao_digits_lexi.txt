@@ -1,0 +1,1 @@
+def stgen st dic = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE output = for i in st output += dic i return sorted output 		2 11

@@ -1,0 +1,1 @@
+def thelastword word newword = word 0 for x in word 1 if ord x < ord newword 0 newword = newword + x else newword = x + newword return newword 		3 12

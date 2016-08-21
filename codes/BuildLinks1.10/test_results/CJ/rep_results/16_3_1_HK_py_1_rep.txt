@@ -1,0 +1,1 @@
+get_ans cl cl = int d for d in cl plan_l = while true if sum cl <= 0 break m = max cl if cl count m == 1 i = cl index m if cl i 		3 64

@@ -1,0 +1,1 @@
+printDig puzzle puzzle Counter res = x 0 for x in range 0 9 res 0 = di Z res 2 = di 		12 35

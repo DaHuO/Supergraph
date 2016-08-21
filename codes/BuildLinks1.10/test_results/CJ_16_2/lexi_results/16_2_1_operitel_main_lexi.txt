@@ -1,0 +1,1 @@
+def remove_array arr1 arr2 for item in arr1 arr2 remove item return 		4 7

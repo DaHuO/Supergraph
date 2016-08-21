@@ -1,0 +1,3 @@
+def write_file results with open file_base + .out w+ as file row = 1 for result in results file write case #{0}: {1}\n format row result row += 1 		16 22
+def solve puzzle front_char = puzzle 0 last_word = for c in puzzle if c >= front_char front_char = c last_word = c + last_word else last_word = last_word + c return last_word 		25 35
+def read_file with open file_base + .in as file cases = int file readline puzzles = for _ in range cases puzzles append file readline strip return puzzles 		6 13

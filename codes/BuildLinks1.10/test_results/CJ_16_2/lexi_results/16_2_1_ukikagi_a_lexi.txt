@@ -1,0 +1,2 @@
+def reads return int s for s in input split 		13 14
+def read return int input 		10 11

@@ -1,0 +1,4 @@
+enough main t = int sys stdin readline strip d = * 10 d append value 0 subtotals numbers zero d append value 2 subtotals 		4 37
+enough totals totals totals true for p 		50 67
+def numbers string alphabet 		39 48
+def empty subtotals bit 		69 80

@@ -1,6 +1,5 @@
+
+With same rare tokens:
 24 - 40 links:
 selection_sort	:	7 - 19
-
-1 - 22 links:
-bubble_sort	:	7 - 15
 

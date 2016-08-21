@@ -1,0 +1,8 @@
+def make_lower c1 c2 assert can_be_lower c1 c2 if c1 == ? and c2 == ? return 0 1 if c1 == ? return chr ord c2 - 1 c2 if c2 == ? return c1 chr ord c1 + 1 return c1 c2 		11 16
+def can_be_lower c1 c2 if c1 == ? return c2 != 0 if c2 == ? return c1 != 9 return c1 < c2 		6 9
+def matches s pattern if len s != len pattern return false for i in range len pattern if s i != pattern i and pattern i != ? return false return true 		66 70
+def assume_first_lower_or_eq s1 s2 same p1 = p2 = l = len s1 i = 0 while i < same and can_be_equal s1 i s2 i if s1 i == ? and s2 i == ? p1 += 0 p2 += 0 elif s1 i == ? p1 += s2 i p2 += s2 i else p1 += s1 i p2 += s1 i i += 1 if i < same return none none if i == l return p1 p2 if not can_be_lower s1 i s2 i return none none c1 c2 = make_lower s1 i s2 i p1 += c1 p2 += c2 i += 1 while i < l p1 += make_max s1 i p2 += make_min s2 i i += 1 return p1 p2 		26 52
+def select_better a1 a2 b1 b2 if a1 is none return b1 b2 if b1 is none return a1 a2 diff_a = abs int a1 - int a2 diff_b = abs int b1 - int b2 if diff_a < diff_b return a1 a2 if diff_a > diff_b return b1 b2 if int a1 < int b1 return a1 a2 if int a1 > int b1 return b1 b2 if int a2 < int b2 return a1 a2 return b1 b2 		54 64
+def can_be_equal c1 c2 return c1 == ? or c2 == ? or c1 == c2 		3 4
+def make_max c if c == ? return 9 else return c 		18 20
+def make_min c if c == ? return 0 else return c 		22 24

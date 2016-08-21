@@ -1,0 +1,2 @@
+def do s numbers = while len s > 0 s n = extractone s numbers append n numbers sort N = join str n for n in numbers return N 		28 35
+def extractone s lst = list s for i in corresporder if i in s word = corresp i 0 for w in word lst remove w return join lst corresp i 1 		18 25

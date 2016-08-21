@@ -1,0 +1,3 @@
+def testcase test = 		16 22
+def run test = testcase result = for t 		24 35
+def get_result test test = test 		6 14

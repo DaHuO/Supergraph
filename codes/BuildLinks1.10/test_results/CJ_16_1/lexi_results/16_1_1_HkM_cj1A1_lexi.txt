@@ -1,0 +1,1 @@
+def cj1a1 s m = a b c d e f g h i j k l m n o p q r s t u v w x y z t = t append s 0 for i in range 1 len s if m index s i >= m index t 0 t insert 0 s i else t append s i return join t 		1 10

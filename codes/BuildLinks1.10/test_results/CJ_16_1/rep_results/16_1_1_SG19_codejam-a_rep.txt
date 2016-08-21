@@ -1,0 +1,2 @@
+codejam-a-large.out solver cases with open 		1 5
+phr phr phr = 0 for 		7 14

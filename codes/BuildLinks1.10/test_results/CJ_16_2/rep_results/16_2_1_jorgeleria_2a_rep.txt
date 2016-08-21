@@ -1,0 +1,1 @@
+def solve s l if Z in s l append 0 for letter in ZERO s = s replace letter 1 return solve s l if W in s l append 2 for letter in TWO s = s replace letter 1 return solve s l if U in s l append 4 for letter in FOUR 		1 54

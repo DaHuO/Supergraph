@@ -1,0 +1,2 @@
+def solve line digits = while line foundAny = False for letter pair in prime iteritems if letter in line foundAny = True digits append pair 1 line = replace line pair 0 if not line break if not foundAny break while line foundAny = False for letter pair in secondary iteritems if letter in line foundAny = True digits append pair 1 line = replace line pair 0 if not line break if not foundAny break while line digits append 9 line = replace line NINE return sorted digits 		15 47
+def replace line word for char in word line = line replace char 1 return line 		9 12

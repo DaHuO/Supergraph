@@ -1,0 +1,1 @@
+do_test_case fd tokens = fd readline line = tokens strip 		3 26

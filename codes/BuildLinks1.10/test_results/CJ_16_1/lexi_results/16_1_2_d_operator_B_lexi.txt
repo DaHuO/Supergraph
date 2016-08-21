@@ -1,0 +1,2 @@
+def solve fin fout l = codejam_io read_f fin lambda x int * 2 * x 0 - 1 s = map solve_case l codejam_io write_simple fout s 		16 19
+def solve_case c c sort elements = sorted reduce lambda a b a + b c uniqueelements = sorted list set elements counts = e 0 for e in set elements for elt in elements counts elt += 1 return codejam_io list_as_string elt for elt in uniqueelements if counts elt % 2 == 1 		6 14

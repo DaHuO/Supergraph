@@ -1,0 +1,58 @@
+
+With same rare tokens:
+9 - 16 links:
+16_1_2_tmi_b	:	10 - 11
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_1_car03e_last_word	:	46 - 47
+16_1_1_car03e_last_word	:	46 - 47
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_1_car03e_last_word	:	46 - 47
+16_1_1_car03e_last_word	:	46 - 47
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_2_tmi_b	:	10 - 11
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_1_car03e_last_word	:	49 - 50
+16_1_2_tmi_b	:	10 - 11
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_1_car03e_last_word	:	52 - 53
+16_1_1_car03e_last_word	:	52 - 53
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_2_tmi_b	:	10 - 11
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_1_car03e_last_word	:	55 - 56
+16_1_1_car03e_last_word	:	55 - 56
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_2_tmi_b	:	10 - 11
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_1_car03e_last_word	:	58 - 59
+16_1_1_car03e_last_word	:	58 - 59
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_2_tmi_b	:	10 - 11
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_1_car03e_last_word	:	61 - 62
+16_1_1_car03e_last_word	:	61 - 62
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_2_tmi_b	:	10 - 11
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+16_1_3_tmi_c	:	10 - 14
+

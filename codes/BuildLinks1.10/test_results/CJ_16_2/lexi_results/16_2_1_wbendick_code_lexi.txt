@@ -1,0 +1,1 @@
+def solve word out = l = x word count x for x in set word c = defaultdict int for k v in l c k += v for i in xrange 10 for j in xrange c critical i out = out + str order i for letter in spellings order i c letter -= 1 return join sorted list out 		8 20

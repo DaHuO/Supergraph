@@ -1,0 +1,1 @@
+main_func S ind = Z O W R U F X V G 		7 18

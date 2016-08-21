@@ -1,0 +1,2 @@
+def main fin fout num_cases = int fin readline strip for case in xrange 1 num_cases + 1 word = fin readline strip print >> fout case #%d: %s % case solve word 		40 49
+def solve word last_word = word 0 for char in word 1 if char >= last_word 0 last_word insert 0 char else last_word append char return join last_word 		22 34

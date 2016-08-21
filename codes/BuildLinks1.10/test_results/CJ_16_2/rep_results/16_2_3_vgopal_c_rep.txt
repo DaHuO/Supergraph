@@ -1,0 +1,1 @@
+num_fake num_fake left_words right_words left_words right_words left_words right_words num_fake - 1 for fakes in itertools combinations 		3 23

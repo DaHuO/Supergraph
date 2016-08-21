@@ -1,0 +1,2 @@
+readthroughdatageneric strlist intlist strlist intlist intlist open filename r lct = 0 ct = 0 ctlast = 0 rcs = for line 		14 48
+def solve rcs heightcounts = for i in range 0 len rcs 		50 65

@@ -1,0 +1,1 @@
+def solve problem numbers = map int problem split problem = sorted list map list zip 		7 24

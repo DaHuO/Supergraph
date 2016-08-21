@@ -1,0 +1,1 @@
+stringi stringi stringi is_cont = True for letter 		6 15

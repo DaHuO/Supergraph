@@ -1,0 +1,1 @@
+def solve grid maxi d = k 0 for k in xrange maxi + 1 ans = for j in grid d int j += 1 for k in d if d k % 2 != 0 ans append k else continue ans sort ans = str ch for ch in ans return  join ans 		1 13

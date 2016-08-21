@@ -1,0 +1,5 @@
+countletters s c 		20 24
+countletters wordcount countletters wordcount gauss_jordan s A = b = row = 0 * 10 for d in range 		29 52
+def 		16 16
+def 		15 15
+readstr 		17 17

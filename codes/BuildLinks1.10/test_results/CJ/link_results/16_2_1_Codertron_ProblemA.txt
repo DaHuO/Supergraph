@@ -1,0 +1,23 @@
+Direct links:
+6 - 25 links:
+16_1_1_Codertron_ProblemA	:	6 - 25
+
+
+With same rare tokens:
+6 - 25 links:
+16_3_1_AndersTornkvist_a	:	285 - 287
+16_1_1_Codertron_ProblemA	:	6 - 25
+16_1_1_Codertron_ProblemA	:	6 - 25
+16_3_1_AndersTornkvist_a	:	50 - 65
+16_1_1_Codertron_ProblemA	:	6 - 25
+16_2_2_x1Mike7x_B	:	68 - 75
+16_1_1_Codertron_ProblemA	:	6 - 25
+16_1_1_Codertron_ProblemA	:	6 - 25
+16_0_4_donhatch_RUNME	:	17 - 46
+16_0_4_donhatch_RUNME	:	17 - 46
+16_3_1_AndersTornkvist_a	:	141 - 159
+16_2_2_lbj_B	:	3 - 69
+16_1_1_Codertron_ProblemA	:	6 - 25
+16_2_2_lbj_B	:	3 - 69
+16_1_1_Codertron_ProblemA	:	6 - 25
+

@@ -1,0 +1,5 @@
+trash c j for i in range 0 len c if c i == ? and j i == ? if int 0 + c 0 i == int 0 + j 0 i c = c replace ? 		98 125
+makePoss maxscore candscore maxscore candscore candscore candscore poss = for in range 		17 30
+makeLowestMatch main 		78 81
+lvl 		12 14
+makeLowestMatch possC makePoss possJ makePoss mindiffs possC possJ padc padj padc padj 99999 for pc in for pj in dif = abs pj - pc if 		34 74

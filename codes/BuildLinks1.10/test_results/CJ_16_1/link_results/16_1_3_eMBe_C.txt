@@ -1,0 +1,32 @@
+Direct links:
+110 - 115 links:
+16_1_1_eMBe_A	:	94 - 99
+16_1_2_eMBe_B	:	103 - 108
+
+36 - 41 links:
+16_1_1_eMBe_A	:	36 - 41
+16_1_1_eMBe_A	:	29 - 34
+16_1_2_eMBe_B	:	36 - 41
+16_1_2_eMBe_B	:	29 - 34
+
+
+With same rare tokens:
+110 - 115 links:
+16_1_1_eMBe_A	:	94 - 99
+16_1_2_eMBe_B	:	103 - 108
+
+87 - 108 links:
+16_1_3_FatAlex_c	:	103 - 122
+
+48 - 51 links:
+16_1_1_eMBe_A	:	48 - 51
+16_1_2_eMBe_B	:	48 - 51
+
+82 - 85 links:
+16_1_1_eMBe_A	:	82 - 85
+16_1_2_eMBe_B	:	82 - 85
+
+43 - 46 links:
+16_1_1_eMBe_A	:	43 - 46
+16_1_2_eMBe_B	:	43 - 46
+

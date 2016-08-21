@@ -1,0 +1,1 @@
+def solve cn s = raw_input strip 		8 16

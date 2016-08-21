@@ -1,0 +1,2 @@
+def solve test word = reduce lambda s c s + c if s 0 > c else c + s test s return word 		9 11
+def read line return test line strip 		6 7

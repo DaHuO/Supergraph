@@ -1,0 +1,5 @@
+def readinput return readvalue int readvalues int 		24 25
+def readvalues valuetype return list map valuetype stdin readline split 		11 12
+classmethod def answer cls answer print case #{}: {} format cls count answer cls count += 1 		18 21
+def readvalue valuetype return valuetype stdin readline 		7 8
+def solve n bff bff = x - 1 for x in bff for howmany in range n 0 - 1 for perm in perms range n howmany valid = true perm = perm + perm 0 for i in range howmany if not bff perm i == perm i + 1 and not bff perm i == perm i - 1 valid = false break if valid return howmany 		28 40

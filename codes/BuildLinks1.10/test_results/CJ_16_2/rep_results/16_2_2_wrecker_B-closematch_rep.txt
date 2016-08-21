@@ -1,0 +1,3 @@
+def 		21 22
+def 		4 6
+c_list j_list output_c c_list output_j j_list c_list j_list c_list j_list output_c output_j output_c output_j i in range len c if c i == ? ans_c append list 		8 34

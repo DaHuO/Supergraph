@@ -1,0 +1,8 @@
+clean clean_valid clean_valid return rows 		17 18
+def valid x 		5 9
+find_rows s rows = cols = s = sorted s key = lambda x tuple x for 		34 52
+clean possibles s ps n if len s == 0 return ps 		20 32
+geto get_miss get_miss = sorted s key = lambda x tuple x ps = possibles s len 		75 96
+def test small large n = 		54 61
+clean_valid l if 		11 15
+get_miss cols_first cols_first = set x 0 for 		64 72

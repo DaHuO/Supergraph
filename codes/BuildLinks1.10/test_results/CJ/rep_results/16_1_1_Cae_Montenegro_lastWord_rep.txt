@@ -1,0 +1,1 @@
+def solve problem lastword = 		3 10

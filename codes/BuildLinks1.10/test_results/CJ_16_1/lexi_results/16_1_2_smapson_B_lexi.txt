@@ -1,0 +1,1 @@
+def subtract a b if len a > len b return subtract b a a b = sorted a sorted b subtracted = while a a b = a pop b pop while b and a != b subtracted append b b = b pop return sorted subtracted + b 		1 11

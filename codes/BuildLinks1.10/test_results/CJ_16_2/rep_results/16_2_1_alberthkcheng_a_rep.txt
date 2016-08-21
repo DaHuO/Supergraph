@@ -1,0 +1,1 @@
+def get_phone_number s counts = 0 * 10 counts 0 = s count Z for i in xrange counts 0 for c in Z E R O s remove c counts 2 = s count W for i in xrange counts 2 for c in T W 		3 76

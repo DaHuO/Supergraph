@@ -1,0 +1,2 @@
+remove_word counter word 		13 17
+num_digits sentinel num_digits sentinel remove_word sentinel num_count_tups num_digits num_count_tups enumerate iter sys stdin readline 1 s = s strip 		20 50

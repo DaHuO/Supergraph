@@ -1,0 +1,3 @@
+def evrows rs global rows global n global solr rem = rows copy for row in rs rem remove row nomatch = 0 for c in range n col = for r in range n col append rs r c if col not in rem nomatch += 1 solr = col if nomatch == 1 return true 		5 29
+def rec rs remrs n if n == n return evrows rs for row in remrs fr = filt row remrs if rec rs + row fr n + 1 return true 		46 53
+def filt row remrows frs = for r in remrows good = true for i v in enumerate r if v <= row i good = false break if good frs append r return frs 		32 44

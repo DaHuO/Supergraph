@@ -1,0 +1,5 @@
+def intput return int input 		1 2
+def intsplit a = input split for i in range len a a i = int a i return a 		5 9
+def strtolist a list = for c in a list append c return list 		10 14
+def insplit return input split 		3 4
+def s a return str a 		15 16

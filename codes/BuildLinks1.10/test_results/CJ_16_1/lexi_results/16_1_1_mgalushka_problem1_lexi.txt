@@ -1,0 +1,1 @@
+def digits number r = for digit in str number r append digit return set r 		3 7

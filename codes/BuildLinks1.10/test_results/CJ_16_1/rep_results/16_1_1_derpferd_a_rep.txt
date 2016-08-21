@@ -1,0 +1,8 @@
+def 		16 17
+do_test get_combs = 		40 46
+fpin 		12 13
+do_test main line = raw_input 		49 53
+get_combs ncs ncs ncs s 0 		30 37
+fpout write 		19 21
+def 		27 28
+fpout 		23 25

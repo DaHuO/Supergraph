@@ -1,0 +1,1 @@
+def solve l if not priority return 		9 17

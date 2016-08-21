@@ -1,0 +1,2 @@
+def calc s d = defaultdict int hist = d for c in s d c += 1 result = 0 * hist Z d = subtract d ZERO hist Z 		11 37
+charlist charlist 		4 8

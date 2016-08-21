@@ -1,0 +1,1 @@
+def calculate_set_size x A_set = set B_set = set for a b in x A_set add a B_set add b return len A_set len B_set 		5 13

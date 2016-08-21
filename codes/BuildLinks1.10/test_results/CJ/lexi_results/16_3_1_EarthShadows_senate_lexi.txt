@@ -1,0 +1,1 @@
+def calc_remain d sum = 0 for k i in d items sum += i return sum 		7 11

@@ -1,0 +1,1 @@
+def solve lists n numbers = for list_ in lists 		7 33

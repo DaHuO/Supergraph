@@ -1,0 +1,6 @@
+todec y l = len y r 		34 41
+def match x y for 		26 32
+def tostr dx r r 		48 53
+calcdiff x1d todec 		43 46
+outputtestcase out_f x write 		23 24
+solvetestcase calcdiff c = tc 0 j = tc 1 r = len c inp = 0123456789 ca = itertools product inp repeat = r 		55 82

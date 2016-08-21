@@ -1,0 +1,29 @@
+Direct links:
+33 - 35 links:
+16_1_2_UberFarmer_b2	:	6 - 8
+16_1_3_UberFarmer_c	:	6 - 8
+
+29 - 31 links:
+16_1_2_Aurel_code	:	23 - 25
+16_1_1_Aurel_code	:	23 - 25
+
+26 - 28 links:
+16_1_2_Aurel_code	:	20 - 22
+16_1_1_Aurel_code	:	20 - 22
+
+
+With same rare tokens:
+29 - 31 links:
+16_1_2_Aurel_code	:	23 - 25
+16_1_1_Aurel_code	:	23 - 25
+16_1_2_Aurel_code	:	23 - 25
+16_1_1_Aurel_code	:	23 - 25
+16_1_2_Aurel_code	:	23 - 25
+16_1_1_Aurel_code	:	23 - 25
+
+26 - 28 links:
+16_1_2_Aurel_code	:	20 - 22
+16_1_1_Aurel_code	:	20 - 22
+16_1_2_Aurel_code	:	20 - 22
+16_1_1_Aurel_code	:	20 - 22
+

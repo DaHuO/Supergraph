@@ -1,0 +1,1 @@
+def to_num a a = str a result = set for i in a result add i return set result 		12 17

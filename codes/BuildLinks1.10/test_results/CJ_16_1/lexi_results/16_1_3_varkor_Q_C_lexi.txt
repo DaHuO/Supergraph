@@ -1,0 +1,2 @@
+def case x y output case # + str x + : + str y 		10 11
+def output string string = str string print string outputlines append string 		5 8

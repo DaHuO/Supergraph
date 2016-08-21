@@ -1,0 +1,1 @@
+def solve s = input curr = s 		3 12

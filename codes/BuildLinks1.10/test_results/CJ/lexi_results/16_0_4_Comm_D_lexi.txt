@@ -1,0 +1,2 @@
+def output i out with open d-small.out a as outfile outfile write case #{0}: {1}\n format i out 		4 6
+def solve i line sline = line split  k = int sline 0 c = int sline 1 s = int sline 2 if s == k out =  join str x + 1 for x in range s else out = impossible output i out 		8 18

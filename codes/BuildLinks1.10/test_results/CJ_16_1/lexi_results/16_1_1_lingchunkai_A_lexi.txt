@@ -1,0 +1,1 @@
+def solve s xx = s 0 for i in xrange 1 len s if s i >= xx 0 xx = s i + xx else xx = xx + s i return xx 		2 14

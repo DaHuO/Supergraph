@@ -1,0 +1,5 @@
+def minv x return int join 0 + x replace ? 0 		8 9
+def solve x y = map list sys stdin readline split l = len x c j = doit x y print %0*d %0*d % l c l j 		78 83
+def maxv x return int join 0 + x replace ? 9 		11 12
+def best a b d1 = abs a 0 - a 1 d2 = abs b 0 - b 1 if d1 != d2 return a if d1 < d2 else b if a 0 != b 0 return a if a 0 < b 0 else b return a if a 1 < b 1 else b 		14 21
+def doit x y l = len x if l == 0 return 0 0 x = 0 y = 0 if x 0 != ? x = int x 0 * 10 ** l - 1 if y 0 != ? y = int y 0 * 10 ** l - 1 if x 0 != ? and y 0 != ? if x 0 < y 0 return maxv x minv y elif x 0 > y 0 return minv x maxv y r = doit x 1 y 1 return x + r 0 y + r 1 c = 0 10 ** l if x 0 == ? and y 0 == ? x 0 = y 0 = 0 c = best c doit x y x 0 = y 0 = ? elif x 0 == ? x 0 = y 0 c = best c doit x y x 0 = ? elif y 0 == ? y 0 = x 0 c = best c doit x y y 0 = ? if x 0 == ? if y < 9 * 10 ** l - 1 c = best c y + 10 ** l - 1 + minv x 1 y + maxv y 1 if y > 0 c = best c y - 10 ** l - 1 + maxv x 1 y + minv y 1 if y 0 == ? if x < 9 * 10 ** l - 1 c = best c x + maxv x 1 x + 10 ** l - 1 + minv y 1 if x > 0 c = best c x + minv x 1 x - 10 ** l - 1 + maxv y 1 return c 		24 76

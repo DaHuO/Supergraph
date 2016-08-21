@@ -1,0 +1,3 @@
+def run self filename input_file = open filename r output_file = open outpur.txt w number_of_cases = int input_file readline for i in range 1 number_of_cases + 1 case = self read_case input_file solution = self solve case output_file write case # + str i + : + str solution + \n 		5 12
+abc abstractmethod def read_case self input_file pass 		14 16
+abc abstractmethod def solve self case pass 		18 20

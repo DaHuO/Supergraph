@@ -1,0 +1,4 @@
+remove_keyword tmp_char tmp_char 		22 25
+searchDigit remove_keyword digit result 		27 33
+result_set searchDigit text reset = text for 		35 52
+tmp_char tmp_char text keyword for in keyword if 		10 20

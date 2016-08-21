@@ -1,0 +1,4 @@
+def solve k n a global g global vis if k == n if check g a for i in a if a count i > g count i + map list zip * g count i return global result result = g return for i in xrange 2 * n - 1 if vis i == 1 continue g append a i vis i = 1 if check g a solve k + 1 n a g pop vis i = 0 		20 40
+def readint return int raw_input 		1 1
+def check g a for i in g for j in xrange 1 len i if i j <= i j - 1 return false for i in zip * g for j in xrange 1 len i if i j <= i j - 1 return false return true 		7 18
+def readlist return map int raw_input split  		2 2

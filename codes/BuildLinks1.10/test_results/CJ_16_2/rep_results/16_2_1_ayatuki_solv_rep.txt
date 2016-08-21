@@ -1,0 +1,4 @@
+ToMap S result 		33 37
+ToAlp NUM NUM 		15 18
+def minus S val for c 		6 13
+solv ToAlp npn solv npn npn == 0 		20 30

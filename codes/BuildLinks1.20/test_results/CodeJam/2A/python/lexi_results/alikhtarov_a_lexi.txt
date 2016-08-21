@@ -1,0 +1,2 @@
+def ss s if len s == 1 return s left = ss s len s / 2 right = ss s len s / 2 if left < right return left + right else return right + left 		25 33
+def f left i r opp = i - 1 + 3 % 3 if left i == 0 or left opp == 0 return none if r == 0 left i -= 1 left opp -= 1 return name i + name opp out = f left i r - 1 if out is none return none out2 = f left opp r - 1 if out2 is none return none return out + out2 		8 23

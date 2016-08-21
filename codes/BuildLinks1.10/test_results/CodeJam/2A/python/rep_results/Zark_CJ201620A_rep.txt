@@ -1,5 +1,5 @@
 def input self 		12 13
-caseIndex caseIndex IMPOSSIBLE\n stdout write 		59 64
-caseNum caseIndex caseNum exe 		5 10
+def output self caseIndex stdout 		59 64
+caseNum caseNum exe = 		5 10
 exe oper code code oper S self length = 1 << self N self result = for in 		15 31
 tmp1 tmp1 tmp1 order tmp = order while len tmp > 1 = for i in range len tmp >> 1 a = 		33 57

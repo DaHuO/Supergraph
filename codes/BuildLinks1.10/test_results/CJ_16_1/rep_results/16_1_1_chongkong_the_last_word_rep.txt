@@ -1,0 +1,2 @@
+def solve s ans = 		1 5
+def main t = 		8 11

@@ -1,0 +1,5 @@
+0684753219 nbs can_have english can_have nbs english nbs = raw_input from collections import Counter ctr = Counter 		41 58
+digstr2english english res 		17 21
+gen_str strs_l1 gen_str strs_l1 in strings return strings l 		5 15
+can_have english for 		47 50
+testcase_small digstr gen_str engstr digstr2english digstr engstr engstr digstr = join sorted S 		24 39

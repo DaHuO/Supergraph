@@ -1,0 +1,3 @@
+tenletters foo2 s a = 0 * 10 for 		28 34
+def main ifile = sys 		45 49
+def foo 		39 41

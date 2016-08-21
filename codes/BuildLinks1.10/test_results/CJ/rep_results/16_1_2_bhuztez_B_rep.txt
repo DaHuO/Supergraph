@@ -1,0 +1,6 @@
+def fill n lines_list grid = none for _ in xrange n for _ in 		24 39
+find_line n lines_list grid for i 		42 48
+pick_lines n lines m 		5 7
+izip match a b 		17 21
+sort_lines pick_lines lines 		11 14
+sort_lines find_line n = int raw_input lines = 		54 63

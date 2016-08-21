@@ -1,0 +1,4 @@
+def input self self letters = stdin readline 		12 13
+def output self caseindex stdout write case #%d: %s % caseindex join self result 		25 26
+def run self casenum = int stdin readline for caseindex in range casenum self input self exe self output caseindex + 1 		5 10
+def exe self self result = for c in self letters if len self result == 0 self result append c elif ord c < ord self result 0 self result append c else self result insert 0 c 		15 23

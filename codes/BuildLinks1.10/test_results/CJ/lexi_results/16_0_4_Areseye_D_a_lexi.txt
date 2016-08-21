@@ -1,0 +1,1 @@
+def solve k c s ret = 1 gap = k ** c - 1 cur = 1 for i in range 0 k - 1 cur += gap ret append cur return ret 		6 13

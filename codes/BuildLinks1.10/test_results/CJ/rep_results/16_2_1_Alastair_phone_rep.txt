@@ -1,0 +1,3 @@
+removeword wordcount wordcount wordcount 		9 13
+handlestring originalstring profile originalstring removeword removeword removeword removeword removeword removeword removeword removeword removeword removeword originalstring * prof seven s result 		16 32
+profile unordered unordered profiledict 		1 7

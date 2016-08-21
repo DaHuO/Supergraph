@@ -1,0 +1,5 @@
+in_ana digits_h digit_str for c 		5 14
+find_sub_d digits_l in_ana extract_ana d_to_n find_sub_d 		25 34
+get_h line h = 		37 45
+extract_ana h digit_str res = 		16 23
+d_i digits_l digits_l d_i in_ana h_n extract_ana h_n d_to_n 		48 74

@@ -1,0 +1,2 @@
+blank tc a = tc 		18 25
+blank main output = i = 1 with open sys 		5 16

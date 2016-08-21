@@ -1,0 +1,2 @@
+roundup k c if 		2 6
+roundup next k c s students = k c if s < students return impossible else if c > k c = 		8 26

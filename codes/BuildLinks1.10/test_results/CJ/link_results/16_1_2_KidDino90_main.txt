@@ -1,0 +1,76 @@
+
+With same rare tokens:
+93 - 97 links:
+16_3_1_dorkette_senate	:	27 - 30
+16_2_1_dorkette_digits	:	27 - 30
+
+15 - 82 links:
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_2_2_ruslanbes_b	:	5 - 9
+16_2_2_ruslanbes_b	:	5 - 9
+16_2_2_ruslanbes_b	:	5 - 9
+16_2_2_ruslanbes_b	:	5 - 9
+16_2_2_ruslanbes_b	:	5 - 9
+16_2_2_ruslanbes_b	:	5 - 9
+16_3_1_dorkette_senate	:	27 - 30
+16_2_1_dorkette_digits	:	27 - 30
+

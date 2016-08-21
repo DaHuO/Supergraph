@@ -1,0 +1,1 @@
+def find lists ml = for c in xrange 0 len lists 0 count = for r in xrange 0 len lists ch = lists r c if ch in count count ch = count ch + 1 else count ch = 1 for k v in count items if v % 2 == 1 ml append k ml2 = list ml for c in ml2 if ml count c % 2 == 0 while c in ml ml remove c else while ml count c > 1 ml remove c ml sort assert len ml == len lists 0 return ml 		14 47

@@ -1,0 +1,2 @@
+def try sequence n if bffi sequence 0 == sequence 1 best = 0 for l in range 2 len sequence + 1 test = sequence l if works test l best = l return best else return 0 		9 18
+def works sequence l i = 0 while i < l b1 = bffi sequence i - 1 if b1 != sequence i - 2 and b1 != sequence i return false i += 1 return true 		20 27

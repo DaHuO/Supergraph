@@ -1,0 +1,1 @@
+def a s retstr = for i letter in enumerate s if retstr == retstr append s i continue if s i >= retstr 0 retstr insert 0 s i else retstr append s i return join retstr 		1 13

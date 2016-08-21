@@ -1,0 +1,3 @@
+def calc st ret = for 		5 14
+		21 22
+def main import sys infile = read sys argv 1 outfilename 		17 31

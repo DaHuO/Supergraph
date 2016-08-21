@@ -1,0 +1,2 @@
+getmissinglist missingnumbers missingnumbers missingnumbers missingnumbers index = 0 while 		2 16
+rf.txt missinglist getmissinglist missinglist open b-large.in r outputfile = open w cases = int inputfile 		19 30

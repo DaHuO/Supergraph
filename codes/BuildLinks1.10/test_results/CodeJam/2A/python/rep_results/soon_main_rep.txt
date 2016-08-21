@@ -1,5 +1,5 @@
 def generate start rs ss ps n ans = 		18 31
-filter get_possible_starts n r p 		45 46
+get_possible_starts solve n r p 		45 46
 def expand s rs ss ps n ans = None if s == 		4 15
 def main t = int input for 		49 53
 get_possible_starts r p s ans 		34 42

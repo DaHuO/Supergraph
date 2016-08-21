@@ -1,0 +1,1 @@
+get_evacuation_plan line1 line2 line1 line1 line2 line2 party_cnt line1 line2 party_idx party_idx party_rest party_rest2 party_name2 party_name2 indexerror = sum parties heap = 		14 42

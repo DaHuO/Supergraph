@@ -1,0 +1,1 @@
+def solve s q = for s in s if q and s >= q 0 q = s + q else q = q + s return q 		1 9

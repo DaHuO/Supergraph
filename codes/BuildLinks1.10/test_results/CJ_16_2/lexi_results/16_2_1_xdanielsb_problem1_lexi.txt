@@ -1,0 +1,10 @@
+def replace7 cadena solucion append 7 cadena remove N cadena remove E cadena remove V cadena remove E cadena remove S 		56 62
+def replace8 cadena solucion append 8 cadena remove T cadena remove H cadena remove G cadena remove I cadena remove E 		63 69
+def replace4 cadena solucion append 4 cadena remove R cadena remove U cadena remove O cadena remove F 		39 44
+def replace1 cadena solucion append 1 cadena remove E cadena remove N cadena remove O 		22 26
+def replace3 cadena solucion append 3 cadena remove E cadena remove E cadena remove R cadena remove H cadena remove T 		32 38
+def replace0 cadena solucion append 0 cadena remove Z cadena remove E cadena remove R cadena remove O 		16 21
+def replace5 cadena solucion append 5 cadena remove E cadena remove V cadena remove I cadena remove F 		45 50
+def replace6 cadena solucion append 6 cadena remove X cadena remove I cadena remove S 		51 55
+def replace9 cadena solucion append 9 cadena remove N cadena remove I cadena remove N cadena remove E 		70 75
+def replace2 cadena solucion append 2 cadena remove O cadena remove W cadena remove T 		27 31

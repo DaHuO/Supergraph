@@ -1,0 +1,2 @@
+sleep n i = list map int n split wow = while true 		10 22
+def wow i s = sum i if s == 		1 7

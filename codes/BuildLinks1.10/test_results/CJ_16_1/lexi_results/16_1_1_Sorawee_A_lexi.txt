@@ -1,0 +1,1 @@
+def solve l if not priority return cur = priority - 1 1 while priority and priority - 1 1 >= cur priority pop ans append s cur solve cur ans append s cur + 1 l 		9 17

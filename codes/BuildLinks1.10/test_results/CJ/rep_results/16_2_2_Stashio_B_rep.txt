@@ -1,0 +1,5 @@
+getmultint 		21 22
+getmultfloat 		24 25
+terriblyslow aval bval astr minastr minbstr aval bval aval bval minastr astr minbstr aval bval aval bval aval aval bval minastr astr minbstr aval bval bval minastr astr minbstr terriblyslow aval bval astr terriblyslow aval bval astr terriblyslow aval bval astr terriblyslow aval bval astr = = = bstr 		32 76
+getmult 		18 19
+getline global 		12 16

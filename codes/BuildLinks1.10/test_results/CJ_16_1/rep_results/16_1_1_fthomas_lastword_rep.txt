@@ -1,0 +1,2 @@
+def lastword s word = s 		13 20
+lastword.out main with open a-large.in r as fin 		1 11

@@ -1,0 +1,3 @@
+def solve C J = input split best_c = - 1 best_j = - 1 best_diff 		16 27
+def digit 		3 4
+def match n mask for i in 		6 14

@@ -1,0 +1,7 @@
+numeraltonumber numeral numeral 		101 106
+smart0 div_rounding_up firstpartsize firstpartsize firstpartsize firstpartsize firstpartsize firstpartsize numeral numeraltonumber numeral 1 assert s >= 1 s = k c 		108 142
+gs gs generator c = g 		6 11
+div_rounding_up a 		98 99
+maxmax maxkcs maxmax maxkcs maxkcs maxkcs maxkcs answersmart0 smart0 answernaive0 naive0 k=%s c=%s s=%s 		144 154
+naive0 verboselevel verboselevel k=%s c=%s s=%s k_to_power_c verboselevel s=%s k_to_power_c verboselevel positions= positions_are_good_for_all_generators_so_far verboselevel generator= generated verboselevel generated= generated positions_are_good_for_this_generator generated verboselevel these are this positions_are_good_for_this_generator positions_are_good_for_this_generator verboselevel these are this positions_are_good_for_all_generators_so_far positions_are_good_for_all_generators_so_far verboselevel these are generators! for positions in itertools combinations range s if 		17 46
+answertostring answer if answer 		48 50

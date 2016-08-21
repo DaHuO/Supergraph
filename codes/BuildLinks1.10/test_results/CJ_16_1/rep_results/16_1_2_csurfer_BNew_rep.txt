@@ -1,0 +1,1 @@
+def solve n = int input freq = defaultdict lambda 		2 12

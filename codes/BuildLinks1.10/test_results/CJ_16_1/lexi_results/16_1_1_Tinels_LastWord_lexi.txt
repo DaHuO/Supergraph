@@ -1,0 +1,1 @@
+def getlastword word max = none result = none for letter in word if max == none max = ord letter result = letter continue if ord letter >= max max = ord letter result = %s%s % letter result else result = %s%s % result letter return result 		3 18

@@ -1,0 +1,3 @@
+def main tpl = case #{}: {} case_num 		26 35
+discard solve matrix d = missing = set for row in 		5 18
+def process n f 		20 24

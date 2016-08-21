@@ -1,0 +1,4 @@
+problem_specific_parser src 		5 6
+def solve data k c s = data elements = 		9 18
+linesep nproblems nproblems problem_specific_parser 		21 26
+def main src = 		29 32

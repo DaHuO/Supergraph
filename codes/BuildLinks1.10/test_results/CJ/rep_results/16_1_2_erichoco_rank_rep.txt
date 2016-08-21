@@ -1,0 +1,3 @@
+please provide [outputfile] failed failed cases: writing testcasenumber testcasenumber written file print usage: %s inputfile % sys argv 0 return timestart = datetime datetime now try inputfile = open sys argv 1 except print to read input file %s 		37 137
+		34 35
+solder solder solder n_list_list odd_solder = for n_list 		14 32

@@ -1,0 +1,3 @@
+replace_num letters_list cnt s letters 		7 11
+replace_num make_num infile = open A-large.in outfile = open A-large.out w T = int infile 		19 34
+make_num count res = 		13 17

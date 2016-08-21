@@ -1,0 +1,1 @@
+def lastword s ns = s 0 for c in s 1 ns = max c + ns ns + c return ns 		1 5

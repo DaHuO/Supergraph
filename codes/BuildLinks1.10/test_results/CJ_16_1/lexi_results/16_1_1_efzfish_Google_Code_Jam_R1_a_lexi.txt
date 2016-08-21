@@ -1,0 +1,1 @@
+def pro_a s n = s 0 lens = len s for i in range 1 lens if s i >= max n n = s i + n else n = n + s i return n 		14 23

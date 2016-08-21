@@ -1,0 +1,3 @@
+def max_info lst k = maxm = - 1 for i in range len lst if lst i == maxm k append i if lst i > maxm maxm = lst i k = i return k 		22 34
+def sum lst total = 0 for i in lst total += i return total 		36 43
+def senate_evac lst exits = while sum lst > 0 values = max_info lst if len values == 2 exits append chr values 0 + 65 + chr values 1 + 65 lst values 0 -= 1 lst values 1 -= 1 else exits append chr values 0 + 65 lst values 0 -= 1 return  join exits 		4 19

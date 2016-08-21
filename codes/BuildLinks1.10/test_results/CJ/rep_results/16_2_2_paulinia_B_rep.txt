@@ -1,0 +1,1 @@
+remc remj scorec scorej remc remj scorec scorej scorej scorec scorej remc scorec scorec remc remj scorec scorec scorej scorej scorej remc remj scorec scorej scorej range 0 10 if > 0 vys = 		3 31

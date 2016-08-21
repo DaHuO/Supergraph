@@ -1,0 +1,1 @@
+def search i ans global counter good if i == 10 return 		4 18

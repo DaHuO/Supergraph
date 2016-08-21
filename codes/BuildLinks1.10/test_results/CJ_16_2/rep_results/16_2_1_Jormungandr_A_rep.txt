@@ -1,0 +1,3 @@
+output_ a b i = 1 		16 27
+def test case if Z in case and E in case and R in case and O in case case remove Z case remove E case remove R case remove O number = 0 elif T in case and W in case and O in case case remove T case remove W case remove O number = 2 elif F in 		29 90
+input_1 a with 		3 14

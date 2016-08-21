@@ -1,0 +1,7 @@
+def brute lst ans = 0 for orig in product range 2 repeat = 		79 94
+V1 V2 V1first V1last V1 V2first V1 V2last V1 V2 		34 43
+V2first add_edge self 		45 48
+satur dfs self p self visited add p if self left p if 		53 68
+BP BipartiteMatching BP maxm BP maxm ws2 = set for w1 w2 in 		97 115
+V1first V1last 		50 51
+V2first V2last satur for v in xrange 		70 76

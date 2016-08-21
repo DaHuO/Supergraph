@@ -1,0 +1,6 @@
+def endaccess self self fin close self fout close 		49 51
+def writeline self line self fout write line + \n 		46 47
+def readlines self qt lines = for i in range qt line = self fin readline lines append line return lines 		38 44
+def readintlist self mn = self fin readline split mn = int x for x in mn return mn 		31 35
+def readint self return int self fin readline 		27 28
+def __init__ self nomein nomeout = nomein split . 0 + .out self fin = open nomein r self fout = open nomeout w 		21 24

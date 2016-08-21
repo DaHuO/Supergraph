@@ -1,0 +1,1 @@
+findNumber s number = while len s > 0 if Z in s number append 0 s remove Z s remove E s remove R s remove O elif W in s number append 2 s remove T s remove W s remove O 		1 66

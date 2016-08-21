@@ -1,0 +1,1 @@
+wordprob wordnum wordnum wordnum zero 1 one 2 two 3 three 4 four 5 five 6 six 7 seven 8 eight 9 nine t1 = 0 z 2 w 4 		1 29

@@ -1,0 +1,1 @@
+def returnwinner s s = s replace \n winner = str for c in s if len winner > 0 if c >= winner 0 winner = c + winner else winner = winner + c else winner = c return winner 		21 32

@@ -1,0 +1,1 @@
+def solve test result = test 		11 15

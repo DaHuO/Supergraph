@@ -1,0 +1,2 @@
+def mysum l res = 0 for i in l res += i 1 return res 		3 7
+def mymax l m = 0 for i in l m = max m i 1 return m 		9 13

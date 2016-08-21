@@ -1,0 +1,1 @@
+final_s final_s s count = 0 * 26 for character in s count ord character - 65 += 1 final = z = count 25 temp = 0 * z final extend temp w = count 22 temp = 2 * w final extend temp u = count 20 temp = 4 * u 		2 82

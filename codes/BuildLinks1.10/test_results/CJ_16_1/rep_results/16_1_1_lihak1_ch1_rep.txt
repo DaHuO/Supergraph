@@ -1,0 +1,1 @@
+cmp1 cmp1 s i = 1 final = 		2 16

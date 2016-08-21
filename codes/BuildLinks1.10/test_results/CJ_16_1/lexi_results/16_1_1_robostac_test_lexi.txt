@@ -1,0 +1,3 @@
+def test a b if b == return a elif b 0 >= a 0 return test b 1 + a b 1 return test a + b 1 b 1 		3 8
+def output_res caseno output f s = case #{}: {} format caseno output print s f write s + \n 		14 17
+def solve n return test n 1 n 1 		10 11

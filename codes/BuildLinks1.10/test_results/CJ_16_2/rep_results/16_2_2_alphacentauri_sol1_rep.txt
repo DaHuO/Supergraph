@@ -1,0 +1,3 @@
+getValue str1 str2 limit = 0 if len str1 == 1 limit = 10 elif len str1 == 2 limit = 100 else limit = 1000 allresults = if ? not 		30 63
+maxlen maxlen 00 if == 1 return str num 		3 17
+def match s1 s2 for 		19 28

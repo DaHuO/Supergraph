@@ -1,0 +1,2 @@
+def no_majority parties num_senators num_s = float num_senators for party in parties if parties party / float num_s > 1 / float 2 return party false return none true 		15 20
+def max_party parties max_p = str list parties keys 0 print max_p for party in parties print party print parties party if parties party > parties max_p print hello print {} > {} format parties party parties max_p max_p = party return max_p 		3 13

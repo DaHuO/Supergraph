@@ -1,0 +1,1 @@
+def lastword word result = first_letter = count = 0 		4 21

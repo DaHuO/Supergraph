@@ -1,0 +1,5 @@
+def occur l m ans = while m in l j = l index m if len ans == 0 ans append j else ans append j + 1 + ans - 1 l = l j + 1 return ans 		11 20
+def doublebonds k bonds = for j in range 0 len k if k k j == j and k j j not in bonds bonds append j k j return bonds 		4 9
+def applyfunc k l ans = k x for x in l return ans 		30 32
+def longestcycle k n = len k h = k for j in range 0 n h append applyfunc k h - 1 cycles = for j in range 0 n for i in range 0 n if h i j == j cycles append i + 1 break else cycles append 0 ans = max cycles return ans 		34 49
+def longestpath l x occ = occur l x if occ == return 0 else ans = max longestpath l y for y in occ + 1 return ans 		22 28

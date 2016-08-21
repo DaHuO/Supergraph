@@ -1,0 +1,243 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 52,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "def done(p):\n",
+    "    return all([c == '+' for c in p])\n",
+    "\n",
+    "d = {'+': '-', '-': '+'}\n",
+    "def flip(p):\n",
+    "    return ''.join([d[c] for c in p])\n",
+    "\n",
+    "def perms(p):\n",
+    "    return [flip(p[0]) + p[1:]] + [flip(p[0:2]) + p[2:]] + [flip(p[0:split])[::-1] + p[split:] for split in range(2, len(p)+1)]\n",
+    "        \n",
+    "def solve(p):\n",
+    "    if done(p):\n",
+    "        return 0\n",
+    "    \n",
+    "    if len(p) == 1:\n",
+    "        return 1\n",
+    "    \n",
+    "    acc = []\n",
+    "    seen = set()\n",
+    "    ps = perms(p)\n",
+    "    n = 1\n",
+    "    \n",
+    "    while True:\n",
+    "        if any([done(p) for p in ps]):\n",
+    "            return n\n",
+    "\n",
+    "        acc = acc + [(n + 1, p) for p in ps if p not in seen]\n",
+    "        seen.update(ps)\n",
+    "        \n",
+    "        n, x = acc.pop(0)\n",
+    "        ps = perms(x)\n",
+    "        \n",
+    "def parse():\n",
+    "    with open('Downloads/B-small-attempt0.in') as f:\n",
+    "        for i, l in enumerate(f.readlines()[1:]):\n",
+    "            print \"Case {}: {}\".format(i+1, solve(l.strip()))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 53,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Case 1: 1\n",
+      "Case 2: 1\n",
+      "Case 3: 2\n",
+      "Case 4: 0\n",
+      "Case 5: 3\n",
+      "Case 6: 6\n",
+      "Case 7: 9\n",
+      "Case 8: 10\n",
+      "Case 9: 0\n",
+      "Case 10: 2\n",
+      "Case 11: 3\n",
+      "Case 12: 7\n",
+      "Case 13: 4\n",
+      "Case 14: 2\n",
+      "Case 15: 5\n",
+      "Case 16: 8\n",
+      "Case 17: 3\n",
+      "Case 18: 3\n",
+      "Case 19: 5\n",
+      "Case 20: 0\n",
+      "Case 21: 4\n",
+      "Case 22: 2\n",
+      "Case 23: 1\n",
+      "Case 24: 1\n",
+      "Case 25: 6\n",
+      "Case 26: 5\n",
+      "Case 27: 4\n",
+      "Case 28: 4\n",
+      "Case 29: 2\n",
+      "Case 30: 1\n",
+      "Case 31: 5\n",
+      "Case 32: 6\n",
+      "Case 33: 3\n",
+      "Case 34: 6\n",
+      "Case 35: 4\n",
+      "Case 36: 2\n",
+      "Case 37: 8\n",
+      "Case 38: 0\n",
+      "Case 39: 3\n",
+      "Case 40: 6\n",
+      "Case 41: 4\n",
+      "Case 42: 5\n",
+      "Case 43: 4\n",
+      "Case 44: 1\n",
+      "Case 45: 6\n",
+      "Case 46: 4\n",
+      "Case 47: 4\n",
+      "Case 48: 2\n",
+      "Case 49: 6\n",
+      "Case 50: 4\n",
+      "Case 51: 2\n",
+      "Case 52: 3\n",
+      "Case 53: 2\n",
+      "Case 54: 3\n",
+      "Case 55: 2\n",
+      "Case 56: 6\n",
+      "Case 57: 3\n",
+      "Case 58: 1\n",
+      "Case 59: 9\n",
+      "Case 60: 4\n",
+      "Case 61: 6\n",
+      "Case 62: 1\n",
+      "Case 63: 7\n",
+      "Case 64: 3\n",
+      "Case 65: 7\n",
+      "Case 66: 3\n",
+      "Case 67: 5\n",
+      "Case 68: 5\n",
+      "Case 69: 6\n",
+      "Case 70: 7\n",
+      "Case 71: 1\n",
+      "Case 72: 5\n",
+      "Case 73: 0\n",
+      "Case 74: 2\n",
+      "Case 75: 1\n",
+      "Case 76: 2\n",
+      "Case 77: 6\n",
+      "Case 78: 7\n",
+      "Case 79: 3\n",
+      "Case 80: 7\n",
+      "Case 81: 7\n",
+      "Case 82: 3\n",
+      "Case 83: 6\n",
+      "Case 84: 5\n",
+      "Case 85: 8\n",
+      "Case 86: 1\n",
+      "Case 87: 4\n",
+      "Case 88: 1\n",
+      "Case 89: 3\n",
+      "Case 90: 3\n",
+      "Case 91: 4\n",
+      "Case 92: 4\n",
+      "Case 93: 2\n",
+      "Case 94: 4\n",
+      "Case 95: 5\n",
+      "Case 96: 3\n",
+      "Case 97: 5\n",
+      "Case 98: 1\n",
+      "Case 99: 6\n",
+      "Case 100: 3\n"
+     ]
+    }
+   ],
+   "source": [
+    "#split = 4\n",
+    "#p = \"+-++\"\n",
+    "#flip(p[0:split])[::-1]\n",
+    "\n",
+    "#print solve(\"-+\")\n",
+    "\n",
+    "parse()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 39,
+   "metadata": {
+    "collapsed": false,
+    "scrolled": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[(2, '--+'), (2, '-++'), (2, '+-+'), (2, '-+-')]\n",
+      "[(2, '--'), (2, '-+'), (2, '+-')]\n",
+      "[(2, '+-+-'), (2, '+++-'), (2, '+++-'), (2, '-++-'), (2, '+-++')]\n",
+      "[(2, '+++-'), (2, '+++-'), (2, '-++-'), (2, '+-++'), (3, '--+-'), (3, '-+--')]\n",
+      "[(2, '+++-'), (2, '-++-'), (2, '+-++'), (3, '--+-'), (3, '-+--'), (3, '----'), (3, '+---')]\n",
+      "[(2, '-++-'), (2, '+-++'), (3, '--+-'), (3, '-+--'), (3, '----'), (3, '+---')]\n",
+      "[(2, '+-++'), (3, '--+-'), (3, '-+--'), (3, '----'), (3, '+---'), (3, '+--+')]\n",
+      "[(3, '--+-'), (3, '-+--'), (3, '----'), (3, '+---'), (3, '+--+'), (3, '--++'), (3, '-+++'), (3, '-+-+')]\n",
+      "[(3, '-+--'), (3, '----'), (3, '+---'), (3, '+--+'), (3, '--++'), (3, '-+++'), (3, '-+-+')]\n",
+      "[(3, '----'), (3, '+---'), (3, '+--+'), (3, '--++'), (3, '-+++'), (3, '-+-+'), (4, '++--'), (4, '++-+')]\n"
+     ]
+    }
+   ],
+   "source": [
+    "\n",
+    "assert solve(\"+++\") == 0\n",
+    "assert solve(\"+\") == 0\n",
+    "assert solve(\"-\") == 1\n",
+    "assert solve(\"+-+\") == 2\n",
+    "\n",
+    "assert solve(\"-\") == 1\n",
+    "assert solve(\"-+\") == 1\n",
+    "assert solve(\"+-\") == 2\n",
+    "assert solve(\"+++\") == 0\n",
+    "assert solve(\"--+-\") == 3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 2",
+   "language": "python",
+   "name": "python2"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.11"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}

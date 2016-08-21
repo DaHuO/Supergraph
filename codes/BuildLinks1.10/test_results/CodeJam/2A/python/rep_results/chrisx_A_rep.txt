@@ -2,7 +2,7 @@ solu Solu solu output_file with open input_file as f T = int f 		5 16
 dists get_dist dists dists R P S 		105 111
 01 02 popu N 		82 90
 def trans d if 		19 25
-firsts seconds firsts seconds summ summ summ summ return True if not perm raise ValueError 		37 58
+firsts seconds firsts seconds len perm == 1 return True if not perm raise ValueError 		37 58
 get_dist N ret = for final in range 3 counts = 0 0 0 		60 77
 small_solve all_perm all_perm P S = 		29 34
 popu nsol first_dig second_dig first_sol first_dig second_sol second_dig nsol first_sol second_sol second_sol first_sol nsol 		92 102

@@ -1,0 +1,2 @@
+indq indk indk h1 indk h1 		1 8
+def solve n ars grouped_ars = lost_index = - 1 for i in range n key = lambda x x 		11 36

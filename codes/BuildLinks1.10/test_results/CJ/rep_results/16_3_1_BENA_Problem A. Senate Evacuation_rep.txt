@@ -1,0 +1,6 @@
+a-large (2).in inputfile = outfile = inputfile + .out inpf = open inputfile r 		49 69
+getsenator 		12 13
+findmax maxidx maxidx maxidx 0 = 		2 10
+sum2 n total = 		15 20
+thissenator maxidx1 findmax maxidx1 maxidx1 thissenator getsenator maxidx1 sum2 thissenator maxidx2 		23 45
+main2 		71 73

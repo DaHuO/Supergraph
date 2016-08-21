@@ -1,0 +1,1 @@
+resolve 1.0 total l k = 0 while total > 0 arr sort key = lambda y y 0 reverse = true if total == 1 print arr k 1 total -= 1 elif total - 2.0 == 0 arr k 0 		1 43

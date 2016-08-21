@@ -1,0 +1,2 @@
+def solve n p result = counts = p chr ord a + i for i p 		6 28
+def check counts counts 		31 33

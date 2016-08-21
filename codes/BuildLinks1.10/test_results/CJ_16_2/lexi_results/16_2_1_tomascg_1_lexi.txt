@@ -1,0 +1,2 @@
+def dicHasLetters dic letters has = True other = for letter in letters if letter in other other letter += 1 else other letter = 1 for letter in other keys if letter in dic if dic letter < other letter return False else return False return True 		40 56
+def solve numb letters = numbers = for letter in numb if letter in letters letters letter += 1 else letters letter = 1 for cap in numbs more = True letters while dicHasLetters letters cap for letter in cap letters letter -= 1 numbers append dec cap numbers sort s = for n in numbers s += str n return s 		8 34

@@ -1,0 +1,6 @@
+getInput path 		9 13
+get_occurance_count find_char 		93 94
+print_ouput getInput no_cases no_cases = int 		16 23
+process_one_occurance_case one_occurance_list one_occurance_list loop each_char each_char in number = 		82 90
+process_one_occurance_case remaining_numbers remaining_numbers remaining_numbers process_one_occurance_case process_9_case for x in input_string upper final_numbers = curr_string = copy deepcopy input_string count_occurance_map = 9 E 4 I O N 3 R T 2 F H S V 1 G U W X Z one_occurance_map = 		26 69
+process_9_case count_n count_n loop count_n each_char each_char x 		72 79

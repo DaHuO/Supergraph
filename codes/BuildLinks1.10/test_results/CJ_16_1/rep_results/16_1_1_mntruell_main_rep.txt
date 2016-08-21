@@ -1,0 +1,2 @@
+linespercase linespercase filename lines = open filename 		1 5
+def output filename strings file = open filename w 		8 12

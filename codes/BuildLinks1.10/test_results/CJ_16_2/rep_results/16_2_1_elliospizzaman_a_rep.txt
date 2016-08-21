@@ -1,0 +1,5 @@
+input_handle 		13 15
+casecount casecount jam = int jam read_string for casenum in xrange number_string = jam read_string digits = 0 for i in range 10 digits 0 = 		24 45
+def 		16 18
+output_handle write_case self 		19 22
+input_handle output_handle input_handle 		9 12

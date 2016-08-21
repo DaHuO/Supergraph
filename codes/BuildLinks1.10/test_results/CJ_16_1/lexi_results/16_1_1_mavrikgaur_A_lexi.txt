@@ -1,0 +1,1 @@
+def solve string answer = string 0 for i in string 1 if i >= answer 0 answer = i + answer else answer += i return answer 		1 8

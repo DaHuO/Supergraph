@@ -1,0 +1,2 @@
+def gen_last_word w c if not len w return c if w 0 <= c return c + w else return w + c 		21 30
+def lastword s lw = for c in s ns = gen_last_word lw c lw = ns return lw 		13 18

@@ -1,0 +1,5 @@
+validscores regexp regexp re compile pattern replace 		15 20
+numdigits numdigits numdigits numdigits = len c best = 10 ** none none def rec i sc sj if i == best 0 = min best 0 abs sc - sj sc sj else pc = c i pj = j i if pc == ? and pj == ? if sc < sj rec i + 1 sc * 10 + 9 sj * 10 elif sc > sj rec i 		22 75
+def parse inp c 		10 13
+numdigits rec i sc sj if i == best 0 = min best 0 abs sc - sj sc sj else pc = c i pj = j i if pc == ? and pj == ? if sc < sj rec i + 1 sc * 10 + 9 sj * 10 elif sc > sj rec i + 1 sc * 10 sj 		25 67
+setrecursionlimit recursion_limit soft hard getrlimit rlimit_as setrlimit rlimit_as mem_limit_gb 1024 hard file_name_base num_processes runners apply signal sigint sig_ign signal num_processes signal sigint sig_ign runners apply_async casefmt progressfmt [%s/%s] %%s\n 		77 105

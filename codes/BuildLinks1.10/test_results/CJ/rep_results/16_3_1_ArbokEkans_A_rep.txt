@@ -1,0 +1,1 @@
+def solve n = int input p = tot = 0 inp = int x for x in input split for j in range n p append inp j chr ord 		1 35

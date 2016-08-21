@@ -1,0 +1,1 @@
+getoddsvalordered countnums countval countnums countval in 		7 14

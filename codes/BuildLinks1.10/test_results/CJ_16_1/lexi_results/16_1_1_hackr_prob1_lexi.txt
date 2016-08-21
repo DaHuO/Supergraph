@@ -1,0 +1,1 @@
+def last_word s d = deque for c in s if len d == 0 d append c elif c >= d 0 d appendleft c else d append c return join d 		3 14

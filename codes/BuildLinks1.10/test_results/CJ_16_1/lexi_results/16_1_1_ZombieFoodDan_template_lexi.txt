@@ -1,0 +1,1 @@
+def main t = int raw_input case = 0 for i in xrange 1 t + 1 case += 1 out = for s in raw_input if out if s >= out 0 out insert 0 s else out append s else out append s print case #%s: %s % case join out 		3 20

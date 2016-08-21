@@ -1,0 +1,2 @@
+getwinword winword winword winword winword winword 		1 8
+getwinword main fin fout numcases = 		10 14

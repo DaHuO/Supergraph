@@ -1,0 +1,1 @@
+def solve s t = for c in s if c + t > t + c t = c + t else t = t + c return t 		1 8

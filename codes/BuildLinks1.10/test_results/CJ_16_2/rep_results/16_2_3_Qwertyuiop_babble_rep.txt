@@ -1,0 +1,3 @@
+upFirst upSecond upFirst upSecond = set i 0 		8 14
+def solve N m = 0 for 		17 27
+def powerset iterable xs 		3 6

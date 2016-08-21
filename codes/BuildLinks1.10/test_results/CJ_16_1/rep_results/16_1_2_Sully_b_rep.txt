@@ -1,0 +1,1 @@
+dummy solve n fulllist = missinglist = n = 2 * int 		16 31

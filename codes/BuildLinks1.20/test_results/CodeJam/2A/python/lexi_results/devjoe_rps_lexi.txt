@@ -1,0 +1,1 @@
+def getplayers x if type x == stringtype return x res = for y in x res += getplayers y return res 		5 11

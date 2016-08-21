@@ -1,1 +1,1 @@
-bogosort all while not 		3 7
+bogosort seq while not 		3 7

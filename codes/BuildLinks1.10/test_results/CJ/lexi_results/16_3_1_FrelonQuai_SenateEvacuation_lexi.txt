@@ -1,0 +1,2 @@
+def situationinstable restant for key group in groupby restant if 2 * len list group > len restant return true return false 		25 29
+def obtenirlettreapopper restant lettresdistinctes = set restant lettreapopper = nbapparitions = 0 for lettre in lettresdistinctes lemax = len x for x in restant if x == lettre if lemax > nbapparitions nbapparitions = lemax lettreapopper = lettre return lettreapopper 		31 40

@@ -1,0 +1,2 @@
+def lastword s lastword = 		3 10
+dataset.txt main infile = open r outfile = open output.txt 		13 24

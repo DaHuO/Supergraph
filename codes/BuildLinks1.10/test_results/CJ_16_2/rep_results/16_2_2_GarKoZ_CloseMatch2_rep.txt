@@ -1,0 +1,3 @@
+genlist genlist genlist = result = strnum while True if len 		88 105
+??? ??? closeScore genlist1 genlist1 genlist2 genlist2 or str2 == return str1 str2 else minDiff = None ans1 = None ans2 = None = gen str1 for str1pos 		55 86
+closeScore b1gt2 b1lt2 b1gt2 b1lt2 b1gt2 b1lt2 b1gt2 b1lt2 result2 = for i in range len strscr1 if or if if strscr1 i == ? and strscr2 i == ? result1 += 0 result2 += 9 elif strscr1 i == 		3 53

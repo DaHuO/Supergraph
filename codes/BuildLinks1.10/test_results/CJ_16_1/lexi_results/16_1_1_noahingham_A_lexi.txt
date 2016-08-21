@@ -1,0 +1,2 @@
+def solve str r = for s in str r = first s r return r 		3 7
+def first letter string if string == return letter first = string 0 if ord letter >= ord first return letter + string return string + letter 		9 15

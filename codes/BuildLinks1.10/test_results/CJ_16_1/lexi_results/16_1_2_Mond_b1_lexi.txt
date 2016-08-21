@@ -1,0 +1,2 @@
+def checkgridrule fronts backs l = len fronts for i in xrange l s1 = fronts i s2 = backs i if s1 >= s2 return false return true 		6 16
+def analyzegrid g cnt = defaultdict int hset = set for l in g for h in l cnt h += 1 hset add h return hset cnt 		19 27

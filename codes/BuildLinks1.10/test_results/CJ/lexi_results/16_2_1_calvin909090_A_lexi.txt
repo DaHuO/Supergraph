@@ -1,0 +1,1 @@
+def solve s c = counter s a = np zeros len mapping for k v in c items a mapping k = v r = np linalg lstsq d a if r 1 > 1 raise res = np rint r 0 s = for i j in enumerate res s append str i * j return join s 		28 41

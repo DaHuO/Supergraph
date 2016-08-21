@@ -1,0 +1,1 @@
+new_dic new_dic new_dic new_dic ans level global get if get return if level > 9 return if cnt 		5 27

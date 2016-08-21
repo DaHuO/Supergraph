@@ -1,4 +1,4 @@
-out \n 		4 7
+\n out 		4 7
 listify listy_list 		22 26
-nums digit nums bucket digit digit bucket 		9 14
+nums digit nums digit digit listify i 		9 14
 LSD_sort ceil buckets = sort 		16 20

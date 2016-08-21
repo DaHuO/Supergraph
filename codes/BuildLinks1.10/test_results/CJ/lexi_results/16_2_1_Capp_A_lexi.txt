@@ -1,0 +1,1 @@
+def solve s ret = none * 10 ret 0 = s count z ret 1 = s count n ret 2 = s count w ret 3 = s count h ret 4 = s count u ret 5 = s count f ret 6 = s count x ret 7 = s count s ret 8 = s count g ret 9 = s count i ret 3 -= ret 8 ret 5 -= ret 4 ret 7 -= ret 6 ret 9 -= ret 5 + ret 6 + ret 8 ret 1 -= ret 7 + ret 9 * 2 rets = for i in range 10 rets += str i * ret i return rets 		5 26

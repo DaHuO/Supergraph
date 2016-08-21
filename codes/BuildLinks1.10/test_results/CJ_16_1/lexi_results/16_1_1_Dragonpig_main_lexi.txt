@@ -1,0 +1,1 @@
+def solve input_str chars = list input_str result = collections deque for ch in chars if len result == 0 result append ch elif ch >= result 0 result appendleft ch else result append ch return join result 		3 14

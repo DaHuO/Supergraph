@@ -1,0 +1,46 @@
+
+With same rare tokens:
+42 - 47 links:
+test_sortable	:	26 - 47
+
+19 - 26 links:
+radix_sort	:	7 - 33
+pysort	:	31 - 44
+sort_quick	:	16 - 19
+pysort	:	162 - 183
+
+29 - 39 links:
+Arraysort	:	69 - 88
+bucketsort	:	5 - 19
+
+50 - 74 links:
+sort_word_by_other_word	:	8 - 18
+stoogesort	:	15 - 22
+quicksort_solved	:	81 - 115
+sort	:	93 - 104
+quicksort_inplace	:	21 - 25
+radix_sort	:	7 - 33
+pysort	:	31 - 44
+sorts	:	170 - 194
+graphsort	:	49 - 60
+pysort	:	46 - 59
+pysort	:	61 - 77
+pysort	:	79 - 98
+pysort	:	122 - 134
+pysort	:	136 - 152
+sorts	:	81 - 95
+pysort	:	226 - 242
+pysort	:	162 - 183
+pysort	:	208 - 224
+pysort	:	185 - 206
+pysort	:	244 - 264
+sorts	:	46 - 65
+pysort	:	379 - 394
+pysort	:	396 - 406
+heapsort	:	31 - 41
+test_sortable	:	26 - 47
+bogosort	:	3 - 7
+sorting	:	14 - 16
+sort_bogo	:	9 - 12
+graphsort	:	78 - 85
+

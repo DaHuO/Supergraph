@@ -1,0 +1,9 @@
+property 		54 55
+read_elements lines 		44 46
+frac 		60 61
+fichier fichier read_elements 		49 52
+property 		56 57
+cmp_f 0.00000001 y epsilon = if - epsilon 		21 36
+resalgo s l = s 0 		3 9
+property 		58 59
+algo 		11 13

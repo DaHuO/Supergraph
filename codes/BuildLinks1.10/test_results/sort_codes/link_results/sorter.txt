@@ -1,3 +1,5 @@
+
+With same rare tokens:
 90 - 100 links:
 heap_sort	:	25 - 40
 

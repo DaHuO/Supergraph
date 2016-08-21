@@ -1,0 +1,2 @@
+def evacplantostring evacplan ret = for evac in evacplan for senator in evac ret += chr senator + 65 ret +=  return ret 		19 25
+def getevacuationplan senatelist evacplan = while sum senatelist > 0 maxindex = senatelist index max senatelist evac = maxindex senatelist maxindex -= 1 if max senatelist > sum senatelist / 2.0 maxindex = senatelist index max senatelist evac += maxindex senatelist maxindex -= 1 evacplan += evac return evacplan 		5 16

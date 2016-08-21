@@ -1,0 +1,11 @@
+property 		81 82
+cmp_f 0.00000001 y epsilon = if - epsilon 		44 59
+def 		4 5
+property 		83 84
+fichier fichier read_elements 		72 75
+property 		77 78
+		12 13
+peek q 		7 10
+algo priorityqueue las peek las qsize las = res = for i in range n x = inp int 		15 36
+property 		79 80
+read_elements lines 		67 69

@@ -1,0 +1,2 @@
+def handle s if not s return pivot = find_greatest_char s return s pivot + handle s 0 pivot + s pivot + 1 		10 14
+def find_greatest_char s chars = c for c in s chars sort max_char = chars - 1 return s rfind max_char 		4 8

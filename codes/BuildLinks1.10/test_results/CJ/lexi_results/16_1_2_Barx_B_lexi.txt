@@ -1,0 +1,2 @@
+def main source dest with open source r as fd open dest w as fo t = int fd readline for i in xrange 1 t + 1 n = int fd readline p = for _ in xrange 2 * n - 1 p append int x for x in fd readline rstrip split  result = solve p print case # + str i + : + result fo write case # + str i + : + result + \n 		14 25
+def solve p s = for p in p for i in p if not i in s s i = 0 s i += 1 missing = k for k v in s iteritems if v % 2 == 1 missing sort return  join str m for m in missing 		1 12

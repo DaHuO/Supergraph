@@ -1,0 +1,2 @@
+def 		5 6
+def solve n rows counts = 		8 12

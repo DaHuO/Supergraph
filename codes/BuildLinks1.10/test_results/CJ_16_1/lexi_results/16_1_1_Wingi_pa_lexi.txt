@@ -1,0 +1,1 @@
+def solution s r = for c in s if len r > 0 and c >= r 0 r insert 0 c else r append c return join r 		4 11

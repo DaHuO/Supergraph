@@ -1,0 +1,1 @@
+bvj bvj bvj bvj j res_c res_j if i == len c global best_c best_j if best_c == best_c = res_c best_j = res_j else vc vj = int res_c int res_j bvc = int best_c int best_j if abs vc - vj < abs bvc - best_c = res_c best_j = res_j elif abs vc - vj == abs bvc - if vc < bvc best_c = res_c best_j = res_j elif vc == bvc and vj < best_c = res_c best_j = res_j return 		8 97

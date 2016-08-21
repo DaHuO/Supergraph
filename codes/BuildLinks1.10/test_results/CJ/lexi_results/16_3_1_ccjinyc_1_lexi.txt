@@ -1,0 +1,1 @@
+def check nn ss = sum nn for xx in nn if xx > ss / 2 print xx nn return false return true 		113 119

@@ -1,0 +1,20 @@
+
+With same rare tokens:
+22 - 25 links:
+lidaobing_1	:	65 - 75
+nakahara_a	:	4 - 13
+robostac_test	:	61 - 74
+robostac_test	:	7 - 47
+
+27 - 73 links:
+lidaobing_1	:	65 - 75
+nakahara_a	:	4 - 13
+robostac_test	:	61 - 74
+robostac_test	:	7 - 47
+
+35 - 45 links:
+lidaobing_1	:	65 - 75
+nakahara_a	:	4 - 13
+robostac_test	:	61 - 74
+robostac_test	:	7 - 47
+

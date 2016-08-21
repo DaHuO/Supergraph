@@ -1,0 +1,6 @@
+B-input.in B-output.out with open as fin with open 		89 95
+def insert a 		85 86
+def recur a b who_win a_idx = 20 if ? in a a_idx = a index ? b_idx = 20 if ? in b b_idx = b index ? data = if a_idx == b_idx == 20 return diff a b a b if min a_idx b_idx == 0 who_win = 0 elif int a min a_idx b_idx > int b min a_idx b_idx who_win = 1 elif int a min a_idx b_idx < int b min a_idx b_idx 		11 73
+result_a result_b result_a 		1 4
+def compare a b 		76 82
+def diff 		7 8

@@ -1,0 +1,1 @@
+def solveit s maxletter = word = index = 0 slen = len s while index < slen print m: + maxletter + s[index]: + s index + word: + word if s index >= maxletter maxletter = s index word = maxletter + word else word = word + s index index += 1 print word is + word return word 		6 21

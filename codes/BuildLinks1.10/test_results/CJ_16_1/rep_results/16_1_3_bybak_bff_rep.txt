@@ -1,0 +1,2 @@
+resultlast resultfirst resultlast resultfirst bffs for i in range 1 n - 1 if p 		20 28
+def max_circle n bffs for i in 		30 37

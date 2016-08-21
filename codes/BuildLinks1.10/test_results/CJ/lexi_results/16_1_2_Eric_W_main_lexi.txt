@@ -1,0 +1,1 @@
+def solve n lists c = counter for l in lists c update l needed = set for height count in c items if count % 2 != 0 needed add height needed = sorted needed assert len needed == n return  join str n for n in needed 		4 19

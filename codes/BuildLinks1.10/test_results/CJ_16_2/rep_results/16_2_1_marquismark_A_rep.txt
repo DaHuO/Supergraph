@@ -1,0 +1,1 @@
+def solve S totals = ctr = defaultdict int for c in S ctr c += 1 totals 0 = ctr Z totals 6 = ctr 		20 54

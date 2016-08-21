@@ -1,0 +1,1 @@
+take take take a ret = m = sum a while m > 0 m = 		4 22

@@ -1,0 +1,9 @@
+case_id case_id num_cases = int 		72 77
+def 		38 40
+def ans 		26 28
+digi DIGIWORDS text_left text_left text_left new_found new_found digi State 		42 56
+def __init__ self 		18 21
+searchq State searched searchq cost heapq heappop searchq 		58 70
+__str__ n={0} 		23 24
+def 		34 36
+def 		30 32

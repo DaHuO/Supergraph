@@ -1,0 +1,3 @@
+compatible sn nd = len sn res 		22 28
+10e100 cc2 cc_ compatible cc_ jj_ compatible jj_ jj1 jj1 jj1 jj1 0 nd = len c for in 		31 53
+def isValid c1 c2 for 		16 20

@@ -1,0 +1,2 @@
+to_digits main f = open sys argv 		44 50
+to_digits distinct_even_chrs distinct_odd_chrs = for chr val in iteritems while chr in text ans append val for 		22 41

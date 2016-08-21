@@ -1,0 +1,2 @@
+def solve slists return sorted solos itertools chain from_iterable slists 		17 18
+def solos iterable counter = collections counter iterable res = for key value in counter items if value % 2 == 1 res append key return res 		8 14

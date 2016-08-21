@@ -1,0 +1,2 @@
+dbg x 		21 22
+magic solve inp char_counts = defaultdict int digit_counts = defaultdict int for c 		24 38

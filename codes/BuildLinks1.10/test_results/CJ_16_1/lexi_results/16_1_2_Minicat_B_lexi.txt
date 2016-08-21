@@ -1,0 +1,1 @@
+def solve n lists cat = for l in lists for i h in enumerate l if h not in cat cat h = defaultdict int cat h i += 1 meow = for height mapping in cat iteritems total = 0 for index count in mapping iteritems total += count if total % 2 == 1 meow append height return  join str x for x in sorted meow 		3 20

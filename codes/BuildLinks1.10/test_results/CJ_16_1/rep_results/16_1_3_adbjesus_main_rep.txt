@@ -1,0 +1,2 @@
+bestie bestie bestie n l c global max if len c > max valid = true for i in range len c if l c i - 1 != c i - 1 		3 31
+def solve global max max = 		33 39

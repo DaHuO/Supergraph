@@ -1,0 +1,1 @@
+def solve S d = counter = Counter for c in S counter c += 1 d 0 = counter Z counter Z -= d 0 counter E -= d 0 counter R -= d 0 counter O -= d 0 d 2 = counter W counter T -= d 2 counter W -= d 2 counter O 		6 79

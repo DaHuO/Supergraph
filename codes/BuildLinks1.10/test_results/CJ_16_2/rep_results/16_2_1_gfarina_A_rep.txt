@@ -1,0 +1,1 @@
+def solve s = raw_input howmany = 0 * 10 howmany 0 = s count Z howmany 2 = s count W howmany 		1 20

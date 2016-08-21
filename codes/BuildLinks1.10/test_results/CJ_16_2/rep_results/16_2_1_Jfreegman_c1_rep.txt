@@ -1,0 +1,1 @@
+def main T lines = open T read split \n N = int lines 0 for i in xrange 1 N + 1 s = dict l 		5 29

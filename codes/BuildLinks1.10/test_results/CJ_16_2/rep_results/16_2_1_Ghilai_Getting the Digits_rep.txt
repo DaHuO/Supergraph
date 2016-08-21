@@ -1,0 +1,4 @@
+output_solution #{index}: {solution}\n lines = with 		18 23
+get_str_without_letter NOT_FOUND_DIGIT digit original = S 		25 35
+def read_file path with open path rb as 		8 16
+solve_test_case new_S get_str_without_letter new_S NOT_FOUND_DIGIT bad_digit bad_digit bad_digit new_S current_number = LETTERS letter_index 		39 63

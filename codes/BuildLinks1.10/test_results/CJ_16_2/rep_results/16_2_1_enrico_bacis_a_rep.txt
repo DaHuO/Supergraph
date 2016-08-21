@@ -1,0 +1,5 @@
+printcase case 		9 10
+def repeat 		12 13
+single 		3 4
+number_from number_from acc if not letters return 		19 24
+def 		6 7

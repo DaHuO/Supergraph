@@ -1,0 +1,2 @@
+findNumber maxN maxN maxN nDict numsDictList hasAll nDict nDict hasAll len nums while i < 		33 52
+numS numS findNumber fuck args 0 charCounts = totalChars = 0 for c in string 		8 31

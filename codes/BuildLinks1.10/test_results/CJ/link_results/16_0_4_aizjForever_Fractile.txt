@@ -1,0 +1,17 @@
+Direct links:
+1 - 3 links:
+16_1_1_aizjForever_1	:	9 - 11
+
+5 - 7 links:
+16_1_1_aizjForever_1	:	13 - 15
+
+
+With same rare tokens:
+5 - 7 links:
+16_3_1_GradyS_codejam_1	:	11 - 14
+16_1_1_aizjForever_1	:	13 - 15
+16_1_1_aizjForever_1	:	13 - 15
+16_1_1_aizjForever_1	:	13 - 15
+16_1_1_aizjForever_1	:	13 - 15
+16_1_1_aizjForever_1	:	13 - 15
+

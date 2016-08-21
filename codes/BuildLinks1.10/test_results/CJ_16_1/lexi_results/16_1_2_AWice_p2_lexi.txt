@@ -1,0 +1,1 @@
+def solve n a count = counter for i in a count += counter i ans = for i in sorted count if count i % 2 ans append i return  join map str ans 		4 13

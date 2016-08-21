@@ -1,0 +1,1 @@
+def abc s result = 		1 8

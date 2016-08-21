@@ -1,0 +1,3 @@
+def dfs_i g i p import copy c = copy copy g p2 = copy copy p if len p > 0 if len p > 1 and g i == p 0 return 1 elif len p == 1 and g i == p 0 or len p > 1 and g i == p - 1 c pop i p2 append i return 1 + dfs c p2 elif len p > 1 and g i in p 1 - 1 return 0 p2 append i c pop i i = g i c = 1 while true if len p2 > 1 and g i == p2 0 return c + 1 elif len p2 == 1 and g i == p2 0 or len p2 > 1 and g i == p2 - 1 c pop i p2 append i return c + 1 + dfs c p2 elif len p2 > 1 and g i in p2 1 - 1 return 0 else p2 append i c pop i i = g i c += 1 		8 45
+def dfs g p n = len g loop = 0 for i in g iterkeys loop = max loop dfs_i g i p return loop 		1 6
+def sol n f g = for i in xrange len f g i + 1 = f i return dfs g 		48 52

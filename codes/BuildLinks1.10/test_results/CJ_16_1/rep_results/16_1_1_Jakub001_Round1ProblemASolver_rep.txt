@@ -1,0 +1,2 @@
+def solve self tests = int input for test in 		6 17
+		19 20

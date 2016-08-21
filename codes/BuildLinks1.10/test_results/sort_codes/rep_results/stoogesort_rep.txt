@@ -1,2 +1,2 @@
-sort_me Before %s\n sort_me sort_me 		15 22
+Before %s\n After %s\n random 		15 22
 def stoogesort seq i length if seq length < seq i a 		3 12

@@ -1,0 +1,1 @@
+def sorter word words = word 0 for letter in word 1 aft = x + letter for x in words bef = letter + x for x in words words = bef + aft words = join x for x in words return sorted words - 1 		1 8

@@ -1,0 +1,3 @@
+getpairs out = 0 for i 		30 35
+def depth u bad out 		22 28
+def dfs u n v 		12 19

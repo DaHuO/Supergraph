@@ -1,0 +1,7 @@
+def msg 		32 33
+make_seq_fmt sep item_fmt 		11 12
+def solve letters result = 		60 67
+def __init__ self file_name = none verbose = true formatter = 		21 30
+def write_case self output pfx_char =  pfx 		49 57
+make_fmt formatter 		7 8
+def read_line self * types words 		35 46

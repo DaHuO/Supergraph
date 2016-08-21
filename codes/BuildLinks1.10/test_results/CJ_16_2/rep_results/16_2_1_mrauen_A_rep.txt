@@ -1,0 +1,4 @@
+hashDict hashes hashes hashes hashes 		17 24
+getIdentifyingCharacter baseCounts for 		26 30
+characterDict hashDict valuesDetermined frequencies valuesDetermined getIdentifyingCharacter :( frequencies frequencies valuesDetermined frequencies THREE FOUR FIVE SIX SEVEN EIGHT NINE baseCounts = values = 0 		32 59
+characterDict string characters = 		9 15

@@ -1,0 +1,1 @@
+def main with open a-large.in as in_file with open a-large.out w as fout cases = int in_file readline for x in range cases line = in_file readline replace \n win = deque line 0 word = line 1 for c in word if c >= win 0 win appendleft c else win append c fout write case #{0}: {1}\n format x + 1 join list win 		5 20

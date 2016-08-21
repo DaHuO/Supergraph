@@ -1,0 +1,4 @@
+printstr var printstr 		7 12
+dosolve parsetestcase solver log = false with open filename as infile 		15 28
+n1d n2d n1d n1d n2d n2d n1s n1d n2s n2d n1s n1s n2s n2s n1s n2s n1str n2str n1str n2str x in num2 if x == ? append 0123456789 else append x = map 		40 91
+parsetestcase file prob 		35 38

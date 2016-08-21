@@ -1,0 +1,1 @@
+takeamap s t = for k 		3 13

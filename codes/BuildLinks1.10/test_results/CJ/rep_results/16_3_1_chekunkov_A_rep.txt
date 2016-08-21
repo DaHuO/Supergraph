@@ -1,0 +1,5 @@
+setup_logging basicconfig [%(levelname)s]: %(message)s argv > 		10 15
+def main t = int 		44 49
+add_to_heap add_to_heap p l = - x chr ord a + i for i x in 		27 41
+def 		18 19
+add_to_heap prio 		21 24

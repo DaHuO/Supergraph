@@ -1,0 +1,1 @@
+def insertion_sort unsorted_list num = len unsorted_list for i in xrange num - 1 current = unsorted_list i + 1 position = i + 1 while position > 0 and unsorted_list position - 1 > current unsorted_list position = unsorted_list position - 1 position = position - 1 unsorted_list position = current 		4 13

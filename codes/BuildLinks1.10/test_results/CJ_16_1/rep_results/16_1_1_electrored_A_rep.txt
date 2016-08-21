@@ -1,0 +1,1 @@
+dq solve s ls = list s 1 ans = 		7 18

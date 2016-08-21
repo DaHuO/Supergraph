@@ -1,0 +1,5 @@
+def readlist return int x for x in sys stdin readline strip split  		4 5
+def pick k c s i_list j = 0 p = 1 for i in i_list j += i * p p *= k max = k ** c return j + 1 if j < max else none 		59 68
+def readint return int sys stdin readline 		7 8
+def expand seq orig_seq new = for ch in seq if ch == g new += g * len orig_seq else new += orig_seq return new 		10 17
+def experiment k c s c += 2 print for i in range k orig_seq = l * k orig_seq = orig_seq i + g + orig_seq i + 1 seq = orig_seq for j in range c - 1 seq = expand seq orig_seq print seq s0 = seq print c k for i in range k seq = for j in range k ** c if c == 2 and i == j / k or i == j % k seq += g elif c == 3 and i == j / k / k or i == j / k % k or i == j % k seq += g elif c == 4 and i == j / k / k / k or i == j / k / k % k or i == j / k % k or i == j % k seq += g else seq += l print seq s1 = seq print s1 == s0 		22 54

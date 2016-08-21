@@ -1,0 +1,2 @@
+def maxs abc m 		6 10
+def test s x = a def maxs abc m = 0 		2 19

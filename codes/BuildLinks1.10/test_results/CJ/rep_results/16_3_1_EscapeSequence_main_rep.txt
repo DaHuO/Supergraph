@@ -1,0 +1,1 @@
+def solve n count eject = total = sum count while total > 0 biggest = max count indices = i for i x in enumerate count if x 		1 29

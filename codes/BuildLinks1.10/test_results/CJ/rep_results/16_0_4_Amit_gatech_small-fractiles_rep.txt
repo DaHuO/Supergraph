@@ -1,0 +1,2 @@
+get_tile_list main t = int sys stdin readline 		3 9
+get_tile_list k c s if 		12 19

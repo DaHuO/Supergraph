@@ -1,0 +1,2 @@
+---Start Test--- 2? ??3 ?0 023 00 ---End Test--- 0 		37 61
+ques_count maxsize min_left ques_count ques_count left_str right_str min_left left_str right_str right_str min_left left_str right_str min_left for i in itertools product 0 1 2 3 4 		7 33

@@ -1,0 +1,1 @@
+def gen l if ? not in l n = join map str l ls append n return iq = l index ? for i in xrange 10 ll = l ll iq = i gen ll 		8 17

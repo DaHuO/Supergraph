@@ -1,0 +1,1 @@
+def solve cipher cipher = list cipher collection = while Z in cipher cipher remove Z cipher remove E cipher remove R cipher remove O collection = collection + 0 while G in cipher cipher remove E cipher remove I cipher remove G cipher 		9 85

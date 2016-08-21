@@ -1,0 +1,2 @@
+_raw_input _raw_input t = 		55 61
+solve_problem problem_row problem_row combination problem_row letters_to_remove combination letters_to_remove combination found = True iterator_letters = list while found for c in digit if c 		18 52

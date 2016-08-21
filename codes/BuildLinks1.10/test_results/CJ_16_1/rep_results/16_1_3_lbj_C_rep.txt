@@ -1,0 +1,1 @@
+def search start origin cnt visited cur = last = start while cur 		3 16

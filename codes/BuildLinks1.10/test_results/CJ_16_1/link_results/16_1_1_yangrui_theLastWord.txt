@@ -1,0 +1,21 @@
+Direct links:
+4 - 11 links:
+16_1_1_Serkesh_lastWord	:	8 - 15
+16_1_1_vss1987_solution1	:	1 - 10
+16_1_1_Leo_T_word	:	15 - 23
+16_1_1_luca_wehrstedt_A	:	3 - 11
+16_1_1_phg1024_A	:	1 - 9
+16_1_1_p2david_thelastword	:	4 - 13
+16_1_1_aizjForever_1	:	1 - 8
+16_1_1_numa_A	:	1 - 10
+16_1_1_ollyajoke_TheLastWord	:	1 - 8
+16_1_1_kazuyoshi_hayase_A	:	1 - 8
+16_1_1_helca_A	:	1 - 8
+16_1_1_wanly233_problem1	:	4 - 11
+16_1_1_EmmanuelGoh_codejam1a1	:	8 - 19
+16_1_1_lostrainbow_Asmall	:	9 - 19
+16_1_1_MathProgrammer_word	:	3 - 10
+16_1_1_mck_A	:	3 - 11
+16_1_1_israela_q1	:	3 - 10
+16_1_1_EnseiTankado_thelastword	:	1 - 9
+

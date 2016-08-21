@@ -1,0 +1,1 @@
+def raw_input f = open sys argv 1 return f readline rstrip 		3 3

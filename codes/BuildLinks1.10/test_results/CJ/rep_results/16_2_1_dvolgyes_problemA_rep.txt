@@ -1,0 +1,1 @@
+def solve s numbers = dict numbers 0 = s count z numbers 2 = s count w numbers 4 = s 		18 35

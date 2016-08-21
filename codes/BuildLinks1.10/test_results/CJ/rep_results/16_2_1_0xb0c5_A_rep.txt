@@ -1,0 +1,1 @@
+n_str n_str s s = list s 		22 31

@@ -1,0 +1,1 @@
+random_search max_time max_time S start = time out = 0 while time - start < 		5 23

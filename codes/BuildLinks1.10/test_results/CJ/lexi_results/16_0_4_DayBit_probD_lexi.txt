@@ -1,0 +1,1 @@
+def solve p k c s = p if s < k return impossible return  join str x for x in range 1 s + 1 		16 19

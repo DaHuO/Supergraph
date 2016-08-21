@@ -1,0 +1,2 @@
+def ok a b for i 		10 16
+def convert a n 		4 8

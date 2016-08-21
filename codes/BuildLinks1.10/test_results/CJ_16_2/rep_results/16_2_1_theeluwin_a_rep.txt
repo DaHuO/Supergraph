@@ -1,0 +1,2 @@
+def drop 		5 7
+def solve s candidates = counter = C s while counter Z candidates append 0 component = C ZERO drop counter component while counter W candidates append 2 component = 		9 54

@@ -1,0 +1,8 @@
+		32 33
+def wrapped * 		14 17
+def process self infile ncase templates = infile readline split left right = templates candidates = left_prefix = right_prefix = for l r in zip * templates if l == r if l != ? left_prefix += l right_prefix += r else candidates append left_prefix + 0 + left len left_prefix + 1 replace ? 9 right_prefix + 1 + right len right_prefix + 1 replace ? 0 candidates 		54 120
+		29 30
+#{nc} #{nc}: {data}\n infile outfile cases = 		38 44
+def memoized func mem 		11 18
+def 		35 36
+		50 52

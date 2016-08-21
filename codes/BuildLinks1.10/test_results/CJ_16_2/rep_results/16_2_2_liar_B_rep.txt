@@ -1,0 +1,4 @@
+def solve problem t1 t2 = problem templates = list zip t1 t2 templates reverse ns1 ns2 = ps1 ps2 = zs1 zs2 = def abs_diff scores s1 s2 = scores return abs int s1 - int s2 for d1 d2 in templates c1 c2 = 		3 47
+def parse_problems import fileinput fin 		49 56
+basicConfig INFO %(message)s Starting... Solved #%d Finished %.2f format = t0 		58 68
+def abs_diff 		11 13

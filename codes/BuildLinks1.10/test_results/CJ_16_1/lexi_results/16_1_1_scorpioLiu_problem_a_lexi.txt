@@ -1,0 +1,1 @@
+def solution w if len w < 2 return w res = w 0 for s in w 1 t1 = s + res t2 = res + s if t1 > t2 res = t1 else res = t2 return res 		9 20

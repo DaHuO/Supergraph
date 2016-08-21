@@ -1,0 +1,2 @@
+def contains w l temp = for c in w if c in l and w count c <= l count c temp append c if sorted w == sorted temp return True return False 		11 18
+def findUnique a b d l phone while l count a != 0 for c in list b l remove c phone append d 		20 24

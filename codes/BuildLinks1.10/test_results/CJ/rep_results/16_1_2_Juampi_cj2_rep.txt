@@ -1,0 +1,3 @@
+read_data num_test_cases num_test_cases num_test_cases filename as f = int next f 		18 30
+def __init__ 		2 4
+def solve self missing = for height in range 		5 16

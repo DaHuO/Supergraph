@@ -1,0 +1,1 @@
+def equal a b if len a != len b return False for i in range len a if a i != ? and a i != b i return False return True 		7 12

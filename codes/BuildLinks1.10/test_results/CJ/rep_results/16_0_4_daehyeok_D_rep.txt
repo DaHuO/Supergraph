@@ -1,0 +1,6 @@
+getlidxs base2 lset base2 lset 		10 17
+def 		93 94
+getnextlidxs initlset lset initlset 		19 25
+def main t = int input for i in range 		78 90
+ldict lastnum lastnum mutation! lset getmutatedlidxs ldict lset anserlist finallength mutation countlist finallength countdict finallength ldict countlist countdict ldict anserlist countlist minlength countlist minidx countlist minlength anserlist 		38 76
+getmutatedlidxs initlset getlidxs lset initlset lset getnextlidxs 		27 35

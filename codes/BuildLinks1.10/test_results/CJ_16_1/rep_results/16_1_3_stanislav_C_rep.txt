@@ -1,0 +1,1 @@
+max_paths max_paths max_paths n = int raw_input bffs = 0 + map int raw_input split max_loop = 0 for start in range 1 n + 1 visited = false * n + 1 k = start loop = 0 while not visited 		3 50

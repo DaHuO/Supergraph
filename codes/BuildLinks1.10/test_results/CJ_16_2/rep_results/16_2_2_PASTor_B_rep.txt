@@ -1,0 +1,1 @@
+def solve i smallerA resa resb if i == len a return abs int join resa - int join resb resa resb if smallerA is None if a i != ? and b i != ? resa append a i resb append b i if a i != b i smallerA = a i < b i return solve i + 1 smallerA resa resb 		14 83

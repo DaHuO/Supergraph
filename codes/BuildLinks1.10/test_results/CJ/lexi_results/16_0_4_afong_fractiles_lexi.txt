@@ -1,0 +1,1 @@
+def complify seq levels complified = seq for _ in range levels - 1 temp = for char in complified len seq if char == l temp += seq else temp += g for _ in seq complified = temp return complified 		3 13

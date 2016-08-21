@@ -1,0 +1,2 @@
+def __init__ self x self val = x self next = none 		2 4
+def lastword inputfile outputfile fr = open inputfile r t = int fr readline print t fw = open outputfile w for i in range t s = fr readline slen = len s head = listnode s 0 end = head for j in range 1 slen node = listnode s j if node val >= head val node next = head head = node else end next = node end = node node = head result = while node != none result = result + node val node = node next rs = case # + str i + 1 + : + result fw write rs fw close fr close return 		5 32

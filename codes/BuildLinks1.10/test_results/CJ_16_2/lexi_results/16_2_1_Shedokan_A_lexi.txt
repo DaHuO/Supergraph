@@ -1,0 +1,7 @@
+def read_floats return map float lines pop 0 split  		32 32
+def read_line return lines pop 0 		27 27
+def read_parts return lines pop 0 split  		28 28
+def get_digits S digits = for ds in digit_s while all l in S for l in ds digits append digit_map ds for l in ds S = S replace l 1 assert not S return sorted digits 		50 59
+def read_ints return map int lines pop 0 split  		30 30
+def read_float return int lines pop 0 		31 31
+def read_int return int lines pop 0 		29 29

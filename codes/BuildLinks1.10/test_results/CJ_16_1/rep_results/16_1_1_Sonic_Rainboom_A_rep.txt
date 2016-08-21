@@ -1,0 +1,1 @@
+def find_word string answer = for 		7 16

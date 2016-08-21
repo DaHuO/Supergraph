@@ -1,0 +1,1 @@
+def main t = int raw_input for caseidx in xrange 1 t + 1 s = raw_input if len s <= 1 lastword = s else lastword = s 0 for i in xrange 1 len s if s i >= lastword 0 lastword = s i + lastword else lastword = lastword + s i print case #{}: {} format caseidx lastword 		1 16

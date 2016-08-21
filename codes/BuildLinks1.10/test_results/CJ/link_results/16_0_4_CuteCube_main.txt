@@ -1,0 +1,16 @@
+
+With same rare tokens:
+4 - 19 links:
+16_3_1_CuteCube_main	:	5 - 40
+16_3_1_CuteCube_main	:	5 - 40
+16_1_1_CuteCube_main	:	3 - 22
+16_1_1_CuteCube_main	:	3 - 22
+16_1_2_CuteCube_main	:	5 - 42
+16_1_2_CuteCube_main	:	5 - 42
+16_3_1_CuteCube_main	:	5 - 40
+16_3_1_CuteCube_main	:	5 - 40
+16_1_1_CuteCube_main	:	3 - 22
+16_1_1_CuteCube_main	:	3 - 22
+16_1_2_CuteCube_main	:	5 - 42
+16_1_2_CuteCube_main	:	5 - 42
+

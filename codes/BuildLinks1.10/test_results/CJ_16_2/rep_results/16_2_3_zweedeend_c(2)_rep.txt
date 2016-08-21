@@ -1,0 +1,4 @@
+maybes maybes maybes myreals maybes myreals myreals Counter zip * table reals = set = set for item in 		27 57
+solve_1 table firsts 		12 14
+(1,2,3) powerset iterable s 		19 22
+solve_wrong table fakes = 0 firsts seconds = 		67 75

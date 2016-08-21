@@ -1,0 +1,2 @@
+Sar Sar Fnum 		18 24
+delNums Sar 		14 16

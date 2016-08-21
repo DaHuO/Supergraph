@@ -1,0 +1,4 @@
+def solveHelper chars digits curDigits = digits if isEmpty chars return curDigits for index in range len DIGITS d = DIGITS index if containsDigit chars d for x in d chars x = chars x - 1 curDigits append index sol = solveHelper chars curDigits if sol is None for x in d chars x = chars x + 1 curDigits = digits else return sol return None 		13 30
+def containsDigit chars d digitsChars = for c in d if digitsChars has_key c digitsChars c = digitsChars c + 1 else digitsChars c = 1 for x in digitsChars if not chars has_key x or chars x < digitsChars x return False return True 		38 48
+def solve input chars = for c in input if chars has_key c chars c = chars c + 1 else chars c = 1 digits = solveHelper chars return join str x for x in digits 		3 11
+def isEmpty chars for c in chars if chars c > 0 return False return True 		32 36

@@ -1,0 +1,2 @@
+def find_num S flag = 1 for word in list_num global answer if len S == 0 return answer oldS = S flag = 1 for tchar in word if tchar in S S = S replace tchar 1 else S = oldS flag = 0 break if flag answer append str dict_num word if len S == 0 global req req = copy deepcopy answer return True else if find_num S return True S += word answer remove str dict_num word 		16 46
+def insertChar mystring position chartoinsert longi = len mystring mystring = mystring position + chartoinsert + mystring position return mystring 		6 9

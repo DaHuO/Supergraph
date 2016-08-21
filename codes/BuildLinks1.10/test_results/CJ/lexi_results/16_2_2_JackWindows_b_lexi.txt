@@ -1,0 +1,1 @@
+def compare a b c a = a b = b for i in xrange len a if c if a i == ? a i = 0 if b i == ? b i = 9 else if a i == ? a i = 9 if b i == ? b i = 0 x = int join a y = int join b return abs x - y join a +  + join b 		9 25

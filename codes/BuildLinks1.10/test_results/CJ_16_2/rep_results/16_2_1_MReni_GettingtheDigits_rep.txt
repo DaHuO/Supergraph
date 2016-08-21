@@ -1,0 +1,5 @@
+work2 old_letterset checkfinished old_letterset old_letterset hasdigit takeoutdigit work2 start 		24 36
+work2 work line 		38 44
+checkfinished letterset for i 		18 22
+takeoutdigit letterset 		14 16
+hasdigit letterset digit 		8 12

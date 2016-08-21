@@ -1,12 +1,5 @@
+
+With same rare tokens:
 30 - 33 links:
 tpablo_main-large	:	169 - 178
-
-45 - 53 links:
-farin_a	:	79 - 88
-
-36 - 43 links:
-pse1202_test	:	8 - 9
-
-8 - 28 links:
-phire_1	:	33 - 37
 

@@ -1,0 +1,1 @@
+backup_points all_in chk chk chk all_in all_in lcm lcm backup_points backing to: lcm backup_points nid nid nid togo infile as inf with open outfile w as outf test_case = 1 case_count = int inf readline while test_case 		4 64

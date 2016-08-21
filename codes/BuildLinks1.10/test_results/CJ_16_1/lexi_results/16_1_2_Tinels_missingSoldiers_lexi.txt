@@ -1,0 +1,1 @@
+def getmissingprivates alignlist inputlist = sorted alignlist firstrow scndrow thrdrow = occdict = missingalign = for input in inputlist for soldier in input if soldier not in occdict occdict soldier = 1 else occdict soldier += 1 for key val in occdict iteritems if val % 2 != 0 missingalign append key missingalign = sorted missingalign return str x for x in missingalign 		1 16

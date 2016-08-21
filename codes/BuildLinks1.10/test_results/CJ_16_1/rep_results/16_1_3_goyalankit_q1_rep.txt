@@ -1,0 +1,2 @@
+def getlist num temp if len temp num == 		11 23
+getstudents pair temp l1 		26 30

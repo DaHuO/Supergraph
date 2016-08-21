@@ -1,0 +1,1 @@
+ZERONTWHFUIVSXG resStr resStr resStr = for ch in charDict ch = 0 for ch in ss charDict ch += 1 digitList = 0 for i in range 10 if charDict X != 0 t = charDict X charDict S -= t charDict I -= t digitList 6 += t if charDict G != 0 t = charDict G 		2 74

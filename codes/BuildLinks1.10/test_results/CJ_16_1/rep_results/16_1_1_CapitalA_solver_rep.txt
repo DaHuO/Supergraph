@@ -1,0 +1,1 @@
+%s%s%s last_word string for char in chr i for 		3 11

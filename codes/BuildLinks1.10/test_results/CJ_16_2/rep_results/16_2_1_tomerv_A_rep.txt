@@ -1,0 +1,2 @@
+def helper res d 		5 10
+def solve s d = defaultdict int for c in s d c += 		12 27

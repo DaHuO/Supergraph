@@ -1,0 +1,1 @@
+def get_arr k c s if s < k return impossible result_arr = for i in range k result_arr append i + 1 for i in range 1 c for j in range k result_arr j = result_arr j - 1 * k + j + 1 return  join map str result_arr 		28 37

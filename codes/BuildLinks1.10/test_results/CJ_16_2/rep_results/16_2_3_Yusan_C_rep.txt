@@ -1,0 +1,2 @@
+is_fake original0 original1 original0 original1 original0 original1 in range len x if 		8 22
+is_fake answer N topic stack = max_fake = 0 while 		25 37

@@ -1,0 +1,2 @@
+def main lines = l strip for l in fileinput 		17 29
+def find_answer s result = 		5 15

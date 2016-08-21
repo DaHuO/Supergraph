@@ -1,0 +1,1 @@
+solve_riddle input stri = input res = 		6 15

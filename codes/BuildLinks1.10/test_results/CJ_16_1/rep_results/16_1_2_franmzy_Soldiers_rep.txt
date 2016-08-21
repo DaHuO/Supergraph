@@ -1,0 +1,5 @@
+insertrow rowins rowins for j in 		18 24
+deletecol rowins colins i 		41 45
+backtracking insertrow backtracking deleterow insertcol backtracking deletecol 2 - 		48 69
+insertcol colins colins for i in range n 		26 33
+deleterow colins rowins j 		35 39

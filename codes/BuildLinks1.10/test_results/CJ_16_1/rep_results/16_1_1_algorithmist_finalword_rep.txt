@@ -1,0 +1,2 @@
+getfinalwordfrom s finalword = s 0 		1 8
+fwoutput.txt getfinalwordfrom inputfile = open a-large.in r outputfile = 		10 17

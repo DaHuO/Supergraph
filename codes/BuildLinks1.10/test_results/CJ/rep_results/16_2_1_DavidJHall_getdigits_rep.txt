@@ -1,0 +1,2 @@
+loopy loopy temptry temptry temptry removeword temptry loopy removeword = true while = 		20 50
+removeword wordtoremove wordtoremove 		12 17

@@ -1,0 +1,2 @@
+def last_word s last_word = 		3 10
+last_word_in test_case_num test_case_num raw_input 		12 15

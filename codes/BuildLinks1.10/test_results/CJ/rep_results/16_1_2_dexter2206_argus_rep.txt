@@ -1,0 +1,2 @@
+get_missing_list #{case}: {result} = int input for case in range t n 		23 33
+get_missing_list went terribly wrong. for l in lists for val in 		3 21

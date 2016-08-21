@@ -1,0 +1,1 @@
+back back back front = cipher 0 		5 16

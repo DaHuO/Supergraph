@@ -1,0 +1,1 @@
+ERROR: solve s res = defaultdict int count = defaultdict int for i in s count i += 1 if Z in count res 0 = count Z count E -= count Z count R -= count Z count O -= count Z count Z = 0 if W in count res 2 = count W count T -= count W count O -= count 		10 86

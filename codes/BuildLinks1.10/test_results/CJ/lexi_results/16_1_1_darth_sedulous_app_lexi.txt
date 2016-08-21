@@ -1,0 +1,1 @@
+def main t = int sys stdin readline strip for t in range t s = sys stdin readline strip answer = s 0 s = s 1 for s in s if s >= answer 0 answer = s + answer else answer = answer + s print case #{}: {} format t + 1 answer return 0 		4 27

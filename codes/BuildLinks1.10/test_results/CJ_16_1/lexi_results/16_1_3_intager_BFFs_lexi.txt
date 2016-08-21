@@ -1,0 +1,4 @@
+def check p opt = 1 l = len p i = 1 while i < l - 1 mid = p i if bff mid != p i - 1 and bff mid != p i + 1 break i += 1 for j in range 1 i + 1 if bff p 0 == p 1 or bff p 0 == p j if bff p j == p 0 or bff p j == p j - 1 opt = max opt j return opt 		57 72
+def solve level prev1 prev2 global best free circle if bff prev2 == first if level > best best = level if bff prev2 == prev1 best = max best level for k in inc if free k if bff k == prev2 free k = false circle level = k solve level + 1 prev2 k free k = true else k = bff prev2 if free k free k = false circle level = k solve level + 1 prev2 k free k = true 		82 125
+def log msg print msg output write msg + \n 		8 10
+def answer kids global bff first best n best = 1 n = len kids for i k in enumerate kids print i + 1 k bff i + 1 = k for p in permutations range 1 n + 1 loc = check p if loc > best print p check p best = loc return best + 1 		129 161

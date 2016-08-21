@@ -1,0 +1,4 @@
+def find_loc l k loc = 0 for c l in enumerate l loc += int k ** c * l return loc 		19 23
+def part l size r = 1 if len l % size else 0 par = len l // size + r par_l = l k * size k + 1 * size for k in range par par_l - 1 = par_l - 1 * size size return par_l 		11 17
+def farcitiles k c s if s < k / c return tiles = list range 0 k parts = part tiles c locs = find_loc l k for l in parts assert max locs < k ** c out of bounds return locs 		1 9
+def main t = int input for t in range 1 t + 1 k c s = int x for x in input split  res = farcitiles k c s printable_res = impossible if not res else  join str x + 1 for x in res print case #%d: %s % t printable_res 		25 31

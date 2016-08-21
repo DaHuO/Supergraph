@@ -1,0 +1,1 @@
+def solve s s = c for c in s d = for c in s if c not in d d c = 0 d c += 1 ans = i = 0 while any d c > 0 for c in d keys digit = digits inds i dd = for c in digit if c not in dd dd c = 0 dd c += 1 if all c in d keys for c in dd keys and all dd c <= d c for c in dd keys ans append inds i for c in dd keys d c -= dd c else i += 1 return join str c for c in sorted ans 		7 31

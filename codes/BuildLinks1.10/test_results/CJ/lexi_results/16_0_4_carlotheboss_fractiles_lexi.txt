@@ -1,0 +1,1 @@
+def vai num liv c k if liv == c - 1 return num return pot c - 1 - liv * num - 1 + vai num liv + 1 c k 		3 5

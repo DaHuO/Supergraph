@@ -1,0 +1,3 @@
+def update senators senators 		15 22
+all_three_ones senators if senators 0 0 == 		4 12
+make_plan all_three_ones while len senators > 0 if len senators != 		25 38

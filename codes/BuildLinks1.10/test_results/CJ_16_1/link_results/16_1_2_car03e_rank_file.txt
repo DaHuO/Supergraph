@@ -1,0 +1,14 @@
+Direct links:
+5 - 10 links:
+16_1_1_car03e_last_word	:	4 - 9
+
+
+With same rare tokens:
+5 - 10 links:
+16_1_1_car03e_last_word	:	4 - 9
+16_1_1_Duy_the-last-word	:	26 - 35
+16_1_1_car03e_last_word	:	4 - 9
+16_1_1_Duy_the-last-word	:	26 - 35
+16_1_1_car03e_last_word	:	4 - 9
+16_1_1_Duy_the-last-word	:	26 - 35
+

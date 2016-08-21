@@ -1,0 +1,2 @@
+data_iterator shell_pipe_flag data_file_name xreadlines if not with open r as f_handle line_iter = f_handle case_no = int line_iter next for idx in 		18 38
+def solve case_data from collections import counter n = len case_data + 1 / 		47 72

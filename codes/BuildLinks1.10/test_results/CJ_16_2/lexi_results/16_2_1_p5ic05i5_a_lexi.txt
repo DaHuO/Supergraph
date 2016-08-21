@@ -1,0 +1,2 @@
+def takeout n s global N m = minLT s if m > 0 N += n * m for c in s F c -= m 		14 20
+def minLT s return min F c for c in s 		11 12

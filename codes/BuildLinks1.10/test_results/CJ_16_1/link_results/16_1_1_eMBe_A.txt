@@ -1,0 +1,32 @@
+Direct links:
+87 - 92 links:
+16_1_1_2rf_A	:	1 - 6
+
+94 - 99 links:
+16_1_3_eMBe_C	:	110 - 115
+16_1_2_eMBe_B	:	103 - 108
+
+36 - 41 links:
+16_1_3_eMBe_C	:	36 - 41
+16_1_3_eMBe_C	:	29 - 34
+16_1_2_eMBe_B	:	36 - 41
+16_1_2_eMBe_B	:	29 - 34
+
+
+With same rare tokens:
+94 - 99 links:
+16_1_3_eMBe_C	:	110 - 115
+16_1_2_eMBe_B	:	103 - 108
+
+48 - 51 links:
+16_1_3_eMBe_C	:	48 - 51
+16_1_2_eMBe_B	:	48 - 51
+
+82 - 85 links:
+16_1_3_eMBe_C	:	82 - 85
+16_1_2_eMBe_B	:	82 - 85
+
+43 - 46 links:
+16_1_3_eMBe_C	:	43 - 46
+16_1_2_eMBe_B	:	43 - 46
+

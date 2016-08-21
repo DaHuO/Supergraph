@@ -1,0 +1,1 @@
+def solve str minor = final = for c in str if len final == 0 final = c continue if c < final 0 final = final + c else final = c + final return final 		3 15

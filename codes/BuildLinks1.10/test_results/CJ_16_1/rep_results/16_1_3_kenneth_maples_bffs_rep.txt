@@ -1,0 +1,6 @@
+def cycles p d = dict enumerate p nn = while 		7 21
+tree_value tree_value tree_value ignore ptrs sources = list ptrs a 		31 39
+all_trees all_trees values max_cycle 		62 66
+pointer_tree p ptrs = 		23 29
+pointer_tree trees p d = dict enumerate p nn = for k in range 		41 60
+def main t = int sys stdin readline strip for k 		68 76

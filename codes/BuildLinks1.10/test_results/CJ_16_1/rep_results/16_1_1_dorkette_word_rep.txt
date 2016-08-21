@@ -1,0 +1,3 @@
+indata indata if 		14 19
+def printoutput number 		26 29
+printtest avariable = 		21 24

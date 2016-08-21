@@ -1,0 +1,5 @@
+def __init__ self self numcases = int sys stdin readline strip 		5 6
+def __init__ self casenum self case_num = casenum 		13 14
+def do_it self n = int sys stdin readline strip ht_par = defaultdict bool for n in range 2 * n - 1 for f in sys stdin readline strip split ht_par int f ^= true out = sorted k for k v in ht_par items if v sys stdout write case #{}: {}\n format self case_num  join str f for f in out 		16 24
+def main problemset do_all_cases 		26 27
+def do_all_cases self for n in range self numcases cp = problem n + 1 cp do_it 		7 10

@@ -1,0 +1,9 @@
+arrstr a 		80 81
+def solve n = num e = x - 1 for x in nums invs = for i in range n for i in range n invs e i append 		7 46
+def 		74 75
+def 		76 77
+def depth v ignore res 		16 23
+fnums return 		72 73
+def 		78 79
+def nums 		70 71
+def main fname = a.in if len sys argv > 1 fname = sys 		52 68

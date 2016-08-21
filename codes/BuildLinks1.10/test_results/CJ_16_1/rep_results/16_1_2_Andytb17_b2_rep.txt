@@ -1,0 +1,2 @@
+find_missing_numbers solve f_in f_out fin = open f_in fout = open f_out w num_case = int fin 		13 29
+find_missing_numbers ls seen = dict for num in 		1 12

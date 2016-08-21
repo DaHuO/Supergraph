@@ -1,0 +1,50 @@
+Direct links:
+22 - 26 links:
+16_1_1_waitingkuo0527_main	:	26 - 34
+16_1_1_phire_1	:	15 - 18
+16_1_1_tk__last_word	:	5 - 19
+16_1_2_Shuailong_rank_and_file	:	14 - 33
+16_1_1_pa1_A	:	22 - 26
+16_1_1_arosh_a	:	11 - 15
+16_1_1_RyanW_a	:	28 - 32
+16_1_1_wlxiong_A	:	3 - 13
+16_1_1_ericreis_the_last_word	:	15 - 22
+16_1_1_acganesh_main	:	19 - 23
+16_1_2_wlxiong_B	:	3 - 13
+16_1_1_happyhacking_the-last-word	:	13 - 18
+16_1_2_phire_2	:	6 - 20
+16_1_1_Mr_Wolf_A	:	10 - 13
+16_1_1_auscompgeek_sol	:	18 - 21
+16_1_1_Qwrk_A	:	10 - 13
+16_1_1_9gix_a	:	40 - 45
+16_1_2_rwd_problem2	:	13 - 25
+16_1_1_hatze_a	:	1 - 14
+16_1_2_arosh_b	:	5 - 22
+16_1_1_shanna_program	:	14 - 18
+16_1_1_derrickw_aLastWord	:	19 - 24
+16_1_1_arknave_a	:	1 - 11
+16_1_2_chekunkov_solution	:	16 - 24
+16_1_1_focusheart_a	:	18 - 23
+16_1_1_ispe54_q1	:	4 - 10
+16_1_2_matsuno_b	:	26 - 29
+16_1_1_bongster_1-A	:	12 - 17
+16_1_3_waitingkuo0527_main	:	74 - 82
+16_1_3_pa1_C	:	48 - 58
+16_1_1_rwd_problem1	:	12 - 17
+16_1_1_RogerW_a_the_last_word	:	1 - 16
+16_1_1_gsz_TheLastWord	:	14 - 17
+16_1_2_waitingkuo0527_main	:	57 - 65
+16_1_1_Hamukichi_r1aa	:	15 - 19
+16_1_1_Thundzz_last_word	:	17 - 21
+
+
+With same rare tokens:
+22 - 26 links:
+16_1_1_cameron274_A	:	1 - 10
+
+18 - 20 links:
+16_1_1_cameron274_A	:	1 - 10
+
+28 - 32 links:
+16_1_1_Arb_the_last_word	:	27 - 33
+

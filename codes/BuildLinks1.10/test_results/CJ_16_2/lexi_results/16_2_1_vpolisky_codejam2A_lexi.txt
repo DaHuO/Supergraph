@@ -1,0 +1,1 @@
+def del_char s c p = s index c s = s p + s p + 1 return s 		34 37

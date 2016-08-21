@@ -1,0 +1,1 @@
+def solve counter if frozenset counter items in DP return DP frozenset counter items if not counter return for i count in enumerate n_counts if all counter k - v >= 0 for k v in count items solution = solve counter - count DP frozenset counter - count items = solution if solution is not None return i + solution 		5 18

@@ -1,4 +1,4 @@
-is_valid reduce n r p s IMPOSSIBLE = IMPOSSIBLE dic 		36 42
+reduce solve n r p s IMPOSSIBLE = IMPOSSIBLE dic 		36 42
 A-input.in A-output.out num_t num_t as fin with open w 		45 51
 def get_winner a b if a == 		4 20
-is_valid new_comb new_comb is_valid new_comb == 1 return True = 		23 33
+new_comb new_comb new_comb if len comb == 1 return True 		23 33

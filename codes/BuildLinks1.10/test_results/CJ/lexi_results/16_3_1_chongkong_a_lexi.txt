@@ -1,0 +1,7 @@
+def pick parties choice = parties 0 if choice party_size <= 1 parties remove choice choice party_size -= 1 return choice party_name 		18 24
+def solve party_sizes party_names = abcdefghijklmnopqrstuvwxyz parties = for i in range len party_sizes party = party party_names i party_sizes i parties append party ans = while len parties > 0 parties a b = pick_two parties ans append a + b if b is not none else a return  join ans 		40 51
+def __repr__ self return self __str__ 		14 15
+def pick_two parties parties = sorted parties key = lambda x x party_size reverse = true choice1 = pick parties parties = sorted parties key = lambda x x party_size reverse = true choice2 = pick parties if len parties == 1 parties append party choice2 1 choice2 = none return parties choice1 choice2 		27 37
+def main t = int input for i in range t party_count = input party_sizes = list map int input split ans = solve party_sizes print case #{}: {} format i + 1 ans 		54 60
+def __str__ self return <{} {}> format self party_name self party_size 		11 12
+def __init__ self party_name party_size self party_size = party_size self party_name = party_name 		7 9

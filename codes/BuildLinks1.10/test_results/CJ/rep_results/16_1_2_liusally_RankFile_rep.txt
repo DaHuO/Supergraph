@@ -1,0 +1,1 @@
+rankfile-large.out main of = open w 1 with open b-large.in r as f count = int f readline rstrip \n for i 		2 34

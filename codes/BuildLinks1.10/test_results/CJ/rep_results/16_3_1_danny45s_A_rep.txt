@@ -1,0 +1,1 @@
+tot_s tot_s tot_s ansalpha ansalpha ansalpha ansalpha problem != 0 max_s = max problem test = copy copy problem test remove max_s max_2 = max test = sum problem if max_2 * 2 <= - 2 and max_s - 2 * 2 <= - 2 		9 56

@@ -1,0 +1,1 @@
+proba s result = s 		3 10

@@ -1,0 +1,1 @@
+def solve s s = list 		7 15

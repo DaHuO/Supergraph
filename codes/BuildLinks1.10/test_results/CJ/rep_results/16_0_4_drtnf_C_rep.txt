@@ -1,0 +1,1 @@
+lev lev lev lev s if s * c < k 		5 19

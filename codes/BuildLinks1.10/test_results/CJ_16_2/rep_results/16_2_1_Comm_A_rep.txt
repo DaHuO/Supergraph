@@ -1,0 +1,3 @@
+processuniquedict uniquedict1 processuniquedict uniquedict2 outnum outnum outnum line replace \n 		38 51
+processuniquedict udict udict udict numtolet udict in 		28 36
+def output i 		3 5

@@ -1,0 +1,1 @@
+def solve s result = deque for char in s if result and result 0 <= char result appendleft char else result append char return join result 		3 10

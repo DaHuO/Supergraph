@@ -1,0 +1,3 @@
+scan osub rstring rstring rstring scan rstring osub = 		13 23
+def case 		10 11
+outputLines output 		5 8

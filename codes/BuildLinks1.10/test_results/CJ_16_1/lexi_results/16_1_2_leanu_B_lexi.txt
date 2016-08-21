@@ -1,0 +1,1 @@
+def lista n m u = for i in m if u count i == 0 u append i l = for i in u if m count i % 2 == 1 l append i l sort s = for i in l s += str i +  return s 		1 15

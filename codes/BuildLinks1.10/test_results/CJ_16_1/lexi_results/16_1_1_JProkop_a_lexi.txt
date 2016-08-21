@@ -1,0 +1,1 @@
+def solve s it = for a in s if not it it = a else pos1 = a + it pos2 = it + a if pos1 > pos2 it = pos1 else it = pos2 return it 		3 15

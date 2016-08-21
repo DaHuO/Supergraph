@@ -1,0 +1,1 @@
+def lastword inputtext finalword = for letter in inputtext if finalword is not if letter < finalword 0 finalword = finalword + letter else finalword = letter + finalword else finalword = finalword + letter return finalword 		1 13

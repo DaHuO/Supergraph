@@ -1,0 +1,1 @@
+def remove_letters 		1 3

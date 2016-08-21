@@ -1,0 +1,3 @@
+def remove line 		5 6
+def main with open sys argv 1 		74 80
+def solve line ans = while line find Z != - 1 line = remove line Z line = remove line E line = remove line R line = remove line O ans += 0 while line find W != - 1 line = remove line T line = remove line W line = remove line O ans += 2 while 		8 72

@@ -1,0 +1,1 @@
+def getall l ret = for i in range 0 pow 10 len l ss = {0:0 + str len l + d} s = list ss format i match = true for i v in enumerate l if v != ? and v != s i match = false if match ret append join s return ret 		3 16

@@ -1,0 +1,1 @@
+def solve grid numbers = for i in grid for j 		1 18

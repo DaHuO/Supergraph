@@ -1,0 +1,4 @@
+print_leave a b = none 		6 11
+check_ok itervalues parties 		13 17
+check_ok print_leave print_leave = raw_input parties = 0 p = i = 0 for 		23 47
+sorted_p sorted_p p 		19 21

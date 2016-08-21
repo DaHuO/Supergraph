@@ -1,0 +1,1 @@
+def docase f n = int f readline groups = for i in range 		7 20

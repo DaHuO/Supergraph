@@ -1,0 +1,1 @@
+def last_word s word_list = s 0 for char in s 1 if char >= word_list 0 word_list insert 0 char else word_list append char return join word_list 		1 8

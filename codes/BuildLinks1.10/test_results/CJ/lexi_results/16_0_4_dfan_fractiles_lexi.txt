@@ -1,0 +1,4 @@
+def read_int_list line separator =  return map int line strip split separator 		24 25
+def output_case i result output = case i + 1 result result print case #%(case)s: %(result)s % output 		27 32
+def solve k c s i if c * s < k return impossible indices = to_check k c i + 1 for i in xrange 0 k c return  join map str indices 		5 10
+def to_check k c start index_to_check = 0 for i in xrange start min start + c k index_to_check *= k index_to_check += i return index_to_check 		12 22

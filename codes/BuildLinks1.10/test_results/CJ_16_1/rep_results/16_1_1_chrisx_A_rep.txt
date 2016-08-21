@@ -1,0 +1,2 @@
+def solve s makschar = none * len s for ind char in enumerate 		16 31
+def parse input_file output_file with open input_file as f t = 		3 13

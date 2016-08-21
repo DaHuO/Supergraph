@@ -1,0 +1,1 @@
+def total ls res = 0 for l in ls res += l 0 return res 		8 12

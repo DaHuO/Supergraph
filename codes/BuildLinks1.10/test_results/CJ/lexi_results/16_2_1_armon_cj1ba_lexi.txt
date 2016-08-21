@@ -1,0 +1,2 @@
+def has sup sub for l f in sub items if sup l < f return false return true 		17 21
+def get_digits letters digs for i d in enumerate validdigs if has letters d newletters = letters - d newdigs = digs + i if len newletters most_common 1 newdigs = get_digits newletters newdigs if newdigs return newdigs else return newdigs return none 		23 34

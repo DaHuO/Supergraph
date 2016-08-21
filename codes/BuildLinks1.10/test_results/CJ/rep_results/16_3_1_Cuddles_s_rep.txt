@@ -1,0 +1,1 @@
+print_solutions test_case_count tk tk test_case_count parties_count all_count all_count tk tk = int content 0 i = 1 = 1 parties = abcdefghijklmnopqrstuvwxyz while <= = content i senators_list = int c for c in content i + 1 split 		6 43

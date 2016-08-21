@@ -1,0 +1,20 @@
+
+With same rare tokens:
+41 - 53 links:
+16_2_2_jpsbur_b	:	23 - 30
+16_2_2_jpsbur_b	:	32 - 79
+16_2_2_jpsbur_b	:	32 - 79
+
+23 - 39 links:
+16_2_2_jpsbur_b	:	23 - 30
+16_2_2_jpsbur_b	:	32 - 79
+16_2_2_jpsbur_b	:	32 - 79
+
+55 - 66 links:
+16_2_1_dbooth_solve	:	57 - 67
+16_1_1_dbooth_solve	:	19 - 29
+16_0_4_dbooth_solve	:	36 - 47
+16_2_1_dbooth_solve	:	57 - 67
+16_1_1_dbooth_solve	:	19 - 29
+16_0_4_dbooth_solve	:	36 - 47
+

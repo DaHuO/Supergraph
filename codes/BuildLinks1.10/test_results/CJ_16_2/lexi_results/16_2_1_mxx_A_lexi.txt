@@ -1,0 +1,5 @@
+def testcase ind order = map int 0684753219 S = raw_input from collections import Counter ctr = Counter S nbs = i 0 for i in xrange 10 def can_have n for c in english n if ctr c <= 0 return False return True for n in order while can_have n nbs n += 1 for c in english n ctr c -= 1 res = for n in xrange 10 res += str n * nbs n print Case #%d: %s % ind res 		41 58
+def digstr2english s res = for c in s res += english int c return res 		17 21
+def gen_str l if l in strings return strings l else res = strs_l1 = gen_str l - 1 for s in strs_l1 d = int s - 1 for i in xrange d 10 res append s + str i strings l = tuple res return res 		5 15
+def can_have n for c in english n if ctr c <= 0 return False return True 		47 50
+def testcase_small ind S = raw_input S *= 100 S = join sorted S from collections import Counter ctr = Counter S finished = False for l in xrange 1 1000 if finished return for digstr in gen_str l engstr = digstr2english digstr if len engstr != len S continue if join sorted engstr == S print Case #%d: %s % ind digstr finished = True break 		24 39

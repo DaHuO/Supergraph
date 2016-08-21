@@ -1,0 +1,7 @@
+pullNums pullNums( ) possNums hasUnique uNums stripOut possNums hasDupe dNums stripOut possNums while s != 		59 87
+hasDupe dNums 		52 57
+lvl 		12 14
+pullNums main inp 		89 93
+possNums numMap doAdd numMap doAdd doAdd 		21 31
+hasUnique uNums 		44 49
+stripOut numMap n newstr = 		33 41

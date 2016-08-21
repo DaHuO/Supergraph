@@ -1,0 +1,1 @@
+def recover_slip slips found = ret = for s in slips for h in s if h not in found found h = 0 found h += 1 for h in found if found h % 2 == 1 ret append h return sorted ret 		5 16

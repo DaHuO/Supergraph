@@ -1,0 +1,2 @@
+takemax 		24 25
+takeothers max_first max_first curr_ind if curr_ind >= 		11 22

@@ -1,0 +1,1 @@
+charlesbarkleyscodejam line chars = result = for char in line chars append char while 1 if z in chars result append str 0 chars remove z chars remove e chars remove r chars remove o continue if w in chars result append str 2 chars remove 		3 83

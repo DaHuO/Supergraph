@@ -1,0 +1,1 @@
+def last_word s word = s 		1 10

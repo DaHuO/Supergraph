@@ -1,0 +1,1 @@
+digits_info digits_info in_file = open A-large.in mode = r out_file = open A-large.out mode = w lines = in_file readlines T = int lines 0 for i in xrange T S = lines i + 1 letters = 0 * 26 		4 48

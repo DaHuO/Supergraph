@@ -1,0 +1,6 @@
+input_processor 		54 56
+		10 12
+print_ans solve case_num problem_variable solution = for 		40 52
+process_input_case case_num 		35 38
+input_processor case_nums num_of_lines data_length case_nums num_of_lines num_of_lines process_input_case f read split 		15 33
+print_ans case_num 		6 8

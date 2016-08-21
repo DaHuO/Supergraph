@@ -1,0 +1,3 @@
+def readlines filename input = open filename rb lines = for line in input line = line replace \n lines append line input close return lines 		3 10
+def solveproblem input output = head = 0 count = 0 for ch in input if count == 0 output = ch head = alphadict ch else if head <= alphadict ch output = ch + output head = alphadict ch else output = output + ch count += 1 return output 		47 62
+def writelines output outputfile = open output.txt w for line in output outputfile write line + \n outputfile close 		12 16

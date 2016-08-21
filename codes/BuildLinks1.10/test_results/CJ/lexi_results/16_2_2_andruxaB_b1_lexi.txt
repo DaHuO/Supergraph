@@ -1,0 +1,1 @@
+def gen i sc s alln if i == len sc - 1 for el in sc i alln append s + el else for el in sc i gen i + 1 sc s + el alln 		8 14

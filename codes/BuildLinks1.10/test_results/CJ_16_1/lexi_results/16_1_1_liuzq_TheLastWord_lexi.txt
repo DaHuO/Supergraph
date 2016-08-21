@@ -1,0 +1,1 @@
+def findlast s val ans = first = a for c in s if c >= first ans insert 0 c first = c else ans append c return join ans 		3 13

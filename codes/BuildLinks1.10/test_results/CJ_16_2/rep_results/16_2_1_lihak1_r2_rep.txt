@@ -1,0 +1,2 @@
+def ch al l = while Z in al l append 0 for s in ZERO ind = al index s al pop ind while X in al l append 6 for s in SIX ind = al index 		15 70
+def ch al l = while Z in 		3 14

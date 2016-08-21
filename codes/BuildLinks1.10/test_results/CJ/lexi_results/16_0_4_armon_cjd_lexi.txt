@@ -1,0 +1,1 @@
+def get_tiles k c s if k <= s tiles = range 1 s + 1 else return impossible return  join str t for t in tiles 		3 9

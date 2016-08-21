@@ -1,0 +1,1 @@
+def fun str global max lastword if len str == len lastword if max < str max = str return str fun str + lastword len str fun lastword len str + str 		6 14

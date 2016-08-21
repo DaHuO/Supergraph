@@ -1,0 +1,2 @@
+def lastword ini out f = open ini r o = open out w t = int 		4 19
+a-large.txt main argv ini 		21 27

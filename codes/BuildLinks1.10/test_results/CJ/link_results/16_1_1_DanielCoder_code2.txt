@@ -1,0 +1,69 @@
+Direct links:
+4 - 5 links:
+16_2_1_DanielCoder_code	:	3 - 4
+16_2_2_DanielCoder_code2	:	3 - 4
+
+40 - 43 links:
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_2_DanielCoder_code2	:	125 - 128
+
+46 - 50 links:
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_2_DanielCoder_code2	:	131 - 135
+
+
+With same rare tokens:
+40 - 43 links:
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_1_DanielCoder_code	:	77 - 84
+16_1_2_erojas_rankandfile	:	18 - 19
+16_2_2_DanielCoder_code2	:	137 - 144
+16_2_2_DanielCoder_code2	:	125 - 128
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_1_DanielCoder_code	:	54 - 62
+16_2_2_Quilan_qb	:	28 - 42
+16_2_2_DanielCoder_code2	:	125 - 128
+16_2_2_DanielCoder_code2	:	114 - 122
+
+46 - 50 links:
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_1_DanielCoder_code	:	77 - 84
+16_2_2_DanielCoder_code2	:	131 - 135
+16_2_2_DanielCoder_code2	:	137 - 144
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_2_DanielCoder_code2	:	131 - 135
+16_2_2_DanielCoder_code2	:	131 - 135
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_2_DanielCoder_code2	:	131 - 135
+16_2_2_DanielCoder_code2	:	131 - 135
+
+29 - 37 links:
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_1_DanielCoder_code	:	54 - 62
+16_2_2_Quilan_qb	:	28 - 42
+16_2_2_DanielCoder_code2	:	125 - 128
+16_2_2_DanielCoder_code2	:	114 - 122
+
+52 - 59 links:
+16_2_1_DanielCoder_code	:	77 - 84
+16_2_2_DanielCoder_code2	:	137 - 144
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_1_DanielCoder_code	:	77 - 84
+16_1_2_erojas_rankandfile	:	18 - 19
+16_2_2_DanielCoder_code2	:	137 - 144
+16_2_2_DanielCoder_code2	:	125 - 128
+16_2_1_DanielCoder_code	:	77 - 84
+16_2_1_DanielCoder_code	:	77 - 84
+16_2_2_DanielCoder_code2	:	137 - 144
+16_2_2_DanielCoder_code2	:	137 - 144
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_1_DanielCoder_code	:	77 - 84
+16_2_2_DanielCoder_code2	:	131 - 135
+16_2_2_DanielCoder_code2	:	137 - 144
+16_2_1_DanielCoder_code	:	77 - 84
+16_2_1_DanielCoder_code	:	77 - 84
+16_2_2_DanielCoder_code2	:	137 - 144
+16_2_2_DanielCoder_code2	:	137 - 144
+

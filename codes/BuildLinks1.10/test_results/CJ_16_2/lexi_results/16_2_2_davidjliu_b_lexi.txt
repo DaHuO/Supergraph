@@ -1,0 +1,1 @@
+def compdif ls if ls == False return 0 x1 x2 = ls return int x1 - int x2 		4 8

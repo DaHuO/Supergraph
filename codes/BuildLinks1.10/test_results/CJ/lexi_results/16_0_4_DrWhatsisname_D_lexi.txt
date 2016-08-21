@@ -1,0 +1,1 @@
+def solve rem h k if len rem == 0 return 0 if h == 1 return rem 0 if len rem == 1 return rem 0 + k * solve rem h - 1 k - 1 return rem - 1 + k * solve rem - 1 h - 1 k - 1 		4 11

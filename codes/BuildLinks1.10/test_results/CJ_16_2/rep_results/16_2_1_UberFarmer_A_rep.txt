@@ -1,0 +1,4 @@
+sub_map word times if 		30 35
+important_letters important_letters sub_map int_num num_nums sub_map int_num num_nums case in range 1 num_cases + 1 global result result = letters = stdin readline l_map = = set Z W U X G 		14 60
+int_num num_nums sub_map int_num num_nums 		37 44
+debug_print 		6 8

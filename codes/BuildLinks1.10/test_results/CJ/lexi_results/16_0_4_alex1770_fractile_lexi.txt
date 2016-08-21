@@ -1,0 +1,1 @@
+def fract k c s if s * c < k return impossible l = for c in range 0 k c t = 0 for i in range c t = t * k + min c + i k - 1 l append t return  join str i + 1 for i in l 		3 10

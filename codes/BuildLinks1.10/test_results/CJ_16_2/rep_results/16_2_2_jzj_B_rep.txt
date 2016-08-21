@@ -1,0 +1,7 @@
+to_max l for 		4 7
+real_solve real_solve case_no first_str second_str = raw_input split ans = min 		82 89
+to_min l for 		10 13
+real_solve 50 second_str rev first_list = list first_str second_list = list second_str n = len first_str res = 10 ** 0 0 def dfs i if i == n first_num = int join first_list second_num = int join second_list if first_num > second_num raise Exception if 		31 79
+to_max to_min first_list second_list rev first_list = copy first_list 		16 28
+def main T 		92 95
+def dfs i if i == n first_num = int join first_list second_num = int join second_list if first_num > second_num raise Exception if rev res 0 = min res 0 second_num - first_num second_num first_num else res 0 = min 		37 76

@@ -1,0 +1,24 @@
+Direct links:
+18 - 22 links:
+16_1_1_waitingkuo0527_main	:	26 - 34
+16_1_1_phire_1	:	15 - 18
+16_1_1_nattster_a	:	16 - 19
+16_1_1_ziyan_a	:	15 - 20
+16_1_1_cavoo_a	:	12 - 17
+16_1_1_happyhacking_the-last-word	:	13 - 18
+16_1_1_xwu_A	:	20 - 24
+16_1_1_devm33_ans	:	13 - 16
+16_1_2_layersof_B	:	3 - 6
+16_1_1_tuxerizzer_word	:	20 - 25
+16_1_1_t93_main	:	1 - 5
+16_1_3_waitingkuo0527_main	:	74 - 82
+16_1_3_xwu_C	:	65 - 69
+16_1_1_layersof_A	:	1 - 4
+16_1_1_MonkeyBoy_the_last_word	:	43 - 47
+16_1_2_waitingkuo0527_main	:	57 - 65
+
+
+With same rare tokens:
+5 - 15 links:
+16_1_2_chaosmail_main	:	5 - 11
+

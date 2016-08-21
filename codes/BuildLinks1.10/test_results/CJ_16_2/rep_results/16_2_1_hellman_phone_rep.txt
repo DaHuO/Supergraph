@@ -1,0 +1,2 @@
+subword cnt w 		52 55
+subword word_to_digit s cnt = Counter s 		57 65

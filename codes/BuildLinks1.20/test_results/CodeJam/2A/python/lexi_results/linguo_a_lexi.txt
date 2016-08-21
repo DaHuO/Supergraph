@@ -1,0 +1,2 @@
+def g n r p s n = 2 ** n ans = f n r p s if ans == impossible return ans i = 1 while i <= n k = 0 while k < n if ans k k + i > ans k + i k + 2 * i ans = ans k + ans k + i k + 2 * i + ans k k + i + ans k + 2 * i k += 2 * i i += i return join ans 		18 31
+def f n r p s if n == 1 return p * p + r * r + s * s if 2 * max r p s > n return impossible a = r + s - p / 2 b = r + p - s / 2 c = p + s - r / 2 sub = f n / 2 a b c if sub == impossible return sub return t for z in sub for t in z s if z == r else p if z == s else r 		1 16

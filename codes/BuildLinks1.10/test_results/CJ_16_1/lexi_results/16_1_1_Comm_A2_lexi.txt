@@ -1,0 +1,2 @@
+def solve i line outstring = for j char in enumerate str line if j == 0 outstring append char else if ord char >= ord outstring 0 outstring insert 0 char else outstring append char output i join outstring 		7 17
+def output i out with open a-large.out a as outfile outfile write case #{0}: {1} format i out 		3 5

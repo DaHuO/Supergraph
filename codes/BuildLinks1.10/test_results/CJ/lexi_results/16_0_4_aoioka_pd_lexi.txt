@@ -1,0 +1,2 @@
+def main t = int raw_input for i in xrange 1 t + 1 print case #%d: % i solve 		8 12
+def solve k c s = map int raw_input split print  join map str range 1 s + 1 		3 5

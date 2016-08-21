@@ -1,0 +1,1 @@
+def solve s ret = for i in s if ret and i < ret 0 ret append i else ret = i + ret return join ret 		4 11

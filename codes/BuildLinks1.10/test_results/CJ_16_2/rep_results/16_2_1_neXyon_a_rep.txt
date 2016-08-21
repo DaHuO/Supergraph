@@ -1,0 +1,3 @@
+input_line input_histogram compute_histogram input_line output_histogram uint32 input_histogram output_histogram input_histogram output_histogram 		42 56
+compute_digits_order arange compute_histogram compute_histogram ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE letters = np array chr letter 		15 40
+compute_histogram digits histogram = np 		6 13

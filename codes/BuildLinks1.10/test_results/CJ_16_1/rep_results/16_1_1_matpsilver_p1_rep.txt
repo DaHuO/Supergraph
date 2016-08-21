@@ -1,0 +1,2 @@
+def printoutput output outputfile = open 		11 15
+getinput file = open 		4 8

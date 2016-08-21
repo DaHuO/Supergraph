@@ -1,0 +1,1 @@
+def numberToInt num if num == ZERO return 0 elif num == ONE return 1 elif num == TWO return 2 elif num == THREE return 3 elif num == FOUR return 4 elif num == FIVE return 5 elif num == SIX return 6 elif num == SEVEN return 7 elif num == EIGHT return 8 elif num == NINE return 9 		14 34

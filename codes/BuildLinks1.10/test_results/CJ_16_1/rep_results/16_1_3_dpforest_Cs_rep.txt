@@ -1,0 +1,10 @@
+read_long self 		33 35
+def read_float 		30 32
+def solve f skip = false n = f read_int friends = 0 		9 20
+read_long_list self 		46 48
+def read_str 		36 38
+def read_int_list 		40 42
+read_str_list self 		49 51
+def __init__ 		23 25
+read_float_list self 		43 45
+def read_int 		27 29

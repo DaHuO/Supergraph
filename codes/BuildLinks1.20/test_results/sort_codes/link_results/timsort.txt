@@ -1,0 +1,15 @@
+
+With same rare tokens:
+12 - 16 links:
+sortable	:	7 - 12
+test_sortable	:	26 - 47
+
+18 - 19 links:
+sortable	:	44 - 47
+
+22 - 38 links:
+sortable	:	34 - 38
+sortable	:	40 - 42
+sort_insertion	:	16 - 27
+sortable	:	7 - 12
+

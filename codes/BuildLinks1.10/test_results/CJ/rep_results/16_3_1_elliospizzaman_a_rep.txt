@@ -1,0 +1,5 @@
+def write_case self 		18 21
+def solve jam casecount = int jam read_string for casenum in xrange casecount solution = n = 		25 46
+def __init__ self 		8 11
+def 		12 14
+def 		15 17

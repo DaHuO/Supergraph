@@ -1,0 +1,2 @@
+def solve N number = N = list N num0 = N count Z for _ in xrange num0 N remove E N remove R N remove O num2 = N count W for _ in xrange num2 N remove T N remove O num4 = N count 		4 70
+def read_input with open sys argv 1 		73 79

@@ -1,0 +1,1 @@
+erase str 		3 5

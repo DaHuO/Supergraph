@@ -1,0 +1,2 @@
+def f c e d v 		30 34
+def solve n a q = defaultdict int r = defaultdict list for i a in enumerate a q i + 1 = a r a append i + 1 pairs = set 		3 43

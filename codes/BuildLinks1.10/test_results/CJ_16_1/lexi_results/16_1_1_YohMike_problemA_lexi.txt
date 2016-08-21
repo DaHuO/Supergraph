@@ -1,0 +1,1 @@
+def output_format answer test_case output = case #%d: % test_case + 1 output += %s % str answer return output 		5 9

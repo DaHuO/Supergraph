@@ -1,0 +1,2 @@
+def rankfile nums grid_size pro_dict = for n in nums if n in pro_dict pro_dict n += 1 else pro_dict n = 1 out = odd_lst pro_dict out sort return out 		4 15
+def odd_lst d out = for i in d keys if d i % 2 > 0 out append int i return out 		17 22

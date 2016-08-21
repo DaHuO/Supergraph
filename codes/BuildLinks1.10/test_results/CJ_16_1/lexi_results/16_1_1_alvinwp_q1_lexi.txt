@@ -1,0 +1,1 @@
+def add l chars if len chars == 0 return l new_l = for i in l new_l append i + chars 0 new_l append chars 0 + i return add new_l chars 1 		4 11

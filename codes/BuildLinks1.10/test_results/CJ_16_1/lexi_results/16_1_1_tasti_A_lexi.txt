@@ -1,0 +1,1 @@
+def the_last_word s last_word = for char in s beginning = char + last_word end = last_word + char last_word = max beginning end return last_word 		1 9

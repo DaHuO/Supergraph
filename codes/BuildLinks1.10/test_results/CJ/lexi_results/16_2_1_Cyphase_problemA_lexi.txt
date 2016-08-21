@@ -1,0 +1,2 @@
+def remove_word counter word times word = word upper for letter in word counter letter -= times 		13 17
+def main num_cases = input for case_idx s in enumerate iter sys stdin readline 1 s = s strip c = counter s num_digits = args = 0 zero z 2 two w 4 four u 6 six x 8 eight g 1 one o 3 three h 5 five f 7 seven v 9 nine i for num word sentinel in args num_digits num = c sentinel remove_word c word c sentinel num_count_tups = list sorted num_digits items phone_number = join str num * cnt for num cnt in num_count_tups print case #{}: {} format case_idx phone_number 		20 50

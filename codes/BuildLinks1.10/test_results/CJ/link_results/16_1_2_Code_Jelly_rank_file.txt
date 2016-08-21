@@ -1,0 +1,35 @@
+
+With same rare tokens:
+4 - 12 links:
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+16_1_1_Comto_lastword	:	1 - 8
+
+14 - 24 links:
+16_1_1_Code_Jelly_last_word	:	14 - 19
+

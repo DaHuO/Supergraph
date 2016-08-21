@@ -1,0 +1,2 @@
+def input filename lines = open filename read split \n numcases = int lines pop 0 linespercase = int len lines / numcases return lines pop 0 for b in range linespercase for a in range numcases 		1 5
+def output filename strings file = open filename w for a in range len strings print case # + str a + 1 + : + strings a + \n file write case # + str a + 1 + : + strings a + \n 		8 12

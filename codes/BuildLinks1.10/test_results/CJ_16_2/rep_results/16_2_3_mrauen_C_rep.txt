@@ -1,0 +1,11 @@
+def 		16 17
+def max_flow self source sink path = self find_path source sink while 		44 53
+def __init__ self 		4 7
+minimumCovering solution lines firstWords = secondWords = for index in xrange len 		104 120
+def 		12 14
+getMaximumMatching validEdges validEdges network network vertex2 network vertex2 network 0 line 1 1 for line in lines if line 0 		65 80
+def find_path self source sink path if source == sink 		34 42
+def __repr__ 		8 9
+minimumCovering maximumMatching getMaximumMatching maximumMatching uncoveredSecondWords lines requiredIndices = set for firstWord in firstWords if len firstWords 		82 102
+def 		19 20
+def add_edge self u v w = 0 if u == 		22 32

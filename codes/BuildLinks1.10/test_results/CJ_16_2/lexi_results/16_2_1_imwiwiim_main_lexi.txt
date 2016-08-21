@@ -1,0 +1,1 @@
+def solve s ans = for n l in arr while s find l != - 1 ans append val n for c in n i = s find c if i < len s - 1 s = s 0 i + s i + 1 else s = s 0 - 1 ans sort s = for a in ans s += a return s 		26 41

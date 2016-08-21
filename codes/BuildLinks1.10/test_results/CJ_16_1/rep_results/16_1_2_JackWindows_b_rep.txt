@@ -1,0 +1,2 @@
+def if_valid_successor rc b cr a = for i in xrange len 		15 29
+sorted_data dfs n if n >= n global row column row = row column = column return canadiate = n if n == 0 row append canadiate 0 if len 		31 74

@@ -1,0 +1,3 @@
+nlet solve_rec case = sum 		18 22
+instrm 		14 15
+solve_rec obs allowed obs allowed allowed newobs obs newobs solve_rec newobs solve_rec 		25 41

@@ -1,0 +1,2 @@
+nextletter nextletter word pivot = none if len word == 1 		17 31
+a-small-attempt0.in w_file outputstring w_file outputstring w_file = open output.txt 		1 15

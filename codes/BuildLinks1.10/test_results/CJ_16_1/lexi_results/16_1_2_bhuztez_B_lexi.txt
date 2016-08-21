@@ -1,0 +1,6 @@
+def fill n lines_list grid = none for _ in xrange n for _ in xrange n for i lines in enumerate lines_list if match grid i i lines 0 i grid i = lines 0 if len lines == 2 for j in xrange n grid j i = lines 1 j else if len lines == 2 grid i = lines 1 for j in xrange n grid j i = lines 0 j return grid 		24 39
+def find_line n lines_list grid for i lines in enumerate lines_list if len lines == 1 if grid i == lines 0 return grid j i for j in xrange n else return grid i 		42 48
+def pick_lines n lines m = min l n for l in lines return l for l in lines if l n == m 		5 7
+def match a b for x y in izip a b if x is not none and x != y return false return true 		17 21
+def sort_lines n lines for i in xrange n pick lines = pick_lines i lines yield pick 		11 14
+def solve n = int raw_input lines = map int raw_input split for i in xrange 2 * n - 1 lines_list = list sort_lines n lines grid = fill n lines_list missing = find_line n lines_list grid print  join map str missing 		54 63

@@ -1,0 +1,3 @@
+def update senators senators sort reverse = true while len senators > 0 if senators - 1 0 == 0 senators pop else break 		15 22
+def all_three_ones senators if senators 0 0 == 1 and senators 1 0 == 1 and senators 2 0 == 1 print senators 0 1 print senators 1 1 + senators 2 1 senators = return true return false 		4 12
+def make_plan senators while len senators > 0 if len senators != 3 print senators 0 1 + senators 1 1 senators 0 0 -= 1 senators 1 0 -= 1 update senators elif not all_three_ones senators print senators 0 1 + senators 1 1 senators 0 0 -= 1 senators 1 0 -= 1 update senators print 		25 38

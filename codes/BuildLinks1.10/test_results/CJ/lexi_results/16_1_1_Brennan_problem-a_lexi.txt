@@ -1,0 +1,2 @@
+def solve_problem problem_row word = for c in problem_row if len word first_char = word 0 if ord c >= ord first_char word = c + word else word += c else word += c return word 		3 14
+def parse_problems t = int raw_input problems = for _ in xrange 1 t + 1 _raw_input = raw_input problems append _raw_input return problems 		17 23

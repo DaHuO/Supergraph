@@ -1,0 +1,3 @@
+readdata infile n = int infile 		27 32
+[+] [+] data n = data 0 lines = data 1 if debug print 		6 25
+howto usage -i <input file> [-o <output file>] optparse optionparser usage -i 		34 44

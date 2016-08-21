@@ -1,0 +1,10 @@
+def calc_min s x = 0 for i in range len s if s i != ? x += exp len s i int s i return x 		18 23
+def nextm s num o os ori likeb index = - 1 ranger = range len s ranger reverse for i in ranger if s i == ? and not likeb other = calc_min o i s = s 0 i + str other + s i + 1 return s num + exp len s i other elif s i == ? and likeb other = calc_min o i s = s 0 i + str other + s i + 1 index = i break if index == - 1 return false for i in ranger if i <= index break elif ori i == ? s = s 0 i + ? + s i + 1 return s calc_min s 		61 83
+def readline f return f readline strip 		5 6
+def nexts s num o os x = 0 ranger = range len s ranger reverse for i in ranger if s i == ? other = calc_min o i - 1 s = s 0 i + str other + s i + 1 return s num + exp len s i other return false 		50 59
+def calc_max s x = 0 for i in range len s if s i != ? x += exp len s i int s i else x += exp len s i 9 return x 		28 35
+def exp l i x return 10 ** l - i - 1 * x 		25 26
+def index num i return int str num i 		37 38
+def equal a b ans = for i in range len a if a i != ? and b i != ? return false elif a i == ? and b i == ? ans = ans + 0 elif a i == ? ans = ans + b i else ans = ans + a i return ans 		106 117
+def nextb s num o os ori index = - 1 ranger = range len s ranger reverse for i in ranger if s i == ? other = calc_min o i + 1 s = s 0 i + str other + s i + 1 index = i break if index == - 1 return false for i in ranger if i <= index break elif ori i == ? s = s 0 i + ? + s i + 1 return s calc_min s 		85 104
+def nexte s num x = 0 ranger = range len s ranger reverse for i in ranger if s i == ? s = s 0 i + 9 + s i + 1 return s num + exp len s i 9 return false 		40 48

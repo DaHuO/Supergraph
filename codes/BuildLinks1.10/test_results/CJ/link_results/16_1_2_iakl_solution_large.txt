@@ -1,0 +1,12 @@
+
+With same rare tokens:
+41 - 69 links:
+16_2_2_iakl_solution_small	:	55 - 82
+16_3_1_iakl_solution_large	:	45 - 74
+
+33 - 38 links:
+16_2_2_iakl_solution_small	:	23 - 24
+16_3_1_iakl_solution_large	:	28 - 35
+16_2_2_iakl_solution_small	:	23 - 24
+16_3_1_iakl_solution_large	:	28 - 35
+

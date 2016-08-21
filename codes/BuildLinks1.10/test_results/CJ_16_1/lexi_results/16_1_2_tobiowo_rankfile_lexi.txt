@@ -1,0 +1,1 @@
+def get_missing_row n rows c = counter for row in rows c update row missing_row = for height value in c iteritems if value % 2 != 0 missing_row append height missing_row = sorted missing_row return  join str x for x in missing_row 		18 30

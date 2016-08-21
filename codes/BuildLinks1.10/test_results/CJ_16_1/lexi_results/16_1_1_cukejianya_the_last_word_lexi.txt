@@ -1,0 +1,2 @@
+def getbiggerword word letter if letter + word < word + letter return word + letter else return letter + word 		9 13
+def thelastword str array_str = list str return reduce getbiggerword array_str 		5 7

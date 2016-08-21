@@ -1,0 +1,3 @@
+def solve m if len m == 1 return m 		36 46
+{}/desktop/{}.out go n lines prob = a foutname = format 		24 34
+openfile small-attempt0 {}/desktop/{}-{}.in prob = a fname = format 		14 22

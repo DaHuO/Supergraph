@@ -1,0 +1,1 @@
+def solve k c s if k // c > s return impossible check = range k splits = while check cur = check c check = check c splits append sum c * k ** i for i c in enumerate cur + 1 return  join map str splits 		1 10

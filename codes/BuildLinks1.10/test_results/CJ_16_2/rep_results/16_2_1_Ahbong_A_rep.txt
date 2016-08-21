@@ -1,0 +1,2 @@
+NC NC counter n for char 		10 16
+num_counter num_counter num_counter = collections defaultdict int 		19 25

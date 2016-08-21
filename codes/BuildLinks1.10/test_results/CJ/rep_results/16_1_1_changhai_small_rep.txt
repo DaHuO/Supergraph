@@ -1,0 +1,2 @@
+def pr 		2 5
+def solve s rt = s 		7 14

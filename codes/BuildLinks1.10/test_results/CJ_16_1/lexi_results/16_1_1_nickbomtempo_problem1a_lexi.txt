@@ -1,0 +1,1 @@
+def new_word s word = for x in s if == word or word 0 <= x word = x + word else word = word + x return word 		2 9

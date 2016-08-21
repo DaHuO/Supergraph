@@ -1,0 +1,2 @@
+def putinside inside currentnumber for i in str currentnumber inside append int i return inside 		34 37
+def findmissingnumber inside a = for char in inside for number in char if number in a a remove number else a append number return a 		7 15

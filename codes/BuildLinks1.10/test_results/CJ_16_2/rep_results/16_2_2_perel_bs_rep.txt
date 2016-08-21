@@ -1,0 +1,3 @@
+def 		8 9
+bs.in b.out time0 time1 %.3f time1 %.3f time0 w = time time t = 		64 77
+def solve1 lc lj if len lc == 1 if lc == lj == ? return 0 0 elif lc == ? return lj lj elif lj == ? return lc lc else return lc lj i = 0 if lc i == lj i == ? t = solve1 lc i + 1 lj i + 1 r0 = 0 + t 0 0 + t 1 r1 = 0 + fmax lc i + 1 1 + fmin lj i + 		11 62

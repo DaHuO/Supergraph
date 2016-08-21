@@ -1,0 +1,2 @@
+group_lines_and_find_missing_row_number solve n lines groups row_number = n lines answer = 		4 17
+group_lines_and_find_missing_row_number n lines lines = list lines groups = row_number = none for 		19 35

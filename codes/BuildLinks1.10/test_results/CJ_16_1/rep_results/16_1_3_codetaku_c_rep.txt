@@ -1,0 +1,6 @@
+hasmutualchainend stud a visited = set next = 		31 41
+runtest maxperpartner maxperpartner maxperpartner chainstarts getchainlenifcomplete hasmutualchainend maxperpartner maxperpartner maxperpartner maxperpartner retopen line = lines 1 split  stud = for a in line stud append int a - 1 skip 		53 87
+getendofchain stud a visited = set 		21 29
+lstsort 		18 19
+retopen tnum 		15 16
+getchainlenifcomplete stud a visited = set 		43 51

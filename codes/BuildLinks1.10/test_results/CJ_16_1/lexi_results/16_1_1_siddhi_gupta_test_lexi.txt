@@ -1,0 +1,1 @@
+def lastword str newstr = for letter in str print letter if newstr == newstr += letter elif letter >= newstr 0 newstr = letter + newstr else newstr += letter print newstr return newstr 		353 364

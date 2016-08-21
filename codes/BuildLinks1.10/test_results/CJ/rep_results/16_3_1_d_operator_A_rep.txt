@@ -1,0 +1,4 @@
+reducecase solve_case c 		29 33
+reducecase reduceall l1 = 0 l2 = 0 		16 26
+read_simple_2 solve fin 		35 38
+reduceall c l1 l2 pos = i for i j in enumerate c if j == l1 if 		6 14

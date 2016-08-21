@@ -1,0 +1,1 @@
+def printe * stuff if enabledebug print * stuff file = sys stderr 		6 8

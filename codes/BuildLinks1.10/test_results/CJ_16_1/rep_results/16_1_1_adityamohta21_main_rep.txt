@@ -1,0 +1,3 @@
+binary i decimal b = 		8 14
+def generate ch s temp = 		17 24
+list_s str_f binary str_f list_s sorted_list list_s sorted_list start = 2 		27 41

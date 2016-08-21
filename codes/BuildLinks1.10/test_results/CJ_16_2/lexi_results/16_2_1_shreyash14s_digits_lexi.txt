@@ -1,0 +1,4 @@
+def f3 s l = i = 0 n = s = list s while len s > 0 if isN s i l append s n i rem s i n = n + str i else while i == 9 if not l print err return s = l - 1 0 n = l - 1 1 i = l - 1 2 l pop i += 1 return n 		38 59
+def rem s i j = 0 d1 = list d i while j < len s if s j in d1 d1 remove s j s remove s j else j += 1 		15 23
+def fn s i = 0 n = s = list s while len s > 0 if isN s i rem s i n += str i else i += 1 return n 		25 36
+def isN s i j = 0 s = s d1 = list d i while j < len s if s j in d1 d1 remove s j s remove s j else j += 1 return not d1 		3 13

@@ -1,0 +1,3 @@
+def getLetters x return 		44 45
+def getUniqueDigit x return 		30 31
+def getLetterIndex x return 		11 12

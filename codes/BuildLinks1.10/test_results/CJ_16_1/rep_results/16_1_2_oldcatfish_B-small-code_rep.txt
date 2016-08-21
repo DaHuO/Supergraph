@@ -1,0 +1,1 @@
+def rank_file mat n = len mat cnt = 		6 16

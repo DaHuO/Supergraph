@@ -1,0 +1,1 @@
+def solve line idx = 0 for i in range 1 len line 		1 16

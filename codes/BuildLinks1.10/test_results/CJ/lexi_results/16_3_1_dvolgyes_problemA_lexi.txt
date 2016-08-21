@@ -1,0 +1,4 @@
+def max2 l return 		16 17
+def find_all l value return i for i x in enumerate l if x == value 		27 28
+def check pi p = sum pi n = len pi for i in range n if pi i * 2 > p return false return true 		20 25
+def solve pi n = len pi p = sum pi if p == 0 return pmax = max pi indices = find_all pi pmax idx = indices 0 pnew = list tuple pi pnew idx -= 1 if check pnew return chr idx + ord a +  + solve pnew else pnew = list tuple pi pnew indices 0 -= 1 pnew indices 1 -= 1 assert check pnew return chr indices 0 + ord a + chr indices 1 + ord a +  + solve pnew 		30 46

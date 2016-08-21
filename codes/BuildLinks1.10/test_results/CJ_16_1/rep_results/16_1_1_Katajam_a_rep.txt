@@ -1,0 +1,1 @@
+def solution x ans = 		2 7

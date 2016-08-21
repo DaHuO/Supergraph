@@ -1,0 +1,1 @@
+def getlastword word max = none result = none 		3 18

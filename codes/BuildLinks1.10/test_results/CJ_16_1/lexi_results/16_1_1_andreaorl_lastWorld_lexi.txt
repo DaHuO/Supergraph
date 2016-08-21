@@ -1,0 +1,2 @@
+def insertleft letter global out for x in range len s 0 out x + 1 = out x out = letter + out 0 		15 19
+def insertright letter global out out += letter 		11 13

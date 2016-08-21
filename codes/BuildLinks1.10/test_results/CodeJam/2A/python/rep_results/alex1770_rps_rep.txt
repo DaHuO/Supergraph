@@ -1,2 +1,2 @@
-filter count 		3 3
-thing sts u0 u1 u0 u1 u0 u1 u1 u0 S SP P PR al = Z for w in RPS t = w for n in 		5 27
+def count 		3 3
+thing sts R P S = d = R RS S SP P PR al = Z for w in RPS t = w for n in 		5 27

@@ -1,0 +1,1 @@
+answer.txt solve filename solutions = with open filename rb as f n 		1 10

@@ -1,0 +1,1 @@
+def solve s res = s 0 for i in xrange 1 len s if s i >= res 0 res insert 0 s i else res append s i return join res 		3 10

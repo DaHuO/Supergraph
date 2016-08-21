@@ -1,0 +1,1 @@
+def solve k c not_used = range k ans = for count in range 0 k c tmp = 0 for i in range c tmp += not_used - 1 tmp *= k if len not_used > 1 not_used pop tmp /= k ans append tmp + 1 return ans 		5 19

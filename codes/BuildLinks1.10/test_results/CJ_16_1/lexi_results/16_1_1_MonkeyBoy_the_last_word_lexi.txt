@@ -1,0 +1,8 @@
+def to_str l r = while l != none r = r + l 0 l = l 1 return r 		27 32
+def ll c l = c none return l l 		12 15
+def read_int k = sys stdin readline strip return int k 		6 8
+def append start end c nend = c none end 1 = nend return start nend 		17 21
+def last_word s r = ll s 0 for c in s 1 if c < r 0 0 r = append r c else r = prepend r c return to_str r 0 		33 40
+def main c = read_int for i in range c n = read_string print case #%d: %s % i + 1 last_word n 		43 47
+def read_string return sys stdin readline strip 		3 4
+def prepend start end c return c start end 		23 25

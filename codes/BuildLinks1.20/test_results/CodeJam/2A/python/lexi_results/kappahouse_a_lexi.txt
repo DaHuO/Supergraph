@@ -1,0 +1,2 @@
+def showdown n r p s ret = sorted doit w n for w in p r s for line in ret if line count p == p and line count r == r and line count s == s return line return impossible 		10 15
+def doit c n if n == 0 return c return join sorted doit x n - 1 for x in conv c 		5 8

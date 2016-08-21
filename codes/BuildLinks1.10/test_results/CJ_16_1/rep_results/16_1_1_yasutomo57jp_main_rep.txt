@@ -1,0 +1,1 @@
+def check s slist = list s 		9 21

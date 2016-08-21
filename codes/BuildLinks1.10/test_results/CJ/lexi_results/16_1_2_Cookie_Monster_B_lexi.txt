@@ -1,0 +1,1 @@
+def retstr s temp = counter s split temp2 = for x in temp if temp x % 2 == 1 temp2 = temp2 + str x +  a = temp2 split b = int i for i in a b = sorted b c = str i for i in b temp3 =  join c return temp3 		5 16

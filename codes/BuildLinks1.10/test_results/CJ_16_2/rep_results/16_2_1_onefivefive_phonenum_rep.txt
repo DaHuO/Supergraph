@@ -1,0 +1,2 @@
+cases. strd conversion strd fr = open inputfile r T = 		21 33
+conversion cvtable cvtable templen templen Z 8 EIGHT G 6 SIX X 2 TWO W 4 FOUR U 1 ONE O 		1 19

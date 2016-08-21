@@ -1,0 +1,7 @@
+def print_answer t answer f answer = case #%d: %s % t answer print answer f write answer f write \n 		18 22
+def create_combinations current combinations = for i in 0123456789 combinations append current + i return combinations 		24 28
+def get_file argv if len argv == 1 return b.in else return b_%s.in % argv 1 		6 10
+def main argv f = open get_file argv r f_out = open get_file_out argv w t = int f readline for t in xrange 1 t + 1 l = f readline strip parts = l split  c = parts 0 j = parts 1 scores = get_scores c j print_answer t {} {} format str scores 1 zfill len c str scores 2 zfill len j f_out 		62 72
+def get_combinations s latest_round = for i in xrange 0 len s if s i == ? new_round = for s in latest_round new_round = new_round + create_combinations s else new_round = for s in latest_round new_round = new_round + s + s i latest_round = new_round return latest_round 		30 42
+def get_file_out argv if len argv == 1 return b.out else return b_%s.out % argv 1 		12 16
+def get_scores c j c_set = get_combinations c j_set = get_combinations j scores = for c in c_set for j in j_set c_raw = c lstrip 0 j_raw = j lstrip 0 if c_raw == c_raw = 0 if j_raw == j_raw = 0 c_score = int c_raw j_score = int j_raw scores append math fabs c_score - j_score c_score j_score scores sort return scores 0 		44 60

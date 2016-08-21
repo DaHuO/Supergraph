@@ -1,0 +1,1 @@
+add_evacs senator_2 senator_2 if len senators == 1 senators 0 -= 1 return %s % chr senators 0 + ord a senators res = s = sum senators v = senators i i for i in xrange len 		5 38

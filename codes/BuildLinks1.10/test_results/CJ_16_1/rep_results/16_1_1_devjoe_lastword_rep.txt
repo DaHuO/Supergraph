@@ -1,0 +1,1 @@
+find_firsts find_firsts maxs = 		4 10

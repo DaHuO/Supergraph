@@ -1,0 +1,4 @@
+def read_ints 		43 45
+def read_strs 		48 50
+already_removed already_removed already_removed remove_from = 0 tmp_str 		25 36
+run_case my_str out_str my_str my_str out_str 		14 22

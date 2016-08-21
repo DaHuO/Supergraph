@@ -1,0 +1,1 @@
+def doit n s = raw_input m = r = for i in s if not m or i >= m m = i r = i + r else r = r + i print case #%d: %s % n r 		4 14

@@ -1,0 +1,4 @@
+subsolve stripped stripped rescopy rescopy numbers_map subsolve stripped 		31 48
+def done input 		18 22
+def strip number input for 		24 29
+autosolve collects tokens tokens next_token reslist subsolve 		50 65

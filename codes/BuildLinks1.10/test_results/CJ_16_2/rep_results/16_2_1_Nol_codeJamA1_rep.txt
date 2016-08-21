@@ -1,0 +1,2 @@
+sPhone sPhone sPhone sPhone = S number = while Z in modifiedS number append 0 modifiedS = modifiedS replace Z 1 modifiedS = modifiedS replace E 1 modifiedS = modifiedS replace R 1 modifiedS = modifiedS replace O 1 while X in modifiedS number append 6 modifiedS = modifiedS replace S 1 modifiedS = modifiedS replace I 1 modifiedS = modifiedS replace X 1 while W in 		3 74
+dataset.txt main inFile = open r outFile = open output.txt w 		78 89

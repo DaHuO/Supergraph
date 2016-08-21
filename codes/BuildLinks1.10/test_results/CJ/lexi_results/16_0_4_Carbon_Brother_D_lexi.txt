@@ -1,0 +1,1 @@
+def print_ans test ans if ans 0 == - 1 s = impossible else s =  join map str ans print case #%d: %s % test s 		1 6

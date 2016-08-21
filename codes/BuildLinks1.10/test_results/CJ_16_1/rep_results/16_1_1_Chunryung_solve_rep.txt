@@ -1,0 +1,3 @@
+def output fname out with 		26 29
+def readfile fname data = with 		3 11
+def process data out = for x 		14 24

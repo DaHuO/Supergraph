@@ -1,0 +1,1 @@
+def last_word s ret = s 0 for i in range 1 len s if s i >= ret 0 ret = s i + ret else ret = ret + s i return ret 		12 19

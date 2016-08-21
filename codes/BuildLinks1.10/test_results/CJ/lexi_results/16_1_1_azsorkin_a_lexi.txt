@@ -1,0 +1,1 @@
+def main num_cases = int raw_input for case in range 1 num_cases + 1 s = raw_input frist = answer = s 0 for letter in s 1 if frist <= letter frist = letter answer = letter + answer else answer = answer + letter print case #{}: {} format case answer 		3 14

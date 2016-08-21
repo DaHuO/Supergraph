@@ -1,0 +1,4 @@
+def check people tot = 		18 24
+line2ints instrm 		9 11
+line2ints 		14 16
+def solve_case case people = for i num in enumerate case people += alpha i * 		28 50

@@ -1,0 +1,28 @@
+Direct links:
+43 - 48 links:
+16_0_4_dogchaos_fractiles	:	48 - 53
+
+30 - 41 links:
+16_0_4_dogchaos_fractiles	:	35 - 46
+16_3_1_adityamohta21_main	:	104 - 117
+
+55 - 56 links:
+16_0_4_dogchaos_fractiles	:	60 - 61
+
+
+With same rare tokens:
+43 - 48 links:
+16_0_4_dogchaos_fractiles	:	48 - 53
+16_0_4_dogchaos_fractiles	:	48 - 53
+16_0_4_dogchaos_fractiles	:	48 - 53
+16_0_4_dogchaos_fractiles	:	48 - 53
+16_2_1_Astrae_round1B-A	:	54 - 80
+16_0_4_dogchaos_fractiles	:	48 - 53
+
+30 - 41 links:
+16_0_4_dogchaos_fractiles	:	35 - 46
+16_0_4_dogchaos_fractiles	:	35 - 46
+
+51 - 52 links:
+16_0_4_dogchaos_fractiles	:	56 - 57
+

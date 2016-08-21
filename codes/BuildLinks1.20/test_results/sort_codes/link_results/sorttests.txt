@@ -1,0 +1,6 @@
+
+With same rare tokens:
+11 - 15 links:
+qsort	:	29 - 30
+quicksort_solved	:	81 - 115
+

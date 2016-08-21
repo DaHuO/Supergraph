@@ -1,0 +1,1 @@
+def solve t = int raw_input for t in xrange 1 		2 13

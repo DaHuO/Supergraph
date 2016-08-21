@@ -1,0 +1,2 @@
+dics ndic ndic ret = counter = for dic 		34 45
+def main IN OUT T 		46 49

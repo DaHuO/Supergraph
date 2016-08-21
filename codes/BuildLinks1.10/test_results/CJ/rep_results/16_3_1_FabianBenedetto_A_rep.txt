@@ -1,0 +1,1 @@
+mainfunc remove_list remove_list remove_list remove_list list while sum members > 0 max_list = index for index 		3 14

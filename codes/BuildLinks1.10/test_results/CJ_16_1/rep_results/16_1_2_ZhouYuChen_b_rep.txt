@@ -1,0 +1,1 @@
+def sol n l l sort t missing = zip l xrange n * 2 - 1 for i in xrange n r 		5 26

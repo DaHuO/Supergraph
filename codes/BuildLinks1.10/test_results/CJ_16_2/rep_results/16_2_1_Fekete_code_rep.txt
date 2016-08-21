@@ -1,0 +1,3 @@
+def get number 		18 23
+is_number is_number total global ans if len s 		25 37
+def is_in number t s 		8 16

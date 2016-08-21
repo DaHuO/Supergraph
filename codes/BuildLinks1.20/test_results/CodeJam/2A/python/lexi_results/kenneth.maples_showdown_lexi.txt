@@ -1,0 +1,5 @@
+def expand q if isinstance q list return expand q 0 expand q 1 if q == p return p r if q == s return p s if q == r return r s assert false str q 		13 22
+def main t = int gl for k in range t n r p s = map int gl split solution = showdown n r p s print case # + str k + 1 + : + solution 		52 57
+def resolve lst if not isinstance lst list return lst x = resolve lst 0 y = resolve lst 1 if x < y return x + y return y + x 		24 32
+def gl return sys stdin readline strip 		10 11
+def showdown n r p s while r + p + s > 1 alpha2 = r + p - s if alpha2 % 2 != 0 return impossible alpha = alpha2 / 2 if alpha > p or r - alpha > s or alpha > r or alpha < 0 return impossible r p s = r - alpha alpha p - alpha winner = r * r + p * p + s * s tree = winner for _ in range n tree = expand tree solution = resolve tree return solution 		34 50

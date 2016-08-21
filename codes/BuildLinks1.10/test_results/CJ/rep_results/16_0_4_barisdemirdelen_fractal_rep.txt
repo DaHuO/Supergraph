@@ -1,0 +1,1 @@
+solve_fractal permutation section permutation section = current_permutation = for i in range 1 base_length + 1 		1 24

@@ -1,0 +1,3 @@
+def main t = 		32 36
+str_hist alg alg dwords = s counts = 10 * 0 = 0 Z 2 		18 30
+str_hist s lst = 		12 16

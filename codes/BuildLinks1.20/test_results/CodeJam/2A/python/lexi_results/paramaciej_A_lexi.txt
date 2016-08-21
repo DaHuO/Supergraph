@@ -1,0 +1,4 @@
+def tree plrs l if sum plrs values == 0 return l if check l else none for pair in allowed if can plrs pair if len l % 2 == 1 and l - 1 == pair continue appended = list l appended append pair r = tree use plrs pair appended if r return r return none 		24 37
+def check pairs try x = winner p for p in pairs if len x == 1 return true new = x 2 * i + x 2 * i + 1 for i in range len x // 2 return check new 		39 46
+def use plrs pair new_plrs = dict plrs for x in pair new_plrs x -= 1 return new_plrs 		18 22
+def can plrs pair return plrs pair 0 > 0 and plrs pair 1 > 0 		15 16

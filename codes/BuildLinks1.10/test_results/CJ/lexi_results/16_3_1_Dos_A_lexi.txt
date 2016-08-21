@@ -1,0 +1,6 @@
+def read_int f b = 10 return int read_word f b 		38 39
+def read_words f d =  return read_word f split d 		42 43
+def solve case ** kwargs n = kwargs n p = kwargs p exit = if sum p % 2 == 1 m1 = max p i1 = p index m1 p i1 -= 1 exit += a i1 exit +=  while sum p > 0 m1 = max p i1 = p index m1 p i1 -= 1 exit += a i1 m2 = max p i2 = p index m2 p i2 -= 1 exit += a i2 exit +=  return case #{}: {}\n format case exit 		54 81
+def read_ints f b = 10 d =  return int x b for x in read_words f d 		46 47
+def read_decimals f d =  return float x for x in read_words f d 		50 51
+def read_word f return next f strip 		34 35

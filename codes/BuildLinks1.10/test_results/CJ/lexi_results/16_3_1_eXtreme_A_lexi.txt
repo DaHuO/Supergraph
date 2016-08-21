@@ -1,0 +1,5 @@
+def has_majority l fp = l 0 0 so = 0 for c p in l 1 so += c return fp > so 		20 25
+def equalize_top_two l ans = l sort l reverse while l 0 0 > l 1 0 c p = l 0 ans append let p l 0 = c - 1 p return ans 		27 36
+def let i return chr i + ord a 		15 16
+def remove_top_two l ans = l sort l reverse c p1 = l 0 _ p2 = l 1 for _ in range c ans append let p1 + let p2 return ans 		51 61
+def remove_smaller l ans = l sort l reverse for i in range 2 len l while l i 0 > 0 c p = l i ans append let p l i = c - 1 p return ans 		39 49

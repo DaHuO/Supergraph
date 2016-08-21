@@ -1,0 +1,1 @@
+def solve count exit = while true biggest = none for pos c in enumerate count if biggest is none or c > count biggest biggest 		5 42

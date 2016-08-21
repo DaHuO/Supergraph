@@ -1,0 +1,1 @@
+def main inputfile = open d-small-attempt0.in r outputfile = open fracoutput.txt w cases = int inputfile readline strip for i in xrange cases k c s = int x for x in inputfile readline strip split outputfile write case # + str i + 1 + : if s < k outputfile write impossible\n else for i in range s outputfile write str i + 1 +  outputfile write \n 		3 15

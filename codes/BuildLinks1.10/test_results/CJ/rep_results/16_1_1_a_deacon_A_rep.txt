@@ -1,0 +1,1 @@
+def solve infile outfile alpha = abcdefghijklmnopqrstuvwxyz cases = int infile readline 		2 15

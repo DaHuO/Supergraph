@@ -1,0 +1,2 @@
+getdigits instr instr list lower digit = zero one two three four five six seven eight nine digits = list i for i in digit b = while z in a for i in digits 0 a 		1 50
+getdigits main filename = A-large.in output = A-large.out f = open filename 		51 68

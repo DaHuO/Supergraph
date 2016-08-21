@@ -1,0 +1,1 @@
+def min_distance s1 s2 if len s1 == 0 return 0 if s1 0 != s2 0 and s1 0 != ? and s2 0 != ? if s1 0 > s2 0 s1 = s1 replace ? 0 s2 = s2 replace ? 9 return s1 s2 abs int s1 - int s2 else s2 = s2 replace ? 		1 55

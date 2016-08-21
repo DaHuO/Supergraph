@@ -1,0 +1,2 @@
+def rank_and_file n lines lines = list map tuple lines groups = start = 0 for i in range n lines start = sorted lines 		1 26
+def run infile_name outfile_name = infile_name + .out with open outfile_name w as outfile 		29 39

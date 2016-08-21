@@ -1,0 +1,1 @@
+def debug * args ** kwargs if args sys stderr write debug: + ; join {0} format str v for v in args + \n if kwargs sys stderr write debug: + ; join {0}:{1} format k str v for k v in kwargs items + \n pass 		7 12

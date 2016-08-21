@@ -1,0 +1,1 @@
+def solve s w = for i in range len s y = none for j c in enumerate s i + 1 w = c + w j + s j + 1 i + 1 if y is none or w > y y = w w append y return w - 1 		5 14

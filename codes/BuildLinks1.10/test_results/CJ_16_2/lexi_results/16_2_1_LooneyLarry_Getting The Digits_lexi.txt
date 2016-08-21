@@ -1,0 +1,2 @@
+def process S d answer digit word letter = d while S letter > 0 answer += digit for l in word S l -= 1 		14 19
+def doCase S answer for d in digits process S d answer return join map str sorted answer 		21 24

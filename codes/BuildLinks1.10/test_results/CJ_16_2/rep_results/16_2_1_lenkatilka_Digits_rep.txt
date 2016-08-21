@@ -1,0 +1,3 @@
+def findUniDigits chDict Uni numbers for unique 		55 64
+outputDigitsFile.out findNumbers numbOutput outputStr outputStr numbOutput outputStr outputStr 1 with open filename as f 		2 27
+findNumbers mixed mixed WTO XIS GHTEI HREET RFOU if ch in chDict chDict ch += 1 else chDict 		29 53

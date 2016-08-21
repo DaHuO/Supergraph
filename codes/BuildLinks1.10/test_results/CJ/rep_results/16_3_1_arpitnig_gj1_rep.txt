@@ -1,0 +1,2 @@
+def calculate p l r l = map int l if sum l > 0 half = sum 		18 35
+input1.txt output1.txt f = open r n = int f readline testcases = for i 		1 15

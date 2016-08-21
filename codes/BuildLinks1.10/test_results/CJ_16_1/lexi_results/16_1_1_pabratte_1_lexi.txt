@@ -1,0 +1,4 @@
+def generatesequences length return join x for x in product l g repeat = length 		5 6
+def transformsequence seq origseq newseq = for i in seq if i == l newseq = newseq + origseq else newseq = newseq + g * len origseq return newseq 		9 17
+def transpose seqs newseqs = for i in range 0 len seqs 0 tmp = for seq in seqs tmp append seq i newseqs append join tmp return newseqs 		20 27
+def orseq seq1 seq2 tmp = for i in range 0 len seq1 if seq1 i == g or seq2 i == g tmp append g else tmp append l return join tmp 		30 38

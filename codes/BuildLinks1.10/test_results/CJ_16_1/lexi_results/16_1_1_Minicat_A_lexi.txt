@@ -1,0 +1,1 @@
+def solve s ans = s 0 for l in s 1 if ord l >= ord ans 0 ans = l + ans else ans = ans + l return ans 		1 8

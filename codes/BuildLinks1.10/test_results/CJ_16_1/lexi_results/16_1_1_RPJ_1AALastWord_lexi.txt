@@ -1,0 +1,1 @@
+def lstword input lst = input 0 lst2 = for letter in input 1 for word in lst lst2 append max %s%s % word letter %s%s % letter word lst = lst2 lst2 = return max lst 		4 12

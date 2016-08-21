@@ -1,0 +1,2 @@
+def main num_test_cases = int sys stdin readline for i in range num_test_cases input = str sys stdin readline print case #%d: %s % i + 1 join find_last list input len input 		3 7
+def find_last s if len s == 1 return s curr_str = list s 0 i = 1 while i != len s - 1 if s i >= curr_str 0 curr_str insert 0 s i else curr_str insert i s i i += 1 return curr_str 		9 20

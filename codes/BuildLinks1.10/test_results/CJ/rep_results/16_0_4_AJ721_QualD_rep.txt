@@ -1,0 +1,2 @@
+follow_tile k c lst pos = 0 		1 8
+follow_tile do_case k c s if s * c 		10 17

@@ -1,0 +1,1 @@
+def solve inp = list raw_input answer = for ch in inp be = ch + answer af = answer + ch if be >= af answer = be else answer = af return answer 		1 11

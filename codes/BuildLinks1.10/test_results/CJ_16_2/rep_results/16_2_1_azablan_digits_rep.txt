@@ -1,0 +1,2 @@
+def contains 		36 37
+thisScount thisScount thisScount n i = n num = while i < len 		18 33

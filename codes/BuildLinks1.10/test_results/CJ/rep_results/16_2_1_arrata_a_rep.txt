@@ -1,0 +1,1 @@
+removeword dic word check = 		15 24

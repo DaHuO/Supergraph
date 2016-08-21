@@ -1,0 +1,1 @@
+def solve s if len s == 1 return s head tail = solve s - 1 s - 1 if head 0 > tail return head + tail else return tail + head 		6 13

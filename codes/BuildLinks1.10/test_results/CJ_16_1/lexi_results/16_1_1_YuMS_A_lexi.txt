@@ -1,0 +1,2 @@
+def solve s ans = for l in s if l + ans > ans + l ans = l + ans else ans = ans + l return ans 		1 8
+def main t = input for i in xrange 1 t + 1 s = raw_input print case #{0}: {1} format i solve s 		10 14

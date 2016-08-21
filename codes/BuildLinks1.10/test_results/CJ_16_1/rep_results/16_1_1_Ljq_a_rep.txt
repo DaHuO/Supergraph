@@ -1,0 +1,1 @@
+def run ss f = for 		6 12

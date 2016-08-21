@@ -1,0 +1,1 @@
+def last_word cmd result = cmd 		7 15

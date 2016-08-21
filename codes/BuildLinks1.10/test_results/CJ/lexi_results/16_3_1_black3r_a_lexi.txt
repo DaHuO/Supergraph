@@ -1,0 +1,1 @@
+def l i return chr ord a + i 		6 7

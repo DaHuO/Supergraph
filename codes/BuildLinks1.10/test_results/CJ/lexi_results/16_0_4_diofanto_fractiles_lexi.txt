@@ -1,0 +1,1 @@
+def fractiles k c s tiles = n = 1 while n <= k ** c tiles append str n n += k ** c - 1 return  join tiles 		1 7

@@ -1,0 +1,4 @@
+def read_int_list 		24 25
+output_case #%(case)s: %(result)s 		27 32
+def solve k c s i 		5 10
+def to_check k c start 		12 22

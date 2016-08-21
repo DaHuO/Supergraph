@@ -1,0 +1,1 @@
+def run s = input strip di = dict chr x 0 for x in range ord A ord Z + 1 do = dict x 0 for x in range 10 for i in s di i += 1 if di Z > 0 do 0 = di Z di E -= di Z di R -= di Z di O -= di Z di Z 		2 70

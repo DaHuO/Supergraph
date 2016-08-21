@@ -1,0 +1,4 @@
+def solve s if s == return p = solve s - 1 c = s - 1 return max p + c c + p 		6 11
+def main for t in xrange 1 1 + int raw_input print case #%d: % t s = raw_input strip print solve s 		21 25
+def dfs i if len p == len s return p c = s len p return max dfs p + c dfs c + p 		14 18
+def brute_force s def dfs i if len p == len s return p c = s len p return max dfs p + c dfs c + p return dfs 		13 19

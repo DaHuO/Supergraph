@@ -1,0 +1,4 @@
+def rem small big 		30 35
+intersects small big for 		23 27
+bag make_bag intersects num_bags bag num_bags bag 0 for i 		38 51
+make_bag s d = 		13 19

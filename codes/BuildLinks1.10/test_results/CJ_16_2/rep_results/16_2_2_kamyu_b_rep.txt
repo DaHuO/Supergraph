@@ -1,0 +1,2 @@
+Ss Ss def match s1 s2 if len s1 != len s2 return False for i in xrange len s1 if s2 i != ? and s1 i 		1 21
+def match s1 s2 if len 		2 8

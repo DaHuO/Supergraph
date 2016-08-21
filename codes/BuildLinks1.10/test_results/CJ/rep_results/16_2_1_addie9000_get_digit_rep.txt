@@ -1,0 +1,2 @@
+def solve_case s case_number slist = list s digit = while z in slist digit append 0 slist remove z slist remove e slist remove r slist remove o while w in slist digit append 2 slist remove t slist remove w 		4 68
+def main r = sys stdin if 		71 81

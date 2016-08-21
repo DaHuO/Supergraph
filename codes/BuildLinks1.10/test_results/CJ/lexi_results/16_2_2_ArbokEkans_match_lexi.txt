@@ -1,0 +1,2 @@
+def acc c known = 0 unknown = for e i in enumerate reversed c if i != ? known += 10 ** e * int i else unknown append e for p in product * 10 ** i * j for j in range 10 for i in unknown yield known + sum p 		4 15
+def solve words c j = words split min_diff_c_j = 10 ** 10 10 ** 10 10 ** 10 for cw in acc c for jw in acc j curr = abs cw - jw cw jw if curr < min_diff_c_j min_diff_c_j = curr return  join str x zfill len c for x in min_diff_c_j 1 		17 25

@@ -1,0 +1,2 @@
+def missinglist n lines numbers_seen = dict for n in lines 		7 24
+def main ntest = int line for t in range ntest n 		32 47

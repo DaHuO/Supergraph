@@ -1,0 +1,3 @@
+def run chars ret = chars 0 for c in chars 1 if ret 0 <= c ret = c + ret else ret = ret + c log debug %s -> %s chars ret return ret 		9 18
+def parse lines return lines pop 0 strip 		20 21
+def main infile lines = infile readlines count = int lines pop 0 cases = parse lines for case in range count output = run case for case in cases for i result in enumerate output print case #%d: %s % i + 1 result 		25 32

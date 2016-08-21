@@ -1,0 +1,2 @@
+def solve grid m counts = suspects = for line in 		1 16
+def main n_cases = int input for case in range 		17 27

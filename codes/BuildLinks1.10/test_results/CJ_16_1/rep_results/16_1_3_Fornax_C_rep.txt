@@ -1,0 +1,1 @@
+deadends destudent deadends destudent = int f readline bff = int _ - 1 for _ in f readline split bffs = set bff if len bffs == n maxcycle = 0 twos = 0 while len bffs > 0 start = bffs pop curr = bff start bffs remove 		5 63

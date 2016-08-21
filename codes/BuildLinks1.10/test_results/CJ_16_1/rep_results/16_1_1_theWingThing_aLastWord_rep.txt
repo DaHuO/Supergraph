@@ -1,0 +1,1 @@
+def main t = int raw_input for t in 		1 11

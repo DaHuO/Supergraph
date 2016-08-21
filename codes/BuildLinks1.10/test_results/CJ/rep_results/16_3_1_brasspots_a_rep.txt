@@ -1,0 +1,3 @@
+def majority senators tot 		25 30
+ki ki ki full_remove full_remove full_remove tot = sum senators values for p num in senators items if num > tot / 2 return true return false senators = keys 		18 70
+def debug 		9 14

@@ -1,0 +1,2 @@
+def main path with open path as f 		16 24
+def process s res = 		6 13

@@ -1,0 +1,1 @@
+def place w l if len w == 0 or 		1 13

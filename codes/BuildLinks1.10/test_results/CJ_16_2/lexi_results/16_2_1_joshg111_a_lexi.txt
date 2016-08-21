@@ -1,0 +1,5 @@
+def in_ana h digit_str for c in digit_str if c not in h return False if h c < digits_h digit_str c return False return True 		5 14
+def find_sub_d h digit_str res = if not h return res for digit_str in digits_l while in_ana h digit_str extract_ana h digit_str res += d_to_n digit_str return find_sub_d h digit_str res 		25 34
+def get_h line h = for c in line if c not in h h c = 1 else h c += 1 return h 		37 45
+def extract_ana h digit_str res = dict h for c in digit_str res c -= 1 if res c == 0 del res c return res 		16 23
+def find_digits h s = d_i = 0 global digits_l res = if not h return s for i digit_str in enumerate digits_l d_i if in_ana h digit_str h_n = extract_ana h digit_str res += find_digits h_n s + d_to_n digit_str i + d_i return res 		48 74

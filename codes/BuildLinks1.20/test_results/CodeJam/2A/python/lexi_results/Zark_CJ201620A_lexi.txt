@@ -1,0 +1,5 @@
+def input self self n self r self p self s = int _ for _ in stdin readline split 		12 13
+def output self caseindex stdout write case #%d: % caseindex if len self result == 0 stdout write impossible\n else stdout write %s\n % join self result 		59 64
+def run self casenum = int stdin readline for caseindex in range casenum self input self exe self output caseindex + 1 		5 10
+def exe self oper = p r s self length = 1 << self n self result = for code in range 3 ** self length order = tmp = code counts = 0 0 0 for i in range self length r = tmp % 3 tmp /= 3 order append oper r counts r += 1 if counts 0 == self p and counts 1 == self r and counts 2 == self s if self check order if len self result == 0 or self result > order self result = order 		15 31
+def check self order tmp = order while len tmp > 1 tmp1 = for i in range len tmp >> 1 a = tmp i * 2 b = tmp i * 2 + 1 if a == b return false if a == p and b == r c = p elif a == p and b == s c = s elif a == r and b == p c = p elif a == r and b == s c = r elif a == s and b == p c = s elif a == s and b == r c = r tmp1 append c tmp = tmp1 return true 		33 57

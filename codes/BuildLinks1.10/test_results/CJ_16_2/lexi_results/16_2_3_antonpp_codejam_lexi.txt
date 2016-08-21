@@ -1,0 +1,1 @@
+def check a b real = a - b fs = set f for f l in real ls = set l for f l in real for f l in b if f not in fs or l not in ls return False return True 		9 16

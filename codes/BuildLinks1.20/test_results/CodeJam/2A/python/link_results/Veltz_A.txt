@@ -1,0 +1,21 @@
+
+With same rare tokens:
+27 - 32 links:
+IdoLivneh_A	:	144 - 151
+mihaild_template	:	20 - 23
+
+33 - 34 links:
+IdoLivneh_A	:	144 - 151
+mihaild_template	:	20 - 23
+
+37 - 38 links:
+ikicha_rock_paper_scissor	:	36 - 42
+
+35 - 36 links:
+ikicha_rock_paper_scissor	:	36 - 42
+IdoLivneh_A	:	144 - 151
+mihaild_template	:	20 - 23
+
+80 - 100 links:
+ruslanbes_a	:	6 - 10
+

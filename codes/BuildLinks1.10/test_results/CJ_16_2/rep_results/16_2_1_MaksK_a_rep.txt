@@ -1,0 +1,1 @@
+def recur bank num if num == 10 for l in bank if bank l > 0 return False 		12 39

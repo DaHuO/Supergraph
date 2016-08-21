@@ -1,0 +1,11 @@
+def create_letter_list_from_word word return Counter word 		64 65
+def solve_recursive moves_so_far letters_left if letter_list_is_empty letters_left return candidate_moves = get_next_moves letters_left if len candidate_moves == 0 return None for cand_move in candidate_moves rr = solve_recursive moves_so_far + cand_move get_position_after_move letters_left cand_move if rr is not None return cand_move + rr return None 		99 111
+def letter_list_is_empty letters_left for digit in letters_left if letters_left digit > 0 return False return True 		70 74
+def solve_all_testcases testcases t = testcases 0 vals = for testcase in testcases 1 vals append solve_testcase testcase return vals 		117 122
+def remove_digit_from_map digit letters_left digit_str = letter_list digit for s in digit_str letters_left s -= 1 return letters_left 		24 28
+def solve_testcase testcase letters_left = create_letter_list_from_word testcase sol = sorted solve_recursive letters_left return join str x for x in sol 		90 93
+def load_testcases filename with open filename r as f lines = f read splitlines t = int lines 0 return t lines 1 		6 10
+def write_solutions_to_file out_fileName testcases_solutions with open out_fileName w as f t_len = len testcases_solutions for t in range 0 t_len f write Case # + str t + 1 + : + str testcases_solutions t if t != t_len - 1 f write \n 		79 85
+def get_next_moves letters_left ret = for digit in range 0 10 if digit_removing_is_legal digit letters_left ret append digit return ret 		45 50
+def get_position_after_move letters_left move ret = Counter letters_left remove_digit_from_map move ret return ret 		55 58
+def digit_removing_is_legal digit letters_left digit_str = letter_list digit digit_counter = Counter digit_str for dd in digit_counter if letters_left dd < digit_counter dd return False return True 		33 39

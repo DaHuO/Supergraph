@@ -1,0 +1,2 @@
+find_tiles k c s 		3 4
+d-small-attempt1.in.txt d-small-attempt1.out.txt find_tiles = open r f_out = open w n_tests 		6 21

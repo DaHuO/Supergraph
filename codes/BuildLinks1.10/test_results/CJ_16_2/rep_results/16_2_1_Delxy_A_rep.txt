@@ -1,0 +1,1 @@
+ref equi equi ref equi [] ' THREE FOUR FIVE SIX SEVEN EIGHT NINE dico = tmp = n0 count X if tmp != 0 dico SIX = tmp n0 = n0 replace S tmp n0 = n0 replace I tmp tmp = n0 count S if tmp != 0 dico SEVEN 		3 69

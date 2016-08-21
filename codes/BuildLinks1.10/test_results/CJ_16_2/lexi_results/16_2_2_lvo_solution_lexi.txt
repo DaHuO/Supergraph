@@ -1,0 +1,3 @@
+def solve src1 src2 assert len src1 == len src2 return min 		14 28
+def combinations src1 src2 if not src1 yield elif src1 0 == ? if src2 0 == ? for c1 in 0123456789 for c2 in 0123456789 for sub1 sub2 in combinations src1 1 src2 1 yield c1 + sub1 c2 + sub2 else c = src2 0 for i in 0123456789 for sub1 sub2 in combinations src1 1 src2 1 yield i + sub1 c + sub2 elif src2 0 == ? for y x in combinations src2 src1 yield x y else for sub1 sub2 in combinations src1 1 src2 1 yield src1 0 + sub1 src2 0 + sub2 		38 57
+def main count = int next sys stdin rstrip for i in range 1 count + 1 src = next sys stdin rstrip old_c old_j = src split c j = solve old_c old_j sys stdout write Case #{}: {} {}\n format i c j 		5 11

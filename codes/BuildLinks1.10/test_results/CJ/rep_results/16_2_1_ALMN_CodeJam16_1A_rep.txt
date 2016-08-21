@@ -1,0 +1,14 @@
+one_removal array arrear 		82 87
+four_removal array arrear = 		104 110
+eight_removal array arrear = array 		135 142
+two_removal array arrear 		89 94
+five_removal array arrear = 		112 118
+string_sorter 		5 6
+counting_thingy total_counts possible_letters total_counts 		10 16
+seven_removal array arrear = 		127 133
+three_removal array arrear = 		96 102
+nine_removal array arrear 		144 149
+cutevens 29 zero_removal two_removal four_removal six_removal eight_removal 0 phonenum = phonenum + 0 string = 		54 72
+zero_removal 29 arrear = 		74 80
+numbermaker 29 zero_removal two_removal four_removal six_removal eight_removal three_removal one_removal seven_removal five_removal nine_removal 0 string = string while string 25 > 0 phonenum = phonenum + 2 string = string while string 21 > 0 phonenum = phonenum + 4 		18 51
+six_removal array arrear 		120 125

@@ -1,0 +1,2 @@
+def solve n = int raw_input cnts = np array map int raw_input split total = sum 		6 27
+def main t 		30 34

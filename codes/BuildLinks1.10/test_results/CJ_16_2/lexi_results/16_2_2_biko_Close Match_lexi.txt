@@ -1,0 +1,4 @@
+def substs_for_score score combos = itertools product range 10 repeat = score count ? combos = join map str combo for combo in combos for combo in combos current = score remaining = collections deque combo while remaining current = BOARD_REGEX sub remaining popleft current count = 1 yield current 		25 34
+def main for index case in enumerate get_cases start = 1 print Case #{}: {} {} format index * solve_case case 		37 39
+def solve_case case return min itertools product substs_for_score case 0 		19 20
+def get_cases num_cases = int sys stdin readline for _ in range num_cases yield sys stdin readline split 		13 16

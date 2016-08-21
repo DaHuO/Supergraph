@@ -1,0 +1,1 @@
+def last s = list raw_input 		1 6

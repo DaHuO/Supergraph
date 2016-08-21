@@ -1,0 +1,2 @@
+countWords s d 		14 20
+countWords nZeros nZeros nSixs nSixs nTwos nTwos nEights nEights nThrees nThrees nFours nFours nOnes nOnes nFives nFives nSeven nSeven nNine nNine nZeros nOnes nTwos nThrees nFours nFives nSixs nSeven nEights nNine c in SIX counts c = counts get c 0 - = counts get W 0 for c in 		22 79

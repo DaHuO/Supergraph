@@ -1,0 +1,2 @@
+bestVal Cnum Jnum Cnum Jnum Cnum Jnum Cnum Jnum bestVal bestVal = len J for 		17 29
+ref ref num2 for 		10 14

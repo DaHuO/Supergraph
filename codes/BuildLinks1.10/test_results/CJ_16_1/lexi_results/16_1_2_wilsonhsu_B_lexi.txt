@@ -1,0 +1,2 @@
+def solve grid count = for row in grid for n in row count n = count get n 0 + 1 missing = for n in count if count n % 2 == 1 missing append n return sorted missing 		2 11
+def run name f = open {0}.in format name r g = open {0}.out format name w t = int f readline for t in range t n = int f readline grid = none * 2 * n - 1 for i in range 2 * n - 1 grid i = int k for k in f readline split missing = solve grid g write case #{0}: {1}\n format t + 1  join str k for k in missing f close g close 		13 27

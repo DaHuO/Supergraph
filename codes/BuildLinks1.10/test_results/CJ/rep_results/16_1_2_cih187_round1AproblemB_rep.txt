@@ -1,0 +1,2 @@
+remove_values_from_list my_list 		33 34
+round1a_b matrice matrice sublist matrice sublist remove_values_from_list my_result my_result my_result lines = file readlines test_case_number = 0 line_number = 1 while test_case_number < int lines 		1 30

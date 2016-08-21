@@ -1,0 +1,1 @@
+def main data answer = for char in data if not answer or answer 0 <= char answer = char + answer else answer append char return join answer 		3 11

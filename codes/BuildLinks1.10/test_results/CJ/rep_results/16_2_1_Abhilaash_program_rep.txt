@@ -1,0 +1,5 @@
+checknum s letters temp 		14 20
+inputvars f = 		2 6
+inputvars checknum removeletter checknum removeletter checknum removeletter checknum removeletter checknum removeletter checknum removeletter checknum removeletter checknum removeletter checknum removeletter checknum removeletter outputvars > 0 while six letters letters = six 		30 70
+removeletter s 		22 28
+outputvars num output f = open 		8 12

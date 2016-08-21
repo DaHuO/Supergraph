@@ -1,0 +1,6 @@
+def form_equal_answer code jam answer = for i c in enumerate code j = jam i if c == ? if j == ? answer += 0 else answer += j elif j == ? or j == c answer += c else return None return answer 		6 19
+def form_list s l = len s all_res = range 10 ** l result = for res in all_res to_add = True res = to_full_string res l for i in character_indexes s if s i != res i to_add = False if to_add result append res return result 		31 43
+def character_indexes s res = for i _ in enumerate s if s i != ? res append i return res 		24 29
+def to_full_string s l return l - len str s * 0 + str s 		21 22
+def diff c j return abs int c - int j 		45 46
+def form_result result_code result_jam case print Case #%s: %s %s % case + 1 result_code result_jam 		3 4

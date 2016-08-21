@@ -1,0 +1,6 @@
+pcount primaries primaries primaries pcount pcount fcount pcount fcount fcount W U X G for i in range len S if S i 		44 66
+def __init__ self file 		6 9
+def put self ans outs = 		24 29
+toKill toKill toKill elements stringLetters = ZERO ONE TWO 		31 39
+def __init__ self file 		17 21
+def pop 		11 13

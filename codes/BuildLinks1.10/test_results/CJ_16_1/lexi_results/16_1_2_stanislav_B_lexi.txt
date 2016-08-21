@@ -1,0 +1,1 @@
+def run t n = int raw_input counts = for i in range 2 * n - 1 for r in map int raw_input split if not r in counts counts r = 1 else counts r += 1 result = for k v in counts iteritems if v % 2 == 1 result append k print case #{}: {} format t  join map str sorted result 		3 17

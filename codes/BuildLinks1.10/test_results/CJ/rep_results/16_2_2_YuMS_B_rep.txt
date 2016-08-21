@@ -1,0 +1,5 @@
+trywithfill nowc nowj fillc fillj tempc nowc fillc tempj nowj fillj tempc tempj 1 		19 25
+def main t = input 		72 77
+nowc nowj nowc nowj nowc nowj nowc nowj 		9 17
+normal trywithfill trywithfill trywithfill trywithfill trywithfill trywithfill trywithfill trywithfill normal normal trywithfill 0 = true for i in range len c if c i == ? and j i == ? now *= 10 c j i now now + 1 9 0 c j i now + 1 		27 70
+10e19 		5 7

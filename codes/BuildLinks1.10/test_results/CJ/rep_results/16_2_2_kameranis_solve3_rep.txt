@@ -1,0 +1,1 @@
+def solve f s n m j if j >= len n return abs f - s f s n m if n j != ? and m j != ? return solve f * 10 + int n j s * 10 + int m j n m j + 1 elif n j != ? and m j == ? if f == s a = int n j f = f * 10 + a s = s * 10 lst = m j = str 		3 65

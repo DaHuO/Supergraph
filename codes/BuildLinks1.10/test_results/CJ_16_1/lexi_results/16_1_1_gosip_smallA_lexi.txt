@@ -1,0 +1,2 @@
+def lastword s lastword = s 0 s = s 1 for c in s if ord c >= ord lastword 0 lastword = c + lastword else lastword = lastword + c return lastword 		9 17
+def main f = open a-large.in r t = int f readline for i in range t s = f readline strip print case # + str i + 1 + : + lastword s f close 		1 7

@@ -1,0 +1,8 @@
+solveproblemset parsefile infilepath solveps 		52 58
+solveps ps s = ps s n = 		23 31
+def 		20 21
+parsevec vecvalues 		37 39
+psoutformat iternum 		41 42
+parsenum 		34 35
+writetofile outfilestr outfilestr resultarr 		44 48
+parsefile parsenum problemarr problemarr problemset problemarr 		8 16

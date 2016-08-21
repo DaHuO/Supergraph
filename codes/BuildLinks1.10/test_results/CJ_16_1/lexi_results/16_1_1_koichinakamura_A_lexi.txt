@@ -1,0 +1,1 @@
+def solve s answer = for c in s if all c >= t for t in answer answer insert 0 c else answer append c return join answer 		1 8

@@ -1,0 +1,9 @@
+def n xn return xn + i / xn / 2 		65 66
+def inversion_count seq if len seq < 2 return seq 0 l = len seq / 2 seq1 c1 = inversion_count seq l seq2 c2 = inversion_count seq l inv = 0 seq = while seq1 or seq2 if not seq1 seq += seq2 seq2 = elif not seq2 seq += seq1 seq1 = else e1 = seq1 0 e2 = seq2 0 if e1 > e2 inv += len seq1 seq append e2 seq2 = seq2 1 else seq append e1 seq1 = seq1 1 return seq inv + c1 + c2 		84 109
+def w output t res print result_string format t + 1 res output write result_string format t + 1 res + \n 		49 51
+def nis input return map int input readline split 		53 54
+def integer_sqrt i if not i return 0 if i < 0 raise ValueError cannot calculate square root of negative def n xn return xn + i / xn / 2 xn xnp xnpp = i n i n n i while xn != xnpp xn xnp xnpp = xnp xnpp n xnpp return min xnp xnp 		59 70
+def sis input return input readline split 		56 57
+def __call__ self * args ** kwargs if tuple args tuple kwargs items in self memory return self memory tuple args tuple kwargs items else val = self f * args ** kwargs self memory tuple args tuple kwargs items = val return val 		76 82
+def __init__ self f self f = f self memory = 		73 75
+def main input_filename output_filename with open input_filename as input open output_filename w as output T = nis input for t in range T c = Counter S = sis input s = Counter S phone_num = for ch n in order count = s get ch if count is not None if ch == N count /= 2 for r in numbers n s r = s r - count if ch == N and r == N s r = s r - count phone_num += n * count phone_num = sorted phone_num res = join map str phone_num w output t res 		23 47

@@ -1,0 +1,3 @@
+def convert line num = while Z in line line = removeChar line Z line = removeChar line E line = removeChar line R line = removeChar line O num append 0 while W in line line = removeChar line T line = removeChar line W line = removeChar line O num append 2 while U 		12 74
+def removeChar line ch pos = 		3 9
+def main testcases = 		76 80

@@ -1,0 +1,6 @@
+def removeStr 		1 3
+def main t = 		100 104
+def hasNum list num if num == 0 return Z in list if num == 6 return 		27 48
+def removeNum list num if num == 0 removeStr list ZERO if num == 		5 25
+def getDigits list num if not list return num else if hasNum list 0 num append 0 removeNum list 0 return getDigits list num if hasNum list 6 num 		50 93
+def getDigit s 		96 98

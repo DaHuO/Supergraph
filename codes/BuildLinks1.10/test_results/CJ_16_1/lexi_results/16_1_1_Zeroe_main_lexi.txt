@@ -1,0 +1,6 @@
+def __init__ self file self file = file 		13 14
+def read_int fin return int fin readline 		24 25
+def close self self file close 		20 21
+def solve fin s = fin readline strip r = for s in s if s + r >= r + s r = s + r else r = r + s return r 		33 43
+def read_ints fin return int x for x in fin readline split 		27 28
+def write self str sys stdout write str self file write str 		16 18

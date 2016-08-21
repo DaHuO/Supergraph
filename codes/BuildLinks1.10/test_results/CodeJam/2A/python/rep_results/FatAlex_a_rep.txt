@@ -1,20 +1,20 @@
-test_solutions until_first_fail load_cases cn verify_outcome Wrong outcome! cn Outcome: 		110 123
+test_solutions load_cases verify_outcome Wrong outcome! Outcome: \n\n path_in for 		110 123
 def cnt 		70 71
-winp red s if len s < 2 return True 		31 39
+def red s if len s < 2 return True 		31 39
 read_line f 		4 8
 outcome_string outcome 		84 85
 load_cases load_single_case with open path 		18 24
-save_outcomes outcomes outcomes {1}\n outcome_string 		88 91
+save_outcomes {1}\n outcome_string with open 		88 91
 		125 127
-test_solutions_gen until_first_fail gen_cases cn verify_outcome Wrong outcome! cn 		129 142
+test_solutions_gen gen_cases verify_outcome Wrong outcome! Outcome: \n\n cn 		129 142
 double oe oe 		61 64
 solve_bf case _ R 		48 50
 read_list read_line 		9 10
 verify_outcome 		107 108
 load_single_case 		14 15
 double expand c 		65 68
-get_order get_order winp winp winp 0 return PRS None else o _ 		53 59
+get_order get_order if d == 0 return PRS None else o _ 		53 59
 read_tuple 		11 12
-path_out path_out path_out rsplit load_cases outcomes 		92 97
+rsplit load_cases save_outcomes path_out = None 		92 97
 def check s r if len r == 		40 47
 expansions solve case 		76 78

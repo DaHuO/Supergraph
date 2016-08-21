@@ -1,0 +1,1 @@
+linprog bounds disp bland tol 1e-12 maxiter 100000000 = set w2s = set for i in xrange N w1 w2 = raw_input strip split words 		4 37

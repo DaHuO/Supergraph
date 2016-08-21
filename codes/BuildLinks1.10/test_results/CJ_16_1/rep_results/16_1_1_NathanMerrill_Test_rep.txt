@@ -1,0 +1,3 @@
+order_string string current_char = string 0 		17 26
+def read_file with 		6 8
+def write lines with open file_name 		11 14

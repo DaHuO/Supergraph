@@ -1,0 +1,9 @@
+def replace s i = 0 if i == len 		17 27
+def memo f cache = 		4 9
+def wrap * 		6 8
+evaluateOptionKey def solEq i rem = len s1 - 1 - i p = 10 ** rem if rem < 0 return 0 c1 = s1 i c2 = s2 i if c1 == ? or c2 == ? options = if c1 == ? if c2 == ? options append 0 1 solMax i + 1 elif c2 != 0 		86 140
+def put 		14 15
+memo def solMin i rem = len s1 - 1 - i if rem < 0 return 0 c1 		31 55
+evaluateOptionKey evaluateOptionKey s1 s2 memo def solMin i rem = len s1 - 1 - i if rem < 0 return 0 c1 = s1 i c2 = s2 i if c1 == ? and c2 == ? d1 = 0 d2 = 9 elif c1 == ? d1 = 0 d2 = int c2 elif c2 == ? d1 = int c1 d2 = 9 else d1 = int c1 d2 = int c2 digitDiff = d1 - d2 r r1 r2 = solMin i + 1 return r + digitDiff * 10 ** rem str d1 + r1 str d2 + r2 memo 		29 143
+evaluateOptionKey delta 		83 84
+memo def solMax i rem = len s1 - 1 - i if rem < 0 return 0 c1 		57 81

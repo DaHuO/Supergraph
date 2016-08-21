@@ -1,0 +1,1 @@
+def get_ans ls dct = for l in ls for el in l if str el not in dct dct str el = 0 dct str el += 1 l = for k in dct keys if dct k % 2 != 0 l append k l = int ll for ll in l l sort sl = for el in l sl += str el +  return sl 		2 32

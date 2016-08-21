@@ -1,0 +1,1 @@
+print_sol process_case self s = self 		6 15

@@ -1,0 +1,2 @@
+python program.py if len sys argv != 1 sys 		18 31
+def func word word = word strip curr 		4 15

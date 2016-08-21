@@ -1,0 +1,2 @@
+wordify word k out 		3 8
+doprob wordify = raw_input k c s = read split k = int 		10 27

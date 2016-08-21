@@ -1,0 +1,1 @@
+def lastword a if len a < 		1 10

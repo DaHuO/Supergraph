@@ -1,0 +1,2 @@
+def find_last 		12 15
+nowstr1 nowstr2 nowstr1 nowstr2 if len 		5 10

@@ -1,0 +1,2 @@
+caseIdx caseIdx t = int 		1 8
+def solve S numsCount = 0 * 10 charCount = dict for c in S if c in charCount charCount c += 1 else charCount c = 1 if Z in charCount count = charCount Z if count > 0 numsCount 0 = count charCount Z -= count charCount E -= count charCount R -= count charCount O -= count if W in charCount count = charCount W if count > 0 numsCount 		10 132

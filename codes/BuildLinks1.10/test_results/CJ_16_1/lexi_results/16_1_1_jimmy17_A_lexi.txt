@@ -1,0 +1,3 @@
+def solve s result = for letter in s result = max result + letter letter + result return result 		6 10
+def parse return raw_input 		3 4
+def main for i in range int raw_input s = parse result = solve s print case #%s: %s % i + 1 result 		12 16

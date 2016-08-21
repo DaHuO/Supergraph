@@ -1,0 +1,4 @@
+rdln 		33 34
+make_answer chars_left matching_digits chars_left current_char current_char matching_digits phone_number = for char in string char_counts char = char_counts get char 0 		11 31
+		53 55
+file_io txtout rdln jumbled_number rdln make_answer jumbled_number str_out txtout txtout str_out txtout osCommandString 		36 51

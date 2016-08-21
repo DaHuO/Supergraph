@@ -1,9 +1,11 @@
-55 - 83 links:
-eMBe_A	:	147 - 152
-
+Direct links:
 8 - 10 links:
 xwu_A	:	35 - 37
 Giove_A	:	12 - 16
-soon_main	:	49 - 53
 lidaobing_1	:	107 - 114
+
+
+With same rare tokens:
+55 - 83 links:
+eMBe_A	:	147 - 152
 

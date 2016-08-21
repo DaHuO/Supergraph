@@ -1,0 +1,4 @@
+def find_numbers string number = newstr = string for j d in enumerate dictionary i newstr = if_digit_in_string d newstr 0 number += i * str j if newstr newstr = string number = for j d in enumerate reversed dictionary i newstr = if_digit_in_string d newstr 0 number += i * str 9 - j return join sorted number 		43 55
+def update_string digit string newstr = string for ch in digit newstr = newstr replace ch 1 return newstr 		36 40
+def read_file file_name with open file_name r as f lines = f read splitlines return lines 		7 10
+def if_digit_in_string digit string i newstr = string for ch in digit if ch not in newstr return i string newstr = update_string ch newstr i += 1 i newstr = if_digit_in_string digit newstr i return i newstr 		20 32

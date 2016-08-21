@@ -1,0 +1,1 @@
+def solve s = sys stdin 		3 12

@@ -1,0 +1,2 @@
+def add_2 x val return x + val 		13 14
+def add_1 x val return val + x 		11 12

@@ -1,0 +1,1 @@
+def last inp result = inp 0 1 		1 9

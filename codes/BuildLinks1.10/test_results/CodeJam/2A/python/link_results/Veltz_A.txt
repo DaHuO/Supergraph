@@ -1,14 +1,8 @@
-27 - 32 links:
-jzj_A	:	28 - 40
-Subscheme_A-small	:	34 - 46
-mihaild_template	:	20 - 23
 
-33 - 34 links:
-mihaild_template	:	20 - 23
-
+With same rare tokens:
 37 - 38 links:
 ikicha_rock_paper_scissor	:	36 - 42
 
 35 - 36 links:
-mihaild_template	:	20 - 23
+ikicha_rock_paper_scissor	:	36 - 42
 

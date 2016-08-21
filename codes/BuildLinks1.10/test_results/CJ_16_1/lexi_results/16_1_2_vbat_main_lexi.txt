@@ -1,0 +1,1 @@
+def processcase data missing_line = flat_data = item for sublist in data for item in sublist d = defaultdict int for height in flat_data d height += 1 for k v in d iteritems if v % 2 != 0 missing_line append k return  join map str sorted missing_line 		16 26

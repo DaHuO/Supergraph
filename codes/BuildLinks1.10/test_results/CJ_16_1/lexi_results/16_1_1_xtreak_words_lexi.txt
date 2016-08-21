@@ -1,0 +1,2 @@
+def recurse word = c = return c + word word + c 		8 9
+def solve word rem = global test if not word test append rem return rem return list map lambda x solve word 1 join x recurse word 0 rem 		11 16

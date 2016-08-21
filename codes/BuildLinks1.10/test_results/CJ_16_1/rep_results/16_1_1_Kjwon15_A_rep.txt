@@ -1,0 +1,1 @@
+def solve line = input strip 		1 9

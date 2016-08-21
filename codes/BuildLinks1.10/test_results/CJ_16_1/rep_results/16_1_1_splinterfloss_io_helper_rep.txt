@@ -1,0 +1,3 @@
+prep_output output_filename 		8 11
+def write_output index string output_filename 		13 16
+def get_input 		3 6

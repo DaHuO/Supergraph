@@ -1,0 +1,1 @@
+28 sol s s = sorted s counts = dict res = for l in range counts chr l + ord A = 0 for l in s counts l = counts get l 0 + 1 res = res + 0 * counts Z counts E -= counts Z counts R -= counts Z counts O -= counts Z 		5 69

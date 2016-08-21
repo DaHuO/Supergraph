@@ -1,0 +1,2 @@
+def _mergesort array start end mid = start + end / 2 if start < end _mergesort array start mid _mergesort array mid + 1 end elif start == end return l = start r = mid + 1 tmp_array = while l <= mid and r <= end if array l < array r tmp_array append array l l += 1 else tmp_array append array r r += 1 if l <= mid tmp_array += array l else tmp_array += array r i = 0 while start <= end array start = tmp_array i start += 1 i += 1 		3 33
+def mergesort array _mergesort array 0 len array - 1 		35 36

@@ -1,0 +1,2 @@
+maxab outputline outputline outputfile t = int inputfile 		28 41
+maxab prevp finditer span prevp maxab prevp return c = max 		13 26

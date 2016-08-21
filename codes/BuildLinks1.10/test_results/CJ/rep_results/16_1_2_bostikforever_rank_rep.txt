@@ -1,0 +1,1 @@
+diag_j diag_i diag_i diag_i diag_j i_min diag_i i_min diag_j i_min diag_j i_min i_counter pos_i pos_i i_counter pos_i = 0 for i in xrange n 		5 32

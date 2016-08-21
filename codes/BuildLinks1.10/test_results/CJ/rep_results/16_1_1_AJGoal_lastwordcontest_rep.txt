@@ -1,0 +1,2 @@
+getlastword tcno inputstring inputstring inputstring inputstring inputstring tcno inputstring mainstring inputstring totalstringlist inputstring totalstringlist startstring mainstring endstring mainstring totalstringlist startstring totalstringlist 		8 38
+r'd:\spyderworkspace\codejamroundone\results\a-small-attempt2 (1).out' r'd:\spyderworkspace\codejamroundone\results\a-small-attempt2 (1).in' nooftcs nooftcs inputstring getlastword inputstring 		40 51

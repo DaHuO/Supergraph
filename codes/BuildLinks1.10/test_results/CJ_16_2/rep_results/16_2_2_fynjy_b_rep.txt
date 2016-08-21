@@ -1,0 +1,6 @@
+tryit s1 s2 makeLess index score1 = score2 = isLess = False isMore = False for i in range len s1 c1 = s1 i c2 = s2 i if c1 != ? and c2 != ? if not isLess and not isMore isLess = c1 < c2 isMore = c1 > 		21 89
+readia return 		12 13
+readi 		9 10
+def 		18 19
+readi tryit scoresAndDiff scoresAndDiff scoresAndDiff scoresAndDiff in range 1 nt + 1 s1 s2 		91 107
+readfa return 		15 16

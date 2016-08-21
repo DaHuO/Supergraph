@@ -1,0 +1,1 @@
+getw s output = for 		6 13

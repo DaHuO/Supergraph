@@ -1,0 +1,3 @@
+Solving: counting_order Doing "%s", instances %r case case = case lower counts = 		23 43
+def main lines = ln strip for 		52 58
+def 		47 49

@@ -1,0 +1,2 @@
+output. run filename input 		6 15
+def solution input result = lines = input read splitlines cases = int lines 0 for i in xrange 1 cases + 1 1 		18 50

@@ -1,0 +1,2 @@
+def find cur rest if cur is none if len rest < 2 return rest return find sorted list rest 2 reverse = true rest 2 if not rest return join cur head = rest 0 if head >= cur 0 return find head + cur rest 1 else return find cur + head rest 1 		17 32
+def main filename f = iter open filename r readlines t = int next f for e _ in enumerate range t word = next f strip print case #{}: {} format e + 1 find none word 		5 11

@@ -1,0 +1,3 @@
+def let_count s r 		6 11
+def sub_let lc d 		13 17
+def find_num lc if Z in lc return sub_let lc 0 if W in lc 		19 29

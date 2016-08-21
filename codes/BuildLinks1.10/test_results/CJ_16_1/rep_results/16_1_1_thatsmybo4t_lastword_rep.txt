@@ -1,0 +1,2 @@
+def last_word s last = for 		1 11
+def main t = input 		13 18

@@ -1,0 +1,6 @@
+solution_number solution_number 		16 17
+def red result counts char check full 		20 26
+		12 13
+read_int_line 		8 9
+read_single 		4 5
+def solution s = list read_string counts = char s count char for char in s result = digs = ZERO ONE TWO THREE 		29 45

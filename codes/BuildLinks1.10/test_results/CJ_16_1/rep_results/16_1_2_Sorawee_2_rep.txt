@@ -1,0 +1,2 @@
+groupby solve rows for 		4 7
+def main nums = map int sys stdin read split 		9 15

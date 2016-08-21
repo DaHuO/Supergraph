@@ -1,0 +1,4 @@
+pre_solve counter_list NUMBER_OR_LETTERS char_index 		7 12
+find_number_rec first_digit first_digit new_count DIGITS_PRICE partial_solution %d%s 		30 40
+pre_solve find_number_rec 		43 46
+arr2 left_copy NUMBER_OR_LETTERS left_copy arr2 		21 27

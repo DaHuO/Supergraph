@@ -1,0 +1,8 @@
+
+With same rare tokens:
+9 - 12 links:
+bogosort	:	3 - 7
+test_sorts	:	50 - 74
+sorting	:	14 - 16
+graphsort	:	78 - 85
+

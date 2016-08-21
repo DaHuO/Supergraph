@@ -1,0 +1,12 @@
+def dec num 		5 9
+kill5 num 		53 55
+kill0 num 		14 16
+kill0 kill2 kill4 kill6 kill8 kill1 kill3 kill5 kill7 s = raw_input for ch in s num ch 		63 83
+kill6 num 		29 31
+kill7 num 		58 60
+kill1 num 		38 40
+kill4 num 		24 26
+kill1 num 		43 45
+kill8 num 		34 36
+kill3 num 		48 50
+kill2 num 		19 21

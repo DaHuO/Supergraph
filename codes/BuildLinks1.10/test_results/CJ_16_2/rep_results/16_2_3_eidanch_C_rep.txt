@@ -1,0 +1,3 @@
+relatively_fake solve lst st = set lst for 		22 44
+lstrip main t = int input for 		47 54
+relatively_fake mark1 mark2 z1 z2 z1 z2 z1 		10 20

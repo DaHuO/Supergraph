@@ -1,0 +1,1 @@
+def getw s output = for x in s if x + output > output + x output = x + output else output = output + x return output 		6 13

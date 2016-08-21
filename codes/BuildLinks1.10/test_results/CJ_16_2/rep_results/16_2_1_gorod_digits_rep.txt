@@ -1,0 +1,2 @@
+def remove s 		2 7
+def process ss num = 0 * 10 s = ss num 0 = s count z s = remove s zero num 0 num 2 = s count w s 		9 46

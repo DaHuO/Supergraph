@@ -1,0 +1,2 @@
+def compute lt phone if sum lt values == 0 return phone pos = 0 for d in digits if ok lt d ltc = lt copy for c in d ltc c -= 1 res = compute ltc phone + pos if res return res pos += 1 return false 		19 40
+def ok lt d cts = defaultdict int for c in d cts c += 1 for c in d if lt c < cts c return false return true 		3 13

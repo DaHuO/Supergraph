@@ -1,0 +1,25 @@
+Direct links:
+35 - 39 links:
+16_1_1_Moy_A	:	7 - 16
+16_1_1_Sync_codejam1	:	9 - 16
+16_1_1_jimmy17_A	:	6 - 10
+16_1_1_Brady2016_round1_1	:	1 - 8
+
+8 - 27 links:
+16_1_2_aklecram_solveB	:	8 - 30
+16_1_3_aklecram_solveC	:	9 - 29
+
+29 - 32 links:
+16_1_2_aklecram_solveB	:	32 - 35
+16_1_3_aklecram_solveC	:	31 - 34
+
+
+With same rare tokens:
+8 - 27 links:
+16_1_2_aklecram_solveB	:	8 - 30
+16_1_3_aklecram_solveC	:	9 - 29
+
+29 - 32 links:
+16_1_2_aklecram_solveB	:	32 - 35
+16_1_3_aklecram_solveC	:	31 - 34
+

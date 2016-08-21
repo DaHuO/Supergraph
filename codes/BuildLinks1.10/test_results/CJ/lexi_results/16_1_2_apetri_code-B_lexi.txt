@@ -1,0 +1,2 @@
+def missinglist n lines numbers_seen = dict for n in lines flatten if n in numbers_seen numbers_seen n += 1 else numbers_seen n = 1 missing = list for n in numbers_seen if numbers_seen n % 2 missing append n missing sort assert len missing == n return  join str c for c in missing 		7 24
+def main ntest = int line for t in range ntest n = int line lines = np zeros 2 * n - 1 n dtype = np int for r in range 2 * n - 1 lines r = int c for c in line split  sys stdout write case #{0}: {1}\n format t + 1 missinglist n lines 		32 47

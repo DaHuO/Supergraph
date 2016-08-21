@@ -1,0 +1,1 @@
+phone_number_string phone_number_string phone_number_string number_digits_array = 0 0 0 0 0 0 0 0 0 0 number_jumble = list number_jumble while Z in number_jumble number_jumble remove Z number_jumble remove E number_jumble remove R number_jumble remove O number_digits_array 0 += 1 while W in number_jumble number_jumble remove T number_jumble remove W 		3 98

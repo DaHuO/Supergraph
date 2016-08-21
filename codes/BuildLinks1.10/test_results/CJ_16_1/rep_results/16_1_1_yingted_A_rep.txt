@@ -1,0 +1,4 @@
+def solve s if s 		6 11
+def main for t 		21 25
+def dfs i if len 		14 18
+def brute_force s def dfs i 		13 19

@@ -1,0 +1,1 @@
+def form nums k val = nums 0 for n in nums 1 val = val - 1 * k + n return val 		8 13

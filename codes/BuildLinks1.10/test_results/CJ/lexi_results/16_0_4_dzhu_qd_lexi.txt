@@ -1,0 +1,2 @@
+def calc k c s if c * s < k return impossible def convert digits return 1 + reduce lambda x y k * x + y digits return  join map str convert xrange d0 min k d0 + c for d0 in xrange 0 k c 		3 10
+def convert digits return 1 + reduce lambda x y k * x + y digits 		7 8

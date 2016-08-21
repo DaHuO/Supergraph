@@ -1,0 +1,2 @@
+sumcol col_sum col_sum col_sum j in 		13 20
+evoluciona cur_mat ini cur_mat ini 		4 11

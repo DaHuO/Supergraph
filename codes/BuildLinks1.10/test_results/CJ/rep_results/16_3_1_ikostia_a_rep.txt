@@ -1,0 +1,3 @@
+print_output i 		6 7
+delta_max delta_max i input n p = input p = v chr ord a + i for i 		9 20
+def read_input 		1 4

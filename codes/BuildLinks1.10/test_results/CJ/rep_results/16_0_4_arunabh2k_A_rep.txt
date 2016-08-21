@@ -1,0 +1,1 @@
+getcount -1 ste ste ste ste for ix in range k toret += str ix + 1 +  return toret t = k - 		3 34

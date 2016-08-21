@@ -1,0 +1,7 @@
+count_lets txt cnt = 		4 10
+find_sol count_lets cnts = text rs = rs append sub_number X 6 cnts rs append sub_number 		37 63
+indicator indicator idx cnts num 		30 35
+find_sol 		73 74
+cnt1 cnt2 cnt2 cur_cnt cnt1 mv cur_cnt 		20 28
+def parse_file fname 		67 71
+def main fname = sys argv 1 outname 		76 86

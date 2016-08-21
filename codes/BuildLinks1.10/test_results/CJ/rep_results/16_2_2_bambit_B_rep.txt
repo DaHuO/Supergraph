@@ -1,0 +1,4 @@
+get_best_repl cpre jpre unify cpre jr jpre jr crem jrem c_best cpre crem j_best jpre jrem j_best c_best cpre crem jpre jrem c_x c_x c_x c_x c_best c_x c_best j_best c_best c_x j_best j_x j_x j_x c_best c_best j_x j_best c_best j_best j_x c_best j_best first_mismatch = j first_mismatch = 		43 104
+unify cpre jpre cpre jpre = jl = for i in range first_mismatch if c 		21 41
+jr unify jr jr get_best_repl jr get_best_repl jr readline rstrip split first_mismatch = 0 for i in range len 		106 131
+def match num pattern l = len pattern if 		5 19

@@ -1,0 +1,1 @@
+def isoftype s val global n1 for i in range 0 n1 if s i != ? if s i != val i return False return True 		1 7

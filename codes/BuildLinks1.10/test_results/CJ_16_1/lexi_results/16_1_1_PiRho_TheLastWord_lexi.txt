@@ -1,0 +1,1 @@
+def get_last_word word last_word = for letter in word if last_word == last_word = str letter continue if last_word 0 1 > letter last_word = last_word + letter else last_word = letter + last_word return last_word 		1 12

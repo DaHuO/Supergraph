@@ -1,0 +1,2 @@
+def findlastword s j lastword = 		5 14
+solveall lastword.test lastword.test.out processes = num_threads = 20 input_data = open filename read split \n print input_data 		20 34

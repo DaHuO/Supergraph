@@ -1,0 +1,1 @@
+def solve fin fout t = int fin readline strip for _t 		5 16

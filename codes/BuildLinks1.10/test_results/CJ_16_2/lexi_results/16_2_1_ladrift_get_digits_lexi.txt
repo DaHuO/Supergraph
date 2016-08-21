@@ -1,0 +1,2 @@
+def solve s start = 0 if s == return for n in range 10 if included_in_str s num_str n next_s = s for ch in num_str n split_idx = next_s find ch next_s = next_s split_idx + next_s split_idx + 1 result_str = solve next_s start = n + 1 if result_str is not None return str n + result_str 		18 32
+def included_in_str s target count = 0 for ch in target if ch in s count += 1 split_idx = s find ch s = s split_idx + s split_idx + 1 if count == len target return True else return False 		5 16

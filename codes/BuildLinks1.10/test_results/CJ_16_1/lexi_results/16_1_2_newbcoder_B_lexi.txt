@@ -1,0 +1,1 @@
+def solve solds hist = dict for i in range len solds for j in range len solds i if solds i j in hist hist solds i j += 1 else hist solds i j = 1 out = for k in hist keys if hist k % 2 == 1 out append k out sort return  join map str out 		5 23

@@ -1,0 +1,1 @@
+alps tgt alps tgt 0 = abcdefghijklmnopqrstuvwxyz with open input.txt rt as src open output.txt wt as cases = int src readline i = 1 while i <= cases line = src readline rstrip \r\n n = int line ps = src readline 		4 53

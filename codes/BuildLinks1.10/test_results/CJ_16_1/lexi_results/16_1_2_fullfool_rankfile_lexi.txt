@@ -1,0 +1,2 @@
+def comp lista listb listlen = len lista for i in range listlen if lista i < listb i return - 1 if lista i > listb i return 1 return 0 		20 27
+def findmissing inputlines resultdict = for i in range len inputlines for j in range len inputlines 0 if resultdict has_key inputlines i j resultdict inputlines i j += 1 else resultdict inputlines i j = 1 resultlist = for key in resultdict keys if resultdict key % 2 == 1 resultlist append int key resultlist sort return resultlist 		1 15

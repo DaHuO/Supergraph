@@ -1,0 +1,1 @@
+def naive S ctr = Counter S 		14 22

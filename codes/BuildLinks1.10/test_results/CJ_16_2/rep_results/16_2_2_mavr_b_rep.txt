@@ -1,0 +1,4 @@
+999999999999999999 solve t global ans 		103 108
+def repl 		7 8
+nans nans nans b pos if pos >= len a global ans A = int a B = int b = abs A - B A B a b if < ans ans = return i = pos A = a pos B = b pos if A == B == ? aa = repl a i 0 bb = repl b i 0 bf aa bb i + 1 l = larger a b if l == 1 aa = 		20 99
+def larger a b for A B 		10 18

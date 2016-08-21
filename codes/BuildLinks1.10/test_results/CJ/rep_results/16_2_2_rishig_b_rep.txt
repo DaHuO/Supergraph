@@ -1,0 +1,6 @@
+prefixes prefixes nposs nposs nposs nposs poss append c j len c for i in range len c c j = c j i if c i != ? and j i != ? poss append c + tomin c i j + tomax j i poss append c + 		39 64
+def p1 l 		29 32
+prefixes c j k c = j = for i in range k if c i == 		5 21
+def 		26 27
+def m1 l 		34 37
+def 		23 24

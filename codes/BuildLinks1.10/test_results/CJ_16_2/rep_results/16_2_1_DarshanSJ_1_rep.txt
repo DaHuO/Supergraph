@@ -1,0 +1,1 @@
+there there there there out global output if len inp == 0 output = out return True if i == 10 and len inp 		6 36

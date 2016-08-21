@@ -1,0 +1,72 @@
+num = int(input())
+for k in range(num):
+    ans = []
+    digit = list(input())
+    while "Z" in digit:
+        ans.append("0")
+        digit.remove("Z")
+        digit.remove("E")
+        digit.remove("R")
+        digit.remove("O")
+    while "W" in digit:
+        ans.append("2")
+        digit.remove("T")
+        digit.remove("W")
+        digit.remove("O")
+    while "X" in digit:
+        ans.append("6")
+        digit.remove("S")
+        digit.remove("I")
+        digit.remove("X")
+    while "G" in digit:
+        ans.append("8")
+        digit.remove("E")
+        digit.remove("I")
+        digit.remove("G")
+        digit.remove("H")
+        digit.remove("T")
+    while "U" in digit:
+        ans.append("4")
+        digit.remove("F")
+        digit.remove("O")
+        digit.remove("U")
+        digit.remove("R")
+    while "G" in digit:
+        ans.append("8")
+        digit.remove("E")
+        digit.remove("I")
+        digit.remove("G")
+        digit.remove("H")
+        digit.remove("T")
+    while "F" in digit:
+        ans.append("5")
+        digit.remove("F")
+        digit.remove("I")
+        digit.remove("V")
+        digit.remove("E")
+    while "T" in digit:
+        ans.append("3")
+        digit.remove("T")
+        digit.remove("H")
+        digit.remove("R")
+        digit.remove("E")
+        digit.remove("E")
+    while "O" in digit:
+        ans.append("1")
+        digit.remove("O")
+        digit.remove("N")
+        digit.remove("E")
+    while "S" in digit:
+        ans.append("7")
+        digit.remove("S")
+        digit.remove("E")
+        digit.remove("V")
+        digit.remove("E")
+        digit.remove("N")
+    while "E" in digit:
+        ans.append("9")
+        digit.remove("N")
+        digit.remove("I")
+        digit.remove("N")
+        digit.remove("E")
+    print("Case #" + str(k+1) + ": " + str(''.join(sorted(ans, key=lambda e: int(e)))))

@@ -1,0 +1,1 @@
+def decode a b diff = 9999 ans_a ans_b = a b n m = a count ? b count ? for x in product dig repeat = n for y in product dig repeat = m pa pb = a b for z in x pa = pa replace ? z 1 for z in y pb = pb replace ? z 1 if abs int pa - int pb < diff diff = abs int pa - int pb ans_a ans_b = pa pb return ans_a ans_b 		5 17

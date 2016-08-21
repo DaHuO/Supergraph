@@ -1,0 +1,4 @@
+def parseInput buf buf = buf split \n 		28 42
+def combinations_with_replacement iterable r pool = 		44 49
+solveProblem rnd fmt1 fmt2 fmt1 fmt2 on1 on2 on1 on2 on1 on2 rnd == ? rep1 append i rep2 = for i v in enumerate t2 if v == ? rep2 		51 91
+getInput example exampleString %s- %s-large.in %s-small-attempt%d.in curAttempt practice %s-small-practice.in rt 		15 26

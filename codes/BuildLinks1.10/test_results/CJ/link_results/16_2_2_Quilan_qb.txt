@@ -1,0 +1,13 @@
+
+With same rare tokens:
+28 - 42 links:
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_1_DanielCoder_code	:	54 - 62
+16_2_2_DanielCoder_code2	:	125 - 128
+16_2_2_DanielCoder_code2	:	114 - 122
+16_1_1_DanielCoder_code2	:	40 - 43
+16_1_1_DanielCoder_code2	:	29 - 37
+
+44 - 49 links:
+16_2_2_MichaHoffmann_a	:	3 - 42
+

@@ -1,0 +1,3 @@
+def zero string return string replace ? 0 		9 10
+def nine string return string replace ? 9 		6 7
+def check pa ra pb rb global result a = int pa + nine ra b = int pb + zero rb result = min result abs a - b a b a = int pa + zero ra b = int pb + nine rb result = min result abs a - b a b 		13 21

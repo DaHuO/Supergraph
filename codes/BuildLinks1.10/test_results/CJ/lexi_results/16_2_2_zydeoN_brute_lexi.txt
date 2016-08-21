@@ -1,0 +1,2 @@
+def brute sc sj solutions = rec list sc + sj ans = min solutions key = lambda x x 0 int x 1 0 int x 1 1 return ans 1 0 +  + ans 1 1 		24 27
+def rec s ans if s == n = len ans sc = ans n // 2 sj = ans n // 2 score = abs int sc - int sj return score sc sj if s 0 != ? return rec s 1 ans + s 0 res = for i in range 10 res extend rec s 1 ans + str i return res 		7 21

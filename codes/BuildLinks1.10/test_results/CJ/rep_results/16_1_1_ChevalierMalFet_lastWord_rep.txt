@@ -1,0 +1,1 @@
+findlastword maxchar maxchar maxchar findlastword <= 		7 12

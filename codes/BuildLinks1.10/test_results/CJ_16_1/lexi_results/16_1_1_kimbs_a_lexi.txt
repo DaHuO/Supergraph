@@ -1,0 +1,1 @@
+def solve s result = for i in range len s if len result > 0 if result 0 <= s i result = s i + result else result += s i else result += s 0 return result 		3 16

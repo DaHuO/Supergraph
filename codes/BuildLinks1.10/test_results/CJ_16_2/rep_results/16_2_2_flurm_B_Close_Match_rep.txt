@@ -1,0 +1,9 @@
+atrace .. pause_after_trace f = sys stderr 		21 30
+atrace 		17 19
+__dict__ 		12 13
+def something i if i < len q 		126 137
+def memoized_f * args try result = 		34 42
+getline 		8 9
+solve_1 jq jq = 1 J_IS_LOWER = 2 DONT_KNOW_MIGHT_BE_EQUAL = 3 c = j = state = DONT_KNOW_MIGHT_BE_EQUAL for c_dq j_dq in zip cq if c_dq == ? and j_dq == ? if state == 		47 116
+def memoize f memos = def memoized_f * 		32 43
+generate_possibles q results = ar = * len q def something 		120 141

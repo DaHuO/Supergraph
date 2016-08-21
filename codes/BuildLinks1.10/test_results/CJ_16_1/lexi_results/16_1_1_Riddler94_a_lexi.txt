@@ -1,0 +1,2 @@
+def addbefore res l res_temp = for i in xrange len res res_temp append l + res i return res_temp 		10 14
+def addafter res l res_temp = for i in xrange len res res_temp append res i + l return res_temp 		4 8

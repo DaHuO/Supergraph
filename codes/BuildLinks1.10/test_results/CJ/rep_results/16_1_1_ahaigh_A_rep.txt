@@ -1,0 +1,2 @@
+def main s = sys stdin 		13 18
+def ans s ans = 		4 11

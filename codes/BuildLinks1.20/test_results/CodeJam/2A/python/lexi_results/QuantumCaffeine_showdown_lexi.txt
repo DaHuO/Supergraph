@@ -1,0 +1,4 @@
+def cases inputfile with open inputfile r as f numcases = int f readline for _ in range numcases yield int x for x in f readline split 		5 9
+def build winner n current = winner results = for _ in range n results append current newcurrent = for player in current newcurrent += player + beats player current = newcurrent results append current return results 		13 23
+def solve n r p s ans = for winner in r p s test = precalc winner n if test count r == r and test count p == p and test count s == s if ans == or test < ans ans = test if ans != return ans else return impossible 		44 54
+def sortbuild results for row in range len results r = results row group = 1 while group <= len r / 2 for p in xrange 0 len r 2 * group bit1 = r p p + group bit2 = r p + group p + 2 * group if bit2 < bit1 r = r p + bit2 + bit1 + r p + 2 * group group *= 2 results row = r 		25 36

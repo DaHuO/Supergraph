@@ -1,0 +1,1 @@
+ru lastsmall.out filename f = open filename tc = int f readline g 		1 17

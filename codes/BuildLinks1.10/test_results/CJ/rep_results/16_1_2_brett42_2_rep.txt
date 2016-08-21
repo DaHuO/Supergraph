@@ -1,0 +1,2 @@
+2.in go f = open 		3 9
+def solve f n = int f readline d = for x in range n 		13 27

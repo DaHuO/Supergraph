@@ -1,0 +1,2 @@
+gc s v = 		1 5
+dwc f c v d l 		6 10

@@ -1,0 +1,1 @@
+def solve n arr answer flag = true for i in arr if i != 0 flag = false break if flag return answer for i in range - 1 len arr if 		1 60

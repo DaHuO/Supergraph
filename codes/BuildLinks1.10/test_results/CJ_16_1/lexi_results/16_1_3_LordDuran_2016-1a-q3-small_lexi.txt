@@ -1,0 +1,1 @@
+def do_case ncase n = parse_line bffs = bffline = parse_line bffline = x - 1 for x in bffline for i in xrange n bffs i = bffline i maxi = 0 for n in xrange 2 n + 1 for perm in itertools permutations range n n for i in xrange n if bffs perm i != perm i + 1 % n and bffs perm i != perm i - 1 % n break else maxi = max maxi n print >> outputfile out_s % ncase str maxi 		12 27

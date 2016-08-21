@@ -1,0 +1,1 @@
+def find_last_word start_word last_word = start_word 0 for index in range 1 start_word __len__ if start_word index < last_word 0 last_word += start_word index else last_word = start_word index + last_word return last_word 		3 16

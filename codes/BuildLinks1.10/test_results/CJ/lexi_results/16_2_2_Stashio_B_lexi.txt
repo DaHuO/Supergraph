@@ -1,0 +1,5 @@
+def getmultint return map int getmult 		21 22
+def getmultfloat return map float getmult 		24 25
+def terriblyslow aval bval a b idx astr bstr global mina global minb global mindif global minastr global minbstr if idx == len a if abs aval - bval < mindif mina = aval minb = bval minastr = astr minbstr = bstr mindif = abs aval - bval elif abs aval - bval == mindif if aval < mina mina = aval minb = bval minastr = astr minbstr = bstr elif aval == mina and bval < minb minb = bval minastr = astr minbstr = bstr return if a idx == ? and b idx == ? for a in range 10 for b in range 10 terriblyslow aval * 10 + a bval * 10 + b a b idx + 1 astr + str a bstr + str b elif a idx == ? b = int b idx for a in range 10 terriblyslow aval * 10 + a bval * 10 + b a b idx + 1 astr + str a bstr + b idx elif b idx == ? a = int a idx for b in range 10 terriblyslow aval * 10 + a bval * 10 + b a b idx + 1 astr + a idx bstr + str b else a = int a idx b = int b idx terriblyslow aval * 10 + a bval * 10 + b a b idx + 1 astr + a idx bstr + b idx 		32 76
+def getmult return getline strip split 		18 19
+def getline global curline global lines curline += 1 return lines curline - 1 		12 16

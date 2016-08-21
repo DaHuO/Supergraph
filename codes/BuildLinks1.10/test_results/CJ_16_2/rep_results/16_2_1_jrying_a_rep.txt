@@ -1,0 +1,3 @@
+def format s 		12 13
+def substract a r i 		17 21
+def foo a r = a r = substract a r 25 0 a r = substract 		23 45

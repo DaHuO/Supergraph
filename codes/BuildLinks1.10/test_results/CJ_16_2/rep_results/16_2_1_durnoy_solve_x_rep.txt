@@ -1,0 +1,5 @@
+chr2idx 		9 10
+idx2chr 		12 13
+test1 digits_strings chars_set digits_strings 		52 57
+rt case_id case_id = sys stdin if len sys 		37 50
+chr2idx unique_seq ch_pos chr2idx ch_pos digits_strings x_pos chr2idx x_pos x_pos x_pos S counts ch += 1 out 		15 35

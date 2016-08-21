@@ -1,0 +1,1 @@
+def val s return min len subj1 s 0 len subj2 s 1 		14 15

@@ -1,0 +1,1 @@
+q4.in q4.out file_name = f = open file_name r lines = f read splitlines test_cases = int lines 0 result = 		1 21

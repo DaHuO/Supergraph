@@ -1,0 +1,4 @@
+mid mid mid opt = 1 l = len p i = 1 while i < l 		57 72
+prev1 prev1 inc prev2 global best free circle if bff prev2 == first if level > best 		82 125
+loc loc loc global bff first best n best = 1 		129 161
+def 		8 10

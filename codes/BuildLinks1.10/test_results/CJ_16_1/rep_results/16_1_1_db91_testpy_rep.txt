@@ -1,0 +1,1 @@
+def getlastword word case lastchar = lastword = 0 finalword = for x in 		21 37

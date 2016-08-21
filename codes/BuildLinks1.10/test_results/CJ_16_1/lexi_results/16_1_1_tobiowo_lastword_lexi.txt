@@ -1,0 +1,1 @@
+def get_word line if not line return d = deque d append line 0 line = line 1 for char in line if char >= d 0 d appendleft char else d append char return join d 		18 29

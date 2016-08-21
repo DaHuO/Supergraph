@@ -1,0 +1,1 @@
+lastch \0 lastch lastch int raw_input + 1 for t 		1 13

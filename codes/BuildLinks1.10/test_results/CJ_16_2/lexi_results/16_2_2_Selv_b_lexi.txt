@@ -1,0 +1,7 @@
+def sim a b if a == ? or b == ? or a == b return True return False 		62 65
+def eq c j t x = zip c j ans = for a b in x if a != ? and b != ? if a == b ans += a else return False elif a != ? and b == ? ans += a elif a == ? and b != ? ans += b elif a == ? and b == ? ans += 0 else print WTF print Case #%d: % t ans ans return True 		3 22
+def minn c def f a if a == ? return 0 else return a return join map f c 		25 31
+def maxx c def f a if a == ? return 9 else return a return join map f c 		34 40
+def f a if a == ? return 0 else return a 		26 30
+def f a if a == ? return 9 else return a 		35 39
+def eee c j x = zip c j ans = for a b in x if a != ? and b != ? if a == b ans += a else return False elif a != ? and b == ? ans += a elif a == ? and b != ? ans += b elif a == ? and b == ? ans += 0 else print WTF return ans 		42 60

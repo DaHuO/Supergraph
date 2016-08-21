@@ -1,0 +1,2 @@
+def helper n lists d = defaultdict int for l in lists for i in l d int i += 1 res = for key in d if d key % 2 != 0 res append key res sort return  join str i for i in res 		17 27
+def write_res file_name res with open file_name w as f res_str = i = - 1 for i in range len res - 1 res_str += case #{}: format i + 1 + str res i + \n res_str += case #{}: format i + 2 + str res - 1 f write res_str 		8 15

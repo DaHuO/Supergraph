@@ -1,0 +1,1 @@
+def count_chars string cnt = defaultdict lambda 0 for char in string cnt char += 1 return cnt 		7 11

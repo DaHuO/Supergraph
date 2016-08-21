@@ -1,0 +1,3 @@
+def outputtestcase tcn x out_f write case # + str tcn + : + str x + \n 		20 21
+def solvetestcase s if len s == 0 return m = s 0 for ch in s if ch > m m = ch return getlastword s m 		35 42
+def getlastword s m r = for ch in s if ch == m r = ch + r else if len r > 0 and r 0 <= ch r = ch + r else r = r + ch return r 		23 33

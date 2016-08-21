@@ -1,0 +1,2 @@
+def ceil b d if b % d == 0 return b / d else return b / d + 1 		9 13
+def calc k c tiles if k <= c ignore = 0 i = 1 chunk = chunksize = pow k c - 1 while i <= k ignore = ignore + i - 1 * chunk chunk = chunk / k i = i + 1 tiles append ignore + 1 else chunksize = pow k c - 1 j = 1 while len tiles < ceil k c r = range len tiles * chunksize + 1 len tiles * chunksize + 1 i = 1 chunk = chunksize ignore = 0 while i <= c and j <= k ignore = ignore + j - 1 * chunk chunk = chunk / k i = i + 1 j = j + 1 tiles append ignore + 1 		16 42

@@ -1,0 +1,1 @@
+def solve source current_max = 0 target = for c in source o = ord c if o >= current_max current_max = o target insert 0 c else target append c return join target 		9 23

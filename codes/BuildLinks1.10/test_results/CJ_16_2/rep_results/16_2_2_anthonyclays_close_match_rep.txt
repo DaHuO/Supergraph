@@ -1,0 +1,2 @@
+def case t res = a b = 		21 25
+def all_poss s c = s count ? 		8 19

@@ -1,0 +1,1 @@
+def solve s = sys stdin readline replace \n c = Counter for x in s c x += 1 sol = None for i in xrange 10 sol 0 = s count Z 		9 49

@@ -1,0 +1,2 @@
+rabs 0.000001 		8 9
+def solve S ch = defaultdict int for c in S ch c += 1 count = 0 * 10 while ch Z > 0 ch Z -= 1 ch E -= 1 ch R -= 1 ch O -= 1 count 0 += 1 while ch W > 0 ch T -= 1 ch W -= 		11 92

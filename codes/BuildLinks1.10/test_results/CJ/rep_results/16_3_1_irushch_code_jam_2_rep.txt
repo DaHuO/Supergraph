@@ -1,0 +1,5 @@
+no_one_has_majority 		20 21
+save_politic pol mx = max 		24 30
+balance 100.0 if sum 		14 17
+num_pol save_politic save_politic no_one_has_majority balance while max politics 		33 44
+num_pol num_pol t = int raw_input for i 		47 57

@@ -1,0 +1,2 @@
+def solve x = step 		36 45
+def step m1 = 0 m2 = 0 p1 = - 1 p2 = - 1 total = 0 for i in range 		4 35

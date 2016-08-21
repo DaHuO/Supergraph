@@ -1,0 +1,4 @@
+given_str decrypt_phone 		86 91
+decrypt_phone phone_str occurances = letter 0 for letter in set LETTERS for letter in phone_str occurances letter += 1 digits = x 0 for x in range 10 current_digit = 0 digits current_digit = occurances Z for letter in NAMES current_digit occurances letter -= 		15 83
+		94 96
+num_of_tests num_of_tests printable_result handle_result printable_result 		99 107

@@ -1,0 +1,2 @@
+def find r p s st if r + p + s == 0 if test st return st true if p > 0 news = st + p v b = find r p - 1 s news if b return v b if r > 0 news = st + r v b = find r - 1 p s news if b return v b if s > 0 news = st + s v b = find r p s - 1 news if b return v b return false 		34 53
+def test s s2 = if len s == 1 return true else for i in range len s // 2 v = r x = s 2 * i y = s 2 * i + 1 if x == y return false if x == p if y == r v = p else v = s if x == s if y == p v = s else v = r if x == r if y == s v = r else v = p s2 += v return test s2 		5 32

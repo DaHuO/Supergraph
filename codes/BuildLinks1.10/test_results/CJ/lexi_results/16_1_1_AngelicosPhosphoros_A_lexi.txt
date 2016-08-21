@@ -1,0 +1,2 @@
+def process_word s result = s 0 for ch in s 1 if ch < result 0 result += ch else result = ch + result return result 		1 8
+def output f = open out.txt w f write \n join outs f close 		17 20

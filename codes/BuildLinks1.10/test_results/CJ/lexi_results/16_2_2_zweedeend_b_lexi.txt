@@ -1,0 +1,2 @@
+def options for combo in itertools product 0123456789 repeat = scores count ? score = template format * combo c j = map int score split yield abs c - j c j score 		13 17
+def solve scores template = scores replace ? {} def options for combo in itertools product 0123456789 repeat = scores count ? score = template format * combo c j = map int score split yield abs c - j c j score best = min options diff c j score = best return score 		11 20

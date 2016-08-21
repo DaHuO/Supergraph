@@ -1,0 +1,1 @@
+def solve string if string - 1 == \n string = string - 1 result = string 0 for l in string 1 if l < result 0 result = result + l else result = l + result return result 		1 10

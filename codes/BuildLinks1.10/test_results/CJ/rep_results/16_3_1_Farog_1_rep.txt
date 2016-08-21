@@ -1,0 +1,1 @@
+printsen n sens parties = chr x for x in range 65 65 + n senators = p 0 for p in parties for p in range 0 len parties senators parties p = sens p result = sum = float sum senators values while sum > 0 senators_sorted = sorted senators items key = operator itemgetter 1 reverse = true if sum == 1 result append senators_sorted 0 0 senators senators_sorted 		11 73

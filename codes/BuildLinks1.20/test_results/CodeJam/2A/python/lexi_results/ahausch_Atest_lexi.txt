@@ -1,0 +1,1 @@
+def treesort str if len str > 1 mid = len str // 2 a = treesort str mid b = treesort str mid if a < b return a + b return b + a return str 		26 35

@@ -1,0 +1,2 @@
+checkm exclude exclude exclude = 0 left = 0 for name in parties total += parties name if name 		8 32
+def outp a b file = 		1 6

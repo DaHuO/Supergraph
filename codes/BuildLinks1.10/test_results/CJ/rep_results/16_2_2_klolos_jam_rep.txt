@@ -1,0 +1,7 @@
+def 		10 11
+def main 		109 111
+def solve1 c j greater if not len c return if greater == c if c 0 == ? c 0 = 0 if j 0 == ? j 0 = 9 c j = solve1 c 1 j 1 c return str c 0 + c str j 0 + j elif greater == j if c 0 == ? c 0 = 9 if j 0 == ? j 0 = 0 c j = 		33 101
+splitline 		14 15
+splitline solve c 		103 106
+sols4 sols4 sols diffs = abs int s 0 - int s 1 for s in sols sols2 = s 		18 31
+def print_result 		6 7

@@ -1,0 +1,1 @@
+def sol n l l sort t missing = zip l xrange n * 2 - 1 for i in xrange n r = 2 if len t == 1 or t 1 0 0 != t 0 0 0 missing r u = i 1 l t 0 1 t = sorted list map lambda x x 0 1 x 1 t r res = u missing cnt = for p in l cnt p missing = 0 for p in l cnt p missing += 1 for x in u cnt x -= 1 for k v in cnt items if v == 1 res append k res sort return  join map str res 		5 26

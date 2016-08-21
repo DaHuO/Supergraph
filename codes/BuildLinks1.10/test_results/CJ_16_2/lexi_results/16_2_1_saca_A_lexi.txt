@@ -1,0 +1,6 @@
+def readValues valueType return list map valueType stdin readline split 		10 11
+def solve coded return recurse coded 0 		59 60
+classmethod def answer cls answer print Case #{}: {} format cls count answer cls count += 1 		17 20
+def readValue valueType return valueType stdin readline 		6 7
+def readInput return readValue str strip 		23 24
+def recurse left last if not left return for idx in range last len numbers tmp = left matches = True for letter in numbers idx pos = tmp find letter if pos == - 1 matches = False break tmp = tmp pos + tmp pos + 1 if matches further = recurse tmp last if further is not None return str idx + further return None 		41 57

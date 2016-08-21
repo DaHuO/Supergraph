@@ -1,0 +1,1 @@
+encontrarmasbajo indice indice indice listas == 0 return res 		6 19

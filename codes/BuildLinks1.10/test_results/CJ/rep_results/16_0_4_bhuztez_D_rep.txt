@@ -1,0 +1,3 @@
+base_k k l r 		3 7
+base_k tiles k c 		9 11
+def solve k c s = 		13 19

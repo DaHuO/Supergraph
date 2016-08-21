@@ -1,0 +1,2 @@
+def read_ints 		4 5
+handle word_and_signal a7 a9 a7 a9 readline strip = ZERO Z EIGHT G SIX X FOUR U FIVE F THREE H TWO W SEVEN V NINE I ONE 		7 37

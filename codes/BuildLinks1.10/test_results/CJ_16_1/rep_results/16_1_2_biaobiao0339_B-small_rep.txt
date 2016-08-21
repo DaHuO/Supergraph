@@ -1,0 +1,4 @@
+atoi isdigit 		9 10
+natural_keys atoi 		12 18
+def main lines = l strip for l in fileinput input logging 		45 58
+natural_keys find_answer lines num_lines = lines 0 a_str =  join lines 		20 43

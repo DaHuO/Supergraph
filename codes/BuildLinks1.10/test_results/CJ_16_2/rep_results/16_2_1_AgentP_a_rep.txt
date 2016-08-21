@@ -1,0 +1,1 @@
+def func inp if Z in inp count 0 += 1 inp remove Z inp remove E inp remove R inp remove O elif X in inp count 6 += 1 inp remove S inp remove I inp remove X 		3 64

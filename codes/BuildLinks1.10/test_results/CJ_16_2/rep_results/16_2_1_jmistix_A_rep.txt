@@ -1,0 +1,2 @@
+get_phone result_number result_number result_number for char in ascii_uppercase letters char = 0 for char in word letters char += 		9 38
+ind_by_char 		6 7

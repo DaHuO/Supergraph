@@ -1,0 +1,2 @@
+place_character string character 		15 19
+load_testcase filename with open filename r 		4 12

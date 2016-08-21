@@ -1,0 +1,1 @@
+def solve s cnt = for c in s cnt c = cnt get 		28 44

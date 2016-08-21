@@ -1,0 +1,2 @@
+def solve s k c s = map int s split  if c == 1 if s < k return impossible return  join map str range 1 k + 1 if s < k - 1 return impossible if k == 1 return 1 return  join map str range 2 k + 1 		5 15
+def out x print x outf write x + \n 		17 19

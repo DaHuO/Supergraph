@@ -1,0 +1,5 @@
+pnext cur 		1 2
+all_next new_states pnext new_states big_s 0 		4 10
+outname outname fname = sys argv 1 = 		25 35
+all_next 		12 13
+def parse_file fname with 		19 23

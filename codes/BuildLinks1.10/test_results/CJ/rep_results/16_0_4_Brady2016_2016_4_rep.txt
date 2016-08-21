@@ -1,0 +1,1 @@
+doit2 k c s minanswer = k - c + 1 if minanswer < 1 		52 68

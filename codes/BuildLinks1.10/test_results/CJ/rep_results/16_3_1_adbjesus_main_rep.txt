@@ -1,0 +1,1 @@
+%c %c n = int raw_input p = int i for i in 		1 21

@@ -1,0 +1,1 @@
+def main t = int raw_input for t in xrange 1 t + 1 s = raw_input res = s 0 for i in range 1 len s candidate1 = res + s i candidate2 = s i + res if candidate1 > candidate2 res = candidate1 else res = candidate2 print case #{}: {} format t res 		14 27

@@ -1,0 +1,1 @@
+parse_line out_s ncase N = pairs = for i in xrange N pairs append rl split maxnum = 0 for i in xrange 2 ** 		10 41

@@ -1,0 +1,1 @@
+def win line winn = line 0 for i in range 1 len line if line i >= winn 0 winn insert 0 line i else winn insert len winn line i arr = chr i for i in winn str1 = join arr return str1 		18 28

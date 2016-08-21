@@ -1,0 +1,1 @@
+bestalpha s l = len s string 		10 18

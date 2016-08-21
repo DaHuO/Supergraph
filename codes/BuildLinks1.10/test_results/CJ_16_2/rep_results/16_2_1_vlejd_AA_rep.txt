@@ -1,0 +1,5 @@
+def 		17 18
+def code i q 		9 13
+def main 		36 39
+emp 		6 7
+cowrds solve t print Case #%d: % t + 1 s = raw_input 		21 33

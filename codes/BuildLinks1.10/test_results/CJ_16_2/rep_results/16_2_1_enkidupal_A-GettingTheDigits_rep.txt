@@ -1,0 +1,11 @@
+create_letter_list_from_word 		64 65
+solve_recursive moves_so_far letter_list_is_empty candidate_moves get_next_moves candidate_moves cand_move candidate_moves 		99 111
+letter_list_is_empty letters_left for 		70 74
+solve_all_testcases solve_testcase t 		117 122
+remove_digit_from_map letter_list letters_left 		24 28
+solve_testcase create_letter_list_from_word solve_recursive 		90 93
+load_testcases filename with open 		6 10
+write_solutions_to_file out_fileName testcases_solutions out_fileName t_len testcases_solutions t_len testcases_solutions 		79 85
+get_next_moves digit_removing_is_legal ret 		45 50
+get_position_after_move move 		55 58
+digit_removing_is_legal letter_list digit_counter digit_counter digit_counter 		33 39

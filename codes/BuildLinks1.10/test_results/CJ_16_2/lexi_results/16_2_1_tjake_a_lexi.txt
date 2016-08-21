@@ -1,0 +1,1 @@
+def remove num sig word = nu num cnt = dic get sig 0 if cnt > 0 for c in word dic c -= cnt return cnt 		5 11

@@ -1,7 +1,5 @@
-50 - 63 links:
-matwetu_a	:	29 - 43
-edgarthewise_A	:	18 - 31
 
+With same rare tokens:
 66 - 73 links:
 programcaicai_A	:	6 - 40
 

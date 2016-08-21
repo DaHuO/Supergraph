@@ -1,0 +1,2 @@
+memo_dict main num_cases = int sys stdin readline 		3 8
+def solve case k c s = case split  k c s = 		10 26

@@ -1,0 +1,10 @@
+rem5 a s = for i in range len a if a i == F s += a i + 		118 147
+rem1 a s = for i in range len a if a i == O 		1 23
+rem0 a s = for i in range len a if a i == Z s += a i + 		280 309
+rem2 a s = for i in range len a if a i == T 		25 47
+rem4 a s = for i in range len a if a i == F s += a i + 		87 116
+rem3 a s = for i in range len a if a i == T s += a i + 1 break else s += 		49 85
+rem6 a s = for i in range len a if a i == S 		149 171
+rem8 a s = for i in range len a if a i == E s += a i + 1 break else s += 		211 247
+rem9 a s = for i in range len a if a i == N s += a i + 		249 278
+rem7 a s = for i in range len a if a i == S s += a i + 1 break else s += 		173 209

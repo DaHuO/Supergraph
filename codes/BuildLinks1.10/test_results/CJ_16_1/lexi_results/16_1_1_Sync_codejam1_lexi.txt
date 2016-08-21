@@ -1,0 +1,3 @@
+def lastword word result = word 0 for i in word 1 if i < result 0 result = result + i else result = i + result return result 		9 16
+def main file = file.txt data = readfile file for i in range 1 len data print case #{0}: {1} format i lastword data i 0 		18 22
+def readfile filename result = with open filename r as f for line in f line = line split result append line return result 		1 7

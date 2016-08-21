@@ -1,0 +1,2 @@
+def case 		10 11
+outputlines output 		5 8

@@ -1,0 +1,2 @@
+double S_next S_next double S_next == 0 return if len S == 1 return S ret = None fst = set sec = set fst_cnt = dict sec_cnt = dict for s in S 		5 54
+double_kouho double_kouho double double_kouho = set sec = set fst_cnt = dict sec_cnt = dict for s in S if s 0 in fst fst_cnt s 0 		57 103

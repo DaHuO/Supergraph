@@ -1,0 +1,1 @@
+def solve n l = for i 		3 14

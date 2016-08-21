@@ -1,0 +1,2 @@
+reverse_stack string index if index 		2 5
+def find_solution string new_string = 		8 16

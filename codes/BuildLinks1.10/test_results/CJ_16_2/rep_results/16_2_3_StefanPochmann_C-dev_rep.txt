@@ -1,0 +1,2 @@
+suffice real f 		8 10
+suffice suffice topics firsts seconds = map set zip * topics 		6 14

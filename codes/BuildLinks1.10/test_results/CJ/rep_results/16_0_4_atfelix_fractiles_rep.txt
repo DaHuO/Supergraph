@@ -1,0 +1,2 @@
+def fractile k 		1 3
+def main for i in range int 		5 8

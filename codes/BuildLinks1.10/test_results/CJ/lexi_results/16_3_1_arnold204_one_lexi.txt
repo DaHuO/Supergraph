@@ -1,0 +1,2 @@
+def evacuate state soln while state if len state keys == 2 if state values 0 == state values 1 ans = join state keys soln append ans state = decre_state state ans continue for k v in sorted state iteritems key = operator itemgetter 1 reverse = true ans = k soln append k state = decre_state state ans break return soln 		12 25
+def decre_state state ans for ch in ans state ch = state ch - 1 if state ch == 0 del state ch return state 		5 10

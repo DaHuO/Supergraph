@@ -1,0 +1,2 @@
+def toletter n if n == none return return abcdefghijklmnopqrstuvwxyz n 		1 5
+def f nums order = firstflag = true while true flag = false for i n in enumerate nums if n > 0 order append i nums i -= 1 flag = true if firstflag and len nums == 3 firstflag = false order append none if not flag break if len order % 2 == 1 order append none ans = order reverse for i in range 0 len order 2 ans append toletter order i + toletter order i + 1 if i + 1 < len order else return  join ans 		8 35

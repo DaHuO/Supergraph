@@ -1,0 +1,60 @@
+
+With same rare tokens:
+9 - 13 links:
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+
+16 - 32 links:
+16_2_2_jeroenvw_gcj	:	55 - 62
+16_2_2_jeroenvw_gcj	:	55 - 62
+16_2_2_jeroenvw_gcj	:	55 - 62
+16_2_2_jeroenvw_gcj	:	150 - 191
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	20 - 50
+16_2_1_DavidJHall_getdigits	:	12 - 17
+16_2_1_arrata_a	:	15 - 24
+
+1 - 7 links:
+16_2_2_jeroenvw_gcj	:	55 - 62
+16_2_2_jeroenvw_gcj	:	55 - 62
+16_2_2_jeroenvw_gcj	:	55 - 62
+16_2_2_jeroenvw_gcj	:	150 - 191
+

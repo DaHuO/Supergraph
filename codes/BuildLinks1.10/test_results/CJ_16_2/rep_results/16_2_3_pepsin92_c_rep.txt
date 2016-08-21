@@ -1,0 +1,2 @@
+old 		7 10
+setify s s 		3 5

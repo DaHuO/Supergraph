@@ -1,0 +1,1 @@
+def lastword line out = for w in line if len out == 0 out = w else out = out + w if out 0 > w else w + out return out 		4 11

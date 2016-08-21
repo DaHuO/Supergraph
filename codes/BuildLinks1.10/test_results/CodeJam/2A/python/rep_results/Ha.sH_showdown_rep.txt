@@ -1,3 +1,3 @@
 possible n a b c = 		13 17
 mapping rec s n 		8 11
-showdown possible lines n r p s = 		19 28
+possible def showdown lines n r p s 		19 28

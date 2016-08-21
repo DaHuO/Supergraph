@@ -1,0 +1,1 @@
+hd hd hd out = for i in range n lists sort heads = l 0 for l in lists if len lists < 2 out append lists 0 		5 38

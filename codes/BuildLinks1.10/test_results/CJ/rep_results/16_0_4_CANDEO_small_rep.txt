@@ -1,0 +1,1 @@
+get_arr k c s if s < k return impossible 		28 37

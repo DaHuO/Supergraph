@@ -1,0 +1,2 @@
+def run infile outfile with open infile r as f with open outfile 		21 30
+def solve rows num = for row in rows val = 		7 18

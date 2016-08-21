@@ -1,0 +1,2 @@
+def solve next emit cases = int next for case 		52 62
+cores cores cores n = int next bff = int n - 1 for n in next split best_closed = 0 = chains = for i 		12 43

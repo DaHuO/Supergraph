@@ -1,0 +1,1 @@
+def readlist return map int cin split 		3 4

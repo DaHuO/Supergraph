@@ -1,0 +1,1 @@
+def lastword case_input word = for 		4 14

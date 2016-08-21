@@ -1,0 +1,7 @@
+countCharactersinString specialDict characters = 		10 17
+inputVals inputVals inputVals inputVals Error! Length mismatch. r = f read f 		123 142
+outputList countCharactersinString searchForDigits sanityCheck tempString tempString outputList tempString printResults 		109 121
+searchForDigits specialDict frequency = for key in xrange 10 frequency key = 0 key = Z a = characters Z frequency 0 += a characters Z = 0 characters E -= a characters R -= a characters O -= a key = W a = characters W frequency 2 += a characters W = 0 characters T 		19 101
+printResults resultsList codejamDIGITS resultsList resultsList for 		144 150
+sanityCheck Error for key 		103 106
+__getitem__ 		2 4

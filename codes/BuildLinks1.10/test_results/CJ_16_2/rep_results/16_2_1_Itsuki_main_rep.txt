@@ -1,0 +1,1 @@
+def solve s dictionary = dict for c in s dictionary c = dictionary get c 0 + 1 num_dict = 0 for _ in range 10 num_dict 0 = dictionary get Z 0 if num_dict 0 > 0 dictionary Z -= num_dict 0 dictionary E -= num_dict 0 dictionary R -= num_dict 0 dictionary O -= num_dict 0 num_dict 2 = dictionary get 		5 66

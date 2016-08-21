@@ -1,0 +1,2 @@
+describe escape_seq escape_seq 		20 28
+def solve tally while len tally > 2 big_party_id = max tally key 		5 18

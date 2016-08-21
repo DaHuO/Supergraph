@@ -1,0 +1,5 @@
+############ compte_taille self print case 		25 29
+compte_taille self h res = 		31 38
+def write_output self file 		22 23
+def __init__ self id_case file_in file_out 		2 12
+def read self file self n = 		13 19

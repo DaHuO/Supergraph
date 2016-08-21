@@ -1,0 +1,1 @@
+def solve i data if len data == 1 return 		5 22

@@ -1,0 +1,1 @@
+00 00 gap_min gap_min gap_min if n == 2 C = 0 + C J = 0 + J elif n == 1 C = + C J = + J = 1000 c_ans = 0 j_ans = 0 for c0 in range 10 		8 50

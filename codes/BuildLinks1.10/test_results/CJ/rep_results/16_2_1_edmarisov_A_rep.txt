@@ -1,0 +1,1 @@
+def process mix mix = mix replace \n res = if z in mix cnt = mix count z for c in zero mix = mix replace c cnt res = res + 0 * cnt if w in mix cnt = mix count w for c in two mix = mix replace c cnt 		6 66

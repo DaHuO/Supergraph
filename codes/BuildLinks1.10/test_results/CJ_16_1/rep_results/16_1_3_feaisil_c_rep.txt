@@ -1,0 +1,13 @@
+def do l n = l 0 f = l 1 f = f x - 1 for x in range n ids = lids = m 		66 102
+def 		12 13
+def co p f n o = - 1 c = f count p if o > - 		43 63
+def 		8 10
+def isprime n 		33 36
+going cases\n {}... = time time t = cin ri print to process {} format t 		104 116
+rfv cin 		24 25
+rf 		21 22
+def riv 		18 19
+def rev i o 		27 30
+revs 		31 32
+def 		15 16
+def parse 		39 41

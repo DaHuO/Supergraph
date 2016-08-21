@@ -1,0 +1,10 @@
+
+With same rare tokens:
+26 - 35 links:
+16_1_1_car03e_last_word	:	4 - 9
+16_1_2_car03e_rank_file	:	5 - 10
+16_1_1_car03e_last_word	:	4 - 9
+16_1_2_car03e_rank_file	:	5 - 10
+16_1_1_car03e_last_word	:	4 - 9
+16_1_2_car03e_rank_file	:	5 - 10
+

@@ -1,0 +1,5 @@
+def generate start rs ss ps n ans = start while n > 0 ans1 = for s in ans s1 rs ss ps = expand s rs ss ps n if s1 is none return none ans1 += s1 ans = join ans1 n -= 1 return ans 		18 31
+def solve n r p s return min list filter none generate ss r s p n for ss in get_possible_starts r p s or impossible 		45 46
+def expand s rs ss ps n ans = none if s == s and ps > 0 ans = ps if n <= 2 else sp ps -= 1 elif s == p and rs > 0 ans = pr rs -= 1 elif s == r and ss > 0 ans = rs if n == 1 else sr ss -= 1 return ans rs ss ps 		4 15
+def main t = int input for i in range 1 t + 1 n r p s = int x for x in input split print case #{}: {} format i solve n r p s 		49 53
+def get_possible_starts r p s ans = if r > 0 ans append r if s > 0 ans append s if p > 0 ans append p return ans 		34 42

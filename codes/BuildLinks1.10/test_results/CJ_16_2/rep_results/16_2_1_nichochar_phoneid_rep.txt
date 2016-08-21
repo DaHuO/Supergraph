@@ -1,0 +1,3 @@
+solve_one clean_hash convert_string ordered_letters clean_hash remove_from_hash letters_to_numbers 		48 59
+remove_from_hash number _hash for 		37 45
+convert_string mess result = mess = 		23 34

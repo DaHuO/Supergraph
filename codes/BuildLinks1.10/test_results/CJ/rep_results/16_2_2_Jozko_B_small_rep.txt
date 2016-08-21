@@ -1,0 +1,2 @@
+def replace c j v a b 		6 10
+def match c j c j c j = str c str j c = 0 * 		13 26

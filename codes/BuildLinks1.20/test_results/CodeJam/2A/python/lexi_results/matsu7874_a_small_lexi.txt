@@ -1,0 +1,1 @@
+def sim hs r = hs nr = while len r + len nr > 1 a = r pop b = r pop if a == b return false if p r s index a - p r s index b + 3 % 3 == 1 nr append a else nr append b if len r == 0 r = nr nr = return true 		4 19

@@ -1,0 +1,1 @@
+decode a b diff = 9999 ans_a ans_b = a b n m = a count ? 		5 17

@@ -1,0 +1,2 @@
+def canFormNumber chars number res = True for c in number if c not in chars or chars c <= 0 res = False return res 		19 24
+def decrement chars number for c in number chars c = chars c - 1 return chars 		26 29

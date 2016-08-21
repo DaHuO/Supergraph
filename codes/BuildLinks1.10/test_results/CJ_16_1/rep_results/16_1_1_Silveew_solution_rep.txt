@@ -1,0 +1,7 @@
+def parse_input t 		9 14
+read_pair return 		5 5
+		6 6
+def 		4 4
+res_right res_right res_right res_left = word 0 		17 25
+		2 2
+read_pair_list return int 		3 3

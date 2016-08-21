@@ -1,0 +1,1 @@
+def solve problem lastword = problem 0 for letter in problem 1 if lastword 0 <= letter lastword = letter + lastword else lastword += letter return lastword 		3 10

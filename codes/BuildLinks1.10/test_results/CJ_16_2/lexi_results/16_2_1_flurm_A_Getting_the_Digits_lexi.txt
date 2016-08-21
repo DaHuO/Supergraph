@@ -1,0 +1,6 @@
+def atrace * strs f = sys stderr print >> f .. for str in strs print >> f str print >> f if pause_after_trace response = raw_input ? if response == q sys exit 1 		21 30
+def mtrace * strs atrace * strs 		17 19
+def __init__ self ** kwds self __dict__ = kwds 		12 13
+def memoized_f * args try result = memos args mtrace args : got result from memo except KeyError result = f * args mtrace args : got result by calling memos args = result return result 		34 42
+def getline return INPUT readline - 1 		8 9
+def memoize f memos = def memoized_f * args try result = memos args mtrace args : got result from memo except KeyError result = f * args mtrace args : got result by calling memos args = result return result return memoized_f 		32 43

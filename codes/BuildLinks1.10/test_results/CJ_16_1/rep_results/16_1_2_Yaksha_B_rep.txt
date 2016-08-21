@@ -1,0 +1,1 @@
+occurance occurance ll fl n = 3 unique_heights 		6 18

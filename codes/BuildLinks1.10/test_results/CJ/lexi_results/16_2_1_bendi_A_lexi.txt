@@ -1,0 +1,1 @@
+def tonum letter return ord letter - ord a 		3 4

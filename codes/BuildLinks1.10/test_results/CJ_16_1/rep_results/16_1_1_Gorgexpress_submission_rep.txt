@@ -1,0 +1,1 @@
+def last_word word best = word 		1 8

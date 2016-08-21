@@ -1,0 +1,1 @@
+def solve in_file out_file case out_file write Case # + str case + 1 + : s = in_file readline replace \n zeroes = s count Z twos = s count W eights = s count G fours = s count U sixes = s 		3 71

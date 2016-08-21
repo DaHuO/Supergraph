@@ -1,0 +1,4 @@
+easy_break Got: easy_break easy_break easy_break best09 best90 best09 best90 numUp numDown numUp numDown numUp numDown numDown numUp ? not in scores 0 and ? not in scores 1 print %s v %s % scores 0 scores 1 coders = scores 0 others = scores 1 return coders others abs int coders - int others while index < len scores 0 if scores 0 index != ? and scores 1 index != ? and scores 0 index != scores 1 index = True break if scores 0 index == 		19 87
+Doing %d: input_file f = open input_file r output_file = input_file split . 0 		3 17
+def replace string 		89 92
+subchar subchar string index char f = list string 		94 102

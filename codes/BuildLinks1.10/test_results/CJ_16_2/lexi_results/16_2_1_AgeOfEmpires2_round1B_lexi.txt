@@ -1,0 +1,3 @@
+def reduce s d for i in s d i -= 1 return d 		22 25
+def convert s d = for i in s if i not in d d i = 1 else d i += 1 return d 		27 34
+def checker s e d = dict e for i in s try if d i > 0 d i -= 1 else return False except KeyError return False return True 		10 20

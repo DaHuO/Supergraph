@@ -1,0 +1,2 @@
+who_are_the_first_out solve 		27 31
+who_are_the_first_out number_of_senators_in_the_biggest_party number_of_senators_in_the_biggest_party number_of_senators_in_the_biggest_party number_of_senators_in_the_biggest_party < 3 kk = while sum senators p = senators index max senators 		1 24

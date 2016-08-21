@@ -1,0 +1,5 @@
+match_col grid i r for 		9 13
+set_row grid i 		24 28
+print_grid %5s for 		30 34
+match_row grid i r for 		14 18
+set_col grid i 		19 23

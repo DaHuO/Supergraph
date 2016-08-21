@@ -1,0 +1,1 @@
+def solve a b i if i == len a a = int join map str a b = int join map str b d abs a - b append a b return if a i == ? and b i == ? for x in xrange 10 for y in xrange 10 a i = x b i = y solve a b i + 1 a i = ? b i = ? elif a i == ? for x in xrange 10 a i = x solve a b i + 1 a i = ? elif b i == ? for x in xrange 10 b i = x solve a b i + 1 b i = ? else solve a b i + 1 		5 33

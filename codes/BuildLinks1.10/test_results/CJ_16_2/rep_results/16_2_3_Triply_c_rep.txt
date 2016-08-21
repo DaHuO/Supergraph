@@ -1,0 +1,1 @@
+find_min_true_topics size: grb Model topics_var addVar vtype grb GRB BINARY topics_var first_con addConstr first_con second_con addConstr second_con setObjective topics_var grb GRB MINIMIZE th 		6 30

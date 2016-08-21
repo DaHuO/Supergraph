@@ -1,0 +1,1 @@
+def lastword word res = word 0 for char in word 1 if char >= res 0 res = char + res else res = res + char return res 		4 11

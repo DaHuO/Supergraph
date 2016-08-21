@@ -1,0 +1,1 @@
+def get_missing_list n lists freqs = for list in lists for value in list if value in freqs freqs value = freqs value + 1 else freqs value = 1 result = for value in freqs if freqs value % 2 == 1 result append value result sort return result 		3 18

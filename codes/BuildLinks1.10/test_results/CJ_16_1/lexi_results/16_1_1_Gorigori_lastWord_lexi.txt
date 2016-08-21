@@ -1,0 +1,1 @@
+def lastword word last_word = for char in word if len last_word == 0 last_word += char else if char < last_word 0 last_word = last_word + char else last_word = char + last_word return last_word 		1 11

@@ -1,0 +1,1 @@
+def do_case str out = str 0 for ch in str 1 if ch < out 0 out = out + ch else out = ch + out return out 		1 8

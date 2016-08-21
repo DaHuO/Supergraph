@@ -1,0 +1,2 @@
+brute islast out = 		13 17
+islast a b for i 		5 11

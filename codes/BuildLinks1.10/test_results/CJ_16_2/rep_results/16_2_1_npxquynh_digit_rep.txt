@@ -1,0 +1,1 @@
+process_text marked_char marked_number full_text marked_char marked_number full_text sorted_key output_val sorted_key output_val output_val output_val ch in text letter_count ch += 1 = Z W U 		11 40

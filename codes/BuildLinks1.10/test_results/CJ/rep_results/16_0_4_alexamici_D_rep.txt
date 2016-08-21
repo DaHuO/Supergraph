@@ -1,0 +1,3 @@
+def case_solver tc n = none p = none i = none t = none s = none ** 		20 33
+		10 12
+def case_reader 		15 17

@@ -1,0 +1,2 @@
+def eliminate_word llist word nb for i in range 0 nb for character in word llist = llist llist index character + llist llist index character + 1 return llist 		6 11
+def extract_digits nlist llist digit discriminant word nlist += list int x for x in digit * llist count discriminant llist = eliminate_word llist word llist count discriminant return nlist llist 		1 4

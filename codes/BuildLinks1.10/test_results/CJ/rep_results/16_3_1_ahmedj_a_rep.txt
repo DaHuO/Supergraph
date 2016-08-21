@@ -1,0 +1,1 @@
+choose_senats all_count all_count sort cmp = lambda a b b 1 - a 1 senats 0 1 -= 		5 17

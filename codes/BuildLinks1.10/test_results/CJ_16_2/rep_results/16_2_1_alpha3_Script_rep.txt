@@ -1,0 +1,1 @@
+executer_calcul entrees entrees entrees Case = 1 occurences = 0 * 26 for i in range len S occurences ord S i - 65 = occurences ord S i - 65 + 1 digits = n = occurences 25 for i in range n digits append 0 occurences 25 = occurences 25 - 1 occurences 4 = occurences 4 - 1 occurences 14 = occurences 14 		2 65

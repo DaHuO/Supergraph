@@ -1,0 +1,1 @@
+def abc n f cnt_num = dict for n in range n * 2 - 1 num = map int f readline split  for i in num if i in cnt_num cnt_num i += 1 else cnt_num i = 1 my_list = for elem in cnt_num keys if cnt_num elem % 2 == 1 my_list append elem return map str sorted my_list 		1 15

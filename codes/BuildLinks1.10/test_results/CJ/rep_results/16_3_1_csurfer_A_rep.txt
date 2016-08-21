@@ -1,0 +1,1 @@
+mxfreq mykey mxfreq mykey mykey mykey mykey key1 key1 key1 key1 mykey mykey mykey mykey = map int raw_input split sm = 0 for i in xrange chars freq al i = 		4 46

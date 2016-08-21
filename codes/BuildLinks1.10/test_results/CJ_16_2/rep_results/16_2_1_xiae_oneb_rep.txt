@@ -1,0 +1,9 @@
+isprime n if n <= 1 return False if 		93 103
+fractile IMPOSSIBLE c s if s 		120 125
+isprime sfs sfs n b = bin j 2 s = 1 + 		79 89
+fractile d fname fin = open fname + .in lines = fin readlines T = 		105 118
+odds odds odds odds = for lst in lists for n 		44 57
+:\n c fname fin = open fname + .in lines = fin readlines T = int lines 0 fout 		60 77
+ht ht fname fin = open fname + .in lines = fin readlines T = int lines 		27 42
+def a fname fin = open fname + .in lines = 		1 9
+map1 map2 map3 map1 map2 map3 line = Z 0 ZERO W 2 TWO U 4 FOUR X 		11 24

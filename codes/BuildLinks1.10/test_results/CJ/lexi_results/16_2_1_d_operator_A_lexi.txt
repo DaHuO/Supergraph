@@ -1,0 +1,3 @@
+def solve_case s s = s 0 slst = zero one two three four five six seven eight nine lst = 0 for i in xrange 26 for ch in s lst ord ch - 65 += 1 phase1 = g 8 z 0 u 4 w 2 x 6 phase2 = f 5 h 3 o 1 s 7 digits = digits extend extractdigits lst slst phase1 digits extend extractdigits lst slst phase2 digits extend 9 * lst ord i - 65 return join map str sorted digits 		17 32
+def solve fin fout l = codejam_io read_simple fin str s = map solve_case l codejam_io write_simple fout s 		34 37
+def extractdigits lst slst phase digits = for p1 in phase keys n1 = phase p1 while lst ord p1 - 65 > 0 for ch in slst n1 lst ord ch - 65 -= 1 digits append n1 return digits 		6 14

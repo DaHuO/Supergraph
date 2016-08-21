@@ -1,0 +1,2 @@
+solve_number solve s numbers = OrderedDict numbers ZERO = 0 numbers TWO = 2 		26 44
+solve_number n_list enc scopy n_list scopy enc scopy enc 		9 23

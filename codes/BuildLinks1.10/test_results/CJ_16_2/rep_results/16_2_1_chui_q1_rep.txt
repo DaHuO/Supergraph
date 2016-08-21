@@ -1,0 +1,2 @@
+def fun n_d d list1 ch if 		39 47
+solving so so = I 0 Z 0 W 0 H 0 U 0 X 0 G 0 O 0 F 0 S 0 N 0 		14 37

@@ -1,0 +1,3 @@
+def solve self final = for c 		4 13
+def 		2 3
+read_data filename with open filename as 		15 23

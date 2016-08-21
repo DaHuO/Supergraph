@@ -1,0 +1,1 @@
+remJ remJ remJ remJ scoreJ if remC == 0 and == 0 diff = int scoreC - int scoreJ return abs diff int scoreJ scoreC scoreJ minA = 10000 10000 0 0 for i 		3 31

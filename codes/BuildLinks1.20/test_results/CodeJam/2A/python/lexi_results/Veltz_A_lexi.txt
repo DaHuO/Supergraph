@@ -1,0 +1,7 @@
+def gcd a b a = abs a b = abs b while a a b = b % a a return b 		27 32
+def lcm a b return a * b // gcd a b 		33 34
+def mup p r s if p == 0 if r == 1 and s == 1 return rs else return none if r == 0 if p == 1 and s == 1 return ps else return none if s == 0 if r == 1 and p == 1 return pr else return none p2 = p / 2 p_2 = p % 2 r2 = r / 2 r_2 = r % 2 s2 = s / 2 s_2 = s % 2 if p_2 == 0 first = mup p2 r2 + r_2 s2 second = mup p2 r2 s2 + s_2 elif r_2 == 0 first = mup p2 + p_2 r2 s2 second = mup p2 r2 s2 + s_2 elif s_2 == 0 first = mup p2 + p_2 r2 s2 second = mup p2 r2 + r_2 s2 if first is none or second is none or first == second return none else return first + second 		40 78
+def lcmlist v return reduce lcm v 		37 38
+def solve inputfile outputfile t = processinputline inputfile for t in range t _ r p s = processinputline inputfile result = mup p r s if result is none o = impossible else o = result outputline = case # + str t + 1 + : + o if t < t - 1 outputline += \r\n outputfile write outputline print outputline 		80 100
+def processinputline inputfile inputtype = int inputnumber = none inputseparator =  inputline = inputfile readline rstrip if inputnumber == none inputvector = inputline split inputseparator else inputvector = inputline split inputseparator inputnumber outputvector = map inputtype inputvector if len outputvector == 1 return outputvector 0 else return outputvector 		15 25
+def gcdlist v return reduce gcd v 		35 36

@@ -1,0 +1,3 @@
+is_real cand 		5 6
+nlines nlines eval_cand = open sys argv 1 rb ncases = int f readline for caseno in xrange ncases = int 		37 65
+eval_cand is_real is_real found2 is_real found2 found2 0 for j in xrange len topics 		8 34

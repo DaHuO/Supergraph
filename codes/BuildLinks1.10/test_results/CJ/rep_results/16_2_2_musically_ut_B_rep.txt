@@ -1,0 +1,1 @@
+make_possible combs combs make_possible combs if s is 		7 19

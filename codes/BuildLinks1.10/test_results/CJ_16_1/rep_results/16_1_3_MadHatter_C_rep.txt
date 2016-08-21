@@ -1,0 +1,4 @@
+def ch p x l d r = set p ny 		9 21
+power_set solve n l 		41 46
+def check x l d = p for p in x for p in x y = 		24 39
+power_set l return 		6 7

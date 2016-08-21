@@ -1,0 +1,1 @@
+def solve n count_by_number = dict result = for i in xrange 0 		4 23

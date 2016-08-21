@@ -1,0 +1,2 @@
+def get_output k c s if c * s < k return impossible current = 0 indices = while current < k new_path = list range current min k current + c if len new_path < c new_path = new_path + new_path - 1 * c - len new_path indices append path_to_index new_path k + 1 current = new_path - 1 + 1 return  join str n for n in indices 		7 20
+def path_to_index vertices k if len vertices == 1 return vertices 0 else return k * path_to_index vertices - 1 k + vertices - 1 		1 5

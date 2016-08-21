@@ -1,0 +1,2 @@
+find_min_diff_small p_len {0:0=%dd} {1:0=%dd} p_len p_len diff = big s1 = big s2 = big for x1 		20 37
+def all_possible_scores pattern if len pattern == 1 if pattern == ? 		3 17

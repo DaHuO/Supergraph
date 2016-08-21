@@ -1,0 +1,13 @@
+Direct links:
+34 - 39 links:
+16_2_2_ody42_solve	:	128 - 134
+16_2_2_gahl_problem_b_2	:	39 - 43
+16_3_1_gahl_problem_a	:	48 - 53
+
+
+With same rare tokens:
+9 - 31 links:
+16_2_1_eshirazi_A	:	19 - 27
+16_2_1_anthonyclays_getting_the_digits	:	7 - 27
+16_1_2_MichaelCodeChampion_Round1ex2	:	1 - 21
+

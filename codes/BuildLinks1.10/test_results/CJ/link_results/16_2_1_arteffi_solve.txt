@@ -1,0 +1,19 @@
+Direct links:
+5 - 14 links:
+16_3_1_arteffi_solve	:	4 - 13
+16_2_2_arteffi_solve	:	3 - 14
+
+26 - 29 links:
+16_2_2_arteffi_solve	:	26 - 29
+
+
+With same rare tokens:
+5 - 14 links:
+16_3_1_arteffi_solve	:	4 - 13
+16_2_2_arteffi_solve	:	3 - 14
+
+26 - 29 links:
+16_3_1_arteffi_solve	:	27 - 30
+16_2_2_arteffi_solve	:	26 - 29
+16_3_1_arteffi_solve	:	27 - 30
+

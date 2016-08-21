@@ -1,0 +1,3 @@
+vratslovo najdimax prvy posledny vratslovo prvy 		12 18
+vratslovo2 najdimax prefix = sufix = while 		20 28
+najdimax slovo max_index = 		4 9

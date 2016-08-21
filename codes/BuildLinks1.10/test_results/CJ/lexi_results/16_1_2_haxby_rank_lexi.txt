@@ -1,0 +1,1 @@
+def rank lsts odds = x = i for j in lsts for i in j for i in set x if x count i % 2 odds append i return sorted odds 		1 7

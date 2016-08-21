@@ -1,0 +1,1 @@
+bestsort inp if len inp == 1 		12 25

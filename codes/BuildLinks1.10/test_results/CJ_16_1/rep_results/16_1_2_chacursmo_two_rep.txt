@@ -1,0 +1,2 @@
+hancho pap hancho hancho t = int sys stdin readline i 		6 24
+slps poo slps poo = fl = for r in range 2 * n - 1 for 		27 51

@@ -1,0 +1,1 @@
+def f s n if s == return if n > 9 return None flag = True cnt = 0 t = s 		3 31

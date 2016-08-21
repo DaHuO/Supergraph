@@ -1,0 +1,6 @@
+def remove 		30 32
+nb_case nb_case filename_in = A-large.in filename_out = A-large.out file_in = 		100 114
+def add 		26 28
+def __init__ self self letters = Z 		5 24
+def read_case file 		92 97
+def solve self for i in range self letters Z self digits append 0 self remove ZERO for i in range self letters W self digits append 2 self remove 		34 89

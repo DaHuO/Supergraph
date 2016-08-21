@@ -1,0 +1,2 @@
+def calc s return rec s s 0 1 len s 		16 17
+def rec s one i stop_i if i >= stop_i return one return max 		8 11

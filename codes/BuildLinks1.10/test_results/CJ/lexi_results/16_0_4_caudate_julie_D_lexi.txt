@@ -1,0 +1,2 @@
+def intodec line base return sum line - i - 1 * base ** i for i in range len line 		18 19
+def fractile k c s if c * s < k return impossible result = digit = 0 for i in range ceil float k / c word = for j in range c if digit == k word append 0 else word append digit digit = min digit + 1 k result += intodec word k + 1 assert result - 1 <= k ** c return result 		21 37

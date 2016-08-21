@@ -1,0 +1,1 @@
+def last_word string for char in chr i for i in xrange ord z ord a - 1 - 1 count_char = string count char if count_char == 0 continue return %s%s%s % char * count_char last_word string string index char string string index char + 1 replace char return 		3 11

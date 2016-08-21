@@ -1,0 +1,7 @@
+def print_answer t answer 		18 22
+create_combinations current combinations 		24 28
+b.in b_%s.in argv 		6 10
+get_scores main argv f = open get_file argv r f_out = open get_file_out 		62 72
+get_combinations create_combinations latest_round = for i in xrange 0 		30 42
+b.out b_%s.out argv 		12 16
+get_scores c_set get_combinations j_set get_combinations c_set j_set c_raw lstrip j_raw lstrip c_raw c_raw 		44 60

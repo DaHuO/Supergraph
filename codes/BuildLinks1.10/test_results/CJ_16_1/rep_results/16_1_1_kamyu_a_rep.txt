@@ -1,0 +1,1 @@
+def the_last_word res = deque s 		3 11

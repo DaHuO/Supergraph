@@ -1,0 +1,2 @@
+def subword cnt w for c in w cnt c -= 1 assert cnt c >= 0 		52 55
+def solve s cnt = Counter s ans = for pool in first second third for c w in pool items while cnt c > 0 subword cnt w ans += str word_to_digit w return join sorted ans 		57 65

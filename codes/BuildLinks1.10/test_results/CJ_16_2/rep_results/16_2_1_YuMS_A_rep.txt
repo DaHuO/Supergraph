@@ -1,0 +1,2 @@
+takes takes S letters = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE order = 0 6 		7 22
+def main T = 		24 28

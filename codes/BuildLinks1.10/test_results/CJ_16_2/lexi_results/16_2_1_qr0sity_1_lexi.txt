@@ -1,0 +1,1 @@
+def find s arr num special_char whole c = 0 l = list s for i in s if i == special_char c += 1 for i in range c arr append num for w in whole del l l index w return join l 		1 12

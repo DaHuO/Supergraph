@@ -1,0 +1,1 @@
+def solve ps s = sum ps ret = while s > 0 m = max ps assert 2 * m <= s if ret != ret +=  if ps 0 > ps 1 m = 0 n = 1 else m = 1 n = 0 for 		1 68

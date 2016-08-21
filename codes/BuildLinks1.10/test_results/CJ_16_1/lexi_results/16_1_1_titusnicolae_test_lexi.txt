@@ -1,0 +1,2 @@
+def maxs s ret = s 0 iret = 0 for i e in enumerate s if ord e > ord ret ret = e iret = i return iret 		4 11
+def f s s = s - 1 build = other = while s build += s maxs s other += s maxs s s = s maxs s + 1 return build + other - 1 		14 22

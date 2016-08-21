@@ -1,0 +1,1 @@
+lru_cache maxsize none def solve s if 		21 28

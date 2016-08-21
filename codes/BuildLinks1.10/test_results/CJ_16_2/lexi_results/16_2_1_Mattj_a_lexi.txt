@@ -1,0 +1,3 @@
+def pr s end = None if debug == True if end != None print s end = end flush = True file = sys stderr else print s flush = True file = sys stderr 		13 18
+def rem s d for c in d i = s find c if i >= 0 s = s i + s i + 1 else return None return s 		28 35
+def out s end = None if end != None print s end = end flush = True else print s flush = True 		20 24

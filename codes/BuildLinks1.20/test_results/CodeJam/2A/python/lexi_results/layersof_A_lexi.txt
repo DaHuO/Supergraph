@@ -1,0 +1,4 @@
+def main t = input for i in range t n r p s = map int raw_input split print case #%d: %s % i + 1 join solve n r p s 		3 7
+def match a b if a == b return none elif a == p if b == r return p else return s elif a == r if b == s return r else return p else assert a == s if b == p return s else return r 		9 27
+def solve n r p s hands = p r s h = none for i in range 2 ** n for i_ in range 3 ** 2 ** n for j in range 2 ** n h 2 ** n - j - 1 = hands i_ / 3 ** j % 3 if h count r != r continue if h count p != p continue tmp = reducable h if tmp return h return impossible 		41 60
+def reducable line if len line == 1 return true results = for i in range len line / 2 tmp = match line 2 * i line 2 * i + 1 if tmp results append tmp else return false return reducable results 		29 39

@@ -1,0 +1,1 @@
+find_optimal_scores digits_cnt {:03d} digits_cnt digits_cnt c_re j_re c_options c_re j_options j_re c_options j_options in range 10 ** = re 		4 21

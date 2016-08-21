@@ -1,0 +1,1 @@
+def getnumtypepivot freq pivots others sub = min freq p for p in list pivots print others: others freq: freq sub: sub pivots: pivots for i in others freq i = freq i - sub temp = sub for p in list pivots freq p -= sub return temp 		6 16

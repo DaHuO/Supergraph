@@ -1,0 +1,1 @@
+def remove ind count d l = Counter for e in digits ind l e += 1 for e in l d e -= l e * count 		6 10

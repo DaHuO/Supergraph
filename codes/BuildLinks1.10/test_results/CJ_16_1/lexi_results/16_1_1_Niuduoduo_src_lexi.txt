@@ -1,0 +1,5 @@
+def get_solution stream s = get_str stream print s m = s 0 a = for l in s if a == a = l elif l >= a 0 a = l + a else a = a + l m = l return a 		15 43
+def get_stream file for line in file for token in line strip split yield token 		2 5
+def get_str stream retour = str stream next return retour 		11 13
+def main path print fonction main\n file = open path r outfile = open path + .out w stream = get_stream file cases = get_int stream solution = for case in range 0 cases solution = get_solution stream buffer = case # + str case + 1 + : + str solution + \n outfile write buffer print buffer outfile close 		45 59
+def get_int stream retour = int stream next return retour 		7 9

@@ -1,0 +1,1 @@
+def findmissing l m = dict for i in l if m has_key i m i += 1 else m i = 1 result = key = m keys for k in key if m k % 2 != 0 result append k r = result sort for i in result r += str i +  return r - 1 		1 19

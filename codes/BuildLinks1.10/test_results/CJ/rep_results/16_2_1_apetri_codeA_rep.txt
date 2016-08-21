@@ -1,0 +1,2 @@
+def main ntest = 		130 141
+def phonenumber s count = dict digits = list for c in s if c not in count count c = 1 else count c += 1 if z in count for n in range count z digits append 0 count z -= 1 count e -= 1 count r -= 1 count o -= 1 if w in count for n in range count 		5 117

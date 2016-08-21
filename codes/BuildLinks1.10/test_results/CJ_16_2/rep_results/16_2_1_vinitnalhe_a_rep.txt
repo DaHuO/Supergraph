@@ -1,0 +1,1 @@
+def solve s cnt = Counter s arr = 0 * 10 arr 0 = cnt Z arr 2 = cnt W 		3 21

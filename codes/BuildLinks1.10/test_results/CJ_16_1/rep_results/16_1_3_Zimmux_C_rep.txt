@@ -1,0 +1,1 @@
+frev frev frev = int next stdin f = list map lambda s int s - 1 next stdin split c = - 1 * n vis = set for i in range n p = j = i while j not in vis p append j 		5 51

@@ -1,0 +1,4 @@
+def hist v d 		6 11
+goodfit 		13 14
+def solve n m h 		17 50
+def main f = open sys argv 1 t 		52 59

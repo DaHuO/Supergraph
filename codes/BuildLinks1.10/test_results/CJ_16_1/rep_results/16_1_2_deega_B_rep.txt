@@ -1,0 +1,1 @@
+def read mode = 2 inp 		2 6

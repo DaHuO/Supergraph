@@ -1,0 +1,1 @@
+teststring teststring i wordright = list wordleft = list for letter in if not 		3 21

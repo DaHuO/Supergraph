@@ -1,0 +1,1 @@
+def positioner k c pos = pointer = 1 level = 1 count = 1 while pointer < k if level != c pointer += 1 level += 1 count += pointer - 1 * k ** c - level else pos append count level = 1 pointer += 1 count = pointer - 1 * k ** c - level + 1 pos append count return pos 		1 17

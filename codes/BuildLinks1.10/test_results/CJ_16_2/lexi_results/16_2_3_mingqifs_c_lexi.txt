@@ -1,0 +1,1 @@
+def find x v global edge parent for i in edge x if i not in v v add i if i not in parent or find parent i v parent i = x return True return False 		6 14

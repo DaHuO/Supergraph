@@ -1,0 +1,2 @@
+def flatten l return item for sublist in l for item in sublist 		3 4
+def g data flat = flatten data nums = for n in flat try nums n += 1 except keyerror nums n = 1 r = k for k v in nums iteritems if v % 2 return  join str c for c in sorted r 		6 16

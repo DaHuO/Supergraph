@@ -1,0 +1,91 @@
+Direct links:
+40 - 51 links:
+16_0_4_AJGoal_fractiles	:	34 - 46
+
+
+With same rare tokens:
+8 - 38 links:
+16_1_1_db91_testpy	:	21 - 37
+16_1_1_Code_Jelly_last_word	:	14 - 19
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_2_1_ArpitGoel_A	:	14 - 18
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+16_0_4_AJGoal_fractiles	:	10 - 32
+
+40 - 51 links:
+16_0_4_AJGoal_fractiles	:	34 - 46
+16_0_4_AJGoal_fractiles	:	34 - 46
+16_0_4_AJGoal_fractiles	:	34 - 46
+16_0_4_AJGoal_fractiles	:	34 - 46
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_db91_testpy	:	21 - 37
+16_1_1_Code_Jelly_last_word	:	14 - 19
+16_1_1_Code_Jelly_last_word	:	3 - 12
+16_1_1_Cornfield_theLastWord	:	1 - 29
+16_1_1_Cornfield_theLastWord	:	1 - 29
+

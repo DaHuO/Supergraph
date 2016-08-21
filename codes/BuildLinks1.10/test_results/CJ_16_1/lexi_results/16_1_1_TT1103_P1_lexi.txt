@@ -1,0 +1,1 @@
+def solve word ans = for n in word if len ans == 0 ans = n elif n >= ans 0 ans = n + ans else ans = ans + n return ans 		10 20

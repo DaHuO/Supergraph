@@ -1,0 +1,2 @@
+def num x x_unks if len x_unks == 0 yield int join x return for i in xrange 10 x x_unks 0 = chr 48 + i for _num in num x x_unks 1 yield _num 		9 16
+def find lst a return i for i x in enumerate lst if x == a 		6 7

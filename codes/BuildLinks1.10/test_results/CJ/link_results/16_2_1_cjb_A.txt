@@ -1,0 +1,26 @@
+Direct links:
+37 - 41 links:
+16_2_1_Brian_a	:	3 - 7
+
+25 - 35 links:
+16_1_2_cjb_B	:	26 - 39
+16_1_1_cjb_A0	:	24 - 34
+
+
+With same rare tokens:
+52 - 74 links:
+16_2_2_EricStansifer_common	:	35 - 75
+16_2_1_EricStansifer_common	:	35 - 75
+
+25 - 35 links:
+16_1_2_cjb_B	:	26 - 39
+16_1_1_cjb_A0	:	24 - 34
+
+15 - 23 links:
+16_1_2_cjb_B	:	16 - 24
+16_0_4_cjb_srcD	:	2 - 6
+16_1_1_cjb_A0	:	14 - 22
+16_1_1_cjb_A0	:	14 - 22
+16_1_2_cjb_B	:	16 - 24
+16_1_1_cjb_A0	:	14 - 22
+

@@ -1,0 +1,2 @@
+def main t = int sys stdin readline strip for t in range t n = int sys stdin readline strip p 		4 37
+def pairs numbers alphabet = 		39 49

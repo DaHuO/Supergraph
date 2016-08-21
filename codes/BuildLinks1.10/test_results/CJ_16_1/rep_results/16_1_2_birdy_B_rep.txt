@@ -1,0 +1,2 @@
+def solve l new = for sub in sorted l for 		1 16
+positions positions t = int raw_input for t 		18 26

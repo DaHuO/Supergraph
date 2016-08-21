@@ -1,0 +1,1 @@
+def solve t s digits = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE digmap = i digits i for i in range 10 scnt = Counter S strip cnt = Counter for d in digits for a in d cnt a += 1 ret = 		15 74

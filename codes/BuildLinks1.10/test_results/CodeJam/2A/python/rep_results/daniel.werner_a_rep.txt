@@ -1,2 +1,2 @@
 def solve n 		38 44
-origString newString newString newString newString origString gotOne = False = string if r + p + s == 0 while len string > 1 = for i in range 		4 35
+origString origString string r p s gotOne = False = string if r + p + s == 0 while len string > 1 newString = for i in 		4 35

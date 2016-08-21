@@ -1,0 +1,6 @@
+longestSet binaries generateAllBinaryStringsOfLength binary binaries fakeCount binary notFakes binary notFakes notFakes longestSet fakeCount longestSet fakeCount longestSet fakes = = index = 0 		120 156
+def 		56 58
+setIsLegit theSet setWithout theSet foundTest SCHEDULING EQUILIBRIA theSet foundTest theSet setWithout frontFound = 		94 118
+runSolution inFile lines = open inFile mode = r readlines ln = 0 cases = int lines 		23 46
+def formatCaseInput caseInput 		49 54
+generateAllBinaryStringsOfLength loops loops newStrs newStrs newStrs newStrs 		82 92

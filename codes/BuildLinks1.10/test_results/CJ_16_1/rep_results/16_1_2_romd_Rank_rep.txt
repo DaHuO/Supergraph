@@ -1,0 +1,3 @@
+input_file_name lines_param input_f = open r output = num_of_test_cases = int input_f readline 10 temp = 		20 37
+parsed evennums parsed evennums evennums evennums evennums 1 for 		5 17
+def do_parse input 		18 19

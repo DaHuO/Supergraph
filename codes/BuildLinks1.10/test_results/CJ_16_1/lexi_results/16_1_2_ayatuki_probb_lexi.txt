@@ -1,0 +1,2 @@
+def searchmissing values m = dict for vs in values for v in vs m v = m get v 0 + 1 return sorted int k for k v in m items if v & 1 != 0 		3 8
+def solv it n = int next it values = next it rstrip split  for i in range n * 2 - 1 missing = searchmissing values return missing 		10 14

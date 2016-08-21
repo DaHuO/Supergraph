@@ -1,0 +1,1 @@
+def reorder s l = len s if l <= 1 return s l = reorder s 0 l // 2 r = reorder s l // 2 return l + r if l < r else r + l 		7 13

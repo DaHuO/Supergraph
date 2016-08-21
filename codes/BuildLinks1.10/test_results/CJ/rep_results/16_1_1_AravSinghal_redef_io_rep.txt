@@ -1,0 +1,4 @@
+output-large.txt file_output obj global out_file 		22 33
+file_input global 		9 19
+get_delimited_int_list delimiter 		54 55
+exit_handler global in_file out_file case_no 		36 51

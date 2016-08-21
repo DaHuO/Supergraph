@@ -1,0 +1,3 @@
+def valid first second upFirst = set i 0 for i in first upSecond = set i 1 for i in first for a b in second if a not in upFirst return False if b not in upSecond return False return True 		8 14
+def solve N m = 0 for first in powerset N second = N for i in first second remove i if valid first second m = max m len second if m == len N print WTF return m 		17 27
+def powerset iterable xs = list iterable return chain from_iterable combinations xs n for n in range len xs + 1 		3 6

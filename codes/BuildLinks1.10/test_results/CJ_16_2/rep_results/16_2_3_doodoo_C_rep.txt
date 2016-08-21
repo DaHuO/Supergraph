@@ -1,0 +1,2 @@
+def calc first_words second_words words perm first = 		3 17
+new_words new_words new_words all_left all_right all_left all_right w_left w_right w_left w_right all_left w_left all_right w_right first get w1 0 + 1 second w2 = second get w2 0 		19 61

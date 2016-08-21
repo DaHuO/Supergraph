@@ -1,0 +1,2 @@
+def main f = sys stdin if len sys 		15 28
+def calc s out = 		6 13

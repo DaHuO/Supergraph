@@ -1,0 +1,1 @@
+def check c j cc cj for i cc in cc if c i != cc return false for i cj in cj if j i != cj return false return true 		4 13

@@ -1,0 +1,1 @@
+def solve s out = s = list s while len s != 0 if Z in s for j in nums 0 s remove j out append 0 elif W in s for j in 		1 54

@@ -1,0 +1,2 @@
+def getValue tupnum total = 0 m = 1 for n in reversed tupnum total += n * m m *= 10 return total 		3 9
+def getCombos numberstring postfix numlist = int c if c != ? else c for c in numberstring indexlist = i for i c in enumerate numlist if c == ? combos = list for n in itertools product 0 1 2 3 4 5 6 7 8 9 repeat = numberstring count ? for i num in zip indexlist n numlist i = num combos append tuple numlist postfix return combos 		11 19

@@ -1,0 +1,1 @@
+def last_word s word = s 0 front = word for c in s 1 if ord c < ord front word += c else word = c + word front = c return word 		1 10

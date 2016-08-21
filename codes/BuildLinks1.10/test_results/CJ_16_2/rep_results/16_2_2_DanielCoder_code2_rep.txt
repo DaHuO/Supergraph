@@ -1,0 +1,9 @@
+tryMaximize num if type 		102 106
+getOutput solvedCase solvedCase = for 		131 135
+generateOutput solvedCases getOutput solvedCases None cases = getCases 		137 144
+def getCases 		125 128
+def parseInput text cases = for 		114 122
+solveCaseC onums tryMinimize tryMaximize tryMaximize tryMinimize onums dopts dopts1 dopts dopts2 dopts dopts1 dopts2 opt1 dopts1 opt2 dopts2 curr1 opt1 curr2 opt2 curr1 curr2 opt1 opt2 d2i d2i d2i oldC oldJ oldC oldC oldJ = cases = for i d1 d2 in list enumerate zip g1 g2 if ? in d1 d2 break if g1 i != g2 i g1 = join g1 g2 = join g2 if int g1 		14 97
+tryMinimize num if type 		108 112
+cName cName cName solveCaseC cName False 		6 12
+def 		3 4

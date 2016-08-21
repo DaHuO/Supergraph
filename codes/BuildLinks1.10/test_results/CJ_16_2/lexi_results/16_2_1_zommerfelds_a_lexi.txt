@@ -1,0 +1,1 @@
+def take letter full number n = d get letter 0 for x in full d x -= n tel number += n 		9 13

@@ -1,0 +1,1 @@
+def rank n = input m = arr = for i in range 2 		3 18

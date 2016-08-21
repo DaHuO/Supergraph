@@ -1,0 +1,3 @@
+def solve l_of_s as_list = solve_ l_of_s return  join as_list 		2 5
+def solve_ list_of_senators evac = alphabet = chr x for x in range 65 90 tagged_list = zip list_of_senators alphabet tagged_sorted = sorted tagged_list key = lambda x x 0 reverse = true most = tagged_sorted 0 second = tagged_sorted 1 if most 0 > second 0 first_to_leave = most 1 * most 0 - second 0 evac extend first_to_leave most = second 0 most 1 middle = all_leave tagged_sorted 2 evac_pair = join most 1 second 1 end = evac_pair * most 0 evac extend middle evac extend end return evac 		7 29
+def all_leave s_l if s_l == return else evac = for party in s_l num letter = party evac extend letter * num return evac 		31 40

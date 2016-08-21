@@ -1,0 +1,2 @@
+def do_case n r p s = map int input split if max abs p - r abs r - s abs s - p > 1 return impossible return recurse n p r s 		1 11
+def recurse n p r s arr = p r s if n == 1 if p and r return pr if r and s return rs if p and s return ps if arr count min arr == 2 big = max arr // 2 out = for i in reversed range 3 if arr i == min arr out += recurse n - 1 * big if j != i else big - 1 for j in range 3 return out else small = min arr / 2 out = for i in range 3 if arr i == max arr out += recurse n - 1 * small if j != i else small + 1 for j in range 3 return out 		15 49

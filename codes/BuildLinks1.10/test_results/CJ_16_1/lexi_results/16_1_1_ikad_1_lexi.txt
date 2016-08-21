@@ -1,0 +1,1 @@
+def fn i s = str inn readline x = for _ in range len s if _ == 0 x += s _ last = s _ continue if s _ >= last x = s _ + x last = s _ else x = x + s _ out write case # + str i + : + str x 		6 19

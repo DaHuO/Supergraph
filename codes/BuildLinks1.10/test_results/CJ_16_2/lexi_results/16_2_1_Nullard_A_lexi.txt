@@ -1,0 +1,4 @@
+def solve s = readone str s = str sorted s count = 0 * 10 count 6 = s count X s = remlet s SIX count 6 count 4 = s count U s = remlet s FOUR count 4 count 0 = s count Z s = remlet s ZERO count 0 count 3 = s count R s = remlet s THREE count 3 count 8 = s count H s = remlet s EIGHT count 8 count 2 = s count W s = remlet s TWO count 2 count 5 = s count F s = remlet s FIVE count 5 count 7 = s count V s = remlet s SEVEN count 7 count 1 = s count O s = remlet s ONE count 1 count 9 = s count I s = remlet s NINE count 9 retval = for r in range 10 retval extend str r * count r return join retval 		14 54
+def readmany t return map t input_file readline split 		7 7
+def remlet s w c for letter in w s = s replace letter c return s 		9 12
+def readone t return t input_file readline strip 		6 6

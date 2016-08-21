@@ -1,0 +1,1 @@
+HAHAHA: main T = int raw_input for t in xrange 1 T + 1 S = raw_input res = cs = Counter S count = 0 * 10 count 0 = cs Z cs E -= count 0 cs R -= count 0 cs O -= count 0 cs Z -= count 0 count 2 = cs W cs T 		15 87

@@ -1,0 +1,2 @@
+def replace C J comb c = list C j = 		3 19
+c_count j_count c_count j_count = C count ? = J count ? c_res = None j_res = None val_res = None for comb in 		21 61

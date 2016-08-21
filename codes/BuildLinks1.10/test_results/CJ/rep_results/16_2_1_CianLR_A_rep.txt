@@ -1,0 +1,1 @@
+def get_number s n if s == return if all 		4 16

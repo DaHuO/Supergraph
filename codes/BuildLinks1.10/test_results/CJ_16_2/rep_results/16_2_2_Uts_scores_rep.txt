@@ -1,0 +1,3 @@
+new_scores new_scores new_scores new_scores min_difference global min_c global min_j if ? not in scores 0 and ? not in scores 1 c = int join scores 0 j = int join scores 1 difference = abs c - j if difference < min_difference min_difference = difference min_c = c min_j = j elif difference == min_difference and c j < min_c min_j min_c = c min_j = j return for i in range len scores 		41 114
+slow_solve slow_solve slow_solve min_difference global min_c global min_j if ? not in scores 0 and ? not in scores 1 c = int join scores 		8 38
+def parse 		116 117

@@ -1,0 +1,1 @@
+def solve s r = r += s 0 for x in s 1 if x >= r 0 r = x + r else r += x return r 		1 9

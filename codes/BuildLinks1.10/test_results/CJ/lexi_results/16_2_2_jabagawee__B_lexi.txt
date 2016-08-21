@@ -1,0 +1,1 @@
+def match a b a b = str a str b l = max len a len b a b = a zfill l b zfill l for x y in zip a b if not x == y or x == ? or y == ? return false return true 		6 13

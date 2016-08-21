@@ -1,0 +1,1 @@
+def solve grid numbers = for i in grid for j in i if j in numbers numbers j += 1 else numbers j = 1 answer = for i in numbers if numbers i % 2 != 0 answer append int i answer sort answer = str i for i in answer answer =  join answer return answer 		1 18

@@ -1,0 +1,1 @@
+def f s nbofchars = Counter s d = Z O W R U F X S G I res = for i in 0 2 4 6 8 1 3 5 7 9 m = nbofchars d i if m > 0 for key value in letters i items nbofchars key -= m * value res extend i * m if any nbofchars values raise ValueError s return join map str sorted res 		8 24

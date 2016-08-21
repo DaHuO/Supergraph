@@ -1,0 +1,3 @@
+def writeanswer lines file with open file w+ as 		13 20
+readandwritefile filein fileout with open filein as f 		3 11
+def solve params word = params 0 		27 38

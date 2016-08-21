@@ -1,0 +1,3 @@
+def digits letters if Z in letters list_subtract letters list ZERO return 0 + digits letters if G in letters list_subtract letters list EIGHT return 8 		8 40
+sorted_digits letters return 		42 43
+def list_subtract 		3 6

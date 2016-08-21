@@ -1,0 +1,5 @@
+def solve s a = 		1 10
+a-large-final.txt solve_large 		22 25
+def dosolve f g d = f read split 		12 20
+solve_examples a-eg-out.txt 		32 35
+a-small-out0.txt solve_small 		27 30

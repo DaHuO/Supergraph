@@ -1,0 +1,1 @@
+def solve s answer = s 0 for char in s 1 if ord char >= ord answer 0 answer = char + answer else answer append char return join answer 		2 13

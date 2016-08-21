@@ -1,0 +1,4 @@
+remfree topics counts fake for i in range 		20 26
+break_cycle topics counts poss = for i in range topics __len__ - 1 		42 56
+def rem i topics counts t = topics i 		8 18
+remalone remfree counts fake for i in range topics 		28 40

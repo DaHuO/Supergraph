@@ -1,0 +1,1 @@
+def lastword s letters = sorted list set s if len letters < 1 return s lastletter = letters - 1 firstinstance = s find lastletter lastcount = s count lastletter repletters = lastletter for _ in xrange lastcount repletters = join repletters endbit = s firstinstance replace lastletter beforelastletter = s firstinstance return repletters + lastword beforelastletter + endbit 		4 19

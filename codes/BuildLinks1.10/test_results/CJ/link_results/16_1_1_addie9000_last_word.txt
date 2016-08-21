@@ -1,0 +1,10 @@
+Direct links:
+14 - 24 links:
+16_3_1_addie9000_senate_evacuation	:	37 - 48
+16_2_1_addie9000_get_digit	:	71 - 81
+16_1_2_addie9000_rank_and_file	:	20 - 33
+16_2_1_durnoy_solve_x	:	37 - 50
+16_0_4_addie9000_fractiles	:	29 - 39
+16_0_4_durnoy_solve_x_small	:	11 - 25
+16_3_1_durnoy_solve_x	:	31 - 46
+

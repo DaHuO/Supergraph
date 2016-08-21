@@ -1,0 +1,6 @@
+def read_int return int read_input 		16 17
+def print_solution i solution print Case #{}: {} format i solution 		24 25
+def read_input_multi strip = True return read_input strip split 		12 13
+def read_input strip = True return raw_input strip if strip else raw_input 		8 9
+def read_int_multi return int s for s in read_input_multi 		20 21
+def solve s = read_input lower num = for current in order_d d = digits current while all l in s for l in d num append current for l in d s = s replace l 1 num sort return join str n for n in num 		34 44

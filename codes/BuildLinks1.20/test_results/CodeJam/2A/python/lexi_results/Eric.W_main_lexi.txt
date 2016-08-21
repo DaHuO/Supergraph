@@ -1,0 +1,3 @@
+def tournament_for l n if n == 0 return l parents = round_for l return join 		11 15
+def round_for l if l == r return rs if l == s return ps if l == p return pr 		3 9
+def solve n r p s trees = tournament_for letter n for letter in prs try return min 		22 26

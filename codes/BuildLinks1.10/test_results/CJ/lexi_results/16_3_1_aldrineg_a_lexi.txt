@@ -1,0 +1,6 @@
+def get_file argv if len argv == 1 return a.in else return a_%s.in % argv 1 		5 9
+def main argv f = open get_file argv r f_out = open get_file_out argv w t = int f readline for t in xrange 1 t + 1 n = int f readline p = p 0 int p 1 for p in enumerate f readline rstrip \n split  arrangement = get_arrangement n p print_answer t arrangement f_out 		67 75
+def get_arrangement n p alpha = abcdefghijklmnopqrstuvwxyz b = i 0 for i in xrange 0 len p total = sum p 1 for p in p c = 2 b 0 1 = 1 b 1 1 = 1 plan = ab while c < total half = sum b 1 for b in b + 1 / 2 b sort key = lambda b b 1 cplan = for i in xrange 0 len b j b = b i if b < p j 1 and b <= half b i 1 = b i 1 + 1 c = c + 1 cplan = cplan + alpha j break if not verify b half = sum b 1 for b in b + 1 / 2 b sort key = lambda b b 1 for i in xrange 0 len b j b = b i if b < p j 1 and b <= half b i 1 = b i 1 + 1 c = c + 1 cplan = cplan + alpha j break assert verify b plan append cplan plan reverse return  join plan 		23 55
+def print_answer t answer f answer = case #%d: %s % t answer print answer f write answer f write \n 		17 21
+def verify b for i in xrange 0 len b s = 0 for j in xrange 0 len b if i != j s = s + b j 1 if b i 1 > s return false return true 		57 65
+def get_file_out argv if len argv == 1 return a.out else return a_%s.out % argv 1 		11 15

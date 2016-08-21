@@ -1,0 +1,10 @@
+8 18:
+main	1	0	38	30
+word1	2	0	37	29
+word2	3	0	36	28
+counts	4	0	35	27
+defaultdict	6	0	33	25
+char	9	1	30	22
+word2	11	3	28	20
+counts	12	4	27	19
+

@@ -1,0 +1,1 @@
+def longest fs to avoid ans = 		11 18

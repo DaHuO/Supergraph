@@ -1,0 +1,1 @@
+def somefunction happy alph = list abcdefghijklmnopqrstuvwxyz word = happy 0 for x in range 1 len happy if alph index happy x >= alph index word 0 word = happy x + word else word += happy x return word 		1 9

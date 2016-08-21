@@ -1,0 +1,4 @@
+bff_of_bff bff_of_bff n f i cycle bff_of_i = f i = f bff_of_i if bff_of_i 		11 32
+all_visited visited 		5 9
+def search n m i visited depth 		35 42
+def solve n f global result result = 0 for i in range n enum n f i i reverse_map 		44 65

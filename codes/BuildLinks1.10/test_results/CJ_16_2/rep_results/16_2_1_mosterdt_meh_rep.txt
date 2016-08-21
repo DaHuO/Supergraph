@@ -1,0 +1,3 @@
+def remove_char s 		28 32
+number_present s n for 		22 26
+blech blech blech blech = raw_input backup = test answer = = 0 		8 20

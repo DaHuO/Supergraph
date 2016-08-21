@@ -1,0 +1,1 @@
+def createmaxstr inputstr newstr = inputstr 0 remstr = inputstr 1 for ch in remstr if ch >= newstr 0 newstr = ch + newstr else newstr = newstr + ch return newstr 		7 15

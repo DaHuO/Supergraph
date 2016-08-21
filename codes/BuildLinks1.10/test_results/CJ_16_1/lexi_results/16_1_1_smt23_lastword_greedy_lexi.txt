@@ -1,0 +1,1 @@
+def solveproblem letters letters pop ans = ans append letters 0 letters = letters 1 while len letters > 0 if letters 0 >= ans 0 ans insert 0 letters 0 else ans append letters 0 letters = letters 1 return ans 		4 19

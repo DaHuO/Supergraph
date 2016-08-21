@@ -1,0 +1,2 @@
+third fourth third fourth = problem = list problem first = z 0 zero w 2 two u 4 		6 28
+def unique s for u in s 		14 21

@@ -1,0 +1,1 @@
+newitem newitem n parties heap = result = count = 0 for i num in enumerate parties heappush heap 1000 - 		8 33

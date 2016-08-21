@@ -1,0 +1,1 @@
+def find s s = s replace \n 		3 16

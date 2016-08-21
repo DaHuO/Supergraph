@@ -1,0 +1,2 @@
+def recalculate c n f for ch in numbers n c ch -= f if c ch == 0 c pop ch None return c 		22 28
+def getSol ip c = Counter ip sol = for n letter in 0 Z 2 W 4 U 6 X 8 G f = c get letter False if f sol extend n * f c = recalculate c n f c_old = dict copy c while c for n pattern in 5 patterns 5 7 patterns 7 3 patterns 3 9 patterns 9 1 patterns 1 for letter in pattern iterkeys if c get letter 0 < pattern letter break else sol append n c = recalculate c n 1 if c_old != c c_old = dict copy c break return sol 		30 54

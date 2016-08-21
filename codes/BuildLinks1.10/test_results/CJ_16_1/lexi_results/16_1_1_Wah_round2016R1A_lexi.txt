@@ -1,0 +1,4 @@
+def generateoutput self print case #%d: %s % self caseindex self lastword 		19 20
+def __init__ self caseindex self caseindex = caseindex 		3 4
+def parseinput self self s = raw_input self lastword = 		6 8
+def run self for character in self s if len self lastword == 0 self lastword += character elif ord character >= ord self lastword 0 self lastword = character + self lastword else self lastword += character 		10 17

@@ -1,0 +1,6 @@
+		17 18
+read_char_list 		20 21
+		11 12
+def read_int_list 		14 15
+write_case_ans i ans if 		23 26
+num_strings numj num_strings letters_copy letters_copy letters_copy letters_copy numj write_case_ans FIVE SEVEN NINE ONE nums = 0 2 6 8 3 4 5 7 		28 57

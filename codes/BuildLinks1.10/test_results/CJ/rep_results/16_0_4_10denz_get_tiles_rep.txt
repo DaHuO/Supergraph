@@ -1,0 +1,3 @@
+get_tiles needed_lookups min_lookups needed_lookups complexity == 1 return list 		18 25
+d-small-attempt1.in max_lookups needed_lookups min_lookups needed_lookups max_lookups get_tiles = int data readline 		3 14
+min_lookups base_length complexity 		28 32

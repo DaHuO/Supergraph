@@ -1,0 +1,2 @@
+def solve fin fout l = codejam_io read_simple fin str s = map solve_case l codejam_io write_simple fout s 		16 19
+def solve_case c c = c 0 sol = c 0 for l in c 1 if l >= sol 0 sol = l + sol else sol = sol + l return sol 		6 14

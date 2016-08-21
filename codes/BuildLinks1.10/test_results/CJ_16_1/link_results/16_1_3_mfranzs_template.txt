@@ -1,0 +1,95 @@
+Direct links:
+5 - 9 links:
+16_1_2_mfranzs_template	:	5 - 9
+16_1_1_mfranzs_template	:	5 - 9
+
+11 - 17 links:
+16_1_2_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+
+
+With same rare tokens:
+11 - 17 links:
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	19 - 21
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	19 - 21
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	11 - 17
+
+19 - 21 links:
+16_1_2_mfranzs_template	:	11 - 17
+16_1_2_mfranzs_template	:	19 - 21
+16_1_1_mfranzs_template	:	11 - 17
+16_1_1_mfranzs_template	:	19 - 21
+

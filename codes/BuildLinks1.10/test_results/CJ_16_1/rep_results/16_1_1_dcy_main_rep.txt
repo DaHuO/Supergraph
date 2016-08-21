@@ -1,0 +1,4 @@
+str_to_int 		43 44
+case_total str_to_int case_total = a-large.in.txt output_file = out output_format = case #{0}: 		17 37
+str_to_int_list s delimiter 		47 48
+def solve s if len s == 		6 15

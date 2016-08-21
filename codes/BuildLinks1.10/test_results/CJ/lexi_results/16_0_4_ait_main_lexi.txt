@@ -1,0 +1,2 @@
+def create_answer k s return  join str x for x in xrange 1 k + 1 		20 21
+def main loader_config = configloader configloader config = loader_config load_config config.yml file_reader = loadfile fileloader config input_file dataset = file_reader load input.txt with open output.txt w as out_file for i data in enumerate dataset print data: data answer = create_answer data 0 0 data 0 2 answer_str = case #{0}: {1}\n format i + 1 answer out_file write answer_str 		6 17

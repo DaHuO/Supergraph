@@ -1,0 +1,1 @@
+def nextpair r n ans = for s in r ans append s + n ans append n + s return ans 		4 10

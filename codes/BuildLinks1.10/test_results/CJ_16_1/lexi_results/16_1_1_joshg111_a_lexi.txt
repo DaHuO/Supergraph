@@ -1,0 +1,1 @@
+def gen_last_word s res = q = deque for c in s if not q q append c else if c < q 0 q append c else q appendleft c for c in q res += c return res 		5 22

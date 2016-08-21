@@ -1,0 +1,1 @@
+def sol s res = for c in s if res + c < c + res res = c + res else res = res + c return res 		4 11

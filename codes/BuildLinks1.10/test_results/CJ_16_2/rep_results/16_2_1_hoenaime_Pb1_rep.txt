@@ -1,0 +1,2 @@
+encoding utf-8 nb_val nb_val rchch Fin = output.txt f = open ifn r = g = open ofn w = int f readline 		45 68
+rchch un deux trois quatre cinq sept huit neuf huit cinq un deux trois quatre cinq sept huit neuf 0 T = 0 F = 0 S = 0 I = 0 for 		1 43

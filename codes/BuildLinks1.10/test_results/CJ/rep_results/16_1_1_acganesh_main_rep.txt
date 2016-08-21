@@ -1,0 +1,2 @@
+def main t = 		19 23
+abc_dict abc_dict s winner = for 		7 17

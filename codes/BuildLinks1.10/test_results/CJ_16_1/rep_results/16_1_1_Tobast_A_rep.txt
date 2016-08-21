@@ -1,0 +1,3 @@
+def lastword cur rem if rem 		11 18
+def possibles cur rem 		4 9
+def solve s = input strip poss = def possibles cur rem if rem 		1 23

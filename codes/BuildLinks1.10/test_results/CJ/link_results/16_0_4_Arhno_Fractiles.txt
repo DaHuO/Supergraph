@@ -1,0 +1,26 @@
+Direct links:
+5 - 6 links:
+16_2_1_Arhno_digit	:	5 - 24
+
+20 - 34 links:
+16_2_1_Arhno_digit	:	100 - 114
+
+
+With same rare tokens:
+20 - 34 links:
+16_2_1_Arhno_digit	:	100 - 114
+16_2_1_Arhno_digit	:	100 - 114
+16_0_4_cptcarrot_probd	:	1 - 10
+16_0_4_algorithmist_fractiles	:	3 - 15
+16_2_1_Arhno_digit	:	100 - 114
+16_2_1_Arhno_digit	:	100 - 114
+16_0_4_cptcarrot_probd	:	1 - 10
+16_2_1_Arhno_digit	:	100 - 114
+16_2_1_Arhno_digit	:	100 - 114
+16_2_1_Arhno_digit	:	100 - 114
+16_2_1_Arhno_digit	:	100 - 114
+16_2_1_Arhno_digit	:	100 - 114
+16_2_1_Arhno_digit	:	100 - 114
+16_2_1_Arhno_digit	:	100 - 114
+16_2_1_Arhno_digit	:	100 - 114
+

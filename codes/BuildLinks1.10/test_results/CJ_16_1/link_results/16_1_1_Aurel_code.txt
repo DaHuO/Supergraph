@@ -1,0 +1,54 @@
+Direct links:
+26 - 27 links:
+16_1_2_Aurel_code	:	26 - 27
+
+20 - 22 links:
+16_1_2_Aurel_code	:	20 - 22
+16_1_1_UberFarmer_a	:	26 - 28
+
+10 - 12 links:
+16_1_1_Michael_A	:	39 - 41
+16_1_2_Aurel_code	:	10 - 12
+16_1_1_UberFarmer_a	:	12 - 14
+16_1_2_Michael_B	:	39 - 41
+
+13 - 19 links:
+16_1_1_UberFarmer_a	:	15 - 25
+
+39 - 40 links:
+16_1_3_Aurel_code	:	9 - 10
+16_1_2_Aurel_code	:	39 - 40
+
+29 - 37 links:
+16_1_2_Aurel_code	:	29 - 37
+
+23 - 25 links:
+16_1_2_Aurel_code	:	23 - 25
+16_1_1_UberFarmer_a	:	29 - 31
+
+
+With same rare tokens:
+39 - 40 links:
+16_1_3_Aurel_code	:	9 - 10
+16_1_2_Aurel_code	:	39 - 40
+
+23 - 25 links:
+16_1_2_Aurel_code	:	23 - 25
+16_1_1_UberFarmer_a	:	29 - 31
+16_1_2_Aurel_code	:	23 - 25
+16_1_1_UberFarmer_a	:	29 - 31
+16_1_2_Aurel_code	:	23 - 25
+16_1_1_UberFarmer_a	:	29 - 31
+
+26 - 27 links:
+16_1_2_Aurel_code	:	26 - 27
+
+20 - 22 links:
+16_1_2_Aurel_code	:	20 - 22
+16_1_1_UberFarmer_a	:	26 - 28
+16_1_2_Aurel_code	:	20 - 22
+16_1_1_UberFarmer_a	:	26 - 28
+
+29 - 37 links:
+16_1_2_Aurel_code	:	29 - 37
+

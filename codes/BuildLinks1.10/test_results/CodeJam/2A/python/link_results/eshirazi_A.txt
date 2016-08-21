@@ -1,7 +1,5 @@
-30 - 43 links:
-fandersen_GCJ	:	109 - 142
 
-8 - 27 links:
-kpbochenek_perplexing-showdown	:	19 - 33
-gurtej.kanwar_A	:	41 - 58
+With same rare tokens:
+30 - 43 links:
+zli_a	:	13 - 14
 

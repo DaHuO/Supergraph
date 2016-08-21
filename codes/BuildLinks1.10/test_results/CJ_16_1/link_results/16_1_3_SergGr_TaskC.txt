@@ -1,0 +1,21 @@
+
+With same rare tokens:
+152 - 164 links:
+16_1_1_nanook_alphabetSoup	:	118 - 138
+16_1_1_nanook_alphabetSoup	:	118 - 138
+16_1_1_nanook_alphabetSoup	:	118 - 138
+16_1_1_Gerry2k5_lastword	:	7 - 32
+16_1_1_nanook_alphabetSoup	:	118 - 138
+16_1_1_nanook_alphabetSoup	:	118 - 138
+16_1_1_nanook_alphabetSoup	:	118 - 138
+16_1_1_SergGr_TaskA	:	10 - 20
+16_1_2_SergGr_TaskB	:	22 - 38
+
+59 - 149 links:
+16_1_1_SergGr_TaskA	:	10 - 20
+16_1_2_SergGr_TaskB	:	22 - 38
+16_1_2_MichelJ_B	:	67 - 97
+16_1_2_SergGr_TaskB	:	22 - 38
+16_1_2_SergGr_TaskB	:	22 - 38
+16_1_2_SergGr_TaskB	:	22 - 38
+

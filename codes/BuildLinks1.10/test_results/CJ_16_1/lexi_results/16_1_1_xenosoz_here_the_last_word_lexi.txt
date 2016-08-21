@@ -1,0 +1,1 @@
+def solve s word = for s in s left = s + word right = word + s word = max left right return word 		11 17

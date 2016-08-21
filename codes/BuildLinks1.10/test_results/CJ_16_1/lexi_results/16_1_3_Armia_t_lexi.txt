@@ -1,0 +1,1 @@
+def addst bbf cir s ll while 1 nxt = bbf cir - 1 if len cir > 1 and nxt == cir - 2 lk = len cir if lk > ll ll = lk for st in range s if st not in cir new = _ for _ in cir new append st lk = addst bbf new s ll if lk > ll ll = lk break elif nxt in cir lk = len cir - cir index nxt if lk > ll ll = lk break else cir append nxt return ll 		12 34

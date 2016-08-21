@@ -1,0 +1,2 @@
+def flipbit mybit if mybit mybit = false else mybit = true return mybit 		6 11
+def solve word possibles = 2 ** len word - 1 answers = word 0 for i in range 1 len word temparray = for j in answers temparray append word i + j temparray append j + word i answers = temparray sortedarray = sorted answers return sortedarray len answers - 1 		14 39

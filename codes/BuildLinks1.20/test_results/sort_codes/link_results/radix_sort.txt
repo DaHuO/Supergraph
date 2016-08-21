@@ -1,0 +1,19 @@
+Direct links:
+4 - 5 links:
+bubble_sort_with_flag	:	4 - 5
+sort_time	:	6 - 7
+
+
+With same rare tokens:
+4 - 5 links:
+qsort	:	29 - 30
+qsort	:	32 - 33
+bubble_sort_with_flag	:	4 - 5
+sort_time	:	6 - 7
+
+7 - 33 links:
+test_sorts	:	19 - 26
+test_sorts	:	50 - 74
+pysort	:	31 - 44
+radixrsort	:	9 - 14
+

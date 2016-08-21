@@ -1,0 +1,1 @@
+def solve s returner = s 0 for c in s 1 if c < returner 0 returner append c else returner insert 0 c return join returner 		17 26

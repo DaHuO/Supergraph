@@ -1,0 +1,2 @@
+def scores C J if len C == 0 return if C 0 == J 0 if C 0 == ? c j = scores 0 + C 1 0 + J 1 c j = int c int j x y = scores 0 + C 1 1 + J 1 x y = int x int y if abs x - y < abs c - j c j = x y elif abs x - y == abs c - j if x < c or x == c and y < j c j = x y x y = scores 1 + C 1 0 + J 1 x y = int x int y if abs x - y < abs c - j c 		14 122
+games commands.txt scores.txt spaces spaces spaces = open w line = 0 for i in f if line == 0 T 		124 152

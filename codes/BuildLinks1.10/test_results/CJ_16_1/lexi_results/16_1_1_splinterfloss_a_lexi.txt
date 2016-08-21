@@ -1,0 +1,1 @@
+def a str new_str = for i in xrange 0 len str char = str i if i == 0 new_str = new_str + str i else if str i < new_str 0 new_str = new_str + str i else new_str = str i + new_str return new_str strip 		2 13

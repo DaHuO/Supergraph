@@ -1,0 +1,1 @@
+def solve line res = count = defaultdict lambda 0 for ch in line strip count ch = count ch + 1 Z = count Z count Z -= Z count E -= Z count R -= Z count O -= Z res += 0 * Z W = count 		5 75

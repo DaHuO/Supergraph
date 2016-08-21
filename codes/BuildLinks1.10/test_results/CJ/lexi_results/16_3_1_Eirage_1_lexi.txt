@@ -1,0 +1,1 @@
+def good x m = sum p - 1 for k in xrange n if k == x if p k - 1 > m / 2 return false else if p k > m / 2 return false return true 		1 10

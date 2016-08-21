@@ -1,0 +1,2 @@
+def get_ans 		31 35
+tsl tsl org sl = s = list s for es 		2 28

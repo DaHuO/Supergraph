@@ -1,0 +1,2 @@
+chars_list solve word num = wd = for l in word 		20 33
+def remove wd letters 		12 17

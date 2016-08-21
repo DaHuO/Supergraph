@@ -1,0 +1,4 @@
+def main f = open sys 		38 44
+makey rint astype s = s 		32 35
+makey s Y = 		25 30
+makeit T U = np zeros len 		12 19

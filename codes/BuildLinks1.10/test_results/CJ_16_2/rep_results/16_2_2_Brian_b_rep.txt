@@ -1,0 +1,1 @@
+try_all try_all try_all best = None for i in xrange len C if C i == ? for j in xrange 10 C i = chr ord 0 + j curr = C J if best 		1 30

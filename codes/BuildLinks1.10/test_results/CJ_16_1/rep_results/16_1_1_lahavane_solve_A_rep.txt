@@ -1,0 +1,1 @@
+def solve t i res = t 0 for c in t 1 		6 21

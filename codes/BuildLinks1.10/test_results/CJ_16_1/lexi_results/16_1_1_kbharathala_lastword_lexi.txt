@@ -1,0 +1,1 @@
+def last_word s f = s 0 for c in s 1 f = f + c if c < f 0 else c + f return f 		1 5

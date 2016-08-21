@@ -1,0 +1,8 @@
+minchr0 maxchr9 minchr0 maxchr9 if len C == 0 return C J else c0 = C 0 j0 = J 0 if c0 != ? and j0 != ? if c0 > j0 return list_replace C ? 0 list_replace J ? 9 elif c0 < j0 return list_replace C ? 9 list_replace J ? 0 else if len C == 1 return list c0 list j0 else c1 j1 = minirec C 1 J 1 c1 insert 0 c0 j1 		32 129
+nbtc minidiff = sys stdin readline 		132 137
+minidiff tc C J 		4 6
+def list_to_string 		8 12
+def list_diff 		29 30
+minchr0 n if 		17 21
+def list_replace l 		14 15
+maxchr9 n if 		23 27

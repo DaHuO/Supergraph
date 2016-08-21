@@ -1,0 +1,6 @@
+def hasmutualchainend stud a visited = set next = a last = - 1 while next not in visited visited add next last = next next = stud next if last == stud next return next len visited - 2 return - 1 0 		31 41
+def runtest t lines output mutualpairs = maxperpartner = n = int lines 0 line = lines 1 split  stud = for a in line stud append int a - 1 skip = set for a in range n if a in skip continue if stud stud a == a skip add stud a mutualpairs append a stud a maxperpartner a = 0 maxperpartner stud a = 0 chainstarts = maxi = 0 for a in range n check = getchainlenifcomplete stud a if check > maxi maxi = check for a in range n check = hasmutualchainend stud a if check 0 >= 0 and maxperpartner check 0 < check 1 maxperpartner check 0 = check 1 comp = 0 for a in maxperpartner keys comp += maxperpartner a + 1 if comp > maxi maxi = comp ret = retopen t +  + str maxi + \n output write ret print ret 		53 87
+def getendofchain stud a visited = set next = a last = - 1 while next not in visited visited add next last = next next = stud next return last 		21 29
+def lstsort tup return tup 1 		18 19
+def retopen tnum return case # + str tnum + : 		15 16
+def getchainlenifcomplete stud a visited = set next = a while next not in visited visited add next next = stud next if next == a return len visited return 0 		43 51

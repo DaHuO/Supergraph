@@ -1,0 +1,401 @@
+Direct links:
+119 - 126 links:
+16_2_2_bigOnion_close_match	:	119 - 126
+
+55 - 63 links:
+16_0_4_bigOnion_fractiles	:	50 - 60
+16_0_4_bigOnion_fractiles	:	51 - 59
+16_2_2_bigOnion_close_match	:	55 - 63
+16_2_2_bigOnion_close_match	:	54 - 64
+16_2_2_bigOnion_close_match	:	56 - 62
+16_0_4_bigOnion_fractiles	:	52 - 58
+
+15 - 25 links:
+16_0_4_bigOnion_fractiles	:	10 - 23
+
+68 - 79 links:
+16_0_4_bigOnion_fractiles	:	64 - 76
+
+134 - 138 links:
+16_0_4_bigOnion_fractiles	:	127 - 131
+16_2_2_bigOnion_close_match	:	134 - 138
+
+128 - 132 links:
+16_0_4_bigOnion_fractiles	:	121 - 125
+
+
+With same rare tokens:
+119 - 126 links:
+16_2_2_bigOnion_close_match	:	119 - 126
+16_2_2_bigOnion_close_match	:	128 - 132
+16_2_2_bigOnion_close_match	:	119 - 126
+16_2_2_bigOnion_close_match	:	128 - 132
+16_2_2_bigOnion_close_match	:	119 - 126
+16_2_2_bigOnion_close_match	:	128 - 132
+
+201 - 207 links:
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	201 - 207
+16_2_2_bigOnion_close_match	:	201 - 207
+16_2_2_bigOnion_close_match	:	146 - 149
+16_2_2_bigOnion_close_match	:	201 - 207
+16_2_2_bigOnion_close_match	:	218 - 226
+
+68 - 79 links:
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_2_2_bigOnion_close_match	:	68 - 79
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	74 - 78
+16_2_2_bigOnion_close_match	:	74 - 78
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	74 - 78
+16_2_2_bigOnion_close_match	:	74 - 78
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	74 - 78
+16_2_2_bigOnion_close_match	:	74 - 78
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	74 - 78
+16_2_2_bigOnion_close_match	:	74 - 78
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	74 - 78
+16_2_2_bigOnion_close_match	:	74 - 78
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	74 - 78
+16_2_2_bigOnion_close_match	:	74 - 78
+
+134 - 138 links:
+16_3_1_AndersTornkvist_a	:	77 - 88
+16_0_4_bigOnion_fractiles	:	127 - 131
+16_2_2_bigOnion_close_match	:	134 - 138
+16_2_2_bigOnion_close_match	:	134 - 138
+
+83 - 109 links:
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_Bozhao_Joshua_test	:	27 - 52
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_1_CalgaryCorpus_a	:	3 - 44
+16_2_2_bigOnion_close_match	:	83 - 109
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_2_2_bigOnion_close_match	:	83 - 109
+
+161 - 197 links:
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_x1Mike7x_B	:	68 - 75
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	201 - 207
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_2_bigOnion_close_match	:	161 - 197
+
+74 - 78 links:
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	74 - 78
+16_2_2_bigOnion_close_match	:	74 - 78
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	71 - 75
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_0_4_bigOnion_fractiles	:	64 - 76
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	68 - 79
+16_2_2_bigOnion_close_match	:	74 - 78
+16_2_2_bigOnion_close_match	:	74 - 78
+
+90 - 107 links:
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_2_2_bigOnion_close_match	:	83 - 109
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	86 - 103
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	90 - 107
+16_2_2_bigOnion_close_match	:	83 - 109
+16_2_2_bigOnion_close_match	:	83 - 109
+
+215 - 303 links:
+16_2_2_bigOnion_close_match	:	201 - 207
+16_2_2_bigOnion_close_match	:	218 - 226
+16_2_1_DjMoren_problem	:	26 - 44
+16_3_1_Avail_run	:	6 - 69
+16_3_1_Avail_run	:	6 - 69
+16_2_1_BlackEleph_a	:	9 - 90
+16_2_1_BlackEleph_a	:	9 - 90
+
+128 - 132 links:
+16_3_1_AndersTornkvist_a	:	67 - 75
+16_0_4_bigOnion_fractiles	:	121 - 125
+16_2_2_bigOnion_close_match	:	128 - 132
+16_2_2_bigOnion_close_match	:	119 - 126
+16_2_2_bigOnion_close_match	:	128 - 132
+16_2_2_bigOnion_close_match	:	119 - 126
+16_2_2_bigOnion_close_match	:	128 - 132
+16_2_2_bigOnion_close_match	:	119 - 126
+16_2_2_bigOnion_close_match	:	128 - 132
+
+146 - 149 links:
+16_2_2_bigOnion_close_match	:	201 - 207
+16_2_2_bigOnion_close_match	:	146 - 149
+16_0_4_bigOnion_fractiles	:	139 - 142
+16_2_2_bigOnion_close_match	:	146 - 149
+16_0_4_bigOnion_fractiles	:	139 - 142
+16_2_2_bigOnion_close_match	:	146 - 149
+16_2_2_bigOnion_close_match	:	146 - 149
+16_1_2_feketrob_main	:	10 - 33
+16_0_4_bigOnion_fractiles	:	139 - 142
+16_2_2_bigOnion_close_match	:	146 - 149
+
+29 - 33 links:
+16_0_4_bigOnion_fractiles	:	26 - 30
+16_2_2_bigOnion_close_match	:	29 - 33
+
+54 - 64 links:
+16_0_4_bigOnion_fractiles	:	50 - 60
+16_2_2_bigOnion_close_match	:	54 - 64
+
+15 - 25 links:
+16_0_4_bigOnion_fractiles	:	10 - 23
+16_2_2_bigOnion_close_match	:	231 - 353
+16_2_2_bigOnion_close_match	:	15 - 25
+

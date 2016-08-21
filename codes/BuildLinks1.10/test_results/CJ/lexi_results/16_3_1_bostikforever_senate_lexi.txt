@@ -1,0 +1,1 @@
+def evacuate parties senators alphas = chr ord a + i for i in xrange 26 total = sum senators ret = for i in xrange total for j in xrange parties if senators j > 0 ret append alphas j senators j -= 1 ret2 = while ret if len ret == 3 ret2 append ret pop else r = ret pop ret pop ret2 append join r return  join ret2 		3 20

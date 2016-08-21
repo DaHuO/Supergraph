@@ -1,0 +1,6 @@
+def read_int 		32 33
+def 		28 29
+def solve case ** kwargs word = kwargs word string = word nums = tmp = for c in string if c == G nums += 8 tmp += EIGHT 		48 99
+def read_ints f 		40 41
+def read_words 		36 37
+read_decimals f 		44 45

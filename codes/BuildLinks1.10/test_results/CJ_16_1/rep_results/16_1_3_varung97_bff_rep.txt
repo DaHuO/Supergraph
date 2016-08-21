@@ -1,0 +1,1 @@
+incycles isocomps isocomps isocomps isocomps maxsize nextst iscycle isiso excludinglast2 isocomps iscycle isiso nextst nextst nextst excludinglast2 iscycle incycles nextst nextst incycles iscycle nextst isocomps isocomps nextst isiso nextst excludinglast2 maxsize maxsize isocomps isocomps maxsize 		41 105

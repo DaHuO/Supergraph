@@ -1,0 +1,4 @@
+def __init__ self self k = 0 		5 6
+def solve self return  join map str range 1 self k + 1 		8 9
+def read_case file case = case line = file readline split  line = map int line case k = line 0 return case 		12 17
+def main filename_in = d-small-attempt0.in filename_out = d-small-attempt0.out file_in = open filename_in file_out = open filename_out w nb_case = int file_in readline for k in range 1 nb_case + 1 case = read_case file_in to_write = case # + str k + : + case solve print to_write file_out write to_write + \n file_out close 		20 34

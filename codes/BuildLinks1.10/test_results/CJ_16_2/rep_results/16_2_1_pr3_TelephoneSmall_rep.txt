@@ -1,0 +1,4 @@
+lin linc lin = len in_str = tel = while len in_str > 0 if Z in in_str in_str = remove_str in_str ZERO tel = tel + 0 elif W in 		24 84
+remove_s elm remove_s elm 		17 22
+got_tel in_s in_s in_s in_s in_f readline 		86 96
+Pogo Tell.in GotTell.txt num_of_case num_of_case got_tel 		9 15

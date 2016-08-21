@@ -1,0 +1,1 @@
+def digits n dig = n = list n while W in n n remove T n remove W n remove O dig append 2 while Z in n n remove Z n remove E n remove R n remove O dig 		2 67

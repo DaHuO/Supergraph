@@ -1,0 +1,4 @@
+def solve n lists global ret ret 		91 97
+def parse input_file n = int 		100 105
+def search board lists n k r c om global ret if ret != none return if k == 2 * n - 1 if om != none if om 0 == 0 ret = list board om 1 else ret = board i om 1 for i in xrange n elif r == n - 1 ret = list board n - 1 else ret = board i c for i in xrange n return valid = true if r < n for j in xrange n if board r j != 		8 87
+def main start = datetime datetime now input_file = open sys argv 1 output_file = open sys argv 2 w if len 		107 125

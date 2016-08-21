@@ -1,0 +1,2 @@
+tmpa tmpb tmpa tmpb tmpa tmpa tmpa tmpa for k in range len b if b k != m a k = - 1 b k = - 1 = 		1 25
+tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpj tmpc tmpj tmpc tmpj tmpj tmpc tmpj tmpc tmpj tmpc tmpj tmpj tmpc tmpc tmpj tmpc tmpj tmpc tmpc tmpj tmpc tmpj tmpc tmpc tmpj d == ? newj = newj + 0 else newj = newj + d return newc newj if int c 0 > int j 0 newc = for d in c if d == ? newc = newc + 0 else newc = 		27 126

@@ -1,0 +1,2 @@
+delete s c 		8 11
+removenumber delete k n n 		13 19

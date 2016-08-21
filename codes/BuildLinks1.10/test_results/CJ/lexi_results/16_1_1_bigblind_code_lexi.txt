@@ -1,0 +1,2 @@
+def debug message if len sys argv > 1 and sys argv 1 == silent return sys stdout = sys __stdout__ print message sys stdout = out 		16 21
+def print_case case result debug case #%d: %s % case str result print case #%d: %s % case str result 		12 14

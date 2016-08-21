@@ -1,0 +1,1 @@
+def solve n = int input counter = counter for n in range n * 2 - 1 counter update input split f = lambda x x 1 % 2 == 1 m = lambda x int x 0 return  join map str sorted map m filter f counter items 		13 21

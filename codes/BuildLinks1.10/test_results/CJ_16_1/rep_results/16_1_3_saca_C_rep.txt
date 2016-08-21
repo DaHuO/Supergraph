@@ -1,0 +1,5 @@
+readvalue 		24 25
+readvalues 		11 12
+classmethod def answer 		18 21
+readvalue 		7 8
+def solve n bff bff = x - 1 for x in bff 		28 40

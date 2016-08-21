@@ -1,0 +1,2 @@
+getw l l = string ascii_uppercase i int x for i x in enumerate l r = while sum x 1 for x in l > 0 l sort key = lambda x x 		17 54
+def isvalid l if sum x 		11 14

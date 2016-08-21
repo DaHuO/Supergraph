@@ -1,0 +1,2 @@
+getnum divmod num result = for char 		7 20
+getscore code 		22 24

@@ -1,0 +1,2 @@
+def solve arr dd = defaultdict int for z in arr for k in z dd k += 1 keys = for k in dd if dd k % 2 != 0 keys append k return  join str i for i in sorted keys 		13 22
+def _cc for line in sys stdin for x in line strip split yield x 		4 7

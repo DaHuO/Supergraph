@@ -1,0 +1,3 @@
+def bits n while n b = n & ~ n + 1 yield b n ^= b 		19 23
+def presolve n matchup if n == 0 return matchup new_matchup = for j in range len matchup ordering = orderings n - 1 % 6 winner = winners matchup j if ordering index winner 0 > ordering index winner 1 winner = winner - 1 new_matchup += winner return presolve n - 1 new_matchup 		25 35
+def solve n r p s best = presolve n r if r p s == best count r best count p best count s return best best = presolve n p if r p s == best count r best count p best count s return best best = presolve n s if r p s == best count r best count p best count s return best return impossible 		7 17

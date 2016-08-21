@@ -1,0 +1,1 @@
+def solve s digits = while Z in s digits append 0 s = s replace Z 1 s = s replace E 1 s = s replace R 1 s = s replace O 1 while W in s digits append 2 s = s replace T 1 s = s replace W 1 s = s replace 		1 58

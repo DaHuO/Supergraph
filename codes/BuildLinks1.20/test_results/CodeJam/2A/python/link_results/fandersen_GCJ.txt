@@ -1,0 +1,47 @@
+
+With same rare tokens:
+155 - 160 links:
+edgarthewise_A	:	9 - 12
+
+22 - 23 links:
+edgarthewise_A	:	6 - 7
+edgarthewise_A	:	9 - 12
+fandersen_a	:	2 - 3
+
+8 - 12 links:
+Subscheme_A-small	:	15 - 16
+
+109 - 142 links:
+bigOnion_rps	:	165 - 199
+eMBe_A	:	133 - 145
+eMBe_A	:	147 - 152
+tpablo_main-large	:	209 - 220
+eshirazi_A	:	30 - 43
+mcpower_a	:	15 - 49
+Jed_solve	:	59 - 68
+lackofcheese_src_codejam_io	:	90 - 113
+PhilippSinitsyn_problem	:	51 - 61
+Strikeskids_A	:	59 - 63
+mdippel_A	:	57 - 66
+mxx_A	:	7 - 36
+mth_A	:	55 - 83
+IdoLivneh_A	:	154 - 167
+Tashiqi_RatherPerplexingShowdown	:	6 - 10
+
+19 - 20 links:
+edgarthewise_A	:	9 - 12
+
+206 - 224 links:
+Ha.sH_solver	:	17 - 46
+lackofcheese_src_codejam_io	:	19 - 21
+bigOnion_rps	:	87 - 113
+bigOnion_rps	:	94 - 111
+wonstin_A	:	31 - 34
+
+31 - 32 links:
+edgarthewise_A	:	6 - 7
+edgarthewise_A	:	3 - 4
+
+171 - 204 links:
+Fedux_rock	:	83 - 103
+

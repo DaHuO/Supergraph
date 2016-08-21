@@ -1,0 +1,2 @@
+convert_to_base10 l base answer 		6 12
+convert_to_base10 solve t k c s = map int sys stdin readline rstrip 		14 26

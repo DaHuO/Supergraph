@@ -1,0 +1,1 @@
+generate_digits s m = for c in s if c in m m c += 1 else m c = 1 r_map = result = if Z in m and m Z != 0 c = m Z r_map 0 = c m Z -= c m E -= c m R -= c m O -= c if W in m and m W != 0 c = m W r_map 2 		1 92

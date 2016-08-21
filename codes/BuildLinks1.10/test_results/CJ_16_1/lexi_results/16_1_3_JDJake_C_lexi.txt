@@ -1,0 +1,1 @@
+def find_longest_cycle x current_cycle used x = true y = next x if y == current_cycle return 1 elif used y return - 1 future = find_longest_cycle y current_cycle if future == - 1 return - 1 else return future + 1 		9 18

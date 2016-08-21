@@ -1,0 +1,1 @@
+def find_max_index word start_index max_char = word start_index max_index = start_index for i in range start_index - 1 - 1 if word i > max_char max_index = i max_char = word i return max_index 		16 23

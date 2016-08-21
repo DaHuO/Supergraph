@@ -1,0 +1,2 @@
+def solve n r p s d = p pr r rs s ps for i in range n - 1 dn = dict for v in d itervalues n = len v / 2 a = d v n b = d v n if a < b dn v = a + b else dn v = b + a d = dn for x in d values if x count p == p and x count r == r and x count s == s return x return impossible 		4 26
+def main t = int sys stdin readline for i in range t n r p s = int x for x in sys stdin readline - 1 split  res = solve n r p s print case #%d: %s % i + 1 res 		28 33

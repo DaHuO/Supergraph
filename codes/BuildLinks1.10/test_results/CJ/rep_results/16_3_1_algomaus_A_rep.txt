@@ -1,0 +1,2 @@
+def parse lines t = int lines 0 act_line 		3 15
+string_list string_list new_tuple2 new_tuple2 = a b c d e f g h i j k l m n o p q r s t u v w x y z sol_list = case_tuples = for i in range len case case_tuples append 		17 53

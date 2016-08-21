@@ -1,0 +1,331 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "100\n",
+      "Case #1: CAB\n",
+      "\n",
+      "Case #2: MJA\n",
+      "\n",
+      "Case #3: OCDE\n",
+      "\n",
+      "Case #4: BBAAA\n",
+      "\n",
+      "Case #5: CCCABBBAB\n",
+      "\n",
+      "Case #6: CCCBAABAB\n",
+      "\n",
+      "Case #7: ZXCASDQWE\n",
+      "\n",
+      "Case #8: BBBBBAAAAAAAA\n",
+      "\n",
+      "Case #9: ZAAAA\n",
+      "\n",
+      "Case #10: BAAA\n",
+      "\n",
+      "Case #11: CCCCCBBBAAAAABB\n",
+      "\n",
+      "Case #12: OMNLDJIEGFHKCBA\n",
+      "\n",
+      "Case #13: OFDLMCGHKAIEJNB\n",
+      "\n",
+      "Case #14: CCCCCBBBBBAAAAA\n",
+      "\n",
+      "Case #15: BAA\n",
+      "\n",
+      "Case #16: DDDCBBAAAACCB\n",
+      "\n",
+      "Case #17: CCCBBBBABBAABBB\n",
+      "\n",
+      "Case #18: ZAYBXCWDUE\n",
+      "\n",
+      "Case #19: CBA\n",
+      "\n",
+      "Case #20: MMIGABCDEFHJKLA\n",
+      "\n",
+      "Case #21: ZDCBA\n",
+      "\n",
+      "Case #22: CCCCCAAAABBBBBA\n",
+      "\n",
+      "Case #23: YWVVPPMMDKFKRSN\n",
+      "\n",
+      "Case #24: ZABCD\n",
+      "\n",
+      "Case #25: CCCCCBAABBBAABA\n",
+      "\n",
+      "Case #26: ZVRSQHSFQMGYMVB\n",
+      "\n",
+      "Case #27: CCBBAAAABBBBB\n",
+      "\n",
+      "Case #28: BAAA\n",
+      "\n",
+      "Case #29: MMLKIGBACDEFHJA\n",
+      "\n",
+      "Case #30: BA\n",
+      "\n",
+      "Case #31: CBA\n",
+      "\n",
+      "Case #32: DDCCCCBAAABAC\n",
+      "\n",
+      "Case #33: CCCCCBBBBBAAAAA\n",
+      "\n",
+      "Case #34: ZEDCBAYXWU\n",
+      "\n",
+      "Case #35: CCCCCBBBBBAAAAA\n",
+      "\n",
+      "Case #36: BAAA\n",
+      "\n",
+      "Case #37: BAA\n",
+      "\n",
+      "Case #38: ONJIDACFGBKHLME\n",
+      "\n",
+      "Case #39: Z\n",
+      "\n",
+      "Case #40: AAA\n",
+      "\n",
+      "Case #41: CCABBAAABABAABB\n",
+      "\n",
+      "Case #42: CCCCCCCCBAAAAAA\n",
+      "\n",
+      "Case #43: CCCCCCAABBBBABB\n",
+      "\n",
+      "Case #44: BBB\n",
+      "\n",
+      "Case #45: CCCBBBBABBBBBAB\n",
+      "\n",
+      "Case #46: CCCCBBAAAAAAAAB\n",
+      "\n",
+      "Case #47: CAB\n",
+      "\n",
+      "Case #48: DCBAAAAAAAAAB\n",
+      "\n",
+      "Case #49: BAA\n",
+      "\n",
+      "Case #50: CCCBABABBBAABAA\n",
+      "\n",
+      "Case #51: XWLJHDVRSQBBBBN\n",
+      "\n",
+      "Case #52: BBA\n",
+      "\n",
+      "Case #53: ZXBGXDLXPVPBHDV\n",
+      "\n",
+      "Case #54: BBA\n",
+      "\n",
+      "Case #55: OCBAEDGHIJKLMNF\n",
+      "\n",
+      "Case #56: ZACBA\n",
+      "\n",
+      "Case #57: ZADBC\n",
+      "\n",
+      "Case #58: CCCBBBAAAAAAA\n",
+      "\n",
+      "Case #59: CCCCCBBBBAAAAAA\n",
+      "\n",
+      "Case #60: MMLEDCBAKJIHGFA\n",
+      "\n",
+      "Case #61: CCCCCBBBBABBAAB\n",
+      "\n",
+      "Case #62: CCCCCCCCAAAABAB\n",
+      "\n",
+      "Case #63: OKNLMDCGIFEJABH\n",
+      "\n",
+      "Case #64: CCCCCABBBBBAAAA\n",
+      "\n",
+      "Case #65: ONMEFLAJIHCDGBK\n",
+      "\n",
+      "Case #66: CCCBABBBABAAAAA\n",
+      "\n",
+      "Case #67: MMJHGEDCBAALKIF\n",
+      "\n",
+      "Case #68: RRBAACADABA\n",
+      "\n",
+      "Case #69: ZABYCXDWEU\n",
+      "\n",
+      "Case #70: ZDABC\n",
+      "\n",
+      "Case #71: CCCCCCBBBAAAABA\n",
+      "\n",
+      "Case #72: CBBBBBAAAAAAAAB\n",
+      "\n",
+      "Case #73: OMBADFEGHJKLINC\n",
+      "\n",
+      "Case #74: DCCCCBBAACBCC\n",
+      "\n",
+      "Case #75: CCCCCBBBBBAAAAA\n",
+      "\n",
+      "Case #76: DDDDCCCBAABCBC\n",
+      "\n",
+      "Case #77: OMLBKDIJHGFECNA\n",
+      "\n",
+      "Case #78: CBA\n",
+      "\n",
+      "Case #79: OBADHFGEIKJLNMC\n",
+      "\n",
+      "Case #80: MMLDABCEFGHIJKA\n",
+      "\n",
+      "Case #81: CCCCCABBBBBAAAA\n",
+      "\n",
+      "Case #82: CCCCCCAAABBBBAB\n",
+      "\n",
+      "Case #83: A\n",
+      "\n",
+      "Case #84: CBAAAAAAAAAAB\n",
+      "\n",
+      "Case #85: XXGKDTBHHJWQWHV\n",
+      "\n",
+      "Case #86: CCCCBAAAAAAABAB\n",
+      "\n",
+      "Case #87: CCBBBBBBAAAAA\n",
+      "\n",
+      "Case #88: BBA\n",
+      "\n",
+      "Case #89: MMBHIKLAJGFEDCA\n",
+      "\n",
+      "Case #90: CBBBBBAAAAAAA\n",
+      "\n",
+      "Case #91: CCCCCAAABABAABB\n",
+      "\n",
+      "Case #92: CCCCCBBBBBAAAAA\n",
+      "\n",
+      "Case #93: AA\n",
+      "\n",
+      "Case #94: CCCCBAABBBABAAB\n",
+      "\n",
+      "Case #95: CBA\n",
+      "\n",
+      "Case #96: CCCCCBBBBBAAAAA\n",
+      "\n",
+      "Case #97: BB\n",
+      "\n",
+      "Case #98: ONDAFJIMGBECHLK\n",
+      "\n",
+      "Case #99: BAAA\n",
+      "\n",
+      "Case #100: BA\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "filename='A-small-attempt0'\n",
+    "file_in = open(filename+'.in','r')\n",
+    "file_out = open(filename+'.out','w')\n",
+    "cases = int(file_in.readline())\n",
+    "print cases\n",
+    "# cases =1\n",
+    "for i in range(cases):\n",
+    "    sin = file_in.readline()[:-1]\n",
+    "#     print sin\n",
+    "    pos = [sin[0]]\n",
+    "    for j in range(1,len(sin)):\n",
+    "        for k in range(len(pos)):\n",
+    "            pos.append(sin[j]+pos[k])\n",
+    "            pos[k]=pos[k]+sin[j]\n",
+    "\n",
+    "    sor = sorted(pos)\n",
+    "    file_out.writelines('Case #'+str(i+1)+': '+sor[-1]+'\\n')\n",
+    "    print 'Case #'+str(i+1)+': '+sor[-1]+'\\n'\n",
+    "    \n",
+    "file_in.close()\n",
+    "file_out.close()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "None\n"
+     ]
+    }
+   ],
+   "source": [
+    "print sor"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "['ACB', 'BAC', 'BCA', 'CAB']\n"
+     ]
+    }
+   ],
+   "source": [
+    "print sorted(pos)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "['a', 'f', 't']\n"
+     ]
+    }
+   ],
+   "source": [
+    "a=['f','a','t']\n",
+    "print sorted(a)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 2",
+   "language": "python",
+   "name": "python2"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.11"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}

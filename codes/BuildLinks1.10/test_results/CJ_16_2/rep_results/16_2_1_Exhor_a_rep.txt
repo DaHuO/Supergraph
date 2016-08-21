@@ -1,0 +1,3 @@
+dnum s4 s4 s5 g4 s4 s5 g4 s6 g5 s5 s6 g4 g5 s7 g6 s6 s7 g4 g5 g6 fucccc decnum 		31 52
+containsDigit s digitword while len s > 0 		3 12
+dtotry changed changed changed digitwordid dtotry digWords digitwordid cando swithoutd cando 		14 29

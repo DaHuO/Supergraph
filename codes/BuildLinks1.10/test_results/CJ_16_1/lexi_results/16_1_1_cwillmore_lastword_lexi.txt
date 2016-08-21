@@ -1,0 +1,2 @@
+def readline return fp readline strip 		4 5
+def solve s ss = for c in s ss = max c + ss ss + c return ss 		7 11

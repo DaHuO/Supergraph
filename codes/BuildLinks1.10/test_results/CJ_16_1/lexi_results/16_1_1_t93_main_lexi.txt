@@ -1,0 +1,3 @@
+def main t = int raw_input for i in xrange t s = raw_input print case #%d: %s % i + 1 solve s 		1 5
+def best_join t c for d in t if d > c return t + c elif d < c return c + t return t + c 		13 19
+def solve s t = for c in s t = best_join t c return t 		7 11

@@ -1,0 +1,19 @@
+
+With same rare tokens:
+56 - 91 links:
+mario.lipovsky_A	:	40 - 45
+t93_main	:	14 - 41
+govindlahoti_a	:	12 - 23
+lackofcheese_src_codejam_io	:	37 - 88
+
+43 - 53 links:
+lackofcheese_src_showdown	:	69 - 73
+lackofcheese_src_showdown	:	54 - 61
+kpbochenek_perplexing-showdown	:	10 - 16
+lackofcheese_src_codejam_io	:	90 - 113
+lackofcheese_src_codejam_io	:	37 - 88
+
+28 - 40 links:
+mario.lipovsky_A	:	40 - 45
+t93_main	:	14 - 41
+

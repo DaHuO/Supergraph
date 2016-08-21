@@ -1,0 +1,2 @@
+def solve s i answer 		5 14
+output_case #%(case)s: %(result)s 		16 21

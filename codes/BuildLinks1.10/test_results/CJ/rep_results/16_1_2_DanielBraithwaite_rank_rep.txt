@@ -1,0 +1,3 @@
+def rank_and_file s n a = for 		1 10
+valid_placement c rc if len c 		65 75
+occored occored occored valid_placement a d n if d == n for i in range len a height = a i = false for j in range len 		16 63

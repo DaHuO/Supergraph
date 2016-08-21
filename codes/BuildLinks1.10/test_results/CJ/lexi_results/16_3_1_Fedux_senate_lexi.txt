@@ -1,0 +1,4 @@
+def index2party index return chr ord a + index 		8 9
+def check senators tot = sum senators for i x in enumerate senators if x * 2 > tot and tot > 0 return false return true 		12 18
+def solve senators res = while sum senators > 0 e2 = none e1 = senators index max senators senators e1 -= 1 if not check senators e2 = senators index max senators senators e2 -= 1 assert check senators senators if e2 is none res append index2party e1 else res append index2party e1 + index2party e2 return res 		21 38
+def main inputfile = fileparser t = inputfile read_int for test in range 1 t + 1 n = inputfile read_int senators = inputfile read_integers result = solve senators print case #{}: {} format test  join result 		41 51

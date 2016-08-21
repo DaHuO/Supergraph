@@ -1,0 +1,4 @@
+check_valid p 		49 50
+def data_iterator lines_to_read = none if not shell_pipe_flag with open data_file_name r as f_handle line_iter = f_handle xreadlines case_no = int line_iter 		15 35
+check_valid solve case_data from collections import counter cha = list abcdefghijklmnopqrstuvwxyz n = case_data 0 		52 73
+max_j max_j max_j j = 		40 47

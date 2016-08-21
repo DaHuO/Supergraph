@@ -1,0 +1,11 @@
+
+With same rare tokens:
+53 - 87 links:
+16_1_1_codetaku_a	:	18 - 28
+16_1_1_codetaku_a	:	15 - 16
+16_1_1_codetaku_a	:	18 - 28
+
+15 - 16 links:
+16_1_1_codetaku_a	:	15 - 16
+16_1_1_codetaku_a	:	18 - 28
+

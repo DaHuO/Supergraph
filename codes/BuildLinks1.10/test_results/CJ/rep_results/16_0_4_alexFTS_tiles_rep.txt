@@ -1,0 +1,2 @@
+python program.py if len sys argv != 1 sys 		15 28
+def tiles l k c s = 		3 12

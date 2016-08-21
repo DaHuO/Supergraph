@@ -1,0 +1,1 @@
+def solve S digits = Sp = for c in S if c in Sp Sp 		16 36

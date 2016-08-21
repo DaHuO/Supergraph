@@ -1,0 +1,4 @@
+def read_int return int fi readline 		1 2
+def read_intlist return int i for i in fi readline split  		4 5
+def read_str return fi readline strip \n 		12 13
+def write_line i s line = case #%d: %s\n % i + 1 s fo write line 		7 10

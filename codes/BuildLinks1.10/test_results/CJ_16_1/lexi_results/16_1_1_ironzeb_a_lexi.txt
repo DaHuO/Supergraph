@@ -1,0 +1,1 @@
+def solve word if len word == 1 return word s = word 0 for c in word 1 if ord c < ord s 0 s append c else s = c + s return join s 		12 21

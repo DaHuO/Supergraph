@@ -1,0 +1,1 @@
+def findmax arr_int m = max arr_int return i for i j in enumerate arr_int if j == m 		11 13

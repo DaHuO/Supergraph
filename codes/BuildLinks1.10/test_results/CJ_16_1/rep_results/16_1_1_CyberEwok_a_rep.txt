@@ -1,0 +1,1 @@
+def solve in_file out_file trials = int in_file readline for 		1 11

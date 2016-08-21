@@ -1,0 +1,7 @@
+def innerSolve scores p bigger if p >= len scores 0 update scores return if scores 0 p != ? and scores 1 p != ? if bigger == - 1 if int scores 0 p > int scores 1 p bigger = 0 elif int scores 1 p > int scores 0 p bigger = 1 return 		30 67
+basicInner basicInner basicInner basicInner p >= len scores 0 update scores return 		69 81
+def update scores global best options 		21 28
+def cases inputFile with 		6 10
+def replace 		18 19
+def solve scores global best 		83 96
+def difference 		15 16

@@ -1,0 +1,1 @@
+def solve string if string - 1 == 		1 10

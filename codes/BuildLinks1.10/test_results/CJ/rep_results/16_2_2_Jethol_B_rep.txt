@@ -1,0 +1,2 @@
+casedata casedata 1e19 cbase idxc idxc cbase jbase idxj idxj jbase idxc idxj cbase jbase idxj idxc idx c in enumerate reversed c if c == ? append idx else += 10 ** idx * int c = 0 = for idx 		16 70
+casedata casedata t = int sys 		72 80

@@ -1,0 +1,4 @@
+def output self caseindex stdout write case #%d: % caseindex for n in self result stdout write %d % n stdout write \n 		31 35
+def exe self count = for i in range self n * 2 - 1 for n in self nums i if not n in count count n = 0 count n += 1 self result = for n in count if count n % 2 == 1 self result append n self result sort 		18 29
+def run self casenum = int stdin readline for caseindex in range casenum self input self exe self output caseindex + 1 		5 10
+def input self self n = int stdin readline self nums = for i in range self n * 2 - 1 self nums append int _ for _ in stdin readline split 		12 16

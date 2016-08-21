@@ -1,0 +1,2 @@
+def gen s i ans if i == len s ans append int join s join s return if s i != ? gen s i + 1 ans else for j in range 10 s i = str j gen s i + 1 ans s i = ? 		2 12
+def get_all s ans = gen list s 0 ans return ans 		13 16

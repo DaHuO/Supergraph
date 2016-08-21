@@ -1,0 +1,3 @@
+def main i = input for i in xrange 1 i + 1 l = solve l = map str l print case #%d: %s % i  join l 		18 23
+def read_int_list l = raw_input strip split return map int l 		1 3
+def solve checked = true * 2501 n = input for i in xrange 2 * n - 1 row = read_int_list for h in row if checked h checked h = false else checked h = true missing = list for i in xrange len checked if not checked i missing append i return missing 		5 16

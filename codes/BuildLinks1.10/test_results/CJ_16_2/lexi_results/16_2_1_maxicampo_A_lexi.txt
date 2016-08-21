@@ -1,0 +1,2 @@
+def listtostr L s = for x in L s = s + str x return s 		11 15
+def strtolist s L = x for x in s return L 		7 9

@@ -1,0 +1,18 @@
+
+With same rare tokens:
+8 - 9 links:
+tanriol_A	:	68 - 76
+EricStansifer_a	:	41 - 46
+elockhart_A	:	28 - 29
+elockhart_A	:	25 - 26
+EricStansifer_common	:	21 - 23
+
+12 - 13 links:
+perel_a	:	50 - 63
+
+6 - 7 links:
+elockhart_A	:	22 - 23
+mihaild_template	:	4 - 5
+EricStansifer_common	:	35 - 75
+EricStansifer_common	:	15 - 16
+

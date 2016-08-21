@@ -1,0 +1,2 @@
+letterorder 		1 2
+algo last_letter_order current_letter_order letterorder current_letter_order last_letter_order last_letter_order 		4 14

@@ -1,0 +1,1 @@
+def which_tiles k c s if k != s print huh? return if s == 1 return 1 tiles = 1 k ** c for j in range s - 2 tiles append 1 + j + 1 * k ** c - 1 return tiles 		3 13

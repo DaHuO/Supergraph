@@ -1,0 +1,1 @@
+def check c j cc cj 		4 13

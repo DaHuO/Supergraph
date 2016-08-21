@@ -1,0 +1,2 @@
+def helper n lists d = defaultdict int for 		17 27
+write_res file_name res with open file_name w as f res_str 		8 15

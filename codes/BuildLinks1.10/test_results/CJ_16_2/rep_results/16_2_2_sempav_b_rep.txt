@@ -1,0 +1,3 @@
+NONE BOTH POS ans_c_int ans_j_int ans_c_int ans_c_int ans_j_int ans_c global ans_j global ans_diff if abs diff > abs ans_diff return c_str = j_str = for d p c j 		19 58
+NONE POS NEG BOTH diff positions score_c score_j if i == len positions check diff ans positions score_c score_j return pow10 = 10 ** len positions - i - 1 if positions i == ans i = 0 solve i 		60 103
+extract_num score_str score_str 1 res = 		10 17

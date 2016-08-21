@@ -1,0 +1,2 @@
+flipbit mybit 		6 11
+sortedarray sortedarray word possibles = 2 ** len word - 		14 39

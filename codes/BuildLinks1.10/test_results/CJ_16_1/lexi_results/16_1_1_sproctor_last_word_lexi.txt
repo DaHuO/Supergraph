@@ -1,0 +1,2 @@
+def solve word lastword = word 1 firstletter = word 0 for c in word 1 if c >= firstletter lastword = str c + lastword firstletter = c else lastword += str c return lastword 		5 14
+def main filename = sys argv 1 filehandle = open filename r lines = filehandle readlines numberoftests = int lines pop 0 for i in range numberoftests line = lines pop 0 lastword = solve line strip print case # + str i + 1 + : + lastword 		16 24

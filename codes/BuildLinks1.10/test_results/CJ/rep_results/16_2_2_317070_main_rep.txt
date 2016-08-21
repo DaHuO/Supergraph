@@ -1,0 +1,6 @@
+num_q 10e9 min_score num_q sc0i sc1i sc0i sc1i min_score min_score min_score count ? minimum = = 1e9 for digits in itertools product 0123456789 repeat 		9 32
+def read_floats 		45 46
+def read_ints 		39 40
+read_frac return 		41 42
+read_cakes return true 		47 48
+def read_strs 		43 44

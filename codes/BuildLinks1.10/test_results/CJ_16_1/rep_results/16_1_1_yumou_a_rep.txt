@@ -1,0 +1,1 @@
+64 order s ans = 		1 5

@@ -1,0 +1,3 @@
+def main T = int input 		4 9
+reduceString numberLetters numberLetters = list 		24 31
+NUMBER_LETTERS nextString reduceString NUMBER_LETTERS nextString nextNumbers nextString nextNumbers nextNumbers == 		11 22

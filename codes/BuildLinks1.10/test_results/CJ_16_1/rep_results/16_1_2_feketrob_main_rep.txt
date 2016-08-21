@@ -1,0 +1,2 @@
+case: [{0}] index test_case print format test_case n = int test_case 0 nums = 		10 33
+def finish index 		4 8

@@ -1,0 +1,1 @@
+cx cx cx cnt = 0 * 26 for c in 		9 19

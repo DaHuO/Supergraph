@@ -1,0 +1,4 @@
+def tomap s result = for c in s result c = result get c 0 + 1 return result 		33 37
+def toalp n num = zero one two three four five six seven eight nine return num n 		15 18
+def minus s val for c in val if c not in s or s c == 0 return none s c -= 1 if s c == 0 del s c return s 		6 13
+def solv s pn if len s == 0 return pn for n in range 10 news = minus s copy toalp n if news is none continue npn = solv news pn + n if npn is not none return npn 		20 30

@@ -1,0 +1,7 @@
+readinput numberofcases numberofcases numberofcases with 		4 10
+.input numberofcases readinput searchdigit numberofcases 		20 25
+unorderedstring stringnumbers newstring iswordinstring unorderedstring newstring newstring newstring 		45 56
+iswordinstring iunorderedstring unorderedstring iunorderedstring unorderedstring unorderedstring 		58 67
+numberofcases numberofcases filename output with open filename 		12 18
+searchdigit strings unorderedstring createdict strings 		29 34
+createdict unorderedstring stringdict unorderedstring 		36 43

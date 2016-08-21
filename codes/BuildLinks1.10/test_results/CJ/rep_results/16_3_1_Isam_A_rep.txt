@@ -1,0 +1,2 @@
+def check s 		3 7
+def evacuate a res = s = sum a while s != 0 m1 = 		9 29

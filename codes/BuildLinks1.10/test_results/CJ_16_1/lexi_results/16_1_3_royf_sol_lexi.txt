@@ -1,0 +1,13 @@
+def read_ints f b = 10 d =  return int x b for x in read_words f d 		72 73
+def solve_small case n f = case d = dict zip itertools count 1 f res = for i in range 1 n + 1 d = d copy r = i while r - 1 in d r append d pop r - 1 res append r best_loop = set for i in range len res if res i 0 == res i - 1 loop = set res i if len loop > len best_loop best_loop = loop chosen = set while true best = set for i in range len res for j in range i + 1 len res if res i - 1 == res j - 2 and res i - 2 == res j - 1 chain = set res i | set res j if len chain > len best best = chain if best chosen |= best res = r for r in res if not set r & best else break return max len chosen len best_loop 		15 45
+def read_floats f d =  return float x for x in read_words f d 		75 76
+def read_int f b = 10 return int read_word f b 		60 61
+def read_letters f return list read_word f 		63 64
+def read_case f n = read_int f f = read_ints f return n f 		10 13
+def read_word f return next f strip 		57 58
+def read_words f d =  return read_word f split d 		69 70
+def read_digits f b = 10 return int x b for x in read_letters f 		66 67
+def read_arr f r reader = read_ints * args ** kwargs return reader f * args ** kwargs for i in range r 		78 79
+def write_case f i res f write case #%d: % i f write %s % res f write \n 		50 53
+def solve solver fn out_fn = none in_fn = fn + .in if out_fn is none out_fn = fn + .out with open in_fn r as fi with open out_fn w as fo t = read_int fi for i in range t case = read_case fi res = solver case write_case fo i res 		81 91
+def solve_large case return solve_small case 		47 48

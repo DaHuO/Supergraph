@@ -1,0 +1,13 @@
+Direct links:
+3 - 6 links:
+16_1_1_David_King_last_word	:	3 - 6
+16_2_1_David_King_getdigits	:	4 - 7
+16_3_1_David_King_senate_evacuation	:	4 - 7
+
+
+With same rare tokens:
+3 - 6 links:
+16_1_1_David_King_last_word	:	3 - 6
+16_2_1_David_King_getdigits	:	4 - 7
+16_3_1_David_King_senate_evacuation	:	4 - 7
+

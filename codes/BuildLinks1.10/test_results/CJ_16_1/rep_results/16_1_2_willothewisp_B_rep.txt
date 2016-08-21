@@ -1,0 +1,1 @@
+def go n papers ct = counter x 		3 11

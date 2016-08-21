@@ -1,0 +1,2 @@
+read_simple solve fin 		16 19
+def solve_case c c = c 		6 14

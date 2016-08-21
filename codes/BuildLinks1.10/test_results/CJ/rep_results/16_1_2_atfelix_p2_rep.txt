@@ -1,0 +1,2 @@
+points points for _ in range int input 		11 15
+points points n count_dict = for p in for 		1 9

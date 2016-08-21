@@ -1,0 +1,2 @@
+readthroughdatageneric filename outputs = f = open 		14 27
+def solve s maxchar = s 0 string 		29 39

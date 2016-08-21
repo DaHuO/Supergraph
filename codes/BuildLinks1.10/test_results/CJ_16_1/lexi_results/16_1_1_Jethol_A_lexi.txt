@@ -1,0 +1,2 @@
+def parse t = int sys stdin readline cases = list for case in range t s = sys stdin readline rstrip \n casedata = s cases append casedata return cases 		30 38
+def solve casedata s = casedata res = fl = for c in s if c >= fl res = c + res fl = c else res = res + c return res 		16 28

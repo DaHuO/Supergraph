@@ -1,0 +1,5 @@
+def get_list flag inp = raw_input 		19 29
+def main num_tests = get_item 		43 50
+def get_output inp_word last_word = inp_word 0 		32 40
+def get_item flag 		4 9
+get_tuple flag inp_tuple 		12 16

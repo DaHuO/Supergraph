@@ -1,0 +1,2 @@
+def output_ a b i = 1 with open b w as output for item in a output write case #{}: format i + str item + \n i += 1 		34 45
+def input_ a with open a r as input num_cases = int input readline tmp = num_cases n = j = 0 pagess = while tmp > 0 n append int input readline tmp2 = 2 * n j - 1 pages = while tmp2 > 0 page = input readline nums = int page split  i for i in xrange n j pages append nums tmp2 -= 1 pagess append pages tmp -= 1 j += 1 return num_cases n pagess 		6 32

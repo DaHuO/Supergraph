@@ -1,0 +1,7 @@
+process_input_case problem_variable 		36 39
+input_processor case_nums num_of_lines data_length case_nums num_of_lines num_of_lines process_input_case f read split 		16 34
+problem_variable problem_variable print_ans index_list = for c in 		41 55
+def recurse index_list dict_copy = deepcopy index_list if O in dict_copy and dict_copy O >= 1 if N in dict_copy and dict_copy N >= 1 if E in dict_copy and dict_copy E >= 1 dict_copy O -= 1 dict_copy N -= 1 dict_copy E -= 1 result amari = recurse dict_copy count = 0 for key value in amari iteritems count += value if value != 0 break if count == 0 return 1 + result amari dict_copy = deepcopy index_list if T in dict_copy and dict_copy T >= 1 if W in dict_copy and dict_copy W >= 1 if O in dict_copy and dict_copy O >= 1 dict_copy T -= 1 dict_copy W -= 1 dict_copy O -= 1 result amari = recurse dict_copy count = 0 for key value in amari iteritems count += value if value != 0 break if count == 0 return 2 + result amari dict_copy = deepcopy index_list if T in dict_copy and dict_copy T >= 1 if H in 		57 239
+print_ans case_num 		7 9
+input_processor 		250 252
+		11 13

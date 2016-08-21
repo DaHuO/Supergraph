@@ -1,0 +1,1 @@
+def compute s = input l = len s win = for i in s option_front = i + win option_back = win + i win = max option_front option_back return win 		8 18

@@ -1,0 +1,2 @@
+def check p s = sum p for p in p if p * 2 > s return false return true 		2 7
+def solve t n = input p = map int raw_input split ans = while sum p if not check p raise exception q = sorted p i for i p in enumerate p - 1 v0 i0 = q 0 v1 i1 = q 1 tmp = p if v0 tmp i0 -= 1 if v1 tmp i1 -= 1 tmp1 = p if v0 tmp1 i0 -= 1 if check tmp ans append chr ord a + i0 + chr ord a + i1 p i0 -= 1 p i1 -= 1 elif check tmp1 ans append chr ord a + i0 p i0 -= 1 ans =  join ans print case #%d: %s % t ans 		10 42

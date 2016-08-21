@@ -1,0 +1,6 @@
+def counts_is_empty counts for k v in counts items if v > 0 return False return True 		20 24
+def print_counts counts s = for k v in counts items s += str v + k +  print s 		46 50
+def get_number counts if counts_is_empty counts return for i word in enumerate WORDS word_counts = get_counts word try return str i + get_number sub_counts counts word_counts except pass raise Exception 		7 18
+def get_counts s counts = defaultdict lambda 0 for c in s counts c += 1 return counts 		26 30
+def counts_contains a b for k v in b items if a k < v return False return True 		32 36
+def sub_counts a b if not counts_contains a b raise Exception result = get_counts for k v in a items result k = v - b k return result 		38 44

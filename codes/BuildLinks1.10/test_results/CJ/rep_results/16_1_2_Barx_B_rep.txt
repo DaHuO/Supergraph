@@ -1,0 +1,2 @@
+def main source dest with open source r as fd open dest w as fo t 		14 25
+def solve p s = for p in p for 		1 12

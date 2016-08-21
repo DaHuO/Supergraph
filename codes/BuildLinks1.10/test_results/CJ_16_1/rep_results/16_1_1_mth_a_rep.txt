@@ -1,0 +1,3 @@
+recursion_limit soft getrlimit rlimit_as setrlimit rlimit_as mem_limit_gb 1024 file_name_base num_processes apply multiprocessing sigint sig_ign num_processes sigint sig_ign apply_async casefmt progressfmt [%s/%s] %%s\n casefmt casefmt file_name_base progressfmt = int inp 		24 52
+def 		8 10
+def solve s r = for 		12 22

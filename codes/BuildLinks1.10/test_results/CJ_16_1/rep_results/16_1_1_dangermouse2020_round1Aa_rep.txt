@@ -1,0 +1,3 @@
+file_base write_file results with open 		16 22
+puzzle puzzle puzzle = 0 last_word 		25 35
+file_base puzzles puzzles puzzles + 		6 13

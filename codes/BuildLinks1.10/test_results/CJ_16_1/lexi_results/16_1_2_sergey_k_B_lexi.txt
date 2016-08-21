@@ -1,0 +1,1 @@
+def solve a n if n == 1 return list a 0 a sort key = lambda x x 0 if a 1 0 == a 0 0 st = x for x in a 0 1 + x for x in a 1 1 for x in a 2 del st st index x 0 b = x 1 for x in a 2 return st + solve b n - 1 else st = set x for x in a 0 1 b = for x in a 1 if x 0 in st st discard x 0 else b append x return a 0 0 + x 0 for x in b 		4 21

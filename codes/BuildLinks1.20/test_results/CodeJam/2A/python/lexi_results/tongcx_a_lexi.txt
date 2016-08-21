@@ -1,0 +1,2 @@
+def best x level if level == 0 return x if x == r best0 = best r level - 1 best1 = best s level - 1 elif x == p best0 = best p level - 1 best1 = best r level - 1 else best0 = best s level - 1 best1 = best p level - 1 if best0 <= best1 return best0 + best1 return best1 + best0 		3 17
+def match s r p s return s count r == r and s count p == p and s count s == s 		19 20

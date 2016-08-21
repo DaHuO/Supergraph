@@ -1,0 +1,1 @@
+def solve k c s if s * c < k return impossible else out = f = range k while f m = f c f = f c out append sum m i * k ** i for i in range len m + 1 return  join str x for x in out 		5 10

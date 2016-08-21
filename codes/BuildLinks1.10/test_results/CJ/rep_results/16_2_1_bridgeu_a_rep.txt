@@ -1,0 +1,2 @@
+def read_ints 		4 5
+word_and_signal a0 a8 a6 a4 a5 a4 a8 a7 a5 a9 a8 a6 a5 a0 a4 a0 a4 a5 a6 a7 a8 a9 w seven v nine i 		7 37

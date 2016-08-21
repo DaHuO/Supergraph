@@ -1,0 +1,3 @@
+def solve casedata s = casedata b = strtoarray s res = x = numpy linalg lstsq nummat b 0 for idx num in enumerate x nbnum = int round num res += nbnum * str idx return res 		35 47
+def strtoarray s a = numpy zeros 26 for c in s o = ord c - ord A a o += 1 return a 		20 25
+def parse t = int sys stdin readline cases = list for case in range t s = sys stdin readline rstrip \n casedata = s cases append casedata return cases 		49 57

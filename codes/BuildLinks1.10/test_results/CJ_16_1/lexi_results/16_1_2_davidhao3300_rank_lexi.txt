@@ -1,0 +1,1 @@
+def find_index pos val grid res = for row in grid if row pos == val res append row return res 		1 6

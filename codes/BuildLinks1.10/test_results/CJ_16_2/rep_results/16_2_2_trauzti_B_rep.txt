@@ -1,0 +1,3 @@
+swap s i 		12 13
+def valid q t s = str 		3 10
+getAll swap i = 0 count = str X count 		19 29

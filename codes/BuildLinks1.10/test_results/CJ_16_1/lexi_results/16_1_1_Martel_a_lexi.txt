@@ -1,0 +1,1 @@
+def getword s res = largest = ord a for c in s if ord c >= largest largest = ord c res insert 0 c else res append c return res 		2 11

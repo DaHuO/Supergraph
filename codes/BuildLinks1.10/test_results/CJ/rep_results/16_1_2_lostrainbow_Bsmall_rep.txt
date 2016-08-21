@@ -1,0 +1,2 @@
+mytry 2500 bisect bisect_left mytry bisect bisect_left mytry known 0 min = max = 1 small = large = for i in range len known if known i 0 <= min min = known i 0 		9 49
+mytry sol if n = int if readline known 		53 61

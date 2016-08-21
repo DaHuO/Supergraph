@@ -1,0 +1,1 @@
+def winninglastword n n = i for i in n result = n 0 n = n 1 for i in n if i >= result 0 result insert 0 i else result append i return join result 		1 10

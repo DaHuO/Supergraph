@@ -1,0 +1,19 @@
+Direct links:
+53 - 65 links:
+16_1_1_wilsonhsu_A	:	12 - 23
+16_1_2_wilsonhsu_B	:	13 - 27
+
+
+With same rare tokens:
+53 - 65 links:
+16_1_1_wilsonhsu_A	:	12 - 23
+16_1_2_wilsonhsu_B	:	13 - 27
+
+24 - 51 links:
+16_1_3_Alan_Chang_C	:	8 - 90
+16_1_3_xenosoz_here_bffs	:	24 - 91
+
+3 - 13 links:
+16_1_3_tongcx_c	:	13 - 26
+16_1_3_tongcx_c	:	13 - 26
+

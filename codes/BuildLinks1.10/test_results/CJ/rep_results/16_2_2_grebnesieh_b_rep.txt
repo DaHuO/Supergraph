@@ -1,0 +1,1 @@
+isequal a b for i 		1 7

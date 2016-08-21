@@ -1,0 +1,1 @@
+case_result case S = f readline if S - 1 == \n S = S - 1 L = 0 * 26 for s in S L ord s - ord A += 1 N = 0 * 10 x = L ord Z - ord A L ord Z - ord A -= x L ord E - ord A -= x L ord R - ord A -= x L ord O - ord A -= x N 0 += x x = L ord W - ord A L ord T - ord A -= x 		7 91

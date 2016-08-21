@@ -1,0 +1,2 @@
+def find cur rest if cur is none if len rest 		17 32
+def main filename f = iter open 		5 11

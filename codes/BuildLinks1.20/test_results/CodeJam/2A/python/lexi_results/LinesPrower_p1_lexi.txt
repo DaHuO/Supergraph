@@ -1,0 +1,10 @@
+def strs return fin readline split 		65 66
+def nums return int x for x in fin readline split 		57 58
+def num return int fin readline 		61 62
+def sstrip return fin readline strip 		63 64
+def cnt s x res = 0 for c in s if c == x res += 1 return res 		19 24
+def arrstr a sep =  return sep join str x for x in a 		67 68
+def build lev c if lev == 0 return c a = build lev - 1 c b = build lev - 1 f c if a < b return a + b return b + a 		9 16
+def fnums return float x for x in fin readline split 		59 60
+def main fname = test.in if len sys argv > 1 fname = sys argv 1 global fin fin = io open fname fout = io open fname + .out w t0 = datetime datetime now t = int fin readline for i in range t fout write case #%d: % i + 1 fout write %s\n % str solve print time = %s % str datetime datetime now - t0 fin close fout close 		39 55
+def solve n r p s = nums f = r s s p p r def build lev c if lev == 0 return c a = build lev - 1 c b = build lev - 1 f c if a < b return a + b return b + a res = z def cnt s x res = 0 for c in s if c == x res += 1 return res for base in rps t = build n base if cnt t r != r continue if cnt t p != p continue if cnt t s != s continue res = min res t if res == z res = impossible return res 		6 37

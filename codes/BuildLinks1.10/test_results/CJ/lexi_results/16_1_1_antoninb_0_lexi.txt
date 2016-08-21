@@ -1,0 +1,1 @@
+def find_res sa if len sa == 1 return list sa sub = find_res sa - 1 last_c = sa - 1 if last_c >= sub 0 return last_c + sub return sub + last_c 		4 11

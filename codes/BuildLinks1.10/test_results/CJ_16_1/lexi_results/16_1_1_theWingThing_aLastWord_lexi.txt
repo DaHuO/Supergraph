@@ -1,0 +1,1 @@
+def main t = int raw_input for t in xrange t ans = s = raw_input for s in s if len ans > 0 and s < ans 0 ans = ans + s else ans = s + ans print case #{}: {} format t + 1 ans 		1 11

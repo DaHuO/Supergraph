@@ -1,0 +1,1 @@
+def charCountDict s ccd = for ch in s if ch not in ccd ccd ch = 1 else ccd ch += 1 return ccd 		1 8

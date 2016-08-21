@@ -1,0 +1,2 @@
+solvea solvea mi = list li 0 b = max mi startcount = 0 for i in mi if i == 		20 50
+infname outfname read_simple infname 		53 56

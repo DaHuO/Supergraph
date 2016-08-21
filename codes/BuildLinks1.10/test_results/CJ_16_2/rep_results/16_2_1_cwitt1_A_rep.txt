@@ -1,0 +1,3 @@
+restoreNum numtext numtext 		27 31
+canUseNumber num chars chars_copy = chars copy 		6 17
+lettersLeft chars for 		19 25

@@ -1,0 +1,4 @@
+def main with open A-large.in r as infile 		37 43
+def solve c letters = c upper + answer = letters answer = findAndRemove letters Z ZERO answer 0 letters 		16 35
+shortenStr findAndRemove orig letter spelled 		10 14
+shortenStr orig remove 		4 8

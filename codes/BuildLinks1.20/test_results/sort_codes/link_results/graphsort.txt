@@ -1,0 +1,20 @@
+
+With same rare tokens:
+30 - 45 links:
+py_selection_sort	:	5 - 15
+selection-sort	:	1 - 9
+selectionsort	:	8 - 14
+
+78 - 85 links:
+bogosort	:	3 - 7
+test_sorts	:	50 - 74
+sorting	:	14 - 16
+sort_bogo	:	9 - 12
+
+49 - 60 links:
+test_sorts	:	50 - 74
+sorts	:	170 - 194
+py_selection_sort	:	5 - 15
+selection-sort	:	1 - 9
+selectionsort	:	8 - 14
+

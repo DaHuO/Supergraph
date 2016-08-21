@@ -1,0 +1,1 @@
+def mysort word result =  for letter in word if result 0 > letter result = result + letter else result = letter + result strip return result 		1 8

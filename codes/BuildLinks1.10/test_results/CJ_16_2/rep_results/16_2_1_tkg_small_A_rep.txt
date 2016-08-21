@@ -1,0 +1,2 @@
+def solve line input_vec = np zeros 26 ans_vec = np zeros 10 for chara in line idx = ord chara - 65 input_vec idx += 1 if input_vec 25 > 0 ans_vec 0 += input_vec 25 input_vec 4 -= input_vec 25 input_vec 14 -= input_vec 25 input_vec 17 -= input_vec 25 input_vec 25 -= input_vec 25 if input_vec 22 > 0 ans_vec 2 += input_vec 22 input_vec 		19 95
+flip subline 		12 14

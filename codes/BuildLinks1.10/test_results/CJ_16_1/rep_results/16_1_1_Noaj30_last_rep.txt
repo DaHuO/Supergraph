@@ -1,0 +1,2 @@
+game word s = word 		4 11
+commands.txt last.txt game = open r g = open w line 		13 27

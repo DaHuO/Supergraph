@@ -1,0 +1,5 @@
+list_add a 		28 29
+compress list_add i_guess i_guess i_guess list_add 		31 46
+guess_original {0:b} padded pad_num padded * k i = 		11 25
+pad_num width width = 		4 9
+guess_original compress min_l min_i min_l guess guess guess guess min_i min_i min_i 0 while len guesses > 		49 79

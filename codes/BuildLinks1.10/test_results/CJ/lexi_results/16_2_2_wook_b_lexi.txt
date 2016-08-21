@@ -1,0 +1,2 @@
+def main t = int rl for kase in xrange 1 t + 1 l r = rl split x y = go l r print case #%d: %s %s % kase x y 		31 36
+def go l r l = list l r = list r pos = 1 i for i in xrange len l if l i == ? pos += 0 i for i in xrange len r if r i == ? best = 1e100 best_assign = none none for g in product * 0123456789 * len pos for is_l i assign in zip pos g if is_l l i = assign else r i = assign l_score = join l r_score = join r score_diff = abs int l_score - int r_score if best > score_diff best = score_diff best_assign = l_score r_score return best_assign 		6 28

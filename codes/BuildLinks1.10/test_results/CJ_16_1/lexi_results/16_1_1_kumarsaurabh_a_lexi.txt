@@ -1,0 +1,1 @@
+def main t = int raw_input for c in range 1 t + 1 s = str raw_input winstr = winstrlen = 0 for ch in s if winstrlen == 0 winstr += ch elif ch < winstr 0 winstr += ch else winstr = ch + winstr winstrlen = winstrlen + 1 print case # + str c + : join winstr 		3 17

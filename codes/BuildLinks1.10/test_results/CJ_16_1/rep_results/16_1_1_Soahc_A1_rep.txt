@@ -1,0 +1,1 @@
+def solve s i j = 0 len s 		2 12

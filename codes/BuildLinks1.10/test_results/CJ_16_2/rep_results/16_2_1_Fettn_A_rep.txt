@@ -1,0 +1,4 @@
+def run_test case_number generator data = x for x in next 		16 25
+number_of_tests number_of_tests generator = 		27 31
+def check count dig result = for 		7 14
+def 		33 35

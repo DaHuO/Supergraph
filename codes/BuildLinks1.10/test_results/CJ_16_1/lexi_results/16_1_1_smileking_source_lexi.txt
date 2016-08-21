@@ -1,0 +1,1 @@
+def getlastword orighstring if len orighstring == 1 return orighstring else next = getlastword orighstring - 1 key = orighstring len orighstring - 1 if key >= next 0 return key + next else return next + key 		11 20

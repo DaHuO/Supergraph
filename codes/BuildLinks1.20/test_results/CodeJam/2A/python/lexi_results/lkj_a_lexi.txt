@@ -1,0 +1,3 @@
+def getprs n w c = w for i in range n nc = for l in c nc += p pr r sr s sp l c = nc return c count ch for ch in prs 		1 8
+def getsol n w c = w for i in range n nc = for l in c nc += p pr r sr s sp l c = nc for loginvsize in range 0 n for sgind in range 0 2 ** n 2 ** loginvsize + 1 if c sgind sgind + 2 ** loginvsize > c sgind + 2 ** loginvsize sgind + 2 * 2 ** loginvsize c = c sgind + c sgind + 2 ** loginvsize sgind + 2 * 2 ** loginvsize + c sgind sgind + 2 ** loginvsize + c sgind + 2 * 2 ** loginvsize return c 		10 22
+def solve n r p s pprs = getprs n p rprs = getprs n r sprs = getprs n s if not p r s in pprs rprs sprs return impossible else return getsol n prs pprs rprs sprs index p r s 		24 32

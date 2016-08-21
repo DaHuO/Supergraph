@@ -1,0 +1,3 @@
+def valid sc c sc = str sc zfill len c for i in range len c if c i != ? and int sc i != int c i return false return true 		6 11
+def score c j n = len c best_scores current_min = none 10000 for sc1 in all_scores n if not valid sc1 c continue for sc2 in all_scores n if not valid sc2 j continue if abs sc1 - sc2 < current_min current_min = abs sc1 - sc2 best_scores = sc1 sc2 elif abs sc1 - sc2 == current_min if sc1 < best_scores 0 best_scores = sc1 sc2 elif sc1 == best_scores 0 and sc2 < best_scores 1 best_scores = sc1 sc2 best_scores = str best_scores 0 zfill n str best_scores 1 zfill n return {} {} format * best_scores 		14 36
+def all_scores n for i in range 10 ** n yield i 		1 3

@@ -1,0 +1,2 @@
+def fits x s fmt x 		2 7
+{:0 } a b fmt = + str len a + best = 		9 20

@@ -1,0 +1,5 @@
+def fits N n 		35 39
+%s.out imap_unordered pool = None inp = sys argv 1 outp = % inp split . 0 with open 		8 27
+def solve_small C J n = len C fmt = %0 + %s % 		41 51
+def solve 		54 56
+Solving #%s args 		29 32

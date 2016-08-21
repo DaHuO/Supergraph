@@ -1,0 +1,28 @@
+Direct links:
+29 - 34 links:
+16_1_2_xeina_B	:	38 - 43
+
+11 - 19 links:
+16_1_2_xeina_B	:	11 - 19
+
+
+With same rare tokens:
+21 - 26 links:
+16_1_2_xeina_B	:	21 - 34
+
+29 - 34 links:
+16_1_2_xeina_B	:	38 - 43
+
+11 - 19 links:
+16_1_2_xeina_B	:	11 - 19
+16_1_2_xeina_B	:	11 - 19
+16_1_2_xeina_B	:	11 - 19
+16_1_2_xeina_B	:	11 - 19
+16_1_2_xeina_B	:	11 - 19
+
+36 - 42 links:
+16_1_1_buckket_words	:	4 - 11
+
+50 - 58 links:
+16_1_1_buckket_words	:	4 - 11
+

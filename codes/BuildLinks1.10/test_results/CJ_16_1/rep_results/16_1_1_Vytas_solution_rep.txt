@@ -1,0 +1,2 @@
+def 		25 26
+def solve self case whiteboard = 		16 23

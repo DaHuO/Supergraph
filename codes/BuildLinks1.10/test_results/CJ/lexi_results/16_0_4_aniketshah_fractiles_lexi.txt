@@ -1,0 +1,1 @@
+def fractiles k c s i = 0 result = 1 while 1 == 1 i = i + pow k c - 1 if i >= pow k c break result append i + 1 return result 		1 9

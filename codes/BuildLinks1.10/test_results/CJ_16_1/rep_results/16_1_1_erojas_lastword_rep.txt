@@ -1,0 +1,6 @@
+def solve self s = self params 0 last_word = 		36 45
+def read self with open self 		13 17
+caselength caselength 		9 11
+getcase caselines startoffset caselength endoffset caselength startoffset 		22 28
+def 		19 20
+caseinfo caseinfo 		32 34

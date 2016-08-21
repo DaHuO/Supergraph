@@ -1,0 +1,4 @@
+def t s return len dic1 s 		25 26
+def build_dic c = 0 dic = for s in L dic s = c c += 1 return dic 		15 21
+def build dic = for s in L for c in s if c not in dic dic c = dic c append s return dic 		6 13
+def solve input_ c = Counter input_ res = l = c keys l = sorted l key = t for ch in l while c ch > 0 for s in dic1 ch f = True for i in s if i not in c f = False break else if c i < 1 f = False break if f res append dic2 s for i in s c i -= 1 if c i == 0 c pop i break if len c == 0 break res sort return join str _ for _ in res 		28 56

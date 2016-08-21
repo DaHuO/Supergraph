@@ -1,0 +1,7 @@
+def 		33 35
+def __init__ 		12 14
+hashable __call__ self * args if not 		15 25
+def main num_cases = int stdin 		37 44
+__get__ objtype 		29 31
+__repr__ 		26 28
+memoized generate_best_word s w if s 		46 55

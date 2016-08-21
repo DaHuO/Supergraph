@@ -1,0 +1,1 @@
+def calc i inp out global output if len inp == 0 output = out return true if i == 10 and len inp 		6 36

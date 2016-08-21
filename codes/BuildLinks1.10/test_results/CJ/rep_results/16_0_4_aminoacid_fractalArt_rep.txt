@@ -1,0 +1,1 @@
+fractalart k c s inp if s == k print case 		2 16

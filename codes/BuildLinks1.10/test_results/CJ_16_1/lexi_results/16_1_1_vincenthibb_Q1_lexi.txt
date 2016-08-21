@@ -1,0 +1,1 @@
+def solve n ans = for words in xrange 0 len n 0 if words == 0 ans append n 0 words elif ord n 0 words > ord ans 0 0 ans insert 0 n 0 words elif ord n 0 words < ord ans 0 0 ans append n 0 words elif ord n 0 words == ord ans 0 0 ans insert 0 n 0 words return join ans 		7 19

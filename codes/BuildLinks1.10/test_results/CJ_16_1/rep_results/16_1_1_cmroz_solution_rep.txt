@@ -1,0 +1,1 @@
+def solve s cur = s 		1 8

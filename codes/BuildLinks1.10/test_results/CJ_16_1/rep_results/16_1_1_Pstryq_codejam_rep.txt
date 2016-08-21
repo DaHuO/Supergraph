@@ -1,0 +1,5 @@
+		9 10
+solution_number solution_number 		12 13
+read_single 		3 4
+def solution s = read_string result = 		15 26
+def 		6 7

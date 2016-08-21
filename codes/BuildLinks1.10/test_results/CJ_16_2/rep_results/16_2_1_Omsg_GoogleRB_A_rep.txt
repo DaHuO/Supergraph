@@ -1,0 +1,7 @@
+normal_mode FINVEVSENEINESXI 		146 150
+def checkNumberOfChar char string 		101 106
+def getNumber i if i == 0 return ZERO elif i == 		124 144
+file_load FileInput = with 		94 99
+numberLetters numberL numberLetters numberL numberL while amount > 0 = getNumber 		108 122
+def start s resultNumber = np array 0 * 10 word = list s num = checkNumberOfChar Z word print word if num > 0 word = deleteNumberFromChar 0 word num resultNumber 0 = num print 8 print word num = checkNumberOfChar G word if num > 0 word = deleteNumberFromChar 8 		15 92
+array_mode FileOutput file_load writeString writeString writeString ------------------------------------ print check for 		152 163

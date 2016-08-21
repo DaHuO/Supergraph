@@ -1,0 +1,1 @@
+def rankfile num_case array n b = 0 * 2500 for j in 		16 27

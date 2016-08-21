@@ -1,0 +1,1 @@
+def lastword s r = first = z for c in s if ord c >= ord first r = c + r else r = r + c first = r 0 return r 		1 12

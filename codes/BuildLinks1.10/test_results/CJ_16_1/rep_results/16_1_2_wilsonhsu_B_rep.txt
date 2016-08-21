@@ -1,0 +1,2 @@
+def solve grid count = for row in 		2 11
+{0}.in run name f = open format name r g = open {0}.out format name w t 		13 27

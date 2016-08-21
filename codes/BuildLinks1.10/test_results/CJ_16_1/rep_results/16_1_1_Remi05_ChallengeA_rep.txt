@@ -1,0 +1,3 @@
+getnextleft s cur_max for 		9 13
+formatoutput n result 		6 7
+getnextleft solveproblem line line = line strip \n result = 		16 30

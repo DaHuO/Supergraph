@@ -1,0 +1,4 @@
+{0}.in run name f = open format name r g = 		53 65
+find_sinks bffs sinks = set 		15 22
+find_sinks fromkeys //= n = len bffs bffs = 0 + bffs sinks = bffs sink_count = dict sinks 0 curmax 		24 51
+find_circle bffs i circle = students = 		3 13

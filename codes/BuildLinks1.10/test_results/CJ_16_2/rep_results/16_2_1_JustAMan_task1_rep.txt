@@ -1,0 +1,2 @@
+FIRST SECOND s digs = for data in for name ch val 		19 31
+def main inFile with open inFile as inp 		33 38

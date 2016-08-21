@@ -1,6 +1,5 @@
-46 - 65 links:
-pysort	:	379 - 394
 
+With same rare tokens:
 197 - 223 links:
 Arraysort	:	69 - 88
 

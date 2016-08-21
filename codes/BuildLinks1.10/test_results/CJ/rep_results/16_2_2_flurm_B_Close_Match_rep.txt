@@ -1,0 +1,9 @@
+atrace .. pause_after_trace response response sys stderr 		21 30
+atrace 		17 19
+__dict__ 		12 13
+def something i if i < len q 		126 137
+memoized_f keyerror by calling result = memos 		34 42
+getline 		8 9
+solve_1 jq c_is_lower j_is_lower dont_know_might_be_equal dont_know_might_be_equal jq dont_know_might_be_equal c_is_lower j_is_lower dont_know_might_be_equal c_is_lower j_is_lower dont_know_might_be_equal c_is_lower j_is_lower dont_know_might_be_equal c_is_lower j_is_lower dont_know_might_be_equal if c_dq == ? and j_dq == ? if state == c_d = 0 j_d 		47 116
+memoized_f keyerror by calling memoized_f def * args 		32 43
+generate_possibles q results = ar = * len q def something 		120 141

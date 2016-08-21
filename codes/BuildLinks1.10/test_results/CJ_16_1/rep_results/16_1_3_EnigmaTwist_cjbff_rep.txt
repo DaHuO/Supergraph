@@ -1,0 +1,4 @@
+findmutuals mutuallist mutuallist mutuallist for i 		7 12
+longestbackchain btkdict currk prevk currlen otherkids btkdict currk 		42 51
+biggestloopsize getoutnow getoutnow getoutnow loopsize loopsize loopsize = 0 for k in range 1 n + 1 		14 39
+kidtobff kidtobff bfftokids kidtobff bfftokids kidtobff findmutuals kidtobff biggestloopsize kidtobff mutscore mutscore mutscore alen longestbackchain bfftokids blen longestbackchain bfftokids alenfixed alen .5 blenfixed blen .5 alenfixed blenfixed flines - 1 outf = open sys argv 2 w casenum = 0 for fl in 		54 111

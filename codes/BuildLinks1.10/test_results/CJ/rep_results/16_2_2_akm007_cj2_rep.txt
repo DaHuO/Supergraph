@@ -1,0 +1,1 @@
+casen casen n n = n split num1 = list n 0 num2 = list n 1 l1 = l2 = for i in range 0 len num1 if num1 i == ? l1 append i for i in range 0 len num2 if num2 i == ? l2 append i for i in 		1 90

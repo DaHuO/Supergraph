@@ -1,0 +1,1 @@
+def thing n p s = sum p while 1 nz = 0 for i in range n nz += p i > 0 l = range n l sort key = lambda i - p i if nz == 0 print return if nz != 2 print chr 65 + l 0 p l 0 -= 1 continue print chr 65 + l 0 + chr 65 + l 1 p l 0 -= 1 p l 1 -= 1 		3 12

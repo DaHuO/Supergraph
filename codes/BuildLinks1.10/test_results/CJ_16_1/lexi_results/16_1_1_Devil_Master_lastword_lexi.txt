@@ -1,0 +1,1 @@
+def last s = list raw_input strip for i in xrange 1 len s if ord s i >= ord s 0 s insert 0 s pop i return join s 		1 6

@@ -1,5 +1,5 @@
-first_bracket bracket_sort first_bracket first_bracket int stdin readline for case in range 1 num_cases 		105 125
+first_bracket first_bracket first_bracket = int stdin readline for case in range 1 num_cases 		105 125
 1: 2: 3: R P if S == 1 and R == 0 and P == 0 return S if S == 0 and R == 1 and P == 0 return R if S == 0 and R == 0 and P == 1 return P N = S + 		12 71
 def bracket_from_winner winner N if N == 0 return winner if winner == R if 		73 91
-bracket_sort bracket_sort b2 bracket_sort b2 b2 		93 103
+def bracket_sort bracket if bracket in 		93 103
 DEBUG 		8 10

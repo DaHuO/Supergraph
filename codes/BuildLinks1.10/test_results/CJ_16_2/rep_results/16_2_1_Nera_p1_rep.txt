@@ -1,0 +1,2 @@
+canFormNumber chars number res = 		19 24
+def decrement chars 		26 29

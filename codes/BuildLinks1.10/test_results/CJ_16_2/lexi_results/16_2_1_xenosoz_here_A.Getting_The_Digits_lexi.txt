@@ -1,0 +1,1 @@
+def solve S from collections import Counter global first second third gene = Counter S solution = for decoder in first second third for k v s in decoder n = gene k if n > 0 n //= Counter v k solution extend s * n delta = Counter v for i in range n gene -= delta assert gene == Counter return sorted solution 		30 48

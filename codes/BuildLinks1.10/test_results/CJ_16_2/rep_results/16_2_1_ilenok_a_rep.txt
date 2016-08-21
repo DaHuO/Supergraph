@@ -1,0 +1,1 @@
+decipher_number s nletters = ndigits = for i in range ord A ord Z + 1 nletters chr i = 0 for i in xrange 0 10 ndigits 		1 25

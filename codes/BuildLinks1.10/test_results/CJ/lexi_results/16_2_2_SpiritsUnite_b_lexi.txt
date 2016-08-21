@@ -1,0 +1,1 @@
+def better a b c d if int c == - 1 return true if abs int a - int b < abs int c - int d return true elif abs int a - int b == abs int c - int d and int a < int c return true elif abs int a - int b == abs int c - int d and int a == int c return int b < int d return false 		1 9

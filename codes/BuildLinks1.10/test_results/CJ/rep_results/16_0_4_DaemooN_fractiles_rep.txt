@@ -1,0 +1,3 @@
+g_pos g_pos 		2 4
+def __str__ self res = 		14 21
+iterate new_positions new_positions new_positions new_positions in range self length if index 		5 13

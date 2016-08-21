@@ -1,0 +1,3 @@
+eval_str eval_str a b qa = a count ? qb = b count ? va = 0 vb = 		24 46
+eval_str 		21 21
+eval_str wds wds wds = int val qn = s count ? if 		5 19

@@ -1,0 +1,2 @@
+def next dic keys = key for key in dic if 		16 24
+def solve l d = for 		5 13

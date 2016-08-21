@@ -1,0 +1,5 @@
+def tonum x return int join str d for d in x 		12 13
+def solve c j diff c_score j_score = min tr abs tonum c_score - tonum j_score c_score j_score for c_score in fullscan c for j_score in fullscan j return c_score j_score 		26 31
+def main n = int next sys stdin for i in xrange 1 n + 1 c j = next sys stdin strip split c = none if ch == ? else int ch for ch in c j = none if ch == ? else int ch for ch in j cc jj = solve c j print case #{}: format i join str x for x in cc join str x for x in jj 		34 41
+def fullscan score empty_idx = i for i d in enumerate score if d is none for pr in product range 10 repeat = len empty_idx s = list score for i d in zip empty_idx pr s i = d assert all d is not none for d in s yield s 		16 23
+def tr x return x 		7 9

@@ -1,0 +1,6 @@
+getInfo line t 		5 9
+counter2 counter2 counter2 counter2 chain counter = 0 for i in word if i == 		37 56
+createOutput data path file = open path 		60 65
+def work t counters = 0 for i in range 10 liste = Z ZERO 0 		23 34
+nbCases parse path file = 		11 19
+txtInput txtOutput 		67 69

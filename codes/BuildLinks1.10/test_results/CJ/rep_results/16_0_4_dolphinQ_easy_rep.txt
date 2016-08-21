@@ -1,0 +1,6 @@
+raf 		10 11
+def 		4 5
+rai solve k 		13 15
+rai 		8 9
+def 		2 3
+ras 		6 7

@@ -1,0 +1,2 @@
+find_evacuation state total path = state = sorted state key = lambda elem elem n reverse = true while state 0 		20 38
+def is_majority_absolute state total first second state 0 n -= first state 		7 18

@@ -1,0 +1,1 @@
+def dfs n global rem success if success return if n > 9 return s = C n status = 1 for c in s if D get c 0 < 1 status = 0 if status for c in s D c -= 1 rem -= 1 S append n if rem == 0 success = True return dfs n dfs n + 1 if success return for c in s D c += 1 rem += 1 del S - 1 dfs n + 1 		24 71

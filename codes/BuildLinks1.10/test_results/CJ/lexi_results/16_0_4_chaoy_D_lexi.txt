@@ -1,0 +1,1 @@
+def run k c s ret = for i in range k id = i for j in range c - 1 id = id * k + id % k ret append id + 1 return ret 		2 9

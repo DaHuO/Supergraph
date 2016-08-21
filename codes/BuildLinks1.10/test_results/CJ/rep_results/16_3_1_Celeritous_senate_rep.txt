@@ -1,0 +1,5 @@
+strings nstr pstr strings 		33 37
+label indexerror labels label labels label labels ord a + x 0 while any p > 0 for 		39 56
+inpath outdir inpath outdir inpath inpath extension outpath outdir outpath inpath outdir os import path inf = open ru 		1 22
+inpath outdir inpath inpath extension outpath outdir outpath from os import path inf = open ru stem 		2 20
+def pairs iterable 		24 29

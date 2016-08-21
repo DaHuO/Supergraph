@@ -1,0 +1,6 @@
+def pairs b paired = 		21 28
+longestchainendingin available longestchainlength available chainlength chainlength longestchainlength longestchainlength chainlength available longestchainlength visited 		43 60
+largestcycle longestcyclelength cyclelength cyclelength longestcyclelength longestcyclelength cyclelength longestcyclelength visited 		5 19
+pairchain unpaired longestchainendingin unpaired pairs 		62 68
+largestcycle pairchain case n = case readint 		70 79
+pairgeneration currentgen anygen currentgen currentgen lastgen currentgen currentgen anygen 		30 41

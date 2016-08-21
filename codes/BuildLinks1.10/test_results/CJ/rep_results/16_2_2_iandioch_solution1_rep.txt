@@ -1,0 +1,2 @@
+get_iter get_iter i while i < len a and 		5 16
+get_iter get_iter s a = list s 0 b = list s 1 a_ = int join x for x in a 		18 42

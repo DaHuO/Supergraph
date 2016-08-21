@@ -1,0 +1,1 @@
+uppercase solve t n = int sys stdin readline rstrip p = map int sys stdin readline rstrip split f = for index p in enumerate p 		6 32

@@ -1,0 +1,2 @@
+def best x1y1 x2y2 x1 y1 = x1y1 x2 y2 = x2y2 dif x y = min abs x1 - y1 x1 y1 abs x2 - y2 x2 y2 return x y 		7 11
+def fit a b i j for k in range len a if a k != ? and a k != i // 10 ** k % 10 return false if b k != ? and b k != j // 10 ** k % 10 return false return true 		13 19

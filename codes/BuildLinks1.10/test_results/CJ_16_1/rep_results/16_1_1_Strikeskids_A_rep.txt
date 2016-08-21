@@ -1,0 +1,4 @@
+run_test main 		22 26
+run_test compute_last 		18 20
+compute_last word arr = deque 		5 16
+extensive 100000 compute_insomnia 		28 32

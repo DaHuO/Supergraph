@@ -1,0 +1,1 @@
+def gen win level if level == 0 return rps win s1 = gen win level - 1 s2 = gen win + 2 % 3 level - 1 return min s1 s2 + max s1 s2 		8 13

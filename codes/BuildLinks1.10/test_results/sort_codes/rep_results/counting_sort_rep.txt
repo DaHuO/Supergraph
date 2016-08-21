@@ -1,2 +1,2 @@
-counting_sort max_element max_element sorted_list max_element sorted_list sorted_list sorted_list = None * len list_ for i in range 		15 44
+counting_sort max_element max_element max_element None * + 1 sorted_list = None * len list_ for i in 		15 44
 counting_sort 		4 12

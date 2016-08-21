@@ -1,0 +1,3 @@
+get_freqs 91 f = 		67 71
+iter_decom freqs numlist = while True if freqs Z > 0 remove freqs ZERO numlist append str 0 elif freqs W > 0 remove freqs TWO 		25 64
+def remove 		21 23

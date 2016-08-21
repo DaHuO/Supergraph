@@ -1,0 +1,9 @@
+isSeven SEVN if 		35 40
+car car container 		22 26
+readCase processCase caseInput = 		103 111
+isThree isSeven isNine starting if len case == 0 return True if Z in case and starting <= 0 res tlf = solveRecursive removeFromString case ZERO 0 if res return True 0 + tlf if isContained case ONE and starting <= 1 res tlf = solveRecursive removeFromString 		49 92
+processCase resultado resultado = 		95 101
+removeCharFromString container char if container == char return donde 		5 14
+isThree THR if 		28 33
+removeCharFromString removeFromString container 		16 20
+isNine container if 		42 47

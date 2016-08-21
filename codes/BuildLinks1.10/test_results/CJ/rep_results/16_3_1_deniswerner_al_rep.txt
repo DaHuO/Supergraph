@@ -1,0 +1,2 @@
+		5 6
+def solve x sen_list = x split  sen_list = int y for y in sen_list solution = while 		31 66

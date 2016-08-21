@@ -1,0 +1,1 @@
+def remove_num_nth s t n for c in t s = s replace c n return s 		6 9

@@ -1,0 +1,2 @@
+def dfs p if vsc bff p is none dfs bff p vsc p = vsc bff p if cy2 vsc p dth p = dth bff p + 1 fth vsc p = max fth vsc p dth p 		38 44
+def dfl p r s vsl p = r dst p = s if vsl bff p is none x = dfl bff p r s + 1 if x is not none and s >= x cyc p = true return x elif vsl bff p == r cyc p = true cycsize = s - dst bff p + 1 global bigcycle bigcycle = max bigcycle cycsize if cycsize == 2 cy2 p = true cy2 bff p = true return dst bff p else return none 		18 36

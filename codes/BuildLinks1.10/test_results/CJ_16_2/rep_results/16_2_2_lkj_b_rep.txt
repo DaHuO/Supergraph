@@ -1,0 +1,4 @@
+def dist p s = 		3 7
+def solve c j l = len c p = tuple * 2 * l for i in range l if c i == ? if 		38 58
+po po minsol = None mind = 10 ** 20 		26 36
+def better p1 p2 s1 = join p1 c1 = int s1 		10 24

@@ -1,0 +1,1 @@
+ja ja ja j done = 0 for i in range len c if c i == ? if j i == ? tmp = list c tmp i = 0 c = join tmp tmp = list j tmp i = 0 j = join tmp minnum c j tmp = list c tmp i = 1 c = join tmp tmp = list j tmp i = 0 j = join tmp minnum c j tmp = list c tmp i = 0 c = join tmp tmp = list j tmp i = 1 j = join tmp minnum c j tmp = list c tmp i = 9 		26 189

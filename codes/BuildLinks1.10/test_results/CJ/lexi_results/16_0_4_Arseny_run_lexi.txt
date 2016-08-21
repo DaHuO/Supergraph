@@ -1,0 +1,1 @@
+def solve k c s return  join map str xrange 1 k + 1 		6 7

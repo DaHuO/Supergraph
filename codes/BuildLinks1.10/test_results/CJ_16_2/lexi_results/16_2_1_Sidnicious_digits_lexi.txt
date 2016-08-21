@@ -1,0 +1,2 @@
+def impl chars if not chars return for i digit in enumerate digits if digit - chars continue ret = impl chars - digit if ret is not None return i + ret return None 		6 15
+def get_digits s def impl chars if not chars return for i digit in enumerate digits if digit - chars continue ret = impl chars - digit if ret is not None return i + ret return None number = impl Counter s number sort return join str n for n in number 		5 18

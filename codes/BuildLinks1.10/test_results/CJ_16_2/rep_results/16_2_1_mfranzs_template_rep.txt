@@ -1,0 +1,5 @@
+def readFile filename global 		5 9
+readLn readInt global curReadingLine 		11 17
+answerLn 		23 24
+def answer 		26 28
+readLn 		19 21

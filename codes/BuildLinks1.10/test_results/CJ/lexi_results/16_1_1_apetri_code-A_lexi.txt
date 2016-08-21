@@ -1,0 +1,2 @@
+def main ntest = int line for t in range ntest s = line sys stdout write case #{0}: {1}\n format t + 1 lastword s 		23 35
+def lastword s if len s == 1 return s else optimal = lastword s - 1 if s - 1 >= optimal 0 return s - 1 + optimal else return optimal + s - 1 		7 15

@@ -1,0 +1,3 @@
+def get_cases filename with open filename r as f t = int f readline cases = for t in range t n = int f readline s = int x for x in f readline split case = s i chr i + 65 for i in range n cases append n case return t cases 		1 10
+def get_plan n s assert n > 1 assert n < 27 res = while len s > 2 s sort reverse = true res append s 0 1 s 0 0 -= 1 if s 0 0 == 0 s = s 1 while s 0 0 > 0 res append s 0 1 + s 1 1 s 0 0 -= 1 s 1 0 -= 1 return res 		12 26
+def b_print res t filename with open filename w as f for t in range t f write case #{0}: {1}\n format t + 1  join res t 		28 31

@@ -1,0 +1,1 @@
+def solve2 m n count = for arr in m for a in arr if a not in count count a = 0 count a += 1 odds = for key in count if count key % 2 == 1 odds append key odds sort return odds 		67 82

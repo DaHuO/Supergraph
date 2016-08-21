@@ -1,0 +1,8 @@
+def arrstr a sep =  return sep join str x for x in a 		45 46
+def solve s = sstrip res = for c in s res = max c + res res + c return res 		7 12
+def num return int fin readline 		39 40
+def main fname = a.in if len sys argv > 1 fname = sys argv 1 global fin fin = io open fname fout = io open fname + .out w t0 = datetime datetime now t = int fin readline for i in range t fout write case #%d: % i + 1 fout write %s\n % str solve print time = %s % str datetime datetime now - t0 fin close fout close 		17 33
+def sstrip return fin readline strip 		41 42
+def fnums return float x for x in fin readline split 		37 38
+def strs return fin readline split 		43 44
+def nums return int x for x in fin readline split 		35 36

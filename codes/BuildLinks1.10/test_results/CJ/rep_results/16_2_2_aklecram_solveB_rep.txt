@@ -1,0 +1,5 @@
+def fits n n 		35 39
+def run pool = none inp = sys argv 1 outp = %s.out % inp split . 0 with 		8 27
+def solve_small c j n = len c fmt = %0 + %s % 		41 51
+def solve 		54 56
+def solve_wrapper args 		29 32

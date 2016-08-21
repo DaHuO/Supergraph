@@ -1,0 +1,13 @@
+Direct links:
+7 - 9 links:
+16_1_2_Wertle_B	:	6 - 8
+16_1_3_Wertle_C	:	7 - 9
+
+
+With same rare tokens:
+7 - 9 links:
+16_1_3_Wertle_C	:	7 - 9
+16_1_2_Wertle_B	:	6 - 8
+16_1_3_Wertle_C	:	7 - 9
+16_1_2_Wertle_B	:	6 - 8
+

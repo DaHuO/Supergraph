@@ -1,0 +1,1 @@
+def generate_all s nq = s count ? if nq < 1 return s ret = digit = str i for i in range 10 * nq for cmb in product digit repeat = nq ss = s while cmb ss = ss replace ? cmb 0 1 cmb = cmb 1 ret append ss ret sort return ret 		7 20

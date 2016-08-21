@@ -1,0 +1,17 @@
+Direct links:
+2 - 3 links:
+16_0_4_caslte_2016-d	:	2 - 3
+
+
+With same rare tokens:
+2 - 3 links:
+16_0_4_caslte_2016-d	:	6 - 28
+16_0_4_caslte_2016-d	:	2 - 3
+
+7 - 33 links:
+16_3_1_aldrineg_a	:	5 - 9
+16_2_1_aldrineg_a	:	5 - 9
+16_1_2_LinesPrower_r1a	:	33 - 49
+16_0_4_caslte_2016-d	:	6 - 28
+16_0_4_caslte_2016-d	:	2 - 3
+

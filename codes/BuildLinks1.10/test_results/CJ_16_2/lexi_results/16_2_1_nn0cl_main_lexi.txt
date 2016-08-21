@@ -1,0 +1,2 @@
+def solve line ret = counter = for dic in dics for c in line if c in dic if dic c in ndic ret append ndic dic c for cc in dic c line = line replace cc 1 ret sort return join map str ret 		34 45
+def main IN OUT T = int IN readline for index in range T OUT write Case #%d: %s\n % index + 1 solve IN readline 		46 49

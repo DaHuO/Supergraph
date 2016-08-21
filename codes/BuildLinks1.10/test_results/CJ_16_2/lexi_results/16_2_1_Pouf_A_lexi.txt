@@ -1,0 +1,1 @@
+def gotcha s num for l in num s = s replace l 1 return s str ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE index num 		33 36

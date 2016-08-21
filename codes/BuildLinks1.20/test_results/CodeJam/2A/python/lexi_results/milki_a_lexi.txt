@@ -1,0 +1,5 @@
+def go l ret = for t in l if t == r ret += r s if t == s ret += p s if t == p ret += p r return ret 		48 57
+def output casenum ret print case #%d: %s % casenum + 1 ret 		60 61
+def bin_sort l if len l <= 2 return sorted l le = len l / 2 left = l le right = l le if left < right return bin_sort left + bin_sort right else return bin_sort right + bin_sort left 		36 46
+def main t = int raw_input gen r 12 gen p 12 gen s 12 for i in xrange t n r p s = map int raw_input split found = for t in r p s st cr cp cs = d t n if cr != r or cp != p or cs != s continue found append st if not found found append impossible found = sorted found output i found 0 		5 24
+def gen l n global d ret = l for r in range n ret = go ret c_r = sum 1 for t in ret if t == r c_p = sum 1 for t in ret if t == p c_s = sum 1 for t in ret if t == s d l r + 1 = join bin_sort ret c_r c_p c_s 		26 34

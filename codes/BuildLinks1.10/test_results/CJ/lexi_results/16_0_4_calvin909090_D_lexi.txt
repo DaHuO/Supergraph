@@ -1,0 +1,1 @@
+def f k c s if s * c < k return none n = k + c - 1 // c arr = numpy arange n * c dtype = int reshape n c a2 = numpy power k numpy arange c arr *= arr < k arr *= a2 nums = arr sum 1 + 1 return set nums 		4 17

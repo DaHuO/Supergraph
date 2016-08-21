@@ -1,0 +1,1 @@
+def solve t i res = t 0 for c in t 1 if c > res 0 res = c + res elif c < res 0 res += c else k = 1 while k < len res and c <= res k k += 1 if k < len res res = c + res else res += c print case #%d: %s % i res 		6 21

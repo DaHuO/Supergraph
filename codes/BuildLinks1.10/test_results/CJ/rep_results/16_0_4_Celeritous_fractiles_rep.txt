@@ -1,0 +1,5 @@
+def processor string 		24 27
+inpath outdir inpath outdir inpath inpath extension outpath outdir outpath inpath outdir os import path inf = open ru 		1 22
+inpath outdir inpath inpath extension outpath outdir outpath from os import path inf = open ru stem 		2 20
+insufficient guess. linearindex c s if s * c 		31 58
+linearindex groupindices groupindices = 		60 64

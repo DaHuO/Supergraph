@@ -1,0 +1,3 @@
+def solve s numbers = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE d = G EIGHT U 		5 22
+def 		24 26
+Writing cases: Written time: datetime datetime now input_file = open sys argv 1 output_file = open sys argv 2 w if len 		28 46

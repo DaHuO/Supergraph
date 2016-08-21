@@ -1,0 +1,2 @@
+append_both append_both initial_word new_word if len 		1 6
+possible_words append_both possible_words 		10 12

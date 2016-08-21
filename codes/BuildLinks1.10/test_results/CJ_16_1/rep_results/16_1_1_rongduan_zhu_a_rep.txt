@@ -1,0 +1,1 @@
+def solve fname with open fname as f f readline cur_case 		5 23

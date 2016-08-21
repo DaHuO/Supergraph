@@ -1,0 +1,4 @@
+def 		1 2
+def solve s digits = while Z in s s = remove_word s ZERO digits append 0 while X in s s = remove_word s SIX digits 		9 42
+def remove_word 		4 7
+{:s}\n read_input filename with open output.txt w 		44 50

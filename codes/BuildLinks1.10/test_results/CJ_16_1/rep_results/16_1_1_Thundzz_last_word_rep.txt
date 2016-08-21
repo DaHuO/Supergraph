@@ -1,0 +1,2 @@
+play_best main t = int sys 		17 21
+play_best s last_word = s 		5 12

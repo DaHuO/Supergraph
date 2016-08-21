@@ -1,0 +1,1 @@
+def probasolve n state = n 0 lst = n 0 for c in n 1 if c > state lst insert 0 c state = c else lst append c return join lst 		1 10

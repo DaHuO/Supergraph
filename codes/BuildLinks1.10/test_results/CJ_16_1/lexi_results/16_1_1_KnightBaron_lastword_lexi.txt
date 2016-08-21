@@ -1,0 +1,2 @@
+def solve initials lines preprocessed output = s = lines 0 lastwords = s 0 for char in s 1 tmp = list lastwords for word in tmp lastwords remove word lastwords append word + char lastwords append char + word return sorted lastwords - 1 		15 31
+def preprocess initials preprocessed = dict return preprocessed 		8 12

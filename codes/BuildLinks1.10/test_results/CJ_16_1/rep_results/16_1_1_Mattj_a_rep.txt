@@ -1,0 +1,3 @@
+def pr s end = none if 		11 16
+		24 25
+def out s end 		18 22

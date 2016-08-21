@@ -1,0 +1,1 @@
+to_print to_print to_print outfile cases = int infile readline for i in range cases all_nums = result = n 		5 27

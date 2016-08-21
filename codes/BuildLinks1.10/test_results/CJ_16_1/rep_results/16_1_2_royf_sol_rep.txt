@@ -1,0 +1,13 @@
+def read_floats 		56 57
+def 		38 39
+def read_ints f 		53 54
+def read_arr f r 		59 60
+def read_case f 		10 13
+def solve solver fn out_fn = none in_fn = fn 		62 72
+def read_int 		41 42
+def 		28 29
+def read_words 		50 51
+def write_case f i res 		31 34
+def 		44 45
+read_digits f 		47 48
+def solve_small case n l = case d 		15 26

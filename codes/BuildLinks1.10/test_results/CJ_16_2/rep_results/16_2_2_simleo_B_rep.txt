@@ -1,0 +1,6 @@
+read_scores s ret = 		7 14
+make_parser write_result argv parser = args = parser parse_args argv 1 		53 65
+make_parser -i --in_ FILE --out 		46 50
+read_scores read_scores f N = 		17 21
+write_result idx scores fo 		41 43
+to_n to_n scores N = len scores 0 fmt = %%0%dd % N = lambda digits int join map str 		24 38

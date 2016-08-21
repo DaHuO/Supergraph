@@ -1,0 +1,1 @@
+def run C J l L if l == L return tempC tempJ = run C J l + 1 L if C l == ? possibleC = for i in xrange 10 possibleC += str i + x for x in tempC else possibleC = C l + x for x in tempC if J l == ? possibleJ = for i in xrange 10 possibleJ += str i + x for x in tempJ else possibleJ = J l + x for x in tempJ return possibleC possibleJ 		3 48

@@ -1,0 +1,4 @@
+def main 		25 29
+compute_number s counts = Counter s counts 0 = counts Z counts 2 = counts W counts 4 = counts 		4 20
+compute_number run_test 		22 23
+extensive compute_insomnia random 		31 35

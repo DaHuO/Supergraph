@@ -1,0 +1,2 @@
+def flatten 		3 4
+flat flat data = flatten data nums = for 		6 16

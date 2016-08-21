@@ -1,0 +1,2 @@
+def solve_case input_data print input_data s = list input_data digits = while len s > 0 if z in s digits append 0 rem s list 		7 43
+def rem 		3 5

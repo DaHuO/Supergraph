@@ -1,0 +1,4 @@
+def fill c j number counter = 0 for i in range len c if c i == ? c = list c c i = number counter c = join c counter += 1 for i in range len j if j i == ? j = list j j i = number counter j = join j counter += 1 return c j 		26 40
+def solve c j c j = try_equal c j c j = brute c j return c j 		56 106
+def try_equal c j equal_possible = true for i in range len c if c i != j i equal_possible = false if not equal_possible return c j for i in range len c if c i == ? c = list c c i = j i c = join c elif j i == ? j = list j j i = c i j = join j return c j 		7 23
+def brute c j qmarks = c count ? + j count ? min_c min_j diff = none none none for i in range 10 ** qmarks c_tmp j_tmp = fill c j str i zfill qmarks diff_tmp = abs int c_tmp - int j_tmp if diff is none or diff_tmp < diff or diff_tmp == diff and int c_tmp < int min_c min_c = c_tmp min_j = j_tmp diff = diff_tmp return min_c min_j 		43 53

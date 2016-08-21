@@ -1,0 +1,2 @@
+output_ a b i = 1 		34 45
+input_ pagess tmp2 pages tmp2 page page pages tmp2 pagess pages pagess readline tmp = num_cases 		6 32

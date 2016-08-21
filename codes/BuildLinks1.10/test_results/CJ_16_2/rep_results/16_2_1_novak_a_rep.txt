@@ -1,0 +1,2 @@
+def read_int_list 		6 7
+		3 4

@@ -1,0 +1,2 @@
+def delete s 		8 11
+def removeNumber s k n 		13 19

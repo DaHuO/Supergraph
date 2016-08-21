@@ -1,0 +1,2 @@
+def solve self tests = int input for test in range tests txt = input strip a = for c in txt if not a or a 0 > c a append c else a insert 0 c ret = join a print case #{}: {} format test + 1 ret 		6 17
+def tests self yield testcase 		19 20

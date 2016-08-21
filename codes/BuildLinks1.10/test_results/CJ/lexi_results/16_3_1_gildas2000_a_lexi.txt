@@ -1,0 +1,2 @@
+def solve ns numbers n = int ns 0 order = still = true while still still = false for i in range 0 n if numbers i > 0 order append i numbers i -= 1 still = true count = 0 if len order % 2 == 1 count = 1 out = for i in range 0 len order out += chr 65 + order - 1 - i count += 1 if count % 2 == 0 out +=  return out 		3 24
+parsers iter_parser def parse next n = next strip split  numbers = int x for x in next strip split  return n numbers 		26 30

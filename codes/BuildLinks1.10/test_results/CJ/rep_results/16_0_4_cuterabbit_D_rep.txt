@@ -1,0 +1,1 @@
+def f k c s = int c for c in inp readline split if 		4 17

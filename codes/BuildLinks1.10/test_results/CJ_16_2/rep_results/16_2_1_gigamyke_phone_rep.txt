@@ -1,0 +1,3 @@
+def freq S 		10 15
+match_digit s digit s = 		17 25
+match_digit find_digits S digits = if all x == 		27 38

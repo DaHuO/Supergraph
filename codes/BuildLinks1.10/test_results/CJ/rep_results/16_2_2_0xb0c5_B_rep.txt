@@ -1,0 +1,5 @@
+badness solve c j to_try = c j for i in range len c c_prefix = c i c_suffix = c i + 1 j_prefix = j i j_suffix = j i + 1 		33 58
+badness c j c 		27 31
+def fill c j diff = 0 c = list c j = list j result = for i in range len c if 		1 25
+all_possibilities all_possibilities if ? in s idx 		60 67
+naive all_possibilities badness to_try = for 		69 75

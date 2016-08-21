@@ -1,0 +1,1 @@
+def showlastword input i_list = list input result = for ktk in i_list if result == result = ktk else if result 0 > ktk result = result + ktk else result = ktk + result return result 		1 12

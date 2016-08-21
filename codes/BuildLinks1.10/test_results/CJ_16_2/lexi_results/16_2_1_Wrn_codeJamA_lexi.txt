@@ -1,0 +1,2 @@
+def decode s current out if len s == 0 return out else isIn newS = isInString s digit current if isIn == True for i in range current 10 ret = decode newS i out + str current if ret != None return ret else for i in range current + 1 10 ret = decode s i out if ret != None return ret 		11 33
+def isInString s lookfor for c in lookfor if c in s s = s replace c 1 else return False s return True s 		3 9

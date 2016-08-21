@@ -1,0 +1,12 @@
+5 15:
+selectionsort	1	0	48	38
+fillslot	4	0	45	35
+positionofmax	14	4	35	25
+location	18	8	31	21
+fillslot	22	12	27	17
+location	27	17	22	12
+positionofmax	30	20	19	9
+positionofmax	31	21	18	8
+location	33	23	16	6
+fillslot	37	27	12	2
+

@@ -1,0 +1,2 @@
+def solvecase case f fout k c s = f readline strip split  result = for i in xrange 1 int k + 1 result += str i +  writeline fout case str result 		4 9
+def writeline fout n result print case #%d: %s\n % n result fout write case #%d: %s\n % n result 		11 13

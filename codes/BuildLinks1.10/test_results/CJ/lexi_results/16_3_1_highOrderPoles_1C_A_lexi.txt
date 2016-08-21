@@ -1,0 +1,6 @@
+def run self self readsenator self results = self process self cases self printone self results 		24 27
+def main q1 = a q1 run 		61 63
+def process self cases results = for n in cases results append self calculate n return results 		29 33
+def printone self results for i in xrange len results n = results i print case #{}: {} format i + 1 n 		19 22
+def calculate self case result = parties senators = case senators = sorted senators key = lambda x x 1 while senators - 1 1 != 0 if len senators > 2 if senators - 1 1 == 1 and senators - 1 1 == senators - 2 1 and senators - 1 1 == senators - 3 1 senators - 1 1 = senators - 1 1 - 1 result append senators - 1 0 senators = sorted senators key = lambda x x 1 if senators - 1 1 == senators - 2 1 senators - 1 1 = senators - 1 1 - 1 senators - 2 1 = senators - 2 1 - 1 result append senators - 1 0 + senators - 2 0 else senators - 1 1 = senators - 1 1 - 2 result append senators - 1 0 + senators - 1 0 senators = sorted senators key = lambda x x 1 return  join str i for i in result 		35 58
+def readsenator self self cases = self numcases = 0 self numcases = int raw_input for _ in xrange 1 self numcases + 1 parties = int raw_input polynums = int s for s in raw_input split  partyname = chr ord a + i for i in range len polynums case = parties list a for a in zip partyname polynums self cases append case 		6 17

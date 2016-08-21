@@ -1,0 +1,8 @@
+solve_large 		134 136
+move_to_fake w1 w2 		65 69
+augment move_to_fake move_to_real move_to_fake w22 move_to_real move_to_fake w22 w22 w1 remove w2 real w2 remove w1 fake w1 add w2 fake w2 add w1 def w1 w2 real w1 add w2 		64 110
+solve_large can_continue can_continue can_continue augment defaultdict set fake = defaultdict set words1 = set 		115 132
+%s.out imap_unordered pool = None inp = sys argv 1 outp = % inp split . 0 with open inp 		8 30
+{0:0 b} can_be can_be can_be can_be 0 fmt = + %s % n + for i in range 2 ** 		38 60
+move_to_real w1 w2 		71 75
+Solving #%s args 		32 35

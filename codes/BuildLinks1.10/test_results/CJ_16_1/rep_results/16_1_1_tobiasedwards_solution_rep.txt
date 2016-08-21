@@ -1,0 +1,1 @@
+def solution word = input 		1 9

@@ -1,0 +1,2 @@
+write_res file_name res with open file_name w as f 		8 14
+def helper s if s == return s 		16 29

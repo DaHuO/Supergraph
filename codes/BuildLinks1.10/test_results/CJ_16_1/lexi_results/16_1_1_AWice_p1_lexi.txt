@@ -1,0 +1,1 @@
+def solve s ans = for i in s cand1 = i + ans cand2 = ans + i if cand1 > cand2 ans = cand1 else ans = cand2 return join ans 		4 13

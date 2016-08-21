@@ -1,0 +1,14 @@
+def removeedge self v w if w in self adj v self edges v remove w 		16 17
+def _height self v visited = if v is none or v in visited return 0 visited v = 1 ns = self _height w visited + 1 for w in self g adj v if w not in visited return 0 if len ns == 0 else max ns 		73 77
+def solvequadratic f bf = map int f readline split bf insert 0 none ans = 0 chains = 0 * len bf for i in xrange 1 len bf v = i visit = false * len bf l = 0 while not visit v visit v = true l += 1 v = bf v if bf bf v == v chains v = max chains v l - 1 elif v == i ans = max ans l return max ans sum chains 		97 118
+def vs self return v for v in self edges 		22 23
+def heightfrom g v marked = return getheight g v 0 marked 		92 94
+def heightof self v visited return self _height v visited 		79 80
+def __init__ self g self max_path = self current_path = self components = self counter = 0 self topologicalorder = self g = g for v in range g v if v not in self components self dfs v self counter += 1 self topologicalorder reverse 		41 55
+def addedge self v w if v not in self edges self edges v = set self edges v add w self e += 1 		10 14
+def __str__ self ans = for v in self edges for w in self adj v ans += {}->{}\n format v w return ans 		32 37
+def getheight g w height marked marked w = true adj = g adj w if len adj == 0 return height hs = getheight g n height + 1 marked for n in adj if n not in marked if len hs == 0 return height return max hs 		83 89
+def reverse self rev = graph self v for v in self edges for w in self edges v rev addedge w v return rev 		25 30
+def dfs self v self components v = self counter self current_path append v for w in self g adj v if w not in self components self dfs w self current_path pop else if len self current_path > len self max_path self max_path = self current_path self topologicalorder append v 		57 71
+def adj self v return self edges get v 		19 20
+def __init__ self v self v = v self e = 0 self edges = 		5 8

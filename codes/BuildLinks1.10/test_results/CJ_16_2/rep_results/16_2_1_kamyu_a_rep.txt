@@ -1,0 +1,2 @@
+getting_the_digits def check cnt ans i l if i == l tmp = Counter for _ in ans tmp += Counter 		9 33
+def check cnt ans i l if i == l tmp = 		10 25

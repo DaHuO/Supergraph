@@ -1,0 +1,7 @@
+countLetters word L = for 		11 17
+merge L1 L2 res = l1 = len L1 l2 = len L2 i 		19 38
+getString L res 		88 92
+getString outputPhone.out data = parse A-large.in L 		95 101
+merge sort L start end if 		42 47
+def parse path files = 		3 9
+countLetters getNumber word L = word res = for i in range L 6 res append 8 L 19 -= 1 L 8 -= 1 for i in range L 		50 85

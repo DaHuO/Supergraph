@@ -1,0 +1,1 @@
+def find_last letters outw = letters pop 0 for letter in letters if letter >= outw 0 outw = letter + outw else outw += letter return outw 		5 12

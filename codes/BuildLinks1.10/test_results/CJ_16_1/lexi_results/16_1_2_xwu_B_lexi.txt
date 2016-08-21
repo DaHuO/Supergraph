@@ -1,0 +1,2 @@
+def main t = input for t in range t ans = calc print case #%d: %s % t + 1 ans 		18 22
+def calc n = input c = counter for i in range 2 * n - 1 v = int x for x in raw_input split c update v ele = for ch cnt in c most_common if cnt % 2 == 1 ele append ch return  join map str sorted ele 		5 15

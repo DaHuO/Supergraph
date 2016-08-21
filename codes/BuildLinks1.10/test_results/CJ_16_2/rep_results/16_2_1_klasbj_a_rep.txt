@@ -1,0 +1,1 @@
+def solve ws c = Counter ws numbers = 		8 19

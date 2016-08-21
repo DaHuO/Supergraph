@@ -1,0 +1,1 @@
+technobabble cov cov cov cov topics for b in range 1 << len topics f = s 		3 22

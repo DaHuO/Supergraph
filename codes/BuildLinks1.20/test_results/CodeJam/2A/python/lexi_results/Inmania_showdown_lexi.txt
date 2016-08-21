@@ -1,0 +1,3 @@
+def solve n r p s l = for poss_winner in r s p poss_answer = round_with_winner n poss_winner l append poss_answer new_l = filter lambda x comp_count_correct x r p s l new_l sort if new_l return new_l 0 else return impossible 		10 21
+def round_with_winner n winner if n == 1 if winner == r return rs elif winner == s return ps elif winner == p return pr else if winner == r a = round_with_winner n - 1 r b = round_with_winner n - 1 s elif winner == s a = round_with_winner n - 1 p b = round_with_winner n - 1 s elif winner == p a = round_with_winner n - 1 p b = round_with_winner n - 1 r l = a b l sort return join l 		28 49
+def comp_count_correct ans r p s correct = ans count r == r and ans count p == p and ans count s == s return correct 		24 26

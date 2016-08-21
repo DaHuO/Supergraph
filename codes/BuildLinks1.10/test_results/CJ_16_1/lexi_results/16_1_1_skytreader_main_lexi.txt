@@ -1,0 +1,1 @@
+def get_winner s win = for c in s if win if string ascii_uppercase index c >= string ascii_uppercase index win 0 win insert 0 c else win append c else win append c return join win 		5 17

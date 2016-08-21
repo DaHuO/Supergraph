@@ -1,0 +1,1 @@
+def solve n sol = d = 1 s = n 0 for i in range len n - 1 s = s + n i + 1 s = sorted s for i in range len s count = s count s i if round count / 2 != count / 2 sol append s i s1 = set sol t = list s1 out1 = sorted t return d out1 		1 21

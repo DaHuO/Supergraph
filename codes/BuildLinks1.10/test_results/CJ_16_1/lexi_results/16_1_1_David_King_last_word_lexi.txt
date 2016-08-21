@@ -1,0 +1,2 @@
+def last_word f case_num print_info = line = f readline org_word = list line strip \n last_word = max_l = a for letter in org_word if letter >= max_l last_word insert 0 letter max_l = letter else last_word append letter print_info append case # + str case_num + 1 + : for letter in last_word print_info append str letter print_info append \n return print_info 		8 27
+def load_info f line = f readline out = int line return out 		3 6

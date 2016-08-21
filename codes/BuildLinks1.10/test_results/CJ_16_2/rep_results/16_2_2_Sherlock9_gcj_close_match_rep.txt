@@ -1,0 +1,1 @@
+B-small-attempt0.in x_item 9876543210 y_item 9876543210 x_item y_item B-small-attempt0.out file readlines cases = for index test in enumerate lines 1 c j = test strip split x = c count 		3 40

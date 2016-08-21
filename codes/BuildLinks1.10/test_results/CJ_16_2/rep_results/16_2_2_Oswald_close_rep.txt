@@ -1,0 +1,5 @@
+def getDigit i q 		6 7
+getSmallest answerC answerJ answerC answerJ raw_input for x in 		58 65
+def find s 		3 4
+getSmallest firstC firstJ cChangeOriginal jChangeOriginal int possibleC replace ? 0 defaultJ = int possibleJ replace ? 0 cChange 		46 55
+10000000000 10000000000 10000000000 defaultJ cChange jChange current smallest = smallestC = smallestJ = if current == - 1 return defaultC defaultJ if current in jChange c = 0 j = 0 for x in range 0 10 if current in cChange for y in range 0 10 c j = findSmallest 		9 44

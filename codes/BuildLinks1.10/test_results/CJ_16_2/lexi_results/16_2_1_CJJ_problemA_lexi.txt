@@ -1,0 +1,7 @@
+def readInput filename cases = with open filename r as file numberOfCases = int file readline for i in range numberOfCases cases append file readline replace \n return numberOfCases cases 		4 10
+def problem inputfile = .input outputfile = output numberOfCases cases = readInput inputfile output = for case in cases output append SearchDigit case writeOutput outputfile output numberOfCases 		20 25
+def DFS cont unorderedString if cont > 9 return None word = stringNumbers cont newString = isWordInString word unorderedString if newString == return cont if newString ans = DFS cont newString if ans != None return cont + ans return DFS cont + 1 unorderedString 		45 56
+def isWordInString word iunorderedString unorderedString = iunorderedString copy for character in word if character in unorderedString unorderedString character -= 1 if unorderedString character == 0 del unorderedString character else return None return unorderedString 		58 67
+def writeOutput filename output numberOfCases with open filename w as file for i in range numberOfCases line = Case # + str i + 1 + : line += output i line += \n file write line 		12 18
+def SearchDigit stringS unorderedString = createDict stringS cont = 0 ans = DFS cont unorderedString ans = str i for i in ans return join ans 		29 34
+def createDict unorderedString stringDict = dict for character in unorderedString if character in stringDict stringDict character += 1 else stringDict character = 1 return stringDict 		36 43

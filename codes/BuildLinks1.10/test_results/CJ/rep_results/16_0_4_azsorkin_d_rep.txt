@@ -1,0 +1,2 @@
+get_answer main num_cases = int raw_input 		3 8
+get_answer slope slope s if s == 		11 16

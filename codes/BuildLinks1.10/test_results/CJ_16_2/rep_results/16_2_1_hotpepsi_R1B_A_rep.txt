@@ -1,0 +1,2 @@
+def dec h k s cnt 		8 14
+def solve s a = 0 * 11 h = for c in s if c in h h c += 1 		16 37

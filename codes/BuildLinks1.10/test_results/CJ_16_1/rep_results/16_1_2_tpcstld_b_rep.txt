@@ -1,0 +1,6 @@
+def get grid location thing if 		13 22
+def add grid line location 		24 29
+def recurse grid x y data global bad global value if not data value = grid if x < len grid bad = x row if y < len grid bad = y column return true if not verify 		65 119
+def verify grid data no = 0 for line in grid if none in line good = false for 		31 58
+def main n data data = d split for d in data for 		121 131
+def ok a b if a is 		4 11

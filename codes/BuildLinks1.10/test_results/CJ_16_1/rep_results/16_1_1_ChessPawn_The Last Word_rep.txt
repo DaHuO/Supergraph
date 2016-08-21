@@ -1,0 +1,1 @@
+def lastword inp out = out2 		4 16

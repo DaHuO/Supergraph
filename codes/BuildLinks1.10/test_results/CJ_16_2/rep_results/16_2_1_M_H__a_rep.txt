@@ -1,0 +1,6 @@
+trymax cnt_min number1 cut number1 rest count = digit_str rest if 		37 49
+cnt_min s q lets = for ch in s lets 		2 11
+cut s cnt 		13 16
+cnt_min number1 cut number1 digit_str number rest for count in range digit_str 		23 35
+Rest 0! trymax trymax trymax s = 0 for q in rest if rest q < 0 print < exit 1 s = s + rest q if s == 0 return number True if digit == 0 res success = 0 1 		51 100
+def ret s 		18 21

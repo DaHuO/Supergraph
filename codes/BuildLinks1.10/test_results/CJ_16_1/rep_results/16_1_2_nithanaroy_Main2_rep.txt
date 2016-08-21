@@ -1,0 +1,2 @@
+def main t = 		20 26
+def solve_test_case case d = n = int raw_input i = 0 while i < 		1 17

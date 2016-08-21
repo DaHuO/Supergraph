@@ -1,0 +1,7 @@
+def 		48 49
+findbest 1e25 besto bestr besto besto bestr besto bestr besto bestr besto bestr 1 < best 		30 44
+equality one two ans = for d in range len one if one 		17 28
+64 		5 6
+def d 		8 9
+def 		46 47
+deviation one two for 		11 15

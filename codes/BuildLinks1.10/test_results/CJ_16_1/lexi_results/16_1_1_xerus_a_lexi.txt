@@ -1,0 +1,1 @@
+def answer s r = s 0 for i in s 1 if i < r 0 r append i else r = i + r return join r 		3 10

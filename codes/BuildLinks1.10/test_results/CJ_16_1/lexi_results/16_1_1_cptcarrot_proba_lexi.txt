@@ -1,0 +1,2 @@
+def get_best s res = s 0 for c in s 1 if c >= res 0 res = c + res else res = res + c return res 		1 8
+def solve infile = open a-large.in outfile = open a-large.out w t = int infile readline strip for i in range t line = case #%d: %s\n % i + 1 get_best infile readline strip outfile write line infile close outfile close 		11 19

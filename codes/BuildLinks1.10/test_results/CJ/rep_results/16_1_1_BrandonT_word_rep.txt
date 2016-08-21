@@ -1,0 +1,2 @@
+input_word input_word global word global last_word word = list word 		4 18
+reset 		20 23

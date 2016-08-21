@@ -1,0 +1,3 @@
+def contains d1 d2 return all k in d1 and v <= d1 k for k v in d2 iteritems 		5 6
+def sub d1 d2 return k v - d2 get k 0 for k v in d1 iteritems if v != d2 get k 0 		8 9
+def extract numsd s start if s == return for i in xrange start len numsd if contains s numsd i res = extract numsd sub s numsd i i if res is not None return i + res return None 		11 19

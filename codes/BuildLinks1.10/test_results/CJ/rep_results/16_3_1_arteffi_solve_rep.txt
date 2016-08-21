@@ -1,0 +1,6 @@
+def add_if_any_left 		68 70
+input_path main test_cases = parse_input solutions 		4 13
+one_turn solve counts counts = list zip 		33 40
+one_turn count3 party3 count3 count3 party3 count3 party3 not counts add_if_any_left counts count1 + 1 party1 return 		43 65
+#{i}: {result}\n solutions with open 		27 30
+def parse_input path test_cases = with open 		16 24

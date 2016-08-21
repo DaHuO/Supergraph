@@ -1,0 +1,2 @@
+def solve s solv = s 0 for c in s 1 if solv 0 <= c solv insert 0 c else solv append c return join solv 		5 12
+def main sys stdin readline for i l in enumerate sys stdin readlines l = l - 1 print case #{0}: {1} format i + 1 solve l 		14 18

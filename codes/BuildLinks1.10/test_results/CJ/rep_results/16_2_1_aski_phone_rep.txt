@@ -1,0 +1,11 @@
+findtwo finalstring removechar removechar removechar finalstring finalstring findtwo and o 		43 57
+findnine finalstring removechar removechar removechar finalstring finalstring findnine and string count 		172 187
+removechar string 		4 5
+findfour finalstring removechar removechar removechar removechar finalstring finalstring findfour o in string 		79 95
+findfive finalstring removechar removechar removechar removechar finalstring finalstring findfive v in string and 		97 113
+findthree finalstring removechar removechar removechar removechar removechar finalstring finalstring findthree in string and r in string 		59 77
+findzero finalstring removechar removechar removechar removechar finalstring finalstring findzero = string 		7 25
+findseven finalstring removechar removechar removechar removechar removechar finalstring finalstring findseven in string and string count 		132 150
+findone finalstring removechar removechar removechar finalstring finalstring findone and n 		27 41
+findeight finalstring removechar removechar removechar removechar removechar finalstring finalstring findeight string index e 		152 170
+findsix finalstring removechar removechar removechar finalstring finalstring findsix and i 		115 129

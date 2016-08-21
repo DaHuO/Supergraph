@@ -1,0 +1,1 @@
+def delt s t for i in t s i -= 1 		1 3

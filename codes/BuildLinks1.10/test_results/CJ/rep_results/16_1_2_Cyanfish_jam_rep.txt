@@ -1,0 +1,5 @@
+def readint self if self _line 		8 14
+def __init__ self fin 		2 6
+def run filename solve fin = open 		31 37
+lstrip #%d:%s self s if s is 		22 29
+def readline self 		16 20

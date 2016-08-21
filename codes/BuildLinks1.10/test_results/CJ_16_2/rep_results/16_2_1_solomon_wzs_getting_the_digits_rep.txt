@@ -1,0 +1,1 @@
+check_list LD check_list stat = 0 * 26 for i in S stat ord i - ord A += 1 ans = for i 		35 60

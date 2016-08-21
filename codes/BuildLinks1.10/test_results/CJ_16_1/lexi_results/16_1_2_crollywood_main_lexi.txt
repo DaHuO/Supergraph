@@ -1,0 +1,3 @@
+def main solutions = with open test_name + .in r as f rows = int f readline for i in range rows all_heights = 0 for i in range 2501 n = int f readline strip for j in range 2 * n - 1 row = map int f readline strip split  for number in row all_heights number += 1 solution = get_odd_heights all_heights solutions append  join map str solution with open test_name + .out w as f counter = 1 for line in solutions f write case #{0}: {1}\n format str counter line counter += 1 		3 24
+def insert_sorted x niz res = counter = 0 for i in niz if i < x counter += 1 else break res = niz counter + x + niz counter return res 		35 44
+def get_odd_heights all_heights res = counter = 0 for i in all_heights if i % 2 != 0 res = insert_sorted counter res counter += 1 return res 		26 33

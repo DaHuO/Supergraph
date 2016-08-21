@@ -1,0 +1,4 @@
+wordInStr word strDict copyDict = for letter 		1 10
+updateStr strDict word copyDict = for letter in 		12 21
+strToTellNum main fin fout numCases = 		43 47
+strToTellNum tellNum numList numDict numWord numList wordInStr numWord tellNum numDict numWord updateStr numWord tellNum tellNum keys strDict 		23 41

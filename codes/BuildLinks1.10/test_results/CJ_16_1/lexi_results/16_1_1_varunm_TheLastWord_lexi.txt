@@ -1,0 +1,4 @@
+def checkwordarray wordarray pass 		8 9
+def solvelastword caseno inputstring wordarray firstchar = inputstring 0 if len wordarray == 0 wordarray append firstchar inputstring = inputstring 1 else newlist = for j in wordarray if j 1 > firstchar word1 = firstchar + j word2 = j + firstchar else word2 = firstchar + j word1 = j + firstchar newlist append word1 newlist append word2 for x in newlist wordarray append x inputstring = inputstring 1 if len inputstring > 0 solvelastword caseno inputstring wordarray else xstr = wordarray - 1 print case # + str caseno + : xstr 		11 40
+def main fileread 		53 54
+def fileread fo = open input.txt rw+ linelist = fo readlines notestcases = int linelist 0 for i in range 1 notestcases + 1 wordarray = solvelastword i linelist i wordarray 		44 51

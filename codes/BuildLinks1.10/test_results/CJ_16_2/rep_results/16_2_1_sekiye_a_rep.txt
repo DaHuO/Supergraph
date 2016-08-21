@@ -1,0 +1,2 @@
+! ! ! if count in memo return memo count if count 29 < 0 return if count 29 		12 35
+def solve S = raw_input count = 0 * 30 for ch in S count ord ch - ord A += 1 count 29 = len S m = c0 		37 67

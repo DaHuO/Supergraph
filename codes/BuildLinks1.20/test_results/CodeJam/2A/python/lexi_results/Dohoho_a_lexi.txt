@@ -1,0 +1,1 @@
+def red x i = 0 r = if len x == 1 return true while len x i i + 2 != 0 xx = join sorted x i i + 2 i += 2 if xx == pr r += p elif xx == ps r += s elif xx == rs r += r else return false return red r 		5 25

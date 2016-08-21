@@ -1,0 +1,7 @@
+print_outputs outputs for 		54 56
+parse_lines lines 		12 13
+read_stdin_lines import 		8 10
+all_characters all_characters letters count = counter letters for character 		19 24
+expanded_solution expanded_solution letters target = 		47 52
+under_target current_num indexerror under_target possible_solution possible_solution possible_solution possible_solution current_num try = 		26 45
+under_target current target assert 		15 17

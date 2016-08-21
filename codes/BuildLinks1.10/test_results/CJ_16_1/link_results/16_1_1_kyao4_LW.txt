@@ -1,0 +1,60 @@
+
+With same rare tokens:
+8 - 17 links:
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+
+20 - 22 links:
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+16_1_2_GarKoZ_RankAndFile	:	1 - 23
+

@@ -1,0 +1,4 @@
+def __init__ self n self n = n 		9 10
+def timsort lst lst wrap timwrapper timwrapper list = lst prev = i n for i in lst while 1 timwrapper comparisons = 0 timwrapper limit += 1 lst reset try lst sort except timbreak if prev != i n for i in lst lst log prev = i n for i in lst else lst log break 		22 38
+def __getattr__ self attr return getattr self n attr 		18 19
+def __cmp__ self other if timwrapper comparisons > timwrapper limit raise timbreak timwrapper comparisons += 1 return cmp self n other n 		12 16

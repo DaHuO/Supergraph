@@ -1,0 +1,2 @@
+findmaxindex vi vi vi maxc1 maxc2 vi maxc1 maxc2 ls i ls j result = while vj < 		24 43
+findmaxindex ls if ls 0 < ls 1 res = 		11 22

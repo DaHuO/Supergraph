@@ -1,0 +1,3 @@
+check1_1 mx = 0 for i 		40 46
+mrev tovisit_new tovisit_new mrev tovisit_new = o 		24 36
+check_cycle mrev origin a = origin 		11 21

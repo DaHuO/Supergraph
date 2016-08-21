@@ -1,0 +1,2 @@
+def calc k c s if s < k return impossible return list range 1 k + 1 		6 9
+def main f = sys stdin if len sys argv > 1 f = open sys argv 1 rt t = int f readline strip for case_id in range 1 t + 1 k c s = map int f readline strip split r = calc k c s r_str = r if isinstance r str else str join  map str r print case #{}: {} format case_id r_str 		11 25

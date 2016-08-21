@@ -1,4 +1,4 @@
-#%s: main T = int sys stdin readline 		71 77
+def main T = int sys stdin readline 		71 77
 def can_do r return 		55 56
-Default lh rh lh rh lh rh rh lh Default winner 		29 45
+Default Default winner depth if depth == 1 return 1 winner 		29 45
 r3 r3 r3 R P S if any x > 2 ** N - 1 for x 		47 69

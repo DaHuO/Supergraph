@@ -1,0 +1,6 @@
+get_output_path input_parser input_path = sys argv 		59 64
+def problem s letters = 0 * 26 for i in s letters ord i - 65 += 1 numbers = 0 * 10 numbers 0 = letters ord Z - 65 letters = remove_number ZERO letters 		27 57
+get_output_path 		10 11
+def output 		13 15
+input_parser input_path with open input_path 		3 8
+def remove_number num_str letters rep if 		17 24

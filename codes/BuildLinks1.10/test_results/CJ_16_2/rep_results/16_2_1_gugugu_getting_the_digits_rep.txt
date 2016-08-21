@@ -1,0 +1,4 @@
+def subtract digit 		20 23
+def getRes 		25 27
+_solve s digits = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE res = None * 10 c = Counter 		14 47
+_solve solve * 		64 66

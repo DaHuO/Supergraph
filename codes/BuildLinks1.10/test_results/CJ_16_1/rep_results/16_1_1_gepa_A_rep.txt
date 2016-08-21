@@ -1,0 +1,2 @@
+def 		14 16
+def compute s if s == return x 		4 11

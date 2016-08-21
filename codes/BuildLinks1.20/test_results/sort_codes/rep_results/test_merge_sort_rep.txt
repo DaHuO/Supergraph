@@ -1,0 +1,17 @@
+8 9:
+test_merge_sort_should_sort_a_list	1	0	15	11
+self	2	0	14	10
+self	3	0	13	9
+assertequal	4	0	12	8
+1	5	1	11	7
+2	6	2	10	6
+3	7	3	9	5
+4	8	4	8	4
+5	9	5	7	3
+merge_sort	10	6	6	2
+4	11	7	5	1
+2	12	8	4	0
+3	13	9	3	0
+5	14	10	2	0
+1	15	11	1	0
+

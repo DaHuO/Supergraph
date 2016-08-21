@@ -1,0 +1,1 @@
+def last_word word l = list word o = deque o append l 0 for c in l 1 if c < o 0 o append c else o appendleft c return join o 		6 17

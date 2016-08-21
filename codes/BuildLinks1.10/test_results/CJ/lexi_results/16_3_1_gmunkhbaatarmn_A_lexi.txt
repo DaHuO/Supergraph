@@ -1,0 +1,2 @@
+def solve n p result = counts = p chr ord a + i for i p in enumerate p while sorted counts - 1 0 > 0 item = counts = list reversed sorted counts item += counts 0 1 counts 0 0 -= 1 counts = list reversed sorted counts item += counts 0 1 counts 0 0 -= 1 if not check counts or counts 0 0 < 0 item = item 1 counts 0 0 += 1 result append item return  join result 		6 28
+def check counts counts = list reversed sorted counts return counts 0 0 <= sum c 0 for c in counts 1 		31 33

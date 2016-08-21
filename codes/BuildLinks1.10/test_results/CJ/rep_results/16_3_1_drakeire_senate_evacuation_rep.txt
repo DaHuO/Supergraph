@@ -1,0 +1,8 @@
+find_max_two_indices solve n ps plan = party_count = n while sum ps > 		24 40
+display_and_clear main fi = sys stdin fo 		6 13
+find_max_index ps 		53 54
+mi1 mv1 find_max_index mv1 get_party mi1 		42 51
+find_max_two_indices ps 		56 57
+def read_input f n 		15 18
+get_party 		59 60
+display_and_clear f 		20 22

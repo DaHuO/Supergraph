@@ -1,0 +1,14 @@
+Direct links:
+15 - 35 links:
+16_0_4_CGHou_Problem D.	:	18 - 38
+16_1_1_CGHou_Problem A.	:	15 - 35
+16_1_2_CGHou_Problem B.	:	18 - 38
+16_3_1_CGHou_Problem A.	:	15 - 35
+
+
+With same rare tokens:
+41 - 89 links:
+16_0_4_calvin909090_D	:	4 - 17
+16_0_4_calvin909090_D	:	4 - 17
+16_0_4_calvin909090_D	:	4 - 17
+

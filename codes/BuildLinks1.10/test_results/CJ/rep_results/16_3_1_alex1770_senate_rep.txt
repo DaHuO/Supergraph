@@ -1,0 +1,1 @@
+nz nz nz nz s = sum p while 1 = 0 for i in range 		3 12

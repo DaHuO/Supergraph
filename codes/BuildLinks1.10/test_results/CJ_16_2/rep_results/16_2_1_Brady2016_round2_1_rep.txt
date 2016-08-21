@@ -1,0 +1,1 @@
+def cal string num = 0 0 0 0 0 0 0 0 0 0 count = string count Z num 0 = count string = string replace Z _ count string = string replace E _ count string = string replace R _ count string = string replace O _ count count = string count W num 2 = count string = string replace T _ count string = string replace W _ count string = 		1 76

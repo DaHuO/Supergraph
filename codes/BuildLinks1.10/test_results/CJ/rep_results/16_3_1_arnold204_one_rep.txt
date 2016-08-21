@@ -1,0 +1,2 @@
+decre_state decre_state state soln while state if len state keys == 2 		12 25
+decre_state state ans for 		5 10

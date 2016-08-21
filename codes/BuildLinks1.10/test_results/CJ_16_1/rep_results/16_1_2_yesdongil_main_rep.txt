@@ -1,0 +1,1 @@
+result_num result_num result_one result_one temp_result = arg = case_n = int raw_input for i in range 0 case_n num = int raw_input line = raw_input arg 		4 43

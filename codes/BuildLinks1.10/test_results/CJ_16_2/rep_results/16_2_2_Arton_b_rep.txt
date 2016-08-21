@@ -1,0 +1,1 @@
+is_match %0*d string b = % 		3 11

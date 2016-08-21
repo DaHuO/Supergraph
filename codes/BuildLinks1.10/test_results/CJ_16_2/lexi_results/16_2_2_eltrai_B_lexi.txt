@@ -1,0 +1,7 @@
+def readints return map int input split 		17 18
+def maxSeq num for i in range len num if num i == ? num i = 9 return num 		40 44
+def readline return str input 		20 21
+def minSeq num for i in range len num if num i == ? num i = 0 return num 		46 50
+def generate prefix suffix f return int str prefix + join f suffix 		52 53
+def readint return int input 		14 15
+def isValid num_i orig if num_i < 0 return False num = list str num_i while len num < len orig num insert 0 0 if len num != len orig return False for i in range len orig if orig i == ? pass elif orig i == num i pass else return False return True 		23 38

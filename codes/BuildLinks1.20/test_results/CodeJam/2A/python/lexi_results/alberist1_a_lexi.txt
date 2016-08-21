@@ -1,0 +1,2 @@
+def calc win n if n == 0 return win p = calc win n - 1 if win == p p2 = calc r n - 1 elif win == r p2 = calc s n - 1 else p2 = calc p n - 1 if p < p2 return p + p2 return p2 + p 		5 17
+def solve n r p s = map int input split res = sorted calc p n calc r n calc s n for line in res if line count p == p and line count r == r return line return impossible 		20 26

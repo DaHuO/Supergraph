@@ -1,0 +1,1 @@
+def solve s_dict outarr = for i in order string letter = mapping i while letter in s_dict and s_dict letter > 0 for c in string s_dict c -= 1 outarr append i return join str el for el in sorted outarr 		17 25

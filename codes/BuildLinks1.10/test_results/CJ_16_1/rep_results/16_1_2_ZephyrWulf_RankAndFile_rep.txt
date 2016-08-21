@@ -1,0 +1,2 @@
+def rankandfile fin n = int fin readline obs = for i in range 2 * n - 1 obs append 		99 121
+resetcoord resetcoord resetcoord resetcoord resetcoord resetcoord resetcoord resetcoord resetcoord resetcoord resetcoord resetcoord 0 grid 0 = obs 0 return fill grid obs 1 0 1 n skipped if idx == 2 * n - 1 return true if j < n possible = true for k in range n if grid k j == - 1 continue if grid k j != obs idx k possible = false break if possible = for k in range n if grid k j == 		1 97

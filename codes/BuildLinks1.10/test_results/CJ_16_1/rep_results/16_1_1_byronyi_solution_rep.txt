@@ -1,0 +1,3 @@
+revenge_of_the_pancakes pancakes last_pancake n_maneuver pancake 		18 30
+counting_sheep 1e6 difference_update = set range 10 		6 16
+def the_last_word letters if not letters 		32 44

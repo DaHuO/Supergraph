@@ -1,0 +1,1 @@
+ERO TO FOR new_dict sor sor sor new_dict NE new_dict TREE EVEN new_dict X G r = SI EIHT ty = Z 0 W 2 U 4 X 6 G 8 = mp = dict zip l r = list s al = set pair = x count x for x in al for val in mp 		2 83

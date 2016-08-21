@@ -1,0 +1,1 @@
+back_ back_ back_ back_ = readint edges = for i in range n x y = readline split edges append x y xs = set ys = set neigh = for e in edges a b 		5 66

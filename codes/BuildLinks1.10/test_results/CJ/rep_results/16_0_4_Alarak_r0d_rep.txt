@@ -1,0 +1,2 @@
+merge_set listsetgold listsetrest listsetgold listsetrest listsetjoint setjoint curset listsetrest popleft curset listsetjoint setjoint setjoint 		19 63
+generate_artwork setgold norigin icomplex nsetmax norigin icomplex ngensetmax norigin nsetmax 		5 16

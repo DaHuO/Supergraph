@@ -1,0 +1,1 @@
+def doit inp items = for item in inp x = int i for i in item split  items append sorted x all = i for s in items for i in s nums = for n in range min all max all + 1 c = all count n if c % 2 == 1 nums append n return str  join str num for num in sorted nums 		13 26

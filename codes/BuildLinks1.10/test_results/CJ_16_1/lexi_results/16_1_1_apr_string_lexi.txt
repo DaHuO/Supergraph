@@ -1,0 +1,1 @@
+def solve word char = list word myword = for c in char if myword == myword += c else if myword 0 <= c myword = c + myword else myword = myword + c return myword 		1 13

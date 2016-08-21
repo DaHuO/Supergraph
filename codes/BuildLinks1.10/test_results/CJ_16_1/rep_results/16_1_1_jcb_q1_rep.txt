@@ -1,0 +1,2 @@
+old_solve s if len s <= 1 		8 18
+def solve s if len s <= 		20 32

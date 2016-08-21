@@ -1,0 +1,2 @@
+def f n rows for combination in combinations enumerate rows n indices = index for index row in combination matrix = row for index row in combination matrix = transpose matrix filteredrows = row for index row in enumerate rows if index not in indices if all filteredrow in matrix for filteredrow in filteredrows for row in matrix if row not in filteredrows return row 		6 19
+def transpose matrix return list x for x in zip * matrix 		3 4

@@ -1,0 +1,6 @@
+def processinput t = int raw_input for i in range t s = str raw_input yield s return 		8 14
+def basic_test pass 		42 43
+def algorithm test_case s = test_case best = s for s in brute_force s if s > best best = s return best 		34 40
+def writeoutput results for result in results print result return 		17 20
+def runalgorithm results = for test_case in processinput results append algorithm test_case for i in range len results results i = case # + str i + 1 + : + results i + \n writeoutput results 		45 53
+def brute_force curr remain if len remain == 0 yield curr else for output in brute_force curr + remain 0 remain 1 yield output for output in brute_force remain 0 + curr remain 1 yield output 		24 31

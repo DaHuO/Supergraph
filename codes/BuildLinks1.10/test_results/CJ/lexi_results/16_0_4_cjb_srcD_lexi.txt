@@ -1,0 +1,4 @@
+def go n lines f = open path + d.out w for i in range 0 n l = lines i + 1 split  l = int x for x in l k c s = l soln = solve k c s f write case #{}: {}\n format i + 1 soln f = open path + d.out print f read 		8 17
+def mapbit b k c if c == 1 return b if c == 2 return b * k + b return b * k ** c - 1 + mapbit b k c - 1 		19 24
+def solve k c s l = if k != s return you told me k!=s for b in range 0 k l = l + mapbit b k c + 1 l = str x for x in l return  join l 		25 32
+def openfile f = open path + d-small.in lines = x rstrip for x in f readlines n = int lines 0 return n lines 		2 6

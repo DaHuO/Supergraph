@@ -1,0 +1,1 @@
+def deletecharacters chars l for c in chars l = l replace c 1 return l 		1 4

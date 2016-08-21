@@ -1,3 +1,3 @@
 count_time cocktail_shaker_sort_reverse reverse = False length = len data left right = 0 length - 1 swapped = True while swapped swapped = False for i in 		48 89
-count_time_debug cocktail_shaker_sort_debug steps comps steps comps steps comps 输入长度: 循环次数: steps 比较次数: comps 操作次数: = 0 length - 1 swapped = True = 0 = 0 swaps = 0 while swapped swapped = False for i in range left right 		92 158
+count_time_debug cocktail_shaker_sort_debug 输入长度: 循环次数: 比较次数: 操作次数: = False length = len data left right = 0 length - 1 swapped = True steps = 0 comps = 0 swaps = 0 while swapped swapped = False for i in range 		92 158
 count_time cocktail_shaker_sort length = len data left right = 0 length - 1 while left < right swapped = 		14 45

@@ -1,0 +1,2 @@
+#{case}: {word} t 		12 16
+get_winning_last_word s word = s 0 		2 10

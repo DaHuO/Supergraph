@@ -1,0 +1,4 @@
+possible_evacuations other_nb_senators other_nb_senators = for party nb_senators in senate iteritems if nb_senators == 0 continue 		19 42
+floor is_majority senate total_senators = 		3 9
+build_evacuation possible_evacuations suite build_evacuation suite suite == 2 remaining_senators = 		44 59
+def evacuate senate evacuation 		11 17

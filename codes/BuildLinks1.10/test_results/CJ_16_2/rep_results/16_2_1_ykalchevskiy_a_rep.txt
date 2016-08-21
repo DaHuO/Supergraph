@@ -1,0 +1,15 @@
+		65 67
+write_array 		86 87
+def main for 		36 38
+_main_ in_name out_name in_name out_name if name or names = name + 		94 110
+read_2d_array n func = 		61 62
+def read_array func = None sep = 		56 58
+NUMBERS_COUNTERS get_numbers c n 		12 16
+read_int_array sep 		70 72
+write_2d_array write_array 		90 91
+def write * args ** kwargs 		80 83
+def solve s = read c = collections Counter s numbers = numbers extend get_numbers 		19 33
+def 		47 48
+def read func = 		51 53
+bye message 		41 44
+read_int_2d_array read_2d_array sep 		75 77

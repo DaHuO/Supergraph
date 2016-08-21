@@ -1,0 +1,12 @@
+def read_floats return float x for x in read_line split 		17 18
+def input_string_stack data = for line in sys stdin readlines data extend line split data reverse return data 		26 31
+def read_line return sys stdin readline rstrip \n 		5 6
+def read_strings return read_line split 		23 24
+def __init__ self function self function = function self cache = 		40 42
+def read_integer base = 10 return int read_line base 		8 9
+def read_string return read_line strip 		20 21
+def read_float return float read_line 		14 15
+def input_integer_stack return int x for x in read_string_stack 		33 34
+def read_integers base = 10 return int x base for x in read_line split 		11 12
+def bits x return bin x count 1 		36 37
+def __call__ self * arguments try return self cache arguments 		43 45

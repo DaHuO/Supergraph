@@ -1,0 +1,1 @@
+def next_line_to_ints lines return map int next lines split  		6 7

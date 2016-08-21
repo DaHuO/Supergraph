@@ -1,0 +1,2 @@
+def main f = open sys 		16 22
+def solve s a = 		7 14

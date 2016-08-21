@@ -1,0 +1,2 @@
+{{:0{}}} 77 lineb lineb lineb = format len a mn = 10 ** for i in 		13 28
+def match line pattern 		5 10

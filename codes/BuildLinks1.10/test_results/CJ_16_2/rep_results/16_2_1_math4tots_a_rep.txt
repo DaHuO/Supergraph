@@ -1,0 +1,2 @@
+checkchar checkchar s d = ch 0 for ch in map chr range ord a 1 + ord z ns = 		4 30
+checkchar checkchar text 		12 16

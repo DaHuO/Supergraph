@@ -1,0 +1,17 @@
+test_solutions outcome: until_first_fail = true cases = load_cases path_in 		103 116
+find_max_pos max_v max_v = max 		30 33
+find_missing_max find_max_pos lines = list lines for p in xrange len 		45 55
+def read_list 		6 7
+		118 120
+def load_cases path with open 		16 22
+def outcome_string 		76 77
+find_min_pos min_v min_v = min 		26 29
+def 		8 9
+def read_line 		1 5
+find_missing_min mmax mmaxc find_missing_max mmax mmaxc mmin mminc = lines 		58 69
+find_missing_min find_min_pos lines = list lines for p in xrange len 		34 44
+test_solutions_gen outcome: = true cases = gen_cases for 		122 135
+rsplit process path_in path_out = none 		84 89
+def save_outcomes path outcomes with 		80 83
+def 		99 101
+def load_single_case f 		11 13

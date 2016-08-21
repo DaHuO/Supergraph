@@ -1,0 +1,3 @@
+maxx origincount maxx origincount origincount = set w 0 for w in topics second = set 		22 32
+def solve input_file with open input_file as f_in testcases 		12 19
+def 		7 9

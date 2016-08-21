@@ -1,0 +1,4 @@
+def file_output obj global out_file case_no if out_file is none out_file = open output-large.txt w out_file write case #{0}: {1} format case_no str obj + \n case_no += 1 		22 33
+def file_input global in_file if in_file is none in_file = open input.txt return in_file readline 		9 19
+def get_delimited_int_list delimiter =  return int x for x in raw_input split delimiter 		54 55
+def exit_handler global in_file out_file case_no if in_file is not none in_file close in_file = none if out_file is not none out_file close out_file = none case_no = 1 		36 51

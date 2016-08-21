@@ -1,0 +1,3 @@
+def matching graph matching = for u in graph for v in graph u if v not in matching matching v = u break while True preds = unmatched = pred = u unmatched for u 		25 98
+testCase testCase T = read for in range T N = read left 		7 22
+def recurse v if v in preds L 		84 95

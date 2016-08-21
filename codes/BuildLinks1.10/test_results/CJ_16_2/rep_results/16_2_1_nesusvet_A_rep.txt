@@ -1,0 +1,1 @@
+od main text result = for 		15 23

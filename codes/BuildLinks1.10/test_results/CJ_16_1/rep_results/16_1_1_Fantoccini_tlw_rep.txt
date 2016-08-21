@@ -1,0 +1,1 @@
+def solve line res = for 		4 11

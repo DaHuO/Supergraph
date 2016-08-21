@@ -1,0 +1,2 @@
+def finder t current mylist rest 		17 22
+def solve t current 		9 15

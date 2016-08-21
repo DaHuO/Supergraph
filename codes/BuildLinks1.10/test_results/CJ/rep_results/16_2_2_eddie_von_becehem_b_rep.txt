@@ -1,0 +1,4 @@
+exhaust enlarge enlarge clist = 0 for cchar in c clist = clist cchar jlist = 0 		45 68
+def abs 		40 43
+crep jrep whoisgreater whoisgreater whoisgreater whoisgreater whoisgreater crep jrep crep jrep range len c cchar = c i jchar = j i if == c if cchar == ? cchar = 0 if jchar == ? 		70 120
+enlarge clist char rep = if char != 		28 38

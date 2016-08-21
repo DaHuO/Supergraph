@@ -1,0 +1,8 @@
+def solve_case digits = zero one two three four five six seven eight nine all_letters = set join digits counts = for letter in all_letters counts letter = 0 letters = list read_str for letter in letters counts letter += 1 zeros = counts z counts z -= zeros counts e -= zeros counts r -= zeros counts o -= zeros twos = counts w counts t -= twos counts w -= twos counts o -= twos fours = counts u counts f -= fours counts o -= fours counts u -= fours counts r -= fours sixs = counts x counts s -= sixs counts i -= sixs counts x -= sixs sevens = counts s counts s -= sevens counts e -= 2 * sevens counts v -= sevens counts n -= sevens eights = counts g counts e -= eights counts i -= eights counts g -= eights counts h -= eights counts t -= eights fives = counts v counts f -= fives counts i -= fives counts v -= fives counts e -= fives threes = counts r ones = counts o nines = counts i return zeros * 0 + ones * 1 + twos * 2 + threes * 3 + fours * 4 + fives * 5 + sixs * 6 + sevens * 7 + eights * 8 + nines * 9 		16 75
+def read_strs return stdin readline rstrip \n split 		5 5
+def read_int return int stdin readline 		6 6
+def read_str return stdin readline rstrip \n 		4 4
+def read_ints return map int stdin readline split 		7 7
+def main cases = read_int for case in range 1 cases + 1 print case #{}: {} format case solve_case 		77 80
+def read_floats return map float stdin readline split 		8 8
+def deleted letters character times count = letters count character return list filter character __ne__ letters + character * times - count 		11 13

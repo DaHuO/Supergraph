@@ -1,0 +1,2 @@
+find_circuit solve circuits = i for i in range n ans = 0 for i c in enumerate circuits if len c >= 2 and bff c - 1 == c 		19 40
+find_circuit i ret = while true if len ret 		4 17

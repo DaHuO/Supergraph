@@ -1,0 +1,2 @@
+subset powerset subset for in list lc - 1 		7 15
+powerset iterable s = 		3 5

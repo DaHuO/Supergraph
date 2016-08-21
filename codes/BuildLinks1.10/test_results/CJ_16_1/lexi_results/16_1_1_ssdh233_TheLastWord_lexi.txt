@@ -1,0 +1,1 @@
+def cal word last = for letter in word if not last or letter >= last 0 last = letter + last else last = last + letter return last 		6 13

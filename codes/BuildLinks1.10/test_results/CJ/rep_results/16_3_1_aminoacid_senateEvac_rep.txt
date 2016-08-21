@@ -1,0 +1,1 @@
+%c%c solve n g test print case #%d: % test + 1 p = for i in xrange n p append g 		2 20

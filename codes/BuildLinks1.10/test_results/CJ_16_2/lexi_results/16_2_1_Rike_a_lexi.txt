@@ -1,0 +1,1 @@
+def is_cont stringi numbers is_cont = True for letter in stringi if numbers letter == 0 is_cont = False numbers letter = numbers letter - 1 if not is_cont for letter in stringi numbers letter = numbers letter + 1 return is_cont 		6 15

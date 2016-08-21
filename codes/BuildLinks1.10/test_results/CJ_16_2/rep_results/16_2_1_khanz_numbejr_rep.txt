@@ -1,0 +1,10 @@
+TEST 		17 18
+def find_num string remaining contain if string == return 		3 15
+def helper string 		25 29
+TEST 		21 22
+generic_test helper 		33 36
+def main init n = int input 		51 57
+with_duplicate generic_test chars def 		32 37
+def remove string 		39 42
+generic_test with_duplicate with_duplicate with_duplicate in 0 		44 49
+generic_test n def helper 		24 30

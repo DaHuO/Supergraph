@@ -1,0 +1,6 @@
+get_input enter 		5 6
+get_variable_line_input isdigit = raw_input splitlines retval 		12 25
+get_multiline_input s data = raw_input 		8 10
+output_to_console indata for i 		40 42
+output_to_file d:\\python projects\\google outputs\\ reverse ind = 0 		32 38
+get_file_input d:\\python projects\\google inputs\\ lambda 		27 30

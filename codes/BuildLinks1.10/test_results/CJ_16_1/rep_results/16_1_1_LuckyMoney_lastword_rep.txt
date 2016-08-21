@@ -1,0 +1,3 @@
+def process f case_num = int 		28 37
+inputw inputw inputword = list lenth = len 		5 23
+def main 		40 44

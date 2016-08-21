@@ -1,0 +1,3 @@
+output1 output2 solve_instance output1 output2 input_file as f_in 		10 16
+def 		5 7
+solve_instance bs1 bs2 solve_instance bs1 bs2 solve_instance bs1 bs2 bs1 bs2 jammers for i c in enumerate coders if c == ? flag = true sol 		19 45

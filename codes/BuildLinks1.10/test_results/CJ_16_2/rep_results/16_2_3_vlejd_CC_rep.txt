@@ -1,0 +1,2 @@
+vocab vords vords vords staci vords staci staci staci 1 n = input = = for i in 		7 27
+def main 		29 32

@@ -1,0 +1,1 @@
+def cal i global m s1 s2 n r p = q = False if i == n for j in range n if not r j and 		7 32

@@ -1,0 +1,2 @@
+def match num phrase N 		3 8
+pA pB pA pA pB pB pA pB best = 10 ** N = = for i in A if i 		13 59

@@ -1,0 +1,6 @@
+def solve_wrapper args case_no _args = args print solving case #%s % case_no return case_no solve * _args 		30 33
+def run pool = none inp = sys argv 1 outp = %s.out % inp split . 0 with open inp r as _file open outp w as out _cases = int _file readline arguments = for _case in range _cases n r p s = tuple int x for x in _file readline split  arguments append _case + 1 n r p s if pool == none results = list map solve_wrapper arguments else results = sorted list pool imap_unordered solve_wrapper arguments key = lambda r r 0 assert len results == _cases for _case result in results out write case #%s: %s\n % _case result 		8 28
+def solve n r p s pl = order lineup n p rl = order lineup n r sl = order lineup n s for l in sorted pl rl sl if count_ok p r s l return l return impossible 		61 67
+def count_ok p r s ln if ln count p != p return false if ln count r != r return false if ln count s != s return false return true 		55 59
+def order ln l = len ln // 2 if l == 0 return ln else a = order ln l b = order ln l if a < b return a + b else return b + a 		45 53
+def lineup n top if n == 0 return top prev = p pr r rs s ps top return lineup n - 1 prev 0 + lineup n - 1 prev 1 		36 43

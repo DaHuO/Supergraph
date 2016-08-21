@@ -1,0 +1,1 @@
+def solve n l = for i in n if len l == 0 l = i else if i >= l 0 l = i + l else l = l + i return l 		3 14

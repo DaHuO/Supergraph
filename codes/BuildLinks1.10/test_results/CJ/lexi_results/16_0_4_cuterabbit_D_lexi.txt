@@ -1,0 +1,1 @@
+def f k c s = int c for c in inp readline split if c * s < k return impossible current = 0 ans = for i in range 1 k + 1 current = current * k + i - 1 if i % c == 0 ans append current current = 0 if k % c > 0 ans append current return  join str i + 1 for i in ans 		4 17

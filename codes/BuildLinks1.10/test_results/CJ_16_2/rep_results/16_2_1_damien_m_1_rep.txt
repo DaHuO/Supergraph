@@ -1,0 +1,2 @@
+possible_numbers c for i n 		7 14
+most_common possible_numbers case built = None if case 1 0 1 		16 27

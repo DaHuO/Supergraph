@@ -1,0 +1,5 @@
+parsing nb_tests = 		1 8
+parsing main nb_tests cases 		58 62
+resultc resultj resultc resultj = 		10 13
+val_c val_j is_possible val_c is_possible val_j val_c val_j val_c val_j minim minim minim minim if score_c i append i if score_j i append i min_diff = 		29 56
+is_possible score val s_val = str val if len 		16 26

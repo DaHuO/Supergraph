@@ -1,0 +1,1 @@
+get_ans ls dct = for l in ls for el in l if 		2 32

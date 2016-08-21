@@ -1,0 +1,2 @@
+def calc line = get_line ans = 		19 27
+def get_line 		12 16

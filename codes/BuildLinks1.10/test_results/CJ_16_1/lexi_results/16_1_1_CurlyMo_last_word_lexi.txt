@@ -1,0 +1,2 @@
+def read_input infile out with open infile r as f num_cases = int f readline for case in range 1 num_cases + 1 out write case #{}: format case yield f readline rstrip 		18 23
+def main infile out for line in read_input infile out s = list line last_word = list s pop 0 for char in s if char >= last_word 0 last_word insert 0 char else last_word append char out write join last_word + \n 		5 15

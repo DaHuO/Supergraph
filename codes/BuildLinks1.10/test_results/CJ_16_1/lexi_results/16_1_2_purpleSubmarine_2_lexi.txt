@@ -1,0 +1,1 @@
+def find_ans arr n c = 0 ans = for i in range 1 3000 if arr i == 1 c += 1 ans append i if c == n return ans 		1 9

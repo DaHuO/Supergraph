@@ -1,0 +1,3 @@
+def la b r e = for i in r e append b + i return e 		3 7
+def solve p bm ans = 0 ws1 = set ws2 = set for i in range len p w1 w2 = p i if bm i == 1 ws1 add w1 ws2 add w2 else ans += 1 for i in range len p w1 w2 = p i if bm i == 0 if not w1 in ws1 and w2 in ws2 return 0 return ans 		15 31
+def bmg k if k > 0 r = bmg k - 1 return la 0 r + la 1 r return 		9 13

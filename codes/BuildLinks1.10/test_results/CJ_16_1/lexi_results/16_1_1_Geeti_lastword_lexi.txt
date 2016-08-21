@@ -1,0 +1,2 @@
+def main with open sys argv 1 as f lines = f read splitlines for i in range 1 len lines res = lastword lines i print case #%d: %s % i res 		21 26
+def lastword s l = list s res = for c in l if res == res append c continue if c >= res 0 res insert 0 c else res append c return join res 		3 14

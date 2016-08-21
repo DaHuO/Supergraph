@@ -1,0 +1,2 @@
+sizec cykly cesta cesta cykly cesta cykly sizec list map int input split for i in range n f i -= 1 def c res = 2 s e = c while f s != e res += 1 s = f s return res = 		1 69
+sizec c res = 		7 13

@@ -1,0 +1,1 @@
+/home/aidan/documents/codejam16/d-small-attempt2.in /home/aidan/documents/codejam16/d-small.out file = open outfile = open w file 		1 8

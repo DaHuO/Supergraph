@@ -1,0 +1,2 @@
+nbr new_dico nbr nbr new_case = list case = while > 		1 17
+s_res s_res s_res res = for i in range 10 res i = 0 dico = for i in range ord a ord z + 1 dico chr i = 0 for l in case dico l += 1 while len case > 0 if dico z > 0 		19 67

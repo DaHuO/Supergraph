@@ -1,0 +1,1 @@
+def gd letters d = Counter n = for i in letters d update i for i in round1 keys while d i > 0 d subtract dict1 round1 i n append l index round1 i for i in round2 keys while d i > 0 d subtract dict1 round2 i n append l index round2 i for i in range d N / 2 n append 9 return join map str sorted n 		33 56

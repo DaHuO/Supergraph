@@ -1,0 +1,2 @@
+def remove line integer dic string = dic integer for char in string pos = line find char line = line pos + line pos + 1 return line 		38 43
+def run line ret_int = for key in firstkey keys while key in line line = remove line firstkey key firstnumtostr ret_int append firstkey key for key in secondkey keys while key in line line = remove line secondkey key secondnumtostr ret_int append secondkey key for key in thirdkey keys while key in line line = remove line thirdkey key thirdnumtostr ret_int append thirdkey key ret_int sort return join str x for x in ret_int 		45 64

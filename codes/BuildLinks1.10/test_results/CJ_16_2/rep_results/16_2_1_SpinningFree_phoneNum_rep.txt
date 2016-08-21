@@ -1,0 +1,4 @@
+outputCase ans outname case if case 		14 17
+findPhoneNumber numberInList numberInList numberInList list line phoneNumber = for d 		19 33
+runCases rU findPhoneNumber outputCase = 0 with open 		1 12
+def removeDigit chars d if d == 0 chars remove Z chars remove E chars remove R chars remove O elif d == 1 chars remove O chars remove N chars remove 		35 85

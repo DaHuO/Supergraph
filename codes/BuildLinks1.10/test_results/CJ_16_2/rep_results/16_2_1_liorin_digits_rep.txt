@@ -1,0 +1,1 @@
+ZONETWHRFUIVSXNG solve_case string d = for c in d c = 0 for c in string d c = d get c 0 + 1 ans = for digit in range 10 ans digit = 0 ans 		9 50

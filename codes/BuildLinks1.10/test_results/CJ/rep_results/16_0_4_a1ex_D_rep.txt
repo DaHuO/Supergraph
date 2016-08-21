@@ -1,0 +1,5 @@
+readlist return 		4 5
+i_list i_list k c s j = 		59 68
+def 		7 8
+def expand seq orig_seq new 		10 17
+experiment k c s c += 2 print for i in range k orig_seq = l * k orig_seq = orig_seq i + g + orig_seq i + 1 seq = orig_seq for 		22 54

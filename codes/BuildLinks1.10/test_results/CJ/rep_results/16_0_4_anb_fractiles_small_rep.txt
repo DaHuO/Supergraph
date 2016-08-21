@@ -1,0 +1,7 @@
+def 		5 5
+def 		6 6
+def 		4 4
+def 		7 7
+def 		8 8
+def main cases 		16 19
+def solve_case k 		11 13

@@ -1,0 +1,2 @@
+def _solve rows seen = for row in rows for elem in row if elem not in seen seen elem = 1 else seen elem += 1 res = for elem cnt in seen items if cnt % 2 == 1 res append elem res = sorted res return  join map str res 		13 26
+def solve * args ** kwargs res = _solve * args ** kwargs return res 		28 30

@@ -1,0 +1,3 @@
+def main for i line 		3 8
+def generate word w if len word 		20 31
+def lastword word w = 		11 17

@@ -1,0 +1,10 @@
+replace7 cadena solucion append 		56 62
+replace8 cadena solucion append 		63 69
+replace4 cadena solucion 		39 44
+replace1 cadena 		22 26
+replace3 cadena solucion append 		32 38
+replace0 cadena solucion 		16 21
+replace5 cadena solucion 		45 50
+replace2 cadena 		27 31
+replace9 cadena solucion 		70 75
+replace6 cadena 		51 55

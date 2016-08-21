@@ -1,0 +1,2 @@
+def solve s digits = while len s for i in os s res = containsnumber s ns i if res digits append str i return join sorted digits 		15 21
+def containsnumber s number tmp = s for c in number if c in tmp tmp = tmp replace c 1 else return s false return tmp true 		6 13

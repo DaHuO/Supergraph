@@ -1,0 +1,1 @@
+uns uns uns uns = abcdefghijklmnopqrstuvwxyz sol = sum = 0 for i in lar sum += int i while sum > 0 m = lar 0 mi = 0 n = lar 0 ni = 0 for i in range len lar if lar i > m m = lar i mi = i if mi == 0 n = lar 1 ni = 1 		3 75

@@ -1,0 +1,2 @@
+def solve senate heap = for party count in senate iteritems heappush heap - count party 		18 43
+other_count other_count other_count other_count not heap return 		6 15

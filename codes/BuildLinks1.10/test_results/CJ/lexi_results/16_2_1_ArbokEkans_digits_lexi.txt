@@ -1,0 +1,2 @@
+def solve word ft = to_freq_table word solution = for key in keys verbose num = data key occs = ft key solution += num * occs for w in verbose ft w -= occs for key in ft assert ft key == 0 return join str x for x in sorted solution 		22 33
+def to_freq_table word d = a 0 for a in alph for w in word d w += 1 return d 		16 20

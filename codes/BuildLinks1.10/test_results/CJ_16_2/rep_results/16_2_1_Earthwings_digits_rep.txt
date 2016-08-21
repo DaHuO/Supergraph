@@ -1,0 +1,4 @@
+def removeAll numbers digit character word 		16 22
+def remove digit character word 		9 14
+def parse filename with 		39 42
+def digits number numbers = number = removeAll numbers 0 Z ZERO number number = removeAll numbers 		24 37

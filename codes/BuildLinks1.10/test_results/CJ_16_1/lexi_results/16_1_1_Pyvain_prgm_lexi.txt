@@ -1,0 +1,1 @@
+def solve word w = word 0 for c in word 1 if ord c >= ord w 0 w = c + w else w = w + c return w 		4 11

@@ -1,0 +1,1 @@
+b-large.out twonone twonone = open b-large.in t = int file readline out = open w for t in range t n 		6 32

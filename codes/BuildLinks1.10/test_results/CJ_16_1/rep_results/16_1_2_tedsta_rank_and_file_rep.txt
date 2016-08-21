@@ -1,0 +1,2 @@
+def rank_and_file n heights counts = for row_col in 		6 18
+rank_and_file.py <file> if len sys argv < 2 print usage: exit in_file = sys argv 1 		20 33

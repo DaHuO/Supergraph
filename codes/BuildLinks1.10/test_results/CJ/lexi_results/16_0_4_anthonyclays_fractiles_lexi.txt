@@ -1,0 +1,4 @@
+def to_ind inds return sum i * k ** i % c for i in inds 		9 10
+def chunks itr n return itr i i + n for i in range 0 len itr n 		7 8
+def create k c s if c * s < k return none def chunks itr n return itr i i + n for i in range 0 len itr n def to_ind inds return sum i * k ** i % c for i in inds return map to_ind chunks range k c 		4 11
+def case t k c s = map int input split inds = create k c s if inds is none print case #{}: impossible format t else print case #{}: {} format t  join str 1 + ind for ind in inds 		13 19

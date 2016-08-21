@@ -1,0 +1,1 @@
+def process s arrangement = deque s 0 for i in range 1 len s if s i >= arrangement 0 arrangement appendleft s i else arrangement append s i lastword = for el in arrangement lastword append el return join lastword 		4 14

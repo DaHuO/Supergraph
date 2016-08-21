@@ -1,0 +1,1 @@
+find_string string result = for char 		12 24

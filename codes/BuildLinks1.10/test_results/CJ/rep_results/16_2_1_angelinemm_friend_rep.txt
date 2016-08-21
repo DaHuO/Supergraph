@@ -1,0 +1,2 @@
+remove_number code 		20 23
+		6 7

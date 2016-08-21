@@ -1,0 +1,9 @@
+
+With same rare tokens:
+3 - 7 links:
+py_bogo_sort	:	6 - 10
+test_sorts	:	50 - 74
+sorting	:	14 - 16
+sort_bogo	:	9 - 12
+graphsort	:	78 - 85
+

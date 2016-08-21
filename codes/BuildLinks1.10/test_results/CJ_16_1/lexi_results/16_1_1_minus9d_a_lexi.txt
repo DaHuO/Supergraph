@@ -1,0 +1,2 @@
+def main t = int input for t in range t print case # + str t + 1 + : solve 		18 21
+def solve s = input ret = for ch in s if ret == ret += ch else if ret 0 <= ch ret = ch + ret else ret += ch return ret 		5 16

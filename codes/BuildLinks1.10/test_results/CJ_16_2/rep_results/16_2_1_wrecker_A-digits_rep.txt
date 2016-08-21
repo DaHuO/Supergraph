@@ -1,0 +1,2 @@
+ZWXGTROFSE solver case s = case counts = 0 * 10 for i letter in enumerate counts i = s count letter ans = 0 * 10 ans 0 = counts 0 for i in 5 		7 44
+def 		3 5

@@ -1,0 +1,3 @@
+def getnextleft s cur_max for i in range 1 len s if s i >= cur_max return s i return none 		9 13
+def formatoutput n result return case # + str n + : + result + \n 		6 7
+def solveproblem line line = line strip \n result = c = cur_max = line 0 has_left = true while has_left c = getnextleft line cur_max has_left = c != none if has_left result = c + result cur_max = c line = line replace c 1 result += line return result 		16 30

@@ -1,0 +1,5 @@
+def fmt 		17 18
+gennums gennums c j startlen = len c p1 p2 = for d1 d2 in zip c j if d1 == ? p1 append 0 		20 69
+def main infile with open infile as inp open 		71 78
+gennums nextresult nextresult gennums nextresult 		8 15
+getvars ch if ch 		3 6

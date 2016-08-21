@@ -1,0 +1,1 @@
+def find_word word last_word = chars = 		7 19

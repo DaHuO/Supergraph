@@ -1,0 +1,2 @@
+def main with open in r as f open out w as g t = int f readline for i in range t g write case #{}: format i + 1 g write sol f readline strip g write \n 		18 24
+def sol line k c s = map int line split c -= 1 res = for i in range s res append i * k ** c + 1 return  join list map str res 		8 15

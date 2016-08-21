@@ -1,0 +1,2 @@
+max_val max_val max_val p total = sum p moves = if n == 2 while p 0 > p 1 moves append a p 		1 35
+def main t = int input 		37 42

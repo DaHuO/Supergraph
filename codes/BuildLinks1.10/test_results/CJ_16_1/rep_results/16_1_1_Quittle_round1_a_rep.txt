@@ -1,0 +1,7 @@
+assert_is_string 		26 27
+assert_is_numeric_list 		30 32
+assert_is_string main num_cases = int sys stdin readline 		5 19
+		40 41
+def 		22 23
+def compute s ret = for 		44 55
+assert_is_bool_list arr 		35 37

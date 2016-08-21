@@ -1,0 +1,1 @@
+def decrement counts letters for letter in letters counts letter = counts letter - 1 return counts 		2 5

@@ -1,0 +1,2 @@
+def word s result = s 		18 26
+ouf ouf ouf = open sys argv 1 r name = 		4 16

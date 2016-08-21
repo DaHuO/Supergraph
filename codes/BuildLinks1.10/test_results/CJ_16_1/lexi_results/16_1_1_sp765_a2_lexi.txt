@@ -1,0 +1,2 @@
+def solve s t = for c in s if t + c > c + t t = t + c else t = c + t return t 		9 16
+def equal a b return math rabs a - b <= 0.000001 		6 7

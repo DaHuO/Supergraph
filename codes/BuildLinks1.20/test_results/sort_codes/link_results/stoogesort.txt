@@ -1,0 +1,10 @@
+
+With same rare tokens:
+15 - 22 links:
+sort_word_by_other_word	:	8 - 18
+quicksort_solved	:	81 - 115
+sort	:	93 - 104
+quicksort_inplace	:	21 - 25
+test_sorts	:	50 - 74
+py_shell_sort	:	5 - 14
+

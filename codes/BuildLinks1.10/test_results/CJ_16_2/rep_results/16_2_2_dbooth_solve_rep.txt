@@ -1,0 +1,4 @@
+Cperm Jperm Cperm Jperm = CJ 0 J = CJ 1 = genPerms 		41 53
+remainingPerms remainingPerms extra0 extra0 len S == 1 if S == ? return 		8 21
+minVal 0xFFFFFFFF candMin candMin minVal candMin minVal minVal candMin val2cands val2cands val2cands 		23 39
+Need exactly args: not len sys argv == 3 print twos input filename and output filename return 		55 66

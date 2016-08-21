@@ -1,0 +1,2 @@
+def allsame l for each in l if each != l 0 return false return true 		1 5
+def allzero l for each in l if each != 0 return false return true 		7 11

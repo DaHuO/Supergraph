@@ -1,0 +1,1 @@
+def inputints return map int raw_input split 		9 10

@@ -1,0 +1,3 @@
+decode_helper decode line for i in 		36 41
+decode_helper new_possibilities new_result decode_helper new_possibilities new_result decode_helper >= len candidates 		23 34
+def exists line possibilities i matched = 		11 21

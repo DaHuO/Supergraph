@@ -1,0 +1,9 @@
+read_pair_list return int 		5 5
+def 		6 6
+		4 4
+read_pair return 		7 7
+max_value max_value max_value opt2 opt2 opt2 cur_iter_pos_values = rows cur_iter = max cur_iter_pos_values cur_rows = row for row in rows if row cur_iter == other_rows = np array row for row in rows if row cur_iter != assert len cur_rows in 1 2 if len cur_rows == 2 row_1 row_2 = cur_rows res_row = res 		54 101
+		8 8
+astype solve_case args n 		103 107
+def parse_input t = read_int cases 		11 18
+min_value min_value min_value rows cur_iter cur_iter_pos_values = rows cur_iter = min cur_iter_pos_values cur_rows = row for row in rows if row cur_iter == other_rows = np array row for row in 		21 51

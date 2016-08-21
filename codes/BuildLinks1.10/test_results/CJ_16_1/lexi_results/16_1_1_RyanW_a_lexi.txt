@@ -1,0 +1,4 @@
+memo def last_word s letters = iter s new_s = letters next for letter in letters front = new_s 0 new_s = letter + new_s if letter >= front else new_s + letter return new_s 		16 25
+def memo f cache = def _f * args try return cache args except keyerror result = cache args = f * args return result except typeerror return f * args return _f 		1 13
+def _f * args try return cache args 		5 7
+def main t = int raw_input for t in xrange 1 t + 1 s = raw_input print case #{}: {} format t last_word s 		28 32

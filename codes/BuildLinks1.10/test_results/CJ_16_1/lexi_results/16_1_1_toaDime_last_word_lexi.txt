@@ -1,0 +1,1 @@
+def main_code x word = input result = word 0 for c in word 1 if c >= result 0 result = c + result else result = result + c print case # + str x + 1 + : result 		1 9

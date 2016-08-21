@@ -1,0 +1,2 @@
+def solve input return  join solvehelper int i for i in input split  		6 7
+def solvehelper input finished = false output = while not finished most = m = max input s = 0 present = 0 for i in range len input s += input i if input i > 0 present += 1 if input i == m most append i if m > s / 2 print input print m print s print bad if m == 0 return output if len most == 2 and present == 2 a = most 0 b = most 1 input a -= 1 input b -= 1 new = letters a + letters b output append new else a = most 0 input a -= 1 new = letters a output append new 		9 41

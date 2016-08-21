@@ -1,0 +1,1 @@
+def erase str delta for i in str char i -= delta 		3 5

@@ -1,0 +1,1 @@
+lpvariable dicts holes lpinteger lpvariable cat lpinteger lpproblem objective lpminimize factor ovalue ovalue lvalue lvalue len right 0 9 obj = obj = prob = prob += obj for i v in enumerate left if v == ? continue prob 		6 57

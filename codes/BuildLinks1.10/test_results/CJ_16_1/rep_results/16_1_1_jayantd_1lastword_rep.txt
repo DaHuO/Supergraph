@@ -1,0 +1,2 @@
+def main filename = a-large.in f = open filename r 		31 44
+n_max n_max s_rem n_max s_sub_left s_sub_right s_rem s_sub_left s_sub_right s_rem = sorted s reverse = true 0 l 		4 28

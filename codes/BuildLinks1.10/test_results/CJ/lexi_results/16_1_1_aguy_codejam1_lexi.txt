@@ -1,0 +1,1 @@
+def f x if len x == 0 return highestindex = 0 highestletter = x 0 for i c in enumerate x if c > highestletter highestletter = c highestindex = i beginning = f x i middle = end = for c in x i if c == highestletter middle append c else end append c return join middle + beginning + join end 		4 23

@@ -1,0 +1,7 @@
+def clear self self cache = 		26 27
+def __repr__ self return self func __doc__ 		20 22
+def __init__ self func self func = func self cache = 		10 12
+def __call__ self * args if args in self cache return self cache args else value = self func * args self cache args = value return value 		13 19
+def inputints return map int raw_input split 		39 40
+def modpow b e mod res = 1 b = b % mod while e > 0 if e % 2 == 1 res = res * b % mod e = e // 2 b = b * b % mod return res 		29 37
+def __get__ self obj objtype return functools partial self __call__ obj 		23 25

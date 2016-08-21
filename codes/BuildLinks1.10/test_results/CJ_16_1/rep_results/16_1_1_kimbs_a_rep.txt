@@ -1,0 +1,1 @@
+def solve s result = for i 		3 16

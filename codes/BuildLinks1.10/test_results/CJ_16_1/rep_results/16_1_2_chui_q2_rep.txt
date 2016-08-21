@@ -1,0 +1,1 @@
+def solving list numbers = for line in list hs = line 		1 14

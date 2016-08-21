@@ -1,0 +1,2 @@
+A.in A.out mystr mystr r as filein with open w 		45 55
+togli legend togli togli = data = for el in N if data get el 		26 43

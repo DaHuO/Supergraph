@@ -1,0 +1,1 @@
+def last_word word wordlist = list word ans = start = wordlist 0 for i in range len wordlist if wordlist i >= start ans = wordlist i + ans start = wordlist i else ans += wordlist i return ans 		1 12

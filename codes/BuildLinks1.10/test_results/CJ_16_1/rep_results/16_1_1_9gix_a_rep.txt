@@ -1,0 +1,2 @@
+calculate_last_word main t = int 		40 45
+calculate_last_word word last_word = for c in word 		24 37

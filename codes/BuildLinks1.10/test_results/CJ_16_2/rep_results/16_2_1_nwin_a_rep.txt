@@ -1,0 +1,1 @@
+def solve s = raw_input strip dic = defaultdict int for c in s dic 		2 15

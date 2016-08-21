@@ -1,0 +1,3 @@
+m_dict m_dict 		13 15
+hashing getDigits string m_map = string ret = if m_map has_key Z while m_map Z != 0 removeNumber m_map ZERO ret append 0 if m_map has_key G while m_map G != 0 removeNumber m_map 		17 83
+hashing str m_hash = dict 		4 11

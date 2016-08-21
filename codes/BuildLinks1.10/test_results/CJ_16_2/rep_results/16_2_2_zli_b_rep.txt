@@ -1,0 +1,1 @@
+def all_possible c j if ? not in c and ? not 		1 13

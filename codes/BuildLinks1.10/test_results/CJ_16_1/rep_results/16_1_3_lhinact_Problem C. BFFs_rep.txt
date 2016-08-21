@@ -1,0 +1,4 @@
+check_used used kmap for i in 		3 7
+check_used check_used used remain kmap if not remain if used kmap return len used else return 0 cmax = 0 		9 32
+deal_input filename output_name = filename replace .in .out with open filename r as fin 		44 59
+def bffs n kids cmax = 		34 42

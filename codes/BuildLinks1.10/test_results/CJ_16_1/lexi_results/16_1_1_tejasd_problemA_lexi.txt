@@ -1,0 +1,1 @@
+def get_winning_string contest_string contest_string = list contest_string contest_string reverse first_word = deque contest_string pop for num_words in range len contest_string curr_letter = contest_string pop if curr_letter >= first_word 0 first_word appendleft curr_letter else first_word append curr_letter return join first_word 		8 19

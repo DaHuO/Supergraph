@@ -1,0 +1,68 @@
+Direct links:
+49 - 50 links:
+16_3_1_dob_solve	:	14 - 18
+
+
+With same rare tokens:
+134 - 147 links:
+16_2_2_Ha_sH_solver	:	17 - 46
+16_1_2_James777_b	:	34 - 44
+16_2_2_simleo_B	:	46 - 50
+
+55 - 62 links:
+16_2_1_Alastair_phone	:	16 - 32
+16_2_1_Alastair_phone	:	1 - 7
+16_2_1_Alastair_phone	:	16 - 32
+16_2_1_Alastair_phone	:	1 - 7
+16_2_1_Alastair_phone	:	16 - 32
+16_2_1_Alastair_phone	:	1 - 7
+
+124 - 132 links:
+16_2_1_bitbanger_solve	:	42 - 54
+16_2_1_bitbanger_solve	:	42 - 54
+16_2_1_bitbanger_solve	:	42 - 54
+16_2_1_bitbanger_solve	:	42 - 54
+16_2_1_bitbanger_solve	:	42 - 54
+16_2_1_bitbanger_solve	:	42 - 54
+16_1_1_barryd_process	:	78 - 80
+16_3_1_barryd_process	:	92 - 94
+16_2_1_bitbanger_solve	:	42 - 54
+16_2_1_bitbanger_solve	:	42 - 54
+16_1_1_BrandonT_word	:	20 - 23
+
+193 - 243 links:
+16_2_2_ski_b	:	17 - 32
+16_1_1_barryd_process	:	95 - 111
+16_3_1_barryd_process	:	109 - 125
+
+70 - 108 links:
+16_1_2_mdippel_B	:	117 - 125
+16_1_2_mdippel_B	:	8 - 19
+16_2_2_mdippel_B	:	146 - 154
+16_2_2_mdippel_B	:	8 - 15
+16_1_1_barryd_process	:	95 - 111
+16_3_1_barryd_process	:	109 - 125
+16_2_1_bitbanger_solve	:	42 - 54
+16_2_1_bitbanger_solve	:	42 - 54
+16_1_1_BrandonT_word	:	20 - 23
+16_3_1_AndersTornkvist_a	:	243 - 282
+16_3_1_AndersTornkvist_a	:	243 - 282
+16_3_1_AndersTornkvist_a	:	243 - 282
+16_2_2_kulkul_b	:	37 - 61
+
+150 - 191 links:
+16_1_2_James777_b	:	34 - 44
+16_1_2_James777_b	:	34 - 44
+16_2_1_Alastair_phone	:	16 - 32
+16_2_1_Alastair_phone	:	1 - 7
+16_1_2_mdippel_B	:	117 - 125
+16_1_2_mdippel_B	:	8 - 19
+16_2_2_mdippel_B	:	146 - 154
+16_2_2_mdippel_B	:	8 - 15
+16_1_1_barryd_process	:	78 - 80
+16_3_1_barryd_process	:	92 - 94
+
+110 - 118 links:
+16_0_4_AmolBhave_C	:	13 - 15
+16_2_2_luca_wehrstedt_B	:	45 - 48
+

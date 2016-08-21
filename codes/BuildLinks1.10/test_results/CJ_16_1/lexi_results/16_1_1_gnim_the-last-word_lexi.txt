@@ -1,0 +1,1 @@
+def last s rst = for char in s rst = char + rst if char + rst > rst + char else rst + char return rst 		1 5

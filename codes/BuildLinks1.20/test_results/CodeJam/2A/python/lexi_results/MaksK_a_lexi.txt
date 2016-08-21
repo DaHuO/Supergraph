@@ -1,0 +1,2 @@
+def win a b a b = sorted a b if a == p return b if b == s else a return r 		3 7
+def ends arr for j in range n for i in range 2 ** n - j - 1 if arr 2 * i == arr 2 * i + 1 return false arr i = win arr 2 * i arr 2 * i + 1 return true 		13 21

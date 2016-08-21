@@ -1,0 +1,8 @@
+
+With same rare tokens:
+5 - 17 links:
+sorter	:	90 - 100
+
+37 - 40 links:
+bucketsort	:	5 - 19
+

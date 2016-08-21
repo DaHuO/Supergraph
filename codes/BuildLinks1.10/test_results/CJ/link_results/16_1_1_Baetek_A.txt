@@ -1,0 +1,100 @@
+Direct links:
+23 - 37 links:
+16_0_4_Baetek_soln2	:	17 - 31
+16_3_1_Baetek_A	:	89 - 101
+
+
+With same rare tokens:
+23 - 37 links:
+16_0_4_Baetek_soln2	:	17 - 31
+16_3_1_Baetek_A	:	89 - 101
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	17 - 31
+16_3_1_Baetek_A	:	89 - 101
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	17 - 31
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	1 - 15
+16_0_4_Baetek_soln2	:	1 - 15
+
+2 - 19 links:
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_2_1_ChevalierMalFet_digits	:	5 - 105
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+16_1_1_clairical_gameShow	:	7 - 21
+

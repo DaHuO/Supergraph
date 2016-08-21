@@ -1,0 +1,1 @@
+def rank_file lines intset = set for line in lines for i in line if i in intset intset remove i else intset add i missing = for i in intset missing append i missing sort return  join str x for x in missing 		4 21

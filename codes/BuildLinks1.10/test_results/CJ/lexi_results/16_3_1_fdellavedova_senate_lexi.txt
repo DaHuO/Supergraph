@@ -1,0 +1,4 @@
+def get_pair parlamient for a in i for i in parlamient if parlamient i > 0 parlamient a -= 1 for b in i for i in parlamient if parlamient i > 0 parlamient b -= 1 yield a b parlamient b += 1 parlamient a += 1 for a in i for i in parlamient if parlamient i > 0 parlamient a -= 1 yield a parlamient a += 1 		24 36
+def is_balanced parlamient members if members == 0 return true for n_members in parlamient values if float n_members / members > 0.5 return false return true 		3 9
+def main parlamient tot_members return evacuate parlamient tot_members 		39 40
+def evacuate parlamient tot_members evacuating = while tot_members > 0 for pair in get_pair parlamient if is_balanced parlamient tot_members - len pair tot_members -= len pair evacuating append join pair break return evacuating 		11 21

@@ -1,0 +1,2 @@
+number_of_tiles k c 		3 4
+key_tiles k c nt arg = 		6 8

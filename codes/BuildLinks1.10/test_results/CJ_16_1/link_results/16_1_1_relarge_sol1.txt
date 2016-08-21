@@ -1,0 +1,41 @@
+Direct links:
+1 - 8 links:
+16_1_1_hotdogee_a	:	4 - 11
+16_1_1_wilsonhsu_A	:	3 - 10
+16_1_1_brett42_1	:	11 - 19
+16_1_1_pa1_A	:	13 - 20
+16_1_1_mth_a	:	12 - 22
+16_1_1_weitang114_a	:	4 - 11
+16_1_1_zhhthu11_p1	:	3 - 11
+16_1_1_daniil_polykovskiy_sol	:	4 - 11
+16_1_1_bhuztez_A	:	4 - 14
+16_1_1_xerus_a	:	3 - 10
+16_1_1_Qwrk_A	:	2 - 7
+16_1_1_LUR_a	:	2 - 10
+16_1_1_metakirby5_a	:	3 - 11
+16_1_1_gosip_smallA	:	9 - 17
+16_1_1_amanous_solve	:	9 - 17
+16_1_1_Kbo_problem_a	:	6 - 13
+16_1_1_0xb0c5_A	:	1 - 10
+16_1_1_Nol_codeJamA1	:	3 - 10
+16_1_1_MadHatter_A	:	3 - 11
+16_1_1_Qshaman_solution	:	1 - 8
+16_1_1_Swagrov_round1a	:	9 - 16
+16_1_1_PatapSmile_a	:	7 - 15
+16_1_1_Sim007_LastWord	:	1 - 11
+16_1_1_tapomay_solution	:	3 - 10
+16_1_1_Gant_a	:	1 - 8
+16_1_1_DaniTunes_A-lastWord	:	8 - 15
+16_1_1_rainmayecho_a	:	1 - 8
+16_1_1_layersof_A	:	6 - 16
+16_1_1_smirzai_lastWord	:	9 - 18
+16_1_1_jptl_go	:	16 - 24
+16_1_1_Ollie_solve	:	3 - 10
+16_1_1_axk_a	:	3 - 10
+16_1_1_rray_solve	:	1 - 8
+16_1_1_jcb_q1	:	20 - 32
+16_1_1_NateW_a	:	6 - 13
+16_1_1_randomguywithoutaname_A	:	3 - 10
+16_1_1_cptcarrot_proba	:	1 - 8
+16_1_1_MonkeyBoy_the_last_word	:	33 - 40
+

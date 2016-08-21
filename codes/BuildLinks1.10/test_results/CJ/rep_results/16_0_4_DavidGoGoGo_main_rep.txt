@@ -1,0 +1,5 @@
+getlocation templocation templocation templocation templocation 		13 18
+issolvable k c s times 		1 8
+def calc 		10 11
+issolvable gettile f = open input.txt r t = int f readline ofile = 		37 50
+gettile getlocation c s seq = list range 0 k + 1 		20 34

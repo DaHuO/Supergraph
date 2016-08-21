@@ -1,0 +1,1 @@
+maximumlettersandindices characterints currentmaximum currentmaximumindex characterints currentmaximum currentmaximum currentmaximumindex maximumlettersandindices currentmaximum currentmaximumindex prefixarray suffixarray currentindex currentindex maximumletter maximumindex 		9 28

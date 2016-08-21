@@ -1,0 +1,2 @@
+get_ph_digits dgs d = d 0 = count dgs Z ZERO d 2 = count dgs W TWO d 		32 49
+nstr nstr dgs char c 		9 15

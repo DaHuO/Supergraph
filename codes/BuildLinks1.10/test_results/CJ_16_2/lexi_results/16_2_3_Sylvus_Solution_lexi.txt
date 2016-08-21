@@ -1,0 +1,4 @@
+def arbitrary_element iterable return next iter iterable 		13 14
+def min_edge_cover_sub G matching_algorithm = None if matching_algorithm is None matching_algorithm = partial nx max_weight_matching maxcardinality = True maximum_matching = matching_algorithm G min_cover = set maximum_matching items uncovered_nodes = set G - v for u v in min_cover for v in uncovered_nodes u = arbitrary_element G v min_cover add u v min_cover add v u return min_cover 		17 74
+def min_edge_cover G matching_algorithm = None if matching_algorithm is None matching_algorithm = hopcroft_karp_matching return min_edge_cover_sub G matching_algorithm = matching_algorithm 		99 133
+def is_edge_cover G cover return set G <= set chain from_iterable cover 		76 96

@@ -1,0 +1,14 @@
+removeedge self v 		16 17
+_height _height v visited = if v is none 		73 77
+solvequadratic chains chains chains chains int f readline split bf insert 0 none ans = 0 = 		97 118
+graph addedge self rev 		25 30
+heightfrom getheight 		92 94
+heightof 		79 80
+max_path components topologicalorder components topologicalorder = self current_path = 		41 55
+addedge self v w 		10 14
+{}->{}\n __str__ self ans 		32 37
+getheight getheight w height marked marked w = true 		83 89
+def 		22 23
+components components max_path max_path topologicalorder v = self counter self 		57 71
+def 		19 20
+def __init__ 		5 8

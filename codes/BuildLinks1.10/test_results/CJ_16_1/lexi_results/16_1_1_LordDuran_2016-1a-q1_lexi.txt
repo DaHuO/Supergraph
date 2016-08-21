@@ -1,0 +1,1 @@
+def do_case ncase s = list rl new_s = deque s 0 s remove s 0 for c in s if ord c >= ord new_s 0 new_s appendleft c else new_s append c print >> outputfile out_s % ncase str join new_s 		13 22

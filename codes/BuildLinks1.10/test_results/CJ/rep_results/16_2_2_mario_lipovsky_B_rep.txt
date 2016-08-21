@@ -1,0 +1,3 @@
+def better na nb 		20 23
+olda oldb olda oldb = none fillb = none if filla is not none and filla < 0 or filla > 9 or fillb is not none and fillb < 0 or fillb > 9 return 		25 64
+olda oldb olda oldb bestb mindif a b = map list input split besta bestb = mini a mini b mindif = abs besta - bestb def better na nb global besta bestb mindif if abs na - nb < mindif besta bestb mindif = na nb abs na 		13 67

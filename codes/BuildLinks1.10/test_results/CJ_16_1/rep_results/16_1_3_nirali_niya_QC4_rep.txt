@@ -1,0 +1,2 @@
+def check arrange if bffs arrange 0 - 1 != arrange 1 and bffs arrange 0 		12 17
+stds combos stds combos permus permu permus permu 1 		2 10

@@ -1,0 +1,1 @@
+discard solve a n if n == 1 return list a 0 a sort key = lambda x x 0 if a 		4 21

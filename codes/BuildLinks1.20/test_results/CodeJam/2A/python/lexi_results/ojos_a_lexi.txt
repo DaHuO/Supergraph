@@ -1,0 +1,1 @@
+def so c n nn = 2 ** n for i in xrange n p = 2 ** i step = 2 * p for j in xrange 0 nn step a = c j j + p b = c j + p j + step if a > b c j j + p c j + p j + step = b a return c 		8 18

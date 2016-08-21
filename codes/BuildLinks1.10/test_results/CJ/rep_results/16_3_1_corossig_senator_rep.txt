@@ -1,0 +1,2 @@
+def count dist 		7 12
+only_non_zero m_j m_i m_j m_j m_i only_non_zero m_j m_i 		14 24

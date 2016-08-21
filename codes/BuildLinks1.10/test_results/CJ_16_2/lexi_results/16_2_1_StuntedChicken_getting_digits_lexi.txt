@@ -1,0 +1,6 @@
+def read_str return input 		17 18
+def read_char_list return c for c in input split  		20 21
+def read_int return int input 		11 12
+def read_int_list return int n for n in input split  		14 15
+def write_case_ans i ans if isinstance ans list ans = join map str ans print Case #{}: {} format i ans 		23 26
+def main num_strings = ZERO TWO SIX EIGHT THREE FOUR FIVE SEVEN NINE ONE nums = 0 2 6 8 3 4 5 7 9 1 t = read_int for i in range t s = read_str letters = collections defaultdict int for c in s letters c += 1 phone = for numj num in zip nums num_strings num_in_phone = True while num_in_phone letters_copy = copy deepcopy letters for c in num if c not in letters_copy num_in_phone = False break elif letters_copy c < 1 num_in_phone = False break else letters_copy c -= 1 if num_in_phone phone append numj for c in num letters c -= 1 phone sort write_case_ans i + 1 phone 		28 57

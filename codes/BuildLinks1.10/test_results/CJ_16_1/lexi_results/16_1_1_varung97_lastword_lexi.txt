@@ -1,0 +1,1 @@
+def lastword word ans = word 0 for i in word 1 if i >= ans 0 ans = i + ans else ans += i return ans 		3 10

@@ -1,0 +1,1 @@
+def func string d = d W = 0 d U = 0 d G = 0 d Z = 0 d X = 0 d O = 0 d F = 		7 41

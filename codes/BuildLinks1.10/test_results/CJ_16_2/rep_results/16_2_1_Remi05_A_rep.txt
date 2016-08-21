@@ -1,0 +1,2 @@
+solveProblem file line = file readline strip number = 0 * 10 z_count = line count Z if z_count > 0 line = line replace Z z_count replace E z_count replace R z_count replace O z_count number 0 = z_count w_count = line count W if w_count > 0 line = line replace T w_count replace W 		10 64
+formatOutput n result 		6 7

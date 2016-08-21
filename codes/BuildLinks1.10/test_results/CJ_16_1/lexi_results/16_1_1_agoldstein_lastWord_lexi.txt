@@ -1,0 +1,1 @@
+def recursivetry lettersleft word if lettersleft == return word else before = recursivetry lettersleft 1 lettersleft 0 + word after = recursivetry lettersleft 1 word + lettersleft 0 return max before after 		7 13

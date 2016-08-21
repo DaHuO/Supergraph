@@ -1,0 +1,1 @@
+def run casecount = int input for caseindex in range casecount inputvalues = input split  patternlength = int inputvalues 0 complexity = int inputvalues 1 cleansavailable = int inputvalues 2 if cleansavailable < patternlength print case #%d: impossible % caseindex + 1 cleanstr =  join str x + 1 for x in range cleansavailable print case #%d: %s % caseindex + 1 cleanstr 		1 13

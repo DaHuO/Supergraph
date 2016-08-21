@@ -1,0 +1,6 @@
+trial_char trial_char sorted_trial_list sorted_trial_list append_answer 1 for trial 		12 20
+google_input google_input answer.txt answer_file answer_file file_name 		42 49
+append_answer self 		36 37
+params_array params_array params_array params 		6 10
+current_letters current_letters self original_trial_list biggest_letter final_word = final = false 		22 33
+def 		39 40

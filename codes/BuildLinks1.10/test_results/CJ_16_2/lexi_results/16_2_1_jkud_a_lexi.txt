@@ -1,0 +1,2 @@
+def solve word num = wd = for l in word if l in wd wd l += 1 else wd l = 1 for chars in chars_list for c d in chars items while c in wd num append d wd = remove wd words d return join str d for d in sorted num 		20 33
+def remove wd letters for letter in letters wd letter -= 1 if wd letter == 0 del wd letter return wd 		12 17

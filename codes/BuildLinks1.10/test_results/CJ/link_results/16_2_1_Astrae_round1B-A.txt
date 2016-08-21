@@ -1,0 +1,12 @@
+
+With same rare tokens:
+54 - 80 links:
+16_3_1_Astrae_round1C-A	:	10 - 54
+16_3_1_Astrae_round1C-A	:	69 - 101
+16_0_4_dogchaos_fractiles	:	48 - 53
+16_1_2_dogchaos_b	:	43 - 48
+
+10 - 42 links:
+16_3_1_Astrae_round1C-A	:	10 - 54
+16_3_1_Astrae_round1C-A	:	69 - 101
+

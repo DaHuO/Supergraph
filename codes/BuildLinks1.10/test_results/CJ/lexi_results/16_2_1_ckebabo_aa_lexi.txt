@@ -1,0 +1,1 @@
+def foo digit chars num for ch in numbers num chars ord ch -= digit num return chars 		3 7

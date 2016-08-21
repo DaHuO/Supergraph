@@ -1,0 +1,1 @@
+evac_plan s alphabet = a b c d e f g h i j k l m n o p q r s t u 		3 39

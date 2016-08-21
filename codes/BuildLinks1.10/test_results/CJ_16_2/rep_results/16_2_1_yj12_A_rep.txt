@@ -1,0 +1,2 @@
+ndict error!! letter number for ll in number lets 		11 24
+ndict error!! line lets = defaultdict int for a in line lets a += 1 ans = def update letter number for ll in number lets ll -= 		5 47

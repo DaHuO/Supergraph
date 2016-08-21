@@ -1,0 +1,11 @@
+property 		106 107
+mmin mmin x 		4 6
+reset_queue PriorityQueue ry = while not 		34 41
+property 		108 109
+dic_add d x 		8 11
+property 		104 105
+frac 		110 111
+fichier fichier read_elements 		99 102
+cmp_f 0.00000001 y epsilon = if - epsilon 		71 86
+fir_found sec_found PriorityQueue dic_add dic_add Entry reset_queue PriorityQueue ry ry ry Rem fir_found sec_found fir_found sec_found reset_queue pri = l = for _ in range n a = inp str b = inp str l append a b d_first a d_sec b for 		13 63
+read_elements lines 		94 96

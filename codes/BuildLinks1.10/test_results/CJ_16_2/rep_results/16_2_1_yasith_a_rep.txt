@@ -1,0 +1,1 @@
+curs dvals curs cur if cur == 10 return d2 = digits = cur 		2 31

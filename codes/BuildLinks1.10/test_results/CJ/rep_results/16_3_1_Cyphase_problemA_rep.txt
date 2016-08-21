@@ -1,0 +1,1 @@
+p_letters abcdefghijjklmnopqrstuvwxyz p_counts p_letters p_counts max_count final_instruction final_instruction in enumerate iter sys stdin readline 1 = list = list map int input strip split p 		11 35

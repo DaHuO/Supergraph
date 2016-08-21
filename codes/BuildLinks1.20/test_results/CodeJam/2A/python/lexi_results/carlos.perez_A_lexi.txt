@@ -1,0 +1,2 @@
+def solve n r p s wins = p pr r rs s ps solution = none for start in p r s xs = start for n in xrange n nextxs = for x in xs nextxs += wins x xs = nextxs r s p = 0 0 0 for x in xs if x == p p += 1 if x == r r += 1 if x == s s += 1 if r == r and s == s and p == p xs = reorder xs if not solution or xs < solution solution = xs return solution 		10 40
+def reorder xs if len xs == 1 return xs left = reorder xs len xs / 2 right = reorder xs len xs / 2 return min left + right right + left 		1 8

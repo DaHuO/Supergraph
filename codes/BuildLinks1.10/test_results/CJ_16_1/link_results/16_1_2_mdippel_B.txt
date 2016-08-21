@@ -1,0 +1,31 @@
+Direct links:
+22 - 25 links:
+16_1_1_mdippel_A	:	17 - 20
+
+
+With same rare tokens:
+8 - 19 links:
+16_1_1_mdippel_A	:	8 - 14
+16_1_1_mdippel_A	:	45 - 53
+
+22 - 25 links:
+16_1_1_mdippel_A	:	17 - 20
+16_1_1_mdippel_A	:	45 - 53
+
+68 - 92 links:
+16_1_1_mdippel_A	:	34 - 40
+16_1_1_mdippel_A	:	45 - 53
+
+100 - 102 links:
+16_1_1_mdippel_A	:	42 - 43
+16_1_1_sree1111_round1	:	28 - 61
+
+117 - 125 links:
+16_1_1_mdippel_A	:	45 - 53
+16_1_1_mdippel_A	:	8 - 14
+16_1_1_mdippel_A	:	45 - 53
+16_1_1_mdippel_A	:	34 - 40
+16_1_1_mdippel_A	:	45 - 53
+16_1_1_mdippel_A	:	17 - 20
+16_1_1_mdippel_A	:	45 - 53
+

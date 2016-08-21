@@ -1,0 +1,4 @@
+digits_left freq_map for 		15 20
+def main num_tests = int sys stdin readline for 		54 68
+convert_num_freq_to_str num_freq count_i num_freq count_i 		22 31
+check_order digits_left convert_num_freq_to_str number = for l n word in l_count 		33 52

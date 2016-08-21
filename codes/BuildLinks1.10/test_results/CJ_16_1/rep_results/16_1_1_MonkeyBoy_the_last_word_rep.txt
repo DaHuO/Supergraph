@@ -1,0 +1,8 @@
+def to_str l r 		27 32
+def 		12 15
+def read_int 		6 8
+nend nend nend 		17 21
+prepend last_word s r = ll 		33 40
+def main c = 		43 47
+def 		3 4
+prepend 		23 25

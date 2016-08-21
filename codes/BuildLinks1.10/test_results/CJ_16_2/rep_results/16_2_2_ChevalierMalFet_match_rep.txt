@@ -1,0 +1,3 @@
+significant future crossProduct significant future crossProduct == 1 if partialScore 0 == ? return range 10 		93 108
+matchScores score1 score2 digits = len score1 minDiff = 10000 minScore1 = 10000 minScore2 = 10000 		110 127
+checkCompatibility strScore strScore = str score 		85 91

@@ -1,0 +1,1 @@
+analyze caseNumber numberString counts = 0 * 10 letterCounts = let numberString count let for let in letters counts 0 = letterCounts Z letterCounts O -= 		5 42

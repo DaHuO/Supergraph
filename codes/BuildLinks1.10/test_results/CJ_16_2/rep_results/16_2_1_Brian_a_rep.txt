@@ -1,0 +1,2 @@
+def letter_counts s 		3 7
+digit_letter_counts neg neg neg if i == 10 if sum s values == 0 return return None if i == 1 or i == 3 x = min s c for 		25 61

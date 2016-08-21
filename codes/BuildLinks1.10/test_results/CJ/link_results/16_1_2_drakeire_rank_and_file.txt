@@ -1,0 +1,18 @@
+
+With same rare tokens:
+22 - 25 links:
+16_3_1_drakeire_senate_evacuation	:	6 - 13
+16_3_1_drakeire_senate_evacuation	:	20 - 22
+
+27 - 43 links:
+16_0_4_cmroz_solution	:	53 - 67
+16_3_1_9gix_a	:	3 - 23
+
+6 - 13 links:
+16_3_1_drakeire_senate_evacuation	:	6 - 13
+16_3_1_drakeire_senate_evacuation	:	20 - 22
+
+67 - 93 links:
+16_0_4_cmroz_solution	:	53 - 67
+16_3_1_9gix_a	:	3 - 23
+

@@ -1,0 +1,2 @@
+def main cases = int raw_input for case in range 1 cases + 1 word = raw_input strip print Case #%i: % case decifer word 		19 23
+def decifer S S = list S el = for k in keys if len S == 0 break while k in S el append numdic k for letter in strdic k S pop S index letter if len S == 0 break return join map str sorted el 		7 17

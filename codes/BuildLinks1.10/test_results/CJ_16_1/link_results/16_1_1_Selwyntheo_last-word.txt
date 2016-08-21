@@ -1,0 +1,21 @@
+Direct links:
+12 - 22 links:
+16_1_1_CodeSmith_round1A-lastword	:	11 - 21
+
+
+With same rare tokens:
+12 - 22 links:
+16_1_1_CodeSmith_round1A-lastword	:	1 - 9
+16_1_1_CodeSmith_round1A-lastword	:	1 - 9
+16_1_1_CodeSmith_round1A-lastword	:	11 - 21
+
+2 - 10 links:
+16_1_1_SergGr_TaskA	:	10 - 20
+16_1_1_CodeSmith_round1A-lastword	:	1 - 9
+16_1_1_CodeSmith_round1A-lastword	:	1 - 9
+16_1_1_CodeSmith_round1A-lastword	:	1 - 9
+16_1_1_CodeSmith_round1A-lastword	:	11 - 21
+16_1_1_CodeSmith_round1A-lastword	:	1 - 9
+16_1_1_CodeSmith_round1A-lastword	:	1 - 9
+16_1_1_CodeSmith_round1A-lastword	:	11 - 21
+

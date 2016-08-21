@@ -1,0 +1,2 @@
+def solve data idx = Z X W U O R F V G I digits = ZERO SIX 		1 24
+A-input.in A-output.out with open as fin with 		27 33

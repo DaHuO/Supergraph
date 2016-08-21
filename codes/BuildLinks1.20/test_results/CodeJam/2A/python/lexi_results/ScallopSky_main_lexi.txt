@@ -1,0 +1,1 @@
+def spec_sort a l = len a if l == 1 return a mid = l / 2 left = spec_sort a mid right = spec_sort a mid if left > right return right + left else return left + right 		8 20

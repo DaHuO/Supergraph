@@ -1,0 +1,3 @@
+cindices jindices bestscore coptions cindices cindex coption cindices coptions cindex coption joptions jindices jindex joption jindices joptions jindex joption scr scr bestscore bestscore scr == ? = i for 		47 76
+solve_g cbigger cbigger cbigger cbigger list read_word list read_word next_line jbigger = false false for i cl jl in enumerate zip c j if 		8 37
+def score curc curj 		40 44

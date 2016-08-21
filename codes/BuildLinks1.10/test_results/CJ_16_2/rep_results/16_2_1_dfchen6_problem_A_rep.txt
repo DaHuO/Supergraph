@@ -1,0 +1,4 @@
+check_empty count_dict for 		37 41
+countains_digit count_dict i backup = copy deepcopy 		28 35
+get_the_digits s global result result = s 		5 13
+check_empty countains_digit count_dict i num_s global result if count_dict and 		15 26

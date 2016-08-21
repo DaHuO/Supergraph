@@ -1,0 +1,1 @@
+def go s i diff best nn = len s if i == nn c = int join s nn / 2 j = int join 		1 28

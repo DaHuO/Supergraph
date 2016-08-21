@@ -1,0 +1,1 @@
+qq l t = a b c a = while sum l != 0 i = 0 while l i != max l i += 1 l i += - 1 j = 0 if 		1 33

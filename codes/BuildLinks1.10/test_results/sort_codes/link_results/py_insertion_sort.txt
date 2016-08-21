@@ -1,3 +1,4 @@
+Direct links:
 6 - 16 links:
 insertion-sort	:	4 - 13
 py_shell_sort	:	16 - 26

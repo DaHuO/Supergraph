@@ -1,0 +1,1 @@
+def solve s freqs = defaultdict int for i in s 		9 24

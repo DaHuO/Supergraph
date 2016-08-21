@@ -1,0 +1,1 @@
+def get_digits filename d = ZERO 0 ONE 1 TWO 2 THREE 3 FOUR 4 FIVE 5 SIX 6 SEVEN 7 EIGHT 8 NINE 9 num = k list v for v k in d iteritems with open filename r as f T = int f readline rstrip for t in xrange T S = f 		3 53

@@ -1,0 +1,1 @@
+def main T = int raw_input case = 1 numbers = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE while 		4 34

@@ -1,0 +1,1 @@
+def fun s word = s 0 for i in xrange 1 len s if s i >= word 0 word = s i + word else word = word + s i return word 		5 12

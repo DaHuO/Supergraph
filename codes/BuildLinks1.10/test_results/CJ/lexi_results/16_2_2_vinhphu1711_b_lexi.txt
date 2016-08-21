@@ -1,0 +1,1 @@
+def test n1 n2 for i in range len n2 if n2 i != ? and n1 i != n2 i return false return true 		3 9

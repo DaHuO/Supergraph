@@ -1,0 +1,2 @@
+bestval cnum jnum cnum jnum cnum jnum cnum jnum bestval bestval = len j for 		17 29
+def matches ref num2 		10 14

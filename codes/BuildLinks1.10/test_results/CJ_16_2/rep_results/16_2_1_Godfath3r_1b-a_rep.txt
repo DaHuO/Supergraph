@@ -1,0 +1,1 @@
+are_all_chars_in number string for 		7 13

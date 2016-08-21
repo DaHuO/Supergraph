@@ -1,0 +1,1 @@
+def f string if len string == 		1 10

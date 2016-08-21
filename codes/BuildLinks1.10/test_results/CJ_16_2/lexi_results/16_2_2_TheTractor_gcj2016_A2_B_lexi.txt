@@ -1,0 +1,1 @@
+def find_qm s return k for k in xrange len s if s k == ? 		3 4

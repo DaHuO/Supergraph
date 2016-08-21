@@ -1,0 +1,2 @@
+letterCheck string dic = numbers = 0 * 10 for l in string dic setdefault l 0 dic l += 1 if Z in dic if dic Z > 0 dic E -= dic Z dic R -= dic Z dic O -= dic Z numbers 0 += dic Z dic Z = 0 if U in dic if dic U > 0 dic O -= dic U 		1 74
+letterCheck main fil = open input.txt r output = 		80 89

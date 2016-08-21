@@ -1,0 +1,2 @@
+numberDict zindex zindex zindex eindex eindex eindex rindex rindex rindex tindex tindex tindex windex windex windex returnList returnList returnList > 0 if Z in digitString = digitString find Z digitString = digitString + digitString + 1 = digitString find E digitString = digitString + digitString + 1 = digitString 		8 88
+numberDict numberDict numberDict digit = ZERO ONE TWO 		1 6

@@ -1,0 +1,1 @@
+def solve inp h = defaultdict int for line 		5 14

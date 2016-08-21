@@ -1,0 +1,1 @@
+can_subtract can_subtract can_subtract tmp_counts tmp_counts tmp_counts t > 9 return None s = 0 for c in counts keys s 		15 36

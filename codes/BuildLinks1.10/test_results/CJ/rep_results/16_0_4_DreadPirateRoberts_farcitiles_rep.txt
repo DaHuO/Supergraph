@@ -1,0 +1,4 @@
+find_loc l k loc 		19 23
+par par_l par par_l par_l par_l 1 if len 		11 17
+farcitiles locs find_loc locs bounds locs < k 		1 9
+farcitiles printable_res printable_res = int input for t in range 1 		25 31

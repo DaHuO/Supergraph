@@ -1,0 +1,1 @@
+esq solve ns res = = sum ns p = sorted n pp i for i n in enumerate ns 		22 40

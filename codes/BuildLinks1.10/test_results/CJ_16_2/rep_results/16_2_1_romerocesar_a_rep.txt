@@ -1,0 +1,3 @@
+clean clean({}, {}) candidate: cleaned: format s candidate if len 		19 31
+def init words = ZERO ONE TWO THREE 		9 17
+phone_number({}) clean s logging debug format s if not s 		34 49

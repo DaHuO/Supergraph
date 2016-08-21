@@ -1,0 +1,2 @@
+map_to_position generation generation = length 		4 6
+inputf outputf inputf outputf map_to_position f with open w as w t = 		8 18

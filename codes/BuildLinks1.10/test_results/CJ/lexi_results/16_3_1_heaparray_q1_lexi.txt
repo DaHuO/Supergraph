@@ -1,0 +1,10 @@
+def tochar ind return chr 97 + ind upper 		45 46
+def __init__ self pararr self pararr = pararr 		21 22
+def writetofile results outfilestr outfile = open outfilestr w try resultarr = psoutformat i results i for i in range len results outfile writelines resultarr 		70 74
+def parsenum line return int line 		60 61
+def findmaxind arr ind = maxa = 0 for i in range len arr if arr i > maxa ind = i maxa = arr i elif arr i == maxa ind append i return ind 		48 58
+def parsefile infilename infile = open infilename t = parsenum infile readline problemarr = for k in range t n = parsenum infile readline pararr = parsevec infile readline problemarr append problemset pararr infile close return problemarr 		8 17
+def solveproblemset ps = parsefile infilepath results = for i in range len ps results append solveps ps i writetofile results outfilepath print done! 		78 84
+def solveps ps pararr = ps pararr out = s = sum pararr while s > 0 maxind = findmaxind pararr if s == 1 or s == 3 out append tochar maxind 0 pararr maxind 0 -= 1 s -= 1 elif len maxind > 1 out append tochar maxind 0 + tochar maxind 1 pararr maxind 0 -= 1 pararr maxind 1 -= 1 s -= 2 else out append tochar maxind 0 pararr maxind 0 -= 1 s -= 1 return  join out 		24 43
+def psoutformat iternum res return case #{0}: {1}\n format iternum + 1 res 		67 68
+def parsevec line vecvalues = line split seperator return int value for value in vecvalues 		63 65

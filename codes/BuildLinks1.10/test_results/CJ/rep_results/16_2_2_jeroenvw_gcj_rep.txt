@@ -1,0 +1,13 @@
+def 		49 50
+input: line l = 		36 42
+profile profile cprofile pstats cprofile 		55 62
+loadlib haslib lib compileinfo lib 		124 132
+def 		46 48
+vprint 		52 53
+optparse optionparser --run --outfd -v --verbose -d --debug -q --quiet -p --profile -- outfd fdopen outfd loadlib profile processinput compileifneeded cmd hasattr cmd loadlib cmd pprint mastermain mastermain action = 		150 191
+haslib compileinfo 		120 122
+mastermain getmtime matched %r too many matched %r: [%s] processing %r... infn tmpfn goodfn infn infn fdin tmpfn fdout quiet /dev/null subprocess call --run --outfd=%d fdout fileno fdin tottime %.3fs tottime exitcode rename tmpfn goodfn subprocess call -sdu goodfn >>> <<< %.3fs tottime f in 		193 243
+compileifneeded haslib compileinfo getmtime getmtime uptodate compiling into %s... -g -g -o3 subprocess 		134 147
+processinput outwriters nones 80 processing %d... haslib lib reset outwriters nones answer: warning: consumed! nones warning: returned nones outwriters outwriters warning: some, but all, produced print 		70 108
+def 		43 44
+compileinfo partition %s.cpp libdbg.so lib.so os path 		110 118

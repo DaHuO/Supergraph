@@ -1,3 +1,4 @@
+Direct links:
 7 - 15 links:
 pysort	:	31 - 44
 sorting_algorithms	:	1 - 22

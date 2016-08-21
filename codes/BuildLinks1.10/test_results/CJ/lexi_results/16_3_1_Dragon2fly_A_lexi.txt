@@ -1,0 +1,1 @@
+def get_largest return party for party in book if book party == max book values 		6 7

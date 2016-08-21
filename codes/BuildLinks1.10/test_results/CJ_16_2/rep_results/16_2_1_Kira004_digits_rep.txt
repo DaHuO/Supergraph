@@ -1,0 +1,1 @@
+def digits self x d = for c in x if c in d d c += 1 else d c = 1 dig = 0 ZERO 1 ONE 2 		3 32

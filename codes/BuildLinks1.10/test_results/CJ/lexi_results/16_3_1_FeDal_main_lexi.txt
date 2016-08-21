@@ -1,0 +1,2 @@
+def solver senators order = while sum senators > 0 if not isvalidroom senators print wrong print order print senators raise assertionerror new_senators = senators party = np argmax new_senators new_senators party = new_senators party - 1 if isvalidroom new_senators order append party else party2 = np argmax new_senators new_senators party2 = new_senators party2 - 1 order append party party2 senators = new_senators return order 		13 35
+def isvalidroom senators maxparty = max senators total = sum senators if maxparty / float total <= 0.5 return true else return false 		5 11

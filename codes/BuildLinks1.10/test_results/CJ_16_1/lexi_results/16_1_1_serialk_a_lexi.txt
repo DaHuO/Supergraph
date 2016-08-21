@@ -1,0 +1,1 @@
+def soluce s r = local_max = none for i c in enumerate s if local_max is none or local_max <= c r = c + r local_max = c else r += c return r 		1 10

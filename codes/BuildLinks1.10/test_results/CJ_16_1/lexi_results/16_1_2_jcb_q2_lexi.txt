@@ -1,0 +1,1 @@
+def solve t counts = for i in t for j in i counts j = counts get j 0 + 1 in_final = set for i in counts keys if counts i % 2 == 1 in_final add i return  join str x for x in sorted list in_final 		7 19

@@ -1,0 +1,2 @@
+def process S d answer 		14 19
+def doCase S 		21 24

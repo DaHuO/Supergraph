@@ -1,0 +1,4 @@
+solveAll 		41 42
+lts lts 		8 11
+lts lts s letters = list s result = def removeAll digit for l in letters remove l result append digit 		5 39
+printAll lines for 		44 46

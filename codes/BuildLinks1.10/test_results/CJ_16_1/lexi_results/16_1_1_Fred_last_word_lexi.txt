@@ -1,0 +1,2 @@
+def read_instance self f return f readline strip 		4 5
+def solve_instance self input candidates = input 0 new = for l in input 1 for c in candidates new append l + c new append c + l candidates = new new = return sorted candidates - 1 		7 18

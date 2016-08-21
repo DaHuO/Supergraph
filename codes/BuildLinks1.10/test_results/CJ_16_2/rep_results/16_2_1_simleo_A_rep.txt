@@ -1,0 +1,5 @@
+write_result idx 		56 57
+make_parser write_result argv parser = args = parser parse_args argv 1 		67 79
+RuntimeError ERROR: n: number = counts = Counter case while G in counts number append 8 counts -= Counter EIGHT while U in counts number append 4 counts -= Counter FOUR 		15 53
+def read_input f 		9 12
+make_parser -i --in_ FILE --out 		60 64

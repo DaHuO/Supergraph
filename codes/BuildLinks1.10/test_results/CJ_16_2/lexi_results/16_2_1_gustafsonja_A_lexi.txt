@@ -1,0 +1,3 @@
+def has m1 m2 return all m1 l >= m2 l for l in letters 		20 21
+def mult s m = for l in letters m l = 0 for c in s m c += 1 return m 		10 16
+def n m min = 0 for i in range min 10 if has m dmult i newm = l m l - dmult i l for l in letters if all newm l == 0 for l in letters return str i rest = n newm i if rest return str i + rest return None 		23 32

@@ -1,0 +1,6 @@
+def 		16 17
+def 		10 11
+def read_ints 		13 14
+def main num_cases = read_int for case 		34 42
+def read_floats 		19 20
+def solve s end = if len 		22 32

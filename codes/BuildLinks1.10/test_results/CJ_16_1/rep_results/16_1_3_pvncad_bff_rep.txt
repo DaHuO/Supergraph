@@ -1,0 +1,3 @@
+can_add can_add bffs curr seen = set curr best_ans = if is_good bffs curr best_ans = curr for 		23 48
+can_add is_left is_left s if len curr 		3 12
+def is_good bffs curr for i 		14 21

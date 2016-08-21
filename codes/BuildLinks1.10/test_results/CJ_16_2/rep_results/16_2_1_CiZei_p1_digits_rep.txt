@@ -1,0 +1,5 @@
+read_and_solve case_count = int sys stdin readline 		46 51
+get_letter_count input_str ret 		21 25
+get_letter_count existing_nums digit_check_order has_letters existing_nums 		37 44
+decrement_letter_count letter_count 		33 35
+has_letters letter_count digit 		27 31

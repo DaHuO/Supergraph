@@ -1,0 +1,9 @@
+def search_result rows cols 		101 106
+find_valid_col_inds col_valid rows cols 		86 91
+print_board find_valid_row_inds find_valid_col_inds lists rows cols depth = 0 if debug n rows cols depth if not lists return search_result 		22 36
+def solve n = input lists = for i in range 		8 19
+print_board indent indent indent %4d 0 grid = none for i in range n for j in range n for i 		109 135
+row_valid invalid invalid row2 n row for i r col in enumerate zip row cols if col if col 		40 61
+def main t 		3 6
+col_valid invalid invalid col2 n col for i c row in enumerate zip col rows if row if row 		63 84
+find_valid_row_inds row_valid rows cols 		94 99

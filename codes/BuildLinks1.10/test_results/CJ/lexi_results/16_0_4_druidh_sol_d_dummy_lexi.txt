@@ -1,0 +1,2 @@
+def sumcol mat col_sum = for j in xrange len mat 0 temp = 0 for i in xrange len mat temp += mat i j col_sum append temp return col_sum 		13 20
+def evoluciona cur_mat ini mat = for i in cur_mat if i == 1 mat extend 1 * len ini else mat extend ini return mat 		4 11

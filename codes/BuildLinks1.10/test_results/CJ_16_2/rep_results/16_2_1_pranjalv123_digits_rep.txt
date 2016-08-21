@@ -1,0 +1,1 @@
+def digits s output = count = Counter s lower while count z output append 0 count z -= 1 count e -= 1 count r -= 1 count o -= 1 while count w output append 2 count t -= 1 count w -= 		29 106

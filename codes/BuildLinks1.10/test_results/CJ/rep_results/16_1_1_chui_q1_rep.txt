@@ -1,0 +1,1 @@
+def solving string l = len string 		4 13

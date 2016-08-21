@@ -1,0 +1,4 @@
+def run pool = none inp = sys argv 1 outp = %s.out % inp split . 0 with open inp r 		8 30
+def solve_wrapper args 		32 35
+cols2 cols2 cols2 rows cols = set 		40 48
+def solve n lines_rows for possible_rows in combinations range 2 * n 		50 61

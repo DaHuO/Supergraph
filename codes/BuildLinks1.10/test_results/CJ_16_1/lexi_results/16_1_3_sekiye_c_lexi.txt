@@ -1,0 +1,1 @@
+def solve n = int raw_input v = map int raw_input split s = range 1 n + 1 max_ = 0 for i in range 1 n + 1 - 1 for x in itertools combinations s i for y in itertools permutations x ok = true for j in xrange i if y j + 1 % i == v y j - 1 or y j - 1 + i % i == v y j - 1 pass else ok = false break if ok max_ = max max_ i return max_ 		3 20

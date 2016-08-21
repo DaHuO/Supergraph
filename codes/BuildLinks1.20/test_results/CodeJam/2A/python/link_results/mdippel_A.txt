@@ -1,0 +1,14 @@
+
+With same rare tokens:
+57 - 66 links:
+mxx_A	:	7 - 36
+mth_A	:	55 - 83
+fandersen_GCJ	:	109 - 142
+KennyCz_prob1	:	32 - 41
+
+69 - 72 links:
+romd_RPS	:	8 - 19
+elcapovarela_showdown	:	6 - 83
+klolos_jam	:	25 - 51
+zhhthu11_p1	:	3 - 16
+

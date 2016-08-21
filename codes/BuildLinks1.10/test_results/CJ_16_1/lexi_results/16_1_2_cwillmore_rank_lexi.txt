@@ -1,0 +1,2 @@
+def readline return fp readline strip 		5 6
+def solve n rows counts = counter x for row in rows for x in row missing = x for x j in counts iteritems if j % 2 != 0 missing sort return missing 		8 12

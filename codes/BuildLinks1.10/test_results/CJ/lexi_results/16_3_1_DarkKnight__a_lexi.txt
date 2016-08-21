@@ -1,0 +1,1 @@
+def solve p esc = while sum p > 0 num x = max v i for i v in enumerate p sen = chr 65 + x if num * 2 > sum p sen += esc pop esc append sen p x -= 1 return  join esc 		1 11

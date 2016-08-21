@@ -1,0 +1,1 @@
+def solve array items = for line in array for x in line items append x items = list sorted items missing = for v in set items if items count v % 2 missing append v return  join str x for x in sorted missing 		6 21

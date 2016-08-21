@@ -1,0 +1,2 @@
+def solve c j best = none bestval = 0 0 l = len j for cnum in range 0 10 ** l for jnum in range 0 10 ** l c = str cnum zfill l j = str jnum zfill l if matches c c and matches j j if best is none or abs cnum - jnum < abs best 0 - best 1 best = cnum jnum bestval = c j return  join bestval 		17 29
+def matches ref num2 for i c in enumerate ref if c != ? and c != num2 i return false return true 		10 14

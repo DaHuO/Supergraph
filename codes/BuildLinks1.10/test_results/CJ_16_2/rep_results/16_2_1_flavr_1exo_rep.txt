@@ -1,0 +1,3 @@
+hacky_hack phone line output 		76 84
+def remove_from line number j = 0 for i 		1 12
+hacky_hack line output while len line > 0 while True cool_line = set line if Z in cool_line line = remove_from line ZERO output append 0 elif W in cool_line line = remove_from line 		15 73

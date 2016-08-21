@@ -1,0 +1,2 @@
+org_word org_word f case_num print_info = line = f readline = list 		8 27
+load_info f 		3 6

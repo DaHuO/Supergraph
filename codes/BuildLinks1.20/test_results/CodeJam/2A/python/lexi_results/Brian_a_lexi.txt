@@ -1,0 +1,2 @@
+def solve r p s depth if r + p + s == 1 if r == 1 return r if p == 1 return p return s rp = r + p - s / 2 ps = p + s - r / 2 sr = s + r - p / 2 if rp < 0 or ps < 0 or sr < 0 return none sub = solve sr rp ps depth + 1 if sub is none return none return join backwards c depth + 1 for c in sub 		13 30
+def backwards c depth if c == p return pr elif c == r if depth >= 2 return sr return rs else if depth >= 3 return sp return ps 		1 11

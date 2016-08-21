@@ -1,0 +1,9 @@
+def d fname fin = open fname + .in lines = fin readlines t = 		87 100
+def jamcoin j n b = bin j 2 s = 1 + 		61 71
+impossible fractile k c s if 		102 107
+flips flips print stack if false not in 		33 40
+def word line acc = for 		11 20
+def a fname fin = open fname + .in lines 		1 9
+def isprime n if n <= 1 return false 		75 85
+:\n c fname fin = open fname + .in lines = fin readlines t = int lines 0 fout 		42 59
+flips b fname fin = open fname + .in lines = fin 		22 31

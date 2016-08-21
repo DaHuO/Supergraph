@@ -1,0 +1,1 @@
+def solve word res = 		26 34

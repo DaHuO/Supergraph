@@ -1,0 +1,1 @@
+def solve p k c 		16 19

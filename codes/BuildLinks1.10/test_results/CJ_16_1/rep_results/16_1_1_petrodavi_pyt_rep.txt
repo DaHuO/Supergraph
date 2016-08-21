@@ -1,0 +1,2 @@
+_reply main global name if len sys argv > 1 name = sys argv 		17 42
+def algo1 tt word buff = word 		5 15

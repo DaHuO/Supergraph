@@ -1,0 +1,1 @@
+def run n inp ns = for vv in 		7 14

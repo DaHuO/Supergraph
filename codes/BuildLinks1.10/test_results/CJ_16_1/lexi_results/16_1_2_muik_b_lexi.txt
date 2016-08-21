@@ -1,0 +1,1 @@
+def solve n map = for i in range 2 * n - 1 line = f readline strip cols = line split  for col in cols if map has_key col map col += 1 else map col = 1 nums = for key count in map items if count % 2 != 0 nums append int key return  join str n for n in sorted nums 		5 20

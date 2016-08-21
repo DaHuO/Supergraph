@@ -1,0 +1,1 @@
+def checkNumTimes key tempDict if key in tempDict keys return tempDict key return 0 		9 12

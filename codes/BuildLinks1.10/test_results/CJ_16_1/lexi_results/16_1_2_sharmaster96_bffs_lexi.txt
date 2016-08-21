@@ -1,0 +1,1 @@
+def epilogue result num out_file write case # + str num + 1 + : + result + \n 		1 2

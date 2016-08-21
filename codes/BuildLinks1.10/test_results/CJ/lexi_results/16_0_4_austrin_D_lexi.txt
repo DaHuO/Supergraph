@@ -1,0 +1,1 @@
+def solve k c s = map int inp readline split if s * c < k print impossible return at = 0 seen = set for i in range s out = 0 for i in range c out += at * k ** c - i - 1 at = at + 1 % k assert out < k ** c if out in seen continue seen add out outp write %s % out + 1 print 		6 23

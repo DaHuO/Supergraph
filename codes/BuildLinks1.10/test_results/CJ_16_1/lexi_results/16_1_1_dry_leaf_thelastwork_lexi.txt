@@ -1,0 +1,1 @@
+def get_lastword my_word = s 0 for c in s 1 if c >= my_word 0 my_word = c + my_word else my_word += c return my_word 		4 11

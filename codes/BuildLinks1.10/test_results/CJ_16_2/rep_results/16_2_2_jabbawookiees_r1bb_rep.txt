@@ -1,0 +1,4 @@
+IMPOSSIBLE! brute_force aa bb if len aa == 0 yield return if aa 0 == ? and bb 0 == ? for a b in brute_force aa 1 bb 1 yield 0 + a 0 + b yield 1 + minimize aa 1 0 + maximize bb 1 yield 0 + maximize aa 1 		11 48
+def maximize aa 		7 8
+def minimize aa 		3 4
+def difference a 		51 54

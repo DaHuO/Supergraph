@@ -1,0 +1,3 @@
+is_prime n if n % 2 == 		3 9
+maxcount solve n x f res i = 0 counter = = 0 reslist = while i 		11 28
+c://codejam/b1large.in c://codejam/b1large.out f = open r res 		30 38

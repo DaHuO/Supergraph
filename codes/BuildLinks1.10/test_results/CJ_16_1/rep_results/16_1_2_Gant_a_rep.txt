@@ -1,0 +1,1 @@
+def abc n f cnt_num = dict for n in range n 		1 15

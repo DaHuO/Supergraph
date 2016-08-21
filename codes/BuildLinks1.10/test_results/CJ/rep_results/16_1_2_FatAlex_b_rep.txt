@@ -1,0 +1,17 @@
+test_solutions until_first_fail load_cases verify_outcome outcome! outcome: until_first_fail \n\n cn 		103 116
+find_max_pos lines p max_v = 		30 33
+find_missing_max find_max_pos lines = list lines for p in xrange len 		45 55
+read_list f 		6 7
+		118 120
+load_cases load_single_case with open path 		16 22
+outcome_string outcome 		76 77
+find_min_pos lines p min_v = 		26 29
+read_tuple 		8 9
+def read_line 		1 5
+mmin mminc find_missing_min mmax mmaxc find_missing_max mmin mmax mminc mmaxc 		58 69
+find_missing_min find_min_pos lines = list lines for p in xrange len 		34 44
+test_solutions_gen until_first_fail gen_cases verify_outcome outcome! outcome: until_first_fail \n\n 		122 135
+path_out path_out path_out rsplit load_cases outcomes 		84 89
+save_outcomes outcomes outcomes outcome_string path 		80 83
+verify_outcome 		99 101
+load_single_case read_tuple read_list 		11 13

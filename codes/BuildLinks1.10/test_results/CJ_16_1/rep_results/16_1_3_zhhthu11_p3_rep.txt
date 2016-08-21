@@ -1,0 +1,2 @@
+linkednode checknode currdis currdis checknode checknode linkednode currdis 0 head ret = 0 		3 16
+supernode supernode supernode supernode supernode raw_input edge = int x - 1 for x in raw_input split  link = for i in range n for i in range n link 		18 52

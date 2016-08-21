@@ -1,0 +1,2 @@
+islegal conf for 		10 15
+islegal islegal conf if sum conf == 0 return for comb in combinations range n 2 if conf comb 		17 42

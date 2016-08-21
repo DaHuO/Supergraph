@@ -1,0 +1,2 @@
+read_problem_file length_ranks n_ranks length_ranks n_ranks n_ranks length_ranks formatted file! all_file = out_file readlines out_file close n_problems = int 		17 45
+def rank_file n rank_lines solution = rank_lines 		48 60

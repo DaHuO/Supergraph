@@ -1,0 +1,2 @@
+toascii solve sd = dict i e for i e in enumerate s ks = sd keys sol = global s while s > 2 vals = np array sd 		9 46
+toascii 		6 7

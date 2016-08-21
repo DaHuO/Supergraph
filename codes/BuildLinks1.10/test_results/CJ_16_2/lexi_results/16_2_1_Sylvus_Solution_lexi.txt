@@ -1,0 +1,2 @@
+def count_letter word l count = 0 for w in word if w == l count += 1 return count 		19 24
+def remove_letter word l new_word = first_occ = True for w in word if w == l and first_occ first_occ = False else new_word += w assert first_occ == False return new_word 		6 16

@@ -1,0 +1,1 @@
+_t _t fin fout t = int fin readline strip for in range 1 t + 1 n = int fin readline strip tmp = map int fin readline strip split p = idx 		6 35

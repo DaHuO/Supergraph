@@ -1,0 +1,1 @@
+def solve solds hist = dict for i in range len solds 		5 23

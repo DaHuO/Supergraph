@@ -1,0 +1,1 @@
+def findNum inputstr result = while len inputstr > 0 if Z in inputstr result append 0 inputstr = inputstr replace Z 1 inputstr = inputstr replace E 1 inputstr = inputstr replace R 1 inputstr = inputstr replace O 1 continue if W in inputstr result append 2 inputstr = inputstr replace T 1 inputstr = inputstr replace W 1 inputstr = inputstr replace O 		1 98

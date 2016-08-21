@@ -1,0 +1,1 @@
+lastword-large.out main of = open w 1 with open a-large.in r as f count = 		3 25

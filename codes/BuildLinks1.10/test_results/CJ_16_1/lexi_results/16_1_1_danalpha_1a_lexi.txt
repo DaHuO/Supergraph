@@ -1,0 +1,1 @@
+def solve cipher front = cipher 0 back = for c in cipher 1 if c >= front len front - 1 front append c else back append c front reverse front extend back return join front 		5 16

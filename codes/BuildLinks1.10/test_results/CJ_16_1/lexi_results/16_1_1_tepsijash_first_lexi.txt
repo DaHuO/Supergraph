@@ -1,0 +1,2 @@
+def main fin = fileinput input t = int next fin for case in range 1 t + 1 x = next fin strip y = get_max x print case #{}: {} format case y 		16 22
+def get_max x y = x 0 for i in range 1 len x if ord x i >= ord y 0 y = x i + y else y = y + x i return join y 		6 13

@@ -1,0 +1,2 @@
+unique_letters_stages words_map s cnt = Counter for letter in s 		38 50
+get_unique_letters functools or_ = for letter in reduce operator set word 		12 24

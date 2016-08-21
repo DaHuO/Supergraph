@@ -1,2 +1,2 @@
-selectionsort Ismallest Ismallest Ismallest Ismallest range 		8 14
+selectionsort array for i in range 		8 14
 def swap array 		3 6

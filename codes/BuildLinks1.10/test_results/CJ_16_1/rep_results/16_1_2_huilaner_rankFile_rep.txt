@@ -1,0 +1,3 @@
+rststr rststr rststr rststr = rst = = for s in list ary = s split 		14 35
+def readfile 		6 12
+name: testnum testtotal: testnum testnum sys argv 1 r+ rfile = open sys argv 2 r+ print file file 		39 58

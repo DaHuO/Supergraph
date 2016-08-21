@@ -1,0 +1,2 @@
+qualifa nbr resultat = max1 = 0 if l 1 > l 0 max1 = 1 max2 = 0 else max1 = 0 		10 54
+reall reall reall reall qualifa reall = output.txt with open ifn as inf with open ofn w as 		69 101

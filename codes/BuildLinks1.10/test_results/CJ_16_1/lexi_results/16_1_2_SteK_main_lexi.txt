@@ -1,0 +1,5 @@
+def solve self print ############ case : + str self id_case for h in range 1 2501 if self compte_taille h % 2 != 0 self res append str h 		25 29
+def compte_taille self h res = 0 for l in self soldiers for s in l if h == s res += 1 break return res 		31 38
+def write_output self file file write case # + str self id_case + : +  join self res + \n 		22 23
+def __init__ self id_case file_in file_out self res = self number = none self id_case = id_case self soldiers = self res = self n = 0 self read file_in self solve self write_output file_out 		2 12
+def read self file self n = int file readline for i in range 2 * self n - 1 temp = file readline split self soldiers append for i in temp self soldiers - 1 append int i 		13 19

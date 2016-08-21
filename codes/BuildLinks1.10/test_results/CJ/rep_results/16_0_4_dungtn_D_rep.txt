@@ -1,0 +1,2 @@
+def main f = open sys argv 1 r t 		12 18
+gen_tiles piece piece tiles 		4 11

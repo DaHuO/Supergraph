@@ -1,0 +1,1 @@
+def lastword s new = 		1 8

@@ -1,0 +1,7 @@
+sim a b 		62 65
+def eq c j t x = zip c j ans = for a b 		3 22
+minn c def 		25 31
+maxx c def 		34 40
+def f 		26 30
+def f 		35 39
+eee c j x = zip c j ans = for a b in 		42 60

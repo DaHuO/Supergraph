@@ -1,0 +1,4 @@
+num_of_parties handle_case = int 		42 48
+party_letter party_letter party_senators party_senators party_letter party_senators party_letter party_senators sum senators plan = for party_num in enumerate ascii_uppercase len senators parties 		13 39
+num_of_tests num_of_tests printable_result handle_result printable_result 		56 64
+handle_result 		51 53

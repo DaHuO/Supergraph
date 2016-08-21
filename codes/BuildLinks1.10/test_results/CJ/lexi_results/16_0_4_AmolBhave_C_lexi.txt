@@ -1,0 +1,1 @@
+def partition i j n idx x = i + idx - 1 * j - i / n return x x + j - i / n 		13 15

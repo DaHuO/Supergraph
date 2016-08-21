@@ -1,0 +1,1 @@
+transform nums s s = s format * 		3 8

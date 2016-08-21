@@ -1,0 +1,6 @@
+def readfile inputfilename inputfile = open sys argv 1 numtestcases = int inputfile readline for i in range numtestcases n r p s = int num for num in inputfile readline split print case # + str i + 1 + : + str rps n r p s 		5 10
+def checkcounter s r p s c = counter s if c p == p and c r == r return 1 return 0 		29 33
+def rps n r p s if abs r - p > 1 or abs r - s > 1 or abs p - s > 1 return impossible if p == 0 return rs else ans1 = getwinningstring p n ans2 = getwinningstring r n ans3 = getwinningstring s n if checkcounter ans1 r p s return fixans ans1 if checkcounter ans3 r p s return fixans ans3 return fixans ans2 		45 58
+def fixans s if len s == 1 return s first = fixans s len s / 2 second = fixans s - len s / 2 if first < second return first + second return second + first 		35 43
+def getmatch winner if winner == p return pr if winner == r return rs if winner == s return ps 		12 18
+def getwinningstring winnerstr n newstr = for i in range n newstr = for char in winnerstr newstr += getmatch char winnerstr = newstr return newstr 		20 27

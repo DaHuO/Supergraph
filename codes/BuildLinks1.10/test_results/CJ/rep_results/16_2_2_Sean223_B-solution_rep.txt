@@ -1,0 +1,5 @@
+brute_force_solution best_so_far_c best_so_far_j best_so_far_diff does_c_match do_match best_so_far_diff best_so_far_diff best_so_far_c best_so_far_j best_so_far_c best_so_far_j 0 10 ** len coders if 		50 69
+do_match pot_c pot_j coders jammers while len pot_c < len coders pot_c = 		26 38
+both_zero c_zero j_zero both_zero both_zero c_zero j_zero c_zero both_zero c_zero j_zero c_equal c_greater c_greater c_equal c_greater c_equal c_equal c_greater flipped_answer_j flipped_answer_c flipped_answer_c flipped_answer_j c_current == ? and j_current == ? return 0 0 elif c_current == ? return j_current j_current elif j_current == ? return c_current 		72 120
+tie tie tie tie tie tie optimal_jammers = status = for i in range len coders c j = coders i jammers i c_next j_next = none none if i + 1 < len coders c_next j_next = coders i + 1 jammers i + 1 if not c == ? and 		123 198
+does_c_match pot_c coders while len pot_c < 		41 47

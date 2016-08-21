@@ -1,0 +1,1 @@
+solvestring thischarindex leftcharindex thischarindex leftcharindex set s letters sort letters 		6 20

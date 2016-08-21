@@ -1,0 +1,2 @@
+tgt processitem tgt processitem 0 with open input.txt rt as 		1 9
+processitem i line output = for letter 		11 21

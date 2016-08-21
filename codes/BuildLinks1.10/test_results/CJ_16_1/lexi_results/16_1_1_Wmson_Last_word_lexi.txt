@@ -1,0 +1,1 @@
+def last_word word cur_word = word 0 word = word 1 for char in word if cur_word 0 <= char cur_word = char + cur_word else cur_word = cur_word + char return cur_word 		1 9

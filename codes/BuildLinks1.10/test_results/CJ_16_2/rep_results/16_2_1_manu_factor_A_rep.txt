@@ -1,0 +1,1 @@
+def solve s = input readline strip print s d = dict for ss in numbers for c in ss d c = 0 for c in s d c = d c + 1 print d dd = dict dd 		12 75

@@ -1,0 +1,49 @@
+
+With same rare tokens:
+44 - 47 links:
+timsort	:	18 - 19
+
+34 - 38 links:
+timsort	:	22 - 38
+
+7 - 12 links:
+timsort	:	12 - 16
+test_sortable	:	26 - 47
+test_sortable	:	8 - 14
+test_sortable	:	20 - 24
+sort_insertion	:	16 - 27
+timsort	:	22 - 38
+
+40 - 42 links:
+timsort	:	22 - 38
+
+49 - 52 links:
+pysort	:	136 - 152
+pysort	:	122 - 134
+cyclesort	:	3 - 20
+counting_sort	:	15 - 44
+sorts	:	11 - 43
+pysort	:	226 - 242
+pysort	:	208 - 224
+pysort	:	244 - 264
+sorting_algorithms	:	96 - 133
+
+65 - 81 links:
+test_sortable	:	51 - 63
+quicksort_solved	:	81 - 115
+merge_sort_typical	:	15 - 20
+quicksort	:	24 - 29
+pysort	:	136 - 152
+pysort	:	122 - 134
+
+28 - 32 links:
+test_sortable	:	26 - 47
+test_sortable	:	8 - 14
+test_sortable	:	51 - 63
+test_sortable	:	20 - 24
+
+3 - 5 links:
+test_sortable	:	26 - 47
+test_sortable	:	8 - 14
+test_sortable	:	20 - 24
+

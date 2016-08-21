@@ -1,0 +1,2 @@
+def solve s pre_all_words = for 		1 10
+a-small.out main input_file = open a-small-attempt0.in r output_file = open 		14 25

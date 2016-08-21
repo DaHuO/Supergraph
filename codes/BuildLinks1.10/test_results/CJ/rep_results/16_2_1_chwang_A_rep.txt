@@ -1,0 +1,2 @@
+stripdigit s_list s_list s_list list s 		5 12
+findnumbers stripdigit stripdigit stripdigit stripdigit stripdigit stripdigit stripdigit stripdigit stripdigit stripdigit s = s zero numbers append 0 while s find w != - 1 s = s two numbers append 		14 58

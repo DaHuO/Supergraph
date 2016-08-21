@@ -1,0 +1,1 @@
+getnewword stringval newval tmpval isnewletterdefined stringval newval stringval stringval 		5 19

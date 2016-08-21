@@ -1,0 +1,2 @@
+def check board for row in board for i in 		4 23
+col_count no_col minus_count minus_count minus_count symmetrical must itertools combinations lines n new_b = list b new_b sort if check new_b found_board = new_b cols = for i in range n 		25 84

@@ -1,0 +1,10 @@
+Direct links:
+4 - 13 links:
+16_1_1_bzh0807_lastword	:	16 - 26
+16_1_1_CalgaryCorpus_a	:	3 - 15
+
+
+With same rare tokens:
+15 - 23 links:
+16_1_2_Juampi_cj2	:	18 - 30
+

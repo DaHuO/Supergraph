@@ -1,0 +1,13 @@
+def nextline self return self infile readline - 1 		49 50
+def main h = codejamhelper b-large n = h nextint for x in range n n = h nextint matrix = for x in range 2 * n - 1 matrix append h nextlineofints h output process matrix n 		3 15
+def output self value print case # + str self casenum + : + str value self outfile write case # + str self casenum + : + str value + \n self casenum = self casenum + 1 		44 47
+def __init__ self basefilename self ensuredirectory ./output self infile = open ./input/ + basefilename + .in r self outfile = open ./output/ + basefilename + .out w self casenum = 1 		34 38
+def nextint self return int self nextline 		52 53
+def nextlineoffloats self delim =  line = self nextline return float x for x in line split delim 		59 61
+def ensuredirectory self path if not os path exists path os makedirs path 		40 42
+def nextdelimitedmatrix self x y delim =  matrix = for _ in range len x line = self nextline line = item for item in line split delim if len line != y print problem, matrix does not match specified dimensions matrix append line return matrix 		66 74
+def nextcharmatrix self x y matrix = for _ in range len x line = self nextline line = item for item in line if len line != y print problem, matrix does not match specified dimensions matrix append line return matrix 		76 84
+def process matrix n counts = for line in matrix for height in line if height not in counts counts height = 0 counts height = counts height + 1 output = for x in counts if counts x % 2 != 0 output append x output sort return  join str z for z in output 		18 30
+def nextdelimitedline self delim =  return self nextline split delim 		63 64
+def getstringmatrix self matrix space = true out = for line in matrix out = out + \n for item in line out = out + str item if space out = out +  if space out = out - 1 return out 		86 96
+def nextlineofints self delim =  line = self nextline return int x for x in line split delim 		55 57

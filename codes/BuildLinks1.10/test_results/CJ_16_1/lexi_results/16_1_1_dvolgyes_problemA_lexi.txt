@@ -1,0 +1,1 @@
+def solve s * args ** kwargs solution = for c in s if len solution == 0 or c >= solution 0 solution = c + solution else solution = solution + c return solution 		16 23

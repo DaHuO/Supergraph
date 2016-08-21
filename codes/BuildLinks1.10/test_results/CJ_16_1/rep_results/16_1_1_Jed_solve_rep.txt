@@ -1,0 +1,2 @@
+def solve s rst = 		7 13
+def main nr_case = 		15 18

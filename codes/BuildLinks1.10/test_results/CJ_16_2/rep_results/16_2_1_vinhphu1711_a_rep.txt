@@ -1,0 +1,4 @@
+findsubsets S 		25 26
+mystrip w s 		20 23
+def check w 		14 18
+check_final digits s ss = 		28 32

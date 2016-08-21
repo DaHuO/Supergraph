@@ -1,0 +1,1 @@
+def accountFor num word definingLetter global counts counts num += letterCounts definingLetter for letter in word letterCounts letter -= counts num 		15 20

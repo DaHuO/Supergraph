@@ -1,0 +1,2 @@
+def lastword word res = 		1 9
+def solve file f = open file 		11 19

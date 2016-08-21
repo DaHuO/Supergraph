@@ -1,0 +1,4 @@
+read_f write_simple fin fout 		49 52
+check_links linksL linksR linksL linksR linkL linksL linkL linkR linksR linkR 		7 19
+Nmax check_links Nmax Nmax links = 		21 29
+Lvals Rvals Lvals Rvals Lvals Rvals set x 0 for x in c = sorted list set 		32 47

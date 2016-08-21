@@ -1,0 +1,1 @@
+getsum a 		3 4

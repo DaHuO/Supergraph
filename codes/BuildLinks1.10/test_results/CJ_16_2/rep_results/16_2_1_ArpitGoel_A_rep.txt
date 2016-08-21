@@ -1,0 +1,3 @@
+checkString checkDigit checkString if len temp == 0 and len nums > 		20 37
+tempList tempList tempList 		14 18
+checkDigit listString listString listString 		3 12

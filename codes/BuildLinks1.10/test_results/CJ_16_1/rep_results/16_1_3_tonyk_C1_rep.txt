@@ -1,0 +1,1 @@
+def solve lst fs r nxt = fs lst - 1 if nxt not in lst 		4 17

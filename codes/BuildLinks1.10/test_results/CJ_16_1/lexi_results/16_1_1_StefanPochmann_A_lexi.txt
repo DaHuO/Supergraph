@@ -1,0 +1,1 @@
+def naive s out = for c in s out = max c + out out + c return out 		1 5

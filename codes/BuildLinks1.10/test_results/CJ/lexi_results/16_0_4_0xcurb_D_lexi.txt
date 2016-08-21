@@ -1,0 +1,1 @@
+def main t = input for tt in range t s = raw_input k c s = int x for x in s split  if s < k print case #{0}: impossible format tt + 1 continue r = step = int math pow k c - 1 for i in range 0 k r append 1 + i * step sys stdout write case #{0}: format tt + 1 for i in r sys stdout write {0} format i print 		4 23

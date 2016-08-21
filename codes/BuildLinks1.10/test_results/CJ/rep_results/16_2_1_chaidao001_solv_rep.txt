@@ -1,0 +1,1 @@
+def solve inputs d = z zero w two u four x six g eight d2 = f five o one h three d3 = v seven i nine mapping = zero 0 one 1 two 2 three 3 four 4 five 5 six 6 seven 		1 67

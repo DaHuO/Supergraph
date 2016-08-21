@@ -1,0 +1,2 @@
+def subs fmt i il si 		4 12
+def solve line a b = line split qa = a count ? qb = b count ? ba = bb = None if qa == 0 and qb == 0 ba = int a bb = int b elif 		14 54

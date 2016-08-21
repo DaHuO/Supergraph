@@ -1,0 +1,1 @@
+def main t = int sys stdin readline for t 		3 13

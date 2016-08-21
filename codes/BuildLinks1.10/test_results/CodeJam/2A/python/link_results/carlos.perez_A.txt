@@ -1,7 +1,4 @@
-10 - 40 links:
-waitingkuo0527_main	:	6 - 40
-
+Direct links:
 1 - 8 links:
 alikhtarov_a	:	25 - 33
-luca.wehrstedt_A	:	8 - 13
 

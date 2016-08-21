@@ -1,0 +1,1 @@
+def get_missing_list matrix num_count = collections defaultdict int for line in matrix for digit in line num_count digit += 1 odd_nums = for key value in num_count items if value % 2 == 1 odd_nums append key return sorted odd_nums 		4 16

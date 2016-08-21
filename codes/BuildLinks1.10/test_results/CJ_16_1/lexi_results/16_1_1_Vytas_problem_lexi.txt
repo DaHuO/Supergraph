@@ -1,0 +1,7 @@
+def parse_case self lines raise notimplementederror 		17 18
+classmethod def run cls task = cls task read_cases task print_report 		41 45
+def solve self case raise notimplementederror 		20 21
+classmethod def run_sample cls data if isinstance data basestring data = data splitlines task = cls task read_cases iter data task print_report verbose = true 		47 53
+def read_cases self lines = none if lines is none lines = line strip for line in sys stdin amount = int lines next for index in xrange amount self cases append self parse_case lines 		23 28
+def __init__ self self cases = 		14 15
+def print_report self verbose = false for index case in enumerate self cases start = time time result = self solve case elapsed = time time - start if verbose print solved case {0} in {1} s format case elapsed print case #{0}: {1} format index + 1 result if verbose print 		30 39

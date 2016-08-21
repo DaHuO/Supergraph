@@ -1,0 +1,1 @@
+def ans j if j == 0 return s j else 		3 18

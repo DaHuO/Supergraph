@@ -1,0 +1,2 @@
+filehandler inname returnstring inname returnstring results.txt returnstring = 1 init = 		23 37
+inword alphabetstr alphabetstr alphabetstr finalstr lastscore inword alphabetstr lastscore lastscore finalstr finalstr 		2 19

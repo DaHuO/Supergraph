@@ -1,0 +1,1 @@
+def copy_vert m l i for j in range i len l m j i = l j 		7 9

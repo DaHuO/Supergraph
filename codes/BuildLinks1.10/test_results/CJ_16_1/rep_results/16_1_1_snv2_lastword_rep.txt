@@ -1,0 +1,2 @@
+findmax kkk kkk kkk len s 		3 8
+findmax lastword s if len s == 		11 17

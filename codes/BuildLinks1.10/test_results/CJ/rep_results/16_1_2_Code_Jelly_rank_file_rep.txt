@@ -1,0 +1,2 @@
+givenvals givenvals givenvals newout outstr newout outstr 		4 12
+mainlogic givenvals numlines numlines givenvals givenvals case in range numcases = 		14 24

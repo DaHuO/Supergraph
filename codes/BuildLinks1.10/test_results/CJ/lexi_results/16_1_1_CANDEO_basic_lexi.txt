@@ -1,0 +1,1 @@
+def get_last_word s last_word = for w in s if last_word + w > w + last_word last_word = last_word + w else last_word = w + last_word return last_word 		13 20

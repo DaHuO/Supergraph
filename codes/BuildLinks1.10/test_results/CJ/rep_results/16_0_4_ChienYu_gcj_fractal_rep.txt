@@ -1,0 +1,1 @@
+each_case k c s if c * s < k return impossible positions = for i in 		3 20

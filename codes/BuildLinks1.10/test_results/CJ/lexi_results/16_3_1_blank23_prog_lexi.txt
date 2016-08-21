@@ -1,0 +1,2 @@
+def sorttuplesbypos tuples pos tuples = sorted tuples key = lambda x x pos return tuples 		1 3
+def update tuples for x in xrange len tuples - 1 - 1 - 1 if tuples x 1 == 0 tuples pop x 		5 8

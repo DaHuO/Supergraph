@@ -1,0 +1,2 @@
+to_delete to_delete to_delete = for 		101 111
+def get_digits str letters = digits = for c in str if c in letters letters c += 1 else letters c = 1 if Z in letters digits += 0 * letters Z letters E -= letters Z letters R -= letters Z letters O -= letters Z letters Z = 0 letters = clean_dict letters if W in letters 		1 99

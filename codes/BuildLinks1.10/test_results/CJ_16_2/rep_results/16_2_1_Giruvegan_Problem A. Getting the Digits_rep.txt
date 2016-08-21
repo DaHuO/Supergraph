@@ -1,0 +1,2 @@
+def decrease_and_check_remove word_count 		85 89
+getting_digits case_input case_input ans = for letter in if letter in word_count word_count letter += 1 else word_count letter = 1 while Z in word_count word_count = decrease_and_check_remove word_count Z word_count = decrease_and_check_remove word_count E word_count = decrease_and_check_remove word_count R word_count = decrease_and_check_remove word_count O ans append 0 while W in word_count word_count = decrease_and_check_remove word_count T word_count = decrease_and_check_remove 		3 83

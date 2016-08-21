@@ -1,0 +1,5 @@
+def main N = input 		3 7
+nexts c if c == 9 return 8 9 0 elif 		10 21
+rec%s <CS %s[%d] <JS %s[%d] cand_j current = None if DEBUG print % C J cand_c cand_j current if ? not in C and ? not in J result = better C J current if 		59 89
+def better new current if current is None return new else C 		44 57
+nexts nexts C J cand_c = cand_j = for c j in 		23 42

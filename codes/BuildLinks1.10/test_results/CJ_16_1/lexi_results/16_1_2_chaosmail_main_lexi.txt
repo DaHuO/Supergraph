@@ -1,0 +1,1 @@
+def solve length input input = list map int a split  for a in input c = counter a l for a in input for l in range length most_common output = sorted a 0 for a in c if a 1 % 2 return  join list map str output 		5 11

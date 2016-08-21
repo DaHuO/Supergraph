@@ -1,0 +1,1 @@
+|= all_letter all_letter all_letter pinv ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE a = set for word in codes a set word 		8 37

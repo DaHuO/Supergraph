@@ -1,0 +1,4 @@
+def is_absolute b arr a = sum arr if a == 0 and b == 0 return false return b / b + a > 0.5 		11 15
+def solve n p p = list map int p split  out = leaving = 0 while sum p > 0 for i m in enumerate p for j k in enumerate p tmp_out = tmp = list p if tmp i > 0 tmp i -= 1 tmp_out += letters i else continue if tmp j > 0 tmp j -= 1 tmp_out += letters j else continue if no_absolute tmp out += tmp_out +  p = tmp break else if p i > 0 tmp = list p tmp i -= 1 if no_absolute tmp out += letters i +  p = tmp break return out 		23 57
+def no_absolute arr for i a in enumerate arr if is_absolute * split_by_index arr i return false return true 		17 21
+def split_by_index arr i m = a for j a in enumerate arr if i is not j return arr i m 		7 9

@@ -1,0 +1,5 @@
+def can_match ints strs s = 		7 12
+zeroOr9 bigger 		1 5
+zeroOr9 zeroOr9 C J N = len C foundDifference = None outC = outJ = for i in xrange N if foundDifference is None if C i == 		93 130
+maxC maxJ rngi rngi rngj rngj rngi rngj rngi rngj maxJ maxC jjs jjs jjs get start goal None if cached is not None return cached if goal == if C start == ? c = 9 else c = C start if J start == ? j = 0 else j = J start cs js 		18 76
+do_brute C J bestC = None bestJ = None bestAbs = None for c in xrange 0 10 ** len 		77 91

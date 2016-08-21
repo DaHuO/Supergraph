@@ -1,4 +1,4 @@
-fight la lb if la == R and lb == S return 		10 16
+def fight la lb if la == R and lb == S 		10 16
 def get_letters depth letter if depth == 0 return letter if letter == R left 		19 33
 __str__ Gamer({0}, 		7 8
 def __init__ 		3 5

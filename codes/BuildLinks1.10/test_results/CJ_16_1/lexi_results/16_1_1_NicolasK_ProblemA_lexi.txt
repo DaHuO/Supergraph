@@ -1,0 +1,3 @@
+def letramasgrande s res = a for c in s if c > res res = c return res 		7 12
+def agregarresto s resto pmas = letramasgrande resto for i in xrange len resto if resto i == pmas s = pmas + s else s = s + resto i return s 		15 22
+def procesar s if len s == 0 return s if len s == 1 return s pmas = letramasgrande s subs = s 0 list s index pmas resto = s list s index pmas return agregarresto procesar subs resto 		24 32

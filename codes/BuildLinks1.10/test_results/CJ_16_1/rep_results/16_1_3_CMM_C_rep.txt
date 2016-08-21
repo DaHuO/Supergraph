@@ -1,0 +1,2 @@
+def solve bff for l in range 		18 24
+def test bff perm for i in range len 		4 16

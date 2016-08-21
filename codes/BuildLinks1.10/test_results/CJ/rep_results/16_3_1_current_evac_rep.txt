@@ -1,0 +1,1 @@
+num_sen num_sen num_sen parties = abcdefghijklmnopqrstuvwxyz with open filename r as f t = int f readline rstrip for t in xrange t n = int f readline rstrip 		3 31

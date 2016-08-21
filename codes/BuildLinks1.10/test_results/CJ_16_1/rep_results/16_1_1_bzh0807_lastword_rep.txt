@@ -1,0 +1,2 @@
+lastwordout.txt readfile file = open a-large.in r fileout = open w num 		5 14
+def winningword n final = for c 		16 26

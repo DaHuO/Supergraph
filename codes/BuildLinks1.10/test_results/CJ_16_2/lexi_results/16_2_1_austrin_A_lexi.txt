@@ -1,0 +1,1 @@
+def solve x = sys stdin readline strip f = 0 * 10 for d c in m cnt = x count c f d += cnt for c2 in words d x = x replace c2 cnt assert x == for i in range 10 outp write %d % i * f i print 		13 24

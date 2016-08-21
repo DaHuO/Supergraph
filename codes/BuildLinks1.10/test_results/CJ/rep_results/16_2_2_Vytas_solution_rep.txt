@@ -1,0 +1,11 @@
+notimplementederror 		26 27
+run_sample basestring read_cases print_report 		53 59
+def 		20 21
+solve_brute c_test j_test c_test j_test = len c best = 10 ** n + 1 0 0 qc = c count ? qj = j count ? 		101 135
+print_report self verbose = false for index case in enumerate 		36 45
+def 		141 142
+solve_brute solve 		137 139
+read_cases self lines = none if 		29 34
+read_cases print_report 		47 51
+solve_wrong self case c j = map list case for pos in range len c c = c pos j = j pos prior 		64 99
+notimplementederror 		23 24

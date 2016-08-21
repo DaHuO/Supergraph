@@ -1,0 +1,4 @@
+def gen_list s if s == return nl = l = gen_list s 1 nl = nl + s + s 0 for s in l nl = nl + s 0 + s for s in l return nl 		1 8
+def main t = int raw_input for t in range 1 t + 1 word = raw_input strip print case #{0}: {1} format t g word 		22 26
+def f s return sorted gen_list s - 1 - 1 		10 11
+def g s r = for c in s if len r > 0 and c >= r 0 r = c + r else r = r + c return r 		13 20

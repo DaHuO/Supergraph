@@ -1,0 +1,8 @@
+		32 33
+def wrapped * 		14 17
+		62 64
+		29 30
+#{nc} #{nc}: {data}\n infile outfile cases = 		38 44
+def memoized func mem 		11 18
+SEQUENCE process self infile ncase string = infile readline strip 		66 78
+def 		35 36

@@ -1,0 +1,2 @@
+def putword string letter if string == return letter elif letter < string - 1 return string + letter elif letter < string 0 return string + letter else return letter + string 		1 9
+def last_word string ans = for each in string ans = putword ans each return ans 		12 16

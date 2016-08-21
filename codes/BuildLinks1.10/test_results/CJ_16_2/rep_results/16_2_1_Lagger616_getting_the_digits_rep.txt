@@ -1,0 +1,2 @@
+def digits string list_of_digits = list_of_letters = for letter in string list_of_letters append letter while Z in list_of_letters list_of_digits append 0 for letter_to_remove in ZERO list_of_letters remove letter_to_remove while W in 		7 55
+def number 		1 4

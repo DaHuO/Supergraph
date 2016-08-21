@@ -1,0 +1,1 @@
+input_chars input_chars seen_so_far = for current_char in 		1 11

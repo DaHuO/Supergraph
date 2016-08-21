@@ -1,0 +1,1 @@
+ordered_chars ochar ordered_chars ochar ordered_chars ochar nchar dindex nchar dindex FIVE SIX SEVEN EIGHT NINE = Z W 		1 25

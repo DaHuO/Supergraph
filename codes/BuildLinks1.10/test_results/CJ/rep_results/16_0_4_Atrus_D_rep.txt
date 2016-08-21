@@ -1,0 +1,2 @@
+calc_c index_str index_str c s index = k_pos = 0 c_pos = 0 for 		6 29
+calc_c calc_c k c if 		1 4

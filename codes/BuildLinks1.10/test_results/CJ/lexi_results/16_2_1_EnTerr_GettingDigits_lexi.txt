@@ -1,0 +1,2 @@
+def input return f readline strip 		47 47
+def get_digits s d = defaultdict int for ch in s d ch += 1 res = key = zero 0 wto 2 geiht 8 three 3 rfou 4 one 1 five 5 xsi 6 inne 9 seven 7 for ltrs dig in key while d ltrs 0 > 0 res append dig for ch in ltrs d ch -= 1 return join str i for i in sorted res 		50 65

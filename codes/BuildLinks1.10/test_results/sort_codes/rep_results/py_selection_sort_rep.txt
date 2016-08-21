@@ -1,1 +1,1 @@
-selectionSort fillslot location fillslot location location fillslot fillslot 1 		5 15
+location location location for fillslot in range len alist 		5 15

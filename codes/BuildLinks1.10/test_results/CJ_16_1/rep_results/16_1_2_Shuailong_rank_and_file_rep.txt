@@ -1,0 +1,1 @@
+def main t = int raw_input for t in xrange 1 t + 1 n = int raw_input 		14 33

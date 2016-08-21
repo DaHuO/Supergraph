@@ -1,0 +1,1 @@
+find_rows_cols isposs isposs isposs = 0 * n ind = - 1 for j el in enumerate firstrow found = - 1 for k l in enumerate lists if el == l 0 if found >= 0 and lists found != lists k found = - 2 elif found != 		3 61

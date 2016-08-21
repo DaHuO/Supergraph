@@ -1,0 +1,1 @@
+def solve case n rows = case counts = 		3 12

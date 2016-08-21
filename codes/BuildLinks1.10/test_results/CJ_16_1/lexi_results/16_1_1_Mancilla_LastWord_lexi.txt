@@ -1,0 +1,2 @@
+def solve input result = input 0 for c in list input 1 result = placeinword result c return result 		6 10
+def placeinword s c if list s 0 <= c return c + s return s + c 		1 4

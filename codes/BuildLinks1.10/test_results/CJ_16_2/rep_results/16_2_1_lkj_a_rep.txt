@@ -1,0 +1,2 @@
+fillout solve s d = ZERO ONE 		51 56
+fillout s d n = sd = c s count c for c in s for c in set join d if c not in sd sd c = 0 ic = sd Z for c in ZERO sd c 		2 48

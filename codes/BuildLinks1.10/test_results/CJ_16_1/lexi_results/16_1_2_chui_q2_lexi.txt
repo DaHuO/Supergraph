@@ -1,0 +1,1 @@
+def solving list numbers = for line in list hs = line split  for h in hs if int h not in numbers numbers int h = 0 numbers int h += 1 lost = for k in numbers keys if numbers k % 2 == 1 lost append k ret = str n for n in sorted lost return ret 		1 14

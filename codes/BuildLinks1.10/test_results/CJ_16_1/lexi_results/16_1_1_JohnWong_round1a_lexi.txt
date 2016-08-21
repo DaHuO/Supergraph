@@ -1,0 +1,1 @@
+def process num s r = s 0 for x in range 1 len s if s x >= r 0 r insert 0 s x else r append s x print case # + str num + : + join r 		4 11

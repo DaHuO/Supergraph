@@ -1,0 +1,3 @@
+def parse_input n height_lines 		1 5
+missing_height_line find_min_heights missing_height_line hl hl missing_height_line missing_height_line remaining_height_lines = copy deepcopy height_lines = for n in range 		19 41
+find_min_heights height_lines n min_heights = list for 		7 16

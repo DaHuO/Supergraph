@@ -1,0 +1,1 @@
+doing s: bestword bestword bestword bestword bestword bestword bestword = input_file split . 0 + .out o 		1 16

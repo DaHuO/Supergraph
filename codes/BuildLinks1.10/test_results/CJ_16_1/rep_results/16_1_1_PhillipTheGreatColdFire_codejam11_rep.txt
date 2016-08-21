@@ -1,0 +1,2 @@
+frontbehind fun input_str 		1 5
+frontbehind input_str letter if len input_str 		7 17

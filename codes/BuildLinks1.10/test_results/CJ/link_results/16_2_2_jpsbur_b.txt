@@ -1,0 +1,31 @@
+
+With same rare tokens:
+23 - 30 links:
+16_2_2_dbooth_solve	:	41 - 53
+16_2_2_dbooth_solve	:	23 - 39
+
+3 - 12 links:
+16_0_4_arunabh2k_A	:	3 - 34
+
+14 - 21 links:
+16_3_1_arunabh2k_A	:	6 - 11
+16_3_1_arunabh2k_A	:	22 - 33
+16_3_1_arunabh2k_A	:	22 - 33
+16_3_1_arunabh2k_A	:	12 - 20
+
+32 - 79 links:
+16_0_4_arunabh2k_A	:	3 - 34
+16_0_4_arunabh2k_A	:	3 - 34
+16_3_1_arunabh2k_A	:	6 - 11
+16_3_1_arunabh2k_A	:	22 - 33
+16_3_1_arunabh2k_A	:	22 - 33
+16_3_1_arunabh2k_A	:	12 - 20
+16_2_2_dbooth_solve	:	41 - 53
+16_2_2_dbooth_solve	:	23 - 39
+16_2_2_dbooth_solve	:	41 - 53
+16_2_2_dbooth_solve	:	23 - 39
+16_3_1_arunabh2k_A	:	6 - 11
+16_3_1_arunabh2k_A	:	22 - 33
+16_3_1_arunabh2k_A	:	22 - 33
+16_3_1_arunabh2k_A	:	12 - 20
+

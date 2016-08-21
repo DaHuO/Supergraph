@@ -1,0 +1,2 @@
+clean_tiles complexities num_of_students complexities num_of_students minimum_num_of_students num_of_students minimum_num_of_students minimum_num_of_students minimum_num_of_students = int y for y in line split  possible_or_not = false if num_of_tiles == 1 positions = 1 possible_or_not = true elif == 		8 43
+load_info f 		3 6

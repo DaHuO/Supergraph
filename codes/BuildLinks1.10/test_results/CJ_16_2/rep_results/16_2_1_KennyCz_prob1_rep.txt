@@ -1,0 +1,1 @@
+def answer query ans = while Z in query query remove Z query remove E query remove R query remove O ans append 0 while W in query query remove T query remove W query remove O ans append 2 		6 68

@@ -1,0 +1,1 @@
+firstlastindex firstlastindex firstlastindex if word == 		1 6

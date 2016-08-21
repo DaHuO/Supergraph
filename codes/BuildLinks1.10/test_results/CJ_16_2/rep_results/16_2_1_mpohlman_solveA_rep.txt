@@ -1,0 +1,2 @@
+infilename infilename T: S: #%(index)d: %(answer)s line = infile readline T = int line if debug > 10 print T digits = ZERO ONE TWO THREE FOUR 		54 88
+dict(S): dict(digit): ERROR: answer = d = for char in list S if char in d keys d char = d char + 1 else d char = 1 if debug > 5 print d 		5 51

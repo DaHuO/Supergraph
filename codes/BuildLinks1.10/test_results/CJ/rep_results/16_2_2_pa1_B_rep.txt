@@ -1,0 +1,7 @@
+isq 		1 2
+def 		10 11
+def diff 		4 5
+isq isq b3 b3 b3 isq isq isq 0 return p = a 0 q = b 0 ansa ansb = ra = a 1 rb = b 1 if p and q a3 = f 0 + ra 0 + rb a1 b1 = f 0 + mx ra 1 + mn rb a2 b2 = f 1 + mn ra 0 		13 80
+def main t = int 		87 91
+def g s 		82 85
+def 		7 8

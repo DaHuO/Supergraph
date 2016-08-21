@@ -1,0 +1,4 @@
+def main t = int sys stdin readline strip for i in xrange t n r p s = map int sys stdin readline strip split ans = solve n r p s print case #%s: %s % i + 1 ans 		71 77
+def solve n r p s if any x > 2 ** n - 1 for x in r p s return impossible r1 = to_get r n r2 = to_get p n r3 = to_get s n def can_do r return r == r count r and p == r count p and s == r count s ret = if can_do r1 ret append r1 if can_do r2 ret append r2 if can_do r3 ret append r3 if not ret return impossible return min ret 		47 69
+def can_do r return r == r count r and p == r count p and s == r count s 		55 56
+def to_get winner depth if depth == 1 return default 1 winner ret = left right = to_get winner 1 lh = to_get left depth - 1 rh = to_get right depth - 1 if lh < rh ans = lh + rh else ans = rh + lh default depth winner = ans return ans 		29 45

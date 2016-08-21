@@ -1,0 +1,2 @@
+def description print 		4 5
+def solve k c s if c == 1 if s < k return impossible else return  join str kk for kk in range 1 k + 1 else needed = k / 2 + k % 2 if s < needed return impossible else retval = needed = k / 2 for i in range needed block = i * 2 + 1 row = block + 1 retval += str block - 1 * k + row +  if k % 2 != 0 block = needed * 2 + 1 retval += str block * k return retval 		27 53

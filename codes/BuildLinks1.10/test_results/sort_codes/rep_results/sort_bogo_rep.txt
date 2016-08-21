@@ -1,1 +1,1 @@
-sort_bogo all while not 		9 12
+sort_bogo l while not 		9 12

@@ -1,0 +1,9 @@
+def minner sol return - sol 0 - int sol 1 - int sol 2 		17 18
+def __call__ self * args if args not in self memory self memory args = self fn * args return self memory args 		12 15
+def ints return map int raw split 		5 5
+def maxxer sol return sol 0 - int sol 1 - int sol 2 		20 21
+def raw return _in readline rstrip \n 		4 4
+def __init__ self function self fn = function self memory = 		9 11
+memoize def rec u v i comparer if i == 0 return 0 sa sb = u - i v - i poss_a = int sa if sa != ? else range 10 poss_b = int sb if sb != ? else range 10 best = none for a in poss_a for b in poss_b for comp in comps delta su sv = rec u v i - 1 comp sol = a - b * 10 ** i - 1 + delta str a + su str b + sv if best is none or comparer sol > comparer best best = sol return best 		28 45
+def zeroer sol return - abs sol 0 - int sol 1 - int sol 2 		23 24
+def solve u v res = rec u v len u zeroer return {} {} format res 1 res 2 		47 49

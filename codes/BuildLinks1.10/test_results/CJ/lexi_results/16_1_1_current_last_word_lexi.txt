@@ -1,0 +1,1 @@
+def get_last_word filename with open filename r as f t = int f readline rstrip for t in xrange t s = f readline rstrip out = s 0 for i in xrange 1 len s if s i >= out 0 out = s i + out else out += s i print case #{}: {} format t + 1 out 		3 14

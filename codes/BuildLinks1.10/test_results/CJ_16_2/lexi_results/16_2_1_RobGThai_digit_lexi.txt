@@ -1,0 +1,15 @@
+def remove_0 self groups return self remove_x groups 0 Z 		32 33
+def remove_8 self groups return self remove_x groups 8 G 		56 57
+def remove_2 self groups return self remove_x groups 2 W 		38 39
+def __init__ self self total = int raw_input self spelling = ZERO ONE TWO THREE FOUR 		12 14
+def remove_4 self groups return self remove_x groups 4 U 		44 45
+def print_case case_no answer print Case #{case_no}: {answer} 		3 4
+def remove_3 self groups return self remove_x groups 3 H 		41 42
+def remove_7 self groups return self remove_x groups 7 S 		53 54
+def remove_6 self groups return self remove_x groups 6 X 		50 51
+def remove self number times groups spelling = self spelling number for i in xrange 0 times for c in spelling groups c -= 1 if groups c <= 0 groups pop c 		17 25
+def remove_x self groups x key result = str x * groups key self remove x groups key groups return result 		27 30
+def remove_5 self groups return self remove_x groups 5 V 		47 48
+def solve self case input result = current = 0 groups = checkers = ZWUXSGHVIO funcs = self remove_0 self remove_2 self remove_4 self remove_6 self remove_7 self remove_8 self remove_3 self remove_5 self remove_9 self remove_1 for k c in groupby sorted input groups k = len list c for c func in izip checkers funcs if c in groups result += func groups print_case case join sorted result 		62 79
+def remove_1 self groups return self remove_x groups 1 O 		35 36
+def remove_9 self groups return self remove_x groups 9 I 		59 60

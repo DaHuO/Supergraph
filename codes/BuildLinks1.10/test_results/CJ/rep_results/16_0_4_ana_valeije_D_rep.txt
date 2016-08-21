@@ -1,0 +1,2 @@
+def solvecase case f fout k c 		4 9
+def writeline fout 		11 13

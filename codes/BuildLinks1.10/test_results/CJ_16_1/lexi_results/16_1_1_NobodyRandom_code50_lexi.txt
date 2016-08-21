@@ -1,0 +1,1 @@
+def sortit n sorted = first = true for chara in n val = ord chara if first sorted append val first = false continue if val < sorted - 1 sorted append val elif val >= sorted 0 sorted = val + sorted else sorted append val charl = for x in sorted charl append chr x return join charl 		2 22

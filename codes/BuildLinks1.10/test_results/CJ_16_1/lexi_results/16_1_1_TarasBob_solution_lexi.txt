@@ -1,0 +1,2 @@
+def solve letters result = start = 0 end = len letters arr = while true ll = find_largest_last letters 0 end if ll == - 1 break arr append letters ll letters ll + 1 end end = ll for i in xrange len arr - 1 - 1 - 1 result = arr i 0 + result + arr i 1 return result 		13 26
+def find_largest_last letters start end cur = a result = - 1 for i in xrange start end if letters i >= cur cur = letters i result = i return result 		4 11

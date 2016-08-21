@@ -1,0 +1,6 @@
+def 		10 11
+coded 		59 60
+classmethod def answer 		17 20
+def 		6 7
+def 		23 24
+further further further last if not left return for idx in range last 		41 57

@@ -1,0 +1,2 @@
+def char2num c return ord c - 65 		1 2
+def num2char n return chr n + 65 		4 5

@@ -1,0 +1,2 @@
+def expand l layers if layers == 0 return l if l layers in d return d l layers s = e l a = expand s 0 layers - 1 b = expand s 1 layers - 1 if a < b ans = a + b else ans = b + a d l layers = ans return ans 		23 36
+def f n r p s p1 = expand r n p2 = expand p n p3 = expand s n poss = p1 p2 p3 possans = for i in poss if i count r == r and i count s == s and i count p == p possans append i if len possans == 0 return impossible possans sort return possans 0 		1 14

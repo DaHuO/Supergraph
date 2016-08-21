@@ -1,0 +1,1 @@
+def solution s letters = list s last = letters 0 for l in letters 1 if l < last 0 last append l else last insert 0 l return join last 		8 20

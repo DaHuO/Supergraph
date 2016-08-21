@@ -1,0 +1,1 @@
+def solve p res = r = p cnt = 0 while sum p > 0 nonzeros = i for i x 		1 23

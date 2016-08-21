@@ -1,0 +1,5 @@
+def solve word lasts = deque word 0 for i in range 1 len word ch = word i if front_insertable lasts ch lasts appendleft ch else lasts append ch return join lasts 		22 31
+def front_insertable lasts ch index = 0 while index < len lasts if ch < lasts index return false elif ch > lasts index return true else index += 1 return false 		33 44
+def read_input f return f readline strip 		15 16
+def display_and_clear f i solution f write case #%d: %s\n % i solution f flush 		18 20
+def main fi = sys stdin fo = sys stdout case_count = int fi readline strip for i in range 1 case_count + 1 word = read_input fi solution = solve word display_and_clear fo i solution 		6 13

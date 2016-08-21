@@ -1,0 +1,1 @@
+hashTable hashTable safe safe resultString resultString resultString resultString TWO X SIX G EIGHT H THREE R FOUR F FIVE O ONE S SEVEN I NINE letterQty = for letter 		3 36

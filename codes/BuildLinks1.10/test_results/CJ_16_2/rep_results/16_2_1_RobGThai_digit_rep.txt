@@ -1,0 +1,15 @@
+remove_0 		32 33
+remove_8 		56 57
+remove_2 		38 39
+def __init__ self 		12 14
+remove_4 		44 45
+remove_9 		59 60
+remove_3 		41 42
+remove_7 		53 54
+remove_6 		50 51
+def remove self number times groups 		17 25
+def remove_x self groups 		27 30
+print_case 		3 4
+checkers ZWUXSGHVIO funcs remove_0 remove_2 remove_4 remove_6 remove_7 remove_8 remove_3 remove_5 remove_9 remove_1 		62 79
+remove_5 		47 48
+remove_1 		35 36

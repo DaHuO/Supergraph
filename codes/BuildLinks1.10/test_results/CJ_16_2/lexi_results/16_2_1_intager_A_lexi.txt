@@ -1,0 +1,4 @@
+def recurse lett num start global lett2num if len lett > LIM return lett = strSort lett lett2num lett = num for i in range start 10 recurse lett + letts i num + str i i 		39 51
+def strSort s l = c for c in s l sort result = join l return result 		31 37
+def log msg print msg output write msg + \n 		8 10
+def solve lett return lett2num strSort lett 		53 55

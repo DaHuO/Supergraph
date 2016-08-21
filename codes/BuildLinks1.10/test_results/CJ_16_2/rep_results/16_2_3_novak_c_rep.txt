@@ -1,0 +1,9 @@
+def 		33 34
+readmultint fhandle 		39 40
+def 		36 37
+readstr 		27 28
+nextcase Test: params = None 		46 50
+readfirst 		42 44
+def 		30 31
+fake_pairs fake_pairs fake_pairs if len pairs <= 1 return 0 if tuple pairs in return tuple 		53 69
+def 		71 72

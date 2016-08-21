@@ -1,0 +1,1 @@
+def last_word s ret = for i in s if ret and i >= ret 0 ret insert 0 i else ret append i return join ret 		4 11

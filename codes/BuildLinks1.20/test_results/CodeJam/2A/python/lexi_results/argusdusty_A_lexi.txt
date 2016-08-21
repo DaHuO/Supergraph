@@ -1,0 +1,1 @@
+def valid keys w = r r p p s r p r p p s s s r r p s s x = i for i in keys while len x > 1 y = for i in range 0 len x 2 z = w x i x i + 1 if z == return false y append z x = y return true 		4 20

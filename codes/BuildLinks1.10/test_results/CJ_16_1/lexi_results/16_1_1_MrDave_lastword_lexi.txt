@@ -1,0 +1,4 @@
+def read_file filename f = open filename csv_r = csv reader f delimiter =  t = int csv_r next 0 test_lst = for i in xrange t l = csv_r next test_lst append l 0 upper f close return test_lst 		9 18
+def process w if len w == 1 return w ll = process w 1 l = l extend w 0 + ww for ww in ll l extend ww + w 0 for ww in ll return l 		21 28
+def main filename test_lst = read_file filename for i_test test_case in enumerate test_lst res = solve_test test_case print case #%i: %s % 1 + i_test res 		36 40
+def solve_test test_case l = process join reversed test_case return max l 		31 33

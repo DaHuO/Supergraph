@@ -1,0 +1,1 @@
+nbparts nbparts argmaxx nbparts argmaxx argmaxx union argmaxx g res = print g gg while max gg > 0 m = max gg = set rang = - 1 while rang < - 1 rang = 		22 63

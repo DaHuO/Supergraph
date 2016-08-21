@@ -1,0 +1,1 @@
+def outp a b c = true file = open 		1 12

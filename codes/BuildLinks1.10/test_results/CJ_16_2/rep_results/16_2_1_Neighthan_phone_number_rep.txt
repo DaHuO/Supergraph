@@ -1,0 +1,2 @@
+_a.in decode_phone_number _a.out infile = size + output = with 		4 19
+decode_phone_number string_numbers reference_chars ordered_numbers ordered_numbers reference_chars string_numbers i in range 10 number_of_digits 0 = string count Z = 0 ZERO 1 ONE 		22 38

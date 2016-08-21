@@ -1,0 +1,41 @@
+
+With same rare tokens:
+49 - 50 links:
+16_1_1_tmi_a	:	9 - 16
+
+58 - 59 links:
+16_1_1_tmi_a	:	9 - 16
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_1_tmi_a	:	9 - 16
+
+61 - 62 links:
+16_1_1_tmi_a	:	9 - 16
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_1_tmi_a	:	9 - 16
+
+52 - 53 links:
+16_1_1_tmi_a	:	9 - 16
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_1_tmi_a	:	9 - 16
+
+46 - 47 links:
+16_1_1_tmi_a	:	9 - 16
+16_1_1_tmi_a	:	9 - 16
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_1_tmi_a	:	9 - 16
+16_1_1_tmi_a	:	9 - 16
+16_1_1_Makwa13_The Last Word	:	27 - 34
+
+4 - 9 links:
+16_1_2_car03e_rank_file	:	5 - 10
+16_1_1_Duy_the-last-word	:	26 - 35
+16_1_2_car03e_rank_file	:	5 - 10
+16_1_1_Duy_the-last-word	:	26 - 35
+16_1_2_car03e_rank_file	:	5 - 10
+16_1_1_Duy_the-last-word	:	26 - 35
+
+55 - 56 links:
+16_1_1_tmi_a	:	9 - 16
+16_1_1_Makwa13_The Last Word	:	27 - 34
+16_1_1_tmi_a	:	9 - 16
+

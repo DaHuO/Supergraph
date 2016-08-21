@@ -1,0 +1,2 @@
+def largest_s s answer = s 0 for c in s 1 i = 0 if c >= answer 0 answer = c + answer else answer += c return answer 		12 21
+def insertchar mystring position chartoinsert longi = len mystring mystring = mystring position + chartoinsert + mystring position return mystring 		6 9

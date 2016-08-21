@@ -1,0 +1,4 @@
+def main t = int input for t in range t run_test t + 1 		22 26
+def run_test i word = input print case #%d: %s % i compute_last word 		18 20
+def compute_last word arr = deque high = a for c in word if c >= high arr appendleft c high = c else arr append c return join arr 		5 16
+def extensive import random for i in range 100000 compute_insomnia random randint 0 10 ** 6 exit 0 		28 32

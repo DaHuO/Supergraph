@@ -1,0 +1,1 @@
+alphas alphas parties senators = chr ord a + i for i in xrange 		3 20

@@ -1,0 +1,2 @@
+def main t = int sys 		15 20
+def solve s result = 		6 13

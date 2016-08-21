@@ -1,21 +1,21 @@
-bubble_optimized passes passes for in range len array 		46 59
-insertion_optimized_alt enumerate array j = 0 for i val 		136 152
+bubble_optimized def array for passes in range len 		46 59
+insertion_optimized_alt def array j = 0 for i val 		136 152
 partition_repeat def array left right pivot_ind pivot = array pivot_ind index = left 		283 302
-bubble_final_position swap_point swap_point new_swap swap_point new_swap swap_point new_swap 0 		79 98
-quick_inplace_median median_of_three quick_inplace_median quick_inplace_median = 0 right = None if 		226 242
-median_of_three def array left right mid = left + right 		304 324
+bubble_final_position new_swap new_swap new_swap = len array while swap_point 		79 98
+staticmethod def quick_inplace_median array left = 0 right = None 		226 242
+staticmethod def median_of_three array left right mid = left + 		304 324
 bogo any array while 		437 450
 staticmethod def partition array left right pivot_ind pivot = array pivot_ind 		266 281
 staticmethod def insertion array for i in 		108 120
 bubble_naive def array length = len array - 		31 44
-quick_random randrange quick_random quick_random = len array if length 		162 183
-heap_sort sift_down array highest_index = len array 		379 394
-quick_inplace_random quick_inplace_random quick_inplace_random left = 0 right = None if 		208 224
-quick_median pivot_index median_of_three pivot_index quick_median quick_median array if length < 2 		185 206
-bubble_optimized_with_flag passes passes for in range len array - 1 		61 77
-quick_inplace_repeat median_of_three partition_repeat quick_inplace_repeat quick_inplace_repeat 0 high = None 		244 264
+randrange def quick_random array length = len array if 		162 183
+sift_down def heap_sort array highest_index = len 		379 394
+staticmethod def quick_inplace_random array left = 0 right = None 		208 224
+pivot_index pivot_index quick_median array length = len array if length < 		185 206
+bubble_optimized_with_flag def array for passes in range len array - 		61 77
+partition_repeat def quick_inplace_repeat array low = 0 high = 		244 264
 sift_down def array start end root = start while root * 2 + 1 		408 427
-insertion_optimized enumerate array for i val 		122 134
+insertion_optimized def array for i val 		122 134
 sift_down def heapify array highest_index 		396 406
 len_left len_right len_left len_right right new = left_index right_index = 0 		354 369
 staticmethod def merge_sort array length = len 		334 352

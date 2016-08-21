@@ -1,0 +1,3 @@
+def main tc = int next for i in range tc print case #%d: % i + 1 + str foo next 		10 13
+def foo s s = str s s2 = for c in s if len s2 == 0 or c >= s2 0 s2 = c + s2 else s2 = s2 + c return join s2 		16 24
+def next return lines pop 0 		7 8

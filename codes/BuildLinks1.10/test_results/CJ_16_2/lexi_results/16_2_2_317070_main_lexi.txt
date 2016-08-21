@@ -1,0 +1,6 @@
+def solve p num_q = p 0 count ? + p 1 count ? minimum = 10e9 min_score = 1e9 for digits in itertools product 0123456789 repeat = num_q digits = list digits sc0 = p 0 sc0 = join c if c != ? else digits pop for c in sc0 sc0i = int sc0 sc1 = p 1 sc1 = join c if c != ? else digits pop for c in sc1 sc1i = int sc1 abs_diff = abs sc0i - sc1i if abs_diff == minimum if max sc0 sc1 < min_score min_score = max sc0 sc1 minimum = abs_diff solution = sc0 sc1 if abs_diff < minimum min_score = max sc0 sc1 minimum = abs_diff solution = sc0 sc1 return solution 		9 32
+def read_ints return int x for x in f readline strip split  		39 40
+def read_floats return float x for x in f readline strip split  		45 46
+def read_cakes return True if x == + else False for x in f readline strip 		47 48
+def read_frac return int x for x in f readline strip split / 		41 42
+def read_strs return x for x in f readline strip split  		43 44

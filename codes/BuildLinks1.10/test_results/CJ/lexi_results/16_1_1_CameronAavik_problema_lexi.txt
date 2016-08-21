@@ -1,0 +1,1 @@
+def solve line string = for char in line if string == string = string + char continue first_code = ord string 0 char_code = ord char if first_code > char_code string = string + char else string = char + string return string 		5 17

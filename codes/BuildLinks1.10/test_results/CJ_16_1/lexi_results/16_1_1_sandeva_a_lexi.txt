@@ -1,0 +1,1 @@
+def f s r s = s 0 s 1 while s s s = s 0 s 1 r = s + r if s >= r 0 else r + s return r 		3 8

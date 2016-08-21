@@ -1,0 +1,5 @@
+all_bisections PRE POST PRE POST PRE POST = 0 for A B in 		45 62
+def 		22 25
+def processInput T = int raw_input for 		9 19
+all_bisections L for i in range 2 ** len L b 		29 42
+runAlgorithm results = for test_case in processInput 		66 74

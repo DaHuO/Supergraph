@@ -1,0 +1,2 @@
+altmax list 		3 7
+maximum_circle bff_pairs bff_pairs bff_pairs max_admire_circle altmax max_admire_circle for key in graph = for node in graph if graph graph node == node if node 		9 36

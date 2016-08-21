@@ -1,0 +1,1 @@
+def diff C lst for i in range len lst if C lst i > 0 C lst i -= 1 		8 11

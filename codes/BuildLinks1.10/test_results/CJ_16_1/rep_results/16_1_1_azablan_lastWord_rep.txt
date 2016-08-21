@@ -1,0 +1,2 @@
+findlast buildword 		3 7
+buildword news news buildword news buildword news finished 		9 20

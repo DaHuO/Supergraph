@@ -1,0 +1,5 @@
+tonum x 		12 13
+tr tonum tonum fullscan fullscan c_score 		26 31
+def main n = int next sys stdin for i in xrange 1 n + 		34 41
+fullscan empty_idx empty_idx empty_idx for i d in enumerate score 		16 23
+		7 9

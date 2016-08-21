@@ -1,0 +1,19 @@
+
+With same rare tokens:
+8 - 9 links:
+16_1_2_edgarthewise_B	:	7 - 8
+16_2_2_Stashio_B	:	18 - 19
+16_2_2_Stashio_B	:	12 - 16
+
+32 - 43 links:
+16_1_2_Gorigori_rankFile	:	1 - 15
+16_2_1_AgeOfEmpires2_round1B	:	10 - 20
+16_2_2_wlxiong_B	:	4 - 12
+16_2_2_wlxiong_B	:	4 - 12
+
+34 - 42 links:
+16_1_2_Gorigori_rankFile	:	1 - 15
+16_2_1_AgeOfEmpires2_round1B	:	10 - 20
+16_2_2_wlxiong_B	:	4 - 12
+16_2_2_wlxiong_B	:	4 - 12
+

@@ -1,0 +1,2 @@
+sorted_arr sorted_arr dic arr 		3 11
+numoftestcases numoftestcases with open b-large.in r as ins = int ins readline cases = for i in range n 		13 40

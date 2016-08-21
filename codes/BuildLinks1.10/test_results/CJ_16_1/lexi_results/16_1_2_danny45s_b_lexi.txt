@@ -1,0 +1,1 @@
+def solve problem a = np zeros 2501 for hlist in problem for height in hlist a int height += 1 b = for i in range len a if a i % 2 == 1 b += str i +  return b 		12 21

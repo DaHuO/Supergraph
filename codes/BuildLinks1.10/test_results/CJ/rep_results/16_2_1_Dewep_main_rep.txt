@@ -1,0 +1,1 @@
+find_number next_number find_number next_number next_number range 0 len digits try new_number = 		7 24

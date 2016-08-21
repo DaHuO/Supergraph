@@ -1,0 +1,1 @@
+def best_order org_str result = org_str 0 for c in org_str 1 if c < result 0 result += c else result = c + result return result 		3 10

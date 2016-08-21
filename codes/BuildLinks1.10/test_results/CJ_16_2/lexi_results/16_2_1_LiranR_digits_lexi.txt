@@ -1,0 +1,2 @@
+def handle_digit count digit letter res = while count get letter 0 > 0 res append str digit for d in nums digit count d -= 1 return res 		6 15
+def digits s c = Counter s cur = cur += handle_digit c 0 Z cur += handle_digit c 2 W cur += handle_digit c 4 U cur += handle_digit c 6 X cur += handle_digit c 8 G cur += handle_digit c 1 O cur += handle_digit c 3 H cur += handle_digit c 5 F cur += handle_digit c 7 S cur += handle_digit c 9 E cur sort return join cur 		17 33

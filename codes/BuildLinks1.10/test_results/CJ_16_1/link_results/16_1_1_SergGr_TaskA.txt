@@ -1,0 +1,10 @@
+
+With same rare tokens:
+10 - 20 links:
+16_1_2_SergGr_TaskB	:	22 - 38
+16_1_3_SergGr_TaskC	:	59 - 149
+16_1_3_SergGr_TaskC	:	152 - 164
+16_1_1_dzhu_1a-a	:	1 - 10
+16_1_1_CodeSmith_round1A-lastword	:	1 - 9
+16_1_1_Selwyntheo_last-word	:	2 - 10
+

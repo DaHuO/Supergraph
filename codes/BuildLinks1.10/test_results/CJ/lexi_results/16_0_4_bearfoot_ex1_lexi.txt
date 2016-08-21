@@ -1,0 +1,1 @@
+def truearr arr for i in range 0 10 if false == arr i return false return true 		21 25

@@ -1,0 +1,1 @@
+def findmissing ranklist resultlist = for i in xrange 1 2501 resultlist str i = 0 for list in ranklist for ele in list resultlist str ele += 1 result = for ele in resultlist if resultlist ele % 2 == 1 result append int ele result = sorted result strresult = for ele in result if len strresult != 0 strresult +=  strresult += str ele return strresult 		1 23

@@ -1,0 +1,2 @@
+def result input input = Counter input out = 0 * 10 out 0 = input Z remove input ZERO input Z out 6 = 		5 33
+def remove 		35 37

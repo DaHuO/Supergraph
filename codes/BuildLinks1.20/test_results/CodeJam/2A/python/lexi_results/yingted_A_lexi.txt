@@ -1,0 +1,6 @@
+def combine x y if none in x y return none return winner get x + y error 		22 25
+def forbidden_child winner other return forbidden_child_ winner + other 		10 11
+def update i x assert 0 <= i < 1 << n j = last + i while j != 0 y = combine x ans j ^ 1 if y == error return false ans j = x x = y j /= 2 return true 		35 45
+def assign i x if i == 1 << n return true if amt x == 0 return false amt x -= 1 if update i x for x2 in prs if assign i + 1 x2 return true update i none amt x += 1 return false 		47 63
+def solve for x in prs if assign 0 x return true 		65 68
+def main for t in xrange 1 1 + int raw_input print case #%d: % t n r p s = map int raw_input split amt = p p r r s s ans = none * 1 << n + 1 + 1 last = 1 << n def update i x assert 0 <= i < 1 << n j = last + i while j != 0 y = combine x ans j ^ 1 if y == error return false ans j = x x = y j /= 2 return true def assign i x if i == 1 << n return true if amt x == 0 return false amt x -= 1 if update i x for x2 in prs if assign i + 1 x2 return true update i none amt x += 1 return false def solve for x in prs if assign 0 x return true if solve print join ans last last + 1 << n else print impossible 		27 73

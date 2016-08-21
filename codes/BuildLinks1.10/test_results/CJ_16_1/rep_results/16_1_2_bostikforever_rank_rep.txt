@@ -1,0 +1,1 @@
+i_counter pos_i pos_i i_counter pos_i len a n = m + 1 / 2 diags = missing_i = 0 for i in xrange n 		5 32

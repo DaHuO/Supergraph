@@ -1,0 +1,7 @@
+def format_output case_num val return case #{case_num}: {val}\n format case_num = case_num val = val 		10 11
+def func orig_tile_num complexity viewable_num if viewable_num >= orig_tile_num return str num for num in range 1 viewable_num + 1 		6 8
+def parse_input io io readline while true try foo = io readline except io close break else try yield int elem for elem in foo split  		13 25
+def main all_output = run open sys argv 1 r print all_output 		37 39
+def run io all_output = for index line in enumerate parse_input io val = func * line output = format_output index + 1  join val if val else impossible all_output append output return join all_output strip 		29 35
+def isprime_time n timeout = 1 if n == 3 return true none if n % 2 == 0 return false 2 if n % 3 == 0 return false 3 i = 5 w = 2 t = time time while i * i <= n if n % i == 0 return false i if time time - t > timeout raise timeouterror %d took to long to determine % n n i += w w = 6 - w return true none 		47 69
+def __init__ self msg value super timeouterror self __init__ self msg self value = value 		43 45

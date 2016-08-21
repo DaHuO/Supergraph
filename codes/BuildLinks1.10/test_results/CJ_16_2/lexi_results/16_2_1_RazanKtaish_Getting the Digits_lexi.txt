@@ -1,0 +1,2 @@
+def find_num string num for e in num if e not in string return False return True 		7 11
+def remove_num string num for e in num string remove e return string 		12 15

@@ -1,0 +1,8 @@
+make_lower can_be_lower c2 assert c1 c2 if c1 		11 16
+can_be_lower c1 c2 if 		6 9
+def matches s pattern if len 		66 70
+assume_first_lower_or_eq can_be_equal can_be_lower make_lower p1 = p2 = l = len s1 i = 0 while i < same and s1 i s2 i if 		26 52
+select_better diff_a diff_b diff_a diff_b diff_a diff_b is None return b1 b2 if b1 is 		54 64
+can_be_equal c1 c2 		3 4
+def make_max 		18 20
+def make_min 		22 24

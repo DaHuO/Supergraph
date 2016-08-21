@@ -1,0 +1,1 @@
+def solve s digits = 0 * 10 c = Counter s digits 0 = c Z c subtract digits 0 * ZERO digits 2 = 		7 34

@@ -1,0 +1,1 @@
+def func word j = word 		11 18

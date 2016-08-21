@@ -1,0 +1,1 @@
+def are_all_chars_in number string for ch in reversed number if ch in string string remove ch else return False return True 		7 13

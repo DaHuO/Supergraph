@@ -1,0 +1,5 @@
+def counts s return 		1 2
+cnp cnp s def rec cn seen while cn idx z > 0 cn ok = matches cn 0 assert ok seen += 0 while cn idx g 		29 70
+def matches cn digit ret = 		16 24
+def 		26 27
+cnp cnp cn seen while cn idx z > 0 cn ok = matches cn 0 assert ok seen += 0 while cn idx 		30 66

@@ -1,0 +1,2 @@
+solve_to_file write_output filename_out 		14 18
+def solve inputs outputs 		4 12

@@ -1,0 +1,1 @@
+solveit m: s[index]: word: word = index = 0 slen = len 		6 21

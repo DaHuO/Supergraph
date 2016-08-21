@@ -1,0 +1,24 @@
+def decorating_function user_function def wrapper * args ** kwargs if 		55 63
+memoize_it winning winning winning winning len C == len J == 0 return if == C_WINNING c_res = C replace ? 0 j_res = J replace ? 9 return c_res j_res elif == J_WINNING c_res = C replace ? 9 j_res = J replace ? 0 return c_res j_res else assert == UNDECIDED if C 0 != ? and J 0 != ? if C 0 > J 0 c_tmp j_tmp = get_best C 1 J 1 C_WINNING elif C 0 < J 0 c_tmp j_tmp = get_best C 1 J 1 J_WINNING else c_tmp j_tmp = get_best C 1 J 1 UNDECIDED return C 0 + c_tmp J 0 + 		231 353
+def get_diff 		356 357
+def time_it inner_func wraps inner_func def wrapper * args ** kwargs print --> Start 		39 50
+main_run st_mtime .parsed.txt 000 GCJIOWrapper Conclusion getcwd file_names = x for x in os listdir l1 = os stat x x for x in file_names if x endswith .in if 		161 197
+def readline 		140 144
+def 		155 157
+def __init__ self input_filename parsed_filename output_filename 		119 126
+time_it def solve_all_cases io_wrapper T 		201 207
+__exit__ type_e 		134 138
+__enter__ self self __input_file 		128 132
+log_it arguments = True output = True def decorating_function user_function def wrapper 		54 64
+def 		151 153
+def wrapper * args ** kwargs if arguments print 		56 62
+memoize_it inner_func global __memoization_registry cache = __memoization_registry 		15 25
+reset_memoization global 		29 33
+wraps inner_func def wrapper * args ** kwargs print --> Start function \' 		40 49
+\n## _BigOnion ##\n 		146 149
+wraps inner_func def wrapper 		20 24
+count_it inner_func global _CALL_FUNC_COUNTERS assert type _CALL_FUNC_COUNTERS == 		68 79
+def solve_one_case io_wrapper C J = io_wrapper 		218 226
+wraps inner_func def wrapper 		74 78
+time_it wraps inner_func def wrapper * args ** kwargs filename = pre-process_ + inner_func __qualname__ + .pickle if filename not in os listdir print 		90 107
+pre_process_it getargspec keywords varargs defaults must a = inspect inner_func if a args or a or a or a raise ValueError A pre process function not have arguments time_it wraps inner_func 		83 109

@@ -1,0 +1,3 @@
+Ca Ja Ca Ja perm1 genPossible Ca perm2 genPossible Ja min1 min2 perm1 perm2 min1 min2 min1 min2 min1 min2 len C append 		22 49
+genPossible S count = 0 for s 		11 20
+def extractDigits num S dig = for i in 		1 9

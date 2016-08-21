@@ -1,0 +1,1 @@
+def solve testcase x = sys stdin readline strip 		3 13

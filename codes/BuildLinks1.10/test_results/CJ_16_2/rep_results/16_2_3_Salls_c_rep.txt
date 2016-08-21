@@ -1,0 +1,2 @@
+solve_helper solve pairs word_counts1 = dict word_counts2 = 		4 14
+solve_helper mem_key mem_key mem_key num_faked test1 solve_helper test2 solve_helper test1 test2 mem_key items if in memoized return memoized if 		18 41

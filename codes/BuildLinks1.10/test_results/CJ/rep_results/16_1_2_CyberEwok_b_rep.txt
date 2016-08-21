@@ -1,0 +1,1 @@
+trial cur_list cur_list trial trials = int in_file readline for in range 1 trials + 1 sol = 		1 19

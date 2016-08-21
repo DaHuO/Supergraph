@@ -1,0 +1,2 @@
+def main t = int 		15 18
+def solve s ret = 		6 13

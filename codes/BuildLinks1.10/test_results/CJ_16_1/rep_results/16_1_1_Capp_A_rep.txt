@@ -1,0 +1,1 @@
+def solve s if len s == 0 return bi = 0 bc = 		7 23

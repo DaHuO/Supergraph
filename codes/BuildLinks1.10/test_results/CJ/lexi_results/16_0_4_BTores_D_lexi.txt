@@ -1,0 +1,1 @@
+def solve case casearray = case split k c s = int x for x in casearray if k == 1 return 1 return  join str k for k in range 1 k + 1 		1 7

@@ -1,0 +1,1 @@
+u_order digit_name digit_names digit_name max_occurence digit_name max_occurence max_occurence = for 		7 19

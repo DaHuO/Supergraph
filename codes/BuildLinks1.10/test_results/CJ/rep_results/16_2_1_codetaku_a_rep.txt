@@ -1,0 +1,3 @@
+listsort 		16 17
+retopen tnum 		21 22
+runtest retopen lines output tmp = lines 0 scrambled = for a in tmp scrambled append a val = try while scrambled index z != - 1 val += 0 scrambled remove z scrambled remove e scrambled remove r scrambled remove o except pass try while scrambled index w != - 1 val += 2 scrambled remove t 		24 124

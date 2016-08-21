@@ -1,0 +1,2 @@
+findBest possibleScoreAs possibleScoreBs smallest_diff scoreA scoreB psa possibleScoreAs psb possibleScoreBs psb 		18 34
+genPossibleScores possibleChars possibleChars possibleChars possibleNext genPossibleScores possibleStrings possibleChars possibleNext possibleStrings 		4 16

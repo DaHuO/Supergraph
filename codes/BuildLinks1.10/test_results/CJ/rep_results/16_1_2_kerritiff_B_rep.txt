@@ -1,0 +1,1 @@
+def solve n ans = set for i 		1 10

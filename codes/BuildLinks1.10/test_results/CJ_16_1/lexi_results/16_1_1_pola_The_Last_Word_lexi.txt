@@ -1,0 +1,1 @@
+def solve w out = w 0 for x in range 1 len w c = w x if c < out 0 out += c else out = c + out return out 		4 15

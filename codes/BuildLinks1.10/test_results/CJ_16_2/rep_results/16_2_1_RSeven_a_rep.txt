@@ -1,0 +1,3 @@
+canAdd addDict global d global res if sum d values == 		29 49
+addDict d s for 		18 25
+canAdd d i d2 = dict d 		5 16

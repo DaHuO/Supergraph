@@ -1,0 +1,3 @@
+solve_all ofilename ofilename gen_problem solve_problem 		45 49
+gen_problem fsp fsp open 		15 21
+solve_problem tgt tgt tgt tgt 0 for x in letters for letter in numbers catNum letter 		24 42

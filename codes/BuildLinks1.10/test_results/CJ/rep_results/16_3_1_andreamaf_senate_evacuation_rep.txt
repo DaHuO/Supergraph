@@ -1,0 +1,2 @@
+def check p s 		2 7
+v0 v0 tmp1 v0 tmp1 tmp1 p = map int raw_input split ans = while sum p if not check p raise exception 		10 42

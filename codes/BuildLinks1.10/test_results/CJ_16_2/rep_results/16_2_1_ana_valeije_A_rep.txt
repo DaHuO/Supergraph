@@ -1,0 +1,4 @@
+digits_str add_number n phone_digits 		5 9
+def solveCase case 		38 41
+def get_phone_number phone_str phone_digits = while phone_str if Z in phone_str phone_str = add_number 0 phone_digits phone_str elif N in phone_str and V not in phone_str 		11 36
+def writeLine fout 		43 45

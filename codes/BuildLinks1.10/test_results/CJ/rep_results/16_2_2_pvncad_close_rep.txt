@@ -1,0 +1,1 @@
+def solve a b if ? not in a and ? not in b return a b ra rb = a b if ? in 		4 25

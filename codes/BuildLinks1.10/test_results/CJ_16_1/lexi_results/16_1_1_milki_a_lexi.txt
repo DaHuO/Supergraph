@@ -1,0 +1,2 @@
+def output casenum ret print case #%d: %s % casenum + 1 ret 		13 14
+def main t = int raw_input for i in xrange t s = raw_input ret = for c in s if not ret or c >= ret 0 ret = c + ret else ret append c output i join ret 		1 11

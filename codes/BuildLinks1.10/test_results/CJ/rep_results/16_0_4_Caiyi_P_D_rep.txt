@@ -1,0 +1,5 @@
+func1 k c res = for pos in range 1 k + 1 q = set 		9 34
+func_small k 		93 94
+func2 sets n d = k = len 		39 54
+func3 removed removed removed removed assert len d == n res = = set for 		56 91
+write_res file_name res with open file_name w as f 		96 102

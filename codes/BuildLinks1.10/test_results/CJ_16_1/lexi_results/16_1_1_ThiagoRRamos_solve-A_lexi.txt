@@ -1,0 +1,1 @@
+def solve word if len word == 0 return letter index = max b a for a b in enumerate word return letter + solve word 0 index + word index + 1 		5 9

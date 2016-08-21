@@ -1,0 +1,2 @@
+def solve c c = c 		4 15
+def main with open a-large.in r as infile 		17 23

@@ -1,0 +1,1 @@
+def solve nums min_v ans = for i in range min_v 10 if max nums == 0 break n 		8 29

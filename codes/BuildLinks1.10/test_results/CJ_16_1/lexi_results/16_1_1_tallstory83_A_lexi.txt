@@ -1,0 +1,1 @@
+def solve cipher ret = cipher 0 for ch in cipher 1 if ret 0 <= ch ret = ch + ret else ret = ret + ch return ret 		4 11

@@ -1,0 +1,2 @@
+def helper k c for k in xrange 0 k c res = sum k ** c - c - 1 * k + c for c in xrange 0 c if k + c < k yield res 		21 24
+def main fin = open input.txt r total_t = int fin readline for t in xrange 1 total_t + 1 k c s = map int fin readline rstrip \n split if s * c < k print case #{}: impossible format t continue print case #{}: {} format t  join map lambda i str i + 1 helper k c 		4 19

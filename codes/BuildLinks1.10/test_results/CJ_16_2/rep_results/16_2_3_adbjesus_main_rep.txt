@@ -1,0 +1,1 @@
+def solve C = int input W = for c in range C W append s 		3 64

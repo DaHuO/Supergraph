@@ -1,0 +1,4 @@
+def fill c j number counter = 0 for i in range 		26 40
+try_equal equal_possible equal_possible equal_possible true for i in range len c if c i 		7 23
+try_equal solve c 		56 106
+qmarks qmarks qmarks diff_tmp diff_tmp diff_tmp diff_tmp ? + j count ? min_c min_j 		43 53

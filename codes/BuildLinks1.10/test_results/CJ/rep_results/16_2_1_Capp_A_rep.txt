@@ -1,0 +1,1 @@
+rets rets rets ret = none * 10 ret 0 = s count z ret 1 = s count n ret 2 = 		5 26

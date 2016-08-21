@@ -1,0 +1,5 @@
+def put 		15 16
+def remove 		39 41
+def memo f cache = 		5 10
+def solve s letterCounts = Counter s n0 = letterCounts Z remove letterCounts 0 n0 n6 = letterCounts X remove letterCounts 6 n6 n4 = letterCounts 		43 78
+def wrap * 		7 9

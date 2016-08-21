@@ -1,0 +1,2 @@
+def func rr if len rr <= 1 return 		16 27
+doprob 		29 31

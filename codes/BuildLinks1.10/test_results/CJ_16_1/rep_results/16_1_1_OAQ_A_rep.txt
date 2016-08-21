@@ -1,0 +1,2 @@
+put_letter word letter if len 		11 18
+put_letter solve string letters 		21 27

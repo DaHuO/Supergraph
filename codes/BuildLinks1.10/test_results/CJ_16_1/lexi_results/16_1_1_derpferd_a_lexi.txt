@@ -1,0 +1,8 @@
+def __init__ self f self f = f 		16 17
+def do_test s = word = raw_input words = get_combs word return list sorted words - 1 		40 46
+def raw_input return fpin readline strip 		12 13
+def main line = raw_input num_tests = int line for i in range num_tests print case # + str i + 1 + : + do_test 		49 53
+def get_combs s cs = s 0 for c in s 1 ncs = for t in cs ncs += c + t t + c cs = ncs return cs 		30 37
+def write self text fpout write text self f write text 		19 21
+def put s sys stdout write s 		27 28
+def flush self fpout flush self f flush 		23 25

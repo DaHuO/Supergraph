@@ -1,0 +1,2 @@
+def solve word lastword = word 1 		5 14
+numberoftests numberoftests filename = sys argv 1 filehandle = 		16 24

@@ -1,0 +1,2 @@
+def findmax arr mymax = max arr indices = for i in range 0 len arr if arr i == mymax indices append i if len indices > 1 return mymax mymax indices secmax = - 1000 ind = - 1000 for i in range 0 len arr if arr i > secmax and i != indices 0 secmax = arr i ind = i return mymax secmax indices 0 ind 		1 16
+def allones arr all1s = true for a in arr if a != 1 return false ind = for i in range 0 len arr if arr i == 1 ind append i return true ind 		18 27

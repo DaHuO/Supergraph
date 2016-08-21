@@ -1,0 +1,2 @@
+Failed find: word for digit in digits while digit 		20 28
+solveIt Failed find: getDigits word for digit in digits while digit 		17 30

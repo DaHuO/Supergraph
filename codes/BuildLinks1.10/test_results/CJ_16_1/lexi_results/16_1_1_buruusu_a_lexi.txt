@@ -1,0 +1,1 @@
+def solve letters lastword = letters 0 for c in letters 1 if c < lastword 0 lastword append c else lastword insert 0 c return join lastword 		1 9

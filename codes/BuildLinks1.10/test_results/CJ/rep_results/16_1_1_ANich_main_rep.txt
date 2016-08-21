@@ -1,0 +1,1 @@
+def solve cipher word = word insert 0 		4 13

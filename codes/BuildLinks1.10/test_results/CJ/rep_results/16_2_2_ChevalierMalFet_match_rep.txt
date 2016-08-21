@@ -1,0 +1,3 @@
+generatepossibilities partialscore partialscore partialscore partialscore partialscore partialscore partialscore generatepossibilities partialscore significant partialscore future generatepossibilities partialscore crossproduct 		93 108
+matchscores minscore1 minscore2 generatepossibilities generatepossibilities minscore1 minscore2 minscore1 minscore1 minscore2 minscore1 minscore2 minscore2 minscore1 minscore2 i 		110 127
+checkcompatibility partialscore strscore partialscore partialscore partialscore 		85 91

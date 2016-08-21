@@ -1,0 +1,2 @@
+analyse string print print string uniques = 0 Z ZERO 2 W TWO 4 		3 31
+analyse run name lines = l for l in open name 		33 41

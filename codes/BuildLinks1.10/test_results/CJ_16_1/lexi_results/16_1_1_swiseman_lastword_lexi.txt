@@ -1,0 +1,1 @@
+def getanswer p answer = answer = answer + p 0 p = p 1 for i in p if i == max answer + i answer = i + answer else answer = answer + i return answer 		1 12

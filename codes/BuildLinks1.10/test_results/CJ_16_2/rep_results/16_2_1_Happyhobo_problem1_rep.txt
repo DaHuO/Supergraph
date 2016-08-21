@@ -1,0 +1,3 @@
+afile afile 		1 5
+isIN herp herp isGood isGood isGood in string append k 		7 22
+def remove string number for i 		25 32

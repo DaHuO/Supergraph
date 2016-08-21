@@ -1,0 +1,2 @@
+def remove s d digit = digitsmap d for c in digit s = s replace c 1 return s 		30 34
+def contains s d digit = digitsmap d for c in digit if c not in s return false else s = s replace c 1 return true 		19 27

@@ -1,0 +1,2 @@
+def solve k c s 		17 24
+def solve2 k c if c == 1 or k == 		1 14

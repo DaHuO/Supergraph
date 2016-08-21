@@ -1,0 +1,3 @@
+def success d 		18 22
+def check d x 		12 16
+def work d x if x < 0 return if success 		24 40

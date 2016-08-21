@@ -1,0 +1,3 @@
+def 		52 53
+def process num r = input p = input split  p = list map int p sonuc = while true if sonuc != 		5 41
+def f1 a for 		46 50

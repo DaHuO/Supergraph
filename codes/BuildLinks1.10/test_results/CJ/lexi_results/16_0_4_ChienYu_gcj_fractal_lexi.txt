@@ -1,0 +1,1 @@
+def each_case k c s if c * s < k return impossible positions = for i in xrange k / c p = 0 for c in xrange i * c i + 1 * c p = p * k + c positions append p + 1 if k % c p = 0 for c in xrange k / c * c k p = p * k + c positions append p + 1 assert len positions <= s return  join map str positions 		3 20

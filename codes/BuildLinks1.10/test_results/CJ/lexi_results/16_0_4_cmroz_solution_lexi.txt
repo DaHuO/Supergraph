@@ -1,0 +1,6 @@
+def w level return k ** c - level 		20 21
+def choose_next x left level if len left == 0 or level > c return x left else next rem = left 0 left 1 xp = x + next * w level return choose_next xp rem level + 1 		23 29
+def solve k c s def w level return k ** c - level def choose_next x left level if len left == 0 or level > c return x left else next rem = left 0 left 1 xp = x + next * w level return choose_next xp rem level + 1 left = range k pts = while len left > 0 x left = choose_next 0 left level = 1 pts append x if len pts > s return impossible return  join str x + 1 for x in pts 		19 46
+def check_solution k c s pts sets = for k in xrange k x0 = join g if i == k else l for i in range k ret = f x0 c x0 sets append set i for i in xrange len ret if ret i == g tmp = set for x in pts tmp |= set k for k in range k if x in sets k return len tmp == k 		53 67
+def dump k c for k in xrange k x0 = join g if i == k else l for i in range k print %s: %s % x0 f x0 c x0 		48 51
+def f x c x0 = none if x0 is none x0 = x while c > 1 ret = for c in x if c == g ret += g * len x0 else ret += x0 x = ret c -= 1 return x 		3 17

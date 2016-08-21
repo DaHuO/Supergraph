@@ -1,0 +1,47 @@
+Direct links:
+1 - 8 links:
+16_1_1_Serkesh_lastWord	:	8 - 15
+16_1_1_alexis_ivashchenko_prog1	:	4 - 13
+16_1_1_lingchunkai_A	:	2 - 14
+16_1_1_MichelJ_A	:	19 - 26
+16_1_1_erojas_lastword	:	36 - 45
+16_1_1_Mauro_a	:	6 - 13
+16_1_1_vinitnalhe_a	:	3 - 10
+16_1_1_fthd_last	:	18 - 27
+16_1_1_LostHorizon_solveA	:	1 - 10
+16_1_1_riceluxs1t_A	:	1 - 9
+16_1_1_VoidRay_A	:	3 - 17
+16_1_1_hehaodele_0	:	3 - 12
+16_1_1_weitang114_a	:	4 - 11
+16_1_1_adbjesus_main	:	1 - 11
+16_1_1_ob1_a	:	5 - 15
+16_1_1_Leo_T_word	:	15 - 23
+16_1_1_luca_wehrstedt_A	:	3 - 11
+16_1_1_phg1024_A	:	1 - 9
+16_1_1_EnTerr_LastWord	:	58 - 65
+16_1_1_Jethol_A	:	16 - 28
+16_1_1_solomon_wzs_the_last_word	:	4 - 11
+16_1_1_Kbo_problem_a	:	6 - 13
+16_1_1_lkj_a	:	1 - 8
+16_1_1_kazuyoshi_hayase_A	:	1 - 8
+16_1_1_shreyash14s_lastword	:	1 - 8
+16_1_1_idon2020_round1	:	3 - 10
+16_1_1_helca_A	:	1 - 8
+16_1_1_wanly233_problem1	:	4 - 11
+16_1_1_yangrui_theLastWord	:	4 - 11
+16_1_1_lostrainbow_Asmall	:	9 - 19
+16_1_1_fred_wulei_the_last_word	:	1 - 9
+16_1_1_sgomnt_solution	:	4 - 11
+16_1_1_Nihilant_p1	:	3 - 11
+16_1_1_MathProgrammer_word	:	3 - 10
+16_1_1_pedrosorio_A	:	1 - 8
+16_1_1_klolos_jama	:	6 - 14
+16_1_1_SergGr_TaskA	:	10 - 20
+16_1_1_cptcarrot_proba	:	1 - 8
+16_1_1_Efi136_Code Jam Round 1A	:	6 - 15
+
+
+With same rare tokens:
+13 - 15 links:
+16_1_1_patrickcs01_TheLASTWORD	:	23 - 27
+

@@ -1,0 +1,2 @@
+def special d s sn 		11 15
+def remove d 		6 9

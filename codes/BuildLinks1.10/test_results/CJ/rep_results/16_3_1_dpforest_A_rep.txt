@@ -1,0 +1,10 @@
+def solve f skip = false n = f read_int p = f read_int_list if skip return 0 ss = 		11 35
+def read_float 		45 47
+def __init__ 		38 40
+read_decimal_list self 		61 63
+def read_int 		42 44
+def read_float_list 		58 60
+def read_int_list 		55 57
+def read_str_list 		64 66
+read_decimal self 		48 50
+def read_str 		51 53

@@ -1,0 +1,1 @@
+def do_solve S occ = Counter occ 0 = S count Z occ 2 = S count W occ 4 = S count U occ 6 = S count X occ 8 = S count G occ 5 = S count F - occ 4 occ 7 = S count S - occ 6 occ 3 = S count H - occ 8 occ 1 = S count O - occ 0 - occ 2 - occ 4 occ 9 = S count I - occ 5 - occ 6 - occ 8 res = for i in xrange 10 res += str i * occ i return res 		25 46

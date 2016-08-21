@@ -1,0 +1,7 @@
+
+With same rare tokens:
+3 - 44 links:
+16_0_4_bigOnion_fractiles	:	79 - 105
+16_2_2_bigOnion_close_match	:	83 - 109
+16_2_1_bigOnion_phone	:	83 - 109
+

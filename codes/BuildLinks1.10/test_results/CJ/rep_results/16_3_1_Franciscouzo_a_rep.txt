@@ -1,0 +1,2 @@
+def count sen 		3 7
+max_i1 max_s1 max_i1 max_i2 max_s2 max_i2 max_i1 max_i2 % 2 == 1 max_i max_s = max enumerate 		9 21

@@ -1,0 +1,6 @@
+print_sol self 		16 17
+read_input_and_process no_of_test_cases no_of_test_cases debugger raw_input for self case_no in xrange 		22 34
+read_input_and_process __init__ self debug_sol 		5 10
+debugger 		12 14
+r{} f{} s{} i{} print_sol w = u = x = g = o = r = f = s = I = 0 for ch in self lines if ch == Z z += 1 elif ch == W w += 1 elif ch == U u += 		40 93
+		19 20

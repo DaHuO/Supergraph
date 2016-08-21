@@ -1,0 +1,3 @@
+processing Finished t = int 		3 8
+## 		27 28
+num_strings 0246835719 num_strings s = list sys stdin readline strip = ZERO ONE TWO THREE FOUR FIVE SIX 		10 25

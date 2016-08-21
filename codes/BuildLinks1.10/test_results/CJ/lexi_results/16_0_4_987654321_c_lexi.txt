@@ -1,0 +1,1 @@
+def test_case a a = a rstrip split  if len a < 3 return k = int a 0 c = int a 1 s = int a 2 if s < k / c return impossible else solutions = x = 1 while x <= k sol = x for j in range x + 1 min x + c k + 1 m = int math pow k j - x sol = sol + j - 1 * m x = x + c solutions append sol return solutions 		8 37

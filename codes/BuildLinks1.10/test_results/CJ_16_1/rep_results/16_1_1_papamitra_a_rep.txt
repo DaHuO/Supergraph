@@ -1,0 +1,2 @@
+def solve s solv = 		5 12
+def main sys stdin readline 		14 18

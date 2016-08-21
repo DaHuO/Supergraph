@@ -1,0 +1,2 @@
+indicator indicator str digit digit_str digits 		18 24
+get_tha_digits str digits = str new_digits = get_all_tha str 0 ZERO Z digits extend new_digits str new_digits = get_all_tha str 2 TWO W 		26 48

@@ -1,0 +1,3 @@
+getNumbers main cases = int raw_input 		19 24
+removeFirst goAway goAway = letters 		1 6
+getNumbers lookFor lookFor removeFirst for 		10 17

@@ -1,0 +1,3 @@
+test_name get_odd_heights test_name = with open + .in r as f rows = int f readline for i in 		3 24
+insert_sorted x niz res = counter 		35 44
+get_odd_heights insert_sorted res = counter 		26 33

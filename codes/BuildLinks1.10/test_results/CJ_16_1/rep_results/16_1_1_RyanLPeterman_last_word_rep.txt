@@ -1,0 +1,2 @@
+def get_last_word string ans = 		16 26
+file_handler file_handler with open sys argv 1 as 		3 13

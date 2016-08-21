@@ -1,0 +1,3 @@
+def max_v s res = 0 		7 12
+def min_v s res = 		14 19
+digit_c digit_j digit_c digit_j digit_c digit_j digit_c digit_j 0 0 if i in cache return cache i basis = 10 ** l - i - 1 candidates = if c i == ? and j i == ? candidates append dp i + 1 candidates append max_v c i + 1 basis + min_v j i + 1 candidates append basis + min_v c i + 1 max_v j i + 1 elif 		27 73

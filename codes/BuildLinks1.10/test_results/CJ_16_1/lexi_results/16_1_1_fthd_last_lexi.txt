@@ -1,0 +1,1 @@
+def ans s last = s 0 for i in s 1 if i >= last 0 last = i + last else last = last + i return last 		18 27

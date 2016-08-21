@@ -1,0 +1,6 @@
+def solve n r p s for seed in psr adult = make_mature seed n if make_sense adult r p s return adult return impossible 		34 39
+def make_mature seed n s = seed for level in reversed range n s = grow s level return s 		25 29
+def main t = int input for case_id in range 1 t + 1 n r p s = map int input split print case #%d: %s % case_id solve n r p s 		41 45
+def grow s level fn = lambda s evolve s level return join map fn s 		21 23
+def evolve s level if s == p return pr pr pr rp rp rp level % 6 if s == r return rs sr sr sr rs rs level % 6 if s == s return ps ps sp sp sp ps level % 6 		13 19
+def make_sense adult r p s return adult count r == r and adult count p == p and adult count s == s 		31 32

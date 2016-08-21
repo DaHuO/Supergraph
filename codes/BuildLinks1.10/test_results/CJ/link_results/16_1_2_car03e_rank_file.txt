@@ -1,0 +1,20 @@
+Direct links:
+5 - 10 links:
+16_1_1_car03e_last_word	:	4 - 9
+
+
+With same rare tokens:
+5 - 10 links:
+16_2_2_Ha_sH_solver	:	17 - 46
+16_1_1_car03e_last_word	:	4 - 9
+16_2_2_simleo_B	:	46 - 50
+16_2_2_Ha_sH_solver	:	17 - 46
+16_1_1_car03e_last_word	:	4 - 9
+16_2_2_simleo_B	:	46 - 50
+
+35 - 59 links:
+16_1_1_car03e_last_word	:	24 - 41
+16_1_1_car03e_last_word	:	24 - 41
+16_1_1_car03e_last_word	:	24 - 41
+16_1_1_car03e_last_word	:	24 - 41
+

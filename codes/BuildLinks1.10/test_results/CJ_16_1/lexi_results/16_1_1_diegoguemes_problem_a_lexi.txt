@@ -1,0 +1,1 @@
+def max_lexicographical string result = string 0 for c in string 1 if c >= result 0 result = c + result else result = result + c return join result 		1 8

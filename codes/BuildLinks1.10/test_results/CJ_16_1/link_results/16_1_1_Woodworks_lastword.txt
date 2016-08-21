@@ -1,0 +1,28 @@
+
+With same rare tokens:
+4 - 10 links:
+16_1_1_plin_lastWord	:	9 - 12
+
+18 - 28 links:
+16_1_1_fthomas_lastword	:	1 - 11
+16_1_1_fthomas_lastword	:	1 - 11
+
+12 - 16 links:
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+16_1_1_plin_lastWord	:	9 - 12
+

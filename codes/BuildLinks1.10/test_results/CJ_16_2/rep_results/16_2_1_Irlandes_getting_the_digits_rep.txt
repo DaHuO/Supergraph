@@ -1,0 +1,4 @@
+def letter_counts S result 		6 12
+process_word d letters count = 0 new_letters = 		14 26
+def 		3 4
+process_word solve case_num S result = dict letters = letter_counts S for x 		30 42

@@ -1,0 +1,1 @@
+def main num_cases = input for case_idx s in enumerate iter sys stdin readline 1 lastword = s 0 for c in s 1 strip if c >= lastword 0 lastword = c + lastword else lastword += c print case #{}: {} format case_idx lastword 		11 22

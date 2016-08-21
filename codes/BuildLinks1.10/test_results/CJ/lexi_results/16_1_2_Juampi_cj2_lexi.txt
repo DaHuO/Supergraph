@@ -1,0 +1,3 @@
+def read_data filename with open filename as f num_test_cases = int next f test_cases = for _ in range num_test_cases n = int next f lists = for _ in range 2 * n - 1 l = int n for n in next f split lists append l test_case = testcase n lists test_cases append test_case return num_test_cases test_cases 		18 30
+def __init__ self n l self n = n self lists = l 		2 4
+def solve self missing = for height in range 1 2501 count = 0 for l in self lists for n in l if n == height count += 1 if count % 2 == 1 missing append height missing sort return  join str e for e in missing 		5 16

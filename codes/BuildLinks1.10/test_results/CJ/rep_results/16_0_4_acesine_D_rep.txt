@@ -1,0 +1,1 @@
+def solve_small t = int raw_input for t in range 1 t + 1 		2 12

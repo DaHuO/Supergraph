@@ -1,5 +1,5 @@
 iter RULE b c = 		11 16
 solve2 N R P S M = 1 << N a = sorted R R P P S S reverse = 		30 51
 def test b s t = 		20 28
-{1} main f = open sys argv 1 if len 		66 73
+def main f = open sys argv 1 if len 		66 73
 clear solve N R P S z = 		53 64

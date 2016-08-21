@@ -1,0 +1,12 @@
+writeResults results name with open name 		226 231
+getResults *********** getAnswer results = with open name r as f k = 0 		170 190
+getResultsAlt *********** sent results = with open name r as f k = 0 new = True number = 0 		192 223
+def lcm 		28 29
+getAnswer2 int64 diag diag int64 inverse int64 inverse int64 inverse i in lines 1 n = int j for j in i split  lists append n m = np array lists dtype = np ordered = remain = range len lists for i in range 		76 121
+getAnswerMush sr sr sr int i for i in lines 1 split  count = int lines 0 s 		5 19
+probeOne group name lines = with open name r as 		155 168
+def lcm * numbers 		26 30
+getAnswerPast unit unit unit reduced workers fast argmin i in lines 0 split  minutes = int i for i in lines 1 split  m = lcm * minutes = 0 		32 63
+getAnswer1 lines r = for i in 		65 74
+getAnswer lead lead ERRRRRRRRRROOOOOOOOOOORRRR strAnswer strAnswer strAnswer nb = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE order = ZERO Z 0 TWO W 2 FOUR 		124 153
+fractions gcd 		21 24

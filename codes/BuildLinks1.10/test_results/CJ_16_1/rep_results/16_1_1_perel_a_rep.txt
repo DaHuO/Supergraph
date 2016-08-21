@@ -1,0 +1,2 @@
+al.in main fi = file fo = file a.out w time0 = time 		15 28
+def solve s ans = 		5 13

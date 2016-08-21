@@ -1,0 +1,2 @@
+def main test_num 		19 22
+def test test_idx inp res = left = right = sd = 		2 17

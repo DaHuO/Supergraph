@@ -1,0 +1,1 @@
+def delS s p for c in p s = s replace c 1 return s 		4 7

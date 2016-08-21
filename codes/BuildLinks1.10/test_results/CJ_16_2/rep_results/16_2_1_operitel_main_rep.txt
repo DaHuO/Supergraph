@@ -1,0 +1,1 @@
+remove_array arr1 		4 7

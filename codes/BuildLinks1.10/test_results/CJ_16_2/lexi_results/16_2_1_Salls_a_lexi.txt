@@ -1,0 +1,2 @@
+def solve s words global memoized if len s == 0 return for i in range len words try t = remove_word s words i 1 return str words i 0 + solve t words i except NotFound pass raise NotFound 		23 35
+def remove_word s word for c in word if c in s pos = s find c s = s pos + s pos + 1 else raise NotFound return s 		11 18

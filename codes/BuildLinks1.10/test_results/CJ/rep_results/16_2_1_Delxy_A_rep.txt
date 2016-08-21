@@ -1,0 +1,1 @@
+equi equi equi [] = zero one two three four five six seven eight nine dico = tmp = n0 count x if tmp != 0 dico six = tmp n0 = n0 replace s tmp n0 = n0 replace i tmp tmp = n0 count s if tmp != 0 dico 		3 69

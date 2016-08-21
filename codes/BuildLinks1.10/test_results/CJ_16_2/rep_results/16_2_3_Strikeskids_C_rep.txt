@@ -1,0 +1,6 @@
+add_nbr a b 		9 13
+add_path v on = True while v in 		23 35
+compute_fakes 		68 69
+extensive compute_insomnia random 		77 81
+def main 		71 75
+compute_fakes add_nbr add_nbr add_nbr add_path add_path = input split for _ in range n nbrs = dict def a b v if a in nbrs nbrs a b = v else nbrs a = b v for a b in strs 		5 66

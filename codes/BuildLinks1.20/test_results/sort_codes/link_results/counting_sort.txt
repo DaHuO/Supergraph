@@ -1,0 +1,18 @@
+
+With same rare tokens:
+15 - 44 links:
+cyclesort	:	3 - 20
+sorts	:	11 - 43
+sortable	:	49 - 52
+pysort	:	226 - 242
+pysort	:	208 - 224
+pysort	:	244 - 264
+sorting_algorithms	:	96 - 133
+test_sortable	:	26 - 47
+sortalg	:	42 - 63
+py_cocktail_sort	:	7 - 18
+cocktailsort	:	2 - 21
+
+4 - 12 links:
+bucketsort	:	5 - 19
+

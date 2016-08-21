@@ -1,0 +1,6 @@
+def brute line c j = line split c = int x if x != ? else - 1 for x in c j = int x if x != ? else - 1 for x in j n 		2 29
+def recsolve solc solj i if i == n return abs solc - solj solc solj if c i == - 1 and j i == - 1 a = maxcminj 10 * solc + 0 10 * solj + 1 i + 1 b = recsolve 10 * solc 10 * solj i + 1 d = mincmaxj 10 * solc + 1 10 		61 93
+def maxcminj solc solj i if i == n return solj - solc solc solj if c i == - 		37 47
+def recgen solc solj i if i == n sols append abs solc - solj solc solj else if c i == - 1 		9 24
+def mincmaxj solc solj i if i == n return solc - solj solc solj if c i == - 		49 59
+def solve line c j = line split c = int x if x != ? else - 1 for x in c j = int x if x != ? else - 1 for x in j n = len c def maxcminj solc solj i if i == n return solj - solc solc solj if c i == - 1 and j i == - 1 return maxcminj 10 * solc + 9 10 * solj + 0 i + 1 elif c i == - 1 return maxcminj 10 * solc + 9 10 * solj + j i i + 1 elif j i == - 1 return maxcminj 10 * solc + c i 10 		31 96

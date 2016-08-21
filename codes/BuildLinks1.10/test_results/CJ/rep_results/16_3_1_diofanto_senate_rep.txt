@@ -1,0 +1,2 @@
+check_majority parties m = 		5 10
+check_majority senate parties res = evacuated = 0 tot = sum parties while 		12 32

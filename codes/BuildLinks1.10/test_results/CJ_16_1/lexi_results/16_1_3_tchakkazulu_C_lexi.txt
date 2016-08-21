@@ -1,0 +1,1 @@
+def depth this other bffg_rev if this not in bffg_rev return 1 bffs = bff for bff in bffg_rev this if bff is not other if len bffs == 0 return 1 return max map lambda that depth that other bffg_rev + 1 bffs 		3 9

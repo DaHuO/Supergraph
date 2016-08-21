@@ -1,0 +1,1 @@
+printlastword s inp t = deque for i 		4 14

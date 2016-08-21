@@ -1,0 +1,3 @@
+construct_digits_count digits_count digits_count digits_count zero 		30 36
+digits_count construct_digits_count s = count = count_letters s digits = if z in count digits 0 = count z count z -= digits 0 count e -= digits 0 count r -= digits 0 count o -= digits 0 if w in count digits 2 = count w count t -= digits 2 count w -= digits 2 count o -= digits 2 if u in count digits 4 		46 122
+def count_letters s count 		38 44

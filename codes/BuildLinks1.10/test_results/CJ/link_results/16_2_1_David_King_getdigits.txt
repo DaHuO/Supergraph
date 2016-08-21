@@ -1,0 +1,17 @@
+Direct links:
+4 - 7 links:
+16_1_1_David_King_last_word	:	3 - 6
+16_0_4_David_King_fractiles	:	3 - 6
+16_3_1_David_King_senate_evacuation	:	4 - 7
+
+
+With same rare tokens:
+4 - 7 links:
+16_1_1_David_King_last_word	:	3 - 6
+16_0_4_David_King_fractiles	:	3 - 6
+16_3_1_David_King_senate_evacuation	:	4 - 7
+
+9 - 39 links:
+16_2_1_EnTerr_GettingDigits	:	50 - 65
+16_2_1_EnTerr_GettingDigits	:	50 - 65
+

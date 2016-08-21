@@ -1,0 +1,1 @@
+def solve s ans = for c in s if ans + c < c + ans ans = c + ans else ans = ans + c return ans 		1 8

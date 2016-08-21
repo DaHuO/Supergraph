@@ -1,0 +1,5 @@
+getMultInt 		21 22
+getMultFloat 		24 25
+minDif minAstr minBstr minDif minAstr minBstr minDif minDif minAstr minBstr minAstr minBstr minB global global global if idx == len A if abs aVal - bVal < minA = aVal minB = bVal = aStr = bStr = abs aVal - bVal elif abs aVal - bVal == if 		32 76
+getLine 		18 19
+getLine global 		12 16

@@ -1,0 +1,1 @@
+def solve h_max = 2510 x = input fs = 0 * h_max for i in range x * 2 - 1 for x in map int raw_input split fs x += 1 ans = for i in range h_max if fs i % 2 == 1 ans append i return  join map str ans 		1 12

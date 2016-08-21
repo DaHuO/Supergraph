@@ -1,0 +1,1 @@
+def solve rem h k if len rem == 0 		4 11

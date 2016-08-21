@@ -1,0 +1,2 @@
+parse_line lists_copy parse_line lists_copy rnc lists_copy lists_copy missing_l missing_l out_s missing_l xrange 2 * n - 1 lists append append lists - 1 mat = 0 		94 132
+can_row can_col can_row can_row can_col can_col can_col can_row false if len lists == 0 return true n = len lists 0 if i == n or j == n rows_and_cols = for i in xrange n l = mat i j for j in xrange n rows_and_cols append l for j in xrange n l 		10 92

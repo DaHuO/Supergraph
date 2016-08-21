@@ -1,0 +1,2 @@
+def get_input with open sys argv 1 rb as fd fd readline while true line = fd readline if line == break yield line strip 		11 19
+def print_case output global current_case print case_line_format % current_case output current_case += 1 		21 24

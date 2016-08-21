@@ -1,0 +1,17 @@
+def test_solutions path_in until_first_fail = true cases = load_cases path_in for cn c in enumerate cases o = solve c if not verify_outcome c o print wrong outcome! print case #{0}: format cn print c print outcome: print o if until_first_fail return c else print \n\n 		103 116
+def find_max_pos lines p max_v = max l p for l in lines ps = i for i in xrange len lines if lines i p == max_v return ps 		30 33
+def find_missing_max lines lines = list lines for p in xrange len lines // 2 - 1 - 1 ps = find_max_pos lines p assert len ps in 1 2 if len ps == 1 return p lines ps 0 elif len ps == 2 assert ps 1 > ps 0 del lines ps 1 del lines ps 0 		45 55
+def read_list f return int x for x in read_line f split 		6 7
+def gen_cases return 		118 120
+def load_cases path with open path as f n = int f readline cases = for _ in xrange n cases append load_single_case f return cases 		16 22
+def outcome_string outcome return  join str c for c in outcome 		76 77
+def find_min_pos lines p min_v = min l p for l in lines ps = i for i in xrange len lines if lines i p == min_v return ps 		26 29
+def read_tuple f return tuple read_list f 		8 9
+def read_line f while true s = f readline strip if s return s 		1 5
+def solve case lines = case mmin mminc = find_missing_min lines mmax mmaxc = find_missing_max lines assert mmin == mmax assert mminc == mmaxc nums = l mmin for l in lines for x in mminc del nums nums index x nums = nums + mminc mmin nums sort return nums 		58 69
+def find_missing_min lines lines = list lines for p in xrange len lines // 2 + 1 ps = find_min_pos lines p assert len ps in 1 2 if len ps == 1 return p lines ps 0 elif len ps == 2 assert ps 1 > ps 0 del lines ps 1 del lines ps 0 		34 44
+def test_solutions_gen until_first_fail = true cases = gen_cases for cn c in enumerate cases o = solve c if not verify_outcome c o print wrong outcome! print case #{0}: format cn print c print outcome: print o if until_first_fail return c else print \n\n 		122 135
+def process path_in path_out = none if path_out == none path_out = path_in rsplit . 1 0 + .out cases = load_cases path_in outcomes = solve c for c in cases save_outcomes path_out outcomes 		84 89
+def save_outcomes path outcomes with open path w as f for n o in enumerate outcomes f write case #{0}: {1}\n format n + 1 outcome_string o 		80 83
+def verify_outcome case outcome return outcome == solve case 		99 101
+def load_single_case f n = read_tuple f return read_list f for _ in xrange 2 * n - 1 		11 13

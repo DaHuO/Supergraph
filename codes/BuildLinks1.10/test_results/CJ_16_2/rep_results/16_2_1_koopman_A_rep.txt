@@ -1,0 +1,2 @@
+get_hist s hist = for i 		9 16
+sub_hist a b 		18 20

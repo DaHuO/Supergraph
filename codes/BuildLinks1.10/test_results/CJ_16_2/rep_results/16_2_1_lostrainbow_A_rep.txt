@@ -1,0 +1,2 @@
+def 		1 2
+IF IF s = readline split 0 save = 0 * 26 for i in s save Ord i += 1 numD = 0 * 10 numD 		4 24

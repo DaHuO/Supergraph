@@ -1,0 +1,1 @@
+def task1 s word = s 0 for i in range 1 len s s = s i if ord s >= ord word 0 word = s + word else word = word + s return word 		5 13

@@ -1,0 +1,1 @@
+def compute s idx res digits = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE if idx >= len 		3 25

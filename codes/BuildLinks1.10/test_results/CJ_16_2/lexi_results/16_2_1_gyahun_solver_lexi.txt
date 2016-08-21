@@ -1,0 +1,2 @@
+def read line return Test line strip 		8 9
+def solve test letters = Counter test S counts = Counter for i lt in enumerate ZWUXG d = i * 2 counts d = letters lt for t in range counts d letters -= DIGITS d for i lt in enumerate OHFS d = i * 2 + 1 counts d = letters lt for t in range counts d letters -= DIGITS d counts 9 = letters I return join map str sorted counts elements 		11 29

@@ -1,0 +1,2 @@
+fetch i phone_num n = numbers 		29 38
+def run items phone_num = n for n in 		40 57

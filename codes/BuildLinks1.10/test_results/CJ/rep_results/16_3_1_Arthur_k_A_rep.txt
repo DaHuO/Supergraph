@@ -1,0 +1,1 @@
+idx0 idx0 idx0 idx0 n = int input data = int elem for elem in input 		9 27

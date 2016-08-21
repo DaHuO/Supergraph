@@ -1,0 +1,1 @@
+instance s_chars single_seqs s_chars s_chars s_chars for x in s if x in 		72 94

@@ -1,0 +1,1 @@
+def solve cipher letters = digits = for letter in cipher if letter in letters letters letter += 1 else letters letter = 1 if X in letters and letters X > 0 for i in range letters X digits append 6 letters S -= letters X letters I -= letters X letters X -= letters X if Z in letters and letters Z > 0 for i in range letters Z digits append 0 letters 		7 83

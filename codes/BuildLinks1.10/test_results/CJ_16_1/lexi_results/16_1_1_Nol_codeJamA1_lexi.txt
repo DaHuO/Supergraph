@@ -1,0 +1,2 @@
+def lastword s lastword = s 0 for c in s 1 if c >= lastword 0 lastword = c + lastword else lastword = lastword + c return lastword 		3 10
+def main infile = open dataset.txt r outfile = open output.txt w casenumber = int infile readline print number of case : + str casenumber i = 1 for line in infile outfile write case # + str i + : + lastword line i = i + 1 infile close outfile close pass 		13 24

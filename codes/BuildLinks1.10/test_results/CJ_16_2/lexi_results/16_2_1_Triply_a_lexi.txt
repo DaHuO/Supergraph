@@ -1,0 +1,2 @@
+def find_phone_number s letter_count = np zeros 26 for c in s lower letter_count letters index c += 1 numbers = np linalg lstsq m letter_count 0 phone = for i in xrange 10 phone += str i * int numbers i + 1e-6 return phone 		28 37
+def word_to_vector word v = np zeros 26 for c in word v letters index c += 1 return v 		8 12

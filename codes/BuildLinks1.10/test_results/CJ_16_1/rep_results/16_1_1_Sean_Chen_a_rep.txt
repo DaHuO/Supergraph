@@ -1,0 +1,1 @@
+def solve s ans = max 		1 13

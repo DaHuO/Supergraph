@@ -1,0 +1,4 @@
+def digits_left freq_map for i in freq_map if freq_map i > 0 return True return False 		15 20
+def main num_tests = int sys stdin readline for tc in xrange 1 num_tests + 1 S = raw_input freq_map = for l in S if l in freq_map freq_map l += 1 else freq_map l = 1 print Case # + str tc + : + phone_number freq_map return 		54 68
+def convert_num_freq_to_str num_freq number_str = for i in range 10 count_i = num_freq get i if count_i != None for j in range count_i number_str += str i return number_str 		22 31
+def phone_number freq_map number = for l n word in check_order l_count = freq_map get l if l_count != None while l_count > 0 l_count -= 1 if n in number number n += 1 else number n = 1 for w in word freq_map w -= 1 if digits_left freq_map == False return convert_num_freq_to_str number return 		33 52

@@ -1,0 +1,1 @@
+def read_gcj_input cases = with open os path join folder infile r as f for each in xrange int f readline Araw = f readline strip cases append Araw return cases 		16 22

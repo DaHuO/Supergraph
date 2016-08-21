@@ -1,0 +1,16 @@
+Direct links:
+3 - 5 links:
+16_0_4_dolphinQ_easy	:	13 - 15
+16_0_4_eaglemute_d	:	1 - 7
+
+8 - 12 links:
+16_1_1_acganesh_main	:	19 - 23
+16_0_4_aelg_prob4	:	25 - 28
+16_1_1_auscompgeek_sol	:	18 - 21
+16_1_1_bharath14_lastWord	:	2 - 15
+16_2_1_eris_digits	:	51 - 63
+16_2_1_aoioka_pa	:	61 - 65
+16_3_1_aoioka_pa	:	30 - 34
+16_1_1_cavoo_a	:	12 - 17
+16_2_2_aoioka_pb	:	44 - 48
+

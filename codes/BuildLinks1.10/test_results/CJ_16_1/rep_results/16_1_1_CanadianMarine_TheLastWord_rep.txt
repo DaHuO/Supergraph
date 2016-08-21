@@ -1,0 +1,2 @@
+testsorted 		15 16
+def findlastword s word = 		3 13

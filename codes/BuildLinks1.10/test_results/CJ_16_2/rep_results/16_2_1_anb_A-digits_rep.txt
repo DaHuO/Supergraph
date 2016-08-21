@@ -1,0 +1,8 @@
+all_letters all_letters digits = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE = set join digits counts = for letter in counts letter = 0 letters = list read_str for letter in letters counts letter += 1 zeros = counts Z counts Z -= 		16 75
+def 		5 5
+def 		6 6
+def 		4 4
+def 		7 7
+def main cases 		77 80
+def 		8 8
+deleted __ne__ character times 		11 13

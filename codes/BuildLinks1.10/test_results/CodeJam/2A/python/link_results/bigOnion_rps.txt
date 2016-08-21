@@ -1,3 +1,8 @@
+
+With same rare tokens:
+32 - 36 links:
+NekoChen_a	:	53 - 64
+
 150 - 153 links:
 tpablo_main-large	:	147 - 166
 
@@ -9,7 +14,4 @@ tpablo_main-large	:	135 - 144
 
 87 - 113 links:
 tpablo_main-large	:	135 - 144
-
-32 - 36 links:
-NekoChen_a	:	53 - 64
 

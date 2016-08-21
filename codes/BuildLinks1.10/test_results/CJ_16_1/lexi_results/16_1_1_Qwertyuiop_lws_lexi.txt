@@ -1,0 +1,2 @@
+def solve s l = build s 1 s 0 l sort return l - 1 		14 17
+def build s l if len s == 0 return l c = s 0 nl = for i in l nl append c + i nl append i + c return build s 1 nl 		4 12

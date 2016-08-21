@@ -1,0 +1,1 @@
+def solve word ret = for c in word if len ret == 0 ret += c continue if c >= ret 0 ret = c + ret else ret += c return ret 		1 12

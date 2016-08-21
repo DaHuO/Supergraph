@@ -1,0 +1,20 @@
+Direct links:
+13 - 16 links:
+16_1_1_nattster_a	:	16 - 19
+16_1_1_xwu_A	:	20 - 24
+16_1_1_lidaobing_1	:	18 - 22
+16_1_2_layersof_B	:	3 - 6
+16_1_1_tuxerizzer_word	:	20 - 25
+16_1_1_t93_main	:	1 - 5
+16_1_3_xwu_C	:	65 - 69
+16_1_1_layersof_A	:	1 - 4
+16_1_1_jptl_go	:	10 - 13
+16_1_1_MonkeyBoy_the_last_word	:	43 - 47
+16_1_3_lidaobing_3	:	63 - 68
+16_1_2_xwu_B	:	18 - 22
+16_1_2_lidaobing_2	:	28 - 33
+16_1_1_rray_solve	:	10 - 13
+16_1_1_yukismash_codejam_solution_A	:	3 - 7
+16_1_1_acganesh_main	:	19 - 23
+16_1_1_cptcarrot_proba	:	11 - 19
+

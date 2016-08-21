@@ -1,0 +1,4 @@
+create_character_dict word character_dict = Z 0 O 0 		13 20
+get_uniqoue words = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN 		1 11
+solve_problemA flines flines flines create_character_dict fname = fin readlines fin close fout 		88 101
+Problem!!! get_number character_dict phone_number = good = True while good good = False if character_dict Z > 0 for temp in ZERO character_dict temp -= 1 phone_number append 0 good = True if character_dict W > 0 for temp in TWO character_dict temp -= 1 phone_number 		22 86

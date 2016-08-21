@@ -1,0 +1,1 @@
+def solve s res = s 0 s = s 1 for c in s st = c + res sl = res + c if st < sl res = sl else res = st return res 		1 13

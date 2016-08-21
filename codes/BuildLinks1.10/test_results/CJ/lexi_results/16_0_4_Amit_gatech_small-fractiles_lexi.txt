@@ -1,0 +1,2 @@
+def main t = int sys stdin readline strip for i in range 1 t + 1 k c s = map int sys stdin readline strip split lst = get_tile_list k c s print case #%d: %s % i lst 		3 9
+def get_tile_list k c s if s == k lst = range 1 k + 1 return  join str x for x in lst return impossible 		12 19

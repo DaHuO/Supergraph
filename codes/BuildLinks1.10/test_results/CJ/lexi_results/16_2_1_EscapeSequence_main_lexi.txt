@@ -1,0 +1,1 @@
+def solve s m = 0 0 0 0 0 0 0 0 0 1 1 2 - 2 - 1 - 2 0 0 0 3 - 1 0 0 - 1 0 0 1 0 0 0 0 0 - 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 - 1 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 - 1 0 0 1 0 0 0 0 0 0 0 0 0 - 1 0 1 1 0 0 - 1 - 2 0 c = s count x for x in e g h i s t u v x z a = sum a * b for a b in zip r c for r in m s = for i in range 10 s += str i * a i return s 		1 8

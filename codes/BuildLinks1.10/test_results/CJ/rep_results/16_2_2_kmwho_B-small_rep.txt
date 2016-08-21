@@ -1,0 +1,5 @@
+		44 45
+allcs allpos alljs allpos allcs alljs ansmin allcs alljs ansmin ansmin = sorted 		24 36
+def solve t = int 		38 42
+__del 		9 12
+allpos allcs newcs allcs newcs allcs allcs newcs allcs 		14 22

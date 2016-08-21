@@ -1,0 +1,1 @@
+def solve a b n = len a besta = 99999 bestb = 0 for p in product range 10 repeat = a count q + b count q 		8 53

@@ -1,0 +1,7 @@
+def 		1 2
+def 		10 11
+def diff 		4 5
+b3 b3 b3 B if len A == 0 return p = A 0 q = B 0 ansA ansB = ra = A 1 rb = B 1 if isQ p and isQ q a3 = f 0 + ra 0 + rb a1 b1 = f 0 + mx ra 1 + mn rb a2 b2 = f 1 + mn 		13 80
+def main T = int 		87 91
+def g S 		82 85
+def 		7 8

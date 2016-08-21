@@ -1,0 +1,2 @@
+def main inputs = for line in 		14 24
+def run s res = s 		4 11

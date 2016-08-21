@@ -1,0 +1,4 @@
+fromkeys remove_first_level remove_second_level out3 remove_third_level out3 list ABCDEFGHIJKLMNOPQRSTUVWXYZ 0 for 		87 99
+remove_first_level chars output = for i in range chars Z output append 0 chars Z -= 1 chars E -= 1 chars R -= 1 		1 41
+remove_second_level chars output = for i in range chars O output append 1 chars O -= 1 chars N -= 		43 75
+remove_third_level chars output = for i 		77 85

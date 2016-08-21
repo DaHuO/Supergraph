@@ -1,0 +1,1 @@
+def f s a = s 0 for i in s 1 if ord i >= ord a 0 a = i + a else a = a + i return a 		1 8

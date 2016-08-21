@@ -1,0 +1,1 @@
+def solve n plan = p = list map int input split while true mx = max p if not mx break idxs = vals = for i x in enumerate p if x == mx idxs append i vals append chr ord a + i if len vals == 2 plan append vals 0 + vals 1 p idxs 0 -= 1 p idxs 1 -= 1 else plan append vals 0 p idxs 0 -= 1 return  join plan 		3 24

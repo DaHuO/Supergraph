@@ -1,0 +1,3 @@
+rdecode arr output = 		85 92
+rdecode n_target n_target n_target n_target start == 		96 108
+decode_pattern pattern output = pattern = join pattern start_index = 0 while start_index < len pattern pKey 		53 83

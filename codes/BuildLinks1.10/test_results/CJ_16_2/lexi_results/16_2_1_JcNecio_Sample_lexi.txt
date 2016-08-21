@@ -1,0 +1,3 @@
+def printer line counts = dict LETTERS i line count LETTERS i for i in range 0 len LETTERS retVal = for i in DIGITS while everythingAvailable i counts retVal append INDECES DIGITS index i removeOneFromLetters i counts return retVal 		7 14
+def removeOneFromLetters word letters for i in list word letters i = letters i - 1 		22 24
+def everythingAvailable word letters for i in list word if letters i < word count i return False return True 		16 20

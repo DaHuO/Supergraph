@@ -1,0 +1,13 @@
+nextline 		49 50
+codejamhelper b-large nextint nextint nextlineofints = h 		3 15
+def output self value print case # 		44 47
+basefilename ensuredirectory ./output ./input/ basefilename ./output/ 		34 38
+nextint 		52 53
+nextlineoffloats nextline delim 		59 61
+ensuredirectory makedirs 		40 42
+nextdelimitedmatrix nextline x y delim =  matrix = 		66 74
+nextcharmatrix nextline x y matrix = for _ 		76 84
+def process matrix n counts = for line in matrix for 		18 30
+nextdelimitedline nextline 		63 64
+getstringmatrix self matrix space = true out = 		86 96
+nextlineofints nextline delim 		55 57

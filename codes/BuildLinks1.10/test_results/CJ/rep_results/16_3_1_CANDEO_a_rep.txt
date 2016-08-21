@@ -1,0 +1,1 @@
+get_r get_r get_r sum input_item == 2 for x in range len input_item if input_item x == 1 for y in 		32 59

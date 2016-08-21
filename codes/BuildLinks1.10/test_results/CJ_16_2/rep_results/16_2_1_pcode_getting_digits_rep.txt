@@ -1,0 +1,2 @@
+def solve S freq = defaultdict int for char in S freq char += 1 answer = while Z in freq answer append 0 		2 39
+def remove_letters S freq 		41 45

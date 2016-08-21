@@ -1,0 +1,7 @@
+decomp main global res T = int sys 		45 54
+def decr 		20 22
+c2i sig s res 		8 12
+c2i 		5 6
+def comp s1 		14 18
+incr s1 		24 26
+decomp sigs sigs decomp incr sigs 0 		32 43

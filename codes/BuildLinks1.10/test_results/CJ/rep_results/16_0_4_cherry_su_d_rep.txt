@@ -1,0 +1,1 @@
+def solve k c s if k == 1 		1 9

@@ -1,0 +1,2 @@
+def count s d = letter 0 for letter in ascii_uppercase for letter in s d letter += 1 return d 		33 38
+def solve s global levels digit2str sol = len_s = len s counts = count s for level in levels for letter digit in level items if counts letter > 0 digit_str = digit2str digit c = counts letter for j in range c sol append digit for l in digit_str counts l -= c len_s -= c * len digit_str if len_s == 0 break if len_s == 0 break assert len_s == 0 Something didn't work! sol sort return join map str sol 		40 63

@@ -1,0 +1,2 @@
+def solve bff for l in range len bff 1 - 1 for i in itertools combinations range len bff l for j in itertools permutations i if test bff j return l return - 1 		18 24
+def test bff perm for i in range len perm prev = i - 1 nxt = i + 1 if nxt == len perm nxt = 0 if bff perm i == perm nxt or bff perm i == perm prev pass else return false return true 		4 16

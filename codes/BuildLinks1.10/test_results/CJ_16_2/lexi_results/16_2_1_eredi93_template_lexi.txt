@@ -1,0 +1,4 @@
+def contains a b a b = list a list b for char in a if char not in b return False b remove char return True 		6 12
+def algo line success seen = solve_algo numbers line assert success r = for n in sorted seen r += str n return r 		47 53
+def solve_algo n line if not line return True if not n return False for number in n if contains number upper line new_line = a number line taken_succ seen_taken = solve_algo n new_line not_taken_succ seen_not_taken = solve_algo n 1 line if taken_succ return True seen_taken + numbers index number elif not_taken_succ return True seen_not_taken else return False else return solve_algo n 1 line 		24 45
+def a number line for n in number upper i = line index n line = line i + line i + 1 return line 		14 21

@@ -1,0 +1,2 @@
+def solve s numbers = ordereddict numbers zero = 0 numbers two = 2 numbers six = 6 numbers eight = 8 numbers three = 3 numbers four = 4 numbers five = 5 numbers seven = 7 numbers one = 1 numbers nine = 9 s = list s sol = while len s > 0 n s = solve_number s numbers sol += str n else return join sorted sol 		26 44
+def solve_number s numbers for number in numbers n_list = list number enc = true scopy = s for n in n_list if n not in scopy enc = false break else scopy remove n if enc for n in list number s remove n return numbers number s 		9 23

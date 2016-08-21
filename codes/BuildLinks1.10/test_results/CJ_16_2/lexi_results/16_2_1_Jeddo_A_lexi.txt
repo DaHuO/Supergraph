@@ -1,0 +1,2 @@
+def decode S res = res += 0 * rem S Z ZERO res += 2 * rem S W TWO res += 4 * rem S U FOUR res += 6 * rem S X SIX res += 7 * rem S S SEVEN res += 8 * rem S G EIGHT res += 1 * rem S O ONE res += 3 * rem S H THREE res += 5 * rem S F FIVE res += 9 * rem S N NINE res sort res = map str res res = join res return res 		8 23
+def rem S letter word count = 0 while S __contains__ letter count += 1 for i in word S remove i return count 		1 7

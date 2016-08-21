@@ -1,0 +1,3 @@
+{}/desktop/{}.out go n lines prob = b foutname = format home prob print foutname f2 		26 39
+openfile {}/desktop/{}-{}.in prob = b fname = format 		16 24
+guys guys m lines ct = counter for line in lines = int 		41 54

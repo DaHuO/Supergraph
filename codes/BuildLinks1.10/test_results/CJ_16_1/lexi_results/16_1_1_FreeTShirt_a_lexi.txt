@@ -1,0 +1,2 @@
+def argmax s z = max s return idx c for idx c in enumerate s if c == z 		1 3
+def last s if len s <= 1 return s return max s idx + last s idx + s idx + 1 for idx c in argmax s 		5 8

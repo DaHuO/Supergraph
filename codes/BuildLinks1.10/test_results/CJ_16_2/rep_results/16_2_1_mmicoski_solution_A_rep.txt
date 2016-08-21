@@ -1,0 +1,8 @@
+endAccess 		49 51
+buscaDigito S dig s2 = S achou = True 		70 84
+def 		46 47
+buscaDigitos opcoes numb2 buscaDigito digs2 digs2 digs2 s4 buscaDigitos digs2 opcoes in s3 achou = s2 dig 1 		89 124
+readLines qt qt = 		38 44
+readIntList MN MN 		31 35
+def 		27 28
+nomeIn nomeOut nomeIn nomeIn 		21 24

@@ -1,0 +1,2 @@
+b-small-attempt0.in today allps ccand jcand allps ccand jcand 999999999999999 99999999 999999999 ccand jcand abscj abscj abscj abscj case:%d %sh%sm%s.%ssecn hour minute microsecond makeanswer datetime datetime c j = f readline split digits = len c = join x for x 		4 49
+makeanswer answer_ answer 		51 54

@@ -1,0 +1,2 @@
+least_value 999999999 least_value least_value least_value least = cs = int s1 for s1 in all_possible c js = int s2 		16 34
+def all_possible s acc = for i in range len 		3 14

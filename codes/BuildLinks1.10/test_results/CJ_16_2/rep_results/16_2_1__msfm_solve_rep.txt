@@ -1,0 +1,2 @@
+fourth fourth problem answer = problem = list problem first = Z 0 ZERO W 2 TWO U 4 		6 28
+def unique s for u in s 		14 21

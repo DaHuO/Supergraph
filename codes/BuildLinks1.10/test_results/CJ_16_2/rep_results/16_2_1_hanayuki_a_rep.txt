@@ -1,0 +1,2 @@
+searchNum chr2num removeChrs se_ret searchNum se_ret se_ret = for 		27 42
+removeChrs NUM_STRS num str = 		19 25

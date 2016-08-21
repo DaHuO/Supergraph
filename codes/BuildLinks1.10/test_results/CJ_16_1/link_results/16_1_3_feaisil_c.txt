@@ -1,0 +1,31 @@
+Direct links:
+21 - 22 links:
+16_1_1_feaisil_a	:	21 - 22
+16_1_2_feaisil_b	:	21 - 22
+
+31 - 32 links:
+16_1_1_feaisil_a	:	31 - 32
+16_1_2_feaisil_b	:	31 - 32
+
+
+With same rare tokens:
+24 - 25 links:
+16_1_1_feaisil_a	:	24 - 25
+16_1_2_feaisil_b	:	24 - 25
+
+21 - 22 links:
+16_1_1_feaisil_a	:	21 - 22
+16_1_2_feaisil_b	:	21 - 22
+
+31 - 32 links:
+16_1_1_feaisil_a	:	31 - 32
+16_1_2_feaisil_b	:	31 - 32
+
+104 - 116 links:
+16_1_1_feaisil_a	:	57 - 69
+16_1_2_feaisil_b	:	108 - 120
+16_1_1_feaisil_a	:	57 - 69
+16_1_2_feaisil_b	:	108 - 120
+16_1_1_feaisil_a	:	57 - 69
+16_1_2_feaisil_b	:	108 - 120
+

@@ -1,0 +1,1 @@
+def last_word s word = s 0 s = s 1 for c in s if word 0 > c word append c else word insert 0 c return join word 		3 12

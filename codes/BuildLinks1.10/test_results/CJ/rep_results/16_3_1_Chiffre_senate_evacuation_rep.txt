@@ -1,0 +1,2 @@
+checker l 		1 2
+def evacuation l l = l plan = if l count 1 == sum l if l count 1 == 3 i = l index 		4 28

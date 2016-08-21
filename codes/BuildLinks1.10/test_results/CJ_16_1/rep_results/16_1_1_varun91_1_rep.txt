@@ -1,0 +1,1 @@
+def solve string chars = 		1 9

@@ -1,0 +1,1 @@
+def count_char line for number in line split  count_map setdefault number 0 count_map number = count_map number + 1 		6 10

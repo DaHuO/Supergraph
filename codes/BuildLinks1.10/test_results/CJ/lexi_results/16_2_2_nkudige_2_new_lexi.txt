@@ -1,0 +1,3 @@
+def getallpossible x allpossible = gen = %03d % i for i in xrange 1000 for item in gen if ispossible item x allpossible append item return allpossible 		8 17
+def getsol c j c j = list c list j mindiff = 100000 sol = 0 0 c_poss = map int getallpossible c j_poss = map int getallpossible j for c in c_poss for j in j_poss if abs c - j < mindiff mindiff = abs c - j sol = c j return sol 		19 34
+def ispossible item x for i ch in enumerate x if ch != ? and ch != item i return false return true 		1 6

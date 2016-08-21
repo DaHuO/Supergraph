@@ -1,0 +1,2 @@
+def result s if len s == 0 return largest = none largestord = 0 largestindex = - 1 for i in range len s c = s i if ord c >= largestord largest = c largestord = ord c largestindex = i return largest + result s largestindex + s largestindex + 1 		6 18
+def solve case s = case readline return result s 		20 22

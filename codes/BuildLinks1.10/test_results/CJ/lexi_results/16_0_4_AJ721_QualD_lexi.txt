@@ -1,0 +1,2 @@
+def follow_tile k c lst pos = 0 for p in xrange c if p < len lst pos = pos * k + lst p else pos = pos * k return pos + 1 		1 8
+def do_case k c s if s * c < k return impossible out = list for i in range 0 k c out append follow_tile k c range i min i + c k sd = str c for c in out return  join sd 		10 17

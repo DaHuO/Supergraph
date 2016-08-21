@@ -1,0 +1,1 @@
+def thesort s queue = list for ele in s if len queue == 0 queue append ele continue if ord queue 0 <= ord ele queue insert 0 ele else queue append ele return join queue 		1 11

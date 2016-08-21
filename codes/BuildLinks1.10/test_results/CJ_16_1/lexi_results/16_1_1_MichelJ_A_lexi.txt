@@ -1,0 +1,3 @@
+def doit s res = s 0 for l in s 1 if l >= res 0 res = l + res else res = res + l return res 		19 26
+def main data = none if data is none f = sys stdin else f = stringio stringio data nt = int f readline for tc in xrange 1 nt + 1 s = stripnl f readline res = doit s msg case #%d: %s % tc res print case #%d: %s % tc res 		45 55
+def stripnl s if s - 1 == \n return s - 1 return s 		40 43

@@ -1,4 +1,4 @@
-isSorted all data 		14 16
+isSorted return all 		14 16
 genPermutation from 		23 28
 iteration 		72 74
 plotAlgorithm genPermutation 		49 56

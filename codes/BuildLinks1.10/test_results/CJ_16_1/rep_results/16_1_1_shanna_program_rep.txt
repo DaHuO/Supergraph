@@ -1,0 +1,2 @@
+def main t = int 		14 18
+def solve string start = string 		3 11

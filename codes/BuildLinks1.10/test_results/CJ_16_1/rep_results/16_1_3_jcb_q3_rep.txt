@@ -1,0 +1,1 @@
+in_edges in_edges in_edges %d->%d closed len g count = 0 which_component = components = for i in xrange n if i in which_component continue seen_list = seen_set = set current = i while true seen_list append current seen_set add current current = g current if current in which_component j = which_component current for 		7 95

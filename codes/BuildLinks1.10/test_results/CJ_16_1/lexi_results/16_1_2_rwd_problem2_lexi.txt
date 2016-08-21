@@ -1,0 +1,2 @@
+def main result = t = int input for i in range 1 t + 1 n = int input res = for j in range n * 2 - 1 res += int n for n in input split for e in solution res result = result + str e result = result +  print case #{}: {} format i result result = 		13 25
+def solution lista dic = result = for element in lista if element not in dic dic element = 1 else dic element += 1 for key in dic keys if dic key % 2 is 1 result append key return sorted result 		1 12

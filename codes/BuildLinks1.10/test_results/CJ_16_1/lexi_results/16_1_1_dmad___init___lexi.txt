@@ -1,0 +1,1 @@
+def recurse start last bits nxt n = nxt - 1 i = beta index n if len nxt == 1 if i >= last return bits + n else return n + bits elif i >= last bits = recurse start i bits + n nxt - 1 else bits = recurse i last n + bits nxt - 1 return bits 		15 29

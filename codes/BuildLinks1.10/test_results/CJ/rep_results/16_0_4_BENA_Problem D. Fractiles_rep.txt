@@ -1,0 +1,4 @@
+mintile mintile mintile mintile mintile = k + 1 - c 		1 18
+d-small-attempt6.in main inputfile = outfile = inputfile + .out inpf = open inputfile r outf = open 		27 49
+main2 		51 53
+def solve2 k c 		20 24

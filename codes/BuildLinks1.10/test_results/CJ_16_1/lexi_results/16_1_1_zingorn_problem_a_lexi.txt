@@ -1,0 +1,1 @@
+def problem_a l ans = i = 0 len = l __len__ last = first = ord l 0 while i < len let = ord l i if let < last and let > first print let last first return l if let >= first ans insert 0 l i first = let else ans append l i last = let i += 1 return join ans 		9 29

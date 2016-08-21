@@ -1,0 +1,2 @@
+def parse lines n = int lines 0 words = for i in range n words append lines i + 1 return words 		3 8
+def solve word smaller = larger = actword = actword = actword + word 0 last = word 0 for i in range len word - 1 if word i + 1 < last actword = actword + word i + 1 else actword = word i + 1 + actword last = word i + 1 return actword 		10 25

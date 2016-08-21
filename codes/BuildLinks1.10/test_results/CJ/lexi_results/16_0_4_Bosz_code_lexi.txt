@@ -1,0 +1,2 @@
+def createfractile original k complexity temp = original result = for i in range 0 complexity - 1 for tile in temp if tile == l result += original elif tile == g result += g * k temp = result result = result = temp return result 		2 14
+def createallpermutation current k c global allcombination if len current >= k allcombination append createfractile current k c return createallpermutation current + l k c createallpermutation current + g k c return 		17 28

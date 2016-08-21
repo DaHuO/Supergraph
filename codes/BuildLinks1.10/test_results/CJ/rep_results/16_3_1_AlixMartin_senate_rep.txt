@@ -1,0 +1,6 @@
+max_args p r 		50 55
+def argmax p 		36 39
+shave_max p for i 		42 47
+def 		14 15
+test.out test.in with open w as g with open as f 		1 11
+shave_max max_args shave_max if sum p == 0 return r = if sum 		18 33

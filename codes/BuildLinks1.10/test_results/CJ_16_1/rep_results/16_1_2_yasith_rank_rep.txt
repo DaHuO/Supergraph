@@ -1,0 +1,3 @@
+evrows solr nomatch nomatch solr nomatch global rem = rows copy 		5 29
+remrs evrows remrs filt remrs n 		46 53
+filt remrows frs remrows frs frs 		32 44

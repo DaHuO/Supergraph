@@ -1,0 +1,1 @@
+def findmissingline lines l = int i for row in lines for i in row newline = for i in l count = l count i if count % 2 == 1 if i not in newline newline append i newline sort return newline 		10 19

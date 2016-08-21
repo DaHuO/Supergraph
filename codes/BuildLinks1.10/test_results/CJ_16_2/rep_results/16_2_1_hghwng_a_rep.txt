@@ -1,0 +1,4 @@
+def stats s r 		5 9
+def main import sys i 		32 37
+def solve inp b = stats inp vals 		22 29
+def build strs = ZERO ONE TWO THREE 		12 19

@@ -1,0 +1,2 @@
+def readthroughdatageneric filename outputs = f = open filename r lct = 0 for line in f readlines if lct == 0 pass else s = line strip outputs append solve s lct += 1 f close return outputs 		14 27
+def solve s maxchar = s 0 string = s 0 for i in range 1 len s if s i >= maxchar maxchar = s i string = s i + string else string = string + s i return string 		29 39

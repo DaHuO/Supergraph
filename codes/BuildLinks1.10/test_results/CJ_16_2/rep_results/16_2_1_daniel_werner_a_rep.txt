@@ -1,0 +1,1 @@
+def solve s s = list s digits = a = s count G for i in range 0 a digits append 8 for char in EIGHT s remove char a = s count X for i in range 0 a digits append 6 for char in SIX s remove char while len s 		5 65

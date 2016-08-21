@@ -1,0 +1,3 @@
+def solve 		14 28
+def combinations src1 src2 if not src1 yield elif src1 0 == ? if src2 0 == ? for c1 		38 57
+def main count = int next sys stdin 		5 11

@@ -34,7 +34,7 @@ def detectLinks(code, codereps, coderepmanager, coderecords, minortokens, codemi
 				elif (f, line2) in links or (f, line2) in sameraretoken:
 					continue
 				else:
-					if line2 in sameraretoken.keys():
+					if line in sameraretoken.keys():
 						sameraretoken[line].append((f, line2))
 					else:
 						sameraretoken[line] = []

@@ -1,0 +1,7 @@
+getmajority 		73 74
+linetointlist 		84 85
+linetointlist linetointlist file = open a-large.in r fileout = open output.txt w cases 		4 18
+gettotal getmajority largestparty findlargest largestparty largestparty countofsenators largestparty countofsenators countofsenators largestparty largestparty largestparty largestparty largestparty largestparty largestparty largestparty largestparty largestparty largestparty largestparty gettotal while total > 0 = senators print if senators count senators == 2 print 1 		21 62
+gettotal senators total 		77 81
+findlargest largestparty largestparty largestparty 		65 70
+linetolist 		88 89

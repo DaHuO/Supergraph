@@ -1,0 +1,1 @@
+def solve s if s - 1 == \n s = s - 1 r = s 0 for ch in s 1 if ch >= r 0 r = ch + r else r = r + ch return r 		9 18

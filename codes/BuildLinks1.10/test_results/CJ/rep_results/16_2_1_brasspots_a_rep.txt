@@ -1,0 +1,5 @@
+def debug 		6 11
+nums_in word nums 		39 44
+def is_in word 		18 22
+def remove word letters for c in 		24 37
+nums_in n2l nums_in n2l nums_in word letters for c in letters if word count c < letters count c return false return true def remove word letters for c in letters _w = hit = false for _c in word if _c == c and not hit hit = true else _w 		15 90

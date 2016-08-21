@@ -1,0 +1,3 @@
+ja ja perm1 genpossible perm2 genpossible ja min1 min2 perm1 perm2 min1 min2 min1 min2 min1 min2 for i in range len c 		22 49
+genpossible extractdigits count = 0 for s 		11 20
+extractdigits //= s dig = for i in range 		1 9

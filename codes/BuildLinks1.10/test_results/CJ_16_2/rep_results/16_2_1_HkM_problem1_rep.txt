@@ -1,0 +1,1 @@
+def foo I J = while Z in I J append 0 I remove Z I remove E I remove R I remove O while W in I J append 2 I remove T I remove W I remove O 		1 65

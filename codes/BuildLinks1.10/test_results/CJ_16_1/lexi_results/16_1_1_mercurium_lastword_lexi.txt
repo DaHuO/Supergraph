@@ -1,0 +1,2 @@
+def formatanswer index answer return case # + str index + : + str answer 		9 10
+def computeanswer word lastword = word 0 for letter in word 1 if letter >= lastword 0 lastword = letter + lastword else lastword = lastword + letter return lastword 		12 19

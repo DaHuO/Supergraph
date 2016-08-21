@@ -1,0 +1,2 @@
+def solve n r p s = tuple int i for i in fin readline split x = permutations p * p + r * r + s * s for i in x if valid list i return join i return impossible 		31 39
+def valid i if len i == 1 return true x = for j in range len i // 2 if i 2 * j == i 2 * j + 1 return false if i 2 * j == r and i 2 * j + 1 == p x += p elif i 2 * j == r and i 2 * j + 1 == s x += r elif i 2 * j == p and i 2 * j + 1 == r x += p elif i 2 * j == p and i 2 * j + 1 == s x += s elif i 2 * j == s and i 2 * j + 1 == r x += r elif i 2 * j == s and i 2 * j + 1 == p x += s return valid x 		9 28

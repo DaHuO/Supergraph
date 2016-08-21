@@ -1,0 +1,3 @@
+def run with open INPUT_FILE as in_file lines = in_file readlines n_tests = int lines 0 out_file = open OUTPUT_FILE w count = 1 for i in range 1 len lines result = solve lines i string_result = Case #%d: %s\n % count result out_file write string_result print string_result count += 1 		40 54
+def algorithmA S news = S number = for solver in solvers for letter_solver in solver while news find letter_solver let >= 0 for c in letter_solver string news = news replace c 1 number append letter_solver n number sort return join str x for x in number 		24 34
+def solve data S = data 0 return str algorithmA S 		36 38

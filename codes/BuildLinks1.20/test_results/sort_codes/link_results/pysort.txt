@@ -1,0 +1,77 @@
+Direct links:
+46 - 59 links:
+bubble_sort_with_flag	:	7 - 17
+
+
+With same rare tokens:
+31 - 44 links:
+test_sorts	:	50 - 74
+radix_sort	:	7 - 33
+test_sorts	:	19 - 26
+
+136 - 152 links:
+test_sorts	:	50 - 74
+sortable	:	49 - 52
+sortable	:	65 - 81
+
+79 - 98 links:
+test_sorts	:	50 - 74
+
+226 - 242 links:
+test_sorts	:	50 - 74
+cyclesort	:	3 - 20
+counting_sort	:	15 - 44
+sorts	:	11 - 43
+sortable	:	49 - 52
+sorting_algorithms	:	96 - 133
+sorts	:	81 - 95
+
+46 - 59 links:
+test_sorts	:	50 - 74
+
+162 - 183 links:
+test_sorts	:	50 - 74
+sort_quick	:	16 - 19
+test_sorts	:	19 - 26
+sorts	:	81 - 95
+
+379 - 394 links:
+test_sorts	:	50 - 74
+heapsort	:	31 - 41
+sorts	:	46 - 65
+
+208 - 224 links:
+test_sorts	:	50 - 74
+cyclesort	:	3 - 20
+counting_sort	:	15 - 44
+sorts	:	11 - 43
+sortable	:	49 - 52
+sorting_algorithms	:	96 - 133
+sorts	:	81 - 95
+
+185 - 206 links:
+test_sorts	:	50 - 74
+sorts	:	81 - 95
+
+61 - 77 links:
+test_sorts	:	50 - 74
+bubble_sort_with_flag	:	7 - 17
+
+244 - 264 links:
+test_sorts	:	50 - 74
+cyclesort	:	3 - 20
+counting_sort	:	15 - 44
+sorts	:	11 - 43
+sortable	:	49 - 52
+sorting_algorithms	:	96 - 133
+sorts	:	81 - 95
+
+122 - 134 links:
+test_sorts	:	50 - 74
+sortable	:	49 - 52
+sortable	:	65 - 81
+
+396 - 406 links:
+test_sorts	:	50 - 74
+sorts	:	46 - 65
+

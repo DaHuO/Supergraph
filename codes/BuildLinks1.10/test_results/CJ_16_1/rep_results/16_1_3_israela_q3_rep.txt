@@ -1,0 +1,6 @@
+solve_pairs digraph add_node strongly_connected_components = networkx for i in xrange 1 n + 1 dg i 		62 78
+solve_cycles digraph add_node strongly_connected_components = networkx for i in xrange n dg i for 		80 96
+solve1 solve_cycles 		98 99
+solve1 longest_to_i longest_to_i took = set pairs = for i in 		22 33
+longest_to_i fin_tmp_took fin_tmp_took fin_tmp_took took res = 0 = set for k in 		4 20
+solve_naive n a res = 0 for i in xrange n m = 1 curr = i prev = 		35 59

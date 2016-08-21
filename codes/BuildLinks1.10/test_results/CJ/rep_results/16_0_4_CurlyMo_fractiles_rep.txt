@@ -1,0 +1,5 @@
+index_from_factors dim factor factor 		53 57
+determine_key_tiles_dumb sequences no_gold sequences num_lead no_gold num_lead sequences sorted_indices num_lead lead_seqs sequences sorted_indices lead_seqs lead_seqs 		21 36
+fractilize prev_seq prev_seq prev_seq = len seq = seq 		6 18
+determine_key_tiles index_from_factors c factor_space = list range k indices 		39 50
+determine_key_tiles main infile outfile with open infile r as input open outfile w as out 		60 72

@@ -1,0 +1,2 @@
+number_of_cases number_of_cases input_file = open A-large.in r output_file = open 		77 87
+def solve input to_return = while Z in input input = input replace Z 1 input = input replace E 1 input = input replace R 1 input = input replace O 1 to_return append 0 while X in input input = input replace S 1 input = input replace I 1 input = input replace X 1 to_return append 6 		4 73

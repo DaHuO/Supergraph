@@ -1,0 +1,6 @@
+absdiff add_p 		33 34
+def mins s if not 		4 10
+absdiff a 		22 23
+absdiff match a b if not a return ac ar = a 0 a 1 bc br = b 0 b 1 ra rb = match ar br ps = def add_p ap bp ps append 		26 64
+def maxs s if not 		13 19
+def poss x if not x yield return a 		67 80

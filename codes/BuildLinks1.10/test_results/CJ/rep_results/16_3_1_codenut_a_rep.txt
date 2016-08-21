@@ -1,0 +1,2 @@
+to_ch 		1 2
+cur_sum to_ch to_ch to_ch r = p = v i for i v in enumerate p = lambda p sum 		4 27

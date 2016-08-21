@@ -1,0 +1,1 @@
+def encontrarmasbajo listas indice if len listas == 0 return res = listas 0 indice indices = for l in xrange len listas lista = listas l i = lista indice if i < res res = i indices = l elif i == res indices append l return indices 		6 19

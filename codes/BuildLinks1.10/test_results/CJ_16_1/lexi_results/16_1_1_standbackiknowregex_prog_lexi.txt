@@ -1,0 +1,1 @@
+def lastword word ret = for c in word if ret == ret = c continue if c < ret 0 ret += c else ret = c + ret return ret 		1 11

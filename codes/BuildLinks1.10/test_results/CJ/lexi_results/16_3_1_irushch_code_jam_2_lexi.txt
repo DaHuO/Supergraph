@@ -1,0 +1,5 @@
+def no_one_has_majority balance return max balance <= 50 		20 21
+def save_politic politics mx = max politics if mx == 0 return index = politics index mx politics index = politics index - 1 return pol index index 		24 30
+def balance politics if sum politics == 0 return 0 return x * 100.0 / sum politics for x in politics 		14 17
+def evacuate num_pol politics result = while max politics > 0 first _ = save_politic politics second index = save_politic politics if not no_one_has_majority balance politics politics index = politics index + 1 result append first else result append first + second return result 		33 44
+def main t = int raw_input for i in xrange 1 t + 1 num_pol = int raw_input inp = int s for s in raw_input split  res = evacuate num_pol inp print case #{}: {} format i  join res 		47 57

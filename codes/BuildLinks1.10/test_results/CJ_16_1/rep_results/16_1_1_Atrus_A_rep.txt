@@ -1,0 +1,1 @@
+def solve s new_str = for 		1 11

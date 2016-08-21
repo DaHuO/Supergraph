@@ -1,2 +1,2 @@
 Rn Pn Sn Rn Pn Sn Rn Pn Sn or P < 0 or S < 0 return IMPOSSIBLE if R + 		7 23
-asort Sl asort Sh asort Sl Sh Sl Sh 		25 33
+asort asort asort S == IMPOSSIBLE return S l 		25 33

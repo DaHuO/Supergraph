@@ -1,0 +1,1 @@
+def findcircle n f index count end visited = set visited add index end index = index p = index while f p not in visited friend = f p visited add friend end index = friend if f friend == p or f friend == index count index = len visited return p = friend 		1 13

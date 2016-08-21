@@ -1,0 +1,1 @@
+def findmissing l m = dict for i in l if m 		1 19

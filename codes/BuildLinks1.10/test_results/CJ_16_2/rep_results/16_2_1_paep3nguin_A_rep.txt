@@ -1,0 +1,1 @@
+onum main with open A-large.in as in_file with open A-large.out w as fout cases = int in_file readline for x in range cases num = str in_file readline strip = num numbers = while len 		3 49

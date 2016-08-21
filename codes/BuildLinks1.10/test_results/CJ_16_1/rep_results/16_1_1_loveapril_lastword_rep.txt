@@ -1,0 +1,2 @@
+def lastword word letters = ord i for i in list word l 		1 19
+def main filename = a-large.in output = a-large.out f = open filename r 		23 40

@@ -1,0 +1,1 @@
+def solve if k == s return  join str x + 1 for x in range k if s * c < k return impossible tile = 1 res = for i in range 0 s position = 0 for j in range 0 c position *= k position += tile - 1 tile += 1 if tile > k tile = 1 res append position return  join str x + 1 for x in res 		3 23

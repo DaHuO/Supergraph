@@ -1,0 +1,1 @@
+def printresult case result print case #{}: {} format case str result 		3 4

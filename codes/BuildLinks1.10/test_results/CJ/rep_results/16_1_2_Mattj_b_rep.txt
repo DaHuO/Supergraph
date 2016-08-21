@@ -1,0 +1,4 @@
+def pr s end = none if 		15 20
+		28 29
+def out s end 		22 26
+userow userow userow oldrow oldrow oldrow usecol usecol usecol oldcol oldcol oldcol ss for k in range 0 n for j in range 0 n if k > 0 and grid k j <= grid k - 1 j or j > 0 and grid k j <= grid k 		37 82

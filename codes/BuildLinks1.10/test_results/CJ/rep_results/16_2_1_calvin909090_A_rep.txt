@@ -1,0 +1,1 @@
+rint solve s c = counter s a = np zeros 		28 41

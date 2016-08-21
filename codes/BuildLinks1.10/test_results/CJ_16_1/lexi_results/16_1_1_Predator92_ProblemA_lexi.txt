@@ -1,0 +1,2 @@
+def get_letter_weight char if char is none return - 1 return ord char - ord a 		24 27
+def problema string = raw_input word = last_letter_w = 0 first_letter_w = 0 for char in string weight = get_letter_weight char if not word word append char continue last_letter_w = get_letter_weight word - 1 first_letter_w = get_letter_weight word 0 if weight >= first_letter_w word = char + word else word append char return join word 		1 22

@@ -1,0 +1,3 @@
+maxFakes 6000 numOfFakes = 		3 8
+numOfFakes lst1 lst1 sWord fWord fWord sWord fWord sWord lst i = lst i split  counter = 0 fCounter = 0 sCounter = 		10 43
+r"C:\Users\Saar\Desktop\ap.txt" readFile path 		45 48

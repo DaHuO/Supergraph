@@ -1,0 +1,4 @@
+def main lines = ln strip for ln in sys stdin for i case in enumerate get_cases lines 1 log info solving #%d: %r i case r2 = solve2 case print case #%d: %s % i r2 		59 67
+def solve2 case out = case 0 for l in case 1 if l >= out 0 out insert 0 l else out append l return join out 		20 51
+def solve case variants = case 0 for l in case 1 variants = v + l for v in variants + l + v for v in variants return max variants 		10 17
+def get_cases lines for ln in lines 1 yield ln strip 		54 56

@@ -1,0 +1,1 @@
+peoplestart npeople peoplestart peoplestart npeople zeros_like argwhere argwhere np array out = for i in np arange if np sum people == 0 continue remove = np people diff = np 		18 55

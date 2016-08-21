@@ -1,0 +1,2 @@
+def solve word result = word 1 word = word 1 for ch in word if ch < result 0 result = result + ch else result = ch + result return result 		7 16
+def main t = int sys stdin readline for i in range t print case #{}: {} format i + 1 solve sys stdin readline strip 		19 22

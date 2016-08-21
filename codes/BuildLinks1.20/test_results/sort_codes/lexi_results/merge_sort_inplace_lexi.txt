@@ -1,0 +1,3 @@
+def sort list_ merge_sort list_ 0 len list_ - 1 		8 9
+def merge_sort list_ left right if len list_ == 1 return list_ mid_point = int left + right / 2 merge_sort list_ left mid_point merge_sort list_ mid_point + 1 right merge list_ left mid_point right return list_ 		12 34
+def merge list_ left mid_point right l = left r = mid_point + 1 while l <= mid_point and r <= right if list_1 l < list_2 r merged_list append list_1 l l += 1 else merged_list append list_2 r r += 1 if l < len list_1 while l < len list_1 merged_list append list_1 l l += 1 elif r < len list_2 while r < len list_2 merged_list append list_2 r r += 1 		37 69

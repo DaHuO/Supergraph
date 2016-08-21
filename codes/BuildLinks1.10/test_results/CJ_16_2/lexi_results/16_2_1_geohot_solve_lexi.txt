@@ -1,0 +1,2 @@
+def solve_case st h = hist st m = np copy mat sol = np zeros 10 dtype = int for j in range 4 for i in range 26 if np sum m i == 1 s = np where m i == 1 0 0 cnt = h i sol s += cnt h -= cnt * m s m s = np zeros 26 ret = for i in range 10 ret += str i * sol i return ret 		12 29
+def hist s ret = np zeros 26 dtype = int for c in s ret ord c - ord A += 1 return ret 		3 7

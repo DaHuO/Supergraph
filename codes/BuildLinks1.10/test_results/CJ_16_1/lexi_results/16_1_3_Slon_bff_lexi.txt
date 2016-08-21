@@ -1,0 +1,1 @@
+def get_longest x bad m = 0 for n in r x if n == bad continue m = max m get_longest n bad + 1 return m 		40 46

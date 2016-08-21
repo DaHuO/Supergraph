@@ -1,0 +1,2 @@
+def solve ns numbers n = int ns 0 order = still = true while still still 		3 24
+parsers iter_parser next n 		26 30

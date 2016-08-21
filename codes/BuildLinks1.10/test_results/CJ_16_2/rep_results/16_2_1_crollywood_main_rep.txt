@@ -1,0 +1,13 @@
+extractThrees abc count = abc 		103 110
+extractFives abc count = abc 		87 93
+extractOnes abc count = 		120 125
+extractSevens abc count = abc 		78 85
+extractNines abc count = abc 		112 118
+extractTwos abc count = 		55 60
+extractEights abc count = abc 		69 76
+extractZeros abc count = abc 		47 53
+TEST_NAME rows rows getAbc TEST_NAME open + .in r as f = int 		3 20
+extractFours abc count = abc 		95 101
+extractSixes abc count = 		62 67
+extractZeros extractTwos extractSixes extractEights extractSevens extractFives extractFours extractThrees extractNines extractOnes abc = abc sixes abc = abc eights abc 		31 45
+getAbc ABC QWERTZUIOPASDFGHJKLYXCVBNM ABC = 		22 29

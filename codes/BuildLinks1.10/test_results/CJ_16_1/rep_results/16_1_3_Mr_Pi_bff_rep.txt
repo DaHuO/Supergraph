@@ -1,0 +1,1 @@
+get_answer single_len single_len single_len cyclelen cyclelen with_recip with_recip with_recip = x - 1 for x in map int f readline strip split recip_set = dict self_link = 0 into_account = set for 		8 53

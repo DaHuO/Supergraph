@@ -1,0 +1,1 @@
+def rank a hist = for row in a for e in row hist e = hist get e 0 + 1 odd_els = for k v in hist items if v % 2 odd_els append k return  join map str sorted odd_els 		1 10

@@ -1,0 +1,1 @@
+def main f = open sys argv 1 r t = int f readline for t in range 1 t + 1 s = f readline strip last = s 0 for i in range 1 len s if ord s i >= ord last 0 last = s i + last else last += s i print case #%d: %s % t last 		4 17

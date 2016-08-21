@@ -1,0 +1,3 @@
+def tochar number return chr ord a + number 		9 10
+def plan number plan = while sum number > 0 maxcount = max number person = number index maxcount parties = sum 1 for i in number if i > 0 if parties == 2 and sum number > 1 res =  for idx value in enumerate number if value > 0 number idx = number idx - 1 res += tochar idx plan += res else plan += {} format tochar person number person = number person - 1 return plan strip 		12 29
+def parse filename with open filename as file numbers = file readlines numbers = numbers 1 result = for i in range len numbers if i % 2 == 1 values = numbers i split  result append int i for i in values return result 		31 40

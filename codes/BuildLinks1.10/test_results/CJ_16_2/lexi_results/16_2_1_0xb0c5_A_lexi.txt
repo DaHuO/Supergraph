@@ -1,0 +1,1 @@
+def solve s s = list s result = for c n n_str in unique while c in s for d in n_str s remove d result append n result sort return join map str result 		22 31

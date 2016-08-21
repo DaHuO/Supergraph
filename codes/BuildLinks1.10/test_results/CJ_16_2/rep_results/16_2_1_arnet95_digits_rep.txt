@@ -1,0 +1,1 @@
+poss_res poss_res poss_res n if n == 10 if s == return else return False else 		3 26

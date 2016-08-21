@@ -1,0 +1,2 @@
+getoriginalartworkposition getoriginalartworkposition k c if 		3 7
+getoriginalartworkposition main for testcase in range 1 int input + 		9 14

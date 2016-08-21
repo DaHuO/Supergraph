@@ -1,0 +1,10 @@
+def read_int 		16 17
+enumeration_solver T S = None num = while len S > 0 if S find Z != - 1 num append 0 S = S replace Z 1 S = S replace E 1 S = S replace R 1 S = S replace O 1 continue if S find X != - 1 num append 6 S = S replace S 1 S = S replace I 1 S = S replace X 1 		46 145
+read_digits read_letters 		22 23
+def 		13 14
+def read_floats 		31 32
+def read_words 		25 26
+def read_ints f 		28 29
+read_arr f R reader 		34 35
+read_letters 		19 20
+main_reader T 		39 41

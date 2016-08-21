@@ -1,0 +1,13 @@
+def read_word f return next f strip 		33 34
+def read_ints f b = 10 d =  return int x b for x in read_words f d 		48 49
+def solve solver fn out_fn = none in_fn = fn + .in if out_fn is none out_fn = fn + .out with open in_fn r as fi with open out_fn w as fo t = read_int fi for i in range t case = read_case fi res = solver case write_case fo i res 		57 67
+def read_case f return read_word f 		10 11
+def read_int f b = 10 return int read_word f b 		36 37
+def read_letters f return list read_word f 		39 40
+def write_case f i res f write case #%d: % i f write %s % res f write \n 		26 29
+def read_words f d =  return read_word f split d 		45 46
+def read_digits f b = 10 return int x b for x in read_letters f 		42 43
+def read_floats f d =  return float x for x in read_words f d 		51 52
+def solve_large case return solve_small case 		23 24
+def solve_small case s = case res = i = len s while i > 0 i = s i rindex max s i res += s i s = s i + s i + 1 return res + s 		13 21
+def read_arr f r reader = read_ints * args ** kwargs return reader f * args ** kwargs for i in range r 		54 55

@@ -1,0 +1,2 @@
+read_problem_file file! problem_list = out_file = open filename 		17 34
+getting_phone digits_conversion second_letter third_letter digits_conversion second_letter second_letter digits_conversion second_letter third_letter third_letter digits_conversion third_letter phone! formed z 0 w 2 u 4 x 6 g 8 = o 1 h 3 f 5 s 7 = i 9 digits = current_str 		37 92

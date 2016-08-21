@@ -1,0 +1,1 @@
+def solve case s cur = for c in s choices = cur + c c + cur choices sort cur = choices 1 return cur 		3 13

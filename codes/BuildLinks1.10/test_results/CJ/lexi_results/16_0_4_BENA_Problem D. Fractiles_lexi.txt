@@ -1,0 +1,4 @@
+def solve k c s mintile = k + 1 - c if mintile < 1 mintile = 1 if s < mintile return false rst = if c == 1 for i in range 1 k + 1 rst append str i else for i in range mintile rst append str i + 1 * k return rst 		1 18
+def main inputfile = d-small-attempt6.in outfile = inputfile + .out inpf = open inputfile r outf = open outfile w testcase = int inpf readline for case in range testcase k c s = int x for x in inpf readline strip split  rst = solve2 k c s if rst == false result = case #{}: {}\n format case + 1 impossible else result = case #{}: {}\n format case + 1  join rst print result outf write result inpf close outf close 		27 49
+def main2 rst = solve 6 3 print rst 		51 53
+def solve2 k c s rst = for i in range 1 s + 1 rst append str i return rst 		20 24

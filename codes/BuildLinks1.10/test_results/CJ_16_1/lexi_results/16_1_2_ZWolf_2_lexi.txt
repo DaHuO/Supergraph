@@ -1,0 +1,1 @@
+def rankfile num_case array n b = 0 * 2500 for j in range 0 2 * n - 1 for k in range 0 n tmp = array j k - 1 b tmp += 1 ofile write case #%d: % num_case + 1 for j in range 0 2500 if b j % 2 != 0 ofile write %d % j + 1 ofile write \n 		16 27

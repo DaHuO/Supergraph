@@ -1,0 +1,2 @@
+sets mysets mysets sets if N == 1 return 		7 16
+def main f = open sys argv 1 T 		18 25

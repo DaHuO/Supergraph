@@ -1,0 +1,6 @@
+def get_list_numbers_from_trial self trial numbers = list print trial print z in trial if z in trial numbers append 0 for letter in self zero trial = trial replace letter 1 return self get_list_numbers_from_trial trial numbers if w in trial numbers append 2 for letter in self two trial = trial 		32 85
+trials append_answer self attempt = 		23 29
+append_answer self 		88 89
+params_array params_array trials params_array 		17 21
+google_input LastWord google_input answer.txt wr answer_file 		94 101
+def 		91 92

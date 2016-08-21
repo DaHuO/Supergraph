@@ -1,0 +1,11 @@
+property def str self return str next self data 		106 107
+def get_prio x y a b mmin = min x y return mmin x y a b 		4 6
+def reset_queue pri q2 = PriorityQueue while not pri empty _ rx ry a b = pri get x = d_first a y = d_sec b q2 put get_prio x y a b return q2 		34 41
+property def float self return float next self data 		108 109
+def dic_add d x if x in d d x += 1 else d x = 1 		8 11
+property def int self return int next self data 		104 105
+property def frac self return Fraction float next self data 		110 111
+def __init__ self filename with open filename r as fichier lines = fichier readlines self data = read_elements lines 		99 102
+def cmp_f x y epsilon = 0.00000001 if - epsilon <= x - y <= epsilon return True if - epsilon <= x <= epsilon or - epsilon <= y <= epsilon return False return - epsilon <= x - y / x <= epsilon 		71 86
+def algo inp n = inp int d_first = dict d_sec = dict fir_found = dict sec_found = dict pri = PriorityQueue l = for _ in range n a = inp str b = inp str l append a b dic_add d_first a dic_add d_sec b for a b in l x = d_first a y = d_sec b entry = get_prio x y a b print Entry : entry pri put entry n_fake = 0 def reset_queue pri q2 = PriorityQueue while not pri empty _ rx ry a b = pri get x = d_first a y = d_sec b q2 put get_prio x y a b return q2 while not pri empty _ rx ry a b = pri get x = d_first a y = d_sec b if x != rx or y != ry pri put get_prio x y a b else entry = get_prio x y a b print Rem : entry if a in fir_found and b in sec_found n_fake += 1 elif min x y <= 0 and max x y > 1 n_fake += 1 d_first a -= 1 d_sec b -= 1 else fir_found a = True sec_found b = True d_first a = 0 d_sec b = 0 pri = reset_queue pri return n_fake 		13 63
+def read_elements lines for s in lines for i in s split yield i 		94 96

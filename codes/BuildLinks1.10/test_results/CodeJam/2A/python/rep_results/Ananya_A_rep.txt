@@ -1,2 +1,2 @@
-other_index_arr get_init_string int_to_char counts while sum counts > 1 min_index = counts index min counts max_index = counts index max counts assert min_index != max_index new_counts = 0 0 		23 56
-get_init_string new_one win_map get_init_string new_one get_init_string new_one return 		11 21
+other_index_arr int_to_char N counts while sum counts > 1 min_index = counts index min counts max_index = counts index max counts assert min_index != max_index new_counts = 0 0 		23 56
+new_one win_map new_one new_one if N == 0 		11 21

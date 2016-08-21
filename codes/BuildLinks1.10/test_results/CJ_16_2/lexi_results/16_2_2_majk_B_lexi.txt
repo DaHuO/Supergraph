@@ -1,0 +1,1 @@
+def match x y for i in range len x if x i != ? and x i != y i return False return True 		1 5

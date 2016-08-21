@@ -1,0 +1,2 @@
+def next_case f line = f readline if line == return c = case c s = line strip return c 		15 22
+def find_ans_str c ans_str = before = after = l = x for x in c s first = l 0 after append first for c in l 1 if c >= first before append c first = c else after append c ans_str = join reversed before + join after return ans_str 		24 40

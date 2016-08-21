@@ -1,0 +1,12 @@
+def 		17 18
+input_integer_stack 		33 34
+def 		5 6
+		23 24
+def __init__ 		40 42
+read_integer 		8 9
+input_string_stack data = 		26 31
+		14 15
+		20 21
+read_integers base 		11 12
+bits 		36 37
+def 		43 45

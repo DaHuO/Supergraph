@@ -1,0 +1,5 @@
+find_words all_words current_character current_character for number 		8 17
+is_successful find_numbers_of_text is_successful result = 		44 50
+remove_from_string v word 		20 23
+convert_to_int 		26 27
+find_numbers_of_text find_words new_v remove_from_string new_v convert_to_int is_successful find_numbers_of_text 		30 41

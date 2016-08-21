@@ -1,0 +1,12 @@
+def dec num word count if count for char in word num char -= count return count 		5 9
+def kill7 num count = num get S 0 return dec num word 7 count 		58 60
+def kill5 num count = num get F 0 return dec num word 5 count 		53 55
+def kill0 num count = num get Z 0 return dec num word 0 count 		14 16
+def solve num = ans = 0 * 10 s = raw_input for ch in s num ch = num get ch 0 + 1 ans 0 = kill0 num ans 2 = kill2 num ans 4 = kill4 num ans 6 = kill6 num ans 8 = kill8 num ans 1 = kill1 num ans 3 = kill3 num ans 5 = kill5 num ans 7 = kill7 num ans 9 = num get I 0 result = for i in xrange 10 result += str i * ans i return result 		63 83
+def kill6 num count = num get X 0 return dec num word 6 count 		29 31
+def kill4 num count = num get U 0 return dec num word 4 count 		24 26
+def kill1 num count = num get O 0 return dec num word 1 count 		38 40
+def kill3 num count = num get R 0 return dec num word 3 count 		48 50
+def kill1 num count = num get O 0 return dec num word 1 count 		43 45
+def kill8 num count = num get G 0 return dec num word 8 count 		34 36
+def kill2 num count = num get W 0 return dec num word 2 count 		19 21

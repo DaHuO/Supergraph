@@ -1,18 +1,9 @@
+Direct links:
+4 - 20 links:
+layersof_A	:	9 - 27
+
+
+With same rare tokens:
 36 - 42 links:
 Veltz_A	:	35 - 36
-
-4 - 20 links:
-byc_A	:	15 - 23
-layersof_A	:	9 - 27
-arknave_rps	:	1 - 9
-jzj_A	:	28 - 40
-Eirage_1	:	1 - 24
-CMM_A	:	2 - 18
-Subscheme_A-small	:	34 - 46
-Sylvus_solution	:	6 - 17
-Veltz_A	:	40 - 78
-AJ721_Round2-A	:	18 - 57
-
-23 - 33 links:
-jabbawookiees_r2a	:	30 - 40
 

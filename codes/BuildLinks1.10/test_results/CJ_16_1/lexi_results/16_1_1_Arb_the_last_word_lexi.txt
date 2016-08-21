@@ -1,0 +1,5 @@
+def after s c return s + c 		9 10
+def random_choice s mapping = 0 after 1 before ns = s 0 for c in s 1 i = random choice 0 1 ns = mapping i ns c return ns 		12 18
+def foo s l = random_choice s for _ in xrange 100000 return sorted l - 1 		27 33
+def before s c return c + s 		6 7
+def all_permutations s p mapping = 0 after 1 before ns = s 0 for i c in zip p s 1 ns = mapping int i ns c return ns 		20 25

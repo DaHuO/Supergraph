@@ -1,0 +1,2 @@
+formatted_output index 		19 20
+def rank_and_file str_list height_counts = for row in str_list heights = row split 		1 17

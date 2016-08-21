@@ -1,0 +1,5 @@
+def 		16 17
+get_histogram histo histo histo 		19 23
+digit_number main t = int sys 		47 52
+digit_number priority_list english_d unique_char get_histogram digit_occurences priority_list nb_current_digit unique_char digit_occurences nb_current_digit english_d nb_current_digit digit_occurences ZERO ONE TWO 		25 36
+digit_number get_phone_number message digit_num = 		38 44

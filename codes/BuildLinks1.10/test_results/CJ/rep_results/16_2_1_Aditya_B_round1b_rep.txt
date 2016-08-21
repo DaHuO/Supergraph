@@ -1,0 +1,1 @@
+def main x x = list x li = if z in x c = x count z for i in range 0 c li += 0 x remove z x remove e x remove r x remove o if w in x c = x count w for i in range 0 c li += 2 x remove t x remove w x remove o if x in x c = x count x 		1 115

@@ -1,0 +1,1 @@
+def rec f d f0 = f i = d while i < 10 f = f0 found = True for c in digits i if f ord c - ord A == 0 found = False break f ord c - ord A -= 1 if found if sum f == 0 return True str i okli res2 = rec f i if okli return True str i + res2 i += 1 return False 0 		7 24

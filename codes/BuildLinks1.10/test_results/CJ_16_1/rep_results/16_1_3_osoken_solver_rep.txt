@@ -1,0 +1,3 @@
+get_ord solve m ords = map lambda i i m range 1 len m + 1 r = for z 		7 20
+flg flg p r d = true if if p 0 not in r return get_sinkord p 		36 54
+get_ord id m mem = set s = m id 		23 33

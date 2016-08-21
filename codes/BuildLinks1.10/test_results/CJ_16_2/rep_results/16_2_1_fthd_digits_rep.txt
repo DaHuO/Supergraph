@@ -1,0 +1,2 @@
+def ans s s = s lower d = for a in s d a = d get a 0 + 1 ans = if d get z 0 > 0 ans += d get z * 0 remove zero d d get z 		7 50
+def remove string 		3 5

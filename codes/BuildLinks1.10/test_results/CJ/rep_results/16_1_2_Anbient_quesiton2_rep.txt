@@ -1,0 +1,3 @@
+def sort array less = equal = greater = if len 		7 24
+find_missing_list list_i list_i = for in array for num 		46 64
+compute_diff_list list_i list_i = for in array for num 		26 42

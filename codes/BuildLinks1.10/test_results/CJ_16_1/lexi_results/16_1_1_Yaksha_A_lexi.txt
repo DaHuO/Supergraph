@@ -1,0 +1,1 @@
+def solvestring s letters = list set s letters sort letters = letters - 1 word = s 0 for char in s 1 thischarindex = letters index char leftcharindex = letters index word 0 if thischarindex > leftcharindex word = word + char else word = char + word return word 		6 20

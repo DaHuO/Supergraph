@@ -1,0 +1,1 @@
+def bestword s if len s == 0 return last = a lastpos = 0 for i in range len s if s i > last last = s i lastpos = i word = bestword s lastpos for i in s lastpos if i == last word = i + word else word = word + i return word 		1 20

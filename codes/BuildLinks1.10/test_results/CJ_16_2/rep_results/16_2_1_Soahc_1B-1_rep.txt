@@ -1,0 +1,3 @@
+_recur 		36 37
+_remove clt n cnt = 		7 13
+_recur cp2 _recur _remove cp2 n == 10 if all v == 0 		15 34

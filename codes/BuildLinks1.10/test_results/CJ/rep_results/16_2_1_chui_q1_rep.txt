@@ -1,0 +1,2 @@
+def fun n_d d list1 ch if 		39 47
+def solving s ch = i 0 z 0 w 0 h 0 u 0 x 0 g 0 o 0 f 0 s 0 n 		14 37

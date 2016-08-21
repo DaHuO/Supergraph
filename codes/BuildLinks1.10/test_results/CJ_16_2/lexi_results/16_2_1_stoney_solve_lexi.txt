@@ -1,0 +1,1 @@
+def add num S digit num += digit for ch in t digit S ch -= 1 if S ch == 0 del S ch 		14 19

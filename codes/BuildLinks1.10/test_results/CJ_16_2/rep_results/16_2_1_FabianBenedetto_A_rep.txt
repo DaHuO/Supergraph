@@ -1,0 +1,1 @@
+mainfunc str6 str7 str0 str5 str4 str8 str3 str9 for letter in numstr numlist append letter n = numlist count X for _ in range n number append 6 for let in numlist remove let n = numlist count W for _ in range n number append 		13 80

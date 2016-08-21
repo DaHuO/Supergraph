@@ -1,0 +1,2 @@
+eqs2matrix eqs syms augment Matrix lhs Equality eqs sym syms jacobian 		4 14
+solve_overdet x_lstsq Qb dot Qb linalg 		16 20

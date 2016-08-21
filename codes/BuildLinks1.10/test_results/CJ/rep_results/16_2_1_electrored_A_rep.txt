@@ -1,0 +1,3 @@
+def fun s d 		7 13
+def solve d nm = if z in d tmp = d z for i in xrange tmp nm append 0 d e -= 1 d r -= 1 d o -= 1 d z = 0 if w in d tmp = d w for i in xrange tmp nm append 2 d t -= 1 d o -= 1 d w = 0 		19 100
+bld d = zero 0 		15 17

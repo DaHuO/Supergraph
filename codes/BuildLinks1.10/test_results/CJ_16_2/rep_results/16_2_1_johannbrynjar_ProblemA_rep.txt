@@ -1,0 +1,2 @@
+countNumberOfAlpha 		1 2
+removeAlpha maxreplace maxreplace 		4 8

@@ -1,0 +1,1 @@
+def getmissing self n list result = dict = for i in range len list for j in range len list i if list i j in dict del dict list i j else dict list i j = true for key value in dict items result append key result sort return  join {0} format n for n in result 		2 17

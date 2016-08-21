@@ -1,0 +1,3 @@
+def __init__ self g_pos length self positions_of_g = g_pos self length = length 		2 4
+def __str__ self res = for i in range self length if i in self positions_of_g res append g else res append l return join res 		14 21
+def iterate self new_positions = for index in range self length if index in self positions_of_g new_positions += range index * self length index * self length + self length else new_positions += x + index * self length for x in self positions_of_g self positions_of_g = new_positions self length = self length * self length 		5 13

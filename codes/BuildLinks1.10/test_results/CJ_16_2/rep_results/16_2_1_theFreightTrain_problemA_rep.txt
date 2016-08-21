@@ -1,0 +1,1 @@
+returnString returnString S letterCounts = for letter in list S if letter in letterCounts letterCounts letter = letterCounts letter + 1 else letterCounts letter = 1 digits = 0 * 10 if Z in letterCounts digits 0 = letterCounts Z letterCounts R -= digits 0 		1 43

@@ -1,0 +1,1 @@
+def addletter curword letter if ord letter >= ord curword 0 return letter + curword return curword + letter 		9 12

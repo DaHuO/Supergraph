@@ -1,0 +1,1 @@
+def print_ans case_num ans print case #%d: %s % case_num ans 		1 2

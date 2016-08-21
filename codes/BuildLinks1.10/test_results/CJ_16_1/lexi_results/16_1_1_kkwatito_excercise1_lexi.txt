@@ -1,0 +1,2 @@
+def processtestcase self s new_word = head = for letter in s if new_word == new_word = letter head = letter continue if ord letter >= ord head head = letter new_word = letter + new_word else new_word = new_word + letter return new_word 		3 16
+def __init__ self file = open a-large.in r t = int file readline testcase_number = 1 for line in file result = self processtestcase line replace \n print case #%s: %s % testcase_number result testcase_number = testcase_number + 1 		18 25

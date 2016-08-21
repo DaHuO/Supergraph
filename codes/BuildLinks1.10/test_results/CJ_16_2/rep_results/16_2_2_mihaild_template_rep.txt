@@ -1,0 +1,9 @@
+		1 2
+gen_primes max primes = 1 * max + 1 for 		23 30
+enlen check x T x 		49 51
+enlen x n 		44 46
+		5 6
+GCD a 		17 20
+def readarray 		9 10
+readlinearray foo 		13 14
+is_prime N i = 3 if 		33 41

@@ -1,0 +1,5 @@
+fillC fillJ fillC fillJ k nowC nowJ tempC = nowC * 10 ** len 		19 25
+def main T = input 		72 77
+def update nowC nowJ global ans global bestC 		9 17
+possibles normal normal normal global bestC global bestJ = now = 0 = True for i in range len C if C i == ? and J i == ? now *= 10 tryWithFill C J i now now + 1 9 0 tryWithFill C J i now + 		27 70
+10e19 		5 7

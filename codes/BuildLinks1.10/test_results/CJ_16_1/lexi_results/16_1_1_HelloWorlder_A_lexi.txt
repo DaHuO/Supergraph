@@ -1,0 +1,2 @@
+def parse_input items return items 0 		1 2
+def run items s = parse_input items result = list for s in s if result if s >= result 0 result insert 0 s else result append s else result append s r = for x in result r += str x return r 		4 21

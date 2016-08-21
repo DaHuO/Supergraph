@@ -1,0 +1,4 @@
+makeMap check s freq s 		11 16
+def solve s result = freq = for i in s try freq i += 1 except freq i = 1 if Z in freq while freq Z > 0 if not check digits 0 freq return False re freq digits 0 result append 0 if W in freq while freq W > 0 		23 91
+makeMap re freq s 		18 21
+makeMap s freq = 		4 9

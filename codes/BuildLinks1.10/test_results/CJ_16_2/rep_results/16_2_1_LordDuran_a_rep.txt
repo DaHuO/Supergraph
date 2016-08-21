@@ -1,0 +1,1 @@
+Mat out_s ncase letters = list rl counts = matrix letters 		39 48

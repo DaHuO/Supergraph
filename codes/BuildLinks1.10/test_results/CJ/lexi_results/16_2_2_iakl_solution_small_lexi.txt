@@ -1,0 +1,6 @@
+def todec y l = len y r = 0 mp = 1 for i in range 0 l r += int y l - i - 1 * mp mp = mp * 10 return r 		34 41
+def match x y for i in range 0 len x if x i == ? continue if x i != y i return false return true 		26 32
+def tostr dx r r = for i in range 0 r r = str dx % 10 + r dx = int dx / 10 return r 		48 53
+def calcdiff x1 x2 x1d = todec x1 x2d = todec x2 return abs x1d - x2d x1d x2d 		43 46
+def outputtestcase tcn x out_f write case # + str tcn + : + str x 0 +  + str x 1 + \n 		23 24
+def solvetestcase tc c = tc 0 j = tc 1 r = len c inp = 0123456789 ca = itertools product inp repeat = r cb = itertools product inp repeat = r a = b = for a in ca if match c a a append a for b in cb if match j b b append b res = 999 999 999 for a in a for b in b df = calcdiff a b if df 0 < res 0 res = df elif res 0 == df 0 if df 1 < res 1 res = df elif res 1 == df 1 and df 2 < res 2 res = df res = tostr res 1 r tostr res 2 r return res 		55 82

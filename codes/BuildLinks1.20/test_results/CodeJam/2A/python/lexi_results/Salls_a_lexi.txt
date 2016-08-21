@@ -1,0 +1,2 @@
+def sort_l s n for i in xrange 0 n for j in xrange 0 len s 2 ** i + 1 substra = s j j + 2 ** i substrb = s j + 2 ** i j + 2 * 2 ** i assert len substra == len substrb if substra > substrb s = s j + substrb + substra + s j + 2 * 2 ** i return s 		18 26
+def get_final s n for i in xrange n next = for j in s if j == r next += rs elif j == s next += ps elif j == p next += pr s = next assert len s == 2 ** n return sort_l s n 		4 16

@@ -1,0 +1,2 @@
+def main t = int input for k in range t s = input print case #{case}: {word} format 		12 16
+def get_winning_last_word s word = s 0 for k in range 1 len s if s k >= word 0 word = s k + word else word = word + s k return word 		2 10

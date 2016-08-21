@@ -1,0 +1,3 @@
+pr s end = None if debug 		13 18
+def rem s d for c 		28 35
+def out s end 		20 24

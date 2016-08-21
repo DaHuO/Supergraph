@@ -1,0 +1,3 @@
+def process case ordered = 		25 34
+quick_setup lg lg fields getdata = open filename 		36 45
+getdata a+ getdata fields i = 0 f = open outfile 		14 23

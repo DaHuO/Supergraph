@@ -1,0 +1,16 @@
+def best x cl = jl = for i in x 		146 160
+def makeEqual c j if len c == 0 return if c 0 == ? and j 0 == ? poss = poss append makeEqual c 1 j 1 for i in range 2 poss 0 i = 0 + poss 0 i poss append makeCLarger c 1 j 1 poss 1 0 = 0 + poss 1 0 poss 1 1 = 1 + poss 1 1 poss append makeJLarger c 1 j 1 poss 2 0 		69 127
+def 		278 279
+def 		201 203
+def criteria c j 		138 144
+def f x c j = x split largeC = largeJ = equal = for i in reversed range len c if c i == ? and j i == ? equalPoss = 0 + equal 0 0 + equal 1 equalPoss append 0 + largeC 0 1 + largeC 1 equalPoss append 1 + largeJ 0 0 + largeJ 1 equal = best equalPoss 		217 275
+def 		281 282
+def makeCLarger c j if len c == 0 		27 42
+nextC nextJ nextC nextC nextJ nextJ nextC nextJ c == 0 return cList jList = = 		178 198
+def 		66 67
+def best x cl = jl = for i in x 		284 298
+processLine 		7 22
+def poss c 		163 168
+def 		63 64
+def makeJLarger c j if len c == 0 		46 61
+bruteForce processLine c j = 		170 174

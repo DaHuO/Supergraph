@@ -1,0 +1,2 @@
+def get_last_word string ans = for char in string if ans + char < char + ans ans = char + ans else ans = ans + char return ans 		16 26
+def main with open sys argv 1 as file_handler test_cases = file_handler read splitlines num_cases = test_cases 0 for case_num in xrange int num_cases ans = get_last_word test_cases case_num + 1 print case # + str case_num + 1 + : + ans 		3 13

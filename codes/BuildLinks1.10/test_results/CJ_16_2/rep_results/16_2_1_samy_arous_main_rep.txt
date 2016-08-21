@@ -1,0 +1,2 @@
+		68 69
+def solve s number = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE counts = 0 * 10 c = collections Counter s if c get Z 0 > 0 counts 0 += c get Z for ch in ZERO c ch -= counts 0 if c get W 		3 63

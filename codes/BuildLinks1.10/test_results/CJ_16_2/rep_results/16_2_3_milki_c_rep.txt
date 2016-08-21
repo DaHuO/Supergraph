@@ -1,0 +1,2 @@
+left_nodes right_nodes left_nodes right_nodes Graph add_nodes_from left_nodes add_nodes_from right_nodes hopcroft_karp_matching uncovered_nodes uncovered_nodes = int raw_input l = = set = set edges = for n in 		6 42
+def output 		46 47

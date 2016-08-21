@@ -1,0 +1,1 @@
+isalpha digits_counter s counter = 0 * 26 numbers = 0 * 10 for c 		18 34

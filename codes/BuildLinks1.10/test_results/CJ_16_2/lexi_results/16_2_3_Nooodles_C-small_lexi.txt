@@ -1,0 +1,1 @@
+def Valid list1 list2 for e in list1 if e not in list2 return False return True 		5 10

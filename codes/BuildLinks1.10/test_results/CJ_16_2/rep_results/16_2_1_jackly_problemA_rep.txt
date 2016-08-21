@@ -1,0 +1,1 @@
+find_all_numbers line line = list line result = while Z in line result append 0 line remove Z line remove E line remove R line remove O while W in line result 		1 47

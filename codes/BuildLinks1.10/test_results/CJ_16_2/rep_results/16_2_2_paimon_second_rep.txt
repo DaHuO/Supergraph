@@ -1,0 +1,2 @@
+new_dist new_dist new_dist new_dist dist result = float inf 		12 21
+def possible_scores template indices = i for i 		4 10

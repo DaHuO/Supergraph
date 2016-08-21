@@ -1,0 +1,5 @@
+get_number_of_digit check_exist decrease ret 		27 32
+proceed_string get_number_of_digit char_numbers = dict for ch in alphabet char_numbers ch = 		35 50
+check_exist string counts 		15 21
+def output 		60 63
+decrease string 		23 25

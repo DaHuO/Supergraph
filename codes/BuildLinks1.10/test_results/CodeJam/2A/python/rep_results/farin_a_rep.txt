@@ -1,3 +1,3 @@
-rearrange rearrange rearrange ab ba ab ba l == 		79 88
-layer layer p s last if r + p + s == 1 if r return R if p return P if s return S nr np ns = 0 0 0 		24 77
-layer rearrange n r p s if 		91 95
+ab ba ab ba = len s if l 		79 88
+def layer r p s last if r + p + s == 1 if r return R if p return P if s return S nr np ns = 0 0 		24 77
+def solve n r p s if 		91 95

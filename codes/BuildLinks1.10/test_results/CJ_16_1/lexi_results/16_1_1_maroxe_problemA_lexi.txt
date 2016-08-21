@@ -1,0 +1,1 @@
+def f s if s == return c = s np argmax s maxs = np where np array s == c 0 return max c + f s i + s i + 1 for i in maxs 		3 8

@@ -1,0 +1,1 @@
+def check a r p s return a count r is r and a count p is p and a count s is s 		25 26

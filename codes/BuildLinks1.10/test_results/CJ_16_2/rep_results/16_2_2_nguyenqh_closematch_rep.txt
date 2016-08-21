@@ -1,0 +1,1 @@
+newA newB A B Q = 0 0 = = for i in range len A newQ = while Q a b = Q pop if A i == ? and B i == ? if a == b newQ append 10 * a 10 * b newQ append 10 * a + 1 10 * b newQ append 10 * a 10 * b + 1 elif a > b 		1 65

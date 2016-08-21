@@ -1,0 +1,4 @@
+project_home /users/cdongsi/hub/python/codejam project_home /data/a-large.in 		49 53
+_filename 		11 18
+_filename _solve_last_word ioerror opening = sys stdout try with open 		20 36
+_solve_last_word self word q = 		38 46

@@ -1,4 +1,4 @@
-Lsort_on_data Lrandom.json ip ip ts ts Ldatasetssorted_list.json ip1 data_ss ip1 arr_sl data_ss tss arr_sl tss Lreverse_list.json ip2 data_rs ip2 arr_rs data_rs trs arr_rs trs 		58 91
-sort_on_data random.json ip ip ts ts datasetssorted_list.json ip1 data_ss ip1 arr_sl data_ss tss arr_sl tss reverse_list.json ip2 data_rs ip2 arr_rs data_rs trs arr_rs trs 		23 56
+Lsort_on_data Lrandom.json Ldatasetssorted_list.json Lreverse_list.json Lnearly_sorted.json nearly_sorted Lfewunique.json fewunique json load ip arr = data str size dicts = ts = insertion arr dicts random 		58 91
+sort_on_data random.json datasetssorted_list.json reverse_list.json nearly_sorted.json nearly_sorted fewunique.json fewunique json load ip arr = data str size dicts = ts = insertion arr dicts random 		23 56
 round 1000 arr start = time clock for i in range 		10 20
 Content-type: text/html cgi FieldStorage has_key 1000000 2000000 		93 104

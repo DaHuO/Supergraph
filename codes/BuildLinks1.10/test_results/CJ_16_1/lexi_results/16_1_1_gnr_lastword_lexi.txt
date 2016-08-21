@@ -1,0 +1,1 @@
+def findlastword s lastwordlist = s 0 for i in range 1 len s if s i >= lastwordlist 0 lastwordlist insert 0 s i else lastwordlist append s i return join lastwordlist 		3 10

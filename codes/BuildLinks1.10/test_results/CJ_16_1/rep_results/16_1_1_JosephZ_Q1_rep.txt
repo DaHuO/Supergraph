@@ -1,0 +1,1 @@
+def work input_string result = input_string 		6 13

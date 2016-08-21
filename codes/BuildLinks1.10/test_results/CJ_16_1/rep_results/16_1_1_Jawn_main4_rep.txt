@@ -1,0 +1,4 @@
+def check_value letter 		16 19
+sum_of_cases sum_of_cases sum_of_cases with open file as f 		1 11
+def write_file file to_return with open file 		67 75
+return_list return_list return_list counter = 1 to_return = = for i in range len input for x in range len input i if to_return == to_return += input i x else value_1 = check_value 		21 63

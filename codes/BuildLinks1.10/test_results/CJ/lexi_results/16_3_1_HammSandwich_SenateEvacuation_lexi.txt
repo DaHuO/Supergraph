@@ -1,0 +1,15 @@
+def process nparties partycounts if nparties == 2 return  join ab for x in range partycounts 0 evac = while anyleft partycounts evacperson = findwhichtoevac nparties partycounts partycounts evacperson = partycounts evacperson - 1 evac append evacperson evacletters = letters x for x in evac end = evacletters - 2 evacletters = evacletters - 2 evacletters append join end return  join evacletters 		18 32
+def nextlineoffloats self delim =  line = self nextline return float x for x in line split delim 		78 80
+def findwhichtoevac nparties partycounts highest = 0 party = - 1 for x in range nparties if partycounts x > highest highest = partycounts x party = x return party 		34 41
+def __init__ self basefilename self ensuredirectory ./output self infile = open ./input/ + basefilename + .in r self outfile = open ./output/ + basefilename + .out w self casenum = 1 		53 57
+def nextline self return self infile readline - 1 		68 69
+def nextint self return int self nextline 		71 72
+def nextlineofints self delim =  line = self nextline return int x for x in line split delim 		74 76
+def nextdelimitedmatrix self x y delim =  matrix = for _ in range len x line = self nextline line = item for item in line split delim if len line != y print problem, matrix does not match specified dimensions matrix append line return matrix 		85 93
+def nextdelimitedline self delim =  return self nextline split delim 		82 83
+def output self value print case # + str self casenum + : + str value self outfile write case # + str self casenum + : + str value + \n self casenum = self casenum + 1 		63 66
+def anyleft partycounts for item in partycounts if item != 0 return true return false 		43 47
+def getstringmatrix self matrix space = true out = for line in matrix out = out + \n for item in line out = out + str item if space out = out +  if space out = out - 1 return out 		105 115
+def main h = codejamhelper a-large n = h nextint for x in range n nparties = h nextint partycounts = h nextlineofints h output process nparties partycounts 		6 15
+def nextcharmatrix self x y matrix = for _ in range len x line = self nextline line = item for item in line if len line != y print problem, matrix does not match specified dimensions matrix append line return matrix 		95 103
+def ensuredirectory self path if not os path exists path os makedirs path 		59 61

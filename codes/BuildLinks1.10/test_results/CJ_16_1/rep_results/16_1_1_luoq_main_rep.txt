@@ -1,0 +1,5 @@
+counting_sheep seen_digits seen_digits seen_digits int line if 		11 23
+fractiles ceil s_min ceil s_min impossible c s = list map int line 		39 54
+def the_last_word line s = list line r 		56 66
+def run f infile_name outfile_name = infile_name 		2 9
+revenge_of_pancakes numpy cakes prev_cake cakes prev_cake prev_cake line 		25 37

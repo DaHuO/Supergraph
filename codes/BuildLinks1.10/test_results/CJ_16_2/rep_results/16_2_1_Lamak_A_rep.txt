@@ -1,0 +1,4 @@
+getMyCases 		16 17
+def getCases with open A-small-attempt0.in as 		8 14
+def rem a num rem = 		19 25
+ph ph ph ph global found global phoneNumber if len 		27 38

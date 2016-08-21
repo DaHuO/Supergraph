@@ -1,0 +1,1 @@
+def solve k c s if s < math ceil k / c return impossible s = math ceil k / c i = 0 r = for s in range s pos = 0 for c in range c if i >= k break pos = pos * k + i i += 1 r append str pos + 1 return  join r 		4 21

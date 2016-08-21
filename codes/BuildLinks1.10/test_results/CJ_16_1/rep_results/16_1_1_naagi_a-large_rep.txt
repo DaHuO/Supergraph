@@ -1,0 +1,1 @@
+def go s n = len s if n 		3 11

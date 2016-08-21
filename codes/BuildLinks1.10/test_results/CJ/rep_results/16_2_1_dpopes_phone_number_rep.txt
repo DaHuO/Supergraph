@@ -1,0 +1,2 @@
+def replace_known input count 		65 70
+print_string print_string print_string zeros = input count z input = replace_known input zeros zero twos = input count w input = replace_known input twos two fours = input count 		25 62

@@ -1,0 +1,2 @@
+def s CJ p ret = list CJ for i n in enumerate p ret idx i = n return join ret 		3 7
+def bfk CJ l = len CJ // 2 c = int CJ l j = int CJ l return abs c - j c j 		9 13

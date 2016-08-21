@@ -1,0 +1,1 @@
+def decrement counts string q for i in range 0 len string counts q string i -= 1 		3 5

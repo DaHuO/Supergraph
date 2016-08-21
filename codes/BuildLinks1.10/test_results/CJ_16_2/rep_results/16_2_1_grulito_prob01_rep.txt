@@ -1,0 +1,3 @@
+solveone has_num has_num = dict for i in range len inputstr letter = inputstr i if letter in z 		41 69
+has_num n z if n == 0 and Z in z rm Z E R O z return True if n == 1 and O in z and N in z and E in z rm O N E z return True 		9 39
+def rm letters z for 		1 7

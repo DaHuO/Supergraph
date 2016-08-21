@@ -1,0 +1,3 @@
+toint x r = 		24 30
+def md n if 		17 22
+all_l toint all_r toint all_l all_r = list l list r for ix l r in enumerate zip l r if l == ? and r == ? if ix == 0 l ix = 0 1 r ix = 0 1 else 		32 69

@@ -1,0 +1,5 @@
+setup_logging basicConfig [%(levelname)s]: %(message)s argv > 		6 11
+M1 M2 L logging debug %s L L n1 = replace 		64 70
+def 		14 15
+def replace L mapping numbers = for k 		53 61
+def main T = 		73 77

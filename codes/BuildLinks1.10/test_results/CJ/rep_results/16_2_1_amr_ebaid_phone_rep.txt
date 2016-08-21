@@ -1,0 +1,2 @@
+digitsmap remove s 		30 34
+digitsmap contains s d digit 		19 27

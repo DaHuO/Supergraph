@@ -1,0 +1,3 @@
+def 		13 14
+def main n_cases = 		15 19
+def recurse tail head = ans = set if 		3 12

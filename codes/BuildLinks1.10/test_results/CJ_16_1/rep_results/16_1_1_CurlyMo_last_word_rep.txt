@@ -1,0 +1,2 @@
+def read_input infile out with open 		18 23
+def main infile out for line in read_input 		5 15

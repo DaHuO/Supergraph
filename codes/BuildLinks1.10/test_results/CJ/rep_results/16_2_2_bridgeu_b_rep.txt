@@ -1,0 +1,3 @@
+c_in j_in restc restj restc restj c_in j_in bestdiff 999999999999999999999999999999999999999999999999 bestdiff bestdiff bestdiff bestdiff c == 0 return poss = c0 = c 0 j0 = j 0 if c0 == ? and j0 == ? poss append 0 0 poss append 0 9 poss append 9 		6 60
+restc restj restc restj if len c == 0 return poss = c0 = c 0 j0 = j 0 if c0 == ? and j0 == ? poss append 		9 43
+def read_ints 		3 4

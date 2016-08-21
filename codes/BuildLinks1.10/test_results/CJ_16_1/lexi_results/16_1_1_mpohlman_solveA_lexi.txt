@@ -1,0 +1,2 @@
+def compute s answer = s 0 1 for letter in s 1 if letter < answer 0 answer append letter else answer 0 = letter return join answer 		5 12
+def solve infilename infile = open infilename r line = infile readline t = int line if debug > 0 print t: t for index in range t s = list infile readline rstrip if debug > 0 print print s: s answer = compute s print case #%(index)d: %(answer)s % index index + 1 answer answer infile close return 		15 30

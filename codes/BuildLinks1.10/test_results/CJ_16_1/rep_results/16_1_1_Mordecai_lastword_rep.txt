@@ -1,0 +1,2 @@
+def lastword s final 		1 5
+def main cases = 		7 10

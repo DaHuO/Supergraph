@@ -1,0 +1,1 @@
+def isequal a b for i j in zip a b if i == ? or j == ? or i == j continue else return False return True 		1 7

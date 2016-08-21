@@ -1,0 +1,1 @@
+recurcount recurcount recurcount i subs if i == len subs return 0 start = 		3 16

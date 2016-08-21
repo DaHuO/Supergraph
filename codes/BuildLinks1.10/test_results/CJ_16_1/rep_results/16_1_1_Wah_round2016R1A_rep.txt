@@ -1,0 +1,4 @@
+generateoutput self 		19 20
+def 		3 4
+def 		6 8
+def run self for character in self 		10 17

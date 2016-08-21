@@ -1,0 +1,1 @@
+def process total global parties rlt = while total > 0 parties sort p = parties - 1 1 parties - 1 0 -= 1 total -= 1 if parties - 2 0 > total / 2 p += parties - 2 1 parties - 2 0 -= 1 total -= 1 rlt += p +  return rlt 		8 21

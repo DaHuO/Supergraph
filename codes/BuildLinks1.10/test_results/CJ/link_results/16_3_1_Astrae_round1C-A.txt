@@ -1,0 +1,13 @@
+
+With same rare tokens:
+10 - 54 links:
+16_2_1_Astrae_round1B-A	:	54 - 80
+16_2_1_Astrae_round1B-A	:	10 - 42
+16_2_1_EpicSound_a	:	1 - 17
+16_2_1_EpicSound_a	:	1 - 17
+16_2_1_EpicSound_a	:	1 - 17
+
+69 - 101 links:
+16_2_1_Astrae_round1B-A	:	54 - 80
+16_2_1_Astrae_round1B-A	:	10 - 42
+

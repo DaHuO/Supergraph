@@ -1,0 +1,1 @@
+rankfile case_input case_input = defaultdict int ans = for line 		4 15

@@ -1,0 +1,10 @@
+read_decimal_list self 		53 55
+def __init__ 		30 32
+def read_float 		37 39
+read_decimal self 		40 42
+def read_str_list 		56 58
+read_float_list self 		50 52
+def solve f skip = False n = f read_int words = f read_str_list for i 		11 27
+def read_int_list 		47 49
+def read_int 		34 36
+def read_str 		43 45

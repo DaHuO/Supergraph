@@ -1,0 +1,6 @@
+def read_int return int read_input 		16 17
+def print_solution i solution print case #{}: {} format i solution 		24 25
+def read_input_multi strip = true return read_input strip split 		12 13
+def read_input strip = true return raw_input strip if strip else raw_input 		8 9
+def read_int_multi return int s for s in read_input_multi 		20 21
+def solve word = read_input last_word = for l in word if last_word if ord l >= ord last_word 0 last_word insert 0 l else last_word append l else last_word append l return join last_word 		34 45

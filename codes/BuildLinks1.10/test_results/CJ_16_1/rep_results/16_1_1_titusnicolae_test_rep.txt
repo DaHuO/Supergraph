@@ -1,0 +1,2 @@
+iret iret iret ret = 		4 11
+def f s s = s - 		14 22

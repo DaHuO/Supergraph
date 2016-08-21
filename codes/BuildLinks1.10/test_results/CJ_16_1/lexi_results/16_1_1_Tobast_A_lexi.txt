@@ -1,0 +1,3 @@
+def lastword cur rem if rem == return cur else if rem 0 < cur 0 return lastword cur + rem 0 rem 1 else return lastword rem 0 + cur rem 1 		11 18
+def possibles cur rem if rem == poss append cur else possibles cur + rem 0 rem 1 possibles rem 0 + cur rem 1 		4 9
+def solve s = input strip poss = def possibles cur rem if rem == poss append cur else possibles cur + rem 0 rem 1 possibles rem 0 + cur rem 1 def lastword cur rem if rem == return cur else if rem 0 < cur 0 return lastword cur + rem 0 rem 1 else return lastword rem 0 + cur rem 1 return lastword s 0 s 1 		1 23

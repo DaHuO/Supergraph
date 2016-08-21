@@ -1,0 +1,2 @@
+def solve s d = defaultdict int for c in s d c += 1 res = while d Z > 0 for c in ZERO d c -= 1 res append 0 while d W > 		2 71
+def fmt file f = open file 		75 84

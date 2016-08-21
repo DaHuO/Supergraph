@@ -1,0 +1,1 @@
+def getlastword self word curmax = 0 result = wordlist = 		2 18

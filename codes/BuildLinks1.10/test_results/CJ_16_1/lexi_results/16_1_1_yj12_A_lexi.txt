@@ -1,0 +1,1 @@
+def solve line idx = 0 for i in range 1 len line temp = jj for jj in j for j in idx for t in temp t append i for j in idx j insert 0 i idx extend temp a = for i in idx a = join line ii for ii in i a append a a sort return a - 1 		1 16

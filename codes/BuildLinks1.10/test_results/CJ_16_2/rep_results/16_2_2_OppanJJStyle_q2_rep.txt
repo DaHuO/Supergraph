@@ -1,0 +1,10 @@
+to_list isdigit 		10 11
+zeroize d 		30 32
+min_difs where_zero_x where_zero_y min_dif where_zero_x d_y where_zero_y keys_y d_y keys_y apply_dict apply_dict d_y keys_y int_x to_int int_y to_int int_x 		55 81
+min_y miny miny miny miny results 		94 103
+analyze to_list to_list min_difs where_zero where_zero min_x ly min_y ly ly ly list_x list_y 		38 53
+def increment d keys for i in xrange len keys 		20 28
+to_int l res 		13 18
+min_x minx minx minx minx results 		83 92
+where_zero l return 		7 8
+apply_dict l 		34 36

@@ -1,0 +1,2 @@
+def main cases = int input for case in range cases s = input split result = solve s print Case #%d: %s % case + 1 result 		17 24
+def solve s result = count = countby lambda x x s for digit check_char map in rules if check_char in count and count check_char > 0 n = count check_char for k v in map items count k -= v * n result += digit * n return join sorted result 		26 37

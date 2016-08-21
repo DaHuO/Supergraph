@@ -1,0 +1,2 @@
+def parse_case 		6 7
+def solve_case case k 		10 12

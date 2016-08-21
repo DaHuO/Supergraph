@@ -1,0 +1,1 @@
+def digits_to_index digs base rv = 0 for dig in digs rv *= base rv += dig return rv + 1 		1 6

@@ -1,0 +1,1 @@
+def solve n r p s if n == 1 if r == 0 return ps elif p == 0 return rs else return pr else if r % 2 == 0 return solve n - 1 r / 2 p / 2 + 1 s / 2 + solve n - 1 r / 2 p / 2 s / 2 + 1 elif p % 2 == 0 return solve n - 1 r / 2 + 1 p / 2 s / 2 + solve n - 1 r / 2 p / 2 s / 2 + 1 else return solve n - 1 r / 2 p / 2 + 1 s / 2 + solve n - 1 r / 2 + 1 p / 2 s / 2 		4 18

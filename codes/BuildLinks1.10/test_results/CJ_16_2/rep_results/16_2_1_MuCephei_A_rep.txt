@@ -1,0 +1,12 @@
+Remove0 Remove2 Remove6 Remove8 Remove3 Remove4 Remove5 Remove7 Remove1 Remove9 append letter phone = while 		91 129
+Remove9 string if N 		82 89
+def toString data 		132 136
+Remove1 string if 		10 16
+Remove3 string if T in 		26 34
+Remove0 string if Z 		1 8
+Remove2 string if 		18 24
+Remove6 string if 		54 60
+Remove5 string if F 		45 52
+Remove8 string if G in 		72 80
+Remove4 string if R 		36 43
+Remove7 string if V in 		62 70

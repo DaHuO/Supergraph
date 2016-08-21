@@ -1,0 +1,3 @@
+def last_word s r line_cnt for h in 		6 17
+def print_result 		3 4
+solve_template t = int sys stdin readline rstrip 		20 31

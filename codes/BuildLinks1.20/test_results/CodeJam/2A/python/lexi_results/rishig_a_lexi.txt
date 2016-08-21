@@ -1,0 +1,7 @@
+def __init__ self trip s n self trip = trip self s = s self n = n 		22 25
+def swap s a b w if s a a + w > s b b + w return s a + s b b + w + s a + w b + s a a + w + s b + w else return s 		3 6
+def getd d = cur = rps 1 0 0 r 0 rps 0 1 0 p 0 rps 0 0 1 s 0 for i in range 13 for k in range 3 d cur k trip = cur k s cur k = cur k nxt return d 		42 49
+def bsort s n for i in range 1 n + 1 for a in range 0 2 ** n 2 ** i s = swap s a a + 2 ** i - 1 2 ** i - 1 return s 		8 12
+def expand s def f x if x == p return pr if x == r return rs if x == s return sp return join f x for x in s 		14 19
+def f x if x == p return pr if x == r return rs if x == s return sp 		15 18
+def nxt self ns = bsort expand self s self n + 1 x y z = self trip ntrip = x + y y + z x + z return rps ntrip ns self n + 1 		27 31

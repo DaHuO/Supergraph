@@ -1,0 +1,7 @@
+hasmajor l m 		25 30
+getletter 		12 13
+decmax main inp res = int 		72 81
+willfuckup hasmajor m if m == 		32 41
+		22 23
+lvl 		16 18
+decmax decmax start: getletter decmax2: willfuckup getletter decmax4: = max l maxindex = l index 		43 70

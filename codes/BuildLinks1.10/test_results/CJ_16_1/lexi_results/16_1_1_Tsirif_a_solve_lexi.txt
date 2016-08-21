@@ -1,0 +1,1 @@
+def solve t = int raw_input for nc in xrange 1 t + 1 s = raw_input last_word = s 0 best_word = s 0 for word in s 1 if word >= best_word last_word = word + last_word best_word = word else last_word = last_word + word print output % locals 		15 27

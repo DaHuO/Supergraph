@@ -1,0 +1,1 @@
+def docase f s = f 		5 13

@@ -1,0 +1,15 @@
+Direct links:
+37 - 43 links:
+16_1_2_mihaild_B	:	38 - 44
+16_1_3_mihaild_C	:	38 - 44
+
+
+With same rare tokens:
+25 - 32 links:
+16_1_2_mihaild_B	:	26 - 33
+16_1_3_mihaild_C	:	26 - 33
+
+37 - 43 links:
+16_1_2_mihaild_B	:	38 - 44
+16_1_3_mihaild_C	:	38 - 44
+

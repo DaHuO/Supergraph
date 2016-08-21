@@ -1,0 +1,1 @@
+def solve k c 		3 4

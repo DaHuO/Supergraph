@@ -1,0 +1,4 @@
+_handleNumbersWithUniqueLetters _uniqueLettersToDigits _handleNumbersWithUniqueLetters _uniqueLettersToDigitsSecondPass _handleNumbersWithUniqueLetters = case digits = 		28 34
+printDigits self outputFile for caseNumber 		50 52
+_uniqueLettersToDigits _uniqueLettersToDigitsSecondPass inputFileContents inputFileContents inputFileContents printDigits _digitNumberStringPairs = list enumerate ZERO ONE TWO THREE FOUR FIVE SIX SEVEN 		7 26
+_handleNumbersWithUniqueLetters uniqueLettersToDigits digitNumberStringPair uniqueLettersToDigits findResult findResult digitNumberStringPair digitLetter 		36 48

@@ -1,0 +1,2 @@
+putinside currentnumber 		34 37
+findmissingnumber inside a = for 		7 15

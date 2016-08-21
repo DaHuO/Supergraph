@@ -1,0 +1,1 @@
+def solve s last_word = leftmost_char = for 		4 17

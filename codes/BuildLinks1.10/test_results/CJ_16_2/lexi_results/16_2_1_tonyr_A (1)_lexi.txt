@@ -1,0 +1,4 @@
+def WriteResult outputs fh = open output.out w case_i = 1 for case in outputs fh write Case # + str case_i + : + case + \n case_i += 1 fh close 		91 98
+def choose n k return list itertools combinations range n k 		19 20
+def solve_bruteforce ins number_order res = counta = Counter list ins for number in number_order num_of_number = counta number 1 for alphabet in list number 0 counta alphabet = counta alphabet - num_of_number res number 2 = num_of_number output_ = for i in res for j in np arange res i output_ += str i return output_ 		62 77
+def solve_all_brute all_ins res = for instance in all_ins res append solve_bruteforce instance number_order return res 		84 88

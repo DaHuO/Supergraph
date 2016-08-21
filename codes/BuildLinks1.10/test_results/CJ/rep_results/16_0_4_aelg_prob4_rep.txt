@@ -1,0 +1,2 @@
+inputlist inputlist inputlist inputlist originaltile studentpos studentpos originaltile originaltile studentpos originaltile studentpos = 1 s = 		4 23
+def main cases = 		25 28

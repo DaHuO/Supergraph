@@ -1,0 +1,1 @@
+def solve word chars = defaultdict int numbers = for c in word chars c += 1 while Z in chars for z in zero chars z -= zero z if chars z == 0 chars pop z numbers append 0 while X in chars for z in six chars z -= six 		28 107

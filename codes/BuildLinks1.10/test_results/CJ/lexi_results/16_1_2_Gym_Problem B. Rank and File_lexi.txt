@@ -1,0 +1,1 @@
+def ranknfile file_in fr = open file_in r t = int fr readline strip fw = open file_in - 3 + .out w for i in range t miss = n = int fr readline strip s = for j in range 2 * n - 1 s extend fr readline strip split for j in set s if s count j % 2 != 0 miss append int j fw write case #%d: % i + 1 +  join str i for i in sorted miss + \n fr close fw close 		2 22

@@ -1,0 +1,5 @@
+def best sols sols = list sols a b = sols 0 diff 		31 44
+def 		46 47
+def at s 		2 3
+def gen a b comm = 0 while comm < len a and a comm == b comm and a comm != ? comm += 1 if comm == len a return 		5 29
+def pad 		49 50

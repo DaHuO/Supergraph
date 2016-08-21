@@ -1,0 +1,2 @@
+def gold_lead k c s if k / c > s return impossible else ret = unchecked_idx = 0 while unchecked_idx < k if unchecked_idx + c <= k ret append compute_index i for i in range unchecked_idx unchecked_idx + c k unchecked_idx += c else ret append compute_index i for i in range unchecked_idx k k unchecked_idx = k ret_str = str i + 1 for i in ret return  join ret_str 		12 26
+def compute_index li b ret = 0 for i in li ret *= b ret += i return ret 		29 34

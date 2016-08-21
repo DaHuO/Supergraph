@@ -1,0 +1,1 @@
+def solve case s = case s letters = l for l in s answer 		15 31

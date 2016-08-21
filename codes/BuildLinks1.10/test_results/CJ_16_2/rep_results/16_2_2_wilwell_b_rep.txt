@@ -1,0 +1,2 @@
+def gen s i ans if i == len 		2 12
+get_all s 		13 16

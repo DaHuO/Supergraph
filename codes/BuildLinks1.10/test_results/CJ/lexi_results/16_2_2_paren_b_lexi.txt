@@ -1,0 +1,1 @@
+def genall n if n count ? == 0 return n ret = if n count ? == 1 for i in range 10 ret append n replace ? str i return ret for i in range 10 ret extend genall n replace ? str i 1 return ret 		3 13

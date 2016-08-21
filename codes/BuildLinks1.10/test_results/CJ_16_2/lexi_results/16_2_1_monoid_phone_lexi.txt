@@ -1,0 +1,4 @@
+def process_phase phase cfg for marker digits value in phase iteritems if marker in cfg and cfg marker > 0 count = cfg marker yield str value * count for dig in digits cfg dig -= count 		30 36
+def main count = int raw_input for i in xrange 1 count + 1 string = raw_input print Case #{}: {} format i process string 		52 57
+def process string cfg = input_to_cfg string m1 = list process_phase MARKS_1 cfg m2 = list process_phase MARKS_2 cfg m3 = list process_phase MARKS_3 cfg assert all v == 0 for v in cfg itervalues return join sorted m1 + m2 + m3 		39 50
+def input_to_cfg string cfg = defaultdict int for ch in string cfg ch += 1 return cfg 		24 28

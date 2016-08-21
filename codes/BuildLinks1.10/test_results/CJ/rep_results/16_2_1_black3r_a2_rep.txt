@@ -1,0 +1,9 @@
+def contains a b for 		8 14
+dic_from_list list dic 		41 47
+make_list 		61 62
+make_dicts 		27 28
+def subtract a b res = for 		50 58
+make_dict str dic 		17 21
+dyncheck dic_from_list dic = inp counts = if w in dic and dic w count = dic w counts 2 = count dic w -= count dic t -= count dic o -= count if g in dic and dic g count = dic g counts 8 = count dic e -= count dic i -= count dic g -= count dic h 		65 135
+make_list dic 		31 32
+make_lists 		35 36

@@ -1,0 +1,1 @@
+parsestring stringrest stringatual stringrest stringatual stringrest direita stringatual esquerda stringatual direita parsestring stringrest stringatual parsestring stringrest stringatual 		5 24

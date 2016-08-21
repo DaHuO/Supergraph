@@ -1,0 +1,1 @@
+def solve cols nums = for col in cols for 		4 15

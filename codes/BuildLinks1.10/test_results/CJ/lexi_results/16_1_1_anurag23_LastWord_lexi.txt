@@ -1,0 +1,1 @@
+def last_word s o = - 1 lw = for ch in s if ord ch >= o o = ord ch lw = ch + lw else lw += ch return lw 		1 10

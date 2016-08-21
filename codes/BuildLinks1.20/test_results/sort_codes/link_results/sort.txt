@@ -1,0 +1,15 @@
+
+With same rare tokens:
+10 - 20 links:
+sorts	:	11 - 43
+Arraysort	:	69 - 88
+sortTest	:	36 - 38
+
+93 - 104 links:
+sort_word_by_other_word	:	8 - 18
+stoogesort	:	15 - 22
+quicksort_solved	:	81 - 115
+quicksort_inplace	:	21 - 25
+test_sorts	:	50 - 74
+sortalg	:	232 - 251
+

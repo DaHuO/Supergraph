@@ -1,0 +1,7 @@
+def 		17 18
+maxSeq num for 		40 44
+		20 21
+minSeq num for 		46 50
+suffix suffix 		52 53
+		14 15
+num_i num_i num_i if < 0 return False num = list 		23 38

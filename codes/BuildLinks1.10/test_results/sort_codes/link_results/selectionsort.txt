@@ -1,12 +1,5 @@
-8 - 14 links:
-bubble_sort_with_flag	:	7 - 17
-selection-sort	:	1 - 9
-
+Direct links:
 3 - 6 links:
-insertionsort	:	3 - 6
 quick_sort	:	1 - 4
 quicksort_solved	:	8 - 11
-heapsort	:	3 - 6
-bubblesort	:	3 - 6
-quicksort	:	3 - 6
 

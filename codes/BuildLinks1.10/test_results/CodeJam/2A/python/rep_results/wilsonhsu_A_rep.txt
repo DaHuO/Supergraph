@@ -1,7 +1,7 @@
-fill_lineup get_lineup winner N 		9 13
+def get_lineup winner N 		9 13
 lineup_ok lineup R P 		38 39
-fill_lineup OPP fill_lineup fill_lineup if end 		15 20
+OPP fill_lineup lineup start end if 		15 20
 lineup_ok sort_lineup N R P S best_lineup = 		41 49
 sort_lineup lineup i = 1 while i < len lineup for k 		22 28
 lineup1 lineup2 lineup1 lineup2 lineup1 lineup2 j 		30 36
-{0}.in {0}.out {1}\n IMPOSSIBLE\n = open format name r g = open format name 		51 65
+{0}.in {0}.out {1}\n f = open format name r g = open format name 		51 65

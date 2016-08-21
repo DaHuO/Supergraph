@@ -1,0 +1,101 @@
+Direct links:
+8 - 10 links:
+16_1_1_urupica_a	:	14 - 16
+16_1_1_gepa_A	:	14 - 16
+
+24 - 52 links:
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+
+
+With same rare tokens:
+24 - 52 links:
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_3_mth_c.bitslow	:	34 - 62
+16_1_2_mth_b	:	27 - 55
+16_1_2_mth_b	:	27 - 55
+

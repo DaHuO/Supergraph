@@ -1,0 +1,2 @@
+greedy s answer = s 0 s 		1 10
+greedy main for 		12 14

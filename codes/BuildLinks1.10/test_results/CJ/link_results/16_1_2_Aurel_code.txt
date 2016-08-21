@@ -1,0 +1,24 @@
+Direct links:
+39 - 40 links:
+16_0_4_Aurel_code	:	7 - 8
+16_1_1_Aurel_code	:	39 - 40
+16_3_1_Aurel_code	:	9 - 10
+
+26 - 27 links:
+16_1_1_Aurel_code	:	26 - 27
+
+13 - 19 links:
+16_3_1_AndersTornkvist_a	:	18 - 26
+16_0_4_caethan_d_fractiles	:	38 - 48
+16_2_1_bsoist_A	:	10 - 20
+
+
+With same rare tokens:
+39 - 40 links:
+16_0_4_Aurel_code	:	7 - 8
+16_1_1_Aurel_code	:	39 - 40
+16_3_1_Aurel_code	:	9 - 10
+
+29 - 37 links:
+16_1_1_Aurel_code	:	29 - 37
+

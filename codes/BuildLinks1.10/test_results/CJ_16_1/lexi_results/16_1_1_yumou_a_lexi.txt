@@ -1,0 +1,1 @@
+def order s ans = 0 for i in range len s ans += ord s i - 64 * 28 ** len s - i - 1 return ans 		1 5

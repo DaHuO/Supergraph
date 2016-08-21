@@ -1,0 +1,1 @@
+def process string maxchar = max string result 		3 14

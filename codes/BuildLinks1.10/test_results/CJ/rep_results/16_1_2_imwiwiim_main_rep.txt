@@ -1,0 +1,1 @@
+laux laux laux laux = list l d = j = 0 = ans = i for i in range len l 0 for i in 		1 32

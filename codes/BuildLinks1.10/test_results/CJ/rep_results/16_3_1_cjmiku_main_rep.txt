@@ -1,0 +1,4 @@
+tr 		5 6
+trl l 		8 9
+trl trl s result = senators = j for j in s while true if sum senators == 0 break 		18 48
+def isvalid sens for i 		12 16

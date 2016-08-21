@@ -1,0 +1,1 @@
+def solve for hs in permutations p * p + r * r + s * s r = 1 << n winners = hs for i in xrange n tmp = none * len winners / 2 for j in xrange 1 << n - 1 - i tmp j = rs r rp p sr r sp s pr p ps s get winners 2 * j + winners 2 * j + 1 if tmp j is none break else winners = tmp continue break else return join hs return impossible 		7 29

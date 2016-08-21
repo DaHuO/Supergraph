@@ -1,0 +1,3 @@
+def count s c return sum 1 if u == c else 0 for u in s 		8 9
+def print_A words = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE for c in xrange 26 row = for w in words row += str count w chr ord A + c row +=  print row 		11 18
+def mmul a y ans = 0 * len b for i in xrange len b for j in xrange len y ans i += a i j * y j return ans 		1 6

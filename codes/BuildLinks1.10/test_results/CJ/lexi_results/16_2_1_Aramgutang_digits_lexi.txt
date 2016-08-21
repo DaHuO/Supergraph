@@ -1,0 +1,1 @@
+def remove input number for letter in number index = input index letter input = input index + input index + 1 return input 		26 30

@@ -1,0 +1,1 @@
+def test_case a a = a rstrip split  if len a < 3 return k = int 		8 37

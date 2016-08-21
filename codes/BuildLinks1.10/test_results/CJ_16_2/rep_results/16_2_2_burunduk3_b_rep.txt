@@ -1,0 +1,2 @@
+nmn nmn nmn nmn i = 0 mn = 0 if i == len a result a b return for xa in range 0 9 + 1 for xb in range 0 9 + 1 if xb < 0 or xb > 		11 47
+def result a b global ans 		3 9

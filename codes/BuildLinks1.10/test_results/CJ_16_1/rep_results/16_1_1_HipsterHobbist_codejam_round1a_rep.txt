@@ -1,0 +1,1 @@
+def find_last_word word if word == or word == 		5 16

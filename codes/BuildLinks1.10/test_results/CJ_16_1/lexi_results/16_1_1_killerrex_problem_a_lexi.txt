@@ -1,0 +1,3 @@
+def start if len sys argv > 1 with open sys argv 1 r as fd solve fd else solve sys stdin 		41 46
+def winner txt sol = txt 0 for c in txt 1 if c >= sol 0 sol = c + sol else sol += c return sol 		13 23
+def solve fd total = int fd readline strip for k in range total txt = fd readline strip print case #{}: {} format k + 1 winner txt 		26 38

@@ -1,0 +1,1 @@
+def isIn str1 str2 i = False str2 = list str2 c = 0 for char in str1 if char in str2 str2 pop str2 index char c += 1 if c == len str1 i = True return i join str2 		4 17

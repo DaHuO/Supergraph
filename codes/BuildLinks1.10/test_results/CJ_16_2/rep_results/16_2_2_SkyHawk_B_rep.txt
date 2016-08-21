@@ -1,0 +1,2 @@
+get_flag old_flag old_flag old_flag != 		4 9
+s1_param s2_param s1_param s2_param get_flag deepcopy s2 = copy deepcopy flag = 0 for i in range len s1 if s1 i != ? and s2 i != ? flag = flag s1 i s2 i continue if flag > 0 if s1 i == ? s1 i = 0 if s2 i == ? s2 i = 9 continue if flag < 0 if s1 i == ? s1 i = 9 if s2 i == ? s2 i = 0 continue if flag == 0 if i + 1 == len s1 if s1 i == ? and s2 i == ? s1 i = 0 s2 i = 		11 99

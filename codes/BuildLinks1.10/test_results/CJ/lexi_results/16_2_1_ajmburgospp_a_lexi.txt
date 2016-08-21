@@ -1,0 +1,2 @@
+def printsorted mat for m in sorted mat reverse = true print int x for x in m 		24 26
+def create_mat letters c = counter letters for l in rev_map keys if l not in c c l = 0 mat = 0 * 11 for x in xrange len rev_map for letter count in c iteritems mat rev_map letter - 1 = f count for digit in xrange 10 mat rev_map letter digit = f ac digit letter return mat 		11 22

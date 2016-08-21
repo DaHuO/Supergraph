@@ -1,0 +1,2 @@
+dostuff dostuff f = sys stdin 		16 23
+dostuff news news news news news 		3 13

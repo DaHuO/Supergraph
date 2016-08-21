@@ -1,0 +1,2 @@
+def output case result print Case #%s: %s % case + 1 result 		9 10
+def replace s chars for c in chars s = s replace c 1 return s 		13 16

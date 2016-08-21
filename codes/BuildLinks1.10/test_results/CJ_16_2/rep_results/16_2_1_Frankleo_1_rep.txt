@@ -1,0 +1,1 @@
+getNum z_num u_num x_num g_num z_num u_num x_num g_num h_num f_num s_num w_num h_num f_num s_num w_num o_num o_num i_num i_num s i += 1 = s_dict Z = s_dict U = s_dict X = s_dict G for z in xrange s_dict Z -= 1 s_dict E -= 1 s_dict R -= 1 s_dict O -= 1 d 0 += 1 for u 		2 86

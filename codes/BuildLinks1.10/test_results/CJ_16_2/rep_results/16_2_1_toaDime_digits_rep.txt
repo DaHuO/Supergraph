@@ -1,0 +1,1 @@
+main_code ZEROONETWOTHREEFOURFIVESIXSEVENEIGHTNINE string = input counts = dict for c in counts c = 0 for c in string counts c += 1 result = num = counts Z if num > 0 result += 0 * num for c in ZERO counts c -= num num = counts W 		1 72

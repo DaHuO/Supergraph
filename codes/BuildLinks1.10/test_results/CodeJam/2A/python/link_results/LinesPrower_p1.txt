@@ -1,18 +1,5 @@
-57 - 58 links:
-Fornax_A	:	5 - 111
-Strikeskids_A	:	49 - 51
 
-9 - 16 links:
-dkorduban_A	:	59 - 68
-AdGold_A	:	13 - 21
-h4tguy_a	:	25 - 32
-Metaray21_problem-a	:	18 - 28
-Nika86_Showdown	:	21 - 31
-Nin0_a	:	12 - 19
-
+With same rare tokens:
 39 - 55 links:
 lackofcheese_src_codejam_io	:	37 - 88
-
-6 - 37 links:
-Strikeskids_A	:	49 - 51
 

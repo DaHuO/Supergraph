@@ -1,0 +1,2 @@
+gen_last_word w c if 		21 30
+gen_last_word lastword s 		13 18

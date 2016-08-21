@@ -1,0 +1,1 @@
+def data_parser inputstr inputstr = inputstr strip liststr = list inputstr lastword = liststr 0 for char in liststr 1 len liststr if char >= lastword 0 lastword = char + lastword else lastword = lastword + char return lastword 		7 23

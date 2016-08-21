@@ -1,0 +1,2 @@
+def parse t = int sys 		30 38
+def solve casedata s = casedata 		16 28

@@ -1,0 +1,9 @@
+minner sol 		17 18
+def __call__ self * 		12 15
+def 		5 5
+maxxer sol 		20 21
+_in 		4 4
+def __init__ 		9 11
+comparer comps su sv su sv comparer comparer == 0 return 0 sa sb = u - i v - i 		28 45
+zeroer sol return 		23 24
+zeroer solve u 		47 49

@@ -1,0 +1,1 @@
+def solve s sol = s 0 		4 13

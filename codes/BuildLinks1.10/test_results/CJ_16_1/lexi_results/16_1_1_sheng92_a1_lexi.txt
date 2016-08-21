@@ -1,0 +1,1 @@
+def lastword instr word = for i in instr if len word == 0 word = i else if word 0 > i word = word + i else word = i + word return word 		106 116

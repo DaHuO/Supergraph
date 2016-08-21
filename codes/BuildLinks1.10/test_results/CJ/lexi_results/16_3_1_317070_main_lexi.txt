@@ -1,0 +1,6 @@
+def read_chrs return x for x in f readline strip 		32 33
+def read_ints return int x for x in f readline strip split  		26 27
+def solve p result = while sum p > 0 idx = np argmax p p idx -= 1 result += abcdefghijklmnopqrstuvwxyz idx if max p <= 1.0 * sum p / 2 result +=  result = result strip return result 		9 20
+def read_frac return int x for x in f readline strip split / 		28 29
+def read_strs return x for x in f readline strip split  		30 31
+def read_floats return float x for x in f readline strip split  		34 35

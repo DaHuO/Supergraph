@@ -1,0 +1,2 @@
+def main f o f 		3 7
+def rec_fun w if not w return 		9 17

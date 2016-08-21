@@ -1,0 +1,7 @@
+def sort data idx 		1 2
+def solve ip data res = data = list enumerate data 		34 48
+def valid 		13 15
+desc data idx res 		17 21
+desc do data res data = sort data ddd 		23 32
+def main np = 		50 55
+def d data res 		4 11

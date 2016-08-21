@@ -1,0 +1,3 @@
+def del_counts ct ident if 		31 36
+def solve s counts = dict for ch in s if ch in counts counts ch += 1 else counts ch = 1 def del_counts ct ident if ct == 0 return for k v in ident iteritems counts k 		23 62
+_cc for 		3 6

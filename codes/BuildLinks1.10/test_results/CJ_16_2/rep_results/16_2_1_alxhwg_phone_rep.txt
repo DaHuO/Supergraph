@@ -1,0 +1,3 @@
+getLetters s counts = for letter in 		18 24
+getLetters solve s counts = s nums = while counts Z > 0 nums append 0 counts Z -= 1 counts E -= 1 counts R -= 1 counts O -= 1 while counts W > 0 nums append 2 		26 76
+inF ouF {0}.out inF inF ouF inF ouF name = string 		4 16

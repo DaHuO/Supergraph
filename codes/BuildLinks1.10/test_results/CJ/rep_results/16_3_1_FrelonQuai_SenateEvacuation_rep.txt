@@ -1,0 +1,2 @@
+situationinstable groupby for key 		25 29
+obtenirlettreapopper lettresdistinctes lettreapopper nbapparitions lettre lettresdistinctes lemax 		31 40

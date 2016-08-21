@@ -1,0 +1,1 @@
+def solve k c s ans = for i in range 1 k + 1 ans += str i +  return ans 		6 10

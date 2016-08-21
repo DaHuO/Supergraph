@@ -1,0 +1,2 @@
+def maxs abc m = 0 for i in abc if ord i > ord m m = i return m 		6 10
+def test s x = a def maxs abc m = 0 for i in abc if ord i > ord m m = i return m for i in xrange len s if i == 0 x = s i elif ord s i >= ord maxs x x = s i + x else x = x + s i return x 		2 19

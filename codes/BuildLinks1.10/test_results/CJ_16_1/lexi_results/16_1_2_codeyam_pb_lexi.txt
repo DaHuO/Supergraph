@@ -1,0 +1,1 @@
+def solution n grid heights = for li in grid for n in li if n in heights heights n += 1 else heights n = 1 odds = list filter lambda item item 1 % 2.0 == 1 heights items missing_unsorted = key for key value in odds missing_sorted = sorted missing_unsorted return  join map str missing_sorted 		8 21

@@ -1,0 +1,33 @@
+Direct links:
+60 - 61 links:
+16_1_2_dogchaos_b	:	55 - 56
+
+56 - 57 links:
+16_1_2_dogchaos_b	:	51 - 52
+
+48 - 53 links:
+16_1_2_dogchaos_b	:	43 - 48
+
+
+With same rare tokens:
+56 - 57 links:
+16_1_2_dogchaos_b	:	51 - 52
+
+27 - 33 links:
+16_1_2_cloudrick_b	:	4 - 32
+16_1_2_cloudrick_b	:	4 - 32
+16_1_2_cloudrick_b	:	4 - 32
+16_1_2_cloudrick_b	:	4 - 32
+
+48 - 53 links:
+16_1_2_dogchaos_b	:	43 - 48
+16_1_2_dogchaos_b	:	43 - 48
+16_1_2_dogchaos_b	:	43 - 48
+16_1_2_dogchaos_b	:	43 - 48
+16_2_1_Astrae_round1B-A	:	54 - 80
+16_1_2_dogchaos_b	:	43 - 48
+
+35 - 46 links:
+16_1_2_dogchaos_b	:	30 - 41
+16_1_2_dogchaos_b	:	30 - 41
+

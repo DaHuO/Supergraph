@@ -1,0 +1,1 @@
+def solveit istr outstr = istr 0 for i in range 1 len istr if istr i >= outstr 0 outstr = istr i + outstr else outstr = outstr + istr i return outstr 		1 8

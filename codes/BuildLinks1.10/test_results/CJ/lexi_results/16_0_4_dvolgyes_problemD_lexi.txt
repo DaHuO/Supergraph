@@ -1,0 +1,1 @@
+def solve k c solution = step = k ** c - 1 for s in range 0 k solution += %s % 1 + step * s return solution strip 		16 23

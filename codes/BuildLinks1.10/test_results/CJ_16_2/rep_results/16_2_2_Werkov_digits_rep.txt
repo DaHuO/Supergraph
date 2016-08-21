@@ -1,0 +1,3 @@
+def get_diff s 		6 9
+def subs mask num b num = str 		11 22
+bestS bestS bestS bestS assert len C == len J w = len C mask = C 		24 44

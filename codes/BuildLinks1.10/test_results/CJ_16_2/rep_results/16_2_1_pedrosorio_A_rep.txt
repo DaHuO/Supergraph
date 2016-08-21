@@ -1,0 +1,1 @@
+def solve S ct = Counter S final = ct Z - 1 ct W - 1 ct U - 1 ct X - 1 ct G - 1 for 		8 31

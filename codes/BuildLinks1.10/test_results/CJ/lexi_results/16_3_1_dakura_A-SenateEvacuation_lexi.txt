@@ -1,0 +1,4 @@
+def evacuate sortedlist parties if parties sortedlist 0 0 > 0 parties sortedlist 0 0 -= 1 return sortedlist 0 0 return none 		19 23
+def solve n senators parties = evacuated = nm = ord a for n in senators parties chr nm = n nm += 1 while true e1 = evacuate sorted parties items key = lambda x x 1 reverse = true parties if is_all_evacuated parties evacuated append e1 break e2 = evacuate sorted parties items key = lambda x x 1 reverse = true parties if check_legal sorted parties items key = lambda x x 1 reverse = true parties evacuated append e1 + e2 else evacuated append e1 parties e2 += 1 if is_all_evacuated parties break return  join evacuated 		31 54
+def check_legal sortedlist parties major = sortedlist 0 1 rest = 0 for i in range 1 len sortedlist rest += sortedlist i 1 if major > rest return false return true 		9 17
+def is_all_evacuated parties for k in parties if parties k != 0 return false return true 		25 29

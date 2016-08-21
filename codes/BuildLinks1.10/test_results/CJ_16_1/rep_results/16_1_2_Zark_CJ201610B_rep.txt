@@ -1,0 +1,4 @@
+def output self caseindex 		31 35
+def exe self count = for i in range self 		18 29
+def run self casenum 		5 10
+def input self self n = 		12 16

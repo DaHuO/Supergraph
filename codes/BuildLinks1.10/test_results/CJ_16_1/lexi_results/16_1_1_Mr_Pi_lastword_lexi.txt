@@ -1,0 +1,1 @@
+def get_answer f s = f readline strip w = s 0 for i in xrange 1 len s if s i >= w 0 w = s i + w else w = w + s i return w 		8 16

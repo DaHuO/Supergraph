@@ -1,0 +1,2 @@
+def find_longest u forb rev ans = 		4 12
+special_sum cyc_len cyc_len cyc_len special_sum special_sum set best = 0 = 0 rev = dict for i x in enumerate p if x not in rev 		14 50

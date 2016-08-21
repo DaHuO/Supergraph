@@ -1,0 +1,2 @@
+sort_str 		4 5
+get_highest s = new_s = s 0 		8 18

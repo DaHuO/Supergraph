@@ -1,0 +1,2 @@
+firstchar firstchar firstchar firstchar instr 0 lastword = 		3 17
+def main ln = 0 t = none 		19 30

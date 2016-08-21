@@ -1,0 +1,1 @@
+def solve n a count = counter 		4 13

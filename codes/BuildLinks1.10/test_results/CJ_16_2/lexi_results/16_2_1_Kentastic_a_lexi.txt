@@ -1,0 +1,1 @@
+def Remove numberString removeString for i in range 0 len removeString numberString = numberString replace removeString i 1 return numberString 		3 6

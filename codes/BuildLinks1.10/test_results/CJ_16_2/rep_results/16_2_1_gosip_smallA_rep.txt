@@ -1,0 +1,2 @@
+def main f = open A-large.in r t = 		1 8
+def phoneNumber s digits = alphabet = 0 * 26 for c in s alphabet ord c - ord A += 1 while alphabet ord Z - ord A digits append 0 alphabet ord Z - ord A -= 1 alphabet ord E - ord A -= 1 alphabet ord R - ord A -= 1 alphabet ord O - ord A -= 1 while alphabet ord W - ord A digits append 2 alphabet ord T - ord 		10 78

@@ -1,0 +1,11 @@
+findTwo findTwo finalString global string if W in string and 		43 57
+findNine findNine finalString global string if I in string and string 		172 187
+def removeChar 		4 5
+findFour findFour finalString global string if U in string and O in 		79 95
+findFive findFive finalString global string if I in string and V in string 		97 113
+findThree findThree finalString global string if T in string and H in string and R in 		59 77
+findZero findZero string global finalString if Z in string pos = 		7 25
+findSeven findSeven finalString global string if S in string and V in string and string 		132 150
+findOne findOne finalString global string if O in string and 		27 41
+findEight findEight finalString global string if G in string pos = string index 		152 170
+findSix findSix finalString global string if X in string and 		115 129

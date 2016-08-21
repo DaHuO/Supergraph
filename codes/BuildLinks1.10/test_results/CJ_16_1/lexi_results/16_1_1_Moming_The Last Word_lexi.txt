@@ -1,0 +1,1 @@
+def last_word cmd result = cmd 0 for i in range len cmd 1 if cmd i >= result 0 result = cmd i + result else result = result + cmd i return result 		7 15

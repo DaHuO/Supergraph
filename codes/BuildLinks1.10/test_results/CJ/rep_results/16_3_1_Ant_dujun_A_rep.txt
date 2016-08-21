@@ -1,0 +1,3 @@
+heapfy heapfy heapfy sidx = len heap lidx = idx * 2 + 1 ridx = idx * 2 + 		14 35
+heap_pop heapfy res = heap 		37 44
+heap_push heap item idx = len heap heap 		3 12

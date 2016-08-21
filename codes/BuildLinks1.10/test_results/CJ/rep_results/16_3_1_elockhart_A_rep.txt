@@ -1,0 +1,2 @@
+def readints 		1 2
+def 		4 5

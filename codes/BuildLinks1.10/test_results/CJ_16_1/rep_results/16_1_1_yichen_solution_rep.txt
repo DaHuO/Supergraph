@@ -1,0 +1,1 @@
+def solve case_number input_string = s for s 		1 10

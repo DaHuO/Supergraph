@@ -1,0 +1,2 @@
+def solve str str_list = list str tree = tree append str_list 0 for i in 		14 34
+output.out a-small-attempt0 (1).in number_of_tescases number_of_tescases argv output = open w input 		3 12

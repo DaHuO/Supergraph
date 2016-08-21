@@ -1,0 +1,1 @@
+def process_case self s = self lines ns = s 0 for ch in s 1 if ch >= ns 0 ns = ch + ns else ns = ns + ch self print_sol ns 		6 15

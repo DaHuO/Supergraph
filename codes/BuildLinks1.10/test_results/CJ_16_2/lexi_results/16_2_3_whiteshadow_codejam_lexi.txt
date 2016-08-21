@@ -1,0 +1,1 @@
+def check arr fake a = b = for i in arr x y = i split  a append x b append y for i in fake x y = i split  if not x in a or not y in b return False return True 		4 17

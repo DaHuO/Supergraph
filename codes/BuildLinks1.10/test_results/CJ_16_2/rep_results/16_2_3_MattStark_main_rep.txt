@@ -1,0 +1,2 @@
+firstdups seconddups bmask firstreal secondreal firstreal secondreal bmask bmask firstreal secondreal bmask firstdups seconddups firstdups seconddups newfirstdups firstdups newseconddups seconddups newfirstdups newseconddups newfirstdups newseconddups set 		22 45
+numvals numvals numvals lines = open filename + .in read split \n 1 fout 		8 20

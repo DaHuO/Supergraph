@@ -1,0 +1,1 @@
+def solve d = for i in xrange 2 * n - 1 		7 21

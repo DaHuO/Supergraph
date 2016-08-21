@@ -1,0 +1,2 @@
+def fits x s fmt x 		2 7
+def f a b fmt = {:0 + str len a + } 		9 20

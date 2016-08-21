@@ -1,0 +1,9 @@
+get_intervals_num 		17 18
+read_file_content intrervals intrervals 		20 22
+intervals get_intervals_num read_file_content intervals file_lines 		9 15
+string_parse 		44 45
+super fileloader 		5 7
+read_interval_content interval_size interval_content interval_size int_parse string_parse int_list int_list_parse string_list string_list_parse x in xrange current_line 		25 39
+int_parse 		41 42
+string_list_parse 		50 51
+int_list_parse self 		47 48

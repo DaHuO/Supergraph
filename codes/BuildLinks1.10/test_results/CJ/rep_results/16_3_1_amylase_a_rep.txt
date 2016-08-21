@@ -1,0 +1,2 @@
+choose solve n = raw_input 		19 25
+choose nlargest if sum xs % 2 == 1 m = - 1 - 		5 16

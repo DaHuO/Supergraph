@@ -1,0 +1,4 @@
+def check_empty count_dict for key value in count_dict iteritems if value != 0 return False return True 		37 41
+def countains_digit count_dict i backup = copy deepcopy count_dict for char in digit_dict i if char not in backup or backup char == 0 return False else backup char = backup char - 1 return True 		28 35
+def get_the_digits s global result result = s = s rstrip num_s = count_dict = dict letter s count letter for letter in set s for i in range 0 10 dfs count_dict i num_s return result 		5 13
+def dfs count_dict i num_s global result if check_empty count_dict and result == result = num_s return for j in range i 10 backup = copy deepcopy count_dict if countains_digit count_dict j for char in digit_dict j count_dict char = count_dict char - 1 dfs count_dict j num_s + str j count_dict = backup 		15 26

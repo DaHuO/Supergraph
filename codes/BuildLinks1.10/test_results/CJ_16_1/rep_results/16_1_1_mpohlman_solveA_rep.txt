@@ -1,0 +1,2 @@
+def compute s answer = 		5 12
+t: s: #%(index)d: %(answer)s = open infilename r line = infile 		15 30

@@ -1,0 +1,2 @@
+def find_tiles k c s return  join str 1 + i * k ** c - 1 for i in xrange k 		3 4
+def main f_in = open d-small-attempt1.in.txt r f_out = open d-small-attempt1.out.txt w n_tests = int f_in readline for i in range n_tests params = f_in readline split  k = int params 0 c = int params 1 s = int params 2 f_out write case #{}: {}\n format i + 1 find_tiles k c s f_in close f_out close 		6 21

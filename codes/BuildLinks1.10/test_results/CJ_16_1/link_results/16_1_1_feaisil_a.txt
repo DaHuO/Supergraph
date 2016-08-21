@@ -1,0 +1,40 @@
+Direct links:
+21 - 22 links:
+16_1_3_feaisil_c	:	21 - 22
+16_1_2_feaisil_b	:	21 - 22
+
+31 - 32 links:
+16_1_3_feaisil_c	:	31 - 32
+16_1_2_feaisil_b	:	31 - 32
+
+8 - 10 links:
+16_1_3_feaisil_c	:	8 - 10
+16_1_2_feaisil_b	:	8 - 10
+
+
+With same rare tokens:
+21 - 22 links:
+16_1_3_feaisil_c	:	21 - 22
+16_1_2_feaisil_b	:	21 - 22
+
+43 - 55 links:
+16_1_1_linacurious_A	:	23 - 34
+16_1_2_linacurious_B	:	17 - 33
+
+31 - 32 links:
+16_1_3_feaisil_c	:	31 - 32
+16_1_2_feaisil_b	:	31 - 32
+
+24 - 25 links:
+16_1_3_feaisil_c	:	24 - 25
+16_1_2_feaisil_b	:	24 - 25
+
+57 - 69 links:
+16_1_3_feaisil_c	:	104 - 116
+16_1_2_feaisil_b	:	108 - 120
+16_1_3_feaisil_c	:	104 - 116
+16_1_2_feaisil_b	:	108 - 120
+16_1_3_feaisil_c	:	104 - 116
+16_1_2_feaisil_b	:	108 - 120
+16_1_2_feaisil_b	:	108 - 120
+

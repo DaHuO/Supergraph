@@ -1,0 +1,2 @@
+def check s a for i in a if i / s > 0.5 return false return true 		3 7
+def evacuate a res = s = sum a while s != 0 m1 = a index max a a m1 -= 1 m2 = a index max a a m2 -= 1 s = sum a if s != 0 and not check s a a m2 += 1 res append chr m1 + ord a else l1 = chr m1 + ord a l2 = chr m2 + ord a res append l1 + l2 return res 		9 29

@@ -1,0 +1,29 @@
+
+With same rare tokens:
+29 - 36 links:
+16_0_4_dr0ff_fractiles_dummy	:	4 - 8
+16_0_4_dr0ff_fractiles_dummy	:	4 - 8
+16_0_4_dr0ff_fractiles_dummy	:	4 - 8
+16_0_4_dr0ff_fractiles_dummy	:	4 - 8
+
+1 - 27 links:
+16_2_2_AJ721_Round1B-B	:	18 - 76
+16_2_2_AJ721_Round1B-B	:	18 - 76
+16_2_2_AJ721_Round1B-B	:	18 - 76
+16_2_2_AJ721_Round1B-B	:	18 - 76
+16_2_1_bsravanin_digits	:	19 - 59
+16_2_1_bsravanin_digits	:	19 - 59
+16_2_1_bsravanin_digits	:	19 - 59
+16_2_2_AJ721_Round1B-B	:	18 - 76
+16_2_2_AJ721_Round1B-B	:	18 - 76
+16_2_2_AJ721_Round1B-B	:	18 - 76
+16_2_2_AJ721_Round1B-B	:	18 - 76
+
+38 - 40 links:
+16_2_2_doktoren_problem_b	:	55 - 67
+16_2_2_doktoren_problem_b	:	55 - 67
+16_2_2_dkorduban_B	:	9 - 20
+16_2_2_doktoren_problem_b	:	55 - 67
+16_2_2_doktoren_problem_b	:	55 - 67
+16_2_2_dkorduban_B	:	9 - 20
+

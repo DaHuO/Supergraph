@@ -1,0 +1,3 @@
+def pr s end = none if debug == true if end != none print s end = end flush = true file = sys stderr else print s flush = true file = sys stderr 		11 16
+def compute bs n pass 		24 25
+def out s end = none if end != none print s end = end flush = true else print s flush = true 		18 22

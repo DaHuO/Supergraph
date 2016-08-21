@@ -1,0 +1,1 @@
+def solve_case s best_letter = s 0 r = s 0 for x in s 1 if x >= best_letter best_letter = x r = x + r else r += x return r 		3 15

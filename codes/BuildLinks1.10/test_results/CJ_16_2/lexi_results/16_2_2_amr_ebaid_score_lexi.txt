@@ -1,0 +1,1 @@
+def sub S possible_S SA = list S PSA = list possible_S d = 0 for i in range 0 len SA if SA i == ? SA i = PSA d d += 1 return int join SA 		1 10

@@ -1,0 +1,2 @@
+def main f o f readline for i l in enumerate f l = l o write case #%d: %s % i + 1 rec_fun l 		3 7
+def rec_fun w if not w return letter = pos = 0 for i l in enumerate w if l >= letter letter = l pos = i return letter + rec_fun w pos + str w pos + 1 		9 17

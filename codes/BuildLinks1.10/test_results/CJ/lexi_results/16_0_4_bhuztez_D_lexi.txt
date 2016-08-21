@@ -1,0 +1,3 @@
+def base_k k l r = 0 for i in xrange len l r = r * k + l i return r 		3 7
+def tiles k c for s in xrange 0 k c yield base_k k range s min k s + c 1 + 1 		9 11
+def solve k c s = map int raw_input split t = list tiles k min k c if len t > s print impossible else print  join map str t 		13 19

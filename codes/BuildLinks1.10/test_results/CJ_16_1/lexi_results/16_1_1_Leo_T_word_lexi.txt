@@ -1,0 +1,2 @@
+def main input_path = test_path with open input_path as f t = int f readline strip for t in range t s = f readline strip ans = solve s print case #{0}: {1} format t + 1 ans 		6 12
+def solve s res = s 0 s = s 1 for s in s if s >= res 0 res = s + res else res = res + s return res 		15 23

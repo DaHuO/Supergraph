@@ -1,0 +1,1 @@
+ler s res = res 		4 12

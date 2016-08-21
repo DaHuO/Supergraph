@@ -1,0 +1,1 @@
+def lastw letters rlt = letters 0 for i in letters 1 if rlt 0 > i rlt = rlt + i else rlt = i + rlt return rlt 		5 14

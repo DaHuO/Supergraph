@@ -1,0 +1,1 @@
+get_last_word filename with open filename r as f t = int f 		3 14

@@ -1,0 +1,1 @@
+get_best_word original_word original_word for char in 		10 20

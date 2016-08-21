@@ -1,0 +1,1 @@
+def solve k c solution = 		16 23

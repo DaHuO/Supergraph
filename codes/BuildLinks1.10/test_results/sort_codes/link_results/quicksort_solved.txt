@@ -1,3 +1,4 @@
+Direct links:
 8 - 11 links:
 insertionsort	:	3 - 6
 quick_sort	:	1 - 4
@@ -6,6 +7,8 @@ selectionsort	:	3 - 6
 bubblesort	:	3 - 6
 quicksort	:	3 - 6
 
+
+With same rare tokens:
 81 - 115 links:
 sortable	:	65 - 81
 

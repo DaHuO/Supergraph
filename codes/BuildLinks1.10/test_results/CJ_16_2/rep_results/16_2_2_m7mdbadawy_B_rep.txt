@@ -1,0 +1,1 @@
+n_ind n_ind n_ind n_ind ind p if ind == len s2 and p == 1 return abs int join s1 - 		3 18

@@ -1,0 +1,5 @@
+def is_in self d return d self key 		9 10
+def solve_one input numbers line = input readline strip d = defaultdict int for c in line d c += 1 result = for number in numbers while number is_in d result append number num d = number remove d result sort return join map str result 		18 29
+def __init__ self num s key self num = num self s = s self key = key 		4 7
+def remove self d for c in self s d c -= 1 return d 		12 15
+def main numbers = Number 0 ZERO Z Number 6 SIX X Number 4 FOUR U Number 2 TWO W Number 7 SEVEN S Number 8 EIGHT G Number 3 THREE T Number 1 ONE O Number 5 FIVE F Number 9 NINE I with open input.txt as input cases = int input readline with open output.txt w as output for case in xrange cases print case + 1 output write Case #%s: %s\n % case + 1 solve_one input numbers 		31 49

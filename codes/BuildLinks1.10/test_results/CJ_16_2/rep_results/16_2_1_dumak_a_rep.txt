@@ -1,0 +1,1 @@
+string_number input_list string_number input_list has_all has_all input_list has_all has_all input_list n = input digits = Z E R O T W O S I X E I G H 		1 39

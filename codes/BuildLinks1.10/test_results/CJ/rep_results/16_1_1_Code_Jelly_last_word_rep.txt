@@ -1,0 +1,2 @@
+mainlogic getlastword infile output = for 		14 19
+getlastword instr instr instr outstr instr instr 		3 12

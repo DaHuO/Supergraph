@@ -1,0 +1,2 @@
+read_file_name write_file_name answer.txt read_file_name write_file_name = file_name + - read_file 		1 16
+def last_word word result = first_letter 		19 29

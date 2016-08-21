@@ -1,0 +1,2 @@
+are_all_kids_satisfied bffs perm num = len perm for i 		23 36
+best_result are_all_kids_satisfied bffs kids = range num_kids best_so_far = 		7 21

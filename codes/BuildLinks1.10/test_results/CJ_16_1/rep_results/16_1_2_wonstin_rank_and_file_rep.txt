@@ -1,0 +1,3 @@
+def solve n counts = defaultdict int for i in 		4 17
+def main outfile = open a.out w t 		24 34
+failed test! should give b = 		19 22

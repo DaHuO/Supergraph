@@ -1,0 +1,2 @@
+def last_word s rts = sz = len s for i in xrange sz if not rts rts = s i else if s i < rts 0 rts += s i else rts = s i + rts return rts 		2 13
+def deal_input filename output_name = filename replace .in .out with open filename r as fin open output_name w as fout all = fin read split \n data_num = int all 0 if data_num != len all - 2 print wrong input.\n return else for i in xrange 1 data_num + 1 fout write case #%s: %s\n % i last_word all i 		15 25

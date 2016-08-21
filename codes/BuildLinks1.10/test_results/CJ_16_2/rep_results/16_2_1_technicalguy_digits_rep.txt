@@ -1,0 +1,2 @@
+keyletter keyletter did cleanly = string 0 - 1 letters = numbers = 0 for i in range 10 def subtract name result = letters for char in name letters char -= result 		4 47
+keyletter keyletter name 		8 12

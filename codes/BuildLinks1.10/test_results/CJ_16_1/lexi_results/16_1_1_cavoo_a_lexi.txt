@@ -1,0 +1,2 @@
+def last_word s result = for c in s if c + result > result result = c + result else result = result + c return result 		1 10
+def main n = int input for t in range 1 n + 1 s = input strip print case #%d: %s % t last_word s 		12 17

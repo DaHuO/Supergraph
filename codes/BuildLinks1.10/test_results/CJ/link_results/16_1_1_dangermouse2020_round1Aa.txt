@@ -1,0 +1,19 @@
+Direct links:
+16 - 22 links:
+16_3_1_dangermouse2020_round1Ca	:	20 - 27
+16_0_4_dangermouse2020_quald	:	16 - 22
+
+
+With same rare tokens:
+16 - 22 links:
+16_3_1_dangermouse2020_round1Ca	:	9 - 17
+16_3_1_dangermouse2020_round1Ca	:	20 - 27
+16_0_4_dangermouse2020_quald	:	16 - 22
+16_0_4_dangermouse2020_quald	:	6 - 13
+
+6 - 13 links:
+16_3_1_dangermouse2020_round1Ca	:	9 - 17
+16_3_1_dangermouse2020_round1Ca	:	20 - 27
+16_0_4_dangermouse2020_quald	:	16 - 22
+16_0_4_dangermouse2020_quald	:	6 - 13
+

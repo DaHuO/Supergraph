@@ -1,0 +1,1 @@
+def solve nfi with open nfi r as fi with open nfi replace in out a as fo fo truncate 0 t = int fi readline for case in xrange 1 t + 1 s = fi readline split 0 w = s 0 for let in s 1 if let < w 0 w = w + let else w = let + w fo write case #{}: {}\n format case w 		11 27

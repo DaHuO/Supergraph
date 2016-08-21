@@ -1,0 +1,2 @@
+def perms s k dir if s == return k else c = s 0 s = s 1 if dir == 1 k = k + c else k = c + k return perms s k 0 + perms s k 1 		2 12
+def getperm s a = perms s 0 + perms s 1 a sort return sorted a - 1 		13 16

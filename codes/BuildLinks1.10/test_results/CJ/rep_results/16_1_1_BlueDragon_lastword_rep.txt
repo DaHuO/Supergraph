@@ -1,0 +1,1 @@
+/home/aidan/documents/codejam161a/a-large.in /home/aidan/documents/codejam161a/a-large.out file = open outfile = open w file 		1 13

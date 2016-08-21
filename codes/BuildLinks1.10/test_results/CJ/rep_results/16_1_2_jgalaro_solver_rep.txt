@@ -1,0 +1,5 @@
+def __init__ self file 		6 9
+def put self ans outs = 		31 37
+def pop self n = int self fhandle 		11 20
+currlist currlist currlist currlist currlist = for i in range n for s 		43 59
+def __init__ self file 		24 28

@@ -1,0 +1,4 @@
+def glfs s return s split  		32 33
+def evacall ae s = for pn pc in ae for i in range pc / 2 s += pn + pn +  if pc % 2 == 1 s += pn +  return s 		3 10
+def gilfs s return int x for x in glfs s 		35 36
+def getans el el sort reverse = true key = lambda tup tup 1 fbn fbc = el 0 sbn sbc = el 1 el = el 2 s = excess = fbc - sbc for i in range excess / 2 s += fbn + fbn +  if excess % 2 == 1 s += fbn +  s += evacall el for i in range sbc s += fbn + sbn +  if len s > 1 and s - 1 ==  s = s - 1 return s 		12 30

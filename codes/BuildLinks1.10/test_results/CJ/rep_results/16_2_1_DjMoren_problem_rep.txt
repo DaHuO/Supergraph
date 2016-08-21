@@ -1,0 +1,2 @@
+ordereddict solve_number s numbers = numbers zero = 0 numbers two = 2 numbers 		26 44
+solve_number enc scopy scopy enc scopy enc n_list = 		9 23

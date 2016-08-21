@@ -1,0 +1,2 @@
+def gc s v = 0 * 26 for ch in s v ord ch - ord A += 1 return v 		1 5
+def f c v d l x = c ord l - ord A v += d * x for i in range 26 c i -= x * dwc d i 		6 10

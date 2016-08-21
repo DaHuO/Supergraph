@@ -1,0 +1,1 @@
+def solve n d = 1 all = abcdefghijklmnopqrstuvwxyz word = n 0 0 number = 0 n = n 0 for i in range len all if all i == word number = i break n = n 1 print word for i in range len n print number for j in range len all if all j == n i number2 = j print number2 break if number2 >= number word = n i + word number = number2 else word = word + n i print word return d word 		1 33

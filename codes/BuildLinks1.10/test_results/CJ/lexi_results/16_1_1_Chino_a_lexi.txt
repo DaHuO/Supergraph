@@ -1,0 +1,1 @@
+def find s s = s replace \n ret = for c in s if len ret == 0 ret += c continue if c < ret 0 ret = ret + c else ret = c + ret return ret 		3 16

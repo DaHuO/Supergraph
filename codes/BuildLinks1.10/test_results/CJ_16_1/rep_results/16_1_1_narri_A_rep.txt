@@ -1,0 +1,2 @@
+_cc for 		3 6
+fulllen sout fulllen fulllen sout for in xrange 1 len s + 1 		12 24

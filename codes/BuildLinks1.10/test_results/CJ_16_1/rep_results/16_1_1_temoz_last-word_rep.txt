@@ -1,0 +1,1 @@
+last-word-large-out.txt main fname = input with open fname as f with open w as w lines 		1 19

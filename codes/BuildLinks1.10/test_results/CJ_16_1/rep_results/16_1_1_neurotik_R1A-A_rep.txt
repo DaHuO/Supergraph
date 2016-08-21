@@ -1,0 +1,4 @@
+def 		1 2
+read_intlist return 		4 5
+def 		12 13
+write_line i s 		7 10

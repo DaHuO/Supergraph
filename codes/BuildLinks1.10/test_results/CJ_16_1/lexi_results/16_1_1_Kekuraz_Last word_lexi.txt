@@ -1,0 +1,2 @@
+def last_word file l = line strip for line in open file r words = l 1 int l 0 + 1 rstring = for i in range len words word = words i case = i + 1 last = produce word rstring += case #{0}: {1}\n format case last return rstring 		13 22
+def produce word word' string = word 0 if len word > 1 rest = word 1 for letter in rest if letter >= string 0 string = letter + string else string = string + letter return string 		1 11

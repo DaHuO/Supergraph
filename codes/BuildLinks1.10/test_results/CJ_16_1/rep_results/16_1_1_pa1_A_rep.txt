@@ -1,0 +1,4 @@
+gen_list gen_list if s == return nl 		1 8
+def main t = int 		22 26
+gen_list f 		10 11
+def g s r = for 		13 20

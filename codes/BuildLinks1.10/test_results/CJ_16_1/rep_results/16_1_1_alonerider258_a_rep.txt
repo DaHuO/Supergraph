@@ -1,0 +1,1 @@
+def main f = open input.txt r o = open output.txt w tc = int f readline k = 0 while 		1 39

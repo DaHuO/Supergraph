@@ -1,0 +1,1 @@
+inn fn i s = str readline x = for _ in 		6 19

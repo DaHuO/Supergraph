@@ -1,0 +1,5 @@
+get_the_digits spell_digits get_letter_counts get_letter_counts spell_digits TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE l_counts = s digit_l_counts = i d for i d 		24 59
+Usage: get_the_digits.py <file> get_the_digits sys argv < 2 print exit 		62 71
+take_digit try_digit d_counts l_counts digit_l_counts 		19 22
+get_letter_counts s l_counts = 		6 13
+take_digit l_counts digit_l_counts 		15 17

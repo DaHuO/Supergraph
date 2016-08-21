@@ -1,0 +1,3 @@
+def slurp numbers letters = l = a for i in range 0 len numbers letters l = int numbers i l = chr ord l + 1 return letters 		6 12
+def next_from d return max d iteritems key = operator itemgetter 1 0 		3 4
+def solve s senators = slurp s rstrip split num_senators = sum senators values output = if num_senators % 2 == 1 max_key = next_from senators output = output + max_key +  senators max_key = senators max_key - 1 num_senators = num_senators - 1 while num_senators > 0 max_key = next_from senators output = output + max_key senators max_key = senators max_key - 1 num_senators = num_senators - 1 max_key = next_from senators output = output + max_key senators max_key = senators max_key - 1 num_senators = num_senators - 1 output = output +  return output 		14 40

@@ -1,0 +1,2 @@
+data_iterator shell_pipe_flag data_file_name xreadlines if not with open r as f_handle line_iter = f_handle case_no = int line_iter next for idx in 		15 35
+left_char 63 left_char left_char = case_data 0 		41 59

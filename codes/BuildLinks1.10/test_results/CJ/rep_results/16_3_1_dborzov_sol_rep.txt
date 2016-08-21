@@ -1,0 +1,2 @@
+ind2letter 		9 10
+def 		6 7

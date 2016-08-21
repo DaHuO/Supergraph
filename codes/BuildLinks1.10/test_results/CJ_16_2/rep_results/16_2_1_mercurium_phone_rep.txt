@@ -1,0 +1,4 @@
+formatAnswer index 		9 10
+removeForNumber letterDict definingLetter letters if definingLetter 		22 28
+computeAnswer letterDigits getLetterDict letterDigits removeForNumber for number definingLetter letters in 0 		31 37
+getLetterDict letterDigits letterDigits dict 		12 19

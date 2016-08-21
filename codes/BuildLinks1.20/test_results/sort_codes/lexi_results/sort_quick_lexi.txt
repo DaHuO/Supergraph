@@ -1,0 +1,3 @@
+def randomquicksort arr p r if p < r q = randompartition arr p r randomquicksort arr p q - 1 randomquicksort arr q + 1 r 		21 25
+def randompartition arr p r i = random randrange p r arr r arr i = arr i arr r return partition arr p r 		16 19
+def partition arr p r x = arr r i = p - 1 for j in range p r if arr j <= x i = i + 1 arr i arr j = arr j arr i arr i + 1 arr r = arr r arr i + 1 return i + 1 		6 14

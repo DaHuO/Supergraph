@@ -1,0 +1,1 @@
+def solve n grid tally = 0 * 2501 		1 11

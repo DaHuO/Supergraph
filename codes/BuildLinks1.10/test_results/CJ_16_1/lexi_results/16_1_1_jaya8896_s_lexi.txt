@@ -1,0 +1,1 @@
+def solve st global answer new = new += st 0 st = st 1 for item in st if item >= new 0 new = item + new else new += item answer = new 		1 11

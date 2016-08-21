@@ -1,0 +1,1 @@
+def lastword s ret = s 0 for c in s 1 if c >= ret 0 ret = c + ret else ret = ret + c return ret 		3 10

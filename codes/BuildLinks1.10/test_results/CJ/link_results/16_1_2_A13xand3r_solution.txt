@@ -1,0 +1,13 @@
+Direct links:
+21 - 28 links:
+16_2_1_A13xand3r_solution	:	16 - 23
+16_3_1_A13xand3r_solution	:	18 - 25
+16_1_1_A13xand3r_solution	:	13 - 20
+
+
+With same rare tokens:
+3 - 19 links:
+16_2_1_A13xand3r_solution	:	3 - 14
+16_3_1_A13xand3r_solution	:	3 - 16
+16_1_1_A13xand3r_solution	:	3 - 11
+

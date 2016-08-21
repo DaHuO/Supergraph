@@ -1,0 +1,3 @@
+def rearrange s l = len s if l == 1 return s a b = s l // 2 s l // 2 a = rearrange a b = rearrange b ab = a + b ba = b + a return min ab ba 		79 88
+def layer r p s last if r + p + s == 1 if r return r if p return p if s return s nr np ns = 0 0 0 while r or p or s if r > p and s > p r -= 1 s -= 1 nr += 1 continue if p > r and s > r p -= 1 s -= 1 ns += 1 continue if p > s and r > s p -= 1 r -= 1 np += 1 continue if s > p and s > r p -= 1 s -= 1 ns += 1 continue p -= 1 r -= 1 np += 1 t = l = layer nr np ns false for c in l if c == p t append pr elif c == r if last t append rs else t append sr elif c == s t append ps return join t 		24 77
+def solve n r p s if abs r - s > 1 or abs r - p > 1 or abs s - p > 1 return impossible l = layer r p s true return rearrange l 		91 95

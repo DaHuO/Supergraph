@@ -1,0 +1,1 @@
+def solve s out = s 0 for c in s 1 if c >= out 0 out insert 0 c elif c < out 0 out append c return join out 		3 10

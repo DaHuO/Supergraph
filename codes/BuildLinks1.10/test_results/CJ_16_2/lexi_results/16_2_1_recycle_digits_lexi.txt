@@ -1,0 +1,1 @@
+def sol s counter = 0 * 26 numbers = 0 * 10 for c in s if c isalpha counter ord c - 65 += 1 for c n in mapper count = counter ord c - 65 if count != 0 numbers n = count for i in range 26 counter i -= digits_counter n i * count ret = for i in range 10 ret += str i * numbers i return ret 		18 34

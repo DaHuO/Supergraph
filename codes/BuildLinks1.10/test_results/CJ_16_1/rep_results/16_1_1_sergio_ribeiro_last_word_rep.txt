@@ -1,0 +1,1 @@
+returnwinner s s = s replace \n winner 		21 32

@@ -1,0 +1,1 @@
+def visit k global a finished if k >= n finished = true if finished return if len pairs k == 1 p = pairs k 0 ok = true 		24 70

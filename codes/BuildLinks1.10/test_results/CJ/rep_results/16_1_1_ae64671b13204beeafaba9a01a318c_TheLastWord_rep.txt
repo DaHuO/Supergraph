@@ -1,0 +1,2 @@
+input_number previously_seen previously_seen input_number previously_seen 		28 31
+get_input test_input line_number if 		34 41

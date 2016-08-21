@@ -1,0 +1,1 @@
+def remove_no ct val = 1 for c in nos ct S c -= val 		5 7

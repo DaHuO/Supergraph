@@ -1,0 +1,5 @@
+_getKey ImmutableDict 		32 33
+_cache _getKey self * 		24 27
+do_trial S c = collections Counter S r = 0 * 10 r 0 = c Z r 1 = c 		35 51
+_cache _callable 		20 22
+def debug 		15 17

@@ -1,0 +1,1 @@
+def test s result = array = x = for i in xrange 		2 24

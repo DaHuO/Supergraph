@@ -1,0 +1,1 @@
+def alpha word ans = word 0 		2 17

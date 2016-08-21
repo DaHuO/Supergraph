@@ -1,0 +1,5 @@
+def has_majority l fp 		20 25
+def 		15 16
+remove_smaller l ans = l sort l 		39 49
+equalize_top_two l ans = l sort 		27 36
+remove_top_two l ans = l sort 		51 61

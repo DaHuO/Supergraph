@@ -1,0 +1,2 @@
+kase kase T = int rl 		31 36
+best_assign is_l assign is_l assign assign l_score r_score score_diff l_score r_score score_diff score_diff best_assign l_score r_score best_assign i in xrange len 		6 28

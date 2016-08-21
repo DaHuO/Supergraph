@@ -1,0 +1,4 @@
+getmaxparty partiesorder partiesorder partiesorder partiesorder partiesorder partiesorder partiesorder partiesorder partiesorder partiesorder partiesorder parties iteritems heapq heapify num p = 		21 38
+getfile test.txt testres.txt a-small-attempt1.in smallres.txt largeres.txt 2 raise 		11 19
+getfile getresult argv ifile ofile = argv numcases = 		59 67
+getresult partiesorder getmaxparty partiesorder chr ord a + i number for i number in 		41 55

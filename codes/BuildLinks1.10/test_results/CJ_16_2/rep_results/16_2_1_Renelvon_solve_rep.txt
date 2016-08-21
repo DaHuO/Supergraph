@@ -1,0 +1,3 @@
+def solve input_file with open input_file as 		11 17
+numap numap s c = collections Counter s = 0 Z ZERO 2 W TWO 		20 41
+def 		6 8

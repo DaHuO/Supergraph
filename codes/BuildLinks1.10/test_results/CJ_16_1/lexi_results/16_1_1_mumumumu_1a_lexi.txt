@@ -1,0 +1,2 @@
+def append_both letter initial_word new_word if len initial_word == 0 res = letter + new_word + new_word + letter return res else return append_both initial_word 0 initial_word 1 new_word + letter + 		1 6
+def get_output i possible_words = append_both i 0 i 1 return sorted possible_words reverse = true 0 		10 12

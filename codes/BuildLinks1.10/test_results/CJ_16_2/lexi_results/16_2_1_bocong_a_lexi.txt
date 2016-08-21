@@ -1,0 +1,2 @@
+def f s sc = Counter s ret = for ni in xrange len lst n = lst ni nc = Counter n while all sc l > 0 for l in nc sc = sc - nc ret = str ni + ret return ret 		5 15
+def g s ret = uniques = Z 0 W 2 U 4 X 6 G 8 sc = Counter s for k in uniques keys while k in sc nc = Counter lst uniques k sc = sc - nc ret += str uniques k for ni in xrange len lst n = lst ni nc = Counter n while all sc l > 0 for l in nc sc = sc - nc ret = str ni + ret return join sorted ret 		17 33

@@ -1,0 +1,1 @@
+n_counts solve counter if frozenset counter items in DP return DP frozenset 		5 18

@@ -1,0 +1,1 @@
+def verif n c for i in range len c if n i != c i and c i != ? return false return true 		5 9

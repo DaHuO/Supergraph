@@ -1,0 +1,26 @@
+Direct links:
+103 - 108 links:
+16_1_1_eMBe_A	:	94 - 99
+16_1_3_eMBe_C	:	110 - 115
+
+87 - 101 links:
+16_1_2_LinesPrower_r1a	:	7 - 22
+
+
+With same rare tokens:
+103 - 108 links:
+16_1_1_eMBe_A	:	94 - 99
+16_1_3_eMBe_C	:	110 - 115
+
+48 - 51 links:
+16_1_1_eMBe_A	:	48 - 51
+16_1_3_eMBe_C	:	48 - 51
+
+82 - 85 links:
+16_1_1_eMBe_A	:	82 - 85
+16_1_3_eMBe_C	:	82 - 85
+
+43 - 46 links:
+16_1_1_eMBe_A	:	43 - 46
+16_1_3_eMBe_C	:	43 - 46
+

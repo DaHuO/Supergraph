@@ -1,2 +1,2 @@
 		4 5
-placement placement bucket bucket placement *= 10 max_size = False temp = - 1 1 while 		7 33
+placement placement placement *= radix = 10 max_size = False temp = - 1 1 while 		7 33

@@ -1,0 +1,2 @@
+def solve s = raw_input buf = s 0 for c in s 1 if ord c >= ord buf 0 buf = c + buf else buf = buf + c return buf 		6 16
+def main n = input for i in range n print case #%d: %s % i + 1 solve 		1 4

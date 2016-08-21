@@ -1,0 +1,4 @@
+parsescalar f 		1 2
+def solve p bins = for i c in enumerate p bins append c chr ord a + i bins sort bins reverse solution = while true bins sort reverse = true for i in range len bins - 		22 59
+parsetuple f c 		3 4
+fn1 fn2 fn1 fn2 parsescalar parsescalar parsetuple open w as g ncases = f 		7 18

@@ -1,0 +1,2 @@
+rowstr rowstr rankandfile f = open file r count = int f 		18 31
+rankandfile matrix d = defaultdict int for row in 		3 15

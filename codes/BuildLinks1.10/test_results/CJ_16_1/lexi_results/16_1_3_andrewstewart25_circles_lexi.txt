@@ -1,0 +1,2 @@
+def f line bffs = todict map int line split  n = len bffs best = 0 for i in xrange 2 n + 1 for s in permutations xrange 1 n + 1 i for index kid in enumerate s bff = bffs kid if s index - 1 == bff or s index + 1 % i == bff continue break else best = i continue return best 		11 25
+def todict l d = for kid bff in enumerate l d kid + 1 = bff return d 		4 8

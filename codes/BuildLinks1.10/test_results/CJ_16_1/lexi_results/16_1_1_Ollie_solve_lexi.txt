@@ -1,0 +1,1 @@
+def solve s lw = s 0 for c in s 1 if c >= lw 0 lw = c + lw else lw = lw + c return lw 		3 10

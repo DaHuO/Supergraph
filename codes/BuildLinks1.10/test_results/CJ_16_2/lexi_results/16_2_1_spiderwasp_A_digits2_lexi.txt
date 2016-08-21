@@ -1,0 +1,9 @@
+def main num_cases = int raw_input for case_id in range num_cases text = raw_input ans = solve text print Case #{0}: {1} format case_id + 1 ans 		72 77
+def h self return len self text 		38 40
+def ans self return join str i for i in sorted self digits 		26 28
+def search self for digi word in DIGIWORDS iteritems text_left = self text found_all = True for letter in word if letter in text_left text_left remove letter else found_all = False break if found_all new_found = self digits new_found append digi yield State text_left new_found self searched = True 		42 56
+def __init__ self text digits = self text = list text self digits = list digits 		18 21
+def solve start searchq = 0 State start searched = while len searchq cost state = heapq heappop searchq searched append state for new_state in state search if new_state h == 0 return new_state ans heapq heappush searchq new_state f new_state 		58 70
+def __str__ self return n={0} t={1} format self ans join self text 		23 24
+def g self return len self digits 		34 36
+def f self return self g + self h 		30 32

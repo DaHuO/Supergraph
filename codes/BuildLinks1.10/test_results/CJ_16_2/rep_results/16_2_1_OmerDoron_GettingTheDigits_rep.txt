@@ -1,0 +1,4 @@
+GettingTheDigits inputList s = inputList 0 ascii = 0 for i in range 26 for c in s ascii ord c - 65 += 1 solution = 0 for i in range 10 solution 0 += ascii ord 		11 40
+def deleteAllLettersTimes times 		45 47
+readFileIntoList contentFixed contentFixed open fileName 		4 9
+fullSolve outFileName readFileIntoList outFileName GettingTheDigits inFileName f = 		49 55

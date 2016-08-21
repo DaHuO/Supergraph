@@ -1,0 +1,2 @@
+grid_size odd_lst nums pro_dict = for 		4 15
+odd_lst d out = 		17 22

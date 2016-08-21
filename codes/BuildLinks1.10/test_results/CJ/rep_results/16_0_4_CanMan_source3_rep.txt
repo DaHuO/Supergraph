@@ -1,0 +1,2 @@
+printcase vallist vallist values = for 		3 8
+printcaseimp i out 		10 12

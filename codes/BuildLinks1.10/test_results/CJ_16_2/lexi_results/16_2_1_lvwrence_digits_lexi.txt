@@ -1,0 +1,2 @@
+def can_find s substr tmp = s for char in substr idx = tmp find char if idx > - 1 tmp = tmp idx + tmp idx + 1 else return None return tmp 		30 39
+def digits s stack = s while stack cur soln = stack pop for num digit in DIGITS items ret = can_find cur digit if ret is not None if ret == return join map str sorted soln + num else new_node = ret soln + num stack append new_node raise IndexError we shouldn't get here if a soln exists 		13 26

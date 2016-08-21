@@ -1,0 +1,2 @@
+get_lines eoferror lines = try with 		5 16
+def solve line data = line split 		18 26

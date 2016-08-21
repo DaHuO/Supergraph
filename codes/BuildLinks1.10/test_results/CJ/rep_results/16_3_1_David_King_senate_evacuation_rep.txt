@@ -1,0 +1,2 @@
+load_info f 		4 7
+evacuate_sanators f case_num print_info = line = f readline n = int line senate = int x for x in f readline split  ev_plan = if n == 2 i = 0 while i < senate 0 ev_plan append ab i += 1 if n > 2 new_senate = i = 65 for x in senate new_senate append chr i x i += 		9 83

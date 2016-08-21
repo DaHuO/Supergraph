@@ -1,0 +1,2 @@
+def main t = 		18 22
+most_common calc n = input c = counter for i 		5 15

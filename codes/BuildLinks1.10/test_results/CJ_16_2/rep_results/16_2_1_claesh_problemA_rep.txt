@@ -1,0 +1,2 @@
+readWord 		13 14
+def solver data letters = list data number = while letters if Z in letters number append 0 letters remove Z letters remove E letters remove R letters remove O continue if W in letters number append 2 letters remove T letters remove 		34 143

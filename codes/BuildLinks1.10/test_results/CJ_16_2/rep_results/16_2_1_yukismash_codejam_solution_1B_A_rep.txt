@@ -1,0 +1,4 @@
+input_ input_ num_test_cases = int 		6 10
+lists_same 		3 4
+FUUUUUUUCK function string buckets = 0 * 10 nums = ZERO ONE TWO THREE FOUR 		21 37
+needle needle haystack haystack 		12 19

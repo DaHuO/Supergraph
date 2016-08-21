@@ -1,0 +1,1 @@
+def get_last_word word ans = word 0 for x in word 1 if x >= ans 0 ans insert 0 x else ans append x return join ans 		8 15

@@ -1,0 +1,2 @@
+def solve lines d = missing = for line in lines for num 		3 19
+def main t = int sys stdin readline for tc in 		21 32

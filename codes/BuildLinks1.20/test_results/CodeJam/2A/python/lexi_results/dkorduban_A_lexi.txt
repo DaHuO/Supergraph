@@ -1,0 +1,6 @@
+def f n r p s ans = for mask in xrange 3 ** 2 ** n t = mask a = for i in xrange 2 ** n a append typ t % 3 t = t / 3 if valid a r p s and good a if not ans or a < ans ans = a if not ans return impossible return join ans 		36 51
+def valid a r p s return 		29 30
+def good a if len a == 1 return true b = for i in xrange 0 len a 2 if a i == a i + 1 return false else b append winner a i a i + 1 return good b 		18 27
+def g n r p s ans = zzz pp = build n p rr = build n r ss = build n s for uu in pp rr ss if valid uu r p s ans = min ans uu if ans == zzz return impossible return ans 		70 80
+def build n root if n == 0 return root u = loser root c1 = build n - 1 root c2 = build n - 1 u if c1 < c2 return c1 + c2 else return c2 + c1 		59 68
+def winner x y if x > y return winner y x if x == p and y == r return p if x == p and y == s return s if x == r and y == s return r raise valueerror 		6 16

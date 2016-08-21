@@ -1,0 +1,1 @@
+recover s ans = while Z in s ans append 0 for c in dic 0 s = s replace c 1 while W in s ans append 2 for c in dic 2 s = s replace 		20 75

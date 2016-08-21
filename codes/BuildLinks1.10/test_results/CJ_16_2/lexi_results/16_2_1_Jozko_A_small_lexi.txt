@@ -1,0 +1,1 @@
+def subtract word count N if N == 0 return for c in word count c -= N 		6 10

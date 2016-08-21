@@ -1,0 +1,1 @@
+def max_rev_path rb curr seen ret = 1 for next in rb curr if not seen next seen next = true ret = max ret 1 + max_rev_path rb next seen seen next = false return ret 		6 13

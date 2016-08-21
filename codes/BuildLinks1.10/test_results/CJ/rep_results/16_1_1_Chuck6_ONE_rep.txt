@@ -1,0 +1,2 @@
+def main cases = int 		1 5
+def find_last_word s order = order += 		6 17

@@ -1,0 +1,2 @@
+def answer response casenumber print Case # + str casenumber + : + str response 		1 2
+def pullOut letter digit digitWord scramble newScramble = scramble currentNumbers = while newScramble find letter != - 1 for char in digitWord newScramble = newScramble replace char 1 currentNumbers append digit return newScramble currentNumbers 		4 11

@@ -1,0 +1,1 @@
+leftmost_char leftmost_char leftmost_char leftmost_char = = for c 		4 17

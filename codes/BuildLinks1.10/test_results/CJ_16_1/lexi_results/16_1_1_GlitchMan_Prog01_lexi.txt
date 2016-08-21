@@ -1,0 +1,1 @@
+def form d k l a = if l < len d a + form d k + d l l + 1 a + form d d l + k l + 1 a append k if len a 0 == len d b append a 0 return a 		2 10

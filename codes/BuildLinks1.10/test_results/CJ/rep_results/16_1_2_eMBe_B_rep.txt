@@ -1,0 +1,11 @@
+gcj gcj tokens = token int data = for _ in xrange 2 		87 101
+_read_line_raw memoryview tobytes 		36 41
+tokens def cls 		76 78
+setrecursionlimit gcj gcj 10000 		103 108
+_read_line_raw eoferror cls if cls 		18 27
+whitespace _read_line_raw isspace memoryview = none while not 		53 63
+_read_line_view _read_line_raw memoryview 		29 34
+b'\r\n' def line 		43 46
+whitespace _read_line_view isspace tobytes conv = identity cls line 		65 74
+splitline def cls 		48 51
+b'case #{}:' def 		82 85

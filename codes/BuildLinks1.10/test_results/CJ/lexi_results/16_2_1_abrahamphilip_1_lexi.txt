@@ -1,0 +1,2 @@
+def op s n print case #%d: % n + 1 s 		3 4
+def main l = w 2 x 6 u 4 s 7 f 5 z 0 o 1 r 3 h 8 i 9 inv_map = v k for k v in l items order = w x u s f z o r h i dep = w o x si u for s f i z ro o r h h i i for _ in range int input sw = a 0 for a in order ans = 0 for i in range 10 s = input for a in s if a in sw sw a += 1 for a in order for b in dep a sw b -= sw a x = for num in inv_map x extend num * sw inv_map num op join map str x _ 		6 30

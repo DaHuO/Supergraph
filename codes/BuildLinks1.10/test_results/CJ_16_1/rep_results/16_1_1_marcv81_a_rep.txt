@@ -1,0 +1,3 @@
+def add self c if self s == self s += c 		6 19
+__str__ 		21 22
+def 		3 4

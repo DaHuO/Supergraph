@@ -1,0 +1,1 @@
+def solve s c = counter s ans = 0 * 10 for flag word num in z zero 0 x six 6 w two 2 g eight 8 u four 4 s seven 7 h three 3 f five 5 o one 1 i nine 9 k = c flag ans num += k for w in word c w -= k c += counter return join chr 48 + ix * v for ix v in enumerate ans 		4 22

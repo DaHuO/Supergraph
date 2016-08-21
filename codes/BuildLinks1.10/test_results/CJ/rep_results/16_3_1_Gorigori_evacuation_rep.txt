@@ -1,0 +1,1 @@
+def solve senators senators sort key = lambda x x 1 reverse = true sol = while senators 0 1 > senators 1 1 if senators 		3 27

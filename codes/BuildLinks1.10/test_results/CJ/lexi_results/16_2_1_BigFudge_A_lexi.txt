@@ -1,0 +1,7 @@
+def print_outputs outputs for n output in enumerate outputs print case #{}: {} format n + 1 output 		54 56
+def parse_lines lines return line - 1 for line in lines 1 		12 13
+def read_stdin_lines import fileinput return line for line in fileinput input 		8 10
+def get_count letters count = counter letters for character in c for c in all_characters if c not in count keys count character = 0 assert set count keys == all_characters return n for c n in sorted count items key = lambda x x 0 		19 24
+def solve letters target = get_count letters solution = get_solution 0 target expanded_solution = str n * solution n for n in sorted solution keys return join expanded_solution 		47 52
+def get_solution idx current_str target_count assert under_target get_count current_str target_count try current_num = numbers idx except indexerror return none current_count = 0 while under_target get_count current_str target_count possible_solution = get_solution idx + 1 current_str target_count if possible_solution possible_solution idx = current_count return possible_solution current_str += current_num current_count += 1 if get_count current_str == target_count return idx current_count return none 		26 45
+def under_target current target assert len current == len target return all c <= t for c t in zip current target 		15 17

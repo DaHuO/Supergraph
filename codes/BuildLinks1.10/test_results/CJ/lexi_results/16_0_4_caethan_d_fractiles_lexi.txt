@@ -1,0 +1,16 @@
+def __repr__ self return self func __doc__ 		49 51
+def read_string return infile readline strip 		86 87
+def __get__ self obj objtype return functools partial self __call__ obj 		52 54
+def read_ints return np array infile readline split dtype = int 		77 78
+def find_witness witnessed k position = 1 for elem in witnessed position = position - 1 * k + elem return position 		102 106
+def precalculate pass 		60 67
+def __call__ self * args if not isinstance args collections hashable return self func * args if args in self cache return self cache args else value = self func * args self cache args = value return value 		38 48
+def read_strings return np array infile readline split dtype = object 		88 89
+def read_floats return np array infile readline split dtype = float 		84 85
+def read_float return float infile readline strip 		82 83
+def solve_case k c s if c * s < k return impossible return  join %i % find_witness witnessed k for witnessed in grouper range 1 k + 1 c 		109 112
+def grouper iterable n fillvalue = 1 args = iter iterable * n return itertools izip_longest fillvalue = fillvalue * args 		96 99
+def read_bigints line = infile readline split return np array map lambda x int x line 		79 81
+def read_int return int infile readline strip 		75 76
+def read_input infile def read_int return int infile readline strip def read_ints return np array infile readline split dtype = int def read_bigints line = infile readline split return np array map lambda x int x line def read_float return float infile readline strip def read_floats return np array infile readline split dtype = float def read_string return infile readline strip def read_strings return np array infile readline split dtype = object k c s = read_ints return k c s 		69 93
+def __init__ self func self func = func self cache = 		35 37

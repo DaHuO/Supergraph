@@ -1,0 +1,1 @@
+def solve in_file out_file case out_file write case # + str case + 1 + 		3 23

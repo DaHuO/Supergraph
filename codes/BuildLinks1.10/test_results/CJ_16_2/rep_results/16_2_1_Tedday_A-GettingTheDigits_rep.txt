@@ -1,0 +1,1 @@
+def test_case counts = dict for n in numbers for letter in n counts letter = 0 		12 33

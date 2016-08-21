@@ -1,0 +1,1 @@
+findbestcircle maxcirclelen stablechains 1500 stablechains stablechains stablechains stablechains circlelen circlelen maxcirclelen maxcirclelen circlelen beststable stablechains stablechains stablechains lenmirrorchain stablechains stablechains beststable lenmirrorchain stablechains beststable stablechains maxcirclelen beststable circle - 1 == 0 		4 41

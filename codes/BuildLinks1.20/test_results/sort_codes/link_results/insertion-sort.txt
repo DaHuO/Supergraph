@@ -1,0 +1,8 @@
+
+With same rare tokens:
+4 - 13 links:
+test_insertion_sort	:	8 - 9
+sorter	:	49 - 56
+insertion_sort	:	1 - 8
+sorting_algorithms	:	42 - 60
+

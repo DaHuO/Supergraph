@@ -1,0 +1,2 @@
+parseNumber s if Z in s return 0 ZERO if W in s return 2 		1 22
+getNewString s d 		24 28

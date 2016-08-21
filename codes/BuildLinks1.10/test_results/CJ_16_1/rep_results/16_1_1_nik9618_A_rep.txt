@@ -1,0 +1,1 @@
+def solve str if len str == 		1 10

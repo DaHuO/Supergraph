@@ -1,0 +1,3 @@
+solveall 		12 13
+def solve letters result = 		3 10
+printall lines for 		15 17

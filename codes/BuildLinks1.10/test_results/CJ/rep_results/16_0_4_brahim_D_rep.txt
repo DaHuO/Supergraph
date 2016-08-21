@@ -1,0 +1,1 @@
+def f n k c if c == 1 return n 		2 10

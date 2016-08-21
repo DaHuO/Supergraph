@@ -1,0 +1,2 @@
+def get_lasso_length i bffs num_seen = 2 prev = i cur = bffs prev already_seen = prev 1 cur 1 while true upcoming = bffs cur if upcoming == prev return num_seen prev cur num_seen += 1 if upcoming in already_seen return 0 0 0 already_seen cur = 1 prev = cur cur = upcoming 		20 37
+def get_cycle_length i bffs num_seen = 1 cur = i already_seen = i 1 while true cur = bffs cur if cur == i return num_seen num_seen += 1 if cur in already_seen return 0 already_seen cur = 1 		7 18

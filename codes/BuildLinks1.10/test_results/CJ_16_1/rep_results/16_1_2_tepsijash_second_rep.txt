@@ -1,0 +1,3 @@
+get_position main global comp fin = fileinput input t = int next fin for 		34 46
+get_position itemgetter global comp to_ret = for i in range len x / 2 if x 2 * i 		8 21
+def get_output x comp pos y = comp 		24 31

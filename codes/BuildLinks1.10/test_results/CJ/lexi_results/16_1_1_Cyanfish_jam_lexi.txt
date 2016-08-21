@@ -1,0 +1,5 @@
+def readint self if self _line is none self _line = self _fin readline split  result = int self _line pop 0 if len self _line == 0 self _line = none return result 		8 14
+def __init__ self fin fout n self _fin = fin self _fout = fout self _n = n self _line = none 		2 6
+def run filename solve fin = open filename fout = open filename + .out w casecount = int fin readline for i in range casecount case = case fin fout i + 1 case output solve case 		31 37
+def output self s if s is none return s = str s if \n in s self _fout write case #%d:%s % self _n s else self _fout write case #%d: %s\n % self _n s 		22 29
+def readline self line = self _fin readline if line - 1 == \n return line - 1 return line 		16 20

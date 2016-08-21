@@ -1,0 +1,1 @@
+def cover pos cov c k rem print pos cov c k rem if c == 0 or rem == 0 return pos else return cover pos + k ** c - 1 * cov - 1 cov + 1 c - 1 k rem - 1 		10 15

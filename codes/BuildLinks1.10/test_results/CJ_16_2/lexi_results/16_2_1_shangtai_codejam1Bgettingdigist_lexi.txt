@@ -1,0 +1,1 @@
+def fillinnumberlist checkletter stringtoreduce numbertoincrease if checkletter in stringdict and stringdict checkletter > 0 n = stringdict checkletter for j in stringtoreduce stringdict j -= n numberlist numbertoincrease += n 		9 14

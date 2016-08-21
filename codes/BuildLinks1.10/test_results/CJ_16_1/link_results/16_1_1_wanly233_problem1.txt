@@ -1,0 +1,22 @@
+Direct links:
+4 - 11 links:
+16_1_1_shubo_codejam	:	4 - 16
+16_1_1_current_last_word	:	3 - 14
+16_1_1_vss1987_solution1	:	1 - 10
+16_1_1_luca_wehrstedt_A	:	3 - 11
+16_1_1_phg1024_A	:	1 - 9
+16_1_1_aizjForever_1	:	1 - 8
+16_1_1_solomon_wzs_the_last_word	:	4 - 11
+16_1_1_ollyajoke_TheLastWord	:	1 - 8
+16_1_1_kazuyoshi_hayase_A	:	1 - 8
+16_1_1_changhai_small	:	7 - 14
+16_1_1_helca_A	:	1 - 8
+16_1_1_fullsalvo_a	:	5 - 12
+16_1_1_denys_fridman_main	:	1 - 9
+16_1_1_yangrui_theLastWord	:	4 - 11
+16_1_1_MathProgrammer_word	:	3 - 10
+16_1_1_ProblemFactory_gcj1	:	1 - 19
+16_1_1_israela_q1	:	3 - 10
+16_1_1_Tylerwowen_a	:	4 - 17
+16_1_1_algorithmist_finalword	:	1 - 8
+

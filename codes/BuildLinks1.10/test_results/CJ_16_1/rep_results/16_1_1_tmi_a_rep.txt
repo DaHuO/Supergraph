@@ -1,0 +1,2 @@
+assertequal cab cab assertequal mja assertequal ocde 		9 16
+def solve_it s current = 		19 26

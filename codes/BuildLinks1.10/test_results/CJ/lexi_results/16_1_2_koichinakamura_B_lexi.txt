@@ -1,0 +1,1 @@
+def solve lines lines = array lines vs cs = unique lines return_counts = true return sorted vs cs % 2 == 1 		2 5

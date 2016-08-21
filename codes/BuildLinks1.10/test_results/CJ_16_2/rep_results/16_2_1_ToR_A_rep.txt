@@ -1,0 +1,2 @@
+def main fname fin = open fname + .in 		77 89
+def solve S result = tmp = list S while Z in tmp tmp remove Z tmp remove E tmp remove R tmp remove O result append 0 while W in tmp tmp remove T tmp remove W tmp remove 		1 75

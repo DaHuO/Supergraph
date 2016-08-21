@@ -1,0 +1,2 @@
+QWERTYUIOPASDFGHJKLZXCVBNM doit msg d = key 0 for key in for ch in msg d setdefault ch 		11 29
+def f j i d = d2 = for word 		2 10

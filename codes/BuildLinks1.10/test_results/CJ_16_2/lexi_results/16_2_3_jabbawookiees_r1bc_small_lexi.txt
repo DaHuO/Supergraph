@@ -1,0 +1,2 @@
+def valid originals pairs first_origs = set second_origs = set for first second in originals first_origs add first second_origs add second for first second in pairs if first not in first_origs or second not in second_origs return False return True 		9 18
+def powerset iterable xs = list iterable return chain from_iterable combinations xs n for n in range len xs + 1 		4 6

@@ -1,0 +1,8 @@
+debugging hasattr 		78 80
+prepare_cached data.pickle loaded {}.\n ioerror prepared {}.\n 		85 93
+completed preparation seconds.\n processing (output {}). {:.0f} elapsed. debugging \r processed seconds. seconds.\n - t0 t = int stdin readline for 		95 111
+greatest_index s index = 		42 47
+greatest_index solution s if len 		49 53
+def 		82 83
+def solve_case 		55 57
+def read_case 		38 40

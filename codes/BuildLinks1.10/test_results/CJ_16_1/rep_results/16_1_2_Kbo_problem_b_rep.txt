@@ -1,0 +1,2 @@
+def process n lines counts = defaultdict 		7 16
+def main path with open path as f content = f readlines t = int content 0 replace \n 		23 41

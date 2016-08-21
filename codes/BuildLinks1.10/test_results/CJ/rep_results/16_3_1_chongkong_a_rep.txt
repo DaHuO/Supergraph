@@ -1,0 +1,7 @@
+def pick parties choice 		18 24
+party_names party_names pick_two = abcdefghijklmnopqrstuvwxyz parties = for i in 		40 51
+def 		14 15
+pick_two choice1 choice1 = sorted parties key = lambda x 		27 37
+def main t = int input 		54 60
+<{} {}> 		11 12
+def __init__ 		7 9

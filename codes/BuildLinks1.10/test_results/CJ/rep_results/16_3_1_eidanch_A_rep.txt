@@ -1,0 +1,5 @@
+def main t = int input for 		48 53
+validate_state state return 		10 11
+choose_senators next_state validate_state next_state validate_state range len state if state i == 		20 36
+next_state state first second = 		13 18
+choose_senators solve state result = while sum 		39 47

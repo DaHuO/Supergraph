@@ -1,0 +1,3 @@
+def occ l m ans = while m 		9 18
+quicksorting occ_all occ_all = l 0 = 		20 29
+sorting number_max segment1 sorting segment2 quicksorting number_max segment1 segment2 number_max = 		32 44

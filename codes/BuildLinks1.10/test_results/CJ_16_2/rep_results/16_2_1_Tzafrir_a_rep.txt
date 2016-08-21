@@ -1,0 +1,2 @@
+def updateWord c letter 		4 9
+def solve word c = Counter word res = 0 * 10 res 0 = updateWord c Z ZERO res 8 		10 28

@@ -1,0 +1,5 @@
+def __init__ self file self file = file with open self file w pass self fhandle = open self file w self ind = 1 		17 21
+def __init__ self file self file = file self fhandle = open self file r self t = int self fhandle readline 		6 9
+def put self ans outs = case # + str self ind + : outs +=  + str ans outs += \n self fhandle write outs self ind += 1 		24 29
+def run self s word = for i in s if len word == 0 word += i else if join i word < join word i word += i else word = join i word return word 		35 46
+def pop self word = list self fhandle readline strip return word 		11 13

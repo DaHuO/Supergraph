@@ -1,0 +1,1 @@
+def compute m d = collections defaultdict int for row in m for a in row d int a += 1 lst = k for k in d keys if d k % 2 != 0 lst sort return lst 		5 12

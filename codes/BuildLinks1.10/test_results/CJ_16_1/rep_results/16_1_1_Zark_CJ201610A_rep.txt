@@ -1,0 +1,4 @@
+def 		12 13
+def output 		25 26
+def run self casenum 		5 10
+def exe self self result = for 		15 23

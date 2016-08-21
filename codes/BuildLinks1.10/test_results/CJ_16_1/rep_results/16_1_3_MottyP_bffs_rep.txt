@@ -1,0 +1,4 @@
+_measure prevset prevset prevset leading lenp leading lenp = = set if judgement curr is not none return while true jud = judgement curr if jud is none and 		14 49
+_domain largestcircle = sys stdin ncases = int inp 		72 79
+largestcircle _findpairs _measure cyclesizes cyclesizes cyclesizes maxleading numpairmembers maxleading leading maxleading maxleading mostleading maxleading numpairmembers mostleading xrange n start friend 		51 70
+_findpairs friend judgement for x 		8 12

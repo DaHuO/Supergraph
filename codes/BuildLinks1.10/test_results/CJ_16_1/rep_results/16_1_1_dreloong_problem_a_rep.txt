@@ -1,0 +1,2 @@
+winning_last_word s lst = s 		1 8
+a-large.out.txt winning_last_word f_in = open a-large.in.txt r f_out 		11 21

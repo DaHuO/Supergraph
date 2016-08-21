@@ -1,0 +1,1 @@
+def getres s result = prevstart = s 0 result += prevstart for i in range 1 len s currletter = s i if currletter < prevstart result = result + currletter else result = currletter + result prevstart = currletter return result 		7 20

@@ -1,0 +1,1 @@
+def checkifallareones f for each in f if each 1 == 1 or each 1 == 0 pass else return false return true 		1 7

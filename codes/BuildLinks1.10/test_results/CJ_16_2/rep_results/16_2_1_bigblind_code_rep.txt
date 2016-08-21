@@ -1,0 +1,4 @@
+original_word wdigit original_word wdigit wdigit DIGITS word = list if 		48 61
+silent __stdout__ message if len 		16 21
+print_case case result 		12 14
+remove_uniques UNIQUE_DIGITS result = for 		38 45

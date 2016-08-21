@@ -1,0 +1,20 @@
+Direct links:
+3 - 10 links:
+16_1_1_gnr_lastword	:	3 - 10
+16_1_1_ericreis_the_last_word	:	1 - 11
+16_1_1_vss1987_solution1	:	1 - 10
+16_1_1_luca_wehrstedt_A	:	3 - 11
+16_1_1_phg1024_A	:	1 - 9
+16_1_1_no10downingstreet_a	:	3 - 12
+16_1_1_ollyajoke_TheLastWord	:	1 - 8
+16_1_1_dcy_main	:	6 - 15
+16_1_1_kazuyoshi_hayase_A	:	1 - 8
+16_1_1_changhai_small	:	7 - 14
+16_1_1_helca_A	:	1 - 8
+16_1_1_wanly233_problem1	:	4 - 11
+16_1_1_denys_fridman_main	:	1 - 9
+16_1_1_yangrui_theLastWord	:	4 - 11
+16_1_1_MathProgrammer_word	:	3 - 10
+16_1_1_Itsuki_main	:	5 - 13
+16_1_1_HkM_cj1A1	:	1 - 10
+

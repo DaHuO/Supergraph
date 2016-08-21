@@ -1,0 +1,1 @@
+def solve w lastword = for c in w if c + lastword > lastword + c lastword = c + lastword else lastword = lastword + c return lastword 		1 8

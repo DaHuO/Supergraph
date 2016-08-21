@@ -1,0 +1,1 @@
+def subtract no ch cnt = letters ch for letter in spelled no letters letter -= cnt return cnt * str no 		8 12

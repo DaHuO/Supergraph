@@ -1,0 +1,2 @@
+def main n = int sys stdin 		17 24
+def solve s ans = s 0 first 		3 14

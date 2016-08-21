@@ -1,0 +1,6 @@
+raf 		10 11
+ri 		4 5
+def solve s = rs hashmap = for x in s hashmap x = hashmap get x 0 		13 37
+rai 		8 9
+def 		2 3
+ras 		6 7

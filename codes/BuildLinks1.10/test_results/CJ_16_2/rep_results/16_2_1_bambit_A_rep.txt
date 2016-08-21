@@ -1,0 +1,2 @@
+clean lmap 		5 7
+fin_num chrs cleans chrs chrs fin_num clean cleans fin_num lmap = for c in l lmap c 		9 31

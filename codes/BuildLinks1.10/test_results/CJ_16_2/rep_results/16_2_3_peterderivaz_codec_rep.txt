@@ -1,0 +1,1 @@
+DiGraph maximum_flow A A = 0 + a 1 + b for a b in A G = nx first = set second 		7 29

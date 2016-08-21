@@ -1,0 +1,1 @@
+def process string letter = max string c = string count letter i = string index letter string = string replace letter if len string i == 0 return c * letter + string i return c * letter + process string i + string i 		6 13

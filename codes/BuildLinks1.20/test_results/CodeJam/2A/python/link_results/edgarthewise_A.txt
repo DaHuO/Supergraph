@@ -1,0 +1,16 @@
+
+With same rare tokens:
+3 - 4 links:
+fandersen_GCJ	:	31 - 32
+
+6 - 7 links:
+fandersen_a	:	2 - 3
+fandersen_GCJ	:	22 - 23
+fandersen_GCJ	:	31 - 32
+
+9 - 12 links:
+fandersen_GCJ	:	155 - 160
+fandersen_GCJ	:	19 - 20
+fandersen_a	:	2 - 3
+fandersen_GCJ	:	22 - 23
+

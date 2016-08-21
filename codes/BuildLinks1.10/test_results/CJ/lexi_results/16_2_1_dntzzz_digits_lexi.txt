@@ -1,0 +1,1 @@
+def signature s z = 0 for i in range ord a ord z + 1 for c in s z ord c - o = z ord c - o + 1 return z 		6 10

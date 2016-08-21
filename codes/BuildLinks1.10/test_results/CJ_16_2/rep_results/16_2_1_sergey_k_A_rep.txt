@@ -1,0 +1,3 @@
+def main T = int 		53 57
+def update cmap 		6 9
+def solve s count = 0 * 10 cmap = for c in s cmap c = cmap get c 0 + 1 if cmap get Z count 0 = cmap Z update cmap data 0 count 0 		11 50

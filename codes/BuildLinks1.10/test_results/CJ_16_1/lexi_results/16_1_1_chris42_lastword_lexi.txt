@@ -1,0 +1,2 @@
+def add_char self char if self word == self word = char elif char > self word 0 or char == self word 0 self word = char + self word else self word += char 		17 24
+def __init__ self self word = 		14 15

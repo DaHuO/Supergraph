@@ -1,0 +1,2 @@
+uniq_order uniq_order S counts = for c in S if c not in counts counts c = 0 counts c += 1 nc = 		1 26
+def main T = int 		29 33

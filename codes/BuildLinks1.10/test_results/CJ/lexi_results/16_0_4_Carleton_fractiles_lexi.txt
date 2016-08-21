@@ -1,0 +1,3 @@
+def parse_file fname with open fname r as fh lines = fh readlines 1 return case * map int line strip split for line in lines 		7 11
+def answer case checks = for i in range case k offset = 0 for exp in range case c offset += i * case k ** exp checks append offset + 1 return  join str c for c in checks 		14 23
+def main fname = sys argv 1 outname = sys argv 2 ns = parse_file fname answers = answer n for n in ns with open outname w as fh for i a in enumerate answers 1 fh write case #%i: %s\n % i a 		26 36

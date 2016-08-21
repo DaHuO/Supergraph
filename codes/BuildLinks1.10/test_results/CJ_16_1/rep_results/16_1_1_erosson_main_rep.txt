@@ -1,0 +1,3 @@
+def run chars ret = chars 0 		9 18
+def 		20 21
+def main infile lines = infile readlines count 		25 32

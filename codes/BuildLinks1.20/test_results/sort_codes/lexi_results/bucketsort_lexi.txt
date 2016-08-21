@@ -1,0 +1,1 @@
+def bucket_sort a num_buckets debug = false min_ = min a max_ = max a b = for i in range num_buckets for e in a i = int e - min_ / max_ - min_ * num_buckets - 1 b i append e for i in range len b b i = sorted b i if debug print buckets: for b in b print b return reduce lambda x y x + y b 		5 19

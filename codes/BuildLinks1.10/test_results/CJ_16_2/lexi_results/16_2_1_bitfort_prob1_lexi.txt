@@ -1,0 +1,4 @@
+def rem small big for c in small if c in big big c -= small c if big c == 0 del big c 		30 35
+def intersects small big for c in small if c not in big or small c > big c return False return True 		23 27
+def solve s bag = make_bag s nums = 0 for i in xrange 10 for u in order while intersects num_bags u bag nums u += 1 rem num_bags u bag ans = for i in xrange len nums for j in xrange nums i ans += str i return ans 		38 51
+def make_bag s d = for c in s if c not in d d c = 0 d c += 1 return d 		13 19

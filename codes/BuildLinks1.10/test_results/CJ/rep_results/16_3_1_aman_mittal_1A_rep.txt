@@ -1,0 +1,1 @@
+len2 p res = r = j for j in p if j > 0 ind = p index max p 		5 19

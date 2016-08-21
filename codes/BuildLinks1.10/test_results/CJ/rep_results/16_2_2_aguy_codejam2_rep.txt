@@ -1,0 +1,16 @@
+besti bestcriteria bestcriteria besti bestcriteria besti besti for i in x 		146 160
+makeequal makeequal makeclarger makejlarger makeequal makejlarger makeclarger makeequal makeclarger makejlarger makeequal makeclarger makejlarger ? and j 0 == ? poss = poss append c 1 j 1 for i in range 2 poss 0 i = 0 + poss 0 i poss append c 1 j 1 poss 1 0 = 0 + poss 1 0 poss 1 1 = 1 + poss 1 1 poss append c 1 j 1 poss 2 0 = 1 + poss 		69 127
+def 		278 279
+def 		201 203
+def criteria c j 		138 144
+largec largej equalposs equalposs largec largec equalposs largej largej equalposs largec largec largec largej largej largej equalposs equalposs largej largej equalposs largec largec equalposs largec largec largec largej largej largej equalposs equalposs largec largec equalposs largej largej equalposs largec largec largec largej largej largej largec largec largej largej largec largec largec largej largej largej best = 9 + 0 0 + 1 = 0 + 		217 275
+def 		281 282
+makeclarger c j if len c == 0 return 		27 42
+nextc nextj nextc nextc nextj nextj nextc nextj c == 0 return clist jlist = = 		178 198
+def 		66 67
+besti bestcriteria bestcriteria besti bestcriteria besti besti for i in x 		284 298
+processline 		7 22
+def poss c 		163 168
+def 		63 64
+makejlarger c j if len c == 0 return 		46 61
+bruteforce processline c j = 		170 174

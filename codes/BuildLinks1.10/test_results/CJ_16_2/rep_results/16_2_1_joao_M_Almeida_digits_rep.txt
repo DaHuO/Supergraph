@@ -1,0 +1,1 @@
+def solve S nums = flag = 1 while len S > 0 and flag == 1 flag = 0 if Z in S S remove Z S remove E S remove R S remove O nums append 0 flag = 1 if X in S S remove S S remove I S remove X flag = 1 nums append 6 if W in S 		4 104

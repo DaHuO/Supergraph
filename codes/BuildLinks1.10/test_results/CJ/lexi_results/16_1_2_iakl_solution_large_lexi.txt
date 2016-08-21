@@ -1,0 +1,2 @@
+def solvetestcase tc if len tc == 0 return n = len tc 0 mn = 0 mx = 0 count = 0 for r in tc for h in r if count == 0 mn = h mx = h else if h < mn mn = h if h > mx mx = h count += 1 l = 0 * mx - mn + 1 for r in tc for h in r l h - mn += 1 r = n = len l for i in range 0 n if l i % 2 == 1 r append i + mn return sorted r 		41 69
+def outputtestcase tcn r wr = case # + str tcn + : for h in r wr = wr +  + str h wr = wr + \n out_f write wr 		33 38

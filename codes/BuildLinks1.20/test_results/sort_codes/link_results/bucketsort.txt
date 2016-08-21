@@ -1,0 +1,7 @@
+
+With same rare tokens:
+5 - 19 links:
+counting_sort	:	4 - 12
+test_sorts	:	29 - 39
+py_heap_sort	:	37 - 40
+

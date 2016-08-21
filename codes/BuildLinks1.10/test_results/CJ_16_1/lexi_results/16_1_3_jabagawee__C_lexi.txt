@@ -1,0 +1,2 @@
+def best_score bffs n = len bffs for num_kids in reversed range 2 n + 1 for circle in itertools combinations range n num_kids for permuted_circle in itertools permutations circle if check permuted_circle bffs return num_kids return 0 		21 28
+def check circle bffs for i kid in enumerate circle bff = bffs kid - 1 if i == len circle - 1 if bff != circle i - 1 and bff != circle 0 return false else if bff != circle i - 1 and bff != circle i + 1 return false return true 		6 18

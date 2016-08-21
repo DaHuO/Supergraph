@@ -1,0 +1,11 @@
+Direct links:
+10 - 10 links:
+16_1_1_rompel_lw	:	10 - 10
+16_1_2_rompel_rf	:	10 - 10
+
+
+With same rare tokens:
+9 - 9 links:
+16_1_1_rompel_lw	:	9 - 9
+16_1_2_rompel_rf	:	9 - 9
+

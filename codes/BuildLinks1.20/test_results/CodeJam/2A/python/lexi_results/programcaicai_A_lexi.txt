@@ -1,0 +1,3 @@
+def my_sort s if len s == 1 return s else a = s len s // 2 b = s len s // 2 if a < b return my_sort a + my_sort b else return my_sort b + my_sort a 		21 30
+def solve n r p s base_sol = r p s def g s mp = r rs p pr s ps return join mp c for c in s for _ in range n for i in range 3 base_sol i = g base_sol i def my_sort s if len s == 1 return s else a = s len s // 2 b = s len s // 2 if a < b return my_sort a + my_sort b else return my_sort b + my_sort a for i in range 3 d = counter base_sol i d2 = r r p p s s if all d2 k == v for k v in d items return my_sort base_sol i return impossible 		6 40
+def g s mp = r rs p pr s ps return join mp c for c in s 		10 12

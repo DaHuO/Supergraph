@@ -1,0 +1,3 @@
+def case_reader tc infile t = next infile del infile return locals 		18 21
+def case_solver tc n = none p = none i = none t = none s = none ** kwargs import collections as co c = dict co counter t z = c get z 0 if z c e -= z c r -= z c o -= z x = c get x 0 if x c s -= x c i -= x w = c get w 0 if w c t -= w c o -= w u = c get u 0 if u c f -= u c o -= u c r -= u o = c get o 0 if o c n -= o c e -= o s = c get s 0 if s c e -= s c v -= s c e -= s c n -= s v = c get v 0 if v c f -= v c i -= v c e -= v g = c get g 0 if g c e -= g c i -= g c h -= g c t -= g n = c get n 0 if n c e -= n / 2 c i -= n / 2 r = c get r 0 res = 0 * z + 1 * o + 2 * w + 3 * r + 4 * u + 5 * v + 6 * x + 7 * s + 8 * g + 9 * n // 2 return case #{:d}: {} format tc res 		24 72
+def common_setup pass 		14 15

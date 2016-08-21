@@ -1,0 +1,2 @@
+def pad n1 n2 l n1 = str 		33 38
+def match s1 s2 m1 m2 if ? in s1 idx = s1 index ? for d in 0123456789 s1 idx = d m1 m2 		1 31

@@ -1,0 +1,3 @@
+solvetest solve t = int 		63 68
+solvetest trysolve j ans = inf 		52 60
+trysolve tans2 tans2 j ac = for i in range n if c i == ? and j i == ? ac append 0 elif c i == ? ac append j i elif j i == ? 		7 50

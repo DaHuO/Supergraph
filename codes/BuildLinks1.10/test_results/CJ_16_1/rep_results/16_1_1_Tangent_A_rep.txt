@@ -1,0 +1,2 @@
+peak peak seq if not seq return = 		21 33
+def main name pathin pathout = sys argv filein = 		3 17

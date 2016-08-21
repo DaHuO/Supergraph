@@ -1,0 +1,1 @@
+def solve word last_word = word 0 first_letter = last_word for letter in word 1 if letter >= first_letter last_word = letter + last_word first_letter = letter else last_word = last_word + letter return last_word 		7 17

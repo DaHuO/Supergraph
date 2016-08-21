@@ -1,0 +1,2 @@
+num_to_str str_to_map num_to_str num_to_str has_digit has_digit has_digit str_to_map FOUR FIVE SEVEN THREE NINE ONE = ZERO 0 ONE 1 TWO 		1 24
+---Start Test--- OZONETOWER WEIGHFOXTOURIST OURNEONFOE ETHER 012 2468 114 ---End 		26 50

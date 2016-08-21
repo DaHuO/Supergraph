@@ -1,0 +1,1 @@
+def solvecase s = next stdin 		5 13

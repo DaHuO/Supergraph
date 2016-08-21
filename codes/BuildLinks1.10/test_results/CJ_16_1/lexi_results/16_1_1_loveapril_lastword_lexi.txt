@@ -1,0 +1,2 @@
+def lastword word letters = ord i for i in list word l = len letters sol = a = none b = none for i in range l if len sol == 0 sol append letters i a = sol 0 else if letters i >= a sol insert 0 letters i a = sol 0 else sol append letters i return join chr i for i in sol 		1 19
+def main filename = a-large.in output = a-large.out f = open filename r out = open output w while true line = f readline if line == break num_tests = int line for i in xrange num_tests line = f readline strip sol = lastword line s = case #%s: % i + 1 s = s + str sol out write s out write \n 		23 40

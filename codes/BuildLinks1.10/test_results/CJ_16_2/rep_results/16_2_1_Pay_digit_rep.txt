@@ -1,0 +1,2 @@
+def con a 		10 14
+def take a s for x in 		16 28

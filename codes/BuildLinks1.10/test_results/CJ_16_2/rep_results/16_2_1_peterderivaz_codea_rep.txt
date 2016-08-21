@@ -1,0 +1,2 @@
+def go M L = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE D = Counter M def remove num count for c in L num 		5 31
+def remove 		8 10

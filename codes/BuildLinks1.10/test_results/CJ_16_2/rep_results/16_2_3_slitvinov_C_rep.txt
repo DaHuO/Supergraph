@@ -1,0 +1,6 @@
+def good DD s1 = set s2 = 		33 44
+def solve n = ir D = for i in range n 		46 62
+		5 6
+def ia 		8 11
+def sa 		13 16
+def G n l = False * 		18 31

@@ -1,0 +1,2 @@
+def findlastword instr firstchar = instr 0 lastword = firstchar for c in instr 1 test = firstchar > c if test lastword append c else lastword insert 0 c firstchar = lastword 0 assert len instr == len lastword return join lastword 		3 17
+def main ln = 0 t = none for line in sys stdin if ln == 0 t = int line ln += 1 else instr = line rstrip sol = findlastword instr print case #{0}: {1} format ln join sol ln += 1 		19 30

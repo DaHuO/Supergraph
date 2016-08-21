@@ -1,0 +1,2 @@
+def solve letters if letters not in CACHE for i num in 		20 29
+def run filename lines = open filename + .in read 		8 16

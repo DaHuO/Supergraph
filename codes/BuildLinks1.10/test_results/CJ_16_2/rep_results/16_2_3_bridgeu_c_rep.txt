@@ -1,0 +1,2 @@
+handle w0s minimal_set w0s minimal_set w0s best_found 40 minimal_set w0s_loc w0s w1s_loc w0s_loc w1s_loc w0s_loc w1s_loc w0s_loc w1s_loc best_found best_found best_found phrase 0 for phrase in phrases 		9 43
+def read_ints 		6 7

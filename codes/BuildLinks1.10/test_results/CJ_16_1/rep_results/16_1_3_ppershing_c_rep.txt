@@ -1,0 +1,3 @@
+fix_circle solve testcase n = int sys stdin readline strip buddy = map int sys stdin readline strip split buddy = x - 1 for x in buddy circle 		24 53
+fix_circle normalize_circle circle start used = x = start while 		5 18
+normalize_circle argmin 		20 22

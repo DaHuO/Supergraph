@@ -1,0 +1,2 @@
+def solution strs res = for 		1 11
+def main t = int 		12 17

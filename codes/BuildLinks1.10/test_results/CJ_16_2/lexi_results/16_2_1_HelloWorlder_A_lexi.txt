@@ -1,0 +1,2 @@
+def fetch i phone_num n = numbers i cpn = copy deepcopy phone_num for c in n if c in cpn del cpn cpn index c else return None phone_num return str i cpn 		29 38
+def run items phone_num = n for n in items 0 digit_num = for c i in uniq_map while True if c in phone_num digit_num append str i for n in numbers i phone_num remove n else break if phone_num print ERROR phone_num return join sorted digit_num 		40 57

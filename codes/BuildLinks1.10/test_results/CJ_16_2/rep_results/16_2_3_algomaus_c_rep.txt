@@ -1,0 +1,3 @@
+def parse lines t = int lines 0 act_line 		5 17
+bestnum used_prefix used_suffix bestnum bestnum bestnum = len case occ_prefix = occ_suffix = = = for topic 		38 66
+case_shuffled find_num case occ_prefix occ_suffix = random shuffle case num = 0 occ_prefix_n = for k 		19 36

@@ -1,0 +1,8 @@
+readvalues 		10 11
+crtrow crtcol missingrow crtrow crtcol missingrow placeoriz lineno crtrow crtcol missingrow crtrow lineno crtrow missingrow crtrow lineno crtrow crtcol lineno crtrow crtrow lineno placevert lineno crtrow crtcol missingrow crtcol lineno crtcol lineno crtcol crtrow missingrow lineno crtcol crtcol lineno lineno crtrow crtcol missingrow crtrow crtcol placeoriz lineno crtrow lineno crtrow placevert lineno crtcol lineno 		29 106
+classmethod def answer 		17 20
+placeoriz lineno crtrow crtcol missingrow crtrow lineno crtrow missingrow crtrow lineno crtrow crtcol lineno crtrow 		38 52
+readvalue readvalues n = 		23 26
+placevert lineno crtrow crtcol missingrow crtcol lineno crtcol lineno crtcol crtrow missingrow lineno crtcol crtcol 		54 70
+readvalue 		6 7
+lineno crtrow crtcol missingrow crtrow crtcol placeoriz lineno crtrow lineno crtrow placevert lineno crtcol lineno 		73 102

@@ -1,0 +1,3 @@
+old_answer S S = sorted S i = 0 		32 41
+def answer S numbers = list NUMBERS input_set = Counter for l in S input_set 		10 29
+num_occurences num_occurences number_string 		5 8

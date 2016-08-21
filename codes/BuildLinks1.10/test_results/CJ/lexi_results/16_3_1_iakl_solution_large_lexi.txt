@@ -1,0 +1,4 @@
+def ch i return chr ord a + i 		37 38
+def swap arr i j v = arr i arr i = arr j arr j = v 		40 43
+def solvetestcase tc l = n = len tc s = 0 for i in range 0 n l append tc i i s += tc i l sort reverse = true r = while s > 0 nxt = nxt += ch l 0 1 l 0 0 -= 1 s -= 1 if s > 0 p = 0 while p < n - 1 and l p 0 < l p + 1 0 swap l p p + 1 p += 1 if s > 0 and n > 1 and s - 1 >= 2 * max l 1 0 l 0 0 - 1 nxt += ch l 0 1 l 0 0 -= 1 s -= 1 if s > 0 p = 0 while p < n - 1 and l p 0 < l p + 1 0 swap l p p + 1 p += 1 r append nxt return r 		45 74
+def outputtestcase tcn x s = l = len x for i in range 0 l if i > 0 s = s +  s = s + x i out_f write case # + str tcn + : + s + \n 		28 35

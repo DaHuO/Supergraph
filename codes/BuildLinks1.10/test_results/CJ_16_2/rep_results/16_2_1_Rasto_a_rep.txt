@@ -1,0 +1,4 @@
+asdigit x return 		14 15
+def contains d 		6 9
+def decrease 		11 12
+asdigit solve s d = defaultdict int for c in 		17 28

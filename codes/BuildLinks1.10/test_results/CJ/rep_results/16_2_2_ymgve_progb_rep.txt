@@ -1,0 +1,2 @@
+test_good mask cand for i 		5 12
+caseno teamj 99999999 999999999 9999999999 teamj test_good test_good teamj caseno = int f readline for in xrange ncases teamc = f readline strip split best = xx 		14 37

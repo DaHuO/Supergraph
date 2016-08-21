@@ -1,0 +1,3 @@
+def testWord word string for char in word if char not in string return False if char == E index = string index char string = string index + string index + 1 if char == N index = string index char string = string index + string index + 1 return True 		30 43
+def removeWord word string for char in word index = string index char string = string index + string index + 1 return string 		46 51
+def getSolution string index solution if len string == 0 return solution if index > 9 return False if testWord numberWords index string solution = solution + str index string = removeWord numberWords index string if len string > 0 return getSolution string int index solution else return solution else return getSolution string int index + 1 solution 		54 70

@@ -1,0 +1,3 @@
+take_max parties m = max 		25 30
+silent __stdout__ message if len 		16 21
+def print_case case 		12 14

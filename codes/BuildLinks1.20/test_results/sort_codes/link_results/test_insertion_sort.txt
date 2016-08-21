@@ -1,0 +1,14 @@
+Direct links:
+8 - 9 links:
+test_bubble_sort	:	8 - 9
+test_merge_sort	:	8 - 9
+sorttests	:	56 - 57
+
+
+With same rare tokens:
+8 - 9 links:
+sorter	:	49 - 56
+insertion-sort	:	4 - 13
+insertion_sort	:	1 - 8
+sorting_algorithms	:	42 - 60
+

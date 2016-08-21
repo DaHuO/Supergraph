@@ -1,0 +1,1 @@
+def cocktailsort alist up = range len alist - 1 while true for indices in up reversed up swapped = false for i in indices if alist i > alist i + 1 alist i alist i + 1 = alist i + 1 alist i swapped = true if not swapped return 		7 18

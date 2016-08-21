@@ -1,7 +1,7 @@
-max_heap max_heap array i length left = 2 * i right = 2 * i + 		77 88
+def max_heap self array i length left = 2 * i right = 2 * i 		77 88
 bubble_sort_iteration self array length = len array counter = 		33 40
 def insertion_sort self array for j in range 		49 56
 def quicksort self array first last if first < last pivot = array first left = first + 		58 75
-heapsort floor max_heap max_heap i in range int math len array 		90 100
+heapsort floor array for i in range int math len array 		90 100
 check_sorting incorrect correct for 		43 47
 half half half array if len array > 1 = len array / 2 left = array right = array self 		4 31

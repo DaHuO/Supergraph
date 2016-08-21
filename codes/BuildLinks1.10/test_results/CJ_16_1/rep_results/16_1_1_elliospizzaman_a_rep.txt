@@ -1,0 +1,5 @@
+def solve jam casecount = int jam read_string letters = abcdefghijklmnopqrstuvwxyz 		23 35
+def write_case self 		18 21
+def __init__ self 		8 11
+def 		12 14
+read_array 		15 17

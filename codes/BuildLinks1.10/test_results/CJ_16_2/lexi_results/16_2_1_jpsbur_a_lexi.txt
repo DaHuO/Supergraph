@@ -1,0 +1,1 @@
+def solve s = input cnt = for c in QWERTYUIOPASDFGHJKLZXCVBNM cnt c = 0 for a in s cnt a += 1 a = ZERO TWO EIGHT SIX FOUR FIVE SEVEN THREE NINE ONE b = Z W G X U F V R I O d = 0 2 8 6 4 5 7 3 9 1 res = for i in range 10 x = cnt b i for c in a i cnt c -= x for j in range x res append d i res sort ans = for d in res ans += str d return ans 		16 37

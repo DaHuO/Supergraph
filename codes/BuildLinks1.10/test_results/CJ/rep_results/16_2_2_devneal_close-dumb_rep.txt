@@ -1,0 +1,1 @@
+def match s t for 		4 10

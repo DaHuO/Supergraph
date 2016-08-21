@@ -1,0 +1,1 @@
+def senate n n = int n p = map int raw_input strip split  party = output = for i in xrange n party chr 65 + i = p i values = party values values sort lasttwo = if values - 1 == values - 2 val2 = party keys party values index values - 2 val2pop = party 		1 51

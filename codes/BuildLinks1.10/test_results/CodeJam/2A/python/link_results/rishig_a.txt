@@ -1,15 +1,5 @@
-27 - 31 links:
-johnLate_a	:	9 - 13
 
-22 - 25 links:
-hellman_a	:	35 - 43
-
-3 - 6 links:
-LiranR_showdown2	:	13 - 21
-
+With same rare tokens:
 42 - 49 links:
-johnLate_a	:	9 - 13
-
-8 - 12 links:
-LiranR_showdown2	:	13 - 21
+lidaobing_1	:	48 - 58
 

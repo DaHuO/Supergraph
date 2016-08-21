@@ -1,0 +1,1 @@
+def go mp cnt digit s let while mp let >= 1 for i in s mp i -= 1 cnt digit += 1 		3 7

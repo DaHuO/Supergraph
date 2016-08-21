@@ -1,0 +1,2 @@
+def 		21 23
+def subtraction X flag = 		10 19

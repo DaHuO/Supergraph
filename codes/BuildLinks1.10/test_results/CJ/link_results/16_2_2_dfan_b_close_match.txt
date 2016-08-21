@@ -1,0 +1,27 @@
+Direct links:
+135 - 140 links:
+16_2_1_dfan_a_getting_the_digits	:	128 - 133
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+16_0_4_dfan_fractiles	:	27 - 32
+
+
+With same rare tokens:
+135 - 140 links:
+16_2_1_dfan_a_getting_the_digits	:	128 - 133
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+16_0_4_dfan_fractiles	:	27 - 32
+16_2_1_dfan_a_getting_the_digits	:	128 - 133
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+16_0_4_dfan_fractiles	:	27 - 32
+16_2_1_dfan_a_getting_the_digits	:	128 - 133
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+16_0_4_dfan_fractiles	:	27 - 32
+
+43 - 57 links:
+16_0_4_alei_d	:	5 - 27
+16_0_4_alei_d	:	5 - 27
+
+59 - 83 links:
+16_0_4_alei_d	:	5 - 27
+16_0_4_alei_d	:	5 - 27
+

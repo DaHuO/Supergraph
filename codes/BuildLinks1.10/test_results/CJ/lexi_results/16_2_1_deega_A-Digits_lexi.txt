@@ -1,0 +1,2 @@
+def check for i in count values if i > 0 return false return true 		7 11
+def counter s o = for i in s o append count get i 0 return min o 		2 6

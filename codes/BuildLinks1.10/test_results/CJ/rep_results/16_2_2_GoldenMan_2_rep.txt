@@ -1,0 +1,2 @@
+def la c 		3 7
+def gen w i if i < len w 		9 19

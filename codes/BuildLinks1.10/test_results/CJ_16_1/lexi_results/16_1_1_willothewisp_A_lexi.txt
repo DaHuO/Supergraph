@@ -1,0 +1,1 @@
+def go s a = deque for c in s if a and a 0 <= c a appendleft c else a append c return join a 		3 10

@@ -1,0 +1,3 @@
+def main ifile = sys stdin n = int ifile readline for i in range n print Case #%d: %s % i + 1 foo ifile 		45 49
+def foo2 s a = 0 * 10 for i in range 10 a i = s count tenletters i res = int round x for x in list numpy linalg solve d a res2 = join str i * res i for i in range 10 return res2 		28 34
+def foo ifile s = ifile readline strip return foo2 s 		39 41

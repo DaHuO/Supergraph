@@ -1,0 +1,7 @@
+
+With same rare tokens:
+96 - 102 links:
+16_2_1_Caiyi_A_small	:	8 - 14
+16_1_1_Caiyi_A_small	:	8 - 14
+16_1_2_Caiyi_B_small	:	8 - 15
+

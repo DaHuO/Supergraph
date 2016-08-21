@@ -1,0 +1,2 @@
+def 		5 6
+character_list 226 376 298 385 298 character_list temp_sum temp_sum temp_sum temp_sum = defaultdict lambda 0 for x in table x = table x + 1 phone_num = if table Z != 0 count = table Z for i in range count phone_num = phone_num + 0 table Z = 0 table E = table E - count table R = table R - count table O = table O - count if table W != 0 count = table W for i in range count phone_num = phone_num + 2 table W = 0 table T = table T - count table 		8 125

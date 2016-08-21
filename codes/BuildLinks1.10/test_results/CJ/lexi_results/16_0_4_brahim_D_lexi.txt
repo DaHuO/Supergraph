@@ -1,0 +1,1 @@
+def f n k c if c == 1 return n if c > k return f n k k elif n == k - 1 return n * k ** c - 1 + f n k c - 1 else return n * k ** c - 1 + f n + 1 k c - 1 		2 10

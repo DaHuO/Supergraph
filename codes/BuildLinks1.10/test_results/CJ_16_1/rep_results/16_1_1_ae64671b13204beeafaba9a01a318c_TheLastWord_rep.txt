@@ -1,0 +1,2 @@
+get_numbers input_number previously_seen previously_seen input_number 		28 31
+test_input get_input global line_number 		34 41

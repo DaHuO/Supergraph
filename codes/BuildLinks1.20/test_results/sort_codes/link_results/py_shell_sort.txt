@@ -1,0 +1,9 @@
+
+With same rare tokens:
+5 - 14 links:
+shellsort	:	2 - 17
+stoogesort	:	15 - 22
+
+16 - 26 links:
+py_insertion_sort	:	6 - 16
+

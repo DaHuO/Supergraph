@@ -1,0 +1,2 @@
+formatanswer index 		9 10
+computeanswer word lastword = word 		12 19

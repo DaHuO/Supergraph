@@ -1,0 +1,1 @@
+def solve k c s ret 		6 13

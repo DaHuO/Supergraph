@@ -1,0 +1,2 @@
+def main t = int input for i in range 1 t + 1 word = alastword raw_input print case #{}: {} format i word 		19 24
+def alastword word newword = for i in range len word char = word i if len newword == 0 newword = char else if char < newword 0 newword = newword + char else newword = char + newword return newword 		1 16

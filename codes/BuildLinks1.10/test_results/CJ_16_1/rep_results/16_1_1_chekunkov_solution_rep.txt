@@ -1,0 +1,2 @@
+def solution line result = 		5 12
+def main _ = next 		15 21

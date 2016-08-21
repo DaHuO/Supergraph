@@ -1,18 +1,18 @@
 getWord 		32 33
 def read self reader 		48 49
 def __init__ 		20 22
-inputName testsDir inputName _split isdir testsDir mkdir testsDir Reader tests tests testsDir %.5d.pickle exists clean_pickles Test testHandle wb dump 		147 166
-Wc Wc IMPOSSIBLE\n Wc IMPOSSIBLE\n makeRow Case #%d: % self case N P R S = self N self P self 		108 132
+_split isdir mkdir Reader tests tests %.5d.pickle clean_pickles Test testHandle dump testHandle testHandle 3 if inputFn endswith .in else 		147 166
+def solve self handle handle write Case #%d: % self case N P R S = self N self P self 		108 132
 def 		45 46
 def fix self row l = len row 		99 106
 getWord re endOfWord lstrip handle and not self buf 		35 41
-master BoundedSemaphore jobs clean_results 7 exists unlink Process runSolveMode keep_order random shuffle proc proc proc proc 		193 206
+master BoundedSemaphore jobs clean_results unlink Process runSolveMode keep_order random shuffle merge semaphore = mp args if 		193 206
 argparse ArgumentParser description Solve some GCJ task. metavar INPUT_FILE --test-case -p --clean-pickles store_true 		209 220
 bool 		24 25
 def win self l r if l == P and r == 		51 57
-slave 7 testTmpFn .tmp load testTmpHandle testTmpFn wt 		135 144
+slave testTmpFn .tmp load testTmpHandle testTmpFn wt testTmpHandle 		135 144
 getLine self if 		27 30
-runSolveMode 7 acquire exists Solving ``%s\'\'... call --test-case 		169 178
+runSolveMode acquire Solving ``%s\'\'... call --test-case ``%s\'\' already 		169 178
 def ok self a if len a <= 1 		59 66
-merge inputName outputFn inputName outputFn wt 7 exists inputFn endswith 		181 190
-makeRow Wc WW makeRow WW WW makeRow WW return W 2 1 = w 0 for w in W if N % 2 == 0 t = len W // 3 h = t + 1 // 2 		68 97
+merge outputFn outputFn wt = inputFn - 3 if inputFn 		181 190
+def makeRow self W N if N == 0 return W 2 1 Wc = w 0 for w in W if N % 2 == 0 t = len W // 3 h = t + 1 		68 97

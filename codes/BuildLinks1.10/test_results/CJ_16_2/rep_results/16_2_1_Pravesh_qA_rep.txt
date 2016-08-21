@@ -1,0 +1,3 @@
+list_intersection L1 L2 l1 = 		8 16
+def list_subtract L1 L2 c1 = 		18 25
+list_intersection get_number N number = if not N return True number 		27 37

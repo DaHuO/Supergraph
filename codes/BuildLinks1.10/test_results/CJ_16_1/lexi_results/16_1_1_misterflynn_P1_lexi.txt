@@ -1,0 +1,1 @@
+def getlowestlastword letters numletters = len letters lowestlastword = letters 0 for i in range 1 numletters letter = letters i if letter >= lowestlastword 0 lowestlastword insert 0 letter else lowestlastword append letter return lowestlastword 		3 14

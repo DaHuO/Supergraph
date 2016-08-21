@@ -1,0 +1,1 @@
+def lastword inputstr resultword = inputstr 0 inputlen = len inputstr for i in range 1 inputlen if inputstr i >= resultword 0 resultword = inputstr i + resultword else resultword = resultword + inputstr i return resultword 		1 11

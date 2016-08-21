@@ -1,0 +1,10 @@
+
+With same rare tokens:
+8 - 11 links:
+16_3_1_Bongtrop_1	:	9 - 19
+
+13 - 19 links:
+16_2_1_drewlohn_round2a	:	17 - 22
+16_2_1_agoldstein_numberGetter	:	22 - 35
+16_3_1_Bongtrop_1	:	9 - 19
+

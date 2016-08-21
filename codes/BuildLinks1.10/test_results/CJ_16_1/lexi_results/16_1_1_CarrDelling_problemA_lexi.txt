@@ -1,0 +1,1 @@
+def solve word output = word 0 for c in word 1 if c >= output 0 output = c + output else output += c return output 		16 26

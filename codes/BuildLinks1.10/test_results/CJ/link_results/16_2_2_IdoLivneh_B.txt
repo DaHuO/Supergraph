@@ -1,0 +1,79 @@
+Direct links:
+96 - 97 links:
+16_1_2_IdoLivneh_B	:	96 - 97
+
+125 - 134 links:
+16_1_2_IdoLivneh_B	:	125 - 134
+
+136 - 137 links:
+16_1_2_IdoLivneh_B	:	136 - 137
+
+109 - 110 links:
+16_1_2_IdoLivneh_B	:	109 - 110
+
+
+With same rare tokens:
+96 - 97 links:
+16_1_2_IdoLivneh_B	:	96 - 97
+16_1_2_IdoLivneh_B	:	198 - 228
+16_1_2_IdoLivneh_B	:	96 - 97
+16_1_2_IdoLivneh_B	:	86 - 94
+
+109 - 110 links:
+16_1_2_IdoLivneh_B	:	109 - 110
+16_1_2_IdoLivneh_B	:	109 - 110
+16_1_2_IdoLivneh_B	:	99 - 107
+
+62 - 84 links:
+16_1_2_IdoLivneh_B	:	62 - 84
+16_1_2_IdoLivneh_B	:	230 - 249
+
+258 - 277 links:
+16_1_2_IdoLivneh_B	:	12 - 17
+16_1_2_IdoLivneh_B	:	230 - 249
+16_1_2_IdoLivneh_B	:	198 - 228
+16_1_2_IdoLivneh_B	:	230 - 249
+
+99 - 107 links:
+16_1_2_IdoLivneh_B	:	109 - 110
+16_1_2_IdoLivneh_B	:	99 - 107
+
+144 - 151 links:
+16_1_2_mihaild_B	:	20 - 23
+16_2_2_mihaild_template	:	17 - 20
+16_1_2_IdoLivneh_B	:	144 - 151
+
+136 - 137 links:
+16_1_2_IdoLivneh_B	:	136 - 137
+
+112 - 123 links:
+16_1_2_IdoLivneh_B	:	112 - 123
+
+245 - 255 links:
+16_1_2_IdoLivneh_B	:	198 - 228
+16_1_2_IdoLivneh_B	:	230 - 249
+
+12 - 17 links:
+16_1_2_IdoLivneh_B	:	12 - 17
+
+154 - 167 links:
+16_1_2_IdoLivneh_B	:	154 - 167
+16_1_2_IdoLivneh_B	:	154 - 167
+16_2_2_xiae_oneb	:	104 - 114
+16_2_2_xiae_oneb	:	104 - 114
+16_1_2_IdoLivneh_B	:	154 - 167
+
+86 - 94 links:
+16_1_2_IdoLivneh_B	:	96 - 97
+16_1_2_IdoLivneh_B	:	86 - 94
+
+19 - 30 links:
+16_1_2_IdoLivneh_B	:	19 - 30
+
+32 - 60 links:
+16_1_2_IdoLivneh_B	:	32 - 60
+16_1_2_IdoLivneh_B	:	32 - 60
+16_1_2_IdoLivneh_B	:	32 - 60
+16_1_2_IdoLivneh_B	:	32 - 60
+16_1_2_IdoLivneh_B	:	32 - 60
+

@@ -1,0 +1,2 @@
+def calc s = raw_input ans = s 0 for c 		4 17
+def main t = 		20 24

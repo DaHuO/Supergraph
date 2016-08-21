@@ -1,0 +1,1 @@
+locals solve t = int raw_input for nc in xrange 		15 27

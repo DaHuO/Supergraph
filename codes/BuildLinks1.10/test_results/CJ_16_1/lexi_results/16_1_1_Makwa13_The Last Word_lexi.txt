@@ -1,0 +1,3 @@
+def resolve line chlist = for index ch in enumerate line if index == 0 chlist append ch else if ch >= chlist 0 chlist insert 0 ch else chlist append ch return join chlist 		14 25
+def main4 print resolve cab print resolve jam print resolve code print resolve abaab print resolve cabcbbabc print resolve abcabcabc print resolve zxcasdqwe 		27 34
+def main with open a-large (1).in r as infile with open outputthelastword.txt w as outfile t = int infile readline for i in range t line = infile readline strip ret = resolve line outfile write case #{0}: {1}\n format i + 1 ret 		35 43

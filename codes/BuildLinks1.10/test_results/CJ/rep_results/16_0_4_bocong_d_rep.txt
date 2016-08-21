@@ -1,0 +1,2 @@
+start_index start_index c c = min 		3 8
+req start_index req req s = max 1 		10 15

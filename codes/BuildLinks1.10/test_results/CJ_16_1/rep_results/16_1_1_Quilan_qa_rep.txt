@@ -1,0 +1,3 @@
+getinput curtype example examplestring %s- curproblem curtype %s-large.in curproblem curtype 		22 33
+outbuf outbuf buf buf = 		35 41
+rnd solveproblem x db = set %s % x 0 for _ v in enumerate x 		43 61

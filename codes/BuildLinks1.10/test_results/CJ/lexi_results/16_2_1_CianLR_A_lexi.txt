@@ -1,0 +1,1 @@
+def get_number s n if s == return if all x in s for x in digits n for c in digits n s = s replace c 1 for i in xrange 10 a = get_number s i if a is not none return str n + a return none 		4 16

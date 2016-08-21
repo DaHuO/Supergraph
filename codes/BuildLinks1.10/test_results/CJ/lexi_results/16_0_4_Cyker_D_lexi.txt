@@ -1,0 +1,1 @@
+def solve k c s return str k ** c - 1 * k + 1 for k in range k 		3 4

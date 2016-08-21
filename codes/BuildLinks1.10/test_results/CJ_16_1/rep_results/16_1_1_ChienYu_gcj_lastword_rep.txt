@@ -1,0 +1,1 @@
+each_case s pre = post = while 		3 13

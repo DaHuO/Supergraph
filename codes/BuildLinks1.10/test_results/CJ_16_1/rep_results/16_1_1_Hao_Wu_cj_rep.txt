@@ -1,0 +1,1 @@
+cur1 cur2 cur1 cur2 cur1 cur2 t = int f readline ct = 		3 20

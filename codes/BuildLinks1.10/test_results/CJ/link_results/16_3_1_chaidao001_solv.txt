@@ -1,0 +1,28 @@
+
+With same rare tokens:
+1 - 25 links:
+16_3_1_Earthwings_evacuation	:	9 - 10
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_heaparray_q1	:	45 - 46
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_Earthwings_evacuation	:	9 - 10
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_heaparray_q1	:	45 - 46
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_Earthwings_evacuation	:	9 - 10
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_heaparray_q1	:	45 - 46
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+

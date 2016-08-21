@@ -1,0 +1,3 @@
+def dbg * 		19 21
+def result k c s dbg k c s if c == 1 if s < k return impossible 		24 45
+blocks izip_longest iterable n 		12 16

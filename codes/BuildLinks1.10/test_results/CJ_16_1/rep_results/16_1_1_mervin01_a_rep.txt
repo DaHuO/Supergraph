@@ -1,0 +1,1 @@
+def solve_case inputs print inputs temp_string 		22 31

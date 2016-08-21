@@ -1,0 +1,1 @@
+def main file = open /home/aidan/documents/codejam161a/a-large.in outfile = open /home/aidan/documents/codejam161a/a-large.out w file readline for i line in enumerate file string = string += line 0 for c in line 1 if c >= string 0 string = c + string else string += c outfile write case #{}: {} format i + 1 string 		1 13

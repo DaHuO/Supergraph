@@ -1,0 +1,2 @@
+def description print 		5 6
+def solve x sen_list = x split  sen_list = int y for y in sen_list solution = while sum sen_list > 0 evacs = 2 max_s = max sen_list count = 0 for si in range len sen_list if sen_list si == max_s count += 1 if count % 2 == 1 evacs = 1 else evacs = 2 for si in range len sen_list if evacs == 0 break if sen_list si == max_s sen_list si -= 1 solution += alphabet si evacs -= 1 if sum sen_list > 0 solution +=  return solution 		31 66

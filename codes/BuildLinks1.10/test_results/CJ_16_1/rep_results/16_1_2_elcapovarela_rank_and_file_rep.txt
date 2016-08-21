@@ -1,0 +1,1 @@
+all_but_one_list row_or_col all_but_one_list row_or_col for in for j in if 		5 18

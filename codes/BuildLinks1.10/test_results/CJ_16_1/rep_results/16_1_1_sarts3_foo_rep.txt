@@ -1,0 +1,2 @@
+handle_input first_line = 1 		14 19
+def last_word word new_word = for 		1 11

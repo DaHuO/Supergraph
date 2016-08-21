@@ -1,0 +1,13 @@
+input_f multiprocess_imap input_f open_output_file output_f timing_message Execution timeit timing_message output_f header = True start = 1 multiprocessing 		121 141
+modules __module__ __ setattr = 		69 77
+def from_cli args = 		196 205
+def print_result case result output 		112 118
+contextmanager timeit {:.3f} = 		49 56
+dynamic variables variables lines_per_case = 1 header = True expression = isinstance lines_per_case str and lines_per_case 		88 109
+def decorator func solve_func = solve def solve input_file output_file = True multiprocessing = True 		168 210
+square 		219 222
+def solver func = None lines_per_case = 1 header = True start = 1 def decorator func solve_func = solve 		144 214
+multiprocess_imap imap iterator 		80 85
+contextmanager open_output_file if 		59 66
+desc using file. default. prog description desc INPUT --output specific --no-result -nr --no-timing -nt execution --no-write -nw --no-multi -nm _get_kwargs argparse ArgumentParser = name = format name parser add_argument input_file 		17 46
+def solve input_file 		170 188

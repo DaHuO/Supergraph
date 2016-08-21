@@ -1,0 +1,2 @@
+evac_plan inbalance inbalance inbalance |= inbalance s _ = length = sum data values while length 		3 23
+evac_plan main t = int input for i in 		26 32

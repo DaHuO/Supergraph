@@ -1,0 +1,2 @@
+def solve word answer = for key in numbers loopy = true while loopy temptry = word for letter in key 1 if letter in temptry temptry = removeword letter temptry found = true else found = false loopy = false break if found answer += str key 0 word = removeword key 1 word if len word > 0 print word answer = join sorted answer return answer 		20 50
+def removeword wordtoremove word for i in wordtoremove word = word replace i 1 return word 		12 17

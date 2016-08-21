@@ -1,0 +1,2 @@
+valid_circle circle kids length = len circle 		33 41
+test_input get_input global line_number 		24 31

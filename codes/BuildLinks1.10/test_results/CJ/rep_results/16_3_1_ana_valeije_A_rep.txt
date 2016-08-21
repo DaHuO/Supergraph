@@ -1,0 +1,6 @@
+add_senate senates_dict key party if key > 		13 22
+def writeline fout 		78 80
+trace_route escape_step remove_senate remove_senate validate_senate escape_step add_senate escape_step = 0 for i in xrange n if senates i not in senates_dict senates_dict 		36 68
+remove_senate senates_dict key party senates_dict key remove 		24 34
+trace_route solvecase case f fout n = int 		70 76
+validate_senate 1. n if n 		4 11

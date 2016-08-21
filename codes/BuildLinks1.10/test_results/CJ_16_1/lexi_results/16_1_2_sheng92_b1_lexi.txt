@@ -1,0 +1,1 @@
+def rank rows list = for i in rows for j in i if j in list list remove j else list append j return  join map str sorted list 		8 16

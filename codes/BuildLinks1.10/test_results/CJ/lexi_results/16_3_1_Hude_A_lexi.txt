@@ -1,0 +1,1 @@
+def sol_print value sol_print line_number += 1 print case #%d: %s % sol_print line_number value 		1 3

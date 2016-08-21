@@ -1,0 +1,2 @@
+def parse lines n 		3 8
+smaller actword actword actword actword actword actword actword actword word 0 		10 25

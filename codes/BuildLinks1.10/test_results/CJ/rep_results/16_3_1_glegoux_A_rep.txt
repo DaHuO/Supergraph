@@ -1,0 +1,9 @@
+nobody f n ps plan = while not 		7 20
+def check ps for 		40 44
+def has_majority 		37 38
+nobody ps 		22 26
+im im im m = 		28 35
+def main t = int 		64 70
+def print_answer n result res = if type 		54 62
+def 		51 52
+def decrement 		47 49

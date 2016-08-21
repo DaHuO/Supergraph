@@ -1,0 +1,3 @@
+def restorenum chars num numtext = numbers num for c in numtext chars c += 1 		27 31
+def canusenumber num chars chars_copy = chars copy for c in numbers num if c in chars_copy and chars_copy c > 0 chars_copy c -= 1 else return false for k in chars_copy chars k = chars_copy k return true 		6 17
+def lettersleft chars for c in chars if chars c > 0 return true break return false 		19 25

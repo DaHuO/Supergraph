@@ -1,0 +1,1 @@
+def ip word rlist = none if len word == 0 return rlist else temp = for i in rlist temp append i + word 0 temp append word 0 + i return ip word 1 temp 		2 10

@@ -1,0 +1,1 @@
+def solve_case line k c s = int 		3 10

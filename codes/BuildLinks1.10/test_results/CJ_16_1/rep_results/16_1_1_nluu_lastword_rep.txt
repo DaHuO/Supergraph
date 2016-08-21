@@ -1,0 +1,1 @@
+produce_last_word s result = for i c in 		5 16

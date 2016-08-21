@@ -1,0 +1,4 @@
+def solve table firsts seconds = map Counter zip * table reals = set maybes = set for item in table first second = item if firsts first == 1 or seconds second == 1 reals add item else maybes add item highest = 0 for fakes in powerset maybes fakes = set fakes myreals = maybes - fakes | reals if not myreals continue firsts seconds = map Counter zip * myreals for fake in fakes first second = fake if first in firsts and second in seconds continue break else highest = max highest len fakes return highest 		27 57
+def solve_1 table firsts seconds = map set zip * table return len table - max len firsts len seconds 		12 14
+def powerset iterable (1,2,3) s = list iterable return chain from_iterable combinations s r for r in range len s + 1 		19 22
+def solve_wrong table fakes = 0 firsts seconds = map Counter zip * table for item in table first second = item if firsts first > 1 and seconds second > 1 table remove item return solve table fakes = fakes + 1 return fakes 		67 75

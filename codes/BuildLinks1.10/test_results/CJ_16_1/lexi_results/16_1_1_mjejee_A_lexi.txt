@@ -1,0 +1,1 @@
+def processlastword s ls = c for c in s sn = for c in ls if sn == sn = c continue if c >= sn 0 sn = c + sn else sn = sn + c return sn 		6 17

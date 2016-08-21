@@ -1,0 +1,2 @@
+n_topics {0:0b} n_topics check_solution = set second = set = len topics max_l = 0 for 		33 56
+check_solution topics solution first second f = set s 		16 31

@@ -1,0 +1,2 @@
+tcase a b = input split length = len a a = gen a a b 0 0 b = mn = float inf for l in 		18 47
+dig1 dig1 dig1 dig1 b s1 s2 i j if i < len a if a i == ? 		1 15

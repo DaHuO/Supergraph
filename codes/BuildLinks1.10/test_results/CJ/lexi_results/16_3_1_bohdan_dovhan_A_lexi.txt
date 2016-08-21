@@ -1,0 +1,2 @@
+def solve x = step y = while x 0 > 0 y append x 1 x = step y append x 1 return  join y 		36 45
+def step m1 = 0 m2 = 0 p1 = - 1 p2 = - 1 total = 0 for i in range n total += p i x = p i if x > m1 if m1 > 0 m2 = m1 p2 = p1 m1 = x p1 = i else if x > m2 m2 = x p2 = i if total == 3 or total == 1 p p1 -= 1 return total - 1 alphabet p1 if m1 > m2 p p1 -= 2 return total - 2 alphabet p1 + alphabet p1 else p p1 -= 1 p p2 -= 1 return total - 2 alphabet p1 + alphabet p2 		4 35

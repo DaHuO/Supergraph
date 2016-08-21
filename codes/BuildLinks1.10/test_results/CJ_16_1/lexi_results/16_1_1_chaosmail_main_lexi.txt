@@ -1,0 +1,1 @@
+def solve input word = for letter in input if len word == 0 word = letter elif letter >= word 0 word = letter + word else word = word + letter return word 		4 14

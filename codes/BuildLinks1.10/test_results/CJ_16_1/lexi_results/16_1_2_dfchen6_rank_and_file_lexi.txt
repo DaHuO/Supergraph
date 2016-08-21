@@ -1,0 +1,1 @@
+def get_line mydict line = for key value in mydict iteritems if value % 2 == 1 line append key line sort last_line =  join str i for i in line return last_line 		1 8

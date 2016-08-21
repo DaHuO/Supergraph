@@ -1,0 +1,3 @@
+def to_str i if i == 0 return ZERO if i == 1 return ONE if i == 2 return TWO if i == 3 return THREE if i == 4 return FOUR if i == 5 return FIVE if i == 6 return SIX if i == 7 return SEVEN if i == 8 return EIGHT if i == 9 return NINE 		5 25
+def solve filename with open filename r as f num_tests = int f readline for i in xrange num_tests s = join sorted f readline strip assert s in lib ans = lib s print Case #%d: %s % i + 1 ans 		42 54
+def convert nums snums = for i in nums snums append to_str i s = join sorted join snums return s 		27 33

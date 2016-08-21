@@ -1,0 +1,3 @@
+def removeWord dictionary word 		9 13
+handleString originalString originalString originalString result = result += 6 * removeWord prof SIX X result += 7 * removeWord prof 		16 32
+unordered unordered abcdefghijklmnopqrstuvwxyz profileDict 		1 7

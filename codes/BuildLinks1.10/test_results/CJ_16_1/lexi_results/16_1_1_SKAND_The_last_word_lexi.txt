@@ -1,0 +1,1 @@
+def func word j = word 0 for i in range 1 len word if j 0 > word i j = j + word i else j = word i + j return j 		11 18

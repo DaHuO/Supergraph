@@ -1,0 +1,2 @@
+def findlast s finished = buildword list s finished finished sort return finished - 1 		3 7
+def buildword s current finished if not s finished append join current return news = s l = news pop 0 before = current before insert 0 l after = current after append l buildword news before finished buildword news after finished 		9 20

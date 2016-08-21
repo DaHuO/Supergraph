@@ -1,0 +1,15 @@
+Direct links:
+31 - 34 links:
+16_1_1_aklecram_solveA	:	29 - 32
+16_1_2_aklecram_solveB	:	32 - 35
+
+
+With same rare tokens:
+9 - 29 links:
+16_1_1_aklecram_solveA	:	8 - 27
+16_1_2_aklecram_solveB	:	8 - 30
+
+31 - 34 links:
+16_1_1_aklecram_solveA	:	29 - 32
+16_1_2_aklecram_solveB	:	32 - 35
+

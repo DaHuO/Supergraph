@@ -1,0 +1,1 @@
+def calc n ps if n == 2 return  join ab * ps 0 if n > 2 plan = while sum ps > 0 if sum ps == 2 plan append alphabet n - 2 + alphabet n - 1 ps = 0 for p in ps else for k in range n if ps k == max ps plan append alphabet k ps k = ps k - 1 break return  join plan 		9 25

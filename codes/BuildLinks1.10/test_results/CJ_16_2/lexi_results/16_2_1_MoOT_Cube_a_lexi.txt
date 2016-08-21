@@ -1,0 +1,1 @@
+def toto n l = defaultdict int for c in n l c += 1 return l 		9 13

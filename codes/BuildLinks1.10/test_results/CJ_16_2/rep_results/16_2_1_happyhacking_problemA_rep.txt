@@ -1,0 +1,2 @@
+def main T = int 		27 32
+def solve S d = defaultdict int for c in S d c += 1 nums = nums extend d Z * 0 nums 		3 25

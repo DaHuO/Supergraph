@@ -1,0 +1,1 @@
+def minusoff counter letters numbercount for i in letters counter i -= numbercount 		15 17

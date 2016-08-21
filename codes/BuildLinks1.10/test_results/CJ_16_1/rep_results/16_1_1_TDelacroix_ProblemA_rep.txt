@@ -1,0 +1,5 @@
+outputlist il ol il 		63 68
+<> sol11 sol22 sol11 sol22 sol11 sol22 = sol2 = k = 1 while 		40 59
+inputtolist il l_k il l_k il 		15 21
+outputlisttostring ol ol ol k 		74 78
+def solution pat n = max pat 		27 37

@@ -1,0 +1,1 @@
+def solve S phone = even = ZERO Z 0 TWO W 2 FOUR U 4 SIX X 6 EIGHT G 8 odd = ONE O 		1 23

@@ -1,2 +1,2 @@
-curr_level curr_level FINAL PRPS PRRS curr_level N R P S final curr if x > R or 		3 16
-FINAL FINAL FINAL N R P S final curr input_s = raw_input split  N 		19 36
+curr_level curr_level curr_level y z global N R P S final curr if x > R or 		3 16
+def solve global N R P S final curr input_s = raw_input split  N 		19 36

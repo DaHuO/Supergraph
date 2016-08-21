@@ -1,0 +1,10 @@
+		160 161
+allzerocheck stdic ret 		101 105
+s2dic calc st ret = stdic = st while Z in stdic and stdic Z > 0 ret += str 0 sub_s stdic 0 while X in stdic and stdic X > 0 ret 		108 141
+def main import sys infile = read sys argv 1 outfilename = 		156 170
+i2a valid stdic ret = True for i 		53 66
+s2dic st ret = 		92 99
+detect st if Z 		17 23
+num_in_s i2a num ret = True if num == 3 for c in THREE ret *= c in 		75 89
+i2a sub_s 		69 72
+detect_fromdic stdig ret = if Z in stdic tmp = stdic Z stdic Z -= tmp stdic E -= 		26 50

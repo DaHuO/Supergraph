@@ -1,0 +1,4 @@
+def sol2 s l pos if pos == l 		33 43
+def check l global gs1 gs2 s1 = sol 0 i = 1 while i < l s1 = s1 		6 31
+def solve n global sol gs1 gs2 part = n split  s1 s2 		91 107
+def sol s1 s2 mode if not s1 return if mode == 0 and s1 0 == ? and s2 0 == ? s1 s2 = sol s1 1 s2 1 0 return 0 + s1 0 + s2 if mode == 0 and s1 0 == ? and s2 0 != ? s1 s2 		45 87

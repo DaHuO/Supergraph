@@ -1,0 +1,1 @@
+def main f = open sys argv 1 t = int f readline strip for kk in xrange t line = f readline strip sp = line split p = sp 0 sp 1 for l in range len sp 0 try for j in range 2 if l 		3 61

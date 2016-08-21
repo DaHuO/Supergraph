@@ -1,0 +1,2 @@
+def main t = int raw_input for i in range 1 t + 1 currstring = raw_input print case #{}: {} format i getlastword currstring 		17 21
+def getlastword s toreturn = for c in s if not toreturn toreturn = c elif c >= toreturn 0 toreturn = c + toreturn else toreturn = toreturn + c return toreturn 		4 15

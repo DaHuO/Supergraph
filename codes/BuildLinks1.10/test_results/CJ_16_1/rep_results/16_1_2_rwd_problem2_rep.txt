@@ -1,0 +1,2 @@
+def main result = t = int input for i in range 		13 25
+def solution lista dic = result = for 		1 12

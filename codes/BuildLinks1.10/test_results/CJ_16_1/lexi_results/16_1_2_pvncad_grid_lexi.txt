@@ -1,0 +1,1 @@
+def get_ans grid n idx rows cols count = dict for r in grid for c in r count c = count get c 0 + 1 ans = for k v in count iteritems if v % 2 == 1 ans append k return sorted ans 		3 15

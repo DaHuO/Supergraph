@@ -1,0 +1,2 @@
+def solve lines idx chars = c for 		4 14
+def main fn = sys argv 1 with open fn 		16 26

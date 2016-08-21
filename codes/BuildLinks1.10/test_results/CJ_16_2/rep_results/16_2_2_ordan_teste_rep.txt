@@ -1,0 +1,1 @@
+def equal a b if len 		7 12

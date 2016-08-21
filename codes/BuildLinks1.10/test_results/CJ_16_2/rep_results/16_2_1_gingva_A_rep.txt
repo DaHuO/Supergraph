@@ -1,0 +1,6 @@
+parseScalar \r\n 		1 2
+triv triv mapD triv recSearch Counter seq res = = Z ZERO W TWO X SIX G EIGHT 		62 84
+fn1 fn2 fn1 fn2 parseScalar parseScalar with open w as g 		7 16
+def issubset c1 c2 if not 		18 24
+parseTuple \r\n c 		3 4
+recSearch partSol searchNei2 searchNei2 searchNei2 adding partSol mapD recSearch searchNei2 partSol mapD w c in searchNei if issubset c 		27 54

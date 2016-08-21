@@ -1,0 +1,5 @@
+def exist tmp 		10 15
+def run test = testcase result = for t 		45 56
+myN myN test result = for 		17 25
+def get_result test test = sorted 		28 35
+def testcase test = 		37 43

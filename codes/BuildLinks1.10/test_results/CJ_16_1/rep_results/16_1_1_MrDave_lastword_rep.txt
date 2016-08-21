@@ -1,0 +1,4 @@
+csv read_file filename f = open filename csv_r 		9 18
+def process w if len w == 		21 28
+def main filename test_lst = 		36 40
+def solve_test 		31 33

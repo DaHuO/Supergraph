@@ -1,0 +1,2 @@
+def last s chars = 		5 18
+oracle 		20 22

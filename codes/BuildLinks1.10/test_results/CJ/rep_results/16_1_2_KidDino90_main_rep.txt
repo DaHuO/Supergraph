@@ -1,0 +1,3 @@
+printoutput output outputfile = open 		93 97
+listline 		6 8
+stage1 listline casepointer casepointer listline listline casepointer lengthp casepointer listline listline lengthp casepointer lengthp lengthp listline casepointer lengthp templist templist3 casepointer casepointer lengthp templist listline templist templist templist templist templist templist templist templist3 templist templist3 templist3 templist3 templist3 templist3 templist3 casepointer casepointer 		15 82

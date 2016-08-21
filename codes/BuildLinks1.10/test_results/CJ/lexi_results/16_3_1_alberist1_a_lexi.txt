@@ -1,0 +1,1 @@
+def solve n = int input p = int x chr ord a + i for i x in enumerate input split s = sum x 0 for x in p res = while s x = max p x 0 -= 1 s -= 1 if s % 2 == 0 res append x 1 continue x2 = max p x2 0 -= 1 s -= 1 res append x 1 + x2 1 return  join res 		5 21

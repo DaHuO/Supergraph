@@ -1,0 +1,1 @@
+numpy reshape numpy numpy s if s * c < k return 		4 17

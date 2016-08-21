@@ -1,0 +1,1 @@
+def compute c j idx turn poss diff = 0 if idx >= len c vc = int join c vj = 		5 27

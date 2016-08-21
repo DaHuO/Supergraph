@@ -1,0 +1,2 @@
+def reverse_stack string index if index == 0 return string return string 0 index - 1 replace - * replace + - replace * + + string index len string 		2 5
+def find_solution string new_string = for char in string if new_string == or new_string 0 <= char new_string = char + new_string else new_string = new_string + char return new_string 		8 16

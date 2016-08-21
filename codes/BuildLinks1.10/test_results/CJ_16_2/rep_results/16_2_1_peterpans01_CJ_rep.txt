@@ -1,0 +1,4 @@
+dic1 		25 26
+build_dic c = 		15 21
+def build dic = for 		6 13
+input_ input_ dic1 dic2 Counter res = l = c keys l = sorted l key = t for 		28 56

@@ -1,0 +1,1 @@
+def fractalart k c s inp if s == k print case #%d: % inp + 1 for i in xrange 1 s + 1 print i print elif 2 * s <= k print case #%d: % inp + 1 impossible else print case #%d: % inp + 1 for i in xrange 2 2 + s print i 		2 16

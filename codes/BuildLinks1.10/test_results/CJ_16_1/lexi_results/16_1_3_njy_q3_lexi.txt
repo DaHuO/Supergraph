@@ -1,0 +1,3 @@
+def dfs2 idx a root if idx == root return 1 else return 1 + dfs2 a idx a root 		19 23
+def dfs1 idx a vis scan_idx if vis idx != false if vis idx == scan_idx return idx else return - 1 else vis idx = scan_idx return dfs1 a idx a vis scan_idx 		9 17
+def dfs3 idx a1 if len a1 idx == 0 return 1 else return 1 + max dfs3 nei a1 for nei in a1 idx 		25 29

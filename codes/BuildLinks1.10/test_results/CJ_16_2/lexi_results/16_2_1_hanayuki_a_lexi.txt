@@ -1,0 +1,2 @@
+def searchNum str c = str 0 ret = for n in chr2num c new_str = removeChrs str n if new_str == - 1 continue if len new_str == 0 return n se_ret = searchNum new_str if len se_ret > 0 return se_ret + n return ret 		27 42
+def removeChrs str num str = list str for c in NUM_STRS num if c not in str return - 1 str remove c return str 		19 25

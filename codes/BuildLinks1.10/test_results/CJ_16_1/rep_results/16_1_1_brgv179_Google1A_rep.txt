@@ -1,0 +1,1 @@
+checkislastword word test mystring = word 0 for 		2 9

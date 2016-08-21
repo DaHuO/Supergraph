@@ -1,0 +1,1 @@
+case_result priorityqueue n = int f readline p = list map int f readline split ans = s = sum 		8 34

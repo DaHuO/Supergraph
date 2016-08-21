@@ -1,0 +1,1 @@
+def get_output s l = first = 		5 19

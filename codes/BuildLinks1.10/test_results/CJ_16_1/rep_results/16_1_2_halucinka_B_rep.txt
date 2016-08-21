@@ -1,0 +1,3 @@
+getkey 		6 7
+rob stlpce stlpce getkey videne_stlpce ok_stlpec stlpce videne_stlpce ok_stlpec ok_stlpec chybajuci_stlpec videne_stlpce chybajuci_stlpec odpoved odpoved chybajuci_stlpec odpoved s i == 1 riadky append a i else append a i riadky = sorted riadky key = 		9 48
+doplnnuly s 		3 4

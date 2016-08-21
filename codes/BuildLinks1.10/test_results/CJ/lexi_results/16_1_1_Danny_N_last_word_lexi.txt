@@ -1,0 +1,1 @@
+def last_word word w = word 0 for l in word 1 if l < w 0 w = w + l else w = l + w return w 		1 8

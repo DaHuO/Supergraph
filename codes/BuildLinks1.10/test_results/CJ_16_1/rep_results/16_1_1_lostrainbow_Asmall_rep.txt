@@ -1,0 +1,1 @@
+def sol if ori = if readline if ori - 		9 19

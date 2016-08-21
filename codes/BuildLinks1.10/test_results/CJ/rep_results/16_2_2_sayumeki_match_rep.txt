@@ -1,0 +1,5 @@
+formatcaseinput caseinput caseinput 		45 49
+docase generateallmatchingscores minscores scorepair scorepair scorepair scorepair scorepair minscores scorepair minscores minscores minscores scorepair win = none for in 		82 104
+generateallmatchingscores totalscore vscores questionmarks maxvalue questionmarks questionvalue questionvalue maxvalue qstring questionvalue questionmarks newt totalscore qstring newt 		55 80
+getcaseoutput 		51 53
+runsolution caseinput linesincase linesincase caseinput formatcaseinput caseinput getcaseoutput r readlines ln = 0 cases = int 		20 42

@@ -1,0 +1,1 @@
+def solve s l = for i d in e st = s f = True while f for c in d if c in st st = st replace c 1 else f = False break if f == True s = st l += str i return join sorted l 		6 22

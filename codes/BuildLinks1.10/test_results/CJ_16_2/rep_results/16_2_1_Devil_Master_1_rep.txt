@@ -1,0 +1,1 @@
+def digit s s = list s num = while s if Z in s temp = s count Z for i in xrange temp s pop s index Z s pop s index E s pop s index R s pop s index O num append 0 if W in s temp = s count W for i in xrange temp s pop s index T s pop s index W s pop s index O num 		1 88

@@ -1,0 +1,1 @@
+def printout_order x string = for i in range 1 x + 1 string += %s % str i return string 		12 16

@@ -1,0 +1,2 @@
+def reverse_enum l for index in reversed xrange len l yield index l index 		8 10
+def get_last_word word s = set s add word word_len = len word if word_len <= 1 return word max_char = max word for i char in reverse_enum word if char == max_char left = word i right = word i + 1 last_left = get_last_word left last_right = right return char + last_left + last_right assert false return sorted s reverse = true 0 		12 32

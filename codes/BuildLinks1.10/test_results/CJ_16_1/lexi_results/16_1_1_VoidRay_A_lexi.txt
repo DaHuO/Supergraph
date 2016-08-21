@@ -1,0 +1,1 @@
+def last s lastword = s 0 for i in xrange 1 len s first = s i if s i >= lastword 0 lastword = s i + lastword else lastword = lastword + s i return lastword 		3 17

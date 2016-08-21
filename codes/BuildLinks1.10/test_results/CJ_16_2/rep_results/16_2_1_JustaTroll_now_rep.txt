@@ -1,0 +1,1 @@
+fufu n c = 0 0 0 0 0 0 0 0 0 0 di = n = list n n sort for i in n if i in di keys di i = di i + 1 else di i = 1 if Z in di keys if di Z != 0 t = di Z di Z = di Z - t di E = di E - t di R = di R - t di O = di O - t c 0 = t if X in di keys if di X != 0 t = di 		9 102

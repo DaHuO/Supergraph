@@ -1,0 +1,2 @@
+def solve vals letters if len letters == 0 if all v == 0 for v in vals values 		7 30
+readinput val result 		32 36

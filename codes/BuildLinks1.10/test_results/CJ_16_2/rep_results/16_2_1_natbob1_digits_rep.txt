@@ -1,0 +1,2 @@
+remove_word_from_letters Subtracting 		34 36
+pasn pas passes pasn pas lookup pas remove_word_from_letters pas pasn while len letters 		38 61

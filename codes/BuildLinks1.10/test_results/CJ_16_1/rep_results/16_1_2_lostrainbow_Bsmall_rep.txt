@@ -1,0 +1,2 @@
+bisect bisect_left bisect bisect_left len known == 1 return known 0 min = 2500 max = 1 small = large = for i in range len known if known i 0 <= min min = known 		9 49
+def sol if n = int if readline known 		53 61

@@ -1,0 +1,4 @@
+def findnumbers s d sf if len s > 0 and d < 10 for digit in range d 10 tmps = s while canfind digit tmps rems = ren tmps digit r = findnumbers rems digit sf + digit if len r > 0 return r return tuple elif len s == 0 return sf else return tuple 		15 28
+def canfind digit s for letter in numbers digit if letter not in s return false else s remove letter return true 		2 8
+def ren s digit for letter in numbers digit s remove letter return s 		10 13
+def sol s return join map str findnumbers list s 0 tuple 		31 32

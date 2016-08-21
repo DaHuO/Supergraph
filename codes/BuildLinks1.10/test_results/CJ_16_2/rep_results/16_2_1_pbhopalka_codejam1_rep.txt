@@ -1,0 +1,2 @@
+operate main T = int input for i 		68 77
+operate ls lst = while ls if Z in ls ls remove Z ls remove E ls remove R ls remove O lst append 0 elif W in ls ls remove T ls remove W ls remove O lst 		3 66

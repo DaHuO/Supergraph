@@ -1,0 +1,1 @@
+casearray casearray case = case split k 		1 7

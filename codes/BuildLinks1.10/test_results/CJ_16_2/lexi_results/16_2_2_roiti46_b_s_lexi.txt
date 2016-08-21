@@ -1,0 +1,2 @@
+def ok a b for i in xrange len a if a - i - 1 == ? continue if a - i - 1 != b - i - 1 return False return True 		10 16
+def convert a n a = str a for i in xrange n - len a a = 0 + a return a 		4 8

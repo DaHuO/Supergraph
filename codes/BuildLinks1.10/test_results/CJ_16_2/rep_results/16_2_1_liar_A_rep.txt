@@ -1,0 +1,4 @@
+DIGIT_NAMES solve s counter = Counter s ans = def guess digit letter digits_count 		17 37
+def parse_problems import fileinput 		39 45
+basicConfig INFO %(message)s Starting... Solved #%d Finished %.2f format = t0 		47 58
+DIGIT_NAMES guess digit letter 		20 24

@@ -1,0 +1,1 @@
+def get_number text if len text == 0 return for k num in enumerate numbers text_tmp = text ok = 1 for c in num if c in text_tmp text_tmp remove c else ok = 0 break if ok == 1 nn = get_number text_tmp if nn != 0 return k + nn return 0 		32 50

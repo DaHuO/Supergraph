@@ -1,0 +1,1 @@
+def dfs p q res = 10 ** 30 p q if ? in 		6 20

@@ -1,0 +1,2 @@
+def gen for i in range n solns i + 1 = for a in solns i for b in solns i if solns i a < solns i b solns i + 1 a 0 + b 0 a 1 + b 1 a 2 + b 2 = solns i a + solns i b 		10 16
+def main gen for i in range int input n r p s = map int input split print case #{}: {} format 		19 23

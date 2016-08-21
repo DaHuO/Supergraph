@@ -1,0 +1,1 @@
+getPhone phoneStr phoneStr list upper numbers = lstD = list ZERO while Z in phoneLst numbers append 0 for i in lstD phoneLst remove i lstD = list TWO while W in phoneLst numbers append 2 for i in 		6 70

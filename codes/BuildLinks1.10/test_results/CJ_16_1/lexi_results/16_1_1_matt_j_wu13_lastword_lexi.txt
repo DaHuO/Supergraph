@@ -1,0 +1,1 @@
+def solve string s = for letter in string if s == or letter >= s 0 s = letter + s else s = s + letter return s 		3 10

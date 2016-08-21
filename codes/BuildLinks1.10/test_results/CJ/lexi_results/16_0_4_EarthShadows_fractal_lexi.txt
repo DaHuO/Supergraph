@@ -1,0 +1,2 @@
+def do_print case positions out write case #{0}: format case for i in positions out write {0} format i out write \n 		3 7
+def calc_position k c positions if len positions != c print warning for _ in range c - len positions positions append 0 x = list reversed range c ret = 1 for i in range c ret = ret + k ** x i * positions i return ret 		9 20

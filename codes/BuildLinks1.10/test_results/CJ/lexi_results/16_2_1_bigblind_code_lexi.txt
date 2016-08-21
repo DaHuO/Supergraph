@@ -1,0 +1,4 @@
+def get_result original_word for wdigit digit in digits word = list original_word if not all letter in word for letter in wdigit continue for letter in wdigit word remove letter if len word == 0 result = else result = get_result word if result != - 1 return digit + result return - 1 		48 61
+def debug message if len sys argv > 1 and sys argv 1 == silent return sys stdout = sys __stdout__ print message sys stdout = out 		16 21
+def print_case case result debug case #%d: %s % case str result print case #%d: %s % case str result 		12 14
+def remove_uniques a result = for unique_letter word digit in unique_digits while unique_letter in a for letter in word a remove letter result append digit return result 		38 45

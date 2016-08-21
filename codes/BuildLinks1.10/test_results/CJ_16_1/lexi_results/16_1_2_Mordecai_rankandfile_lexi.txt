@@ -1,0 +1,3 @@
+def main cases = int raw_input for case in range 1 cases + 1 n = int raw_input data = for i in range 2 * n - 1 data append map int raw_input split print case #%i: % case  join map str rankandfile data 		23 30
+def rankandfile data symmetry = true rows = n = len data 0 for x in range n shortest = min el x for el in data candidates = for i in range len data - 1 - 1 - 1 if data i x == shortest candidates append data pop i if len candidates == 1 rows append candidates 0 wincol = x else rows append zip * candidates return f a x for a x in zip rows wincol zip * rows wincol 		7 21
+def f a x if type x == int return x else return q a x 		3 5

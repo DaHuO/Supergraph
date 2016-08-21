@@ -1,0 +1,1 @@
+def solve num todos = for l in xrange 0 2 * num - 1 linea = int w for w in sys stdin readline split for l in linea todos append l todos = sorted todos counter = collections counter todos answer = for i in xrange len counter values if counter values i % 2 == 1 answer append counter keys i answerstr = str x for x in sorted answer return answerstr 		4 25

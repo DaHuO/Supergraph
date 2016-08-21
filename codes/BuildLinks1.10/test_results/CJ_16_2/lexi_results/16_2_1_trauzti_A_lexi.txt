@@ -1,0 +1,3 @@
+def decNumber d i global words wd for c in words i d c -= 1 assert d c >= 0 		19 23
+def hasNumber d i global words wd w = words i for c in w if d c < wd i c return False return True 		11 17
+def solve d phone if sum d values == 0 return True phone for i in xrange 10 if hasNumber d i dt = defaultdict int for x y in d items dt x += y decNumber dt i b newPhone = solve dt phone + str i if b return True newPhone return False 		29 42

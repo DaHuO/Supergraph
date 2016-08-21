@@ -1,0 +1,12 @@
+def list_input size = none text = raw_input str_values = text split  if size is not none assert len str_values == size return str_values 		18 23
+def print_case idx fmt * args prefix = case #{}: format idx + 1 if len args print prefix fmt % args else print prefix fmt 		35 40
+def __setitem__ self coord item r c = coord index = r * self size 1 + c self data index = item 		52 55
+def float_input text = raw_input return int text 		14 16
+def debug self debug plain {}x{} format self size 0 self size 1 for r in xrange 0 self size 0 row = self r c for c in xrange 0 self size 1 debug row 		57 61
+def floatlist_input size = none return map float list_input size 		28 29
+def __getitem__ self coord r c = coord index = r * self size 1 + c return self data index 		47 50
+def int_input text = raw_input return int text 		10 12
+def intlist_input size = none return map int list_input size 		25 26
+def __init__ self size init = none self size = size self data = init * self size 0 * self size 1 		43 45
+def loop count func for x in xrange 0 count func x 		31 33
+def debug * args if debug print  join map str args 		6 8

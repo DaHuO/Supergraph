@@ -1,0 +1,6 @@
+def readint return int input 		4 4
+def readfloat return float input 		5 5
+def better_left ans l return ans 0 <= l 		13 14
+def readarray n foo res = for _ in xrange n res append foo return res 		6 10
+def solve s ans = for l in s if ans == ans += l else ans = l + ans if better_left ans l else ans + l return ans 		16 23
+def readlinearray foo return map foo input split 		11 11

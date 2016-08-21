@@ -1,0 +1,2 @@
+def main ntest = int 		23 35
+def lastword s if len s == 		7 15

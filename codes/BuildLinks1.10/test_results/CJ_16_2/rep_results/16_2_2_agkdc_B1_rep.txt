@@ -1,0 +1,1 @@
+def close_match c j if len filter lambda x x == ? c == 0 and len filter lambda x x == ? j == 0 return c j abs int join c - int join j else possible = 		9 32

@@ -1,0 +1,2 @@
+top_two_diff top_two_diff top_two_diff sen_dict = alphabet i x for i x in enumerate senators sen_list = sorted sen_dict iteritems key = lambda k v - v 		15 43
+please provide [outputfile] failed failed cases: writing testcasenumber testcasenumber written file print usage: %s inputfile % sys argv 0 return timestart = datetime datetime now try inputfile = open sys argv 1 except print to read 		45 143

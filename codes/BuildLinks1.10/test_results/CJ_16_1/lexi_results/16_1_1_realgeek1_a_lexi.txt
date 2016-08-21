@@ -1,0 +1,2 @@
+def f i s print case # + str i + : + solve s 		15 16
+def solve s t = for c in s if len t == 0 t append c continue if c >= t 0 t = c + t else t append c return join t 		3 13

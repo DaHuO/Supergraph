@@ -1,0 +1,2 @@
+forbidden sens m = 		3 8
+forbidden forbidden i sys stdin readline sens = map int sys stdin readline split while max 		10 23

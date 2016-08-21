@@ -1,0 +1,2 @@
+def main for _ in range int input 		11 15
+def count n points count_dict = for p in 		1 9

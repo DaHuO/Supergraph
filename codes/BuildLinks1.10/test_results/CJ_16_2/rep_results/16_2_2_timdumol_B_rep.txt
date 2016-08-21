@@ -1,0 +1,1 @@
+def recurse i a b if i == n return a b if a_str i == ? and b_str i == ? if a < b a = 10 * a + 9 b = 10 * b + 0 return recurse i + 1 a b elif a == b a = 10 * a b = 10 * b x y = recurse i + 1 a b x2 y2 = recurse i + 1 a b + 1 if abs x - y > abs x2 - y2 x y = x2 		9 93

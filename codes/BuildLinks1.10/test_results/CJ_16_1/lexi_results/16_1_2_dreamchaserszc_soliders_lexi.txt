@@ -1,0 +1,3 @@
+def findmissing self table = defaultdict lambda 0 for l in self numlist for x in l table int x = table int x ^ 1 missinglist = keys = table keys keys sort for x in keys if table x == 1 missinglist append x return missinglist 		6 17
+def solve t return  join str item for item in t missinglist 		24 26
+def __init__ self numlist self numlist = numlist self missinglist = self findmissing print self missinglist 		19 22

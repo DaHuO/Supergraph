@@ -1,0 +1,1 @@
+check_nb number i if i == 0 if Z in number number remove Z number remove E number remove R number remove O return number 0 else return False 0 if i == 1 if X in number number remove S number remove I number remove X return number 6 else return False 0 		3 93

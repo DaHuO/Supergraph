@@ -1,0 +1,9 @@
+minus1 n 		16 17
+def 		5 6
+memoize def 		24 27
+scorer plus1 minus1 scorer plus1 minus1 scorer return b a = f C 1 J 1 if C 0 == ? and J 0 == ? v1 = 0 + J 1 replace ? 9 1 + C 1 replace ? 0 v2 = 		28 61
+__missing__ self 		9 11
+plus1 n 		14 15
+class memodict __missing__ memodict def __init__ self 		2 12
+		18 19
+def 		7 8

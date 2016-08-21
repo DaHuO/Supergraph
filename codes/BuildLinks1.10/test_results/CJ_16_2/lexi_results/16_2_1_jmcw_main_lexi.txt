@@ -1,0 +1,3 @@
+def let_count s r = for l in s if l in r r l += 1 else r l = 1 return r 		6 11
+def sub_let lc d for c in ns d if lc c > 1 lc c -= 1 else del lc c return lc d 		13 17
+def find_num lc if Z in lc return sub_let lc 0 if W in lc return sub_let lc 2 if U in lc return sub_let lc 4 if X in lc return sub_let lc 6 if G in lc return sub_let lc 8 if R in lc return sub_let lc 3 if O in lc return sub_let lc 1 if F in lc return sub_let lc 5 if V in lc return sub_let lc 7 return sub_let lc 9 		19 29

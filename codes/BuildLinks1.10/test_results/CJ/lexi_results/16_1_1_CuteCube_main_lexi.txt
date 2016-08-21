@@ -1,0 +1,1 @@
+def main f = open input.txt r total_t = int f readline alphabeta = abcdefghijklmnopqrstuvwxyz d = alphabeta i i for i in xrange 26 for t in xrange 1 total_t + 1 s = f readline rstrip \n new_s = s 0 for s in s 1 if d s >= d new_s 0 new_s insert 0 s else new_s append s print case #{}: {} format t join new_s 		3 22

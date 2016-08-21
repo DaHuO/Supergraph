@@ -1,0 +1,17 @@
+defdict 		112 113
+def decr d w 		37 41
+__iter__ 		87 88
+defdict build s 		52 56
+mapadd xs 		116 117
+_read __init__ 		79 80
+rwh_primes2 ksq ksq ksqd3 ksq ksqd3 ksqd3 zip_longest compress // 3 + n % 6 == 2 sieve = zero + bytearray 1 * size - 1 top 		136 160
+bsearch bisect bisect_left i 		101 109
+strjoin glue 		163 164
+def 		120 121
+def 		132 133
+hehe defdict = 		44 49
+InputReader readcase inp = 		91 94
+def readints f expected = None sep = 		124 129
+_read self reader inp t 		82 85
+ary LEVELS ary ary strjoin build s = 		59 68
+readcase 		23 24

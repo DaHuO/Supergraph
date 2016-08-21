@@ -1,0 +1,1 @@
+def remove s c i = s index c return s i + s i + 1 		1 3

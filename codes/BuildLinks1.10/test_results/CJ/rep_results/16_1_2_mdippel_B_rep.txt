@@ -1,0 +1,6 @@
+def 		22 25
+algorithm abs_min abs_min abs_max lasts abs_max lasts lasts lasts min lists firsts = filter lambda l l 0 == lists = max map max lists = filter lambda l 		68 92
+basic_test 29 		100 102
+runalgorithm processinput algorithm for test_case in results 		117 125
+def brute_force types n rows cols lists if len lists == 0 missing = none none for i in range n if rows i == none missing = r i continue for j 		29 64
+processinput curr_list curr_list curr_list raw_input for i in 		8 19

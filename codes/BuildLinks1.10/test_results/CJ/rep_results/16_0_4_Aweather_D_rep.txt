@@ -1,0 +1,2 @@
+gold_lead compute_index compute_index s if k / c > s return impossible else ret 		12 26
+compute_index li b 		29 34

@@ -1,0 +1,10 @@
+def calc_min s x = 		18 23
+nextm ori likeb likeb likeb ori = - 1 ranger = range len s ranger reverse for i in ranger if s i == 		61 83
+def 		5 6
+nexts s num o os x = 0 ranger = range 		50 59
+calc_max s x = 0 for i 		28 35
+def exp 		25 26
+def 		37 38
+def equal a b ans = for i in range len 		106 117
+nextb ori ori o os index = - 1 ranger = range len s ranger reverse for 		85 104
+nexte s num x = 0 ranger = range 		40 48

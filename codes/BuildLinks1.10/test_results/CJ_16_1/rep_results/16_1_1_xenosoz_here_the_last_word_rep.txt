@@ -1,0 +1,1 @@
+def solve s word = 		11 17

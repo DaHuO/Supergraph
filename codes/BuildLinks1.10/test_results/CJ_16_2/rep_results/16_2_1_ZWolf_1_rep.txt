@@ -1,0 +1,2 @@
+def digit string s = while string != if Z in string s append 0 string = minus string ZERO elif W in string s append 2 		22 61
+def minus string stmp 		16 20

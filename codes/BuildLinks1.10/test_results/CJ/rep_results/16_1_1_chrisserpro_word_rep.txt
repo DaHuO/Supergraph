@@ -1,0 +1,2 @@
+find_last tot 		12 15
+prevstr prevstr nowstr1 prevstr nowstr2 prevstr 		5 10

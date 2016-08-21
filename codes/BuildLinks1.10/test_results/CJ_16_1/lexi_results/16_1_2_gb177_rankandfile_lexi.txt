@@ -1,0 +1,3 @@
+def nil return map int sys stdin readline split 		8 8
+def ni return tuple map int sys stdin readline split 		7 7
+def ns return tuple sys stdin readline split 		9 9

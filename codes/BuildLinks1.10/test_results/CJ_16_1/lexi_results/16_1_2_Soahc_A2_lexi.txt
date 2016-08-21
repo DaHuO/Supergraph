@@ -1,0 +1,1 @@
+def solve n li d = for l in li for i in l d i = 0 for l in li for i in l d i += 1 out = for num in d if d num % 2 == 1 out append num if len out != n print error return  join str x for x in sorted out 		2 16

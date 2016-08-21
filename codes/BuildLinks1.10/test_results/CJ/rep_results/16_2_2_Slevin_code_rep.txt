@@ -1,0 +1,2 @@
+get_order ch1 ch2 		3 8
+_s1 _s1 _s1 _s1 chs1 chs1 chs2 chs2 chs1 chs2 subsol get_order subsol subsol join _s2 return abs int str1 - int str2 str1 str2 s1 s2 = _s2 if order < 		10 42

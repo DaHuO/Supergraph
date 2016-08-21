@@ -1,0 +1,1 @@
+encoding ascii a_file _output encoding ascii a_file a_file = as open sys argv 1 + w = as out_file test_cases 		4 23

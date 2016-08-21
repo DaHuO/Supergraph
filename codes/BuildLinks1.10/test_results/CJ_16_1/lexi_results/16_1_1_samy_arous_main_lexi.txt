@@ -1,0 +1,2 @@
+def read_input s = raw_input strip return s 		10 12
+def solve s last_word = for c in s p1 = last_word + c p2 = c + last_word last_word = max p1 p2 return last_word 		1 7

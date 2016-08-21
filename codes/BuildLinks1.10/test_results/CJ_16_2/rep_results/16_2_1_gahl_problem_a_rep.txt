@@ -1,0 +1,6 @@
+remove_from_dict d num mult = 1 check = 		16 30
+preproc remove_from_dict recurse_solv d = for a in xrange 10 d a = 0 ds 		47 65
+recurse_solv remove_from_dict recurse_solv add_to_dict total == 0 		36 45
+def main num_tests = 		67 71
+add_to_dict d num 		32 34
+preproc s d = for 		6 14

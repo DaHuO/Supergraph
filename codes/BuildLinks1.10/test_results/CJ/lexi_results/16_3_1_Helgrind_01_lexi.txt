@@ -1,0 +1,1 @@
+def solve n a ret = m = sum a while m > 0 m = max a majority = 1 + m // 2 if m >= majority print error m m majority i = i for i j in enumerate a if j == m take = 1 if m == 3 else 2 for i in i take a i -= 1 ret append join chr x + ord a for x in i take m = sum a return ret 		4 22

@@ -1,0 +1,1 @@
+def solver word s = for i a in enumerate word if i == 0 s = a else if ord a >= ord s 0 s = a + s else s = s + a return s 		5 16

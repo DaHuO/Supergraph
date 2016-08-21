@@ -1,0 +1,1 @@
+def fun nums dic = for n in nums 		5 17

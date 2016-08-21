@@ -1,0 +1,5 @@
+resolve_common_prefix C J prefix = for i in range len C 		6 19
+bruteforce sample choice_size 99999999999999999999999999999999999999999999999 sample choice_size = Counter C + Counter J = counts get ? 0 result_C = None result_J = None min_diff = for choice in 		32 62
+bruteforce solve T 		65 68
+to_suffix seq replacement result 		22 29
+n_cases n_cases = int sys 		71 75

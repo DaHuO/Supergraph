@@ -1,0 +1,30 @@
+
+With same rare tokens:
+9 - 10 links:
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_heaparray_q1	:	45 - 46
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+
+12 - 29 links:
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_heaparray_q1	:	45 - 46
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_heaparray_q1	:	45 - 46
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+16_3_1_heaparray_q1	:	24 - 43
+

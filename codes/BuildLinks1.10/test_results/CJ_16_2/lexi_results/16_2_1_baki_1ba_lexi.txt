@@ -1,0 +1,1 @@
+def test s if len s == 0 return chars = set s for digit in digits keys rep = digits digit contains_digit = True for rep_char in set rep if rep count rep_char > s count rep_char contains_digit = False if not contains_digit continue for rep_char in rep s = s replace rep_char 1 rest = test s if rest == - 1 s += rep else return digit + rest return - 1 		4 29

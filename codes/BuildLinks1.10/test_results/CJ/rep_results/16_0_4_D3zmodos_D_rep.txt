@@ -1,0 +1,1 @@
+caseindex inputvalues patternlength inputvalues inputvalues cleansavailable inputvalues cleansavailable patternlength caseindex cleanstr cleansavailable 		1 13

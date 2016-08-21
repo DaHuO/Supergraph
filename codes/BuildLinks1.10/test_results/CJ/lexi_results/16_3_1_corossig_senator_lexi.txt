@@ -1,0 +1,2 @@
+def count dist c = 0 for i in dist if i != 0 c += 1 return c 		7 12
+def find_max dist only_non_zero = false m_j = 0 m_i = - 1 for i j in enumerate dist if j > m_j m_j = j m_i = i if only_non_zero and m_j == 1 return dist m_i -= 1 return chr ord a + m_i 		14 24

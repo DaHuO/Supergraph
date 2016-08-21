@@ -1,0 +1,6 @@
+def mp global file1 return map int file1 readline split 		4 6
+def lt global file1 return list map int file1 readline split 		13 15
+def it global file1 return int file1 readline 		10 12
+def ip global file1 return file1 readline 		7 9
+def pt x global file file write x 		16 18
+def ptlist l global file file write  join map str l 		19 21

@@ -1,0 +1,2 @@
+def _solve inp if inp == return mx = max inp first = inp index mx last = len inp - 1 - inp - 1 index mx mxs = rest = for l in inp first last + 1 if l == mx mxs += l else rest += l return mxs + _solve inp first + rest + inp last + 1 		13 26
+def solve * args ** kwargs res = _solve * args ** kwargs return res 		28 30

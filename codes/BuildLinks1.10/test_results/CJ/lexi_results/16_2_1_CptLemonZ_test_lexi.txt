@@ -1,0 +1,2 @@
+def works digits s attempt if len s == 0 return attempt for d in digits tmp = copy s for i in range len d if d i in tmp tmp remove d i if len tmp + len d == len s s = tmp attempt append d return works digits s attempt p = attempt pop - 1 for l in p s append l return works digits digits index p + 1 s attempt 		10 25
+def convert digits dlst ans = for i in dlst ans += str digits index i return ans 		28 32

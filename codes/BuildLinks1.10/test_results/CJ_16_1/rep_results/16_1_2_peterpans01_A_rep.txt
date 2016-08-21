@@ -1,0 +1,1 @@
+solveb data size c = for i in xrange 		21 33

@@ -1,0 +1,4 @@
+findnumbers canFind remS ren findnumbers remS S > 0 and d 		15 28
+canFind digit S for 		2 8
+ren S 		10 13
+findnumbers sol 		31 32

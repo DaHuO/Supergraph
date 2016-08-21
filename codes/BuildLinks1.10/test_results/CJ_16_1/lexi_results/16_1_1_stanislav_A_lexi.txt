@@ -1,0 +1,1 @@
+def run t s = raw_input post = pre = for c in s if len pre == 0 pre append c elif c >= pre - 1 pre append c else post append c pre reverse print case #{}: {} format t join pre + post 		3 15

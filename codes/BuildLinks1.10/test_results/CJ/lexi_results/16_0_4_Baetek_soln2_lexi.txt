@@ -1,0 +1,2 @@
+def filehandler inname returnstring = f = open inname r i = 1 init = true for line in f if init == true init = false continue returnstring += case # + str i + : + main int line split 0 int line split 1 int line split 2 + \n i += 1 f close w = open results.txt w w write returnstring w close 		17 31
+def main k c s l = for x in xrange 2 k + 1 l += str x if k == s l = for x in xrange 1 k + 1 l += str x if k - 1 > s returnstring = impossible elif k == 2 and s == 1 returnstring = impossible else returnstring =  join str i for i in l return returnstring 		1 15

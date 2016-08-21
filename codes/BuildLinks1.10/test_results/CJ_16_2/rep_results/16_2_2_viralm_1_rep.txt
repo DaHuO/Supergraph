@@ -1,0 +1,1 @@
+isoftype s val global n1 		1 7

@@ -1,0 +1,1 @@
+ret_string ret_string n a count = for i in range 0 n * 2 - 		12 32

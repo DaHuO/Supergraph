@@ -1,0 +1,14 @@
+Direct links:
+24 - 25 links:
+16_1_1_Junya_A	:	1 - 2
+16_1_2_NoxWings_problem2	:	24 - 25
+
+20 - 21 links:
+16_1_2_NoxWings_problem2	:	20 - 21
+
+
+With same rare tokens:
+20 - 21 links:
+16_1_2_NoxWings_problem2	:	59 - 64
+16_1_2_NoxWings_problem2	:	20 - 21
+

@@ -1,0 +1,1 @@
+main_code MultiGraph Graph = int input gg = nx for _ in range N 		3 13

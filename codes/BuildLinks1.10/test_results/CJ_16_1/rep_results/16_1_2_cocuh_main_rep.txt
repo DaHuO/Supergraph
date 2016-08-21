@@ -1,0 +1,3 @@
+ft lack lack lack data lines = list list map int line 		5 14
+def parse n = 		19 24
+def main test_num = 		26 30

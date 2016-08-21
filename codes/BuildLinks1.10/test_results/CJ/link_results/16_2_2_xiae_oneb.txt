@@ -1,0 +1,19 @@
+
+With same rare tokens:
+118 - 128 links:
+16_1_2_feaisil_b	:	33 - 36
+
+104 - 114 links:
+16_2_2_IdoLivneh_B	:	154 - 167
+16_1_2_IdoLivneh_B	:	154 - 167
+16_1_2_feaisil_b	:	33 - 36
+16_2_2_IdoLivneh_B	:	154 - 167
+16_1_2_IdoLivneh_B	:	154 - 167
+
+39 - 81 links:
+16_2_2_bridgeu_b	:	6 - 60
+16_2_2_bridgeu_b	:	6 - 60
+16_2_2_bridgeu_b	:	6 - 60
+16_2_2_bridgeu_b	:	6 - 60
+16_2_2_bridgeu_b	:	6 - 60
+

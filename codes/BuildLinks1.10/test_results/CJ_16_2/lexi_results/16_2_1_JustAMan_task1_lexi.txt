@@ -1,0 +1,2 @@
+def solve s digs = for data in FIRST SECOND for name ch val in data amount = s count ch if amount > 0 digs extend val * amount for ch in name s = s replace ch amount amount = len s / 4 if amount > 0 digs extend 9 * amount return join str x for x in sorted digs 		19 31
+def main inFile with open inFile as inp open inFile replace .in .out w as out T = int inp readline strip for t in xrange T s = inp readline strip out write Case #%d: %s\n % t + 1 solve s 		33 38

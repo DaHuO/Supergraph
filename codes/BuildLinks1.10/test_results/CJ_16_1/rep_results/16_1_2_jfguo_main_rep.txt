@@ -1,0 +1,2 @@
+def calc d = n = int get_line for i in range 2 * 		19 37
+def get_line 		12 16

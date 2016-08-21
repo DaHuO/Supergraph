@@ -1,0 +1,2 @@
+no_majority parties num_senators num_s = 		15 20
+hello max_party parties max_p = str list parties 		3 13

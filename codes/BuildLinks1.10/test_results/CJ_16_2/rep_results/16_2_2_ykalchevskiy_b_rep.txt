@@ -1,0 +1,15 @@
+def write * args ** kwargs 		78 81
+def read func = 		49 51
+read_int_array sep 		68 70
+def read_array func = None sep = 		54 56
+fnmatch fnmatch s l = len 		9 15
+def 		45 46
+write_2d_array write_array 		88 89
+write_array 		84 85
+read_int_2d_array read_2d_array sep 		73 75
+bye message 		39 42
+def solve c j = read_array mn = 10 ** len c 10 ** len c 10 ** len c 		18 31
+_main_ in_name out_name in_name out_name if name or names = name + 		92 108
+read_2d_array n func = 		59 60
+def main for 		34 36
+		63 65

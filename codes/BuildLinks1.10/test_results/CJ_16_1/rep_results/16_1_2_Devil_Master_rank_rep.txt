@@ -1,0 +1,1 @@
+def rank ls1 = seq = n = int raw_input for i 		1 16

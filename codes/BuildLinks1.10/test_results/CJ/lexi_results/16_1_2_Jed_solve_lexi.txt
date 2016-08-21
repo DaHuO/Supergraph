@@ -1,0 +1,2 @@
+def solve rows cnt = collections counter for i in rows cnt update i rst = for k v in cnt items if v % 2 rst append k return  join map str sorted rst 		9 18
+def main nr_case = int input for case in range nr_case n = int input rows = for i in range n * 2 - 1 rows append list map int input split print case #{}: {} format case + 1 solve rows 		20 27

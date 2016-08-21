@@ -1,0 +1,2 @@
+mask mask mask findl findl = 0 inp = x - 1 for x in inp exe = 0 * n 0 for i in range n if exe i != 0 continue += 1 z 		6 49
+findl v q = v mm = exe copy qh 		32 43

@@ -1,12 +1,4 @@
+Direct links:
 1 - 10 links:
-Giove_A	:	44 - 72
-codespam_q1	:	6 - 16
-JackWindows_a	:	16 - 45
-chaosagent_main	:	1 - 30
-Nin0_a	:	21 - 30
-jdoerrie_main	:	20 - 56
-arknave_rps	:	29 - 57
-dpforest_A	:	18 - 43
-wilwell_a	:	14 - 33
 yichen_solution	:	1 - 41
 

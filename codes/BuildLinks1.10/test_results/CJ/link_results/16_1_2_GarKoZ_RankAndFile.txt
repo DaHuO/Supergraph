@@ -1,0 +1,39 @@
+
+With same rare tokens:
+1 - 23 links:
+16_2_2_fullfool_closematch	:	1 - 10
+16_2_2_fullfool_closematch	:	1 - 10
+16_2_2_fullfool_closematch	:	1 - 10
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_2_2_fullfool_closematch	:	1 - 10
+16_2_2_fullfool_closematch	:	1 - 10
+16_2_2_fullfool_closematch	:	1 - 10
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_2_2_fullfool_closematch	:	1 - 10
+16_2_2_fullfool_closematch	:	1 - 10
+16_2_2_fullfool_closematch	:	1 - 10
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_2_2_fullfool_closematch	:	1 - 10
+16_2_2_fullfool_closematch	:	1 - 10
+16_2_2_fullfool_closematch	:	1 - 10
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_2_2_fullfool_closematch	:	1 - 10
+16_2_2_fullfool_closematch	:	1 - 10
+16_2_2_fullfool_closematch	:	1 - 10
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+16_1_2_fullfool_rankfile	:	1 - 15
+

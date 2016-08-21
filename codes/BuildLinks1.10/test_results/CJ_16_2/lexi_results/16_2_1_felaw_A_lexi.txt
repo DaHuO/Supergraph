@@ -1,0 +1,1 @@
+def solve s cnt = Counter s ds = for d c in uniques n_found = cnt c ds += d * n_found for cc in dgts d assert cnt cc >= n_found d c cnt cnt cc -= n_found for v in cnt values assert v == 0 ds sort return join str d for d in ds 		21 33

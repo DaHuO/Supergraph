@@ -1,0 +1,1 @@
+def solve str if len str == 0 return answer = str 0 for i in range 1 len str if str i >= answer 0 answer = str i + answer else answer += str i return answer 		1 10

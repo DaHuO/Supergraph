@@ -1,0 +1,1 @@
+def readline f return f readline strip 		4 5

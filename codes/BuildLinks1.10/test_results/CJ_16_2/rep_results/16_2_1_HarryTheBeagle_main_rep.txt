@@ -1,0 +1,4 @@
+str_to_dict string result = 		20 26
+sdict str_to_dict sdict digit_list 		53 57
+sort_by_length digit_strs digit_strs map lambda 		15 18
+sdict sdict STR_TO_NUM result digit_list for digit in digit_list remain = slen - len digit 		29 51

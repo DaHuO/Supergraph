@@ -1,0 +1,5 @@
+def setup_logging if len sys argv > 1 and debug in sys argv 1 level = logging DEBUG else level = logging ERROR logging basicConfig format = [%(levelname)s]: %(message)s level = level 		6 11
+def solution L logging debug %s L L n1 = replace L M1 L n2 = replace L M2 assert len L == 0 or len L % 4 == 0 and set L == N I E L n3 = 9 for _ in xrange len L / 4 return join sorted n1 + n2 + n3 		64 70
+def line return next sys stdin strip 		14 15
+def replace L mapping numbers = for k v in mapping iteritems c = L count k if c > 0 numbers extend str M v for _ in xrange c for l in v L = L replace l c return L numbers 		53 61
+def main T = int line for case_num in range 1 T + 1 print Case #%s: % case_num solution line 		73 77

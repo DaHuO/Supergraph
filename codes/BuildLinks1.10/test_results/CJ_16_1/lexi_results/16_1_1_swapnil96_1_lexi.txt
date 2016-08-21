@@ -1,0 +1,1 @@
+def alpha word ans = word 0 length = len word for i in xrange 1 length if word i >= ans 0 ans = word i + ans else ans = ans + word i return ans 		2 17

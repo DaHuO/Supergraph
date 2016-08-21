@@ -1,0 +1,1 @@
+getans el w = el 0 l = 		1 10

@@ -1,0 +1,2 @@
+def main t = int input for i in xrange 1 t + 1 s = raw_input print case #{}: {} format i the_last_word s 		15 22
+def the_last_word s w = s 0 for i in xrange 1 len s if s i < w 0 w append s i else w insert 0 s i return join w 		1 11

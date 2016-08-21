@@ -1,0 +1,2 @@
+def find_circle i j = g i if depth j >= 0 size = depth i + 1 - depth j if size >= 3 ans 0 = max ans 0 size else ans 1 += dfs i j + dfs j i elif depth j == - 1 depth j = depth i + 1 find_circle j depth i = - 2 		13 26
+def dfs i j ret = 1 for k in rg i if k != j ret = max ret 1 + dfs k i return ret 		5 11

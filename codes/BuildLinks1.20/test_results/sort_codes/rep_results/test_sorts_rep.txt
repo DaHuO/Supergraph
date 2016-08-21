@@ -1,0 +1,84 @@
+42 47:
+test_all	1	0	19	15
+list_of_functions	2	0	18	14
+test_sequence	3	0	17	13
+prompt	4	0	16	12
+
+19 26:
+perform_swaps	1	0	35	27
+_	5	0	31	23
+randrange	16	8	20	12
+for	4	0	32	24
+in	6	0	30	22
+range	7	0	29	21
+n	8	0	28	20
+length	9	1	27	19
+=	10	2	26	18
+len	11	3	25	17
+sequence	12	4	24	16
+i	13	5	23	15
+=	14	6	22	14
+random	15	7	21	13
+length	17	9	19	11
+j	18	10	18	10
+=	19	11	17	9
+i	20	12	16	8
++	21	13	15	7
+1	22	14	14	6
+%	23	15	13	5
+length	24	16	12	4
+sequence	25	17	11	3
+i	26	18	10	2
+sequence	27	19	9	1
+j	28	20	8	0
+=	29	21	7	0
+sequence	30	22	6	0
+j	31	23	5	0
+sequence	32	24	4	0
+i	33	25	3	0
+return	34	26	2	0
+sequence	35	27	1	0
+
+29 39:
+builtin	7	0	64	49
+testrun	14	0	57	42
+recieved	18	3	53	38
+testrun	20	5	51	36
+testrun	22	7	49	34
+template	25	10	46	31
+{}	27	12	44	29
+worked	29	14	42	27
+incorrectly.	30	15	41	26
+\nrecieved:	31	16	40	25
+{}	32	17	39	24
+\nexpected:	33	18	38	23
+{}	34	19	37	22
+error_message	35	20	36	21
+template	37	22	34	19
+
+50 74:
+main	1	0	117	93
+my_list	2	0	116	92
+_	9	0	109	85
+almost_sorted	13	0	105	81
+perform_swaps	15	0	103	79
+my_list	16	0	102	78
+already_sorted	18	0	100	76
+my_list	21	0	97	73
+all_same	22	0	96	72
+_	26	2	92	68
+sorts	30	6	88	64
+bubble	34	10	84	60
+bubble_naive	35	11	83	59
+bubble	37	13	81	57
+bubble_optimized	38	14	80	56
+bubble	40	16	78	54
+bubble_optimized_with_flag	41	17	77	53
+bubble	43	19	75	51
+bubble_final_position	44	20	74	50
+insertion_optimized	50	26	68	44
+insertion_optimized_alt	53	29	65	41
+quick	55	31	63	39
+quick_random	56	32	62	38
+quick	58	34	60	36
+

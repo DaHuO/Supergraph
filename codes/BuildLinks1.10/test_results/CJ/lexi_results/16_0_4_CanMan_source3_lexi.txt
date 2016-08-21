@@ -1,0 +1,2 @@
+def printcase vallist i out values = for n in vallist values = values + str int n +  out write case # + str i + : + values strip + \n return 		3 8
+def printcaseimp i out out write case # + str i + : impossible + \n return 		10 12

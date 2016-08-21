@@ -1,0 +1,2 @@
+def op 		3 4
+inv_map dep ro dep inv_map inv_map x 6 u 4 s 7 f 5 z 0 o 1 r 3 h 8 i 9 = v 		6 30

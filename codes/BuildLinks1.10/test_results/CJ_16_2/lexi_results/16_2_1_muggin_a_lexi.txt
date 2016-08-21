@@ -1,0 +1,1 @@
+def find_number ch_counter found_digits = for group in groups for digit unique_ch in group items ch_count = ch_counter unique_ch for _ in xrange ch_count ch_counter -= digits digit found_digits append digit return sorted found_digits 		40 48

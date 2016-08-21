@@ -1,0 +1,7 @@
+def readInput filename cases = 		4 10
+.input SearchDigit inputfile = outputfile 		20 25
+stringNumbers isWordInString cont unorderedString if cont > 9 		45 56
+isWordInString iunorderedString iunorderedString = copy for 		58 67
+def writeOutput filename output numberOfCases with open 		12 18
+SearchDigit stringS createDict stringS = 		29 34
+createDict unorderedString stringDict = 		36 43

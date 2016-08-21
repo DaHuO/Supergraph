@@ -1,19 +1,5 @@
-61 - 65 links:
-Hooyoung_a	:	3 - 30
-m.camac_A	:	28 - 50
-wilsonhsu_A	:	41 - 49
-bigOnion_rps	:	220 - 225
-musicman3320_showdown	:	11 - 70
-newbility_A	:	42 - 46
-YuMS_A	:	44 - 48
-xenosoz.here_A	:	34 - 39
 
-12 - 15 links:
-xenosoz.here_A	:	21 - 23
-
-9 - 11 links:
-xenosoz.here_A	:	21 - 23
-
+With same rare tokens:
 17 - 53 links:
-dkorduban_A	:	59 - 68
+kevinsogo_a	:	26 - 37
 

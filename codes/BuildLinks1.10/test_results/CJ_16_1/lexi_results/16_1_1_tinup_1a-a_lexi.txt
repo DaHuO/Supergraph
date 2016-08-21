@@ -1,0 +1,2 @@
+def solve s global l strs = set l = len s t = for c in s a = t + str c b = str c + t if a > b t = t + str c else t = str c + t return t 		19 31
+def generate s t st global l if s == st add t return c = s 0 a = t + str c b = str c + t if a > b generate s 1 a st else generate s 1 b st 		5 16

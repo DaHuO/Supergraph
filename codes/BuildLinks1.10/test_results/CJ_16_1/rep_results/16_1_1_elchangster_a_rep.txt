@@ -1,0 +1,2 @@
+run_case run file_name f = open file_name + .in r 		17 26
+run_case given_string new_string = given_string 0 given_string = 		2 14

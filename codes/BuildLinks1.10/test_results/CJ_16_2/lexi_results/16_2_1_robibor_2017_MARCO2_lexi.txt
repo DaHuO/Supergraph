@@ -1,0 +1,2 @@
+def read with open A.in r as filein with open A.out w as fileout lines = filein readlines ii = 1 for line in lines 1 N = line strip out = solve N mystr = Case # + str ii + : + out + \n ii += 1 fileout write mystr 		45 55
+def solve N out = data = for el in N if data get el 0 data el += 1 else data el = 1 for el in map if data get el 1 0 togli = data get el 1 0 for letter in legend el 0 data letter -= togli for n in range togli out append int el 0 out = str el for el in out res = join sorted out return res 		26 43

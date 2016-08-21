@@ -1,0 +1,1 @@
+def make i n cur if i == n return cur ret = for c in cur a b = none none if c == p a b = p r elif c == r a b = r s elif c == s a b = p s l1 = make i + 1 n a l2 = make i + 1 n b if l1 < l2 ret += l1 ret += l2 else ret += l2 ret += l1 return ret 		2 23

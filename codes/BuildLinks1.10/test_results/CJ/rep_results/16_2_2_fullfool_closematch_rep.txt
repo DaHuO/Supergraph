@@ -1,0 +1,2 @@
+getscorelist resultlist resultlist questionindex questionindex questionindex getscorelist questionindex questionindex 		1 10
+cscorelist getscorelist cscorelist jscorelist getscorelist jscorelist 2147483645 mincscore 2147483647 minjscore 2147483647 eachcscore cscorelist eachjscore jscorelist eachcscore eachjscore eachjscore eachcscore eachcscore 		15 40

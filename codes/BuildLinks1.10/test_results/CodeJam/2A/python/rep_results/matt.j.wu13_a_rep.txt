@@ -1,2 +1,2 @@
-rs_matches ps_matches rs_matches ps_matches p s prevR prevP prevS prevR sort prevP sort prevS sort if n == 0 if r == 1 return prevR 0 elif p == 1 return prevP 0 elif s 		5 46
-rs_matches ps_matches rs_matches ps_matches p s def get_strings n r p s prevR prevP prevS prevR sort prevP sort prevS sort if n == 0 if r == 1 return prevR 0 elif p == 1 return prevP 0 elif s == 1 return 		4 58
+def get_strings n r p s prevR prevP prevS prevR sort prevP sort prevS sort if n == 0 if r == 1 return prevR 0 elif p == 1 return prevP 0 elif s 		5 46
+def solve n r p s def get_strings n r p s prevR prevP prevS prevR sort prevP sort prevS sort if n == 0 if r == 1 return prevR 0 elif p == 1 return prevP 0 elif s == 1 return 		4 58

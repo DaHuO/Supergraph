@@ -1,0 +1,2 @@
+def compute score1 score2 score1 		91 99
+def find_candidates score1 score2 score1 score2 = score1 copy score2 copy try i1 = score1 index ? except i1 = len score1 try i2 = score2 index ? except i2 = len score2 index = min i1 i2 if index == len score1 diff = np abs int join score1 - int join score2 return score1 score2 diff candidates 		7 89

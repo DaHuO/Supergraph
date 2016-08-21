@@ -1,0 +1,2 @@
+def clean lmap s num for c in s lmap c -= num 		5 7
+def solve t l = sys stdin readline rstrip lmap = for c in l lmap c = lmap get c 0 + 1 fin_num = for chrs cleans fin in z zero 0 w two 2 u four 4 x six 6 g eight 8 f five 5 o one 1 s seven 7 t three 3 i nine 9 if lmap get chrs 0 > 0 num = lmap chrs fin_num += fin * num clean lmap cleans num print case #{}: {} format t join sorted fin_num 		9 31

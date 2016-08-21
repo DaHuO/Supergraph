@@ -1,0 +1,1 @@
+def odcitaj d cislo kolko for c in cislo d c -= kolko return d 		1 4

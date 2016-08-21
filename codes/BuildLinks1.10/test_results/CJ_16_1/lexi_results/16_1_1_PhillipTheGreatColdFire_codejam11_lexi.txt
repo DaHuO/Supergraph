@@ -1,0 +1,2 @@
+def fun input_str output = for i in input_str output = frontbehind output i return output 		1 5
+def frontbehind input_str letter if len input_str == 0 input_str += letter return input_str else first = input_str + letter last = letter + input_str if last > first return last else return first 		7 17

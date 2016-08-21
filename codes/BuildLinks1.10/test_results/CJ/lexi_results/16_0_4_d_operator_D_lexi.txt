@@ -1,0 +1,4 @@
+def frombase s b return sum int d * b ** i for i d in enumerate s - 1 		13 14
+def solve fin fout l = codejam_io read_simple fin s = map solve_case l codejam_io write_simple fout s 		26 29
+def greedy_1 p if 0 not in p return 0 else return 1 + greedy_1 1 - z for z in p len p - p - 1 index 0 		6 10
+def solve_case x k c s = x solns = t - 1 if t <= k else 0 for t in range i i + c for i in xrange 1 k + 1 c if len solns <= s return  join map str 1 + frombase x k for x in solns else return impossible 		17 23

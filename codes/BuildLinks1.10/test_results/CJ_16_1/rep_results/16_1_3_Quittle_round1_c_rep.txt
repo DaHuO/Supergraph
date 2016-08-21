@@ -1,0 +1,8 @@
+assert_is_numeric_list main num_cases = int sys stdin readline line_num = 1 while true line = 		5 30
+def 		33 34
+kid_ids kid_ids is_valid_circle num_kids = len bffs 		55 69
+assert_is_bool_list arr 		46 48
+assert_is_string 		37 38
+assert_is_numeric_list 		41 43
+		51 52
+is_valid_circle kid_id bff_id kid_id left_id right_index right_id right_index right_index left_id bff_id right_id bff_id 		72 90

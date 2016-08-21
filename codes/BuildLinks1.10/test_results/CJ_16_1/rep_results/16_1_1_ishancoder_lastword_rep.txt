@@ -1,0 +1,2 @@
+putword string letter if string == 		1 9
+putword last_word string 		12 16

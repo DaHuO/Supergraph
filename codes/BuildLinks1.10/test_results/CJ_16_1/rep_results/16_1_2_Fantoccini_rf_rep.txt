@@ -1,0 +1,1 @@
+crs crs n0 n0 n0 cr split \n m = mi = j = 0 crn = flag = set for line in nums = map int line split crn append nums ms = 		4 42

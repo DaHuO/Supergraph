@@ -1,0 +1,1 @@
+def confronta s modello for i in range len s if modello i != ? and s i != modello i return false return true 		1 5

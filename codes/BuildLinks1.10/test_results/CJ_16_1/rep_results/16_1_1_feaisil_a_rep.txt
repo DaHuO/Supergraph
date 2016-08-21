@@ -1,0 +1,12 @@
+repr do l c = cerr write l + 		43 55
+rf 		21 22
+going cases\n {}... {0}\n time time t = cin ri cerr write to process {} format t 		57 69
+def 		8 10
+def isprime n 		33 36
+rfv cin 		24 25
+def 		12 13
+def riv 		18 19
+def rev i o 		27 30
+revs 		31 32
+def 		15 16
+def 		39 41

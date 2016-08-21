@@ -1,0 +1,1 @@
+print_placements placements placements placements if s < k return impossible if 		5 21

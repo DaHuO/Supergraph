@@ -1,0 +1,1 @@
+def generate lst word current if len current == len word lst append current elif word len current == ? for i in range 10 generate lst word current + str i else generate lst word current + word len current 		8 15

@@ -1,0 +1,5 @@
+chr2idx 		9 10
+idx2chr 		12 13
+test1 digits_strings chars_set digits_strings 		52 57
+def main f = sys stdin if len sys 		37 50
+chr2idx unique_seq ch_pos chr2idx num_digit ch_pos num_digit num_digit digits_strings x_pos chr2idx x_pos num_digit x_pos x_pos 1 out 		15 35

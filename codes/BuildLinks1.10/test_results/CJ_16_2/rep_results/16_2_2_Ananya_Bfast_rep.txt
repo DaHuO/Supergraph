@@ -1,0 +1,8 @@
+def highest slist newslist 		11 16
+string_match s1 s2 if len s1 < 		103 110
+def lowest slist newslist 		4 9
+def diff 		21 22
+def better s1try1 s2try1 s1try2 s2try2 if diff s1try1 s2try1 < diff 		24 38
+def solve slist1 slist2 if len slist1 == 0 assert len slist2 == 0 return sl1 = slist1 sl2 = slist2 if sl1 0 == ? and sl2 0 == ? sl1 0 = 0 sl2 0 = 1 s1try1 s2try1 = solve sl1 sl2 sl1 0 = 1 sl2 0 = 0 s1try2 s2try2 = solve sl1 sl2 sl1 0 = 0 sl2 0 		40 96
+def 		18 19
+def expand s 		98 100

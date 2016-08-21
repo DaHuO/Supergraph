@@ -1,0 +1,6 @@
+def getlidxs n length base2 = bin n 2 zfill length lset = set for idx ch in enumerate base2 if ch == 1 lset add idx return lset 		10 17
+def log * message logging debug message 		93 94
+def getnextlidxs initlset lset length newset = set for x in initlset for y in lset newset add length * x + y return newset 		19 25
+def main t = int input for i in range t line = input split line = list map int line print case #%d: % i + 1 end = a = solve line if len a == 0 print impossible else print  join str x for x in a 		78 90
+def solve line k c s = line 0 line 1 line 2 if k <= s return range 1 k + 1 ldict = lastnum = int math pow 2 k for n in range 1 lastnum - 1 log mutation! lset = getmutatedlidxs n k c ldict n = lset anserlist = finallength = int math pow k c for i in range s log mutation countlist = 1 * finallength countdict = * finallength for n e in ldict items for j in e countlist j += 1 countdict j n = ldict n for n in anserlist countlist n - 1 = sys maxsize minlength = min countlist minidx = countlist index minlength anserlist append minidx + 1 if minlength <= 1 or len anserlist == k return anserlist ldict = countdict minidx return 		38 76
+def getmutatedlidxs n k c initlset = getlidxs n k lset = copy copy initlset length = k for j in range c - 1 lset = getnextlidxs initlset lset length length *= k return lset 		27 35

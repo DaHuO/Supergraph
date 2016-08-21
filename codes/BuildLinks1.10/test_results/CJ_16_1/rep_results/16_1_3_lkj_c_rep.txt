@@ -1,0 +1,5 @@
+dfsd n f pred root q = root deepest = while len 		21 36
+findmaxncc ncl maxncext ncl 		51 54
+findallcircles difference_update f pred left = set range n cl = 		3 19
+maxncext c1 dfsd dfsd c1 pred nc 0 remove nc 1 		38 45
+findallcircles findmaxncc n f pred = list for i in 		57 64

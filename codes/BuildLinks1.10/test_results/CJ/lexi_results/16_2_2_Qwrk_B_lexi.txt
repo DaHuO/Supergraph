@@ -1,0 +1,1 @@
+def match pattern y for p j in zip pattern y if p == ? continue if p != j return false return true 		2 8

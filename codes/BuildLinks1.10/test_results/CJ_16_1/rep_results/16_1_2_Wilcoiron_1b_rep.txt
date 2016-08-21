@@ -1,0 +1,2 @@
+def matrix mat global r count = ls =  join mat 		14 27
+def main mat = testcase = int 		3 11

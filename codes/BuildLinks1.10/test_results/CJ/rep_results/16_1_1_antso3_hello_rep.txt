@@ -1,0 +1,1 @@
+getres prevstart prevstart prevstart prevstart s 0 result 		7 20

@@ -1,0 +1,2 @@
+def fits a b 		6 11
+def solve a b n = len a mini = 1000000 ans1 ans2 = for i in range 10 ** n 		13 45

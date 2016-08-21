@@ -1,0 +1,1 @@
+def last_word input word = 		1 9

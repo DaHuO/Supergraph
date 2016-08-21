@@ -1,0 +1,1 @@
+def debug s sys stderr write debug: + str s + \n pass 		7 9

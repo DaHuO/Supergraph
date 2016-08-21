@@ -1,0 +1,2 @@
+slurp s d = for 		3 10
+slurp solve s d = s rstrip a = 0 0 1 0 2 0 3 0 4 0 5 0 6 0 7 0 8 0 9 0 if z in d and d z > 0 a 0 = d z d z = 0 d e = d e - a 0 d r = d r - a 0 d o = d o - a 0 if w in d and d w > 0 a 2 = d w d w = 0 d t = d 		12 91

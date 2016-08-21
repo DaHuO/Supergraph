@@ -1,0 +1,4 @@
+def output_res caseno output f s = case #{}: {} format caseno output print s f write s + \n 		77 81
+def solve n r p s global first global valid first = valid = a = generate r p s 2 ** n valid sort if first != if first != valid 0 print error else return impossible return first 		61 74
+def test c r p s orig = c if c count p != p return none if c count r != r return none if c count s != s return none while true cc = for i in range 0 len c 2 g = if c i < c i + 1 g = c i + c i + 1 else g = c i + 1 + c i if g == pr g = p elif g == ps g = s elif g == rs g = r else print error cc += g c = cc if len c == 1 global valid global first if valid == first = orig valid append orig return orig for i in range 0 len c 2 g = if c i < c i + 1 g = c i + c i + 1 else g = c i + 1 + c i if g == ss or g == pp or g == rr return none 		7 47
+def generate r p s c l global games if len c == l return test c r p s for x in games generate r p s c + x l return none 		51 59

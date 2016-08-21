@@ -1,0 +1,1 @@
+def run_test s = raw_input result = 		1 10

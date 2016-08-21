@@ -1,0 +1,1 @@
+def solve s new_str = for letter in s if len new_str == 0 or letter >= new_str 0 new_str insert 0 letter else new_str append letter final = join new_str return final 		1 11

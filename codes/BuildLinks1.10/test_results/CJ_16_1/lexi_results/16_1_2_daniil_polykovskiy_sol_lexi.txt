@@ -1,0 +1,1 @@
+def sol n ds counts = dict for i in np array ds dtype = int ravel if i not in counts counts i = 0 counts i += 1 res = for v in counts if counts v % 2 != 0 res append v res = sorted res return  join map str res 		5 17

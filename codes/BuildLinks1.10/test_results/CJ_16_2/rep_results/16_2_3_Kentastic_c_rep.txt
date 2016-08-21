@@ -1,0 +1,1 @@
+FindFakes topicNum topicNum topicNum fakes = 0 for i in range 0 words = topics i split  if 		4 20

@@ -1,0 +1,8 @@
+readstrs main n = 		37 42
+def 		28 29
+def sp 		23 24
+		25 26
+readstrs return 		34 35
+def solve1 s l = s 		7 11
+def readints 		31 32
+def solve s out = s 0 		13 21

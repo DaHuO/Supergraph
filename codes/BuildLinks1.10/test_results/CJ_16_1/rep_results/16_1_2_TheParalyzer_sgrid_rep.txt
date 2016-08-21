@@ -1,0 +1,2 @@
+solveall sgrid.test sgrid.test.out processes findgrid num_threads = 20 input_data = open filename read split \n number_of_problems = int input_data 0 input_data = input_data 1 - 1 		41 67
+findgrid sgrid sgrid sgrid = list set slist print values 		27 38

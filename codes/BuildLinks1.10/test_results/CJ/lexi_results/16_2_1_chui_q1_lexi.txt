@@ -1,0 +1,2 @@
+def fun n_d d list1 ch if n_d == 0 return for sc in numbers d ch sc = ch sc - n_d if ch sc < 0 print error n_d d for i in range n_d list1 append d 		39 47
+def solving s ch = i 0 z 0 w 0 h 0 u 0 x 0 g 0 o 0 f 0 s 0 n 0 list = for c in s if c not in ch ch c = 0 ch c += 1 fun ch z 0 list ch fun ch w 2 list ch fun ch u 4 list ch fun ch x 6 list ch fun ch g 8 list ch fun ch h 3 list ch fun ch o 1 list ch fun ch f 5 list ch fun ch s 7 list ch fun ch i 9 list ch for s in ch if s != \n and ch s != 0 print ch print error so = sorted list return join str c for c in so 		14 37

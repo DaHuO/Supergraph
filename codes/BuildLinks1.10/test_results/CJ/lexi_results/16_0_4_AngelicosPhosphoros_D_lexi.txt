@@ -1,0 +1,4 @@
+def out_file f = open output.txt w f write \n join out_strings f close 		54 57
+def check_next base complexity last_checked to_check = last_checked + 1 check_stack = for x in xrange 0 complexity check_stack append to_check to_check += 1 if to_check > base break return check_stack to_check - 1 		26 34
+def get_position ranges count check_stack if count == 1 return check_stack 0 shift = ranges count - 1 * check_stack count - 1 - 1 deeper_val = get_position ranges count - 1 check_stack return shift + deeper_val 		15 23
+def calc_ranges base complexity r = 0 pr = 1 for x in xrange complexity pr *= base r append pr return r 		1 7

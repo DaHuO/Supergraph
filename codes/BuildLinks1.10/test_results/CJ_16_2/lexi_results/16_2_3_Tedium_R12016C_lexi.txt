@@ -1,0 +1,1 @@
+def random_search pairs F S max_time start = time out = 0 while time - start < max_time f = 0 * F s = 0 * S for a b in pairs f a += 1 s b += 1 v = 0 shuffle pairs for a b in pairs if f a > 1 and s b > 1 v += 1 f a -= 1 s b -= 1 out = max out v return out 		5 23

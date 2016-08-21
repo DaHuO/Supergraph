@@ -1,0 +1,2 @@
+def main ts = int stdin readline 		6 11
+def solve k c s if s 		13 21

@@ -1,0 +1,1 @@
+def last_word str if not str return word_char_list = str 0 for i in range 1 len str if str i >= word_char_list 0 word_char_list insert 0 str i else word_char_list append str i return join word_char_list 		4 14

@@ -1,0 +1,1 @@
+def f a b tp = ct for i in b keys tp i = a * b i return tp 		4 8

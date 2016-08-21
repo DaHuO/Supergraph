@@ -1,6 +1,6 @@
 readFile inputfilename numtestcases numtestcases sys argv 1 = int 		5 10
 checkCounter s R P 		29 33
-getWinningString getWinningString ans3 getWinningString checkCounter checkCounter ans3 ans3 R - P > 1 or 		45 58
+ans3 checkCounter checkCounter ans3 ans3 S if abs R - P > 1 or 		45 58
 def fixans s if len s == 		35 43
 getMatch winner if winner 		12 18
-getWinningString winnerStr winnerStr getMatch winnerStr 		20 27
+winnerStr winnerStr getMatch winnerStr = 		20 27

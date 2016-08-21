@@ -1,0 +1,3 @@
+def match s pattern 		36 39
+def output casenum 		31 32
+def main for i in range 1000 for j in range 1000 all_poss append str i str j T = int raw_input 		5 29

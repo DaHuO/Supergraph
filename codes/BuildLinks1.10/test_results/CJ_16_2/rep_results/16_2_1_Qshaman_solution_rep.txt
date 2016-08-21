@@ -1,0 +1,2 @@
+applyable d s for 		1 5
+applyable sol s digits = ZERO TWO FOUR SIX EIGHT FIVE SEVEN THREE ONE NINE ans 		7 23

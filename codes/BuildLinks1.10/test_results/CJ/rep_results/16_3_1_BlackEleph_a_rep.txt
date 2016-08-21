@@ -1,0 +1,2 @@
+def read_case 		8 10
+total_count 97 123 total_count letters_counts = = 0 alphabet = list map chr range for idx letter in enumerate alphabet if idx == len case break number = int case idx += number letters_counts append letter number plan = while len letters_counts > 0 letters_counts = sorted letters_counts key = itemgetter 1 reverse = true new_letters 		12 56

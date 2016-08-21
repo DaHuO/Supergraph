@@ -1,0 +1,2 @@
+def solve st chars = list 		16 25
+def solve st chars = list st poss 		3 14

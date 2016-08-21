@@ -1,0 +1,2 @@
+findfake {0:b} findfake ans = 0 N = len line def binstr reals = fake = 0 for i b in enumerate binstr b 		3 40
+findfake binstr reals = fake = 0 for i b in enumerate binstr b = int b 		7 30

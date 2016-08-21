@@ -1,0 +1,1 @@
+def solve parties strat = while sum parties > 0 		6 21

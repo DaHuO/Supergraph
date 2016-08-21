@@ -1,0 +1,2 @@
+def main t = int sys stdin readline strip for t in range t s = sys stdin readline strip result = solve s print case #%d: %s % t + 1 result 		15 20
+def solve s result = s 0 for l in s 1 if l >= result 0 result = l + result else result += l return result 		6 13

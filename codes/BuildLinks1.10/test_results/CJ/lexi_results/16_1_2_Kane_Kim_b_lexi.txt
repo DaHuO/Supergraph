@@ -1,0 +1,1 @@
+def solve inp h = defaultdict int for line in inp for c in line split  h c += 1 ret = for k v in h iteritems if v % 2 != 0 ret append int k return  join map str sorted ret 		5 14

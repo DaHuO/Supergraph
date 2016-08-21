@@ -1,0 +1,1 @@
+def main solutions = with open a-large.in r as f rows = int f readline 		2 22

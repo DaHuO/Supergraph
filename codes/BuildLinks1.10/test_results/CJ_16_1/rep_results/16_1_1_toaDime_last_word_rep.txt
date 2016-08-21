@@ -1,0 +1,1 @@
+main_code x word = input result = word 		1 9

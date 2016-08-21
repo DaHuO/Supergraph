@@ -1,0 +1,3 @@
+def case 		9 11
+solkey s a b = s if cur == 		39 47
+repr cana canb cana canb solkey solkey key = a b cur if key in cache return cache key if not a return da db = a 0 b 0 = map str range 10 if da == ? else da = 		14 53

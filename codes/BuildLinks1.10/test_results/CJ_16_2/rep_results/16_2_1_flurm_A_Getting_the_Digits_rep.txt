@@ -1,0 +1,6 @@
+atrace .. pause_after_trace f = sys stderr 		21 30
+atrace 		17 19
+__dict__ 		12 13
+def memoized_f * args try result = 		34 42
+getline 		8 9
+def memoize f memos = def memoized_f * 		32 43

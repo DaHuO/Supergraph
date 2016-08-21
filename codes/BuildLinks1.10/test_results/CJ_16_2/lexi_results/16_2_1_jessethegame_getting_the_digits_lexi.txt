@@ -1,0 +1,1 @@
+def getting_the_digits word digits = counter = Counter word for letter word digit in DIGITS count = counter letter for i in range count digits append digit for letter in set word counter letter -= count return join map str sorted digits 		18 28

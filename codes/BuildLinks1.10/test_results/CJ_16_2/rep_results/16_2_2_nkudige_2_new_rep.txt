@@ -1,0 +1,3 @@
+getAllPossible %03d isPossible = gen 		8 17
+getSol C_poss getAllPossible J_poss getAllPossible C_poss J_poss C list J mindiff 		19 34
+isPossible item x for 		1 6

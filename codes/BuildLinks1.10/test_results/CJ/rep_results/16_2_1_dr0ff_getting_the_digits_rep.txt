@@ -1,0 +1,2 @@
+def main answer = case #{0}: 		30 35
+def solve s c = counter s digits = for d 		9 27

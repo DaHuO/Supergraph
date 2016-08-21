@@ -1,0 +1,2 @@
+def solve_case case if len case 		11 17
+def 		7 8

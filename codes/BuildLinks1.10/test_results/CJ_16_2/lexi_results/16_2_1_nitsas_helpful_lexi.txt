@@ -1,0 +1,7 @@
+def read_list_of_str file return file readline split 		32 33
+def read_list_of_float file return list map float read_list_of_str file 		40 41
+def is_even num return not num & 1 == 1 		48 49
+def read_float file return float file readline 		28 29
+def read_int file return int file readline 		24 25
+def is_odd num return num & 1 == 1 		44 45
+def read_list_of_int file return list map int read_list_of_str file 		36 37

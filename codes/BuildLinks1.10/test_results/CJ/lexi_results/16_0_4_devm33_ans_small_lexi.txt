@@ -1,0 +1,3 @@
+def str_arr arr return  join map str arr 		10 11
+def main t = int raw_input for i in range t print case #%s: %s % i + 1 choose_tiles * map int raw_input split 		13 16
+def choose_tiles k c s if s < k return impossible return str_arr range 1 s + 1 		4 8

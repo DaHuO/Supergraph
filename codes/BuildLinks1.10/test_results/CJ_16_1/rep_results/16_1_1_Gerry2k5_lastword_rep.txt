@@ -1,0 +1,1 @@
+<input file> seed_char: letter: less, more, seed char: print usage: %s % sys argv 0 sys exit 0 with open sys argv 1 rt as 		7 32

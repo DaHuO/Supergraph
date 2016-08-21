@@ -1,0 +1,4 @@
+def subsolve input results if done input return results for number in numbers stripped = strip number deepcopy input if not stripped continue rescopy = deepcopy results rescopy append numbers_map number res = subsolve stripped rescopy if res return res return False 		31 48
+def done input for item in input if input item > 0 return False return True 		18 22
+def strip number input for char in number if char not in input or input char == 0 return False input char -= 1 return input 		24 29
+autosolve collects def solve tokens letters = input = tokens next_token str for char in input if char in letters letters char += 1 else letters char = 1 reslist = subsolve letters reslist sort return join map str reslist 		50 65

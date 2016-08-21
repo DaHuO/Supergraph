@@ -1,27 +1,6 @@
+Direct links:
 1 - 4 links:
 kevinsogo_a	:	58 - 62
-MaksK_a	:	3 - 7
-eMBe_A	:	87 - 96
-majk_A	:	1 - 2
-pse1202_test	:	5 - 6
-aklecram_solveA	:	45 - 53
-Yuichiro_a	:	4 - 19
-EscapeSequence_main	:	1 - 7
-LinesPrower_p1	:	9 - 16
-LinesPrower_p1	:	6 - 37
 Fedux_rock	:	46 - 55
-johannesk_a	:	4 - 5
-elockhart_A	:	62 - 63
-jzj_A	:	28 - 40
 johnLate_a	:	15 - 25
-aguy_codejam1	:	23 - 36
-JackWindows_a	:	47 - 59
-Subscheme_A-small	:	34 - 46
-runTarm_A	:	1 - 39
-Ha.sH_showdown	:	13 - 17
-edgarthewise_A	:	18 - 31
-m.camac_A	:	28 - 50
-Veltz_A	:	27 - 32
-rishig_a	:	3 - 6
-cailw_a	:	20 - 21
 

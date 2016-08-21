@@ -1,0 +1,6 @@
+def read_words 		42 43
+def solve case ** kwargs n = kwargs n p = kwargs p exit = if sum p 		54 81
+def 		34 35
+def read_int 		38 39
+def read_ints f 		46 47
+read_decimals f 		50 51

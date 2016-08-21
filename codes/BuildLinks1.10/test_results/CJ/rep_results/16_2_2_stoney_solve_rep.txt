@@ -1,0 +1,1 @@
+getdiff origx origy origd origx origy origd getdiff getdiff getdiff intj intj intj intc intc intc if diff == 0 and c j == ? or j j == ? dc r = i c j j + 1 1 dt r = i c j j + 1 0 dj r = i c j j + 1 - 1 		3 55

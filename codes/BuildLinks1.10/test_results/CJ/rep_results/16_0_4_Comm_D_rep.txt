@@ -1,0 +1,2 @@
+d-small.out output i 		4 6
+sline sline sline sline = line split  k 		8 18

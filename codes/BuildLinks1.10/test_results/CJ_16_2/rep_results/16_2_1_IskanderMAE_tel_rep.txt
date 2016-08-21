@@ -1,0 +1,7 @@
+reduce_stat numb num_letter num_letter numb 		38 41
+def __init__ self 		10 13
+get_s ch st 		30 34
+def count_letters self self letters 		19 25
+get_statistic statistic get_s statistic get_s F G H I N 		27 36
+resolve get_statistic statistic reduce_stat self arr = 0 Z 8 G 6 		43 56
+def __repr__ 		15 17

@@ -1,0 +1,2 @@
+def solve str 		3 7
+def first letter string if 		9 15

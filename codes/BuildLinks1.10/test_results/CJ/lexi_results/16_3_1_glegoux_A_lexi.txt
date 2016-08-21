@@ -1,0 +1,9 @@
+def f n ps plan = while not nobody ps i1 = find ps decrement i1 ps names = alphabet i1 i2 = find ps decrement i2 ps if check ps names += alphabet i2 else increment i2 ps plan append names return plan 		7 20
+def check ps for i p in enumerate ps if ps i > sum ps / 2 return false return true 		40 44
+def has_majority i ps return ps i > sum ps / 2 		37 38
+def nobody ps for p in ps if p != 0 return false return true 		22 26
+def find ps m = 0 im = 0 for i p in enumerate ps if p > m m = p im = i return im 		28 35
+def main t = int input for t in range t n = int input ps = list map int input split  print_answer t + 1 f n ps 		64 70
+def print_answer n result res = if type result in list tuple res =  join map str result elif type result == int res = str result elif type result == str res = result print case #{}: {} format n res 		54 62
+def increment i ps ps i += 1 		51 52
+def decrement i ps if ps i > 0 ps i -= 1 		47 49

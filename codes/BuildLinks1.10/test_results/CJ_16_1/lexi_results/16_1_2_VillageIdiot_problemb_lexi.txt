@@ -1,0 +1,1 @@
+def dotest rowcols d = defaultdict int rowsize = len rowcols 0 for i in range len rowcols for j in range len rowcols i d rowcols i j += 1 outlist = for k v in d items if v % 2 != 0 outlist append k outlist sort return  join str x for x in outlist 		4 16

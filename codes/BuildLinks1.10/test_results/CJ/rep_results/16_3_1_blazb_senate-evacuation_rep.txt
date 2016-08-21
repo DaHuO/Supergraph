@@ -1,0 +1,5 @@
+def solve data num_parties delegates = data delegates = e chr i + ord a for i e in enumerate delegates sequence = num_delegates = 		20 50
+def main src = 		60 63
+negative negative delegates num_delegates = sum n for n 		11 17
+linesep nproblems nproblems problem_specific_parser 		52 57
+problem_specific_parser src num_parties = 		5 8

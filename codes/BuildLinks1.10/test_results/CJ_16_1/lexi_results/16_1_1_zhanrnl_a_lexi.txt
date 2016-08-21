@@ -1,0 +1,1 @@
+def f s t = s 0 for c in s 1 t1 = t + c t2 = c + t if t1 < t2 t = t2 else t = t1 return t 		1 10

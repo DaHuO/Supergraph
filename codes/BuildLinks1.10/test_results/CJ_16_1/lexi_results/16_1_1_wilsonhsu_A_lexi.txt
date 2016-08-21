@@ -1,0 +1,2 @@
+def solve s word = s 0 for c in s 1 if c >= word 0 word = c + word else word = word + c return word 		3 10
+def run name f = open {0}.in format name r g = open {0}.out format name w t = int f readline for t in range t s = f readline strip word = solve s g write case #{0}: {1}\n format t + 1 word f close g close 		12 23

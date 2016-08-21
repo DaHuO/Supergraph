@@ -1,0 +1,2 @@
+def main t = 		14 17
+def solve_case s revfront = s 		3 12

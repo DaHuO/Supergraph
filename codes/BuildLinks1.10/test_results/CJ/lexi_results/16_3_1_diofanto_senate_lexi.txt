@@ -1,0 +1,2 @@
+def check_majority parties m = sum parties // 2 for p in parties if p > m return true return false 		5 10
+def senate parties res = evacuated = 0 tot = sum parties while evacuated < tot m1 = max parties idx = parties index m1 parties idx -= 1 res += up idx evacuated += 1 if m1 in parties idx2 = parties index m1 parties idx2 -= 1 if not check_majority parties res += up idx2 evacuated += 1 else parties idx2 += 1 res +=  return res 		12 32

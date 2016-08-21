@@ -1,0 +1,5 @@
+def work2 old_letterset start if checkfinished old_letterset return for i in range start len DIGITS letterset = copy deepcopy old_letterset digit = DIGITS i if hasdigit letterset digit takeoutdigit letterset digit rest = work2 letterset i if rest != False return str i + rest return False 		24 36
+def work line letterset = collections defaultdict int for char in line letterset char += 1 return work2 letterset 0 		38 44
+def checkfinished letterset for i in range 0 25 if letterset chr ord A + i > 0 return False return True 		18 22
+def takeoutdigit letterset digit for char in digit letterset char -= 1 		14 16
+def hasdigit letterset digit for char in digit if letterset char <= 0 return False return True 		8 12

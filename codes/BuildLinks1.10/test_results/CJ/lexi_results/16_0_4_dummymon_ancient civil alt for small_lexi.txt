@@ -1,0 +1,1 @@
+def outp a b c = true file = open output.txt a s = case # + str a + : if c for i in b s = s + str i +  else s = s + b +  s = s - 1 + \n file write s file close 		1 12

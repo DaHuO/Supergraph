@@ -1,0 +1,2 @@
+def main with open in r as 		18 24
+def sol line k c s = 		8 15

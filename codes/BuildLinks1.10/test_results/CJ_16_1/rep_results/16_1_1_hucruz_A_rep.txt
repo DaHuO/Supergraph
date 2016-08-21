@@ -1,0 +1,1 @@
+def solve s whiteboard = 		7 14

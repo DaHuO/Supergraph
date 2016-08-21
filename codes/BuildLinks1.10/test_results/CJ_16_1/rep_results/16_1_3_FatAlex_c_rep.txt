@@ -1,0 +1,16 @@
+build_conn bffs conn = 		26 31
+def read_list 		6 7
+def solve 		127 135
+itervalues tp_len tp_len ts = l = len bffs for i in xrange l if bffs bffs 		103 122
+def load_cases path with open 		16 22
+rsplit process path_in path_out = none 		150 155
+test_solutions_gen outcome: = true cases = gen_cases for 		188 201
+def 		165 167
+test_solutions outcome: until_first_fail = true cases = load_cases path_in 		169 182
+		184 186
+def 		8 9
+def read_line 		1 5
+def 		142 143
+def save_outcomes path outcomes with 		146 149
+def search s bffs ts path = visited = set x = s while true if x in ts if ts 		72 101
+def 		11 13

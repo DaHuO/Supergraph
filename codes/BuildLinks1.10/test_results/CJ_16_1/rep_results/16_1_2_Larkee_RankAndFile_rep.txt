@@ -1,0 +1,1 @@
+string_array string_array numbs numbs dict for string in = map int string split 		1 18

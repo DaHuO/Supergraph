@@ -1,0 +1,3 @@
+CalMin CalMax CalMax ha hb assert ha != hb ha = int ha hb 		16 25
+def cmp tmn ta tb global ansmn ansa ansb n cur assert tmn >= 		33 45
+CalMax a b assert len a == len b ra = rb 		2 14

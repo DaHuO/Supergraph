@@ -30,8 +30,8 @@ class linkDetect(object):
 		self.saveMinorToken(input_folder)
 		self.initManager()
 		self.detectLink()
-		print self.links
-		self.saveLinks()
+		# print self.links
+		# self.saveLinks()
 
 		end = time.time()
 		timelength = end - start
@@ -57,10 +57,12 @@ class linkDetect(object):
 				file_out.write(out + '\t\t' + str(line[0]) + ' ' + str(line[1]) + '\n')
 				coderecords[f[:f.rfind('.')]][line] = record[line]
 			file_out.close()
+			# for line in record.keys():
+			# 	coderecords[f[:f.rfind('.')]][line] = record[line]
 			for token in GTP:
 				GTPrecords[token] = GTPrecords.get(token, 0) + GTP[token]
 
-		L = sorted(GTPrecords.iteritems(), key = lambda (k, v): (v, k))
+		# L = sorted(GTPrecords.iteritems(), key = lambda (k, v): (v, k))
 		# x = [key for (key, value) in L]
 		# count = 0
 		# for i in x:
@@ -68,9 +70,17 @@ class linkDetect(object):
 		# 	if GTPrecords[i]>4:
 		# 		count += 1
 		# print count
+		L = sorted(GTPrecords.iteritems(), key = lambda (k, v): (v, k))
+		x = [key for (key, value) in L]
+		n = int(len(x) * 0.6)
+		limit = GTPrecords[x[n]]
+		print n
+		print limit
+		# for i in x:
+		# 	print i, GTPrecords[i]
 		majortoken = set()
 		for token in GTPrecords.keys():
-			if GTPrecords[token]>4:
+			if GTPrecords[token]>limit:
 				majortoken.add(token)
 		return coderecords, GTPrecords, majortoken
 
@@ -134,39 +144,98 @@ class linkDetect(object):
 
 
 	def detectLink(self):
+		out_path_prefix = 'test_results' + input_folder[input_folder.find('/'):] + '/link_results/'
 		for code in self.codereps.keys():
 			print code
 			start = time.time()
 			links, sameraretoken = detectLinks(code, self.codereps[code], self.coderepmanager, self.coderecords, self.minortokens, self.codeminorreps[code], self.threshold)
-			print '%d direct links detected' %len(links)
+			# print '%d direct links detected' %len(links)
+			# if len(links) != 0:
+			# 	self.links[code] = links
+			# if len(sameraretoken) != 0:
+			# 	if code not in self.links.keys():
+			# 		self.links[code] = {}
+			# 	for line in sameraretoken.keys():
+			# 		if line in self.links[code].keys():
+			# 			self.links[code][line].extend(sameraretoken[line])
+			# 		else:
+			# 			self.links[code][line] = []
+			# 			self.links[code][line].extend(sameraretoken[line])
+			# end = time.time()
+			# if code in self.links.keys():
+			# 	print '%d links detected' % len(self.links[code])
+			# else:
+			# 	print 'no links detected'
+			# print 'time spent: %f' %(end - start)
+			self.links[code] = {}
+			self.links[code]['D'] = {}
+			self.links[code]['T'] = {}
 			if len(links) != 0:
-				self.links[code] = links
+				self.links[code]['D'] = links
 			if len(sameraretoken) != 0:
-				if code not in self.links.keys():
-					self.links[code] = {}
-				for line in sameraretoken.keys():
-					if line in self.links[code].keys():
-						self.links[code][line].extend(sameraretoken[line])
-					else:
-						self.links[code][line] = []
-						self.links[code][line].extend(sameraretoken[line])
+				self.links[code]['T'] = sameraretoken
+				# for line in sameraretoken.keys():
+				# 	if line in self.links[code].keys():
+				# 		self.links[code][line].extend(sameraretoken[line])
+				# 	else:
+				# 		self.links[code][line] = []
+				# 		self.links[code][line].extend(sameraretoken[line])
 			end = time.time()
-			if code in self.links.keys():
-				print '%d links detected' % len(self.links[code])
-			else:
-				print 'no links detected'
+			print '%d links detected' % (len(self.links[code]['D']) + len(self.links[code]['T']))
 			print 'time spent: %f' %(end - start)
+			nd = len(self.links[code]['D'])
+			nt = len(self.links[code]['T'])
+			if nd != 0 or nt != 0:
+				fout = open(out_path_prefix + code + '.txt', 'w')
+			else:
+				continue
+			if nd != 0:
+				fout.write('Direct links:\n')
+				for line in self.links[code]['D'].keys():
+					fout.write(str(line[0]) + ' - ' + str(line[1]) + ' links:\n')
+					for link in self.links[code]['D'][line]:
+						fout.write(link[0] + '\t:\t' + str(link[1][0]) + ' - ' + str(link[1][1]) + '\n')
+					fout.write('\n')
+			if nt != 0:
+				fout.write('\nWith same rare tokens:\n')
+				for line in self.links[code]['T'].keys():
+					fout.write(str(line[0]) + ' - ' + str(line[1]) + ' links:\n')
+					for link in self.links[code]['T'][line]:
+						fout.write(link[0] + '\t:\t' + str(link[1][0]) + ' - ' + str(link[1][1]) + '\n')
+					fout.write('\n')
+			fout.close()
+
 
 	def saveLinks(self):
 		path_prefix = 'test_results' + input_folder[input_folder.find('/'):] + '/link_results/'
 		for code in self.links.keys():
-			fout = open(path_prefix + code + '.txt', 'w')
-			for line in self.links[code].keys():
-				fout.write(str(line[0]) + ' - ' + str(line[1]) + ' links:\n')
-				for link in self.links[code][line]:
-					fout.write(link[0] + '\t:\t' + str(link[1][0]) + ' - ' + str(link[1][1]) + '\n')
-				fout.write('\n')
+			nd = len(self.links[code]['D'])
+			nt = len(self.links[code]['T'])
+			if nd != 0 or nt != 0:
+				fout = open(path_prefix + code + '.txt', 'w')
+			else:
+				continue
+			if nd != 0:
+				fout.write('Direct links:\n')
+				for line in self.links[code]['D'].keys():
+					fout.write(str(line[0]) + ' - ' + str(line[1]) + ' links:\n')
+					for link in self.links[code]['D'][line]:
+						fout.write(link[0] + '\t:\t' + str(link[1][0]) + ' - ' + str(link[1][1]) + '\n')
+					fout.write('\n')
+			if nt != 0:
+				fout.write('\nWith same rare tokens:\n')
+				for line in self.links[code]['T'].keys():
+					fout.write(str(line[0]) + ' - ' + str(line[1]) + ' links:\n')
+					for link in self.links[code]['T'][line]:
+						fout.write(link[0] + '\t:\t' + str(link[1][0]) + ' - ' + str(link[1][1]) + '\n')
+					fout.write('\n')
 			fout.close()
+			# for line in self.links[code].keys():
+			# 	fout.write(str(line[0]) + ' - ' + str(line[1]) + ' links:\n')
+			# 	for link in self.links[code][line]:
+			# 		fout.write(link[0] + '\t:\t' + str(link[1][0]) + ' - ' + str(link[1][1]) + '\n')
+			# 	fout.write('\n')
+			# fout.close()
 
 
 	def getFiles(self, folder):
@@ -178,7 +247,9 @@ class linkDetect(object):
 
 if __name__ == '__main__':
 	# input_folder = 'test_input/CodeJam/2A/python'
-	input_folder = 'test_input/sort_codes'
+	# input_folder = 'test_input/sort_codes'
 	# input_folder = 'test_input/test'
+	# input_folder = 'test_input/CJ_16_1'
+	input_folder = 'test_input/CJ'
 	threshold = 0.8
 	linkdetect = linkDetect(input_folder, threshold)

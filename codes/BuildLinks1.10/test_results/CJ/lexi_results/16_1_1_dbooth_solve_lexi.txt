@@ -1,0 +1,2 @@
+def solve s ret = for c in s if ret == ret += c elif ret 0 > c ret = ret + c else ret = c + ret return ret 		8 17
+def main if not len sys argv == 3 print need exactly twos args: input filename and output filename return input_data = open sys argv 1 r read output_file = open sys argv 2 w split_input = input_data split \n case_count = int split_input 0 for i in range 0 case_count res = solve split_input i + 1 output_file write case # + str i + 1 + : + str res + \n 		19 29

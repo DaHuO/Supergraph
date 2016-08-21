@@ -1,0 +1,31 @@
+
+With same rare tokens:
+17 - 46 links:
+16_3_1_cocuh_main	:	17 - 21
+16_3_1_cocuh_main	:	23 - 32
+16_1_2_arknave_b	:	46 - 97
+16_1_2_arknave_b	:	46 - 97
+16_1_1_car03e_last_word	:	4 - 9
+16_1_2_car03e_rank_file	:	5 - 10
+16_2_2_simleo_B	:	46 - 50
+16_1_1_car03e_last_word	:	4 - 9
+16_1_2_car03e_rank_file	:	5 - 10
+16_2_2_simleo_B	:	46 - 50
+16_0_4_deniswerner_d	:	4 - 5
+16_3_1_deniswerner_al	:	5 - 6
+16_3_1_cocuh_main	:	17 - 21
+16_3_1_cocuh_main	:	23 - 32
+16_2_2_simleo_B	:	46 - 50
+16_2_2_simleo_B	:	46 - 50
+16_1_2_James777_b	:	34 - 44
+16_2_2_jeroenvw_gcj	:	134 - 147
+16_2_2_simleo_B	:	46 - 50
+16_2_2_simleo_B	:	46 - 50
+16_2_2_simleo_B	:	46 - 50
+
+69 - 77 links:
+16_0_4_Cyphase_problemD	:	11 - 19
+
+219 - 222 links:
+16_2_2_kosii_B	:	64 - 75
+

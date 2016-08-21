@@ -1,0 +1,2 @@
+ex populate i start length if length > n + 5 outcomes start = none 0 forb populate i i 0 		29 52
+doprob ex loopex pairex proposal proposal proposal none line = raw_input split for i in line array append int i doubles = x for x in xrange 1 n + 1 if array array x == x outcomes = for i in xrange 1 n + 1 start = i ok = 0 for j in 		6 78

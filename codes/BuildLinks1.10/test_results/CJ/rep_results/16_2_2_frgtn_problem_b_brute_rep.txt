@@ -1,0 +1,5 @@
+resolve_common_prefix c j prefix = for i in range len c 		6 19
+bruteforce sample choice_size result_c result_j 99999999999999999999999999999999999999999999999 sample choice_size tmp_c tmp_c tmp_j tmp_j tmp_c tmp_j result_c result_c tmp_c result_j tmp_j result_c tmp_c result_c tmp_c result_j tmp_j result_c tmp_j result_j 		32 62
+result_c result_j bruteforce 		65 68
+to_suffix seq replacement result 		22 29
+def main n_cases = int 		71 75

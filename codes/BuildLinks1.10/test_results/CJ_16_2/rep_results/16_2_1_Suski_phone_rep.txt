@@ -1,0 +1,12 @@
+remove7 numbers numbers 		43 48
+remove8 numbers numbers 		50 55
+remove2 numbers 		14 17
+remove9 numbers 		57 61
+def main input_name = sys argv 1 		101 108
+remove6 numbers 		38 41
+remove3 numbers numbers 		19 24
+remove4 numbers 		26 30
+remove5 numbers 		32 36
+remove0 numbers 		3 7
+remove0 remove2 remove6 remove8 remove3 remove7 remove5 remove4 remove9 remove1 = while nums if Z in nums result append 0 nums 		64 99
+remove1 numbers 		9 12

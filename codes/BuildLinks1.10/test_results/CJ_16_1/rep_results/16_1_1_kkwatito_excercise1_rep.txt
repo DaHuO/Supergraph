@@ -1,0 +1,2 @@
+processtestcase self s new_word = head = for 		3 16
+processtestcase __init__ self file = open a-large.in 		18 25

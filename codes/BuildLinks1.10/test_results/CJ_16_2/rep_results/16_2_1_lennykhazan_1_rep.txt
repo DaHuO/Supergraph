@@ -1,0 +1,3 @@
+def find S number zero = check_elim S ZERO one = check_elim S ONE two = check_elim S TWO three = check_elim S THREE four = check_elim S FOUR five = check_elim S FIVE six = check_elim S SIX seven = check_elim S SEVEN eight = check_elim S EIGHT nine = check_elim S NINE if zero != None if len zero == 0 		13 86
+def check_elim S chars rem = 		3 11
+def 		88 90

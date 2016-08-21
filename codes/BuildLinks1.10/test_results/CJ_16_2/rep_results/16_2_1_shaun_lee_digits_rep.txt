@@ -1,0 +1,5 @@
+numbers_r numbers_r letters = set 		25 29
+check_case S result = letters = list S zeros = 0 for x in letters if x == Z for i in range len zeros delete_word letters ZERO result += zeros sixes = 6 for x in letters if x == X for i in range len sixes 		32 96
+check_case main input_filename = sys argv 		99 105
+def delete_word 		20 22
+seek seek in_file in_file 0 2 		10 17

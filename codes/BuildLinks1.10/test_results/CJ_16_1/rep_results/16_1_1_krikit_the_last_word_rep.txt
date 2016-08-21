@@ -1,0 +1,2 @@
+def main fin fout num_cases = 		40 49
+def solve word last_word = 		22 34

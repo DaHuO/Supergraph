@@ -1,0 +1,4 @@
+def subtract digit cnt ss = digits digit for let in ss c let = c let - cnt 		20 23
+def getRes digit let res digit = c let subtract digit res digit 		25 27
+def _solve s digits = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE res = None * 10 c = Counter s def subtract digit cnt ss = digits digit for let in ss c let = c let - cnt def getRes digit let res digit = c let subtract digit res digit getRes 0 Z getRes 6 X getRes 2 W getRes 8 G getRes 4 U getRes 5 F getRes 1 O getRes 3 T getRes 7 V getRes 9 I assert sum c k for k in range 10 == 0 num = for d in range 10 for i in range res d num append d return num 		14 47
+def solve * args ** kwargs res = _solve * args ** kwargs return join map str res 		64 66

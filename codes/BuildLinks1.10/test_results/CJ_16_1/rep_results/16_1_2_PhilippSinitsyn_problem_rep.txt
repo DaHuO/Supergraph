@@ -1,0 +1,1 @@
+def solve dim lists found = target = none for i in range dim ok = sorted lists key = lambda x 		50 73

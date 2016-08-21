@@ -1,0 +1,4 @@
+makeint summe summe summe for 		9 13
+Big Small Big Small int b 		4 7
+Next ctail jtail ctail jtail jtail ctail ctail jtail chtail jhtail chtail jhtail jltail cltail cltail jltail jhtail chtail chtail jhtail cltail jltail cltail jltail findmin c append int C i j append int C i elif C i != ? and J i != ? if int C i > int J i c append int C i j append int J i = knowsmaller C i 		21 98
+findmin tosort makeint makeint tosort tosort - 		16 19

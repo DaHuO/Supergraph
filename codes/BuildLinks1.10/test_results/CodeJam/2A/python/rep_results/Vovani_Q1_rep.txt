@@ -1,2 +1,2 @@
-anc anc layer merged merged merged rv rv rv opt in RPS layers = opt for i in xrange 1 N layers append map lambda letter letter sum layers i - 1 		7 36
+anc anc merged merged merged rv rv rv for opt in RPS layers = opt for i in xrange 1 N layers append map lambda letter letter sum layers i - 1 		7 36
 read1 f 		38 40

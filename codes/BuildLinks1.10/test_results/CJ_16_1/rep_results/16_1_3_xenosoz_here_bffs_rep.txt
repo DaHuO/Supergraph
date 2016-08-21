@@ -1,0 +1,5 @@
+make_group n current = n min_node = 		29 38
+make_group make_group case_1_max attrgetter //= case_1_max f = int x - 1 for x in input split assert n == len f def n current = n min_node = n for cycle_length in range 1 n + 1 current = f current min_node = min min_node current if n 		24 91
+def follow_path n if paths n is not none return paths n if groups n rank == 		47 69
+def __init__ 		14 16
+def __init__ self 		19 22

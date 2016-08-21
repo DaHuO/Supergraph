@@ -1,0 +1,1 @@
+def writeline case answer outf write case # + str case + 1 + : + answer 		5 6

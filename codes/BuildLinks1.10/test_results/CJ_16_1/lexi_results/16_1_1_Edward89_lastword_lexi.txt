@@ -1,0 +1,1 @@
+def dataparser filedir inputfile = open filedir ru nbrofcases = int inputfile readline cases = 0 for i in range nbrofcases for i in range nbrofcases cases i = inputfile readline inputfile close return cases 		1 8

@@ -1,0 +1,3 @@
+produce_next last_word s_in temp_s 		7 12
+produce_next s_in char_in 		1 5
+def solve f f_out fin = open f fout 		15 23

@@ -1,0 +1,2 @@
+readword 		13 14
+def solver data data = list data lastword 		17 25

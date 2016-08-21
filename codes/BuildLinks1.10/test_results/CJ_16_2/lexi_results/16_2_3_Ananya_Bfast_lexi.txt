@@ -1,0 +1,4 @@
+def is_in_first word topics for t in topics if word == t 0 return True return False 		3 7
+def recur topics index if index >= len topics return 0 cur_topic = topics index others = topics index + topics index + 1 if is_fake cur_topic others try1 = recur others index + 1 else try1 = 0 try2 = recur topics index + 1 return max try1 try2 		18 29
+def is_fake cur_topics others return is_in_first cur_topics 0 others and is_in_second cur_topics 1 others 		15 16
+def is_in_second word topics for t in topics if word == t 1 return True return False 		9 13

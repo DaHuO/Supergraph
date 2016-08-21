@@ -1,0 +1,1 @@
+def solve t dic = dict for i in xrange ord A ord Z + 1 dic chr i = 0 for i in t dic i 		3 29

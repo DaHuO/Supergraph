@@ -1,6 +1,6 @@
 def 		16 17
-inh FileWrapper inh getInt inh 		155 160
-getInts self 		22 23
+FileWrapper getInt self inh = 		155 160
+def getInts 		22 23
 %s:Working on %d strftime %X %s:Dealt %d: strftime %X = 		162 169
 multiCase inputList inputList put 		8 12
 getFloats self 		28 29
@@ -8,9 +8,9 @@ getWords 		31 32
 getFloat 		25 26
 def 		37 38
 def 		34 35
-job OK Not OK errfile written to errfile Differences: Line %d: '%s' vs '%s' Files have different number of lines: %d vs 		206 224
+OK Not OK written to Differences: Line %d: '%s' vs '%s' Files have different number lines: %d vs %d self outfile r 		206 224
 multiprocess run self data = self read if self 		144 153
 %3d clean 		226 227
 getInt 		19 20
-directory question question question GCJ Wrapper initiated. Reading command opts getopt vs:tlm: validate small large GetoptError err err exit datatype job opts -s --small datatype small-attempt -l --large datatype large -v --validate job validate -m 		109 142
-multiprocess numprocs manager Manager manager Queue numprocs map_async multiCase numTodo numDoing numDone pid pid idx pid idx pid idx numTodo numDoing idx numDoing numDone %s:then soon | strftime %X numDone numDoing 		171 204
+directory GCJ Wrapper initiated. Reading command getopt vs:tlm: validate large GetoptError err err exit -s --small small-attempt -l --large large -v --validate validate -m --multi directory .err Creating Testing that would create Storing otherwise multi 		109 142
+multiprocess numprocs manager Manager manager Queue numprocs map_async multiCase numTodo numDone numTodo numDone %s:then soon | strftime %X numDone numTodo for k in xrange N pool = Pool pool data 1 		171 204

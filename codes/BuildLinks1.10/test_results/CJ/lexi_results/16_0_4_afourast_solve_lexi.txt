@@ -1,0 +1,2 @@
+def my_int st base cnt = 0 for i c in enumerate reversed st cc = int c cnt += cc * base ** i return cnt 		3 9
+def solve pool = range k if float k / float c > s return none if k == 1 return 1 sol = a = 0 b = 0 cnt = 0 while b < k a = b b = min b + c k ms = pool a b c = my_int ms k sol append c + 1 cnt += 1 assert len sol == ceil float k / float c return sol 		11 44

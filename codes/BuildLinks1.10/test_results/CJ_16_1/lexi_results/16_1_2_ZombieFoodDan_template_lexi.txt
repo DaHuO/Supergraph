@@ -1,0 +1,1 @@
+def main t = int raw_input case = 0 for i in xrange 1 t + 1 case += 1 n = int raw_input value_map = for j in xrange 1 2 * n for s in raw_input split  s = int s if s not in value_map value_map s = 1 else value_map s += 1 output = for s v in value_map iteritems if v % 2 > 0 output append s output sort print case #%s: %s % case  join str s for s in output 		3 43

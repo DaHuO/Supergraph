@@ -1,0 +1,1 @@
+def solve word newword = for x in list word strip if len newword == 0 newword append x else if x >= newword 0 newword insert 0 x else newword append x return join newword 		5 16

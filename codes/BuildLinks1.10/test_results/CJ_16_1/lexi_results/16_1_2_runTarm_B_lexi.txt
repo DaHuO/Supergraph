@@ -1,0 +1,1 @@
+def solve a c = defaultdict int for row in a for h in row c h += 1 l = sorted k for k v in c iteritems if v % 2 != 0 return  join map str l 		2 9

@@ -1,0 +1,3 @@
+findOccurences s ch 		20 21
+splitext main with open sys argv 1 r as f src 		51 63
+number_list findOccurences S chars = list S result = for number in while True positions = 		24 48

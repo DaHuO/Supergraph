@@ -1,0 +1,3 @@
+def getint return int inp strip 		13 14
+def getlist return map int inp strip split 		16 17
+def getstr return inp strip 		19 20

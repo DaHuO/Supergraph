@@ -1,0 +1,1 @@
+def solve inp ret = for c in inp if not ret ret += c else if c >= ret 0 ret = c + ret else ret += c return ret 		4 14

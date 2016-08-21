@@ -1,0 +1,2 @@
+def primesfrom3to n assert n >= 2 sieve = np ones n / 2 dtype = np bool for i in xrange 3 int n ** 0.5 + 1 2 if sieve i / 2 sieve i * i / 2 i = False return np r_ 2 2 * np nonzero sieve 0 1 + 1 		5 13
+def nontrivial_divisor n d = 1 for p in primes if n % p == 0 d = p break return d 		20 27

@@ -1,0 +1,65 @@
+Direct links:
+131 - 135 links:
+16_2_1_DanielCoder_code	:	71 - 75
+16_1_1_DanielCoder_code2	:	46 - 50
+
+3 - 4 links:
+16_2_1_DanielCoder_code	:	3 - 4
+16_1_1_DanielCoder_code2	:	4 - 5
+
+
+With same rare tokens:
+131 - 135 links:
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_1_DanielCoder_code	:	77 - 84
+16_1_1_DanielCoder_code2	:	46 - 50
+16_1_1_DanielCoder_code2	:	52 - 59
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_1_DanielCoder_code	:	71 - 75
+16_1_1_DanielCoder_code2	:	46 - 50
+16_1_1_DanielCoder_code2	:	46 - 50
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_1_DanielCoder_code	:	71 - 75
+16_1_1_DanielCoder_code2	:	46 - 50
+16_1_1_DanielCoder_code2	:	46 - 50
+
+137 - 144 links:
+16_2_1_DanielCoder_code	:	77 - 84
+16_1_1_DanielCoder_code2	:	52 - 59
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_1_DanielCoder_code	:	77 - 84
+16_1_2_erojas_rankandfile	:	18 - 19
+16_1_1_DanielCoder_code2	:	40 - 43
+16_1_1_DanielCoder_code2	:	52 - 59
+16_2_1_DanielCoder_code	:	77 - 84
+16_2_1_DanielCoder_code	:	77 - 84
+16_1_1_DanielCoder_code2	:	52 - 59
+16_1_1_DanielCoder_code2	:	52 - 59
+16_2_1_DanielCoder_code	:	71 - 75
+16_2_1_DanielCoder_code	:	77 - 84
+16_1_1_DanielCoder_code2	:	46 - 50
+16_1_1_DanielCoder_code2	:	52 - 59
+16_2_1_DanielCoder_code	:	77 - 84
+16_2_1_DanielCoder_code	:	77 - 84
+16_1_1_DanielCoder_code2	:	52 - 59
+16_1_1_DanielCoder_code2	:	52 - 59
+
+125 - 128 links:
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_1_DanielCoder_code	:	77 - 84
+16_1_2_erojas_rankandfile	:	18 - 19
+16_1_1_DanielCoder_code2	:	40 - 43
+16_1_1_DanielCoder_code2	:	52 - 59
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_1_DanielCoder_code	:	54 - 62
+16_2_2_Quilan_qb	:	28 - 42
+16_1_1_DanielCoder_code2	:	40 - 43
+16_1_1_DanielCoder_code2	:	29 - 37
+
+114 - 122 links:
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_1_DanielCoder_code	:	54 - 62
+16_2_2_Quilan_qb	:	28 - 42
+16_1_1_DanielCoder_code2	:	40 - 43
+16_1_1_DanielCoder_code2	:	29 - 37
+

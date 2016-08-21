@@ -1,0 +1,2 @@
+leftmost leftmost line word = for i in 		2 19
+numoftestcases numoftestcases with open a-large.in r as 		23 34

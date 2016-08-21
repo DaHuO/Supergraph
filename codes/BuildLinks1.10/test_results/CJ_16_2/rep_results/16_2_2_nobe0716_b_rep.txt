@@ -1,0 +1,2 @@
+get_winner c_elem j_elem c_elem j_elem c_elem j_elem 		12 20
+g_min new_min new_min g_min g_min new_min g_c g_j g_c g_j new_winner get_winner new_winner new_winner j global c_val = int join list map str c j_val = int join list map str j = abs c_val - j_val if < = global global = c copy = j copy else c_idx = - 1 j_idx = - 1 for i in range len c if c i == ? and j i == ? j_idx = c_idx = i break elif c 		23 121

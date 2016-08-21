@@ -1,0 +1,4 @@
+def winners n ans = for c in r p s cur = c for i in xrange n cur = join exp x for x in cur ans append multisort cur n return ans 		23 30
+def swap s pos1 pos2 length return s pos1 + s pos2 pos2 + length + s pos1 + length pos2 + 		5 10
+def multisort s n for i in xrange 1 n + 1 for j in xrange 0 len s 2 ** i if s j j + 2 ** i - 1 > s j + 2 ** i - 1 j + 2 ** i s = swap s j j + 2 ** i - 1 2 ** i - 1 return s 		13 21
+def sol_quick n r p s for w in winners n if w count r == r and w count p == p and w count s == s return w return impossible 		32 36

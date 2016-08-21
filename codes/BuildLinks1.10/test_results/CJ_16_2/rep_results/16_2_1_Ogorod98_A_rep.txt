@@ -1,0 +1,1 @@
+def solve inp = input letters = dict for c in map chr range ord A ord Z + 1 letters c 		3 11

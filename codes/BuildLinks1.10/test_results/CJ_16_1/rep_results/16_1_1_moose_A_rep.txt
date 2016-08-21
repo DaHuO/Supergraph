@@ -1,0 +1,1 @@
+def solve word last_word = word 		7 17

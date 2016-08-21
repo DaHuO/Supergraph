@@ -1,0 +1,1 @@
+def cal a b global m gooda goodb if a find ? == - 1 and b find ? == - 1 if m > abs int a - int b m = abs int a - int b gooda = a goodb = b return for i in range 10 if a find ? != - 1 cal a replace ? str i 1 b else cal a b replace ? str i 1 		7 20

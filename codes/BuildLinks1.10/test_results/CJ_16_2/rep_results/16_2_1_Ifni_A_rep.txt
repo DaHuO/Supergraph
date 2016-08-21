@@ -1,0 +1,1 @@
+def remove S nb 		4 6

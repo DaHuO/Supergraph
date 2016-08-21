@@ -1,0 +1,7 @@
+def MIN s return s replace ? 0 		48 49
+def FindBest data best = 1e25 for row in data if D row 0 row 1 < best best = D row 0 row 1 bestO = row 0 bestR = row 1 if D row 0 row 1 == best and row 0 < bestO bestO = row 0 bestR = row 1 if D row 0 row 1 == best and row 0 == bestO and row 1 < bestR bestO = row 0 bestR = row 1 print bestO bestR 		30 44
+def Equality one two ans = for d in range len one if one d == two d == ? ans += 0 if one d != ? and two d == ? ans += One d if one d == ? and two d != ? ans += Two d if one d != ? and two d != ? ans += one d return ans 		17 28
+def I letter return ord letter - 64 		5 6
+def D s1 s2 return abs int s1 - int s2 		8 9
+def MAX s return s replace ? 9 		46 47
+def Deviation one two for d in range len one if ? != one d != two d != ? return d return - 1 		11 15

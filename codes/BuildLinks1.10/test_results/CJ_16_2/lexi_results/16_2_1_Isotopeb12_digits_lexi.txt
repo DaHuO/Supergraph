@@ -1,0 +1,1 @@
+def remove_chars counts dig n if n == 0 return for c in dig counts c -= n 		15 18

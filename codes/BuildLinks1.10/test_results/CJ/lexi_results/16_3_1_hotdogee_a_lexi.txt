@@ -1,0 +1,1 @@
+def solve p t = sum p ep = pt = zip alpha p while t > 0 es = pt = sorted pt key = lambda x x 1 reverse = true es += pt 0 0 pt 0 = pt 0 0 pt 0 1 - 1 t -= 1 if t == 2 ep append es continue if pt 1 1 > pt 0 1 es += pt 1 0 pt 1 = pt 1 0 pt 1 1 - 1 t -= 1 else es += pt 0 0 pt 0 = pt 0 0 pt 0 1 - 1 t -= 1 ep append es return  join ep 		6 29

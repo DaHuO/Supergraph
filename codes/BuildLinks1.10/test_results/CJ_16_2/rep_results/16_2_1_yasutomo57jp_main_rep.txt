@@ -1,0 +1,1 @@
+def check S resulthist = 0 * 10 sumhist = np asarray 0 * len chars dtype = np int for c in S sumhist chars c += 1 resulthist 0 = sumhist chars Z sumhist -= np asarray hists 0 dtype = np int * 		31 84

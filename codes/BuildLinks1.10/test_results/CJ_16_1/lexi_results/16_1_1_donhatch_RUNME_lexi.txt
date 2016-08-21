@@ -1,0 +1,1 @@
+def naive0 s answer = for c in s answer = max c + answer answer + c return answer 		5 9

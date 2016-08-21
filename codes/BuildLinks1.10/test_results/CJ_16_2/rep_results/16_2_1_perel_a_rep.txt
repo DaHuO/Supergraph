@@ -1,0 +1,2 @@
+as.in a.out time0 time1 %.3f time1 %.3f time0 w = time time t 		47 60
+def solve s ss = Counter s res = 0 * 10 res 0 = ss Z for i in ZERO ss i -= res 0 res 2 = ss W for i 		8 45

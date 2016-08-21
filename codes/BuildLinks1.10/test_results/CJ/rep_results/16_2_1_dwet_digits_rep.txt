@@ -1,0 +1,3 @@
+do_second subtract_num n 		39 42
+subtract_easy subtract_num ans = defaultdict int for 		22 29
+subtract_num counts num times for 		16 20

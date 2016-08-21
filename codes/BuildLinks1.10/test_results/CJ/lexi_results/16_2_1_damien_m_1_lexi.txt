@@ -1,0 +1,2 @@
+def possible_numbers c for i n in enumerate numbers c2 = counter n for k v in c2 items if c k < v break else yield i n 		7 14
+def solve case built = none if case most_common 1 0 1 == 0 return true built if built is none built = c = counter case for i n in possible_numbers c c2 = copy deepcopy c c2 subtract n ok final = solve c2 built + i if ok return ok final return false 		16 27

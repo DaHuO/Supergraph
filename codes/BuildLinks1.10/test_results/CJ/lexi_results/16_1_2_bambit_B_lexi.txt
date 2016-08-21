@@ -1,0 +1,1 @@
+def solve t n = int sys stdin readline rstrip cnts = for i in range 2 * n - 1 l = map int sys stdin readline rstrip split for num in l cnts num = cnts get num 0 + 1 cands = sorted k for k v in cnts iteritems if v % 2 == 1 assert len cands == n print case #{}: {} format t  join map str cands 		5 16

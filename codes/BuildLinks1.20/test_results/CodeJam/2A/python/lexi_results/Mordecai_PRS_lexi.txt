@@ -1,0 +1,2 @@
+def prs n p r s if any x > 1 for x in p - s r - p s - r return impossible if n == 1 if s == 0 return pr if r == 0 return ps if p == 0 return rs if s % 2 == 0 el = prs n - 1 p / 2 r / 2 + 1 s / 2 prs n - 1 p / 2 + 1 r / 2 s / 2 if p % 2 == 0 el = prs n - 1 p / 2 r / 2 + 1 s / 2 prs n - 1 p / 2 r / 2 s / 2 + 1 if r % 2 == 0 el = prs n - 1 p / 2 r / 2 s / 2 + 1 prs n - 1 p / 2 + 1 r / 2 s / 2 return join sorted el 		1 10
+def main cases = int raw_input for case in range 1 cases + 1 n r p s = map int raw_input split print case #%i: % case prs n p r s 		12 16

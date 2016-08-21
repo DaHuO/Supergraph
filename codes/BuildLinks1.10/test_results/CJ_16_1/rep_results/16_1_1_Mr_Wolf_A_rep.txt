@@ -1,0 +1,2 @@
+resolver str res = str 1 		1 8
+resolver main t = 		10 13

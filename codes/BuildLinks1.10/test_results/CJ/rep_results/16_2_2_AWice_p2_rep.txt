@@ -1,0 +1,2 @@
+phrase phrase num n for 		3 8
+def solve a b n = len a best = 10 ** n pa = pb = for i in a 		13 59

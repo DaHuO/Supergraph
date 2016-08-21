@@ -1,0 +1,1 @@
+num_string num_string num_string counted_letters = defaultdict int for c in S counted_letters c += 1 numbers = defaultdict int while counted_letters Z numbers 0 += 1 for c in ZERO counted_letters c -= 1 while counted_letters W numbers 		5 59

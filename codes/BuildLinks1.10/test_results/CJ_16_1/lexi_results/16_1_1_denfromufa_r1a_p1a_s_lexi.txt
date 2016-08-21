@@ -1,0 +1,1 @@
+def nextwords s if len s <= 1 yield s else for perm in nextwords s - 1 yield max perm + s - 1 s - 1 + perm 		4 12

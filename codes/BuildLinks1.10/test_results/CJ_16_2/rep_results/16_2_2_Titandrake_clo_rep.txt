@@ -1,0 +1,1 @@
+def ok n1 n2 s1 s2 q1 = str n1 q2 = str n2 q1 = 		5 16

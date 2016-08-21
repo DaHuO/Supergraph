@@ -1,0 +1,6 @@
+		16 17
+def print_solution 		24 25
+read_input_multi 		12 13
+def read_input 		8 9
+read_int_multi 		20 21
+order_d solve s = read_input lower num = for 		34 44

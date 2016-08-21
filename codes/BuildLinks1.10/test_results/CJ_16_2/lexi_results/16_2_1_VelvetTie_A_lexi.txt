@@ -1,0 +1,1 @@
+def remove p numstr for c in numstr p = p replace c 1 return p 		11 14

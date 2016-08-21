@@ -1,0 +1,1 @@
+def solve ws c = Counter ws numbers = for n in order u = uniq n if u in c m = c u numbers += n * m for ch in nums n c ch -= m return join str x for x in sorted numbers 		8 19

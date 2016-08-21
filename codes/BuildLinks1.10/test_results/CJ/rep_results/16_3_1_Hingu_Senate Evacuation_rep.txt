@@ -1,0 +1,1 @@
+newo maxvalue maxvalue newo newo newo ascii_uppercase for t in xrange int raw_input strip n = int raw_input strip senators = map int raw_input strip split  output = = while sum senators != 0 = max senators maxindex 		2 35

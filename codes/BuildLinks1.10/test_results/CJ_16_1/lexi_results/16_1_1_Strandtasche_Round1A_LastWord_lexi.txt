@@ -1,0 +1,2 @@
+def getstr return file readline 		4 5
+def getints vals = list for s in file readline split vals append s return vals 		6 10

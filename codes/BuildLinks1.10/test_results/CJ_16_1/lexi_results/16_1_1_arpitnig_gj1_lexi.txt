@@ -1,0 +1,2 @@
+def main f = open input1.txt r n = int f readline testcases = for i in range n t = f readline rstrip \n testcases append calculate t fo = open output1.txt w+ for i in range n fo write case #{0}: {1} \n format i + 1 testcases i 		1 11
+def calculate t s = s insert 0 t 0 for i in range 1 len t l = len s for j in range len s x = s j s append t i + x s append x + t i s = s l len s y = sorted s print y - 1 return y - 1 		14 29

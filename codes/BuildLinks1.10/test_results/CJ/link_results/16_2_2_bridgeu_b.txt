@@ -1,0 +1,17 @@
+Direct links:
+3 - 4 links:
+16_2_2_317070_main	:	39 - 40
+16_0_4_317070_main	:	66 - 67
+16_2_1_317070_main	:	59 - 60
+16_2_1_bridgeu_a	:	4 - 5
+16_3_1_317070_main	:	26 - 27
+
+
+With same rare tokens:
+6 - 60 links:
+16_2_2_xiae_oneb	:	39 - 81
+16_2_2_xiae_oneb	:	39 - 81
+16_2_2_xiae_oneb	:	39 - 81
+16_2_2_xiae_oneb	:	39 - 81
+16_2_2_xiae_oneb	:	39 - 81
+

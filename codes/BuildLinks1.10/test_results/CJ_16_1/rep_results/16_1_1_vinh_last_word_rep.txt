@@ -1,0 +1,2 @@
+map_alphabet lookup = 		2 6
+def f lookup word word = word upper last_word 		8 20

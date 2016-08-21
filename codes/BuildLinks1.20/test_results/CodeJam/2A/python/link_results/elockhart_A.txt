@@ -1,0 +1,43 @@
+Direct links:
+49 - 51 links:
+mrauen_A	:	55 - 61
+
+22 - 23 links:
+EricStansifer_common	:	15 - 16
+
+
+With same rare tokens:
+49 - 51 links:
+EricDLee_A	:	36 - 50
+EricDLee_A	:	59 - 69
+
+22 - 23 links:
+mihaild_template	:	4 - 5
+cailw_a	:	6 - 7
+EricStansifer_common	:	35 - 75
+EricStansifer_common	:	15 - 16
+
+72 - 76 links:
+EricDLee_A	:	36 - 50
+EricDLee_A	:	59 - 69
+
+28 - 29 links:
+tanriol_A	:	68 - 76
+EricStansifer_a	:	41 - 46
+cailw_a	:	8 - 9
+EricStansifer_common	:	21 - 23
+
+25 - 26 links:
+tanriol_A	:	68 - 76
+EricStansifer_a	:	41 - 46
+cailw_a	:	8 - 9
+EricStansifer_common	:	21 - 23
+
+65 - 70 links:
+EricDLee_A	:	36 - 50
+EricDLee_A	:	59 - 69
+
+40 - 47 links:
+FatAlex_a	:	84 - 85
+FatAlex_a	:	107 - 108
+

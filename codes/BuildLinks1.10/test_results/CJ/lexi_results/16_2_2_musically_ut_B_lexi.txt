@@ -1,0 +1,1 @@
+def make_possible arr s = none if s is none s = elif len s == len arr return s combs = for elem in arr len s for x in elem combs extend make_possible arr s + x return combs 		7 19

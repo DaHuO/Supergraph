@@ -1,0 +1,1 @@
+def subtract counter number 		21 26

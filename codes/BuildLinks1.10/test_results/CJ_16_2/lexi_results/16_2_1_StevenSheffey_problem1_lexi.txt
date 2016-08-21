@@ -1,0 +1,1 @@
+def in_string string sub_string string = list string for char in sub_string if char in string string remove char else return False return True join string 		5 12

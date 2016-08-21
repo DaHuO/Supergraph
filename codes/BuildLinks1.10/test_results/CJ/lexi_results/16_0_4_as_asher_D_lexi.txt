@@ -1,0 +1,2 @@
+def print_case case res print case #%i: % case res 		20 21
+def child i c k if c <= 1 return i return k * child i c - 1 k + k 		23 26

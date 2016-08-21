@@ -1,0 +1,1 @@
+def remove_letters s letters for letter in letters s = s replace letter 1 return s 		5 8

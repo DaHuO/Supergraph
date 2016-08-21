@@ -1,0 +1,31 @@
+Direct links:
+49 - 51 links:
+16_1_1_dpforest_A	:	38 - 40
+16_1_3_dpforest_Cs	:	43 - 45
+16_1_1_dpforest_A	:	41 - 43
+16_1_3_dpforest_Cs	:	46 - 48
+
+36 - 38 links:
+16_1_1_dpforest_A	:	22 - 24
+16_1_1_dpforest_A	:	25 - 27
+16_1_3_dpforest_Cs	:	30 - 32
+16_1_3_dpforest_Cs	:	27 - 29
+
+
+With same rare tokens:
+49 - 51 links:
+16_1_1_dpforest_A	:	38 - 40
+16_1_3_dpforest_Cs	:	43 - 45
+
+39 - 41 links:
+16_1_1_dpforest_A	:	28 - 30
+16_1_3_dpforest_Cs	:	33 - 35
+
+52 - 54 links:
+16_1_1_dpforest_A	:	41 - 43
+16_1_3_dpforest_Cs	:	46 - 48
+
+55 - 57 links:
+16_1_1_dpforest_A	:	44 - 46
+16_1_3_dpforest_Cs	:	49 - 51
+

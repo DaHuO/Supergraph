@@ -1,0 +1,3 @@
+slice str_pop s c 		18 23
+slice s i if i == 		10 16
+def phone_number s p if len s == 0 return p if bool re search Z s p += 0 s = str_pop s Z s = str_pop s E s = str_pop s R s = str_pop s O elif bool re search W s p += 2 s = str_pop s T s = str_pop s W 		25 88

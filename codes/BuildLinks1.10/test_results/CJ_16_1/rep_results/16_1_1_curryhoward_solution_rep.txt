@@ -1,0 +1,1 @@
+def last_word s buf = s 		8 19

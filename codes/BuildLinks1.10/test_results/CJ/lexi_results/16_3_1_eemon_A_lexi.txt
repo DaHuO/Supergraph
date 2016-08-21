@@ -1,0 +1,1 @@
+def check p s = sum p if s == 0 return true return all p / s <= 0.5 for p in p 		4 8

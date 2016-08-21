@@ -1,0 +1,2 @@
+def write_res file_name res with open file_name w as f res_str = for i in range len res - 1 res_str += case #{}: format i + 1 + str res i + \n res_str += case #{}: format i + 2 + str res - 1 f write res_str 		8 14
+def helper s if s == return s q = deque left = s 0 q append s 0 for l in s 1 if left > l q append l else left = l q appendleft l res = join list q return res 		16 29

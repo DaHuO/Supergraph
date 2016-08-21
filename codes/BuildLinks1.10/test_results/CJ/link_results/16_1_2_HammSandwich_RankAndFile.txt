@@ -1,0 +1,131 @@
+Direct links:
+49 - 50 links:
+16_3_1_HammSandwich_SenateEvacuation	:	68 - 69
+
+44 - 47 links:
+16_3_1_HammSandwich_SenateEvacuation	:	63 - 66
+
+34 - 38 links:
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+
+
+With same rare tokens:
+49 - 50 links:
+16_3_1_HammSandwich_SenateEvacuation	:	78 - 80
+16_3_1_HammSandwich_SenateEvacuation	:	68 - 69
+16_3_1_HammSandwich_SenateEvacuation	:	71 - 72
+16_3_1_HammSandwich_SenateEvacuation	:	74 - 76
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	82 - 83
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+
+3 - 15 links:
+16_3_1_HammSandwich_SenateEvacuation	:	6 - 15
+16_3_1_HammSandwich_SenateEvacuation	:	71 - 72
+16_3_1_HammSandwich_SenateEvacuation	:	6 - 15
+16_3_1_HammSandwich_SenateEvacuation	:	6 - 15
+16_3_1_HammSandwich_SenateEvacuation	:	71 - 72
+16_3_1_HammSandwich_SenateEvacuation	:	6 - 15
+16_3_1_HammSandwich_SenateEvacuation	:	6 - 15
+16_3_1_HammSandwich_SenateEvacuation	:	74 - 76
+16_3_1_HammSandwich_SenateEvacuation	:	6 - 15
+
+34 - 38 links:
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	59 - 61
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+
+52 - 53 links:
+16_3_1_HammSandwich_SenateEvacuation	:	71 - 72
+16_3_1_HammSandwich_SenateEvacuation	:	6 - 15
+16_3_1_HammSandwich_SenateEvacuation	:	6 - 15
+16_3_1_HammSandwich_SenateEvacuation	:	78 - 80
+16_3_1_HammSandwich_SenateEvacuation	:	68 - 69
+16_3_1_HammSandwich_SenateEvacuation	:	71 - 72
+16_3_1_HammSandwich_SenateEvacuation	:	74 - 76
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	82 - 83
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+
+40 - 42 links:
+16_3_1_HammSandwich_SenateEvacuation	:	53 - 57
+16_3_1_HammSandwich_SenateEvacuation	:	59 - 61
+16_3_1_HammSandwich_SenateEvacuation	:	59 - 61
+
+66 - 74 links:
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	78 - 80
+16_3_1_HammSandwich_SenateEvacuation	:	68 - 69
+16_3_1_HammSandwich_SenateEvacuation	:	71 - 72
+16_3_1_HammSandwich_SenateEvacuation	:	74 - 76
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	82 - 83
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+
+76 - 84 links:
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+16_3_1_HammSandwich_SenateEvacuation	:	78 - 80
+16_3_1_HammSandwich_SenateEvacuation	:	68 - 69
+16_3_1_HammSandwich_SenateEvacuation	:	71 - 72
+16_3_1_HammSandwich_SenateEvacuation	:	74 - 76
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	82 - 83
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+
+55 - 57 links:
+16_3_1_HammSandwich_SenateEvacuation	:	74 - 76
+16_3_1_HammSandwich_SenateEvacuation	:	6 - 15
+16_3_1_HammSandwich_SenateEvacuation	:	78 - 80
+16_3_1_HammSandwich_SenateEvacuation	:	68 - 69
+16_3_1_HammSandwich_SenateEvacuation	:	71 - 72
+16_3_1_HammSandwich_SenateEvacuation	:	74 - 76
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	82 - 83
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+
+63 - 64 links:
+16_3_1_HammSandwich_SenateEvacuation	:	82 - 83
+16_3_1_HammSandwich_SenateEvacuation	:	78 - 80
+16_3_1_HammSandwich_SenateEvacuation	:	68 - 69
+16_3_1_HammSandwich_SenateEvacuation	:	71 - 72
+16_3_1_HammSandwich_SenateEvacuation	:	74 - 76
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	82 - 83
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+
+86 - 96 links:
+16_3_1_HammSandwich_SenateEvacuation	:	105 - 115
+
+59 - 61 links:
+16_3_1_HammSandwich_SenateEvacuation	:	78 - 80
+16_3_1_HammSandwich_SenateEvacuation	:	78 - 80
+16_3_1_HammSandwich_SenateEvacuation	:	68 - 69
+16_3_1_HammSandwich_SenateEvacuation	:	71 - 72
+16_3_1_HammSandwich_SenateEvacuation	:	74 - 76
+16_3_1_HammSandwich_SenateEvacuation	:	85 - 93
+16_3_1_HammSandwich_SenateEvacuation	:	82 - 83
+16_3_1_HammSandwich_SenateEvacuation	:	95 - 103
+

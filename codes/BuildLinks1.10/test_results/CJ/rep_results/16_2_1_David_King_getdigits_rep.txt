@@ -1,0 +1,2 @@
+load_info f 		4 7
+num_pool check_pool wto xsi vfie rthee teigh check_pool num_pool num_pool f readline strip \n = list line = 		9 39

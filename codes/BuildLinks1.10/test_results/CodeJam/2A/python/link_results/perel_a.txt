@@ -1,6 +1,5 @@
-50 - 63 links:
-cailw_a	:	12 - 13
 
+With same rare tokens:
 8 - 38 links:
 AdGold_A	:	24 - 32
 

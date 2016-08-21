@@ -1,0 +1,2 @@
+def 		10 12
+def solve s last_word = 		1 7

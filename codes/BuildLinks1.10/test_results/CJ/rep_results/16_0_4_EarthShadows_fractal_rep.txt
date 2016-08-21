@@ -1,0 +1,2 @@
+do_print case positions out 		3 7
+calc_position warning c positions if len positions != c 		9 20

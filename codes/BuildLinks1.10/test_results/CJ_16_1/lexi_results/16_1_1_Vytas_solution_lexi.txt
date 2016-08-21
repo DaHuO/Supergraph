@@ -1,0 +1,2 @@
+def parse_case self lines return lines next strip 		25 26
+def solve self case whiteboard = for letter in case if not whiteboard or letter >= whiteboard 0 whiteboard = letter + whiteboard else whiteboard = whiteboard + letter return whiteboard 		16 23

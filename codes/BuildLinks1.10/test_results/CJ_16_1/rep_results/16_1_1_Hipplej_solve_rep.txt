@@ -1,0 +1,3 @@
+def main filename n cases = read_input 		26 37
+def handle_case case chars = 		16 23
+def read_input filename n = none 		6 13

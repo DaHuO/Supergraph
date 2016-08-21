@@ -1,0 +1,1 @@
+def last_word s tmp = for ch in s if len tmp == 0 tmp append ch elif ord tmp 0 > ord ch tmp append ch else tmp insert 0 ch lw = join tmp print lw return lw 		1 12

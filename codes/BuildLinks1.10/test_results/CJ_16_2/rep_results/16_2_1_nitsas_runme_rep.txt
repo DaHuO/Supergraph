@@ -1,0 +1,5 @@
+description _program_description _input_file_description = 		40 49
+assemble_phone_string digit_count parts 		81 85
+decrypt_phone letter_string letter_string sanity_check assemble_phone_string 10 letter_count = Counter digit_count 0 = letter_count Z digit_count 2 = letter_count W 		52 73
+sanity_check digit_count 		76 78
+encoding utf-8 decrypt_phone with open filename r = 		88 94

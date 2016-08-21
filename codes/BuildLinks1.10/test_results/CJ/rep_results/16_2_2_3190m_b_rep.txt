@@ -1,0 +1,1 @@
+ptn_c [0-9] ptn_j [0-9] fm {0:0 d} cand_all fm fullmatch ptn_c cand_all fullmatch ptn_j cand_all len c + = format i for i in range 10 ** len 		11 41

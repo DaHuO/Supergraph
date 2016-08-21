@@ -1,0 +1,2 @@
+def better res1 res2 d1 = abs int res1 0 - int res1 		4 13
+cpref cpref c j mode if not c return if c 0 != ? and j 0 != ? if mode == 0 and c 0 != j 0 mode = 1 if c 0 > j 0 else - 1 res = solve c 1 j 1 mode return c 0 + res 0 j 0 + res 1 if c 0 == ? and 		15 73

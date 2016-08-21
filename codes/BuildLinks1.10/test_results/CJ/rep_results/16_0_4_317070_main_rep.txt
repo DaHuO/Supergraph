@@ -1,0 +1,7 @@
+def read_floats 		72 73
+def read_strs 		70 71
+read_frac return 		68 69
+search_positions search_positions search_positions search_positions s = for i in xrange 1 k + 1 c if i + c - 1 <= k 		7 36
+printme here: \n%s printme s answer for setup in k 		50 61
+def read_ints 		66 67
+printme lg c s from itertools import product for orig 		38 48

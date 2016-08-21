@@ -1,0 +1,2 @@
+cx budget cx budget case #{0}: {1} test_num 		10 16
+cx budget budget cx tn 		4 8

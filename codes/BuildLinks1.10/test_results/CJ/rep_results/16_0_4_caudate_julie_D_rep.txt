@@ -1,0 +1,2 @@
+intodec line base return 		18 19
+intodec fractile k c s if c * s < k return impossible 		21 37

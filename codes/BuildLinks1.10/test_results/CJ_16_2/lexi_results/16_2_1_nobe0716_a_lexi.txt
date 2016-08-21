@@ -1,0 +1,2 @@
+def match_chr c r chr idx for i in range c chr c = reduce c idx r append idx return c r 		19 23
+def reduce c idx for elem in nums idx c elem -= 1 return c 		13 16

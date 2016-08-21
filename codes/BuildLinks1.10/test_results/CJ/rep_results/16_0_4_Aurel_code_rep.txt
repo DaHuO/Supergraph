@@ -1,0 +1,3 @@
+lookpositionaux numindices numindices lookpositionaux lookpositionaux numindices == 0 return 		19 24
+lookposition startidx numindices startidx numindices 		10 13
+inputints 		7 8

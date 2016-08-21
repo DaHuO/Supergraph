@@ -1,0 +1,3 @@
+		80 81
+b_sc1 b_sc2 b_sc1 b_sc2 b_sc1 b_sc2 = sc2 cmp_flag = 0 l = len sc1 sc1 = list sc1 sc2 = list sc2 for i in range l if sc1 i == ? and sc2 i 		35 74
+%%0%sd %%0%sd sc1 sc2 l = len sc1 x1 = sc1 count ? x2 = sc2 count ? sc1 = sc1 replace ? %s 		1 31

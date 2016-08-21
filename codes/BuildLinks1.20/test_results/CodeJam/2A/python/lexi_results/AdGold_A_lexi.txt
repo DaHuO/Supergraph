@@ -1,0 +1,2 @@
+def solve vals n r p s = tuple map int vals for top in rsp tree = get_tree top n if tree count r == r and tree count s == s and tree count p == p return tree return impossible 		24 32
+def get_tree top depth if depth == 0 return top a = get_tree top depth - 1 b = get_tree beats top depth - 1 if a < b return a + b else return b + a 		13 21

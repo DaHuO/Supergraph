@@ -1,0 +1,1 @@
+def remove_digit d n h if h <= 0 return for i in digits n d i -= h 		6 10

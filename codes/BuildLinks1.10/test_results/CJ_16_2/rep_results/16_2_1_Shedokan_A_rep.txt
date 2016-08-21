@@ -1,0 +1,7 @@
+def 		32 32
+def 		27 27
+read_parts 		28 28
+digit_s digit_map S digits = for ds 		50 59
+def 		30 30
+def 		31 31
+def 		29 29

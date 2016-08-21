@@ -1,0 +1,1 @@
+str_num str_num sortedlst sortedlst lst = list while len lst > 0 if Z in lst numbers append 0 lst remove Z lst remove E lst remove R lst remove O elif W in lst numbers append 2 lst remove T lst remove W lst remove O elif X in lst numbers append 6 lst remove S lst remove I 		1 73

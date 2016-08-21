@@ -1,0 +1,4 @@
+findloop looplen looplen oldcur oldcur oldcur looplen i in range n cp 		29 46
+maxchain newq newq newq b visited = 0 * n rt = 0 dist 		7 27
+def pr 		2 5
+maxchain maxchain findloop bff rev = for i in range n for i in 		51 64

@@ -1,0 +1,3 @@
+def test dict val tmp 		5 10
+def fun d = defaultdict int s = raw_input r = 		12 22
+def 		2 2

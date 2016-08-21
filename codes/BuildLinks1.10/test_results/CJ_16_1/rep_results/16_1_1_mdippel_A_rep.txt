@@ -1,0 +1,6 @@
+processinput t = 		8 14
+		42 43
+algorithm test_case s = 		34 40
+writeoutput 		17 20
+runalgorithm processinput algorithm writeoutput test_case in results 		45 53
+def brute_force curr remain if len remain 		24 31

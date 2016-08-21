@@ -1,0 +1,5 @@
+validScores regexp regexp re compile pattern replace 		15 20
+def solve c j numDigits = len c best = 10 ** numDigits None None def rec i sc sj if i == numDigits best 0 = min best 0 abs sc - sj sc sj else pc = c i pj = j i if pc == ? and pj == ? if sc < sj rec i + 1 sc * 10 + 9 sj * 10 elif sc > 		22 75
+def parse inp c 		10 13
+def rec i sc sj if i == numDigits best 0 = min best 0 abs sc - sj sc sj else pc = c i pj = j i if pc == ? and pj == ? if sc < sj rec i + 1 sc * 10 + 9 sj * 10 elif sc > sj rec i + 1 sc * 10 		25 67
+setrecursionlimit RECURSION_LIMIT soft getrlimit setrlimit MEM_LIMIT_GB 1024 apply apply_async [%s/%s] %%s\n RLIMIT_AS resource resource RLIMIT_AS * ** 3 hard with open FILE_NAME_BASE + .in r as inp numCases = 		77 105

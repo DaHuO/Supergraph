@@ -1,0 +1,5 @@
+def wrappedRec numstr global answer answer = recurse getDigit numstr 0 answer = sorted answer ansstr = for ele in answer ansstr += str ele return ansstr 		60 69
+def checkAllZero numdict for ele in numdict if numdict ele != 0 return False return True 		21 25
+def getDigit strnum numdict = for ele in strnum if ele in numdict numdict ele += 1 else numdict ele = 1 return numdict 		1 8
+def recurse numdict result startI global answer if checkAllZero numdict answer = list result for i in range startI len numCharList ele = numCharList i temp = dict numdict for elechar in ele notContain = False if elechar in temp temp elechar -= ele elechar else notContain = True break if notContain continue if containMinus temp continue result append i recurse temp result i result remove i 		35 58
+def containMinus numdict for ele in numdict if numdict ele < 0 return True return False 		27 31

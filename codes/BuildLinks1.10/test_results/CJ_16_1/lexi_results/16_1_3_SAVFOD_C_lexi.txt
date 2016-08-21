@@ -1,0 +1,6 @@
+def find_longest_path_to_pair links n = len links paired = for i in range n if links links i == i paired append i ilinks = for i in range n for i in range n if links links i != i ilinks links i append i answer = sum 0 + dfs ilinks p + dfs ilinks links p for p in paired // 2 return answer 		52 66
+def dfs ilinks v if len ilinks v == 0 return 1 else return 1 + max dfs ilinks i for i in ilinks v 		45 49
+def save i links answers answer while answers i == unknown answers i = answer i = links i 		9 12
+def find list el for i in range len list if list i == el return i return - 1 		3 7
+def tryit i links answers if answers i != unknown return cur = i visited = set visited_list = while true visited add cur visited_list append cur cur = links cur if answers cur != unknown save i links answers answers cur return if cur in visited index = find visited_list cur answer = len visited_list - index save i links answers answer return 		14 34
+def find_smallest_length links n = len links answers = unknown * n for i in range n tryit i links answers return max answers 		36 43

@@ -1,0 +1,3 @@
+def solve strings n = 0 for uniques in powerset strings n = max n check uniques strings return n 		33 37
+def check uniques full d1 d2 = set set d = set uniques for u in uniques d1 add u 0 d2 add u 1 for s in full if s in d continue if s 0 in d1 and s 1 in d2 continue return 0 return len full - len uniques 		20 31
+def powerset iterable s = list iterable return chain from_iterable combinations s r for r in range len s + 1 		14 16

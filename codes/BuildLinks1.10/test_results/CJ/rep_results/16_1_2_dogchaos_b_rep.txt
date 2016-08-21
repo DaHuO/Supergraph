@@ -1,0 +1,5 @@
+make_test ../test 1\n2000\n 2000 %d\n 		43 48
+def line a 		55 56
+../in.in ../out self fin = open r fout 		30 41
+def process self fin fout max_l = 2501 ans_list = n = int fin readline strip h = false for _ in 		4 28
+nc2 n 		51 52

@@ -1,0 +1,3 @@
+def revenge_of_the_pancakes pancakes last_pancake = + n_maneuver = 0 for pancake in reversed pancakes if pancake == last_pancake pass else n_maneuver += 1 last_pancake = pancake return n_maneuver 		18 30
+def counting_sheep n digits = set range 10 for i in range 1 int 1e6 number = i * n digits difference_update int x for x in str number if not digits return number return insomnia 		6 16
+def the_last_word letters if not letters return last_word = collections deque letters 0 for character in letters 1 if ord character < ord last_word 0 last_word append character else last_word appendleft character return join last_word 		32 44

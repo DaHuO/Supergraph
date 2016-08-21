@@ -1,0 +1,2 @@
+def cnt competitors res = r 0 p 0 s 0 for i in range len competitors res competitors i += 1 return res 		25 31
+def solve winner rounds if rounds == 0 return winner if winner == r finalist = s elif winner == p finalist = r else finalist = p half1 = solve winner rounds - 1 half2 = solve finalist rounds - 1 if half1 + half2 < half2 + half1 return half1 + half2 return half2 + half1 		6 22

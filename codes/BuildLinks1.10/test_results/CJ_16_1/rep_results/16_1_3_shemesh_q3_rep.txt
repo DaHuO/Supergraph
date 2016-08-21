@@ -1,0 +1,7 @@
+getused l max_num_in_circle = 0 used_list = false * len l used_in_circle = false * len l while sum used_list != 		145 168
+findmaxlinefor2circle l circle used_list n = len l max_line_len1 = 0 max_line_len2 = 0 in_lines = false * n local_used_list = used_list while sum local_used_list != n n_list = 		23 63
+find2circles l n = len l couples = used 		11 21
+findlinelens tmp_line_list tmp_line_list tmp_line_list len l max_num_in_circle = 0 used_list = false * len l circle_list = false * len l line_list = 0 * n while sum used_list != len l n_list = 0 * len l for i 		66 118
+func_2 find2circles getused sum_m findmaxlinefor2circle sum_m 		1 9
+func_1 l max_num_in_circle = 0 used_list = false * len l while sum used_list != len l n_list 		121 143
+func_1 func_2 		171 175

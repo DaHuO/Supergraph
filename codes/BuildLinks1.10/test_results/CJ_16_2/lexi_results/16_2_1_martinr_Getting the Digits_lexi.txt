@@ -1,0 +1,2 @@
+def solve s def fits digit cnt s = set digit for c in s if not c in cnt or digit count c > cnt c return False return True A = SIX EIGHT TWO ZERO FIVE THREE FOUR NINE SEVEN ONE D = ZERO 0 ONE 1 TWO 2 THREE 3 FOUR 4 FIVE 5 SIX 6 SEVEN 7 EIGHT 8 NINE 9 cnt = for c in set s cnt c = s count c l = 0 res = for d in A while fits d cnt res append D d l += len d for c in d cnt c -= 1 res sort if l <> len s print cnt return join res 		2 31
+def fits digit cnt s = set digit for c in s if not c in cnt or digit count c > cnt c return False return True 		3 8

@@ -1,0 +1,2 @@
+def max_idx 		4 5
+print_evacuation 0.0 idxp idxp idxp idxp aaaa %f while n > 0 curr_evac = ratio = while len curr_evac 		8 39

@@ -1,0 +1,1 @@
+def lastword s l = for i in s if l is l += i elif i >= l 0 l = i + l else l += i return l 		1 11

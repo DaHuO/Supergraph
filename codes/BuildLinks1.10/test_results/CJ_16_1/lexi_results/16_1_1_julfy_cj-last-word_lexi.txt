@@ -1,0 +1,1 @@
+def scan s biggest = last = for c in s if c >= biggest biggest = c last insert 0 c else last append c return join last 		3 12

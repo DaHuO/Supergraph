@@ -1,0 +1,1 @@
+def solve c j qc qj cp = c jp = j minc minj = 0 0 mind minc minj = 1e9 1e9 1e9 if len qc == 0 for y in product 0123456789 repeat = len qj for qj in range len qj jp qj qj = y qj c j = int join i for i in cp int join i for i in jp dist = abs c - j if dist < mind 		4 117

@@ -1,0 +1,2 @@
+def solve test word 		9 11
+def 		6 7

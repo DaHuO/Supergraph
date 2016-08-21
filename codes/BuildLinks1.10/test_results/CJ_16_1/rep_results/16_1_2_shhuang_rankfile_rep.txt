@@ -1,0 +1,2 @@
+l_ints l_ints incorrect n = len lists + 1 / 2 nums = for l in 		5 23
+def parse_file num_lines = - 1 with open sys argv 1 r as f lines = 		25 44

@@ -1,2 +1,2 @@
-RSP get_tree vals n r p s = 		24 32
-get_tree get_tree get_tree if depth == 0 		13 21
+RSP solve vals n r p s = 		24 32
+def get_tree top depth if depth == 		13 21

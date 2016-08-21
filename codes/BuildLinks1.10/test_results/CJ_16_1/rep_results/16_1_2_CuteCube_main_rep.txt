@@ -1,0 +1,1 @@
+total_t total_t f = open input.txt r = int f readline for t in xrange 1 + 1 n = int f readline rstrip \n lists = map int f readline rstrip \n split 		5 42

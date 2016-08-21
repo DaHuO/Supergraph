@@ -1,3 +1,3 @@
 bits ~ ^= 		19 23
-matchup matchup new_matchup matchup orderings matchup new_matchup new_matchup = for 		25 35
+new_matchup orderings new_matchup new_matchup if N == 0 return matchup 		25 35
 def solve N R P S best = presolve N R if R P 		7 17

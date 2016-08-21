@@ -1,0 +1,1 @@
+def solve s s = list s res = res append s 0 for i in range 1 len s if s i >= res 0 res insert 0 s i else res append s i return join str x for x in res 		1 10

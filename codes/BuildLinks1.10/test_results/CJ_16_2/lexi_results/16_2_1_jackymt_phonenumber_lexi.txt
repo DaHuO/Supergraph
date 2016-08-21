@@ -1,0 +1,4 @@
+def _soln s p r = for kp in p r append kp rm = take kp s _soln 		70 75
+def possible s i_count = for c in s if c not in i_count i_count c = 0 i_count c += 1 rs = for k v in count iteritems ok = True for c x in v iteritems need = x have = i_count get c 0 if need > have ok = False if ok rs append k return rs 		12 28
+def take i s i_count = for c in s if c not in i_count i_count c = 0 i_count c += 1 rs = v = count i for c x in v iteritems need = x have = i_count get c 0 i_count c = have - need rs = for k v in i_count iteritems if v > 0 rs extend k * v return join rs 		30 47
+def solution s p = possible s r = if not p return None else for kp in p r append kp rm = take kp s if rm == return r else t = solution rm if not t r = r - 1 continue r extend t return r return r 		50 68

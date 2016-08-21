@@ -1,0 +1,1 @@
+def last_word s result = s 0 for c in s 1 if c >= result 0 result = c + result else result += c return result 		1 8

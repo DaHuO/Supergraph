@@ -1,0 +1,3 @@
+def to_nbr t r = 0 for x in t r = r * 10 + x return r 		11 15
+def solve c j def to_str t r = for x in t r += str x return r def to_nbr t r = 0 for x in t r = r * 10 + x return r res = 100000000000000000000 n = len c for t1 in itertools product range 10 repeat = n f1 = true for i in xrange n if c i != ? and int c i != t1 i f1 = false break if f1 for t2 in itertools product range 10 repeat = n f2 = true for j in xrange n if j j != ? and int j j != t2 j f2 = false break if f2 x1 = to_nbr t1 x2 = to_nbr t2 z = abs x1 - x2 if z < res res = z cbest = to_str t1 jbest = to_str t2 return cbest jbest 		4 42
+def to_str t r = for x in t r += str x return r 		5 9

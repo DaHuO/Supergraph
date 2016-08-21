@@ -1,0 +1,1 @@
+def find_list n lines thing = for line in lines for num in line if num in thing thing num = thing num + 1 else thing num = 1 odds = for key in thing keys if thing key % 2 odds append int key odds = sorted odds answer = for num in odds answer += str num +  return answer 		3 20

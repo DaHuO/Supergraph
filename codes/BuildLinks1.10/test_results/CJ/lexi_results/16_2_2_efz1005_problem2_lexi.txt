@@ -1,0 +1,1 @@
+def substitute string missing integers b_s = list string for i in xrange len missing b_s missing i = str integers i return join b_s 		5 12

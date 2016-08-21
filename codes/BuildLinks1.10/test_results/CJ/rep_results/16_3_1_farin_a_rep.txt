@@ -1,0 +1,1 @@
+def solve n plan = p = list map int input split while true mx = 		3 24

@@ -1,0 +1,2 @@
+def main T = int sys stdin 		15 21
+ax ax C J a b if not C and not J return abs int a - int b 		4 12

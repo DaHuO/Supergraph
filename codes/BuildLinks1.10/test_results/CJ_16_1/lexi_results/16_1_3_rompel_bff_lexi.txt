@@ -1,0 +1,7 @@
+def rd1int return int rdline 		11 11
+def rdints return map int ssr split 		10 10
+def bffs b a l = a s = set l r = set b - s 		56 59
+def main t = rd1int for i in range t do_one_case i + 1 sys stdout flush 		62 66
+def rdstrs return ssr split 		9 9
+def rdline return ssr strip 		8 8
+def do_one_case cnum n = rd1int b = rdints assert len b == n b = b - 1 for b in b mcy = 0 cl = t = for i in range n j = b i l = i s = set l while j not in s l append j s add j j = b j if j == i mcy = max mcy len l if j == l - 2 tp = tuple sorted l - 2 if tp not in t t tp = t tp append len l i l cl append l mch = 0 for k v in t iteritems v1 = l x y for l x y in v if y - 1 == k 0 v2 = l x y for l x y in v if y - 1 == k 1 assert len v1 + len v2 == len v l1 x y = max v1 l2 x y = max v2 mch += l1 + l2 - 2 print case #%d: %d % cnum max mcy mch 		15 47

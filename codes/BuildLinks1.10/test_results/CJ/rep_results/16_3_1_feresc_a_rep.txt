@@ -1,0 +1,4 @@
+to_abc 		17 18
+remove_senator senators n = sum 1 if x > 0 else 0 		2 14
+remove_senator to_abc n senators 		21 26
+def main n = int raw_input for 		29 35

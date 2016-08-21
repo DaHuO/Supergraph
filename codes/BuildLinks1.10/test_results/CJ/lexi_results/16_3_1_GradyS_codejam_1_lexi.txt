@@ -1,0 +1,4 @@
+def fix result if len result >= 4 and result - 2 ==  return result - 3 +  + result - 3 + result - 1 else return result 		30 34
+def readfile filename textfile = open filename r text = while true read = textfile readline if not read break text += read return text 		1 9
+def writefile filename text textfile = open filename w textfile write text textfile close 		11 14
+def sequence case result = while not i for i in case != true * len case highest = max case maximums = i for i x in enumerate case if x == highest if len maximums >= 2 result append chr 65 + maximums 0 + chr 65 + maximums 1 case maximums 0 -= 1 case maximums 1 -= 1 else result append chr 65 + maximums 0 case maximums 0 -= 1 return  join result 		16 28

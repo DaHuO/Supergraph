@@ -1,0 +1,2 @@
+removedigit digitstr 		2 6
+encodedigit prevdata prevdata prevdata prevdata removedigit prevdata prevdata prevdata removedigit prevdata prevdata prevdata removedigit prevdata prevdata prevdata removedigit prevdata prevdata prevdata removedigit prevdata prevdata prevdata prevdata prevdata removedigit prevdata prevdata prevdata removedigit prevdata prevdata prevdata removedigit prevdata prevdata prevdata removedigit prevdata prevdata prevdata 		8 93

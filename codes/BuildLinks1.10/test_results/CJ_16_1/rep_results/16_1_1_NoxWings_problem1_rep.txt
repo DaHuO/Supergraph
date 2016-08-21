@@ -1,0 +1,6 @@
+		16 17
+def print_solution 		24 25
+def 		12 13
+def read_input 		8 9
+read_int_multi 		20 21
+def solve word = read_input last_word 		34 45

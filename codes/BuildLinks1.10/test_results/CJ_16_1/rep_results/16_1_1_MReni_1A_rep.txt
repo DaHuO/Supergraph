@@ -1,0 +1,1 @@
+def work line current_max = - 1 result 		4 13

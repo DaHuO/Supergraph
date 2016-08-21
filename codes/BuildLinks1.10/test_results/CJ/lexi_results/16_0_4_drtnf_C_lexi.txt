@@ -1,0 +1,1 @@
+def solve k c s if s * c < k return impossible else s i = 0 while i < k lev acc = 0 1 while lev < c acc += i * k ** lev i += 1 lev += 1 if i == k break s = s +  + str acc return s 		5 19

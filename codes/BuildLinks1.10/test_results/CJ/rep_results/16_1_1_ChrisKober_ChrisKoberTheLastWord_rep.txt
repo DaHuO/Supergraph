@@ -1,0 +1,2 @@
+problem1 countsheepinput.txt problem1helper2 with open r as file for lines 		16 25
+problem1helper2 s ans = s 		3 12

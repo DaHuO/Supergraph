@@ -1,0 +1,1 @@
+def rec SD out if len SD == 0 return out for ds d in ZERO 0 ONE 1 		2 25

@@ -1,0 +1,1 @@
+def solve word ret = for 		1 12

@@ -1,0 +1,1 @@
+def solve matrix size a = for i in matrix for j in i a append j d = i for i in a if a count i % 2 == 1 d = list set d d sort return d 		4 12

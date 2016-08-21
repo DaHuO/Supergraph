@@ -1,0 +1,1 @@
+def find a ans = a 		1 9

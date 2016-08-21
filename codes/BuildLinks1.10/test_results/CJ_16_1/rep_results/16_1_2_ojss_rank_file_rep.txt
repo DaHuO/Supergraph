@@ -1,0 +1,1 @@
+def solve grid maxi d = k 0 for k in 		1 13

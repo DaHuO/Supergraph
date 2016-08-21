@@ -1,0 +1,2 @@
+def eqs2matrix eqs syms augment = false s = matrix si lhs - si rhs if isinstance si equality else si for si in eqs sym = syms j = s jacobian sym rhs = - s - j * matrix sym rhs simplify if augment j col_insert 0 rhs else j = j rhs return j 		4 14
+def solve_overdet a b x_lstsq = np linalg lstsq a b 0 q r = np linalg qr a qb = np dot q t b return np linalg solve r qb 		16 20

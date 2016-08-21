@@ -1,0 +1,3 @@
+astype main testcases = input for case_num in xrange 		12 20
+#1: test 		22 24
+def solve n lists count = for l in 		2 10

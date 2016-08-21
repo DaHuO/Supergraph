@@ -1,0 +1,2 @@
+def findi fix d steps indices if d == len steps indices append fix else for j in range steps d - 1 steps d findi fix + j d + 1 steps indices 		4 9
+def Next N words words sort steps = 0 for i in range 1 len words if words i 0 != words i - 1 0 steps append i steps append N indices = findi 1 steps indices firsts = set w 0 for w in words seconds = set w 1 for w in words m = N for i in indices x = set words j 1 for j in i if len seconds - x < m m = len seconds - x return str N - len firsts - m 		11 30

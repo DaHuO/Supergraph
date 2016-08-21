@@ -1,0 +1,2 @@
+pat1 pat2 pat1 pat1 pat2 ans = None min_key = 10 ** 20 10 ** 20 10 ** 20 for n1 in xrange 1000 		34 60
+can1 can2 can1 can2 assert len s1 == len s2 n = len s1 s1 = list s1 s2 = list s2 min_key = 10 ** 20 10 ** 20 10 ** 20 min_s1 = None min_s2 = None for i in xrange n if s1 i < s2 i t1 = join s1 i + join s1 i replace ? 9 t2 = join s2 i + join s2 i replace ? 0 key = abs int 		62 128

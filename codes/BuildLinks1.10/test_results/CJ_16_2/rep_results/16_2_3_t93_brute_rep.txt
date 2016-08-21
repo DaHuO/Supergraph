@@ -1,0 +1,6 @@
+def 		1 3
+def main ts = int raw_input for ti 		50 57
+best_pair p1e p2e q1e q2e p1e q1e p2e q2e q1e q2e q1e q2e p1 p2 		24 48
+caches cached f cache = append cache 		11 22
+def wrapper * args k 		14 21
+caches 		7 9

@@ -1,0 +1,5 @@
+def mot liste 		19 23
+maxim liste res = 0 		1 8
+maxim maxi2 maxi2 maxi2 maxi ind = liste ind2 = max2 liste ind out 		25 36
+def max2 liste max1 res = 		10 17
+solution_jam d:/google/qualifjamcode16/a-large.in d:/google/qualifjamcode16/solution.txt liste1 liste1 liste2 liste2 open w liste = source readline liste = 		39 54

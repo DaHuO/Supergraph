@@ -1,0 +1,5 @@
+def mot liste res = for c in liste res = res +  + c return res 		19 23
+def maxim liste res = 0 ind = 0 for i in range len liste if liste i > res res = liste i ind = i return res ind 		1 8
+def function a liste maxi ind = maxim liste maxi2 ind2 = max2 liste ind out = for i in range maxi2 maxi out = out + chr ind + 65 for i in range len liste if i != ind if i != ind2 out = out + chr i + 65 * liste i out = out + chr ind + 65 + chr ind2 + 65 * maxi2 return mot out 		25 36
+def max2 liste max1 res = 0 ind = 0 for i in range len liste if liste i > res and i != max1 res = liste i ind = i return res ind 		10 17
+def solution_jam source = open d:/google/qualifjamcode16/a-large.in r output = open d:/google/qualifjamcode16/solution.txt w liste = source readline liste = liste split \n for i in range int liste 0 liste1 = source readline a = int liste1 liste2 = source readline liste = liste2 split  print liste liste = int b for b in liste print liste output write case # + str i + 1 + : + function a liste + \n output close source close 		39 54

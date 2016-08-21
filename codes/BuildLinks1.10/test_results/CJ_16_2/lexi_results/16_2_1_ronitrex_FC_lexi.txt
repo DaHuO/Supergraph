@@ -1,0 +1,2 @@
+def remove Y for k in Y S remove k 		21 23
+def subtraction X flag = True S1 = S copy for k in X if k in S1 S1 remove k else flag = False break return flag 		10 19

@@ -1,0 +1,4 @@
+def remove_keyword text keyword for tmp_char in keyword text = text replace tmp_char 1 return text 		22 25
+def searchDigit text digit result = while allIn text digit result += digit_dict digit text = remove_keyword text digit return result text 		27 33
+def getDigit text reset = text for digit in result_set out = for i in range 0 10 tmp text = searchDigit text digit i out += tmp if len text == 0 return out text = reset return ERROR 		35 52
+def allIn text keyword for tmp_char in keyword if not tmp_char in text return False if keyword == THREE or keyword == SEVEN return text count E >= 2 elif keyword == NINE return text count N >= 2 return True 		10 20

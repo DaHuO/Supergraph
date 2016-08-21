@@ -1,0 +1,2 @@
+[input] exist! if len sys argv < 2 sys exit usage: %s % 		19 31
+def solve t inputs for t in xrange t s = 		4 16

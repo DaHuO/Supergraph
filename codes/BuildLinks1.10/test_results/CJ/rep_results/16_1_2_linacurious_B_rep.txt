@@ -1,0 +1,2 @@
+heights_result heights_set heights_set heights_result heights_result heights_result set 		7 14
+heights_row heights_row fin = open attempt + .in r fout = open attempt + .out 		17 33

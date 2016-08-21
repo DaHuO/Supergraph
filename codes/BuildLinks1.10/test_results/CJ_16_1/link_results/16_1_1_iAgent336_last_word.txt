@@ -1,0 +1,15 @@
+Direct links:
+1 - 10 links:
+16_1_1_realgeek1_a	:	3 - 13
+16_1_1_hackr_prob1	:	3 - 14
+16_1_1_KipB7_a	:	34 - 45
+16_1_1_pypmannetjies_LastWord	:	15 - 26
+
+18 - 20 links:
+16_1_2_iAgent336_rank	:	22 - 24
+
+
+With same rare tokens:
+18 - 20 links:
+16_1_2_iAgent336_rank	:	22 - 24
+

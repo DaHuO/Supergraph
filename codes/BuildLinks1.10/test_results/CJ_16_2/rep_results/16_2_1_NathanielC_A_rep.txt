@@ -1,0 +1,2 @@
+def solve s soln = while G in s removeLetters s EIGHT soln append 8 while Z in s removeLetters s ZERO 		1 37
+def removeLetters 		39 41

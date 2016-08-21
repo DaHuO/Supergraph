@@ -1,0 +1,1 @@
+cj1c2016pb1 sen from collections import counter from string import ascii_uppercase sen = counter dict zip 		7 21

@@ -1,0 +1,2 @@
+inputdissect inputcnt inputcnt reorder s split 		13 18
+reorder word s = list word 		4 11

@@ -1,0 +1,1 @@
+def solve problem word = for c in problem if c >= word 0 1 word = c + word else word += c return word 		1 8

@@ -1,0 +1,4 @@
+def 		4 5
+three_ones l count = 		10 15
+find_maxs three_ones if l 1 > l 0 max1 = l 0 0 max2 = l 1 1 else 		17 40
+def 		7 8

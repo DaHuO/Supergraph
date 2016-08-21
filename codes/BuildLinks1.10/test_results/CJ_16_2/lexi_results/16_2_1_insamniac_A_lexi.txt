@@ -1,0 +1,7 @@
+def pullNums s debug 1 pullNums( + str s + ) found = oldS = while s != poss = possNums s while hasUnique poss for u in uNums oldS = s s = stripOut s u if s != oldS found append u poss = possNums s while hasDupe poss for d in dNums oldS = s s = stripOut s d if s != oldS found append d poss = possNums s return found 		59 87
+def hasDupe nums for d in dNums if d in nums return True return False 		52 57
+def debug lvl msg if debugLevel >= lvl print msg 		12 14
+def main inp res = pullNums inp x = str x for x in res x sort return join x 		89 93
+def possNums s nums = for k in numMap keys doAdd = True for l in numMap k if not l in s doAdd = False if doAdd nums append k return nums 		21 31
+def hasUnique nums for u in uNums if u in nums return True return False 		44 49
+def stripOut s n newstr = s for l in numMap n orig = str newstr newstr = newstr replace l 1 if orig == newstr return s return newstr 		33 41

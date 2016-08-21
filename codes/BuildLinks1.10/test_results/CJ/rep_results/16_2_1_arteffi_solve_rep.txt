@@ -1,0 +1,4 @@
+input_path main test_cases = parse_input solutions 		5 14
+bounding_letters bounding_letter bounding_letters bounding_letter zero z 0 two w 2 six x 6 four u 		32 54
+#{i}: {result}\n solutions with open 		26 29
+def parse_input path with open path 		17 23

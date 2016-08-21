@@ -1,0 +1,7 @@
+word_list judge update_table word2num recover_table total == 0 return True 		66 83
+recover_table word 		46 48
+judge word for 		36 40
+def solve s cur global found ans if not found if len 		21 33
+word_list word2num word_list judge update_table word2num recover_table def dfs total ans if total == 0 return True else for word in if word word total -= len word ans append word ret = dfs total 		62 119
+update_table word 		42 44
+userless found = False ans = None def solve s cur global found ans 		18 33

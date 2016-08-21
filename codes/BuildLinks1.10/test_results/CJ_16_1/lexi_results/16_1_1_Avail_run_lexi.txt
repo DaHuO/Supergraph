@@ -1,0 +1,1 @@
+def main infile outfile with open infile as inf with open outfile w as outf test_case = 1 t = int inf readline for line in inf readlines bstr = line 0 line = line replace \n 1 for char in line if char >= bstr 0 bstr = char + bstr else bstr = bstr + char outf write case #{}: {} format test_case bstr if t != test_case outf write \n test_case += 1 		6 27

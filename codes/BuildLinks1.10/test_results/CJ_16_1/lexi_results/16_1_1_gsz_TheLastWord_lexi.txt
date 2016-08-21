@@ -1,0 +1,2 @@
+def main t = int input for ci in range 1 t + 1 print case #{}: {} format ci solve_case input 		14 17
+def solve_case s revfront = s 0 back = for c in s 1 if c >= revfront - 1 revfront append c else back append c revfront reverse return join revfront + back 		3 12

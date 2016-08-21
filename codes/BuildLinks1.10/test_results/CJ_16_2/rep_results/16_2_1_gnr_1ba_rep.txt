@@ -1,0 +1,2 @@
+newbig newbig newbig small = 		32 41
+findnumber s numberlist = chset = a for a in s while len chset != 0 if Z in chset newlist = checksublist chset zero if newlist is not None numberlist append 0 chset = newlist elif W in chset newlist = checksublist chset two if newlist is not None numberlist 		43 109

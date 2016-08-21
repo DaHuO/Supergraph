@@ -1,0 +1,2 @@
+def main d = file sys argv 		14 19
+def calc s lets = list 		4 12

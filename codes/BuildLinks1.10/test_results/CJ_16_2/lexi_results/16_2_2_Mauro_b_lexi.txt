@@ -1,0 +1,3 @@
+def good qm score for i j in zip qm score if i != ? and i != j return False return True 		6 10
+def read_int return int raw_input 		3 4
+def solve inp x y = inp best = 1234 1234 best_diff = 1234 ma = 10 ** len x for i in range 0 ma if good x str i zfill len x for j in range 0 ma if good y str j zfill len x if abs i - j < best_diff best = i j best_diff = abs i - j return best 		12 24

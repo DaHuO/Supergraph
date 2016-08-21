@@ -1,0 +1,2 @@
+ltc ltc ltc phone if sum lt values == 0 		19 40
+def ok lt d cts 		3 13

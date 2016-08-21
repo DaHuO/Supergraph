@@ -1,0 +1,1 @@
+def solve n fulllist = missinglist = n = 2 * int n - 1 for i in xrange n dummy = fulllist append int x for x in f readline strip \n split  missinglist = x for x in fulllist if fulllist count x % 2 missinglist = list set missinglist missinglist sort return  join str x for x in missinglist 		16 31

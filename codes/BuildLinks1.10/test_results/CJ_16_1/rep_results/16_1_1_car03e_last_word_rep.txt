@@ -1,0 +1,10 @@
+def main args = parse_args incoming = args input outgoing = incoming 		24 41
+test_two 		49 50
+argparse argumentparser add_argument = 		4 9
+test_seven 		64 65
+test_six 		61 62
+test_three 		52 53
+test_one 		46 47
+def last_word string result = 		11 21
+test_five 		58 59
+test_four 		55 56

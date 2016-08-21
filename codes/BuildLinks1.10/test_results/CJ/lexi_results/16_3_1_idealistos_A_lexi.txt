@@ -1,0 +1,2 @@
+def getresultmultiline pass 		4 5
+def getresult counts if len counts == 2 return  join ab for i in range counts 0 else s = sum counts r = while s > 2 m = 0 imax = none for i c in enumerate counts if c > m m = c imax = i r append chr ord a + imax counts imax -= 1 s -= 1 assert s == sum counts for i in range len counts assert counts i <= s / 2 i2 = i for i c in enumerate counts if c > 0 r append chr ord a + i2 0 + chr ord a + i2 1 return  join r 		7 28

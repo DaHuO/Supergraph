@@ -1,0 +1,1 @@
+isn linectr isn isn linectr linectr linectr leftovers leftovers leftovers isn x strip for x in f readlines if len flines - 1 == 0 flines = flines - 		7 45

@@ -1,0 +1,3 @@
+def main T = 		56 59
+def solve S = input S = S strip S = Counter S found 		32 52
+100000000 subt S key found num t = 		19 29

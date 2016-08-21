@@ -1,0 +1,3 @@
+def readfile file = open a-small-attempt1.in r t = file readline s = file readlines s = x split \n 0 for x in s file close return t s 		2 8
+def f t s result = for x in xrange 0 len s k = s x s =  for y in k if y >= s 0 s = y + s else s += y s = s split  0 + s split  1 result append s return result 		9 22
+def writefile res file = open a_result.in w for i in range 0 len res file write case #{0}: {1}\n format i + 1 res i file close 		23 27

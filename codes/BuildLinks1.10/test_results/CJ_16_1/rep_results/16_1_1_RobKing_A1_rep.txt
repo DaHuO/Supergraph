@@ -1,0 +1,2 @@
+def solve t l result = result += 		14 23
+getdigits m result = while 		4 11

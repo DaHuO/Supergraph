@@ -1,0 +1,1 @@
+findnumber inp values = z zero 0 w two 2 u four 4 x 		1 23

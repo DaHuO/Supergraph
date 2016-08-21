@@ -1,0 +1,5 @@
+def testrandom self self _helper random randint java lang integer min_value java lang integer max_value for x in range 1000 		36 38
+def testsorted self self _helper i for i in range 10 		28 30
+def _helper self array sortedarray = array sortedarray sort jarray = jarray array sortedarray java lang integer for method in methods arraycopy = jarray array array java lang integer method arraycopy self assertequal jarray arraycopy failed method %s during %s % 		13 21
+def testreverse self self _helper i for i in range 10 0 - 1 		32 34
+def testempty self self _helper list 		24 26

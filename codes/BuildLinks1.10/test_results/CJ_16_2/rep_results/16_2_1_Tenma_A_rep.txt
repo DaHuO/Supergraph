@@ -1,0 +1,1 @@
+def decode s dic = E 0 R 0 O 0 N 0 T 0 H 0 F 0 U 0 V 0 S 0 I 0 zero = 0 one = 0 two = 0 three = 0 four = 0 five = 0 six = 0 seven = 0 eight = 0 nine 		1 91

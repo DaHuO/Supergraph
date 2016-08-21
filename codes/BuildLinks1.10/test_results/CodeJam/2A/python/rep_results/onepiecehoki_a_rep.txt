@@ -1,5 +1,5 @@
 count_match match counter = 		26 32
-generate_match get_next_level_element get_next_level next_level get_next_level_element chain from_iterable next_level get_next_level return S 		8 24
+generate_match get_next_level chain from_iterable get_next_level el if el == R return 		8 24
 special_sort match smatch = match while len smatch > 1 for i in 		34 43
-get_next_level next_level get_next_level_element 		16 18
-get_next_level_element el if el 		9 15
+get_next_level chain from_iterable 		16 18
+def get_next_level_element el if 		9 15

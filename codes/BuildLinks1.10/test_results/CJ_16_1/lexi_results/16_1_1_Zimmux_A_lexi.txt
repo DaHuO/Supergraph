@@ -1,0 +1,1 @@
+def solvecase s = next stdin - 1 w = s 0 for s in s 1 if s >= w 0 w = s + w else w append s return join w 		5 13

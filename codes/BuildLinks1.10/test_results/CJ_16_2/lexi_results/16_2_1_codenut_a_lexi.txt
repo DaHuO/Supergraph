@@ -1,0 +1,2 @@
+def remove s t for c in t s remove c return s 		7 11
+def get_uniq s map t r = has = 1 while has has = 0 for i u in enumerate map keys if u in s s = remove s N map u r append map u has = 1 return s r 		13 25

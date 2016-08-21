@@ -1,0 +1,1 @@
+def solve mat n d = defaultdict int 		5 15

@@ -1,0 +1,1 @@
+soluce s r = local_max = none 		1 10

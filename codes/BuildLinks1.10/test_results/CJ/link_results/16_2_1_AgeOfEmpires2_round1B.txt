@@ -1,0 +1,16 @@
+Direct links:
+22 - 25 links:
+16_2_1_Brian_a	:	3 - 7
+
+27 - 34 links:
+16_2_1_bitfort_prob1	:	13 - 19
+16_2_1_eratos_A-small	:	3 - 10
+
+
+With same rare tokens:
+10 - 20 links:
+16_3_1_Chiffre_senate_evacuation	:	1 - 2
+16_2_2_flurm_B_Close_Match	:	34 - 42
+16_2_2_flurm_B_Close_Match	:	32 - 43
+16_1_2_Gorigori_rankFile	:	1 - 15
+

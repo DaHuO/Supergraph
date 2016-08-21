@@ -1,0 +1,2 @@
+def main r = sys stdin if len sys argv > 1 		20 33
+uniq_soldiers lost_soldiers uniq_soldiers lost_soldiers lost_soldiers lost_soldiers for line in lines 		4 17

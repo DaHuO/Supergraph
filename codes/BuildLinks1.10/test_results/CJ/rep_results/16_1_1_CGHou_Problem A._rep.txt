@@ -1,0 +1,2 @@
+def data_iterator lines_to_read = none if not shell_pipe_flag with open data_file_name r as f_handle line_iter = f_handle xreadlines case_no = int line_iter 		15 35
+left_char 63 left_char left_char = case_data 0 		41 59

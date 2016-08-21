@@ -1,0 +1,3 @@
+iters iters 		4 7
+p_idx p_idx 		47 50
+co numbs idx data count = counter data zero = count z count = minus count zero zero two = count w count = minus count two 		9 44

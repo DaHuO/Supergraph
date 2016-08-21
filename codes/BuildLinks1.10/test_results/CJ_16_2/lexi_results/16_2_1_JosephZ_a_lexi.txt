@@ -1,0 +1,3 @@
+def dfs d n if n == 10 for i in d keys if d i != 0 return X return  if check d n newd = d copy for i in d1 n newd i = newd i - 1 result = dfs newd n if result - 1 != X return str n + result return dfs d n + 1 		32 46
+def check d n for i in d1 n if i not in d keys return False if d i == 0 return False if n == 3 and d E < 2 return False if n == 7 and d E < 2 return False if n == 9 and d N < 2 return False return True 		18 30
+def work input_string d2 = dict collections Counter input_string return dfs d2 0 		48 50

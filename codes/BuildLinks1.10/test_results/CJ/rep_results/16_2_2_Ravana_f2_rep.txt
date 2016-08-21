@@ -1,0 +1,7 @@
+hasq r for s 		6 13
+def value c 		15 20
+def compare c1 j1 c2 j2 c1 = 0 for c in c1 c1 *= 10 c1 += int c j1 		32 61
+def cint a c r b = 		66 74
+findall hasq r = cv = 0 for c in c if c == ? cv += 1 if cv == 0 return int join c if cv > 0 for i in range len c if c i == ? ci = c ci i = 0 r 		76 145
+def tostr c s 		22 29
+def diff 		63 64

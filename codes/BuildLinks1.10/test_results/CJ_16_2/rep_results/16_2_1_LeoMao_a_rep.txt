@@ -1,0 +1,1 @@
+specials solve s = input cnts = Counter ans 		32 45

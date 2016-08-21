@@ -1,0 +1,1 @@
+abcdefghijklmnopqrstuvwxyz BAAAAAAAAAAAAD f = open sys argv 1 rb ncases = int f readline for caseno in xrange ncases counts = for c in counts c = 0 s = f readline strip lower for c in s counts c += 1 digits = if counts z > 0 n = counts z digits += 0 * n 		5 84

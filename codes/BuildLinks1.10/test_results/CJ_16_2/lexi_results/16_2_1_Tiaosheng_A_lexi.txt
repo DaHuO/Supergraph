@@ -1,0 +1,1 @@
+def fun mot tab if not mot return tab for i in range 10 if sum int l i count c <= mot count c for c in l i == len l i t = e for e in tab t i += 1 m = e for e in mot for e in l i m remove e x = fun m t if x return x 		13 27

@@ -1,0 +1,2 @@
+count_letter word l 		19 24
+remove_letter first_occ first_occ first_occ first_occ = 		6 16

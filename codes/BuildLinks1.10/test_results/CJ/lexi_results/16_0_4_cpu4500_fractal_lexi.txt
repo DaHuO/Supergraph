@@ -1,0 +1,1 @@
+def print_placements k c s if s < k return impossible if s == 1 return 1 kc = k ** c dist = kc / s - 1 if kc % s - 1 == 0 dist -= 1 placements = for i in xrange s placements append str 1 + i * dist return  join placements 		5 21

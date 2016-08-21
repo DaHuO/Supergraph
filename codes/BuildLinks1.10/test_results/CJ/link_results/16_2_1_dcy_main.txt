@@ -1,0 +1,31 @@
+Direct links:
+97 - 117 links:
+16_1_1_dcy_main	:	17 - 37
+
+127 - 128 links:
+16_1_1_dcy_main	:	47 - 48
+
+
+With same rare tokens:
+97 - 117 links:
+16_2_1_davegreenwood_A	:	76 - 80
+16_2_1_dreloong_problem_a	:	36 - 46
+16_1_1_dcy_main	:	17 - 37
+16_1_1_dcy_main	:	17 - 37
+16_1_1_dcy_main	:	17 - 37
+16_1_1_dcy_main	:	17 - 37
+16_1_1_dcy_main	:	17 - 37
+16_1_1_dcy_main	:	43 - 44
+16_1_1_dcy_main	:	17 - 37
+16_1_1_dcy_main	:	17 - 37
+16_1_1_dcy_main	:	17 - 37
+16_1_1_dcy_main	:	17 - 37
+16_1_1_dcy_main	:	17 - 37
+
+123 - 124 links:
+16_1_1_dcy_main	:	43 - 44
+16_1_1_dcy_main	:	17 - 37
+
+127 - 128 links:
+16_1_1_dcy_main	:	47 - 48
+

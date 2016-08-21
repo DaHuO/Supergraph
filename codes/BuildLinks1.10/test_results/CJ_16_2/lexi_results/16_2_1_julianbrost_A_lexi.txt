@@ -1,0 +1,2 @@
+def dbg x return k v for k v in x items if v 		21 22
+def solve inp char_counts = defaultdict int digit_counts = defaultdict int for c in inp char_counts c += 1 for c s d in magic num = char_counts c for x in s char_counts x -= num assert char_counts x >= 0 digit_counts d += num for v in char_counts values assert v == 0 return join str x * digit_counts x for x in range 10 		24 38

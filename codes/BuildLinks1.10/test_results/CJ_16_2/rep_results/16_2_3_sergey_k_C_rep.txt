@@ -1,0 +1,3 @@
+def main T = int sys stdin readline 		23 29
+def solve topics groups 		16 21
+orig2 orig2 topics groups orig res = 0 if groups first other = 		4 14

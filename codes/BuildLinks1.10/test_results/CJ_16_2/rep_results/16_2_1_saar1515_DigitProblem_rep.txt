@@ -1,0 +1,14 @@
+def ones string counter = 		43 48
+def twos string counter = 		50 55
+def nines string counter = string 		107 113
+r"C:\Users\Saar\Desktop\ap.txt" readFile path 		3 6
+def eights string counter = string count G 		98 105
+numbersa zero one two three four five six seven eight nine str = 		21 33
+def sixes string counter = 		82 87
+def threes string counter = string count R 		57 64
+charec charec charec number str = number 		8 19
+def zeros string counter = string 		35 41
+def sevens string counter = string count V 		89 96
+def fives string counter = string 		74 80
+def fours string counter = string 		66 72
+stringToNumber numbersa zero string = zeros string two string = twos string 		115 126

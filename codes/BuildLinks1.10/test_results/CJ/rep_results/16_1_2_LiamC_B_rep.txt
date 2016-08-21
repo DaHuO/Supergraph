@@ -1,0 +1,2 @@
+suspects suspects suspects suspects counts = = for line in grid 		1 16
+def main n_cases = int input for case in range 		17 27

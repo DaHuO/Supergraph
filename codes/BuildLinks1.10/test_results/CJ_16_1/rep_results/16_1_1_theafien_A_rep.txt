@@ -1,0 +1,2 @@
+codejam t = int raw_input 		15 21
+def solve s result = 		4 12

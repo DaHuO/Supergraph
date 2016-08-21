@@ -1,0 +1,1 @@
+def getlastword self word curmax = 0 result = wordlist = list word for i in range len wordlist if len result == 0 result append wordlist i curmax = ord wordlist i continue else if ord wordlist i >= curmax result insert 0 wordlist i curmax = ord wordlist i else result append wordlist i return join result 		2 18

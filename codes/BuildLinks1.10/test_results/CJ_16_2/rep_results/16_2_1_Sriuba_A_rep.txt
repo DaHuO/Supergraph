@@ -1,0 +1,2 @@
+execute input_name = argv 		5 14
+def main input_file output words = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE T = int next input_file for i in range T S = next input_file 		16 36

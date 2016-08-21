@@ -1,0 +1,3 @@
+def is_prime n if n % 2 == 0 and n > 2 return false for i in range 3 int math sqrt n + 1 2 if n % i == 0 return false return true 		3 9
+def solve s x res s = s strip result = for c in s if len result == 0 or c >= result 0 result = c + result else result = result + c res write case #{}: {}\n format x + 1 result 		11 19
+def main f = open c://codejam/a1large.in r res = open c://codejam/a1large.out w t = int f readline for x in range t s = f readline solve s x res f close res close 		21 29

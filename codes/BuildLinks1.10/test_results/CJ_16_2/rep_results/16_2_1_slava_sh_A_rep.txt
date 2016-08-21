@@ -1,0 +1,2 @@
+digit_to_word sinput digit_to_word realinput sinput realinput realinput sinput line ans = 0 * 10 def sub letter digit ans digit = 		19 50
+digit_to_word sub letter 		24 27

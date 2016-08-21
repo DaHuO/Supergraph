@@ -1,0 +1,3 @@
+def main cases = int raw_input for case in 		23 30
+symmetry shortest shortest wincol wincol wincol = n = len data 0 for x in range 		7 21
+def f a 		3 5

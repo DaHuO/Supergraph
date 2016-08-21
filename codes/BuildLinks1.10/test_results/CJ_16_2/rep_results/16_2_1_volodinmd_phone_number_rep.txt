@@ -1,0 +1,2 @@
+secondary solve line digits = while line foundAny = False for letter pair in prime iteritems if 		15 47
+def replace line 		9 12

@@ -1,0 +1,2 @@
+def main ntest = int line for t in range ntest k c s = int c for c in line split  sys stdout write case #{0}: {1}\n format t + 1 looktopositions k c s 		28 40
+def looktopositions k c s min_looks = k // c + k % c > 0 if s < min_looks return impossible look_into = np ones min_looks dtype = np int64 positions_to_cover = range k for n p in enumerate positions_to_cover look_into n // c += p * k ** c - 1 - n % c return  join str d for d in look_into 		8 20

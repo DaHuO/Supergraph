@@ -1,0 +1,4 @@
+def main fname fin = open fname + .in fout = open fname + .out w t = int fin readline strip for i in range t c j = fin readline split result = solve c j fout write case #{:d}: {}\n format i + 1 result fin close fout close 		42 54
+def format_check n n tn = format_num n len n for i c in enumerate n if c != ? and tn i != c return false return true 		29 36
+def solve c j print c j l = len c minc = int c replace ? 0 maxc = int c replace ? 9 minj = int j replace ? 0 maxj = int j replace ? 9 diff = 999 rc = minc rj = minj stop = false for c in range minc maxc + 1 for j in range minj maxj + 1 if diff == 0 return format_num rc l +  + format_num rj l if diff > abs c - j if format_check c c and format_check j j diff = abs c - j rc = c rj = j return format_num rc l +  + format_num rj l 		1 27
+def format_num n l f = {:0 + str l + } return f format n 		38 40

@@ -1,0 +1,2 @@
+def foo ifile n = int ifile readline count = for i in range 		8 22
+def main ifile = sys 		28 33

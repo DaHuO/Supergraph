@@ -1,0 +1,2 @@
+val_x findall (-?\+?)(\d+)(x)? const val_x tottal_const const val_x findall \+?-?\d*x without_x +x -x val_x 		4 21
+process_input x_val con_val x_val con_val con_val x_val p split = 		24 43

@@ -1,0 +1,8 @@
+fractal add_level c i start = join 		38 43
+def solve k c s if s * c 		53 61
+def solve_wrapper args 		29 32
+fractal test for i in range 10 k = random randint 		74 82
+speed_test for i in range 20 		67 72
+def position k c 		45 51
+def run pool = none inp = sys argv 1 outp = %s.out % inp split . 0 with open 		8 27
+add_level pattern original 		35 36

@@ -1,0 +1,1 @@
+alg order_letters ordered_names ordered_digits order_letters nb_occ ordered_digits nb_occ ordered_names nb_occ for x in range 26 result = x 0 for x in 		3 30

@@ -1,7 +1,7 @@
-get_game n0 r0 s0 n0 r0 s0 s0 left_res right_res left_res right_res first_result get_game n0 r0 left_res second_result get_game n0 r0 right_res first_result second_result new_result first_result second_result new_result new_result n p r res result = None 		56 91
+s0 s0 s0 left_res right_res left_res right_res first_result left_res second_result right_res first_result second_result new_result first_result second_result new_result new_result 0 raise Exception if n p r res in game return game n p r res result = 		56 91
 to_string state s = if 		5 13
 def main T 		109 112
 def winner a b if a == b return 		28 40
-cur_game get_game cur_game cur_game cur_game p s = map int raw_input 		94 106
-fight state1 state2 fight_table state1 state2 fight_table state1 		43 53
+def solve case_no n r p s = map int raw_input 		94 106
+fight_table fight_table to_string to_string remove to_state state2 != 		43 53
 to_state string result = 0 for 		16 25

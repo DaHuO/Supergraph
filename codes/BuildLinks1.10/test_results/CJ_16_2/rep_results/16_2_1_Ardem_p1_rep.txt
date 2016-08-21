@@ -1,0 +1,4 @@
+addition a b out 		17 21
+getarr s letters = 		6 10
+def dp cur vals if min vals < 0 return if sum vals == 0 return str cur 		23 48
+def dif a b 		12 16

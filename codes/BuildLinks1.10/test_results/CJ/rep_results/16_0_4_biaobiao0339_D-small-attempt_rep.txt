@@ -1,0 +1,2 @@
+props final_len final_len 500 500 final_len 500 buffer_array 500 final_len prop props t_str prop 0b finditer t_str res_list res_list res_list new_pos new_pos res_list new_pos new_pos can_try try_list limit return  join str i + 1 for i in xrange 0 k_len = int math pow 2 k_len = int math pow 		7 86
+def main lines = l strip for l in fileinput input 		88 101

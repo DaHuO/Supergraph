@@ -1,0 +1,1 @@
+tmp_input tmp_input tmp_input tmp_input fail str input numbers = six seven two eight zero three four five nine one count = 0 * 10 for 		5 37

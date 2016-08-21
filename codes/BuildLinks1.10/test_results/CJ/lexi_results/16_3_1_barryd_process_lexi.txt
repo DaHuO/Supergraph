@@ -1,0 +1,8 @@
+def report message stderr write message 		96 97
+def debug message if debugging stderr write message if hasattr message __call__ else message 		92 94
+def prepare_data return none 		68 69
+def read_case id input n = int input readline rstrip parties = int x for x in input readline split assert len parties == n return parties 		30 34
+def prepare_cached prepare_data pickle_path = data.pickle try data = pickle load io open pickle_path rb report loaded {}.\n format pickle_path except ioerror data = prepare_data report prepared {}.\n format pickle_path pickle dump data io open pickle_path wb return data 		99 107
+def prepare def prepare_data return none global prepared_data prepared_data = prepare_cached prepare_data prepared_data.cached 		67 72
+def main t0 = execution_timer t1 = execution_timer report completed preparation in {:.6f} seconds.\n format t1 - t0 t = int stdin readline for case_id in range 1 t + 1 report processing test case {} of {} (output {}). {:.0f} seconds elapsed. format case_id t case_id - 1 execution_timer - t1 report \n if debugging else \r stderr flush stdout write solve_case case_id read_case case_id stdin stdout flush t2 = execution_timer report processed {} test cases in {:.6f} seconds.              \n format t t2 - t1 report total time: {:.6f} seconds.\n format t2 - t0 		109 125
+def solve_case id parties total = sum parties plan = while total > 0 if total == 3 i = parties index max parties parties i -= 1 plan += chr i + ord a total -= 1 else i = parties index max parties parties i -= 1 plan += chr i + ord a total -= 1 i = parties index max parties parties i -= 1 plan += chr i + ord a total -= 1 if total == 0 break plan +=  return case #{}: {}\n format id plan 		36 64

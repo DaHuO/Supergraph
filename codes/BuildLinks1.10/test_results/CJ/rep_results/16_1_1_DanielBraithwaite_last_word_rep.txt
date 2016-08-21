@@ -1,0 +1,1 @@
+ei last_word s w = s 0 for i in 		1 15

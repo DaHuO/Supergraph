@@ -1,0 +1,1 @@
+_1_group lookup _2_group _2_lookup _3_group _3_lookup s_numbers in while c in S cap_digit = c cap_digits append cap_digit for 		13 40

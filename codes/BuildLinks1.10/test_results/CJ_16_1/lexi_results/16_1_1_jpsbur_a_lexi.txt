@@ -1,0 +1,1 @@
+def solve s x = for c in s x = max c + x x + c return x 		3 7

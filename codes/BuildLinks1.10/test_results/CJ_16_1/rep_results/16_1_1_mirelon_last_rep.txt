@@ -1,0 +1,2 @@
+findmax solve s if 		11 15
+findmax s j = 		4 9

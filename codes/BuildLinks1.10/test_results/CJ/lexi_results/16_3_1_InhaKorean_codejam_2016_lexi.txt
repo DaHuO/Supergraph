@@ -1,0 +1,1 @@
+def case_result case n = int f readline p = list map int f readline split ans = s = sum p q = q priorityqueue for i in range n q put - p i chr i + ord a while s > 0 e1 = q get e2 = q get if s == - e1 0 + e2 0 ans += e1 1 + e2 1 +  e1 0 += 1 e2 0 += 1 s -= 2 else ans += e1 1 +  e1 0 += 1 s -= 1 q put e1 q put e2 return ans 		8 34

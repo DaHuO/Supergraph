@@ -1,0 +1,1 @@
+def delete index global s global npt global partys partys index -= 1 s -= 1 if partys index == 0 npt -= 1 return chr ord a + index 		9 19

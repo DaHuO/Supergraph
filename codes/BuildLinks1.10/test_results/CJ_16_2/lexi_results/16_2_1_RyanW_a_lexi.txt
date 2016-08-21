@@ -1,0 +1,7 @@
+def _f * args try return cache args 		14 16
+def map_words words return mapping word for word in words 		68 69
+def phone_number s return join str n for n in sorted map_words detect_words s 		72 73
+def try_remove_word s word s2 = s for char in word if char not in s return s s2 = s2 replace char 1 return s2 		25 33
+def main T = int raw_input for t in xrange 1 T + 1 S = raw_input print Case #{}: {} format t phone_number S 		76 80
+def memo f cache = def _f * args try return cache args except KeyError result = cache args = f * args return result except TypeError return f * args return _f 		10 22
+memo def detect_words s words = words if not s return if not words return None word rest = words 0 words 1 s2 = try_remove_word s word word_detected = len s2 < len s branch1 = None if word_detected branch1 = detect_words s2 words if branch1 is not None return branch1 + word branch2 = None if word_detected branch2 = detect_words s2 rest if branch2 is not None return branch2 + word branch3 = detect_words s rest if branch3 is not None return branch3 		36 65

@@ -1,0 +1,1 @@
+def docase s answer = for letter in s if len answer > 0 and letter >= answer 0 answer = letter + answer else answer = answer + letter return answer 		2 9

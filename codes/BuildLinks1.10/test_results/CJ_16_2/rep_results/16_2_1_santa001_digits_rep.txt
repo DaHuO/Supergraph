@@ -1,0 +1,1 @@
+is_present string num pattern 		4 9

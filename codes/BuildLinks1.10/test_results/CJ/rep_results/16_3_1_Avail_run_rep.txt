@@ -1,0 +1,1 @@
+p_n ordereddict indexerror indexerror ordereddict = zero one two three four five six seven eight nine with open infile as inf with open outfile w as outf test_case = 1 case_count = int inf readline while test_case <= case_count order = = int inf readline party_sizes = ascii_uppercase i int x 		6 69

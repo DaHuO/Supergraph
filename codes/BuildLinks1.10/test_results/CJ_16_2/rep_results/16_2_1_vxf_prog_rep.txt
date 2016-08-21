@@ -1,0 +1,2 @@
+gl gf gn genNumber gl gc gf gf gc gc gf gn 		38 65
+genNumber 2001 nfreq ncount range 1 for n in map join itertools combinations_with_replacement 		19 36

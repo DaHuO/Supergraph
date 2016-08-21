@@ -1,0 +1,1 @@
+sorted_nums sorted_nums formatted_list formatted_list - 1 count = 0 missing_list = for curr 		1 20

@@ -1,0 +1,5 @@
+great_solution 		54 55
+simple_solution liked already_visited liked already_visited visited_now_set visited_now_set already_visited visited_now_set 0 for el 		30 47
+def find pointer 		49 52
+great_solution like_each_other ending number_of_kids great_ones no_bffed_kids number_of_kids ending like_each_other like_each_other lovers_1 lovers_2 great_ones lovers_2 lovers_1 one_solution great_ones one_solution 		9 28
+not_in not_in not_in inverse_bffs if el not in inverse_bffs 		1 7

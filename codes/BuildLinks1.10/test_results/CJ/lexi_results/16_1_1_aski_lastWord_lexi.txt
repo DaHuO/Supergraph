@@ -1,0 +1,1 @@
+def filterit alllistitem stlen test filtered = for k in range len alllistitem - 1 - 1 - 1 if len alllistitem k == stlen filtered append alllistitem k else break filtered sort print case # + str test + 1 + : + filtered len filtered - 1 		1 10

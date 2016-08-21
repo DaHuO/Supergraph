@@ -1,0 +1,1 @@
+def do s out = s 0 s = s 1 for s in s if s < out 0 out append s else out insert 0 s return join out 		4 13

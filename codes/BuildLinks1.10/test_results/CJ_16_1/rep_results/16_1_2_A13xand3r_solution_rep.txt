@@ -1,0 +1,3 @@
+dims rowcols numrows params print params = numrows = nums = for i in range 0 len 		35 56
+def writeanswer lines file with open file w+ as 		21 28
+readandwritefile linestosolve linestosolve linestosolve open filein as f lines = f readlines currow = 		3 19

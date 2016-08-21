@@ -1,0 +1,1 @@
+def ans s last = 		18 27

@@ -1,0 +1,121 @@
+Direct links:
+49 - 50 links:
+16_1_1_HammSandwich_TheLastWord	:	41 - 42
+
+44 - 47 links:
+16_1_1_HammSandwich_TheLastWord	:	36 - 39
+
+34 - 38 links:
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+
+
+With same rare tokens:
+49 - 50 links:
+16_1_1_HammSandwich_TheLastWord	:	51 - 53
+16_1_1_HammSandwich_TheLastWord	:	44 - 45
+16_1_1_HammSandwich_TheLastWord	:	58 - 66
+16_1_1_HammSandwich_TheLastWord	:	41 - 42
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	68 - 76
+16_1_1_HammSandwich_TheLastWord	:	47 - 49
+16_1_1_HammSandwich_TheLastWord	:	55 - 56
+
+3 - 15 links:
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	44 - 45
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	44 - 45
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	47 - 49
+
+34 - 38 links:
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	32 - 34
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+
+52 - 53 links:
+16_1_1_HammSandwich_TheLastWord	:	44 - 45
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	51 - 53
+16_1_1_HammSandwich_TheLastWord	:	44 - 45
+16_1_1_HammSandwich_TheLastWord	:	58 - 66
+16_1_1_HammSandwich_TheLastWord	:	41 - 42
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	68 - 76
+16_1_1_HammSandwich_TheLastWord	:	47 - 49
+16_1_1_HammSandwich_TheLastWord	:	55 - 56
+
+40 - 42 links:
+16_1_1_HammSandwich_TheLastWord	:	26 - 30
+16_1_1_HammSandwich_TheLastWord	:	32 - 34
+16_1_1_HammSandwich_TheLastWord	:	32 - 34
+
+66 - 74 links:
+16_1_1_HammSandwich_TheLastWord	:	58 - 66
+16_1_1_HammSandwich_TheLastWord	:	51 - 53
+16_1_1_HammSandwich_TheLastWord	:	44 - 45
+16_1_1_HammSandwich_TheLastWord	:	58 - 66
+16_1_1_HammSandwich_TheLastWord	:	41 - 42
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	68 - 76
+16_1_1_HammSandwich_TheLastWord	:	47 - 49
+16_1_1_HammSandwich_TheLastWord	:	55 - 56
+
+76 - 84 links:
+16_1_1_HammSandwich_TheLastWord	:	68 - 76
+16_1_1_HammSandwich_TheLastWord	:	51 - 53
+16_1_1_HammSandwich_TheLastWord	:	44 - 45
+16_1_1_HammSandwich_TheLastWord	:	58 - 66
+16_1_1_HammSandwich_TheLastWord	:	41 - 42
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	68 - 76
+16_1_1_HammSandwich_TheLastWord	:	47 - 49
+16_1_1_HammSandwich_TheLastWord	:	55 - 56
+
+55 - 57 links:
+16_1_1_HammSandwich_TheLastWord	:	47 - 49
+16_1_1_HammSandwich_TheLastWord	:	51 - 53
+16_1_1_HammSandwich_TheLastWord	:	44 - 45
+16_1_1_HammSandwich_TheLastWord	:	58 - 66
+16_1_1_HammSandwich_TheLastWord	:	41 - 42
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	68 - 76
+16_1_1_HammSandwich_TheLastWord	:	47 - 49
+16_1_1_HammSandwich_TheLastWord	:	55 - 56
+
+63 - 64 links:
+16_1_1_HammSandwich_TheLastWord	:	55 - 56
+16_1_1_HammSandwich_TheLastWord	:	51 - 53
+16_1_1_HammSandwich_TheLastWord	:	44 - 45
+16_1_1_HammSandwich_TheLastWord	:	58 - 66
+16_1_1_HammSandwich_TheLastWord	:	41 - 42
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	68 - 76
+16_1_1_HammSandwich_TheLastWord	:	47 - 49
+16_1_1_HammSandwich_TheLastWord	:	55 - 56
+
+86 - 96 links:
+16_1_1_HammSandwich_TheLastWord	:	78 - 88
+
+59 - 61 links:
+16_1_1_HammSandwich_TheLastWord	:	51 - 53
+16_1_1_HammSandwich_TheLastWord	:	51 - 53
+16_1_1_HammSandwich_TheLastWord	:	44 - 45
+16_1_1_HammSandwich_TheLastWord	:	58 - 66
+16_1_1_HammSandwich_TheLastWord	:	41 - 42
+16_1_1_HammSandwich_TheLastWord	:	3 - 11
+16_1_1_HammSandwich_TheLastWord	:	68 - 76
+16_1_1_HammSandwich_TheLastWord	:	47 - 49
+16_1_1_HammSandwich_TheLastWord	:	55 - 56
+

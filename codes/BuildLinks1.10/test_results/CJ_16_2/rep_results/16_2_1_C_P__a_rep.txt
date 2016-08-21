@@ -1,0 +1,4 @@
+def 		12 13
+getChar 		15 16
+getFiles name 		2 3
+getValue retValue retValue retValue retValue for i in range 26 numbers = 0 for i in range 10 for c in S index = getIndex c if index > - 1 buckets index += 1 z = buckets getIndex Z for i in range z buckets getIndex E -= 1 buckets getIndex R -= 1 buckets getIndex O -= 1 numbers 0 = z buckets getIndex Z = 0 w = buckets getIndex W for i in 		18 136

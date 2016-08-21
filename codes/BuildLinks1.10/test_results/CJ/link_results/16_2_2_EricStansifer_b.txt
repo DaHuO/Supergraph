@@ -1,0 +1,72 @@
+
+With same rare tokens:
+5 - 36 links:
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+
+62 - 111 links:
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	3 - 122
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_ody42_solve	:	16 - 76
+16_2_2_EricStansifer_common	:	32 - 33
+16_2_1_EricStansifer_a	:	7 - 92
+16_2_1_EricStansifer_common	:	32 - 33
+

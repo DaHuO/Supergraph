@@ -1,0 +1,1 @@
+lost lost lost numbers = for line in list hs = line 		1 14

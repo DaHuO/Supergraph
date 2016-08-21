@@ -1,0 +1,1 @@
+def debug * args print  join str arg for arg in args return 		12 14

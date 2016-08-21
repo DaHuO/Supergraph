@@ -1,0 +1,1 @@
+def solve x ct = counter itertools chain from_iterable x ks = for k v in ct items if v % 2 == 1 ks append k return  join map str sorted ks 		5 13

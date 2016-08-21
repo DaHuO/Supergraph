@@ -1,0 +1,1 @@
+def solve n c = counter for i in 		4 14

@@ -1,0 +1,1 @@
+def char_pos c return ord c - ord A 		11 12

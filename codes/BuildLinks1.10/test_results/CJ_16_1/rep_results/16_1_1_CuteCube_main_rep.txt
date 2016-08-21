@@ -1,0 +1,1 @@
+total_t alphabeta alphabeta total_t open input.txt r = int f readline = abcdefghijklmnopqrstuvwxyz d 		3 22

@@ -1,0 +1,11 @@
+Direct links:
+5 - 9 links:
+16_1_2_DAMF_rank_and_file	:	5 - 9
+16_1_3_DAMF_slow_bffs	:	5 - 9
+
+
+With same rare tokens:
+12 - 18 links:
+16_1_2_DAMF_rank_and_file	:	12 - 18
+16_1_3_DAMF_slow_bffs	:	12 - 18
+

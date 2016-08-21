@@ -1,0 +1,1 @@
+def solve sorted_nums prev = - 1 count = 0 missing_list = for curr in sorted_nums if curr == prev count += 1 else if prev != - 1 and count % 2 == 1 missing_list append prev prev = curr count = 1 if prev != - 1 and count % 2 == 1 missing_list append prev missing_list = map str missing_list formatted_list =  join missing_list return formatted_list 		1 20

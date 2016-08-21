@@ -1,0 +1,3 @@
+def pworks s if len s == 1 return true nexts = for i in range len s // 2 w = winner s i * 2 s i * 2 + 1 or winner s i * 2 + 1 s i * 2 if not w return false nexts += w return pworks nexts 		25 34
+def lineout s * args global fileout out = s format * args fileout write out + \n if fileout != sys stdout print out 		8 11
+def winner a b if a == p and b == s return s elif a == r and b == s return r elif a == r and b == p return p return none 		15 23

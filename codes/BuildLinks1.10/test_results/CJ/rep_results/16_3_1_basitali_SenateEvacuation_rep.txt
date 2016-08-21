@@ -1,0 +1,1 @@
+evacuation_plan remaining_people remaining_people people_with_index people_with_index remaining_people sum people while > 0 max_people = max people = i p for i p in 		1 26

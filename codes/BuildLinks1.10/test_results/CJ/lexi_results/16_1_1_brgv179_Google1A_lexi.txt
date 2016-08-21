@@ -1,0 +1,1 @@
+def checkislastword word test mystring = word 0 for c in word 1 if c < mystring 0 mystring = mystring + c if c >= mystring 0 mystring = c + mystring print case # + str test + 1 + : + mystring 		2 9

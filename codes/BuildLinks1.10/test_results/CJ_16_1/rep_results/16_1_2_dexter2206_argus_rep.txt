@@ -1,0 +1,2 @@
+#{case}: {result} t = int input for case in range t n 		23 33
+something went terribly wrong. = for l in lists for val 		3 21

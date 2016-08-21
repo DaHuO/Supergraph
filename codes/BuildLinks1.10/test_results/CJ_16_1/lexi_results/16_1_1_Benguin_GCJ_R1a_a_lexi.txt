@@ -1,0 +1,1 @@
+def sol s if len s == 1 or len s == 0 return s c = 0 cpos = - 1 i = 0 for char in s if char >= c c = char cpos = i i += 1 return c + sol s 0 cpos + s cpos + 1 		2 13

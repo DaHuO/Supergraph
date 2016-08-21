@@ -1,0 +1,2 @@
+def step num assert sum n > sum num / 2 for n in num == 		2 16
+def evacuate num seq = base = ord 		18 28

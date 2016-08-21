@@ -1,0 +1,1 @@
+def solve astring mainstring = astring 0 for i in range 1 len astring if astring i >= mainstring 0 mainstring = astring i + mainstring else mainstring = mainstring + astring i return mainstring 		4 12

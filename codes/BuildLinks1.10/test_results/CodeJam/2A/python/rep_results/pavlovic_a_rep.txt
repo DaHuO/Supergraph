@@ -1,2 +1,2 @@
 competitors competitors competitors = 		25 31
-finalist finalist finalist finalist if rounds == 0 return winner if 		6 22
+def solve winner rounds if rounds == 0 return winner if 		6 22

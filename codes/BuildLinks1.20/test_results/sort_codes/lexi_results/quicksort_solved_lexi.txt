@@ -1,0 +1,5 @@
+def is_median ar i j k return ar i < ar j and ar i > ar k or 		14 19
+def swap ar i j t = ar i ar i = ar j ar j = t 		8 11
+def main global comparisons input_array = 1 3 5 2 4 6 quicksort input_array pivot_first print input_array f = open quicksort.txt r lst = for line in f readlines lst append int line input_array = lst comparisons = 0 quicksort input_array pivot_first print comparisons input_array = lst comparisons = 0 quicksort input_array pivot_final print comparisons input_array = lst comparisons = 0 quicksort input_array pivot_median print comparisons 		81 115
+def quicksort ar pivot _quicksort ar 0 len ar - 1 pivot 		69 77
+def _quicksort ar l r pivot global comparisons if l >= r return p = 0 if pivot == pivot_first p = ar l elif pivot == pivot_final p = ar r swap ar l r elif pivot == pivot_median m = l + r - l >> 1 if is_median ar l m r p = ar l elif is_median ar m l r p = ar m swap ar l m else p = ar r swap ar l r comparisons += r - l i = l + 1 for j in range l + 1 r + 1 if ar j < p swap ar i j i += 1 swap ar l i - 1 _quicksort ar l i - 2 pivot _quicksort ar i r pivot 		23 65

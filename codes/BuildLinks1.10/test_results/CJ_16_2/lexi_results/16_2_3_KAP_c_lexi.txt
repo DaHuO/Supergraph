@@ -1,0 +1,1 @@
+def find i global gr p2 was if i in was return False was i = i for j in gr i if not j in p2 or find p2 j p2 j = i return True return False 		2 11

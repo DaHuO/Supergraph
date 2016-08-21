@@ -1,10 +1,11 @@
-22 - 38 links:
-sort_insertion	:	16 - 27
+
+With same rare tokens:
+12 - 16 links:
+sortable	:	7 - 12
 
 18 - 19 links:
 sortable	:	44 - 47
-sortable	:	44 - 47
 
-12 - 16 links:
-sortable	:	7 - 12
+22 - 38 links:
+sort_insertion	:	16 - 27
 

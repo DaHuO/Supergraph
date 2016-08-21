@@ -1,0 +1,1 @@
+def pushnum numlist num if num in numlist index = numlist index num del numlist index else numlist append num 		1 6

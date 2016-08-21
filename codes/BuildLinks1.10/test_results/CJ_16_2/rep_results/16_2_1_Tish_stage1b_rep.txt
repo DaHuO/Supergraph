@@ -1,0 +1,6 @@
+def output i 		17 18
+def main t 		34 38
+my_print 		20 21
+def finish a 		10 14
+def q1 x = read res = 0 * 26 for i in range len x if ord x i >= ord A and ord x i <= ord Z res ord x i - ord A = res ord x i 		25 33
+		7 8

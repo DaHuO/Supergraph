@@ -1,0 +1,2 @@
+def main t = int sys stdin readline strip for t in range t n = long sys stdin readline strip pieces = for i in range 2 * n - 1 piece = map int sys stdin readline split pieces append piece result = solve n pieces print case #%d: %s % t + 1  join map str result 		17 26
+def solve n pieces count = collections defaultdict int for p in pieces for v in p count v += 1 n = v for v c in count iteritems if c % 2 == 1 assert len n == n n sort return n 		7 15

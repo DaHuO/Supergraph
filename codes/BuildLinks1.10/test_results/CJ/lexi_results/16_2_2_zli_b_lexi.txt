@@ -1,0 +1,1 @@
+def all_possible c j if ? not in c and ? not in j yield c j elif ? in c for i in xrange 10 for cj in all_possible c replace ? str i 1 j yield cj elif ? in j for i in xrange 10 for cj in all_possible c j replace ? str i 1 yield cj else raise exception unknown 		1 13

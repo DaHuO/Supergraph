@@ -1,0 +1,1 @@
+def get_word s if len s <= 0 return last_word = s 0 for i in range 1 len s c = s i if ord c >= ord last_word 0 last_word = join c last_word else last_word = join last_word c return last_word 		2 16

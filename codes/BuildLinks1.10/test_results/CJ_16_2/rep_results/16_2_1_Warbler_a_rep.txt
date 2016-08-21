@@ -1,0 +1,1 @@
+def solve s m_s = m_s Z = 0 m_s O = 0 m_s N = 0 m_s E = 0 m_s T = 0 m_s W = 0 m_s H = 0 m_s R = 0 m_s F = 0 m_s O = 0 m_s R = 0 m_s U = 0 m_s F = 0 m_s I = 0 m_s V = 0 m_s E = 0 m_s S = 0 m_s I = 0 m_s X = 0 m_s S = 0 m_s E = 0 m_s V = 0 m_s E = 0 m_s N = 0 m_s E = 0 m_s I 		3 120

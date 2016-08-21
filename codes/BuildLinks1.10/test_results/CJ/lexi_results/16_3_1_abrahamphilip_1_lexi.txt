@@ -1,0 +1,1 @@
+def op ans case for i in map str range 0 25 ans = ans replace i chr ord a + int i print case #%d: %s % case + 1 ans 		1 4

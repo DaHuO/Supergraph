@@ -1,0 +1,1 @@
+num_list_save num_strs found_letter num_letters num_letters num_strs num_letters found_letter found_letter num_list_save found_letter num_list_save num_strs num_list_save = ZERO TWO FOUR SIX EIGHT ONE THREE FIVE SEVEN NINE dict = ZERO 0 ONE 1 TWO 		8 59

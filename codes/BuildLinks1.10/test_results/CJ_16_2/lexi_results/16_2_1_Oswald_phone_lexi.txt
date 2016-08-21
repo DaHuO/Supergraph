@@ -1,0 +1,3 @@
+def main cases = int raw_input for x in range 1 cases + 1 current = raw_input answer = getNumbers current print Case #%s: %s % x join map str answer 		19 24
+def removeFirst letters goAway newString = letters for x in goAway index = newString index x newString = newString index + newString index + 1 return newString 		1 6
+def getNumbers letters soFar = for x lookFor contains in order while lookFor in letters letters = removeFirst letters contains soFar append x soFar = sorted soFar return soFar 		10 17

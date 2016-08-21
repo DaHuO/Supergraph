@@ -1,0 +1,2 @@
+def countNumberOfAlpha string s return string count s 		1 2
+def removeAlpha string word maxreplace s = string for w in word s = s replace w maxreplace return s 		4 8

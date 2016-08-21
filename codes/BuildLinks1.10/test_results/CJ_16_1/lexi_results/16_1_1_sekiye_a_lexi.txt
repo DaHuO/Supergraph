@@ -1,0 +1,1 @@
+def solve s = raw_input ans = s 0 for ch in s 1 if ans 0 <= ch ans = ch + ans else ans = ans + ch return ans 		1 9

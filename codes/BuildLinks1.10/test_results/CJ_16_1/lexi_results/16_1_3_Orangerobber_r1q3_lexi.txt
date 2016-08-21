@@ -1,0 +1,2 @@
+def best j i current if i == len j return len current mx = best j i + 1 current if len intersect j i current == 0 return max mx best j i + 1 current + j i else return mx 		5 12
+def intersect a b return list set a & set b 		14 15

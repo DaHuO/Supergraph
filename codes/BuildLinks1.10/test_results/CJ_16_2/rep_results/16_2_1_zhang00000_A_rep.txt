@@ -1,0 +1,1 @@
+def fname S let = 0 * 26 for item in S let ord item - 65 += 1 N = 0 * 10 N 0 = let ord 		1 19

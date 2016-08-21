@@ -1,0 +1,1 @@
+def lastword inpt result = list for letter in inpt if len result == 0 result append ord letter elif len result == 1 c = ord letter if c > result 0 result insert 0 c else result append c else c = ord letter if c >= result 0 result insert 0 c else result append c return join chr i for i in result 		1 20

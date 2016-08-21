@@ -1,0 +1,5 @@
+def rec words idx arr = if 		4 13
+perms_word sorted_words sorted_words 		17 21
+load_input line_buffer line_buffer line_buffer if 		25 32
+perms_word word if len word < 1 return none def 		1 14
+__file__ load_input init_word init_word not argv filename = lines = 1 zxcasdqwe else 		36 51

@@ -1,0 +1,3 @@
+today createanswer Case:%d %sh%sm%s.%ssecn hour minute microsecond open filename r T = int F 		4 18
+answer_ makeanswer filename 		20 23
+createanswer S cntlist = 0 for i in range 10 numberofascii = S count x for x in string ascii_uppercase cntlist 8 		26 54

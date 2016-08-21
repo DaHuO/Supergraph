@@ -1,0 +1,1 @@
+def countCharacter S ret = defaultdict int for c in S ret c += 1 return ret 		35 39

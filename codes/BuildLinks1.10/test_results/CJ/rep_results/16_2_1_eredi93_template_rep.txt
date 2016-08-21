@@ -1,0 +1,4 @@
+def contains a b a 		6 12
+algo line success seen 		47 53
+taken_succ seen_taken not_taken_succ seen_not_taken taken_succ seen_taken not_taken_succ seen_not_taken true if not n 		24 45
+def a number line 		14 21

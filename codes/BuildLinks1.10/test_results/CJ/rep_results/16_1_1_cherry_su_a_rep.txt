@@ -1,0 +1,2 @@
+solve_slow solve_slow solve_slow = if len 		1 6
+def solve s f = * len 		8 12

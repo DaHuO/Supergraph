@@ -1,0 +1,7 @@
+find_remaining solution_set solution_set n grid = for index in solution grid 		45 65
+display_and_clear sol_str sol_str solution 		22 25
+def read_input f n = int 		15 20
+can_follow l1 l2 		95 100
+|= find_remaining n lists lists = sorted lists cur_indices = 		27 43
+display_and_clear main fi = sys stdin fo 		6 13
+cur_set li_index cur_set |= li_index cur_set can_follow solutions if len cur_indices == n = set 		67 93

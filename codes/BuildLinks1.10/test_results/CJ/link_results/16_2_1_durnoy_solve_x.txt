@@ -1,0 +1,14 @@
+Direct links:
+12 - 13 links:
+16_3_1_durnoy_solve_x	:	6 - 7
+
+37 - 50 links:
+16_0_4_durnoy_solve_x_small	:	11 - 25
+
+
+With same rare tokens:
+12 - 13 links:
+16_3_1_durnoy_solve_x	:	9 - 29
+16_3_1_durnoy_solve_x	:	9 - 29
+16_3_1_durnoy_solve_x	:	6 - 7
+

@@ -1,0 +1,5 @@
+def get_number_of_digit dig counts ret = 0 while check_exist digits dig counts ret += 1 decrease digits dig counts return ret 		27 32
+def proceed_string s char_numbers = dict for ch in alphabet char_numbers ch = 0 for ch in s char_numbers ch = char_numbers ch + 1 counts = 0 * 10 for x in order counts x = get_number_of_digit x char_numbers ret_string = for i in xrange 10 nums = i * counts i ret_string += join str x for x in nums return ret_string 		35 50
+def check_exist string counts for x in string if not counts x return false return true 		15 21
+def output f = open output.txt w f write out f close 		60 63
+def decrease string counts for x in string counts x = counts x - 1 		23 25

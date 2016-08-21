@@ -1,0 +1,2 @@
+def solve s makschar = none * len s for ind char in enumerate s if ind == 0 makschar ind = ord char continue makschar ind = max makschar ind - 1 ord char left = right = for ind in range len s - 1 - 1 - 1 if ord s ind == makschar ind left append s ind else right append s ind return join left + join right - 1 		16 31
+def parse input_file output_file with open input_file as f t = int f readline split 0 out = open output_file w for i in range t s = f readline split 0 sol = solve s line = case # + str i + 1 + : + str sol print line out write line + \n return 		3 13

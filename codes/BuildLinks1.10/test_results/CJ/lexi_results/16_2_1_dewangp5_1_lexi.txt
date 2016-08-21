@@ -1,0 +1,1 @@
+def histogram s for c in s hst c += 1 return 0 		3 6

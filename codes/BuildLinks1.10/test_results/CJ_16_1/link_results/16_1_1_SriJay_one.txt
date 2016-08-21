@@ -1,0 +1,63 @@
+
+With same rare tokens:
+32 - 51 links:
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+
+17 - 30 links:
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_1_TDelacroix_ProblemA	:	63 - 68
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_2_Tinels_missingSoldiers	:	1 - 16
+16_1_1_TDelacroix_ProblemA	:	63 - 68
+16_1_1_TDelacroix_ProblemA	:	63 - 68
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+16_1_1_AJGoal_lastwordcontest	:	8 - 38
+

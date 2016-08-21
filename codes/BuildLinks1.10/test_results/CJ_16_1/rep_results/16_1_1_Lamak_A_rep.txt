@@ -1,0 +1,2 @@
+getmycases 		12 13
+def getcases with open a-large.in as 		4 10

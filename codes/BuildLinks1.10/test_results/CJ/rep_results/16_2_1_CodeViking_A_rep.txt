@@ -1,0 +1,9 @@
+take_many take_one ind letters result = 		74 81
+make_fmt formatter 		4 5
+indicators indicators_0 indicators_1 indicators take_many digits = for in for 		84 95
+def __init__ self file_name = none verbose = true formatter = 		18 27
+take_one digit letters result = 		64 71
+make_seq_fmt sep item_fmt 		8 9
+def msg 		29 30
+def read_line self * types words 		32 43
+def write_case self output pfx_char =  pfx 		46 54

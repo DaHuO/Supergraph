@@ -1,0 +1,1 @@
+def solve i s e if DEBUG print >> sys stderr i, s, e i s e if i == len a return 0 if s a i 0 == 1 or e a i 1 == 1 return solve i + 1 s e else if DEBUG print >> sys stderr NOT i, s, e i s e tmp = solve i + 1 s e s a i 0 -= 1 e a i 1 -= 1 if DEBUG print >> sys stderr FAKE i, s, e i s e tmp2 = 1 + solve i + 1 s e s a i 0 += 1 e a i 1 += 1 return max tmp tmp2 		11 32

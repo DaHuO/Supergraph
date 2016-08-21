@@ -1,0 +1,11 @@
+assume_9 assume_0 assume_0 assume_9 best_choice best_choice i == len coder return diff coder jammer coder jammer if less_than coder jammer i c = coder j = jammer return diff c j c j if less_than jammer coder i c = coder j = jammer 		85 127
+def less_than coder jammer length 		32 38
+assume_0 score ret = 		7 12
+best_choice Unhandled case. Defaulting 1\n equal choice_1 choice_2 return best_choice_2 choice_1 choice_3 if equal choice_2 choice_3 return best_choice_2 choice_1 choice_2 if equal choice_1 choice_3 return best_choice_2 choice_1 choice_2 if abs choice_2 0 < 		59 83
+def equal a b 		40 41
+def solve coder jammer 		129 133
+def assume score index 		26 30
+Unhandled case. Defaulting 1\n if abs a 0 < abs b 0 return a if abs a 		43 57
+assume_9 score ret = 		14 19
+output_case #%(case)s: %(result)s 		135 140
+def diff coder 		21 24

@@ -1,0 +1,1 @@
+get_sequence n p eva_order = while sum p > 3 max1 = p index max p p max1 -= 1 max2 = p index max 		3 33

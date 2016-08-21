@@ -1,0 +1,2 @@
+def match counter n for char count in nc n items if counter char < count return false for char count in nc n items counter char -= count return true 		10 16
+def solve line num_counter = collections defaultdict int char_counter = collections counter line for u in u while match char_counter u num_counter u += 1 return join str num * times for num times in sorted num_counter items 		19 25

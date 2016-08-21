@@ -1,0 +1,3 @@
+def get_digit str if str == ZERO return 0 elif str == ONE 		3 24
+def find_del_string input str 		26 32
+get_string input op_list = zero = find_del_string input ZERO while zero != SAJAL_TEMP op_list append 0 input = zero zero = find_del_string input ZERO if not input op_list sort return join str i for i in op_list two = find_del_string input TWO while two != SAJAL_TEMP op_list append 2 input = two two = find_del_string input TWO if not input op_list sort return join str i 		34 135

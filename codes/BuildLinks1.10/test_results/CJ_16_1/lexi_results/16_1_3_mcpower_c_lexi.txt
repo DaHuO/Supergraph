@@ -1,0 +1,1 @@
+def longestdfs inedges start seen seen add start if not inedges start return 1 candidates = for inedge in inedges start candidates append longestdfs inedges inedge seen return max candidates + 1 		1 9

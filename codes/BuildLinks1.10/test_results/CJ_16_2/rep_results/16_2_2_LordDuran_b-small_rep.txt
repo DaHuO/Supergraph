@@ -1,0 +1,1 @@
+pcs cgood pcs cgood cgood pjs jgood pjs jgood jgood out_s C mindiff = 1000 minopt = None for pc in xrange 10 ** clen = str pc rjust clen 0 = True 		10 44

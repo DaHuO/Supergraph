@@ -1,0 +1,1 @@
+50 solve stream number = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE letters = stream readline strip numbers = count = 0 while len letters > 0 if Z in letters numbers += 0 for i in number 0 letters = letters 		4 57

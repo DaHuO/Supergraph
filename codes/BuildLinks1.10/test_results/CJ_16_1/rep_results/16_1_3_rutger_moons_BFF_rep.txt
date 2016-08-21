@@ -1,0 +1,6 @@
+getlongest partofcycle partofcycle partofcycle partofcycle pathtoa pathtob pathtoa pathtoa pathtob pathtob pathtoa pathtob partofcycle true if sum > 2 return sum = 		82 110
+goodcycle c f for i in range len c 		3 11
+getlongestalt partofcycle partofcycle partofcycle partofcycle pathtoa pathtob pathtoa pathtoa pathtob pathtob pathtob pathtoa partofcycle true if sum > 2 return sum = 		51 79
+partofcycle partofcycle iscycle findcycle iscycle partofcycle maxlength getlongest maxlength maxlength sumofallcycles maxpaths sumofallcycles getlongest maxpaths maxpaths maxpaths maxlength maxpaths cycle 		113 140
+getlength idx friends seen = false * len friends 		18 31
+findcycle idx friends seen = false * len friends 		35 49

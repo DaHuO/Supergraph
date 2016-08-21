@@ -1,0 +1,9 @@
+def take_many digit ind letters result = while len letters > 0 and ind in letters d letters = take_one digit letters if d is None return result letters result append d return result letters 		74 81
+def make_fmt formatter specials return lambda item specials get item formatter item 		4 5
+def solve letters result = digits = for indicators in INDICATORS_0 INDICATORS_1 for i in range 10 ind = indicators i if ind is not None digits letters = take_many i ind letters result extend digits result sort assert len letters == 0 return join str d for d in result 		84 95
+def __init__ self file_name = None verbose = True formatter = str self verbose = verbose self formatter = formatter if file_name is None self in_file = sys stdin self out_file = sys stdout else self in_file = open file_name self out_file = open os path splitext file_name 0 + .out w self _case_idx = 1 		18 27
+def take_one digit letters result = t = list letters for c in DIGITS digit if c not in t return None letters t remove c return digit tuple t 		64 71
+def make_seq_fmt sep item_fmt = str return lambda items sep join item_fmt i for i in items 		8 9
+def msg self output end = \n sys stderr write str output + end 		29 30
+def read_line self * types words = self in_file readline strip split if len words == 1 return types 0 words 0 return types min i len types - 1 words i 		32 43
+def write_case self output pfx_char =  pfx = Case #%d: % self _case_idx self _case_idx += 1 text = pfx + pfx_char + self formatter output self out_file write text + \n if self verbose self msg text else self msg pfx 		46 54

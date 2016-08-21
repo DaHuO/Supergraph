@@ -1,0 +1,3 @@
+def maxdepth v avoid prevs rr = 0 for p in prevs v if p == avoid continue rr = max rr 1 + maxdepth p avoid prevs return rr 		26 31
+def rl s return xrange len s 		4 4
+def dfs v nexts visited nvisit cycle if visited v < nvisit return elif visited v == nvisit cycle append v while nexts cycle - 1 != v cycle append nexts cycle - 1 return visited v = nvisit dfs nexts v nexts visited nvisit cycle 		14 23

@@ -1,0 +1,5 @@
+def count_letters s 		37 41
+find_unique words for w in words for 		22 33
+def main it = fileinput 		96 100
+extract_digits extract_map BADNESS! counts = count_letters 		87 94
+extract_digits num_rep num_rep num_rep Badness: = for k v 		75 85

@@ -1,0 +1,1 @@
+def generate a b if ? in a for i in 		7 15

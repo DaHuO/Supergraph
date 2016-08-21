@@ -1,0 +1,13 @@
+multiprocess_imap open_output_file output_f timing_message execution timeit timing_message output_f = 1 header = true start = 1 multiprocessing 		121 141
+check_function module modules __module__ module 		69 77
+get_command_line_kwargs from_cli args = 		196 205
+def print_result case result output 		112 118
+contextmanager timeit {:.3f} = 		49 56
+dynamic variables variables lines_per_case = 1 header = true expression = isinstance lines_per_case str and lines_per_case 		88 109
+decorator get_command_line_kwargs check_function = solve def solve input_file output_file = true multiprocessing = true timing 		168 210
+square 		219 222
+decorator get_command_line_kwargs check_function decorator decorator lines_per_case = 1 header = true start = 1 def func solve_func = solve def 		144 214
+multiprocess_imap iterator imap 		80 85
+contextmanager open_output_file if 		59 66
+get_command_line_kwargs desc using given file. default. argparse argumentparser prog description desc metavar --output -o metavar default specific --no-result -nr store_false default --no-timing -nt store_false default execution --no-write -nw store_false --no-multi 		17 46
+def solve input_file 		170 188

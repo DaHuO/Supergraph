@@ -1,0 +1,1 @@
+QWERTYUIOPASDFGHJKLZXCVBNM solve s = input cnt = for c in cnt c = 0 for a in s cnt a 		16 37

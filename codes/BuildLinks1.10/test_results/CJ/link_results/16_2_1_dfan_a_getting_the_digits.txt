@@ -1,0 +1,19 @@
+Direct links:
+128 - 133 links:
+16_2_2_dfan_b_close_match	:	135 - 140
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+16_0_4_dfan_fractiles	:	27 - 32
+
+
+With same rare tokens:
+128 - 133 links:
+16_2_2_dfan_b_close_match	:	135 - 140
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+16_0_4_dfan_fractiles	:	27 - 32
+16_2_2_dfan_b_close_match	:	135 - 140
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+16_0_4_dfan_fractiles	:	27 - 32
+16_2_2_dfan_b_close_match	:	135 - 140
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+16_0_4_dfan_fractiles	:	27 - 32
+

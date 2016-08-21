@@ -1,0 +1,13 @@
+def 		49 50
+INPUT: line L = 		36 42
+pstats Profile enable * a 		55 62
+ctypes CDLL ./ not haslib 		124 132
+def 		46 48
+vprint 		52 53
+optparse OptionParser --outfd -v --verbose -d --debug -q --quiet -p --profile FLAGS -- fdopen action = store_true parser add_option action = store_true parser add_option action = store_true parser add_option action 		150 191
+def haslib 		120 122
+Too many %r: [%s] %r... quiet /dev/null --outfd=%d fileno WITH EXITCODE rename -sdu >>> <<< f endswith .in if not files raise Exception No .in file found if mask is None fn = max files key = os path getmtime else matches = f for 		193 243
+uptodate Compiling into %s... -O3 check_call g++ -Wall -fPIC -std=c++0x -shared os path 		134 147
+80 %d... ANSWER: consumed! returned Some, all, produced = int line for i in range N if VERBOSE print = * print Case %d % i 		70 108
+def 		43 44
+basename %s.cpp libdbg.so lib.so _ = os 		110 118

@@ -1,0 +1,1 @@
+def solve S c = Counter S digits = for i in u_order digit_name = digit_names i cs = c letter for letter in digit_name max_occurence = min cs for letter in digit_name c letter -= max_occurence digits += i * max_occurence print sum c values return join str x for x in sorted digits 		7 19

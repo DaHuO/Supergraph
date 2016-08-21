@@ -1,0 +1,5 @@
+def 		1 2
+read_intlist return 		4 5
+def 		12 13
+write_line i s 		7 10
+get_nums s nums = o = 0 h = 0 f = 0 v = 0 i = 0 for j in xrange s count Z o += 1 nums append 		25 63

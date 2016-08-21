@@ -1,0 +1,3 @@
+def solve S return _recur clt Counter S 0 		36 37
+def _remove count n cnt = count copy cnt subtract clt Counter table n if all v >= 0 for v in cnt itervalues return cnt else return None 		7 13
+def _recur count n num if n == 10 if all v == 0 for v in count itervalues return num else return None cp = count copy cp2 = num while True nn = _recur count n + 1 num if nn != None return nn count = _remove count n if count != None num += str n else break count = cp num = cp2 return None 		15 34

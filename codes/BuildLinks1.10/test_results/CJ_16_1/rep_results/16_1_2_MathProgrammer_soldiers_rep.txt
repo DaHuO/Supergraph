@@ -1,0 +1,2 @@
+def solve2 n soldiers solution = 0 for i in 		22 34
+def solve n soldiers count = for l in 		3 19

@@ -1,0 +1,7 @@
+		11 11
+def 		10 10
+		9 9
+def main t 		29 33
+		8 8
+def lastword s if not s return 		20 27
+def do_one_case 		15 17

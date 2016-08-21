@@ -1,0 +1,2 @@
+def main r = sys stdin if 		14 24
+def solve_case s case_number result = 		4 11

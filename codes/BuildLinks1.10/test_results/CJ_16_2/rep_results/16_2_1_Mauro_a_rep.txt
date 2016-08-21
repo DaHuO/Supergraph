@@ -1,0 +1,2 @@
+		3 4
+def solve s char_freq = i 0 for i in ABCDEFGHIJKLMNOPQRSTUVWXYZ for i in s char_freq i += 1 digit_freq = digit_freq 		6 22

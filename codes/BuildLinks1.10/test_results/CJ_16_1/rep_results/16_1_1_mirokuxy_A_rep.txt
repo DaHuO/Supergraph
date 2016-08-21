@@ -1,0 +1,1 @@
+def process s res = for 		9 21

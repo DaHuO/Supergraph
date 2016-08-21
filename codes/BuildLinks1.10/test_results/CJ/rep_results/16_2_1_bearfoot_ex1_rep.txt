@@ -1,0 +1,5 @@
+find2nd inlist inlist t lst lst remove t lst remove 		60 77
+find3rd inlist inlist inlist lst lst remove f lst remove o lst 		79 100
+inlist elem 		22 25
+find1st inlist inlist inlist inlist lst remove z lst remove e lst remove r lst remove o 		30 58
+findfin lst while len 		102 108

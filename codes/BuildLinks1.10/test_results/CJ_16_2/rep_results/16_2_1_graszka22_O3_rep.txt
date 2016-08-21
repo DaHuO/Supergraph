@@ -1,0 +1,2 @@
+isalpha ct s r = 		2 7
+def minus l1 l2 for 		9 16

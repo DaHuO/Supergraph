@@ -1,0 +1,5 @@
+def count_letters s counter = defaultdict int for l in s counter l += 1 return counter 		37 41
+def find_unique words for w in words for l in w not_found = True for x in words if x == w continue if l in x not_found = False break if not_found print w l 		22 33
+def main it = fileinput input cnt = it next for i l in enumerate it 1 print Case #%d: %s % i solve l strip 		96 100
+def solve s counts = count_letters s digits counts = extract_digits counts extract_map s for v in counts values if v != 0 print BADNESS! print s counts return join sorted digits 		87 94
+def extract_digits counts m s digits = for k v in m num_rep = counts k digits += v 1 * num_rep for l in v 0 counts l -= num_rep if counts l < 0 print Badness: l s counts digits assert counts l >= 0 return digits counts 		75 85

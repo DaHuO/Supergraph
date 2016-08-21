@@ -1,0 +1,4 @@
+inputvars outputvars num numlist = output = for x 		26 39
+inputvars f = 		1 5
+def reverse string end for x 		13 24
+outputvars num output f = open 		7 11

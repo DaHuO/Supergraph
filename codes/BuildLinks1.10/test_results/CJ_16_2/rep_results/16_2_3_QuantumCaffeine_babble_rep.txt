@@ -1,0 +1,3 @@
+numTopics numTopics inputFile with open inputFile r 		6 11
+def solve topics global best best = 0 pairs = 		26 38
+def innerSolve first pos pairs used global best 		15 24

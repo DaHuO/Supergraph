@@ -1,0 +1,1 @@
+def solve w1 w2 N pos = i for i in range N 		6 22

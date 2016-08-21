@@ -1,0 +1,24 @@
+Direct links:
+37 - 39 links:
+16_2_2_GumJum_q2	:	34 - 47
+
+10 - 11 links:
+16_1_1_Azrathud_problem_file	:	17 - 18
+
+
+With same rare tokens:
+43 - 45 links:
+16_3_1_AndersTornkvist_a	:	235 - 236
+16_0_4_ait_loadFile	:	5 - 7
+16_3_1_brusco_a	:	6 - 9
+
+10 - 11 links:
+16_1_1_Azrathud_problem_file	:	17 - 18
+16_1_1_Azrathud_problem_file	:	40 - 46
+16_1_1_Azrathud_problem_file	:	17 - 18
+16_1_1_Azrathud_problem_file	:	17 - 18
+
+29 - 35 links:
+16_1_1_Azrathud_problem_file	:	17 - 18
+16_1_1_Azrathud_problem_file	:	40 - 46
+

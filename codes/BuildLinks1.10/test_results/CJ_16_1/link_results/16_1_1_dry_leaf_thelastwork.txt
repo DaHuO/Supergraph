@@ -1,0 +1,19 @@
+Direct links:
+4 - 11 links:
+16_1_1_Dragon2fly_A	:	10 - 18
+16_1_1_phire_1	:	6 - 13
+16_1_1_Cyphase_problemA	:	11 - 22
+16_1_1_archangel11_main	:	4 - 14
+16_1_1_devm33_ans	:	4 - 11
+16_1_1_Jasonzhang_Main	:	1 - 8
+16_1_1_ziddarth_last_word	:	2 - 15
+16_1_1_riddle88_A	:	12 - 21
+16_1_1_DaniTunes_A-lastWord	:	8 - 15
+16_1_1_rainmayecho_a	:	1 - 8
+16_1_1_jck_a	:	3 - 10
+
+
+With same rare tokens:
+4 - 11 links:
+16_1_1_Dragon2fly_A	:	10 - 18
+

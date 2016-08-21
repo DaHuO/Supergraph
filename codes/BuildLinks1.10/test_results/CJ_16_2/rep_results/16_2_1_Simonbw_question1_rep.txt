@@ -1,0 +1,6 @@
+counts_is_empty counts for 		20 24
+print_counts counts s = 		46 50
+counts_is_empty word_counts get_counts sub_counts word_counts 		7 18
+get_counts s counts 		26 30
+counts_contains a b 		32 36
+sub_counts counts_contains get_counts if not 		38 44

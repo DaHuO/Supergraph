@@ -1,0 +1,2 @@
+better_n1 better_n2 better_n1 better_n2 better_n1 better_n2 		4 10
+10e18 10e19 quest1_pos finditer r'\?' quest2_pos finditer r'\?' quest1_pos quest1_pos quest2_pos quest2_pos in re n1 = m start for m in 		12 32

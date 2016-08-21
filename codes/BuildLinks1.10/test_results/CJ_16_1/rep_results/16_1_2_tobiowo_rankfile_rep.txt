@@ -1,0 +1,1 @@
+def get_missing_row n rows c = counter for 		18 30

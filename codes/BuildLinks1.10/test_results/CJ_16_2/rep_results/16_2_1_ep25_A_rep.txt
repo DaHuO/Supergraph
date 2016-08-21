@@ -1,0 +1,4 @@
+getNonUniqueNums inStr uniqueNums = while len inStr != 0 if O in inStr numOfOccurrences = inStr count O for _ in range 0 numOfOccurrences uniqueNums append 1 		44 87
+getUniqueNumbers inStr uniqueNums = if Z in inStr numOfOccurrences = inStr count Z for _ in range 0 numOfOccurrences uniqueNums append 0 for c in ZERO 		3 41
+findPhoneNumber getUniqueNumbers nonUniqueNums getNonUniqueNums nonUniqueNums inStr 		91 99
+findPhoneNumber main ln = 0 T = None 		101 112

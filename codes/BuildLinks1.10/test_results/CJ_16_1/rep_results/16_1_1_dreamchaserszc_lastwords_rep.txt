@@ -1,0 +1,4 @@
+def 		4 5
+findindex subwordlist subwordlist highestasciiindex highestasciichar subwordlist subwordlist highestasciichar subwordlist highestasciichar highestasciichar subwordlist 		7 22
+indexofhighestascii findindex indexofhighestascii calling indexofhighestascii indexofhighestascii indexofhighestascii indexofhighestascii indexofhighestascii indexofhighestascii indexofhighestascii indexofhighestascii subword == return if 		24 42
+def 		44 46

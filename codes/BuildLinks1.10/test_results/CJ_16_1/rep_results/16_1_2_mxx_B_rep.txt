@@ -1,0 +1,1 @@
+def testcase ind n = int raw_input lists = for _ 		1 9

@@ -1,0 +1,3 @@
+		20 20
+f5 solve info n = int info p = list for x 		1 14
+f5 marker marker marker none if idfun is 		17 31

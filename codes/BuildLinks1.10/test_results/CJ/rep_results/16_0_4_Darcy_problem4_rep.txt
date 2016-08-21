@@ -1,0 +1,2 @@
+def solve for tc in range input k c s = raw_input split  k = int k c = 		15 43
+		46 49

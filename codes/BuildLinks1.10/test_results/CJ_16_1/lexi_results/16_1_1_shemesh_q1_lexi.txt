@@ -1,0 +1,1 @@
+def func s out_s = for c in s if len out_s == 0 out_s += c elif ord c >= ord out_s 0 out_s = c + out_s else out_s += c return out_s 		1 11

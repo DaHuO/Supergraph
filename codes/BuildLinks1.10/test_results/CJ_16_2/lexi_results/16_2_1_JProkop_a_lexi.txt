@@ -1,0 +1,1 @@
+def solve s nums = idx = 0 while idx < 10 REQ_CHARS CHARS num = WORDS idx has_word = True for c in REQ_CHARS if c not in s has_word = False break if has_word nums += str num for c in CHARS s = s replace c 1 else idx += 1 num_list = list nums num_list sort return join num_list 		14 34

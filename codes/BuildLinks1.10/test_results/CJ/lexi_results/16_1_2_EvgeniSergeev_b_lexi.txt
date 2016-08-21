@@ -1,0 +1,1 @@
+def rl s return xrange len s 		3 3

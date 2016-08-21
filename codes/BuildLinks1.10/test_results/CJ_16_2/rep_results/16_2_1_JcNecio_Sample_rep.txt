@@ -1,0 +1,3 @@
+printer retVal everythingAvailable retVal INDECES removeOneFromLetters retVal 		7 14
+removeOneFromLetters word letters 		22 24
+everythingAvailable word letters 		16 20

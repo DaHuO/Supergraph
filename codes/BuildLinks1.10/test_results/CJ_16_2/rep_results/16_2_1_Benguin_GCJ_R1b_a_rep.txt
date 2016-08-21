@@ -1,0 +1,1 @@
+def sol s counts = dict letter s count letter for letter in set ABCDEFGHIJKLMNOPQRSTUVWXYZ print counts number = n 0 for n in range 		1 20

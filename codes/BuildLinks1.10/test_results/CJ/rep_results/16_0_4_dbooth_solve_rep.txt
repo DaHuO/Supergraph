@@ -1,0 +1,2 @@
+exactly args: if not len sys argv == 3 print need twos input filename and output filename 		36 47
+bits_to_check bits_to_check check_len next_secondary_bit_check next_primary_bit_check bits_to_check next_primary_bit_check check_len next_secondary_bit_check bits_to_check next_primary_bit_check next_secondary_bit_check required_checks = list range 1 k + 1 		7 34

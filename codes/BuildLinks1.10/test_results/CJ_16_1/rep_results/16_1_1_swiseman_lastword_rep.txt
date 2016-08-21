@@ -1,0 +1,1 @@
+getanswer p answer = answer = answer 		1 12

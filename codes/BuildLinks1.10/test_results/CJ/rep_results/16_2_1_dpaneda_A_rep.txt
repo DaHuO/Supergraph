@@ -1,0 +1,1 @@
+def solve s = input count = 		22 34

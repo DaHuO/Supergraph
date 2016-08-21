@@ -1,0 +1,4 @@
+isletinres word phrase w = Counter word new_phrase 		17 27
+rest_dict 		42 46
+find_rec res_rec res_rec res_rec fig res_copy isok new_res_rec isletinres isok res_copy 		48 66
+def main filename f = iter open 		9 15

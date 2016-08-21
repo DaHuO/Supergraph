@@ -1,0 +1,1 @@
+def solve s d = for c in s d c = d get c 0 + 1 res = for key in dd n = d get key 0 if n > 0 for c in dd key 0 d c -= n res extend dd key 1 * n for key in dd1 n = d get key 0 if n > 0 for c in dd1 key 0 d c -= n res extend dd1 key 1 * n if d get N 0 > 0 n = d N / 2 res extend 9 * n res sort return join str elem for elem in res 		16 43

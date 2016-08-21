@@ -1,0 +1,3 @@
+def solve s l = list s r = while Z in l remove l ZERO r append 0 while W in l 		11 56
+def main t = int 		58 63
+strng strng 		6 9

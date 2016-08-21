@@ -1,0 +1,2 @@
+solve_test case: [{0}] print format test_case n = int test_case 0 nums = result 		10 33
+def finish index 		4 8

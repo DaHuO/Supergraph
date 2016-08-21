@@ -1,0 +1,8 @@
+def precalculate self raise NotImplementedError 		32 33
+def wrapped * args if args not in mem mem args = func * args return mem args 		14 17
+def precalculate self pass 		62 64
+def __init__ self self precalculate 		29 30
+def run self infile outfile cases = int infile readline for ncase in range cases print Case #{nc} format nc = ncase + 1 data = self process infile ncase = ncase outfile write Case #{nc}: {data}\n format 		38 44
+def memoized func mem = def wrapped * args if args not in mem mem args = func * args return mem args return wrapped 		11 18
+def process self infile ncase string = infile readline strip from collections import Counter char_count = Counter string digits = for char digit word in self SEQUENCE count = char_count char digits += digit * count for char in word char_count char -= count assert max char_count values == 0 return join sorted digits 		66 78
+def process self infile ncase raise NotImplementedError 		35 36

@@ -1,0 +1,1 @@
+def delete x l 		1 4

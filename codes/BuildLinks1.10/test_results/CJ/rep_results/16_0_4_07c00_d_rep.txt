@@ -1,0 +1,3 @@
+def sol start 		5 9
+def f k c s if k == 		11 22
+def main n = int raw_input 		24 28

@@ -1,0 +1,549 @@
+setrecursionlimit	:	sort  93 104	
+all	:	bogosort  3 7	test_sorts  50 74	sorting  14 16	sort_bogo  9 12	graphsort  78 85	
+insertion_optimized	:	test_sorts  50 74	pysort  122 134	
+quick_median	:	test_sorts  50 74	pysort  185 206	pysort  185 206	pysort  185 206	
+genbutton	:	graphsort  49 60	graphsort  49 60	
+selection	:	graphsort  49 60	graphsort  49 60	graphsort  49 60	
+max_heapify	:	heap_sort  25 40	heap_sort  6 22	
+incorrectly.	:	test_sorts  29 39	
+nearly_sorted	:	sort  58 91	sort  23 56	
+unsorted_array	:	qsort  35 43	qsort  35 43	
+count2	:	quick_sort  57 75	quick_sort  57 75	quick_sort  25 49	quick_sort  25 49	quick_sort  85 109	quick_sort  85 109	
+timsort	:	timsort  22 38	
+ts	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+__cmp__	:	sortable  7 12	timsort  12 16	
+tmp_array	:	mergesort  3 33	mergesort  3 33	mergesort  3 33	mergesort  3 33	mergesort  3 33	mergesort  3 33	
+perform_swaps	:	test_sorts  19 26	test_sorts  50 74	
+listify	:	radixrsort  22 26	radixrsort  9 14	
+digit	:	radixrsort  9 14	radixrsort  9 14	radixrsort  9 14	
+my_list	:	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	
+test_bitonicsort	:	test_sortable  20 24	
+splitting	:	py_merge_sort  5 39	
+lreverse_list.json	:	sort  58 91	
+testrun	:	test_sorts  29 39	test_sorts  29 39	test_sorts  29 39	test_sorts  29 39	
+randompartition	:	sort_quick  21 25	sort_quick  16 19	
+pivot_final	:	quicksort_solved  81 115	quicksort_solved  23 65	
+movedown	:	py_heap_sort  5 17	py_heap_sort  5 17	py_heap_sort  20 34	
+correct	:	sorter  43 47	
+try	:	sort_insertion  16 27	sortable  7 12	timsort  22 38	
+red	:	graphsort  78 85	
+test_bubble_sort_should_sort_a_list	:	test_bubble_sort  8 9	
+quick	:	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	sorts  81 95	pysort  226 242	pysort  226 242	pysort  226 242	pysort  226 242	pysort  162 183	pysort  162 183	pysort  208 224	pysort  208 224	pysort  208 224	pysort  185 206	pysort  185 206	pysort  185 206	pysort  244 264	pysort  244 264	pysort  244 264	pysort  244 264	
+sleep	:	graphsort  19 28	graphsort  30 45	
+trs	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+round	:	sort  10 20	sorts  11 43	
+290	:	graphsort  12 16	
+2.25	:	sorts  11 43	
+defaultdict	:	sort_word_by_other_word  8 18	
+sorted_array	:	qsort  35 43	qsort  35 43	
+array_length	:	quicksort_median  14 36	quicksort_median  14 36	quicksort_median  14 36	quicksort_median  14 36	
+selection_sort	:	selection_sort  7 19	sorting_algorithms  24 40	
+almost_sorted	:	test_sorts  50 74	test_sorts  50 74	
+second	:	sorts  68 78	sorts  68 78	
+pass	:	qsort  29 30	qsort  32 33	bubble_sort_with_flag  4 5	sort_time  6 7	radix_sort  4 5	
+new_pivot	:	quicksort_inplace  14 19	quicksort_inplace  14 19	quicksort_inplace  14 19	
+item:	:	test_sorts  50 74	
+580	:	graphsort  71 74	graphsort  78 85	
+appwindow	:	graphsort  19 28	graphsort  12 16	graphsort  30 45	
+arraycopy	:	sortTest  13 21	sortTest  13 21	sortTest  13 21	
+current	:	insertion-sort  4 13	insertion-sort  4 13	insertion-sort  4 13	
+template	:	test_sorts  29 39	test_sorts  29 39	
+seqs	:	test_sortable  26 47	test_sortable  26 47	test_sortable  26 47	test_sortable  26 47	
+{0}	:	Arraysort  69 88	Arraysort  69 88	
+test_qsort_sort	:	sorttests  81 82	
+join	:	sort_word_by_other_word  8 18	
+spacing	:	graphsort  78 85	graphsort  78 85	
+insertsize	:	Arraysort  4 61	Arraysort  4 61	Arraysort  4 61	Arraysort  14 22	Arraysort  14 22	
+arr_sl	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+cocktailsort	:	py_cocktail_sort  7 18	cocktailsort  2 21	
+increments	:	py_shell_sort  5 14	
+content-type:	:	sort  93 104	
+items	:	test_sortable  26 47	
+test_simple	:	test_sortable  8 14	
+changed	:	bubble_sort_with_flag  7 17	bubble_sort_with_flag  7 17	bubble_sort_with_flag  7 17	pysort  61 77	pysort  61 77	pysort  61 77	
+test_isort_empty	:	sorttests  42 43	
+error!	:	sorting  34 47	
+__repr__	:	sortable  19 20	
+pack	:	graphsort  71 74	graphsort  49 60	graphsort  49 60	graphsort  49 60	graphsort  49 60	
+fewunique	:	sort  58 91	sort  23 56	
+gendata	:	sorting  34 47	sorting  18 21	
+比较次数:	:	cocktail_shaker_sort  92 158	
+data_rs	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+counts	:	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	
+select	:	sorts  143 167	
+from	:	sorting  23 28	sorting  18 21	
+&	:	smoothsort  18 19	smoothsort  18 19	smoothsort  61 98	smoothsort  61 98	smoothsort  39 58	
+testreverse	:	sortTest  32 34	
+testempty	:	sortTest  24 26	
+6	:	quicksort_solved  81 115	sorttests  11 15	
+prev	:	timsort  22 38	timsort  22 38	timsort  22 38	
+heappop	:	sorts  46 65	
+random.json	:	sort  23 56	
+ip2	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+trail	:	smoothsort  61 98	smoothsort  61 98	smoothsort  61 98	smoothsort  39 58	smoothsort  39 58	smoothsort  39 58	
+flag	:	shellsort  2 17	shellsort  2 17	
+ip1	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+ip4	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+count1	:	quick_sort  57 75	quick_sort  57 75	quick_sort  25 49	quick_sort  25 49	quick_sort  85 109	quick_sort  85 109	
+flip_count	:	sorting_stack  10 27	sorting_stack  10 27	sorting_stack  10 27	
+sorted_list	:	counting_sort  15 44	counting_sort  15 44	counting_sort  15 44	counting_sort  15 44	
+leastparent	:	py_heap_sort  5 17	py_heap_sort  5 17	
+循环次数:	:	cocktail_shaker_sort  92 158	
+none	:	cyclesort  3 20	counting_sort  15 44	counting_sort  15 44	sorts  11 43	sortable  49 52	pysort  226 242	pysort  226 242	pysort  208 224	pysort  208 224	pysort  244 264	pysort  244 264	sorting_algorithms  96 133	sorting_algorithms  96 133	sorting_algorithms  96 133	sorting_algorithms  96 133	
+test_quick_sort	:	qsort  35 43	
+tns	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+f	:	quicksort_solved  81 115	quicksort_solved  81 115	
+lsort_on_data	:	sort  58 91	sort  93 104	
+stoogesort	:	stoogesort  15 22	stoogesort  3 12	stoogesort  3 12	stoogesort  3 12	stoogesort  3 12	
+l_sorted	:	sort_insertion  16 27	sort_insertion  16 27	sort_insertion  16 27	sort_insertion  16 27	sort_insertion  16 27	
+ailwefawlilwesfbnsliefwiwfleifwnslifenfliwenlisnqrwpoueitrwezuiopgsdfjhklöaljkfyvmcx	:	sortingtest  21 24	
+_partion	:	sortalg  141 164	sortalg  130 139	
+_quick_sort_in	:	sorts  68 78	sorts  68 78	sorts  68 78	sorts  81 95	
+issorted	:	sorting  14 16	sorting  34 47	
+select_sort	:	sortalg  42 63	sorts  143 167	
+compare	:	bitonicsort  11 17	bitonicsort  5 8	
+prompt	:	test_sorts  42 47	test_sorts  42 47	
+0.1	:	graphsort  19 28	graphsort  30 45	
+test_msort_single	:	sorttests  66 67	
+550	:	graphsort  78 85	
+get_max_child_index	:	heap_sort  25 40	heap_sort  43 69	
+in_order	:	py_bogo_sort  12 21	py_bogo_sort  6 10	
+numbers	:	graphsort  49 60	
+_insert_sort_interval	:	sortalg  65 85	sortalg  87 97	sortalg  99 115	
+oddevensort	:	oddevensort  2 11	
+test_qsort_single	:	sorttests  87 88	
+bogo	:	pysort  437 450	
+bubble_optimized	:	test_sorts  50 74	pysort  46 59	
+test_isort_sort	:	sorttests  39 40	
+bubble_sort	:	sortalg  22 40	bubble_sort  7 15	test_bubble_sort  8 9	sorts  170 194	sorting_algorithms  1 22	
+shuffled	:	test_sorts  50 74	
+data_ns	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+left_child	:	heap_sort  43 69	heap_sort  43 69	heap_sort  43 69	heap_sort  43 69	heap_sort  43 69	heap_sort  43 69	
+bubble_final_position	:	test_sorts  50 74	pysort  79 98	
+numlist	:	graphsort  78 85	graphsort  78 85	graphsort  78 85	graphsort  78 85	
+fp	:	sortable  65 81	sortable  65 81	
+list_2	:	merge_sort_inplace  37 69	merge_sort_inplace  37 69	merge_sort_inplace  37 69	merge_sort_inplace  37 69	merge_sort_inplace  37 69	
+list_1	:	merge_sort_inplace  37 69	merge_sort_inplace  37 69	merge_sort_inplace  37 69	merge_sort_inplace  37 69	merge_sort_inplace  37 69	
+nums	:	radixrsort  9 14	radixrsort  9 14	
+max	:	bucketsort  5 19	counting_sort  4 12	
+after	:	stoogesort  15 22	py_shell_sort  5 14	
+max_element	:	counting_sort  15 44	counting_sort  15 44	counting_sort  15 44	
+sort_heap	:	sort_heap  5 12	
+sort_selection	:	sort_selection  4 15	
+positionofmax	:	py_selection_sort  5 15	py_selection_sort  5 15	py_selection_sort  5 15	py_selection_sort  5 15	py_selection_sort  5 15	graphsort  30 45	graphsort  30 45	graphsort  30 45	graphsort  30 45	graphsort  30 45	
+arr_fw	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+recieved	:	test_sorts  29 39	test_sorts  29 39	
+combsort	:	combsort  2 14	
+quicksort.txt	:	quicksort_solved  81 115	
+algorithms	:	test_sortable  26 47	
+num_buckets	:	bucketsort  5 19	bucketsort  5 19	bucketsort  5 19	
+lambda	:	bucketsort  5 19	test_sorts  29 39	
+last_value	:	cyclesort  3 20	cyclesort  3 20	cyclesort  3 20	cyclesort  3 20	sorting_stack  10 27	sorting_stack  10 27	
+__	:	sorting  34 47	
+132	:	sorts  11 43	
+during	:	sortTest  13 21	
+quick_sort_inplace	:	sorting_algorithms  96 133	sorting_algorithms  96 133	sorting_algorithms  96 133	
+before	:	stoogesort  15 22	
+27	:	smoothsort  18 19	
+20	:	graphsort  49 60	
+23	:	sorts  11 43	
+timwrapper	:	timsort  22 38	timsort  22 38	timsort  22 38	timsort  22 38	timsort  12 16	timsort  12 16	timsort  12 16	
+>>=	:	smoothsort  61 98	smoothsort  61 98	smoothsort  39 58	
+button	:	graphsort  49 60	graphsort  49 60	graphsort  49 60	
+lp	:	smoothsort  22 36	smoothsort  61 98	smoothsort  61 98	smoothsort  39 58	smoothsort  39 58	
+400	:	graphsort  71 74	
+main	:	sort_word_by_other_word  8 18	stoogesort  15 22	quicksort_solved  81 115	sort  93 104	quicksort_inplace  21 25	test_sorts  50 74	
+tss	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+split	:	merge_sort_typical  15 20	merge_sort_typical  15 20	quicksort  24 29	quicksort  24 29	quicksort  24 29	sortable  65 81	
+unsort_pos	:	sortalg  87 97	sortalg  87 97	sortalg  87 97	sortalg  87 97	sortalg  87 97	
+min_value	:	sortTest  36 38	
+test_bsort_single	:	sorttests  26 27	
+data_ss	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+half	:	sorter  4 31	sorter  4 31	sorter  4 31	
+%s	:	test_sortable  26 47	sortTest  13 21	sortTest  13 21	
+_helper	:	sortTest  24 26	sortTest  36 38	sortTest  28 30	sortTest  13 21	sortTest  32 34	
+read_paths	:	test_sortable  51 63	sortable  65 81	
+swap_point	:	pysort  79 98	pysort  79 98	pysort  79 98	pysort  79 98	
+2000000	:	sort  93 104	
+2000009	:	sort  93 104	
+nlast	:	sort_bubble  8 17	sort_bubble  8 17	sort_bubble  8 17	
+modf	:	bitonicsort  28 31	
+debug	:	bucketsort  5 19	bucketsort  5 19	
+side	:	graphsort  71 74	graphsort  49 60	graphsort  49 60	graphsort  49 60	graphsort  49 60	
+test_all	:	test_sortable  26 47	test_sorts  42 47	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	
+quick3	:	quick_sort  85 109	quick_sort  85 109	quick_sort  85 109	
+quick2	:	quick_sort  57 75	quick_sort  57 75	quick_sort  57 75	
+siftdown	:	sort_heap  14 20	sort_heap  5 12	sort_heap  22 36	
+ismallest	:	selectionsort  8 14	selectionsort  8 14	selectionsort  8 14	selectionsort  8 14	
+startposition	:	py_shell_sort  5 14	py_shell_sort  5 14	
+quick_random	:	test_sorts  50 74	pysort  162 183	pysort  162 183	pysort  162 183	
+_mergesort	:	mergesort  3 33	mergesort  3 33	mergesort  3 33	mergesort  35 36	
+reduce	:	bucketsort  5 19	
+701	:	sorts  11 43	sorts  11 43	
+lrandom.json	:	sort  58 91	
+perc_down	:	heapsort  8 14	heapsort  16 29	heapsort  31 41	
+counting_sort	:	counting_sort  15 44	counting_sort  4 12	
+out	:	radixrsort  4 7	radixrsort  22 26	radixrsort  22 26	radixrsort  22 26	
+start:	:	quicksort_inplace  21 25	
+canvas	:	graphsort  71 74	graphsort  71 74	graphsort  71 74	graphsort  71 74	graphsort  78 85	graphsort  78 85	graphsort  78 85	
+is_median	:	quicksort_solved  14 19	quicksort_solved  23 65	quicksort_solved  23 65	
+trusty	:	smoothsort  39 58	smoothsort  39 58	smoothsort  39 58	smoothsort  39 58	
+<<=	:	smoothsort  61 98	smoothsort  61 98	smoothsort  61 98	
+sort_bogo	:	sort_bogo  9 12	
+parent_index	:	heap_sort  72 89	heap_sort  72 89	heap_sort  72 89	heap_sort  72 89	heap_sort  72 89	
+7	:	smoothsort  61 98	
+test_sequence	:	test_sorts  42 47	test_sorts  42 47	
+pivot_median	:	quicksort_solved  81 115	quicksort_solved  23 65	
+math	:	bitonicsort  28 31	bitonicsort  28 31	radixrsort  16 20	radixrsort  16 20	sorter  90 100	
+_merge_sort_iter_1	:	sortalg  181 186	
+plotting	:	sorting  72 74	sorting  76 81	sorting  76 81	sorting  76 81	sorting  67 70	
+right_child	:	heap_sort  43 69	heap_sort  43 69	heap_sort  43 69	
+passes	:	pysort  46 59	pysort  46 59	pysort  61 77	pysort  61 77	
+test_merge_sort_should_sort_a_list	:	test_merge_sort  8 9	
+ascending	:	bitonicsort  28 31	bitonicsort  20 25	
+indices	:	py_cocktail_sort  7 18	py_cocktail_sort  7 18	
+\nrecieved:	:	test_sorts  29 39	
+sort_stack	:	sorting_stack  10 27	
+e1	:	sorts  98 140	sorts  98 140	sorts  98 140	sorts  98 140	sorts  98 140	sorts  98 140	
+sort_python	:	sort_python  9 10	
+currentvalue	:	py_insertion_sort  6 16	py_insertion_sort  6 16	py_insertion_sort  6 16	py_shell_sort  16 26	py_shell_sort  16 26	py_shell_sort  16 26	
+times	:	sort_time  9 11	
+cmp	:	sortable  7 12	timsort  12 16	
+1000	:	Arraysort  69 88	sort  10 20	sortTest  36 38	
+already	:	test_sorts  50 74	
+>>	:	smoothsort  18 19	smoothsort  61 98	quicksort_solved  23 65	
+list:	:	test_sorts  50 74	
+data_length	:	sorting  23 28	sorting  18 21	
+number	:	test_sorts  29 39	
+one	:	sortingtest  12 14	
+cyclesort	:	cyclesort  3 20	
+done	:	py_quick_sort  18 46	py_quick_sort  18 46	py_quick_sort  18 46	sorter  58 75	sorter  58 75	sorter  58 75	
+enumerate	:	sortable  49 52	sortable  65 81	pysort  136 152	pysort  122 134	
+assertfalse	:	sorttests  42 43	sorttests  84 85	sorttests  23 24	sorttests  63 64	
+testsorted	:	sortTest  28 30	
+build_max_heap	:	heap_sort  72 89	heap_sort  6 22	
+width	:	graphsort  71 74	graphsort  49 60	
+teardown	:	qsort  32 33	
+top	:	graphsort  71 74	
+qsort	:	qsort  6 7	qsort  10 25	qsort  10 25	qsort  10 25	
+sort_bubble	:	sort_bubble  8 17	
+wrapper	:	sortable  34 38	sortable  34 38	
+pivot_count	:	sorting_algorithms  62 92	sorting_algorithms  62 92	
+print_step	:	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	
+white	:	graphsort  71 74	graphsort  71 74	graphsort  78 85	
+list2_len	:	merge_sort  18 39	merge_sort  18 39	merge_sort  18 39	
+final	:	sortalg  189 198	sortalg  189 198	sortalg  189 198	
+sortables	:	sortable  65 81	sortable  65 81	sortable  65 81	sortable  65 81	sortable  65 81	
+libpry	:	test_sortable  20 24	test_sortable  20 24	
+end:	:	quicksort_inplace  21 25	
+that	:	test_sorts  50 74	test_sorts  50 74	
+reversed	:	test_sortable  26 47	counting_sort  15 44	sortalg  42 63	py_cocktail_sort  7 18	cocktailsort  2 21	
+took	:	Arraysort  69 88	
+tfw	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+test_string	:	sortingtest  21 24	
+algos	:	test_sortable  26 47	test_sortable  20 24	test_sortable  20 24	test_sortable  20 24	test_sortable  20 24	
+bubble	:	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	sorts  170 194	graphsort  49 60	graphsort  49 60	graphsort  49 60	
+iteration	:	sorting  72 74	
+min_val	:	sort_selection  4 15	sort_selection  4 15	sort_selection  4 15	sort_selection  4 15	sort_selection  4 15	
+param1	:	sort  93 104	sort  93 104	sort  93 104	sort  93 104	sort  93 104	
+plot_swaps	:	sorting  67 70	
+test_msort_sort	:	sorttests  60 61	
+max_	:	bucketsort  5 19	bucketsort  5 19	
+bubble_optimized_with_flag	:	test_sorts  50 74	pysort  61 77	
+merging	:	py_merge_sort  5 39	
+mergetwo	:	sorttests  56 57	
+max_child_index	:	heap_sort  25 40	heap_sort  25 40	heap_sort  25 40	heap_sort  25 40	heap_sort  25 40	
+small_pile	:	sorting_algorithms  62 92	sorting_algorithms  62 92	sorting_algorithms  62 92	
+shell	:	sorts  11 43	
+buckets:	:	bucketsort  5 19	
+any	:	pysort  437 450	
+^=	:	smoothsort  61 98	
+cocktail_shaker_sort	:	cocktail_shaker_sort  14 45	
+1000000	:	sort  93 104	
+fillslot	:	py_selection_sort  5 15	py_selection_sort  5 15	py_selection_sort  5 15	py_selection_sort  5 15	
+pivot_value	:	quicksort_inplace  3 12	quicksort_inplace  3 12	sorting_algorithms  96 133	sorting_algorithms  96 133	sorting_algorithms  96 133	
+builtin	:	test_sorts  29 39	test_sorts  29 39	test_sorts  29 39	test_sorts  29 39	
+test_read_paths	:	test_sortable  51 63	
+min_	:	bucketsort  5 19	bucketsort  5 19	bucketsort  5 19	
+_quick_sort_iter	:	sortalg  117 128	sortalg  130 139	sortalg  130 139	sortalg  130 139	
+输入长度:	:	cocktail_shaker_sort  92 158	
+tracklist	:	test_sortable  26 47	test_sortable  8 14	test_sortable  20 24	test_sortable  20 24	sortable  7 12	sortable  3 5	sortable  3 5	sortable  3 5	
+data2	:	sorts  98 140	sorts  98 140	sorts  98 140	sorts  98 140	sorts  98 140	sorts  98 140	
+*=	:	radix_sort  7 33	
+begin	:	cocktailsort  2 21	cocktailsort  2 21	cocktailsort  2 21	cocktailsort  2 21	
+timeit	:	test_sorts  29 39	
+comps	:	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	
+smallsize	:	Arraysort  4 61	Arraysort  4 61	Arraysort  4 61	Arraysort  14 22	
+_quicksort	:	quicksort_solved  69 77	quicksort_solved  23 65	quicksort_solved  23 65	quicksort_solved  23 65	quicksort  31 32	quicksort  24 29	quicksort  24 29	quicksort  24 29	
+arr_ns	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+final_list	:	sortalg  189 198	sortalg  189 198	
+datan	:	sorts  46 65	sorts  46 65	sorts  46 65	sorts  46 65	
+placement	:	radix_sort  7 33	radix_sort  7 33	radix_sort  7 33	
+right_index	:	pysort  354 369	pysort  354 369	pysort  354 369	pysort  354 369	pysort  354 369	pysort  354 369	
+list_of_functions	:	test_sorts  42 47	test_sorts  42 47	
+m	:	quicksort_solved  23 65	quicksort_solved  23 65	quicksort_solved  23 65	quicksort_solved  23 65	quicksort_solved  23 65	
+snapshot	:	sorting  72 74	sorting  76 81	
+large_pile	:	sorting_algorithms  62 92	sorting_algorithms  62 92	
+radix	:	radix_sort  7 33	radix_sort  7 33	radix_sort  7 33	radix_sort  7 33	radix_sort  7 33	
+randrange	:	sort_quick  16 19	test_sorts  19 26	pysort  162 183	
+sort_on_data	:	sort  23 56	sort  93 104	
+check_sorting	:	sorter  43 47	
+text	:	graphsort  49 60	graphsort  49 60	graphsort  49 60	
+highest_index	:	pysort  379 394	pysort  379 394	pysort  379 394	pysort  396 406	pysort  396 406	pysort  396 406	
+has_key	:	sort  93 104	
+word1	:	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	
+nearly_sorted.json	:	sort  23 56	
+word2	:	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	
+orig_v	:	sorting_stack  10 27	sorting_stack  10 27	
+line	:	quicksort_solved  81 115	quicksort_solved  81 115	
+test_number	:	sortingtest  16 19	
+indexerror	:	sort_insertion  16 27	
+merger	:	merge_sort  18 39	merge_sort  9 15	
+insertion_optimized_alt	:	test_sorts  50 74	pysort  136 152	
+arr_rs	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+getattr	:	sortable  44 47	timsort  18 19	
+copy_arr	:	sortalg  232 251	sortalg  232 251	
+failed	:	test_sortable  26 47	sortTest  13 21	
+cocktail_shaker_sort_debug	:	cocktail_shaker_sort  92 158	
+black	:	graphsort  71 74	graphsort  78 85	
+8	:	sorttests  11 15	
+merged	:	merge_sort_typical  3 13	merge_sort_typical  3 13	merge_sort_typical  3 13	
+ip	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+above	:	pysort  162 183	pysort  162 183	pysort  162 183	pysort  185 206	pysort  185 206	pysort  185 206	
+get	:	graphsort  62 66	graphsort  62 66	
+fastest_time	:	Arraysort  69 88	Arraysort  69 88	Arraysort  69 88	Arraysort  69 88	Arraysort  69 88	
+from_index	:	sortalg  232 251	sortalg  232 251	sortalg  232 251	sortalg  232 251	sortalg  232 251	sortalg  232 251	
+stop	:	Arraysort  69 88	Arraysort  69 88	
+ceil	:	radixrsort  16 20	merge_sort_typical  15 20	
+fastest	:	Arraysort  69 88	
+data_fw	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+to_index	:	sortalg  232 251	sortalg  232 251	sortalg  232 251	sortalg  232 251	sortalg  232 251	
+restart	:	sorting  76 81	
+test_msort_merge	:	sorttests  56 57	
+cstringio	:	test_sortable  51 63	
+generate_random_array	:	sortalg  10 20	
+mylist	:	find_missing_int-quicksort  42 43	find_missing_int-quicksort  42 43	find_missing_int-quicksort  42 43	
+upper	:	sorting_algorithms  96 133	sorting_algorithms  96 133	sorting_algorithms  96 133	sorting_algorithms  96 133	sorting_algorithms  96 133	sorting_algorithms  96 133	
+method	:	sortTest  13 21	sortTest  13 21	sortTest  13 21	
+arrays	:	Arraysort  69 88	
+setup	:	qsort  29 30	sorttests  11 15	
+frame	:	graphsort  71 74	graphsort  49 60	graphsort  49 60	graphsort  49 60	graphsort  49 60	
+\nexpected:	:	test_sorts  29 39	
+result	:	merge-sort  2 14	merge-sort  2 14	merge-sort  2 14	merge-sort  2 14	merge-sort  2 14	merge-sort  2 14	
+testalgorithm	:	sorting  34 47	
+sorters	:	sortingtest  16 19	sortingtest  8 10	sortingtest  21 24	sortingtest  12 14	
+3\n	:	test_sortable  51 63	test_sortable  51 63	
+trailingzeroes	:	smoothsort  18 19	smoothsort  61 98	smoothsort  39 58	
+other_value	:	sorting_stack  10 27	sorting_stack  10 27	
+%s\n	:	stoogesort  15 22	stoogesort  15 22	
+import	:	sorting  23 28	sorting  18 21	
+sorts	:	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	test_sorts  50 74	
+nloops	:	oddevensort  2 11	oddevensort  2 11	oddevensort  2 11	
+counterexample	:	sorting  34 47	
+_merge	:	sortalg  181 186	sortalg  189 198	
+extend	:	Arraysort  4 61	Arraysort  4 61	Arraysort  24 44	Arraysort  24 44	
+sort_merge	:	sort_merge  23 36	sort_merge  23 36	sort_merge  23 36	
+bubble_naive	:	test_sorts  50 74	pysort  31 44	
+trinkle	:	smoothsort  61 98	smoothsort  61 98	smoothsort  61 98	smoothsort  61 98	smoothsort  39 58	
+c	:	sorttests  42 43	sorttests  84 85	sorttests  23 24	sorttests  11 15	sorttests  63 64	
+sort.	:	test_sortable  26 47	
+s	:	test_sortable  51 63	test_sortable  51 63	sortingtest  21 24	sortingtest  21 24	sortingtest  21 24	
+cur_arr	:	sortalg  22 40	sortalg  22 40	
+test_msort_empty	:	sorttests  63 64	
+fastest_len	:	Arraysort  69 88	Arraysort  69 88	Arraysort  69 88	
+update_idletasks	:	graphsort  19 28	graphsort  30 45	
+height	:	graphsort  71 74	
+total_comparisons	:	sortable  7 12	sortable  40 42	sortable  28 32	
+dummysortable	:	sortable  65 81	
+java	:	sortTest  36 38	sortTest  36 38	sortTest  13 21	sortTest  13 21	
+raise	:	test_sortable  26 47	timsort  12 16	
+find_median	:	quick_sort  6 16	quick_sort  85 109	
+passnum	:	py_bubble_sort  6 12	py_bubble_sort  6 12	
+pivotvalue	:	py_quick_sort  18 46	py_quick_sort  18 46	py_quick_sort  18 46	
+sorted:	:	test_sorts  50 74	test_sorts  50 74	
+median_of_three	:	pysort  226 242	pysort  304 324	pysort  185 206	pysort  244 264	
+_insert_before	:	sortalg  232 251	sortalg  212 230	
+pivotindex	:	sortalg  130 139	sortalg  130 139	sortalg  130 139	sortalg  130 139	sortalg  130 139	
+empty_array	:	qsort  35 43	qsort  35 43	
+sort_arr	:	sortalg  166 179	sortalg  166 179	
+0x077cb531l	:	smoothsort  18 19	
+sift_down	:	pysort  379 394	pysort  408 427	pysort  396 406	
+worked	:	test_sorts  29 39	
+insertion_sort	:	test_insertion_sort  8 9	sorter  49 56	insertion-sort  4 13	insertion_sort  1 8	sorting_algorithms  42 60	
+sort_me	:	stoogesort  15 22	stoogesort  15 22	stoogesort  15 22	stoogesort  15 22	
+sortable	:	test_sortable  26 47	test_sortable  8 14	test_sortable  51 63	test_sortable  20 24	test_sortable  20 24	sortable  28 32	
+insertion_n_mem	:	sort_insertion  16 27	
+create_rectangle	:	graphsort  71 74	graphsort  78 85	graphsort  78 85	
+value	:	sortalg  232 251	sortalg  232 251	sort  93 104	sort  93 104	sort  93 104	sort  93 104	
+~	:	smoothsort  61 98	smoothsort  39 58	
+smoothsort	:	smoothsort  61 98	
+almost	:	test_sorts  50 74	
+\n	:	radixrsort  4 7	
+all_same	:	test_sorts  50 74	test_sorts  50 74	
+containing	:	test_sorts  50 74	
+test_isort_repeat	:	sorttests  48 49	
+gnomesort	:	gnomesort  1 8	py_gnome_sort  8 19	
+same	:	test_sorts  50 74	
+randomquicksort	:	sort_quick  21 25	sort_quick  21 25	sort_quick  21 25	
+_doquicksort	:	find_missing_int-quicksort  42 43	find_missing_int-quicksort  13 40	find_missing_int-quicksort  13 40	find_missing_int-quicksort  13 40	
+9	:	test_sortable  20 24	
+cocktail_shaker_sort_reverse	:	cocktail_shaker_sort  48 89	
+heapsort	:	sorter  90 100	py_heap_sort  5 17	
+fieldstorage	:	sort  93 104	
+sys	:	sort  93 104	
+is_empty	:	sorting_stack  10 27	sorting_stack  10 27	
+test_isort_single	:	sorttests  45 46	
+test_msort_repeat	:	sorttests  69 70	
+stack	:	sorting_stack  10 27	sorting_stack  10 27	sorting_stack  10 27	sorting_stack  10 27	sorting_stack  10 27	sorting_stack  10 27	
+max_size	:	radix_sort  7 33	radix_sort  7 33	radix_sort  7 33	radix_sort  7 33	radix_sort  7 33	
+_bitonicsort	:	bitonicsort  28 31	bitonicsort  20 25	bitonicsort  20 25	bitonicsort  20 25	
+drawgraph	:	graphsort  19 28	graphsort  78 85	graphsort  12 16	graphsort  30 45	
+len_right	:	pysort  354 369	pysort  354 369	
+listy_list	:	radixrsort  22 26	radixrsort  22 26	
+/=	:	shell_sort  7 19	
+command	:	graphsort  49 60	graphsort  49 60	graphsort  49 60	
+relief	:	graphsort  71 74	
+y	:	bucketsort  5 19	bucketsort  5 19	py_heap_sort  37 40	py_heap_sort  37 40	py_heap_sort  37 40	
+entry	:	graphsort  49 60	graphsort  49 60	graphsort  49 60	graphsort  62 66	graphsort  62 66	
+bubble_sort_iteration	:	sorter  33 40	
+1.25	:	combsort  2 14	
+__int__	:	sortable  16 17	sortable  60 61	
+heapq	:	sorts  46 65	sorts  46 65	
+bogosort	:	bogosort  3 7	py_bogo_sort  6 10	
+random_data	:	sorts  226 232	
+cur	:	sortalg  87 97	sortalg  87 97	sortalg  87 97	
+selectionsort	:	py_selection_sort  5 15	selection-sort  1 9	selectionsort  8 14	graphsort  49 60	graphsort  30 45	
+test_insertion_sort_should_sort_a_list	:	test_insertion_sort  8 9	
+except	:	sort_insertion  16 27	timsort  22 38	
+myarray	:	Arraysort  4 61	Arraysort  4 61	
+list1_len	:	merge_sort  18 39	merge_sort  18 39	merge_sort  18 39	
+location	:	py_selection_sort  5 15	py_selection_sort  5 15	py_selection_sort  5 15	
+test_qsort_merge	:	sorttests  77 78	
+a_list	:	radixrsort  22 26	radixrsort  22 26	
+quicksorthelper	:	py_quick_sort  5 6	py_quick_sort  8 14	py_quick_sort  8 14	py_quick_sort  8 14	
+format	:	Arraysort  69 88	Arraysort  69 88	test_sorts  29 39	test_sorts  29 39	
+count_time	:	cocktail_shaker_sort  48 89	cocktail_shaker_sort  14 45	
+|=	:	smoothsort  61 98	
+gennumbers	:	graphsort  62 66	graphsort  62 66	graphsort  12 16	graphsort  7 8	
+found!	:	sorting  34 47	
+descending	:	bitonicsort  20 25	
+datasetssorted_list.json	:	sort  23 56	
+integer	:	sortTest  36 38	sortTest  36 38	sortTest  13 21	sortTest  13 21	
+test_bsort_sort	:	sorttests  20 21	
+insert	:	Arraysort  69 88	sort_insertion  16 27	sorts  197 223	sorts  11 43	
+d	:	sorttests  32 33	sorttests  32 33	sorttests  48 49	sorttests  48 49	sorttests  90 91	sorttests  90 91	sorttests  11 15	sorttests  69 70	sorttests  69 70	
+text/html	:	sort  93 104	
+57	:	sorts  11 43	
+error_message	:	test_sorts  29 39	test_sorts  29 39	
+50	:	graphsort  62 66	graphsort  7 8	
+continue	:	sortalg  10 20	cocktail_shaker_sort  48 89	cocktail_shaker_sort  48 89	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	sorts  11 43	
+steps	:	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	cocktail_shaker_sort  92 158	
+itms	:	sortable  28 32	sortable  28 32	
+heap_sort	:	test_sorts  50 74	heapsort  31 41	sorts  46 65	pysort  379 394	
+output	:	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	
+_merge_sort	:	sortalg  200 210	sortalg  212 230	sortalg  212 230	sortalg  212 230	
+test_one	:	sortingtest  12 14	
+len_left	:	pysort  354 369	pysort  354 369	
+methods	:	sortTest  13 21	
+plotalgorithm	:	sorting  49 56	
+left_index	:	pysort  354 369	pysort  354 369	pysort  354 369	pysort  354 369	pysort  354 369	pysort  354 369	
+new_swap	:	pysort  79 98	pysort  79 98	pysort  79 98	
+assertionerror	:	test_sortable  26 47	test_sortable  20 24	test_sortable  20 24	
+cnt	:	sort_heap  14 20	sort_heap  14 20	sort_heap  14 20	
+bottom	:	graphsort  49 60	graphsort  49 60	graphsort  49 60	graphsort  49 60	
+__getattr__	:	sortable  44 47	timsort  18 19	
+cgi	:	sort  93 104	
+peek	:	sorting_stack  10 27	
+bg	:	graphsort  71 74	
+300	:	graphsort  71 74	graphsort  78 85	graphsort  78 85	graphsort  78 85	
+301	:	sorts  11 43	
+操作次数:	:	cocktail_shaker_sort  92 158	
+sift	:	smoothsort  22 36	smoothsort  61 98	smoothsort  61 98	smoothsort  39 58	
+rand_int	:	sortalg  10 20	sortalg  10 20	sortalg  10 20	
+{}	:	test_sorts  29 39	test_sorts  29 39	test_sorts  29 39	test_sorts  29 39	
+pivot_index	:	pysort  185 206	pysort  185 206	
+offset	:	sortable  65 81	sortable  65 81	
+__name__	:	test_sorts  29 39	test_sorts  29 39	
+testnum	:	Arraysort  69 88	Arraysort  69 88	Arraysort  69 88	
+genpermutation	:	sorting  23 28	sorting  49 56	
+_	:	radix_sort  7 33	test_sorts  19 26	test_sorts  50 74	test_sorts  50 74	pysort  31 44	
+on	:	Arraysort  69 88	
+testrandom	:	sortTest  36 38	
+partition_repeat	:	pysort  283 302	pysort  244 264	
+current_v	:	sorting_stack  10 27	sorting_stack  10 27	sorting_stack  10 27	
+lfewunique.json	:	sort  58 91	
+largestat	:	sorter  77 88	sorter  77 88	sorter  77 88	sorter  77 88	sorter  77 88	sorter  77 88	sorter  77 88	sorter  77 88	
+quick_inplace_repeat	:	test_sorts  50 74	pysort  244 264	pysort  244 264	pysort  244 264	
+{1}	:	Arraysort  69 88	Arraysort  69 88	
+quick1	:	quick_sort  25 49	quick_sort  25 49	quick_sort  25 49	
+raised	:	graphsort  71 74	
+already_sorted	:	test_sorts  50 74	test_sorts  50 74	
+raises	:	test_sortable  20 24	test_sortable  20 24	
+quick_inplace_median	:	test_sorts  50 74	pysort  226 242	pysort  226 242	pysort  226 242	
+wrap	:	sortable  34 38	timsort  22 38	
+outline	:	graphsort  71 74	graphsort  78 85	
+test_bsort_empty	:	sorttests  23 24	
+0b11111	:	smoothsort  18 19	
+val	:	pysort  136 152	pysort  136 152	pysort  136 152	pysort  122 134	pysort  122 134	pysort  122 134	
+jarray	:	sortTest  13 21	sortTest  13 21	sortTest  13 21	sortTest  13 21	
+strip	:	graphsort  62 66	
+sortedarray	:	sortTest  13 21	sortTest  13 21	sortTest  13 21	
+bucket_sort	:	bucketsort  5 19	
+inner	:	sorting_algorithms  24 40	sorting_algorithms  24 40	sorting_algorithms  24 40	sorting_algorithms  24 40	
+:	:	test_sorts  29 39	
+was	:	Arraysort  69 88	sorting  34 47	
+numberlist	:	graphsort  19 28	graphsort  19 28	graphsort  19 28	graphsort  19 28	graphsort  19 28	graphsort  19 28	graphsort  19 28	graphsort  19 28	graphsort  19 28	graphsort  12 16	graphsort  12 16	graphsort  12 16	graphsort  30 45	graphsort  30 45	graphsort  30 45	graphsort  30 45	graphsort  30 45	graphsort  30 45	graphsort  30 45	graphsort  30 45	
+lang	:	sortTest  36 38	sortTest  36 38	sortTest  13 21	sortTest  13 21	
+merge_sort_1	:	sortalg  166 179	
+form	:	sort  93 104	sort  93 104	sort  93 104	sort  93 104	sort  93 104	sort  93 104	
+leftrect	:	graphsort  71 74	graphsort  78 85	
+fewunique.json	:	sort  23 56	
+ldatasetssorted_list.json	:	sort  58 91	
+test_qsort_repeat	:	sorttests  90 91	
+heap	:	test_sorts  50 74	sorts  46 65	pysort  379 394	pysort  379 394	pysort  396 406	
+multiplydebruijnbitposition	:	smoothsort  18 19	
+pivot_first	:	quicksort_solved  81 115	quicksort_solved  81 115	quicksort_solved  23 65	
+shell_sort	:	sortalg  99 115	sorts  11 43	shell_sort  7 19	
+reset	:	sortable  40 42	timsort  22 38	
+attr	:	sortable  44 47	sortable  44 47	timsort  18 19	timsort  18 19	
+lnearly_sorted.json	:	sort  58 91	
+bucket	:	radixrsort  9 14	radixrsort  9 14	radix_sort  7 33	radix_sort  7 33	
+up	:	py_cocktail_sort  7 18	py_cocktail_sort  7 18	py_cocktail_sort  7 18	
+pivot_new_ind	:	pysort  226 242	pysort  226 242	pysort  226 242	pysort  208 224	pysort  208 224	pysort  208 224	
+below	:	pysort  162 183	pysort  162 183	pysort  162 183	pysort  185 206	pysort  185 206	pysort  185 206	
+limit	:	timsort  22 38	timsort  12 16	
+test_qsort_empty	:	sorttests  84 85	
+gapinsertionsort	:	py_shell_sort  5 14	py_shell_sort  16 26	
+delete	:	graphsort  78 85	
+600	:	graphsort  71 74	
+merger_sort	:	merge_sort  9 15	merge_sort  9 15	merge_sort  9 15	
+lsd_sort	:	radixrsort  16 20	
+createmovie	:	sorting  76 81	
+readlines	:	quicksort_solved  81 115	sortable  65 81	
+char	:	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	sort_word_by_other_word  8 18	
+genbuttonevent	:	graphsort  49 60	graphsort  62 66	
+splitpoint	:	py_quick_sort  8 14	py_quick_sort  8 14	py_quick_sort  8 14	
+80	:	sorting  18 21	
+fill	:	graphsort  71 74	graphsort  78 85	graphsort  78 85	
+incorrect	:	sorter  43 47	
+floor	:	sorter  90 100	heap_sort  72 89	heap_sort  25 40	
+_merge_sort_iter	:	sortalg  181 186	sortalg  166 179	
+other	:	sortable  7 12	sortable  7 12	timsort  12 16	timsort  12 16	
+count_time_debug	:	cocktail_shaker_sort  92 158	
+test_bsort_repeat	:	sorttests  32 33	
+max_heap	:	sorter  77 88	sorter  77 88	sorter  90 100	sorter  90 100	
+shellsort	:	shellsort  2 17	py_shell_sort  5 14	
+reverse_list.json	:	sort  23 56	
+stringio	:	test_sortable  51 63	
+max_value	:	sortTest  36 38	
+{:>7.5f}	:	test_sorts  29 39	
+quick_inplace_random	:	test_sorts  50 74	pysort  208 224	pysort  208 224	pysort  208 224	
+test_bsort_max	:	sorttests  29 30	
+mid_element	:	quicksort_median  14 36	quicksort_median  14 36	
+e	:	bucketsort  5 19	bucketsort  5 19	bucketsort  5 19	
+algorithm	:	sorting  49 56	sorting  34 47	
+ip3	:	sort  58 91	sort  58 91	sort  23 56	sort  23 56	
+timbreak	:	timsort  22 38	timsort  12 16	
+999999999999	:	Arraysort  69 88	
+test_empty	:	sortingtest  8 10	
+push	:	sorting_stack  10 27	sorting_stack  10 27	sorting_stack  10 27	

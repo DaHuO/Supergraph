@@ -1,0 +1,1 @@
+def solve s r = s 0 for c in s 1 if r 0 > c r append c else r insert 0 c return join r 		3 11

@@ -1,0 +1,1 @@
+DAMN red d letter num_str if letter in d 		7 17

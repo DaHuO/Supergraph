@@ -1,0 +1,5 @@
+getdigit i q return 		6 7
+getsmallest answerc answerj answerc answerj raw_input for x in 		58 65
+def find s 		3 4
+getsmallest possiblec possiblej defaultc possiblec defaultj possiblej cchange possiblec possiblec jchange possiblej possiblej defaultc defaultc defaultj defaultj cchangeoriginal 		46 55
+findsmallest defaultc defaultj cchange jchange 10000000000 smallestc 10000000000 smallestj 10000000000 defaultc defaultj jchange cchange findsmallest defaultc defaultj cchange jchange smallestc smallestc smallestj smallestc smallestj findsmallest defaultc defaultj cchange jchange smallestc smallestc smallestj smallestc smallestj cchange findsmallest defaultc defaultj cchange jchange smallestc smallestc smallestj smallestc smallestj smallestc smallestj findsmallest defaultc defaultj cchange 		9 44

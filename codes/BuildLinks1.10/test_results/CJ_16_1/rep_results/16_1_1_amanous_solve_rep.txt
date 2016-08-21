@@ -1,0 +1,2 @@
+read_problem 		5 7
+def solve problem s = problem 		9 17

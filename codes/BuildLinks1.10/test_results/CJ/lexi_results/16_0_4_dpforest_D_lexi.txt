@@ -1,0 +1,10 @@
+def read_str_list self self linenum += 1 return self f readline split 		53 55
+def read_int_list self self linenum += 1 return map int self f readline split 		44 46
+def solve f skip = false k c s = f read_long_list if skip return 0 if k > s * c return impossible pos = for i in xrange 0 k c n = min k - i c p = 0 for j in xrange n p += k ** c - j - 1 * i + j pos append p + 1 return  join map str pos 		8 23
+def read_long self self linenum += 1 return long self f readline strip 		37 39
+def read_float_list self self linenum += 1 return map float self f readline split 		47 49
+def read_str self self linenum += 1 return self f readline strip 		40 42
+def read_long_list self self linenum += 1 return map long self f readline split 		50 52
+def __init__ self filename self f = open filename self linenum = 1 		27 29
+def read_float self self linenum += 1 return float self f readline strip 		34 36
+def read_int self self linenum += 1 return int self f readline strip 		31 33

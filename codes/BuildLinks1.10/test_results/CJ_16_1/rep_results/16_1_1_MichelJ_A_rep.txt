@@ -1,0 +1,3 @@
+def doit s res = 		19 26
+stringio stringio data = none if data is none f 		45 55
+def stripnl 		40 43

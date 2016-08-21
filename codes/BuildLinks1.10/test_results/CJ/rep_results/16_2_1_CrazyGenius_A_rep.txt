@@ -1,0 +1,3 @@
+def init st s e = 0 s r = 0 s o = 		3 20
+def has 		22 24
+def solve if s z > 0 has zero nums append 0 return solve elif s w > 0 has two nums append 2 return solve elif 		26 73

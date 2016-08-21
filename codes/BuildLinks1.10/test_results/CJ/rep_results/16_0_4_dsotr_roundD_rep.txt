@@ -1,0 +1,1 @@
+def solve_case input k c s = map lambda 		3 12

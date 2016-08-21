@@ -1,0 +1,3 @@
+def getint f return int f readline strip 		4 5
+def getints f return int i for i in f readline strip split 		10 11
+def getline f return f readline strip 		7 8

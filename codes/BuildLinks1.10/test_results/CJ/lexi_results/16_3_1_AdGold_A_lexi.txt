@@ -1,0 +1,1 @@
+def solve vals vals = zip map int vals range 1 len vals + 1 vals sort reverse = true evac = vals 0 0 - vals 1 0 * let vals 0 1 evac += let p for x p in vals 2 for i in range x evac += let vals 0 1 + let vals 1 1 * vals 1 0 return  join evac 		11 18

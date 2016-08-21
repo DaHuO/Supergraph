@@ -1,0 +1,4 @@
+readinput numberofcases numberofcases numberofcases with 		4 10
+numberofcases numberofcases filename output with open filename w as file for 		12 23
+cleanstrategy tilestoclean maxtile tilestoclean tilestoclean tilestoclean maxtile tilestoclean tilestoclean tilestoclean ** c if k 		35 54
+.input numberofcases readinput cleanstrategy numberofcases = output cases 		26 32

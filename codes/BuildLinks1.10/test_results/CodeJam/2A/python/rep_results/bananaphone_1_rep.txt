@@ -1,4 +1,4 @@
-tt tt N operate = list for i in 		22 35
-simulate given given stack for 		11 18
+def fix tt N operate = list tt for 		22 35
+given given stack out = 		11 18
 stack c if c 		3 9
-doprob simulate simulate simulate tt tt = int read 0 R = int read 1 P = int read 2 S = int read 3 		38 71
+doprob read = raw_input split N = int read 0 R = int read 1 P = int read 2 S = int read 3 		38 71

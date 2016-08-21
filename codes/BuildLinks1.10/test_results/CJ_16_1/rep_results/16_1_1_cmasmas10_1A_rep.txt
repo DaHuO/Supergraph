@@ -1,0 +1,1 @@
+def get_last_word s new_word = deque new_word append 		4 16

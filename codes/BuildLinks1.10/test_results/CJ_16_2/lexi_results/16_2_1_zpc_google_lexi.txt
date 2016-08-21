@@ -1,0 +1,2 @@
+def remove S substr g_i for c in substr pos = S index c S = S pos + S pos + 1 g_list g_i += 1 return S 		4 9
+def compute S while Z in S S = remove S ZERO 0 while X in S S = remove S SIX 6 while S in S S = remove S SEVEN 7 while G in S S = remove S EIGHT 8 while H in S S = remove S THREE 3 while V in S S = remove S FIVE 5 while F in S S = remove S FOUR 4 while W in S S = remove S TWO 2 while O in S S = remove S ONE 1 while N in S S = remove S NINE 9 result = for i in range 10 if 0 != g_list i result += numbers i * g_list i return result 		11 37

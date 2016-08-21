@@ -1,0 +1,2 @@
+getminmax s _min = 0 _max = 0 		3 16
+%03d %02d v l if len l == 3 v = 		18 25

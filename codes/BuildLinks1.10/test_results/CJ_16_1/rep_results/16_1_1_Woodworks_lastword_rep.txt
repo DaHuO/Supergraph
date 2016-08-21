@@ -1,0 +1,3 @@
+addletter word letter if word 		4 10
+ftwo lastword.out ftwo processsequence ftwo lastword.out r = open w 		18 28
+processsequence curword curword 		12 16

@@ -1,0 +1,2 @@
+def main t = int sys stdin readline for t in range 1 t + 1 c j = sys stdin readline split _ c j = dfs c j print case #%d: % t c j 		15 21
+def dfs c j a b if not c and not j return abs int a - int b a b c0 j0 = c 0 j 0 xx = digits if c0 == ? else c0 yy = digits if j0 == ? else j0 diff = sorted abs int a + x - int b + y a + x b + y for x in xx for y in yy return min dfs c 1 j 1 ax by for d ax by in diff if d <= diff 0 0 + 1 		4 12

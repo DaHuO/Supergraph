@@ -1,0 +1,1 @@
+def getnextint c k i cur = 0 fact = 1 j = i * c while j < i + 1 * c and j < k cur = cur + j * fact j = j + 1 fact = fact * k while j < i + 1 * c cur = cur + k - 1 * fact j = j + 1 fact = fact * k return cur + 1 		4 16

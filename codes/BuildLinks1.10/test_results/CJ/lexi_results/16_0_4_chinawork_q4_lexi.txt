@@ -1,0 +1,1 @@
+def solver line d = int i for i in line strip split k c s = d 0 d 1 d 2 res = ivl = pow k c - 1 l = 1 for i in xrange k res += str l +  l += ivl return res strip 		3 15

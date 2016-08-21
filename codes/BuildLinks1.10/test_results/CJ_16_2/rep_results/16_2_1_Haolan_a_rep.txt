@@ -1,0 +1,1 @@
+proc sz9 sz9 = rest Z rest Z -= sz0 rest E -= sz0 rest R -= sz0 rest O -= sz0 sz2 = rest W rest T -= sz2 rest W -= sz2 rest O -= sz2 sz4 		3 48

@@ -1,0 +1,2 @@
+def solve n = int raw_input cnts = np array map int raw_input split total = sum cnts ans = while total > 0 idx = np argmax cnts cnts idx -= 1 total -= 1 if total >= 2 * max cnts ans append chr ord a + idx else idx2 = np argmax cnts cnts idx2 -= 1 total -= 1 if total >= 2 * max cnts ans append chr ord a + idx + chr ord a + idx2 else print wrong print  join ans 		6 27
+def main t = int raw_input for i in xrange 1 t + 1 print case #%d: % i solve 		30 34

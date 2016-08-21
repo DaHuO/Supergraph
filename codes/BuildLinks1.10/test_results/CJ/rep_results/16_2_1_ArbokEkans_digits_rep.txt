@@ -1,0 +1,2 @@
+to_freq_table solve word ft = word solution = for key 		22 33
+to_freq_table word d = 		16 20

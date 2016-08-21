@@ -1,0 +1,1 @@
+magic 256 = input for tc in xrange t freq = 0 * s = raw_input for i in s freq ord i += 1 res = if freq ord z > 0 c = freq ord z freq ord z -= c freq ord e -= c freq ord r -= c freq ord o -= c while c > 0 res append 0 c -= 1 if freq ord g > 0 c = freq ord g freq ord e -= c freq ord i -= c freq 		1 101

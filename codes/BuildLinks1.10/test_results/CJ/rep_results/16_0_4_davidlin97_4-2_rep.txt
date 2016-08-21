@@ -1,0 +1,1 @@
+def solve k c not_used = range k ans 		5 19

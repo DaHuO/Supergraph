@@ -1,0 +1,12 @@
+
+With same rare tokens:
+24 - 29 links:
+quicksort_solved	:	69 - 77
+quicksort_solved	:	23 - 65
+merge_sort_typical	:	15 - 20
+sortable	:	65 - 81
+
+31 - 32 links:
+quicksort_solved	:	69 - 77
+quicksort_solved	:	23 - 65
+

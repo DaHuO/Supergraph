@@ -1,0 +1,4 @@
+def fix tt n operate = list tt for i in xrange n new = while len operate > 0 a = operate pop b = operate pop if a > b new append b + a else new append a + b new reverse operate = new return operate 		22 35
+def simulate n given out = given for i in xrange n new = for ch in out new += stack ch out = new return new 		11 18
+def stack c if c == p return pr if c == s return ps if c == r return rs 		3 9
+def doprob read = raw_input split n = int read 0 r = int read 1 p = int read 2 s = int read 3 legit = t1 = simulate n r if t1 count r == r if t1 count p == p if t1 count s == s legit append t1 t2 = simulate n p if t2 count r == r if t2 count p == p if t2 count s == s legit append t2 t3 = simulate n s if t3 count r == r if t3 count p == p if t3 count s == s legit append t3 if len legit == 0 return impossible legit = fix tt n 0 for tt in legit return sorted legit 0 		38 71

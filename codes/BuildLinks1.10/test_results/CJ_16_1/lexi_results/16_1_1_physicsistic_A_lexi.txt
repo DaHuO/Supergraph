@@ -1,0 +1,2 @@
+def io filename output = open filename split . 0 + .out w with open filename r as f t = int f readline for t in range t s = f readline rstrip \n string = case #{n}: {y} format n = t + 1 y = solve s print string print ======================================================= output writelines string + \n 		14 23
+def solve s words = s 0 for c in s 1 new_words = for word in words new_words append word + c new_words append c + word words = new_words words sort return words - 1 		3 12

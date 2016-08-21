@@ -1,0 +1,1 @@
+def bumpcomp orig pat return pat replace 1 . * len orig replace 0 orig replace . 1 		8 9

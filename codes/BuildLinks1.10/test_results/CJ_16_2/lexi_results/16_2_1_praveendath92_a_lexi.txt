@@ -1,0 +1,2 @@
+def checkNum n ch if ch not in Sar return while Sar ch != 0 Fnum append n delNums n 		18 24
+def delNums n for c in nums n Sar c -= 1 		14 16

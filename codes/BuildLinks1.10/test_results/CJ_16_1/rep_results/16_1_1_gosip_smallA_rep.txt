@@ -1,0 +1,2 @@
+def lastword s lastword = s 		9 17
+def main f = open a-large.in r 		1 7

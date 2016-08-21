@@ -1,0 +1,2 @@
+icr line d incr_cnt = 0 if int line 		9 26
+/home/siyer/result.txt truncate /home/siyer/input.txt adict ascii_lowercase 27 adict first_time first_time first_time previous_letter adict adict previous_letter adict open next f = dict zip string range 1 		28 61

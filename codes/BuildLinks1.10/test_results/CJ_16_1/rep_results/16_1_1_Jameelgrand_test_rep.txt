@@ -1,0 +1,2 @@
+input_list get_input file_path 		7 11
+def get_word words output_word = words 0 		15 24

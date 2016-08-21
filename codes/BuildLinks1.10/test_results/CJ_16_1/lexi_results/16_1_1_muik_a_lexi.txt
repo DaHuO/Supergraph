@@ -1,0 +1,1 @@
+def solve s last_word = first_char = a for c in s if first_char > c last_word += c else last_word = c + last_word first_char = c return last_word 		5 14

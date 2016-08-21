@@ -1,0 +1,1 @@
+def solve s digitCount = 0 * 10 digitCount 0 = s count Z digitCount 2 = s count W digitCount 4 		4 20

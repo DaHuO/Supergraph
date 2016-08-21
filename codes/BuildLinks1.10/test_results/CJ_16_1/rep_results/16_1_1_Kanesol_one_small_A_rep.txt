@@ -1,0 +1,3 @@
+def after 		25 26
+def permutations string step = 0 if step == 		4 20
+def before 		23 24

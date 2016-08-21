@@ -1,0 +1,4 @@
+validate zpc zpc for j in range n 		3 10
+validate next lists k m if k == m if n lists return 		25 43
+zpc find_list n lists result = idx = 		13 23
+def compute n lists mydict = result = for list in 		45 59

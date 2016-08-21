@@ -1,0 +1,2 @@
+def length lc for subset in list powerset lc - 1 for permutation in permutations subset for index element in enumerate permutation bff = f element if permutation index - 1 != bff and permutation index + 1 % len permutation != bff break else return len permutation 		7 15
+def powerset iterable s = list iterable return chain from_iterable combinations s r for r in range len s + 1 		3 5

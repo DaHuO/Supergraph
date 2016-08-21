@@ -1,0 +1,4 @@
+def solve_case c solution = while max c > 0 solution += reducecase c return  join solution 		29 33
+def reducecase c l1 = 0 l2 = 0 for i elt in enumerate c if elt > l1 l2 = l1 l1 = elt elif elt > l2 and elt < l1 l2 = elt return reduceall c l1 l2 		16 26
+def solve fin fout l = codejam_io read_simple_2 fin int s = map solve_case l codejam_io write_simple fout s 		35 38
+def reduceall c l1 l2 pos = i for i j in enumerate c if j == l1 if len pos % 2 == 0 pattern = join chr 65 + pos k chr 65 + pos k + 1 for k in xrange 0 len pos 2 else pattern = chr 65 + pos 0 + join chr 65 + pos k chr 65 + pos k + 1 for k in xrange 1 len pos 2 for i in pos c i = l2 return pattern * l1 - l2 		6 14

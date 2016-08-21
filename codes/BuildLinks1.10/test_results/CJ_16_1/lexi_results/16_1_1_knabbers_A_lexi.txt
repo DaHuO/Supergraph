@@ -1,0 +1,1 @@
+def f s if len s <= 1 return s mx = max s r = pre = post = rdone = false for c in s if c >= mx or rdone rdone = true if c == mx pre append c else post append c else r append c return pre + f r + post 		3 22

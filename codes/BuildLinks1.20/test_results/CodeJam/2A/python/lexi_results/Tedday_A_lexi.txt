@@ -1,0 +1,2 @@
+def test_case n r p s = int i for i in input_file readline split num = 2 ** n for i in xrange 3 ** num s = for j in xrange num s = letters i % 3 + s i /= 3 t = s + if s count r == r and s count s == s and s count p == p while len s > 1 and not 0 in s s = reduce_lineup s if len s == 1 and s != 0 return t return impossible 		14 28
+def reduce_lineup lineup reduce_map = rp p pr p sp s ps s sr r rs r return join reduce_map lineup i i + 2 if lineup i i + 2 in reduce_map else 0 for i in xrange 0 len lineup 2 		9 11

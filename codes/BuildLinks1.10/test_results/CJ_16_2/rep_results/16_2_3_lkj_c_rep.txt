@@ -1,0 +1,3 @@
+sufficient h1 union h2 union h1 h2 set x 0 for 		3 8
+bfsize solve l l1 = x 0 for x in l l2 = x 1 for x in l d1 = x l1 count 		19 51
+bfsize sufficient sufficient n2 if l n1 		10 17

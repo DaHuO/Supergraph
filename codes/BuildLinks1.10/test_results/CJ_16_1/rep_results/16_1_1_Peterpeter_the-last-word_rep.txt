@@ -1,0 +1,3 @@
+def main tests 		24 30
+def counter t 		19 21
+def lastword word words = words = word 0 		4 16

@@ -1,0 +1,2 @@
+fixlists lstalpha lstcountdig lstcountdig lstalpha lstalpha 		3 7
+lstalpha lstcountdig lstalpha lstalpha lstcountdig fixlists lstalpha lstcountdig lstalpha lstcountdig fixlists lstalpha lstcountdig lstalpha lstcountdig fixlists lstalpha lstcountdig lstalpha lstcountdig fixlists lstalpha lstcountdig lstalpha lstcountdig fixlists lstalpha lstcountdig 		8 27

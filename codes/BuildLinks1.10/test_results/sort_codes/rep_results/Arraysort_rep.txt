@@ -1,5 +1,5 @@
-myArray smallsize smallsize extend extend myArray smallsize insertsize = if len array <= 1 return array elif len array <= insertsize return insert_sort array else mid = len 		4 61
+myArray myArray smallsize = 4 def subsort array insertsize = smallsize if len array <= 1 return array elif len array <= insertsize return insert_sort array else mid 		4 61
 def insert_sort array for i in range 1 		46 59
-extend extend left right merged_list = list i = 0 		24 44
+def mergesort left right merged_list = list i = 0 		24 44
 999999999999 fastest_len testnum testnum stop stop testnum 1000 fastest_len Insert Sort on {0} arrays took {1} 		69 88
-smallsize subsort array insertsize = if len 		14 22
+def subsort array insertsize = smallsize if 		14 22

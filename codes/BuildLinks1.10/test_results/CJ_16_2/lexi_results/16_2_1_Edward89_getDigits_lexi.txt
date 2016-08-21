@@ -1,0 +1,1 @@
+def dataParser fileDir inputfile = open fileDir rU nbrOfCases = int inputfile readline cases = None for i in range nbrOfCases for i in range nbrOfCases cases i = inputfile readline inputfile close return cases 		1 8

@@ -1,0 +1,2 @@
+def process line word = for i in range len line letter = line i if len word == 0 word = letter continue leftmost = word 0 if letter >= leftmost word = letter + word else word = word + letter return word 		2 19
+def main with open a-large.in r as ins numoftestcases = int ins readline cases = for i in range numoftestcases line = ins readline rstrip print case # + str i + 1 + : + process line 		23 34

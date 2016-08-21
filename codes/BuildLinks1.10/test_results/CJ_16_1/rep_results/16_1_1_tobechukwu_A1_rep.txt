@@ -1,0 +1,1 @@
+def solve astring mainstring = astring 		4 12

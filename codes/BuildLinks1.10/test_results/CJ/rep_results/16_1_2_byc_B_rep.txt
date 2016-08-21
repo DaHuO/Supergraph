@@ -1,0 +1,2 @@
+tryposition curchoice prevchoices dimisok curchoice prevchoices dimisok curchoice prevchoices nextoption nextoption nextoption nextoption nextoption nextoption nextoption nextoption tryposition 		82 104
+dimisok rowdim rowdim depth = len choices 		69 80

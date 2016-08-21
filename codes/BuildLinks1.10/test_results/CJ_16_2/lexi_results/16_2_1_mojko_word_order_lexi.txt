@@ -1,0 +1,2 @@
+def removeLetters d string num for char in string d char = d char - num return d 		10 13
+def letterCount word d = collections defaultdict int for c in word d c += 1 return d 		4 8

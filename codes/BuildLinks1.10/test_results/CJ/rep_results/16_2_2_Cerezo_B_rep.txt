@@ -1,0 +1,4 @@
+makeint summe summe summe for 		9 13
+def knowsmaller big small big = 		4 7
+ctail jtail ctail jtail jtail ctail ctail jtail chtail jhtail chtail jhtail jltail cltail cltail jltail jhtail chtail chtail jhtail cltail jltail cltail jltail findmin c i c append int c i j append int c i elif c i != ? and j i != ? if int c i > int j i c append int c i j append int j i = knowsmaller c 		21 98
+findmin tosort makeint makeint tosort tosort - 		16 19

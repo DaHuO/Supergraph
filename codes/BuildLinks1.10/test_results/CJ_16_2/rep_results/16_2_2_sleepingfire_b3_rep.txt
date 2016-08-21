@@ -1,0 +1,2 @@
+new_abs new_abs new_abs new_abs digit1 digit1 new_ci digit1 digit2 digit2 new_ci digit2 min_ji if i == len c = abs ci - ji if < min_abs min_abs = min_c min_ci = list c ci min_j min_ji = list j ji elif == min_abs if ci < min_ci or ci 		19 65
+def main C J global min_abs min_c min_ci min_j min_ji 		7 17

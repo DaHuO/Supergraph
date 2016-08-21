@@ -1,0 +1,15 @@
+Direct links:
+61 - 63 links:
+16_2_1_dpforest_A	:	72 - 74
+16_2_2_dpforest_Bs	:	68 - 70
+
+
+With same rare tokens:
+61 - 63 links:
+16_2_1_dpforest_A	:	72 - 74
+16_2_2_dpforest_Bs	:	68 - 70
+
+48 - 50 links:
+16_2_1_dpforest_A	:	59 - 61
+16_2_2_dpforest_Bs	:	55 - 57
+

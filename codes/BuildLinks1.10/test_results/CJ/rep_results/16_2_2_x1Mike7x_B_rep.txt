@@ -1,0 +1,7 @@
+naive gen_next 2e100 gen_next gen_next list l r = list r if len l > 3 return 0 def x c = sum 1 for c in x if c == 		16 49
+asnwers ofs asnwers ofs open 		62 65
+naive solve_case 		52 54
+read_test ifs ifs = with 		7 13
+def 		57 59
+gen_next x c = sum 1 for c in x if c 		22 33
+cur_dir startswith isfile cur_dir input.in read_test cur_dir done! f b 		68 75

@@ -1,0 +1,1 @@
+def lastword w word = w 0 		1 9

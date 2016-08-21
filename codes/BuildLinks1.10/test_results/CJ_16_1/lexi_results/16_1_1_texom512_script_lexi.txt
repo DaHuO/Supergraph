@@ -1,0 +1,1 @@
+def input return input_file readline strip 		4 5

@@ -1,0 +1,2 @@
+qualifa %d\n ifn = a-large.in ofn = output.txt with open ifn as inf with open ofn 		54 80
+qualifa s l = 0 0 0 0 0 0 0 0 0 0 for carac in s if carac == z l 0 += 1 elif carac == w 		10 42

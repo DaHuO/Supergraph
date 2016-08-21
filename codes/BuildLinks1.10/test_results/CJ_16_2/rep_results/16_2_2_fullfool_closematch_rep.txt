@@ -1,0 +1,2 @@
+getScoreList getScoreList resultList if not ? in score resultList 		1 10
+cScoreList getScoreList cScoreList jScoreList getScoreList jScoreList 2147483645 2147483647 2147483647 cScoreList jScoreList = minJscore = for eachCScore in for eachJScore in 		15 40

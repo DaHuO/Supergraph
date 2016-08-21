@@ -1,0 +1,2 @@
+def solve k c s if c == 1 result = range 		25 33
+def main source dest with open source r as fd open dest w as 		35 43

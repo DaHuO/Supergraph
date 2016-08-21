@@ -1,0 +1,3 @@
+string_result string_result string_result open input_file as in_file lines = in_file 		40 54
+algorithma solvers letter_solver letter_solver letter_solver letter_solver = for solver 		24 34
+algorithma solve 		36 38

@@ -1,0 +1,4 @@
+def 		37 38
+swap arr i 		40 43
+solvetestcase swap swap = n = len tc s = 0 for i in range 0 n l append tc i i s += tc i l sort reverse = true r 		45 74
+outputtestcase out_f x s = l = len 		28 35

@@ -1,0 +1,1 @@
+REQ_CHARS CHARS has_word REQ_CHARS has_word has_word CHARS 0 while idx < 10 		14 34

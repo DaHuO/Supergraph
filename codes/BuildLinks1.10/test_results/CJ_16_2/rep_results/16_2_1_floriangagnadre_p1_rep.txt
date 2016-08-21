@@ -1,0 +1,3 @@
+def get_cases filename with open 		14 20
+b_print res T filename with 		22 25
+def get_phone_number s res = i = 0 		27 36

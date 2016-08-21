@@ -1,0 +1,1 @@
+def enum s if s is return if s 0 is not ? return s 0 + suf for suf in enum s 1 else en = enum s 1 return c + suf for suf in en for c in 1234567890 		3 10

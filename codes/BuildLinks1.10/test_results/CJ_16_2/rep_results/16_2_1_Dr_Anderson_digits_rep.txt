@@ -1,0 +1,2 @@
+removenum S num 		15 19
+Sout Sout 		11 13

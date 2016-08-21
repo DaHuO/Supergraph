@@ -1,0 +1,3 @@
+nlet solve_rec case = sum 		18 22
+def 		14 15
+solve_rec obs allowed ddict obs allowed allowed newobs obs ddict newobs solve_rec 		25 41

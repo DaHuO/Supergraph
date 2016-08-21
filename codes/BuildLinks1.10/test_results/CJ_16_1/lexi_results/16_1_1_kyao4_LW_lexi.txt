@@ -1,0 +1,2 @@
+def findcombo word cur_word resultlist if len word == 0 resultlist append cur_word return else letter = word 0 new_word = list word del new_word 0 findcombo new_word letter + cur_word resultlist findcombo new_word cur_word + letter resultlist 		8 17
+def findcombo_wrapper word resultlist cur_word = findcombo word cur_word resultlist 		20 22

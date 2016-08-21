@@ -1,0 +1,1 @@
+def outp a b file = open output.txt a s = Case # + str a + 1 + : + str b + \n file write s file close print s 		1 6

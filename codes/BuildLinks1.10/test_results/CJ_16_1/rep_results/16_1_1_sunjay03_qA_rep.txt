@@ -1,0 +1,1 @@
+play play play = 0 current = if pos > len 		4 18

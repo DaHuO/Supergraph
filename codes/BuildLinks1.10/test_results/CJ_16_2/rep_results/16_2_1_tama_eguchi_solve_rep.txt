@@ -1,0 +1,4 @@
+def main IN OUT T 		40 44
+makesample maxlength 2000 maxlength = print T for 		47 56
+def solve S phone = chars = for c in S chars c = chars get c 0 + 1 def 		14 37
+def xxx digit count 		20 24

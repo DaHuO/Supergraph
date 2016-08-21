@@ -1,0 +1,8 @@
+__str__ 		112 113
+class 		108 109
+get_nums elements l_return 		94 98
+to_print 		104 105
+get_nums self self _number 0 = self _counter Z self _counter Z -= self _number 0 self _counter E -= self _number 0 self _counter R -= self _number 0 self _counter O -= self _number 0 self _number 6 = self _counter X self _counter S -= self _number 6 self _counter I -= self _number 6 self _counter X -= self _number 6 self _number 2 = self 		22 91
+compare_key 		100 101
+in_string in_string self 		16 19
+Solution in_string cases = int raw_input 		118 129

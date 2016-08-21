@@ -1,0 +1,4 @@
+arbitrary_element 		13 14
+min_edge_cover_sub max_weight_matching maxcardinality uncovered_nodes uncovered_nodes arbitrary_element matching_algorithm is None matching_algorithm = 		17 74
+min_edge_cover hopcroft_karp_matching min_edge_cover_sub 		99 133
+is_edge_cover cover 		76 96

@@ -1,0 +1,1 @@
+getDiff origX origY origD origX origY origD getDiff getDiff getDiff = while j < len C if diff == 0 and C j == ? or J j == ? dC r = i C J j + 1 1 dt r = i C J j + 1 0 dJ r = i C J j + 1 - 1 		3 55

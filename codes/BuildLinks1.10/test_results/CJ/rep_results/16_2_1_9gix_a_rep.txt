@@ -1,0 +1,4 @@
+def main t = int input 		28 34
+ero eiht even fie our nne no_list no_list self remove z 		14 26
+char_freq no_list 		4 6
+residual_chars digit_repr char_freq no_list digit_repr 		8 12

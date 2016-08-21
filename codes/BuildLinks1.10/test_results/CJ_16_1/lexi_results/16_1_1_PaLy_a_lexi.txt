@@ -1,0 +1,1 @@
+def solve s = input res = for x in s if len res == 0 res = x elif res 0 < x res = x + res else ok = false for y in res if y < x ok = true res = x + res break elif y > x ok = true res = res + x break if not ok res = res + x return res 		1 22

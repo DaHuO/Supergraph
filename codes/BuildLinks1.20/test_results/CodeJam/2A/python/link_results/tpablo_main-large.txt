@@ -1,0 +1,54 @@
+
+With same rare tokens:
+209 - 220 links:
+Ha.sH_solver	:	17 - 46
+eMBe_A	:	133 - 145
+eMBe_A	:	147 - 152
+fandersen_GCJ	:	109 - 142
+ody42_solve	:	29 - 45
+gauravjs_1	:	1 - 21
+Fornax_A	:	5 - 111
+lostrainbow_A	:	10 - 34
+
+108 - 132 links:
+wilsonhsu_A	:	51 - 65
+Zark_CJ201620A	:	59 - 64
+bananaphone_1	:	22 - 35
+bananaphone_1	:	38 - 71
+
+147 - 166 links:
+bigOnion_rps	:	165 - 199
+EricStansifer_common	:	35 - 75
+IdoLivneh_A	:	259 - 278
+bigOnion_rps	:	94 - 111
+bigOnion_rps	:	87 - 113
+
+99 - 106 links:
+bananaphone_1	:	22 - 35
+bananaphone_1	:	38 - 71
+
+193 - 206 links:
+Ha.sH_solver	:	17 - 46
+programcaicai_A	:	6 - 40
+programcaicai_A	:	10 - 12
+Fedux_rock	:	83 - 103
+Strikeskids_A	:	59 - 63
+
+181 - 190 links:
+bigOnion_rps	:	165 - 199
+EricStansifer_common	:	35 - 75
+
+35 - 41 links:
+codespam_q1	:	19 - 32
+zhhthu11_p1	:	3 - 16
+zhhthu11_p1	:	19 - 36
+
+135 - 144 links:
+bigOnion_rps	:	94 - 111
+bigOnion_rps	:	87 - 113
+
+169 - 178 links:
+Ha.sH_solver	:	17 - 46
+aklecram_solveA	:	30 - 33
+Fedux_rock	:	83 - 103
+

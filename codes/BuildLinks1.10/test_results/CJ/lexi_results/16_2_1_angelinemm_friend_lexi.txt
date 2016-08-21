@@ -1,0 +1,2 @@
+def remove_number code number for letter in number code remove letter return code 		20 23
+def get_phone_dict return 		6 7

@@ -1,0 +1,7 @@
+def msg 		32 33
+make_seq_fmt item_fmt item_fmt 		11 12
+def solve letters result = 		60 67
+splitext _case_idx self file_name = none verbose = true formatter = 		21 30
+pfx_char pfx _case_idx _case_idx pfx pfx_char pfx case 		49 57
+make_fmt specials 		7 8
+def read_line self * types words 		35 46

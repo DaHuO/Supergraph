@@ -1,0 +1,18 @@
+def extract_reci bffmap visited = set ids = bffmap keys for id1 in ids if id1 in visited continue id2 = bffmap id1 if id2 in visited continue if bffmap id2 == id1 visited add id1 visited add id2 return visited 		113 130
+def __init__ self self cache = dict 		22 23
+def write self str sys stdout write str self file write str 		14 16
+def count_one_way fs bffmap reci nonebff = set xrange len fs - set fs oneway = counter for id in nonebff visited = set while id not in visited if id in reci oneway id = max oneway id len visited break visited add id id = bffmap id return sum oneway values 		132 147
+def set self v * args self cache args = v 		28 29
+def get self * args return self cache args 		31 32
+def biggest_ring bffmap visited = set ids = bffmap keys maxcnt = 0 for id in ids cnt = 0 while id not in visited cnt += 1 visited add id id = bffmap id maxcnt = max maxcnt cnt return maxcnt 		95 111
+def has self * args return args in self cache 		25 26
+def diff l return p 1 - p 0 for p in izip l - 1 l 1 		53 54
+def solve fin n = read_int fin fs = read_ints fin fs = i - 1 for i in fs bffmap = k v for k v in enumerate fs bffmapsimple = deepcopy bffmap clean_map bffmapsimple fs r1 = biggest_ring bffmapsimple reci = extract_reci bffmapsimple r2 = count_one_way fs bffmap reci + len reci return max r1 r2 		149 164
+def clean_map bffmap fs bffpred = counter fs nonebff = set xrange len fs - set fs for nbff in nonebff id = nbff while bffpred id == 0 bff = bffmap id del bffmap id bffpred bff -= 1 id = bff assert set bffmap keys == set bffmap values 		79 93
+def close self self file close 		18 19
+def functioncallcache f cache = dict def fce * args t = tuple args if t in cache return cache t else r = f * args cache t = r return r return fce 		34 44
+def read_int fin return int fin readline 		47 48
+def read_ints fin return int x for x in fin readline split 		50 51
+def binary_search pmin pmax v fce assert pmax >= pmin assert fce pmin <= v assert fce pmax >= v while pmin + 1 < pmax p = long pmin + pmax + 1 / 2 vp = fce p if vp >= v pmax = p else pmin = p if fce pmin >= v return pmin if fce pmax >= v return pmax assert false 		56 75
+def __init__ self file self file = file 		11 12
+def fce * args t = tuple args if t in cache return cache t else r = f * args cache t = r return r 		36 43

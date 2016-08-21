@@ -1,0 +1,2 @@
+gene gene word lis = s = if len word == 1 return word 		8 21
+gene word 		2 3

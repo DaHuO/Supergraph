@@ -1,0 +1,34 @@
+Direct links:
+32 - 33 links:
+16_2_1_EricStansifer_common	:	32 - 33
+
+25 - 27 links:
+16_2_1_EricStansifer_common	:	25 - 27
+
+8 - 13 links:
+16_2_1_EricStansifer_common	:	8 - 13
+
+35 - 75 links:
+16_2_1_EricStansifer_common	:	35 - 75
+
+
+With same rare tokens:
+32 - 33 links:
+16_2_2_EricStansifer_b	:	62 - 111
+16_2_1_EricStansifer_a	:	7 - 92
+16_2_1_EricStansifer_common	:	32 - 33
+
+25 - 27 links:
+16_3_1_dob_solve	:	29 - 30
+16_2_1_EricStansifer_common	:	25 - 27
+
+35 - 75 links:
+16_1_2_goulagman_rank	:	4 - 10
+16_2_2_kulkul_b	:	37 - 61
+16_2_1_EricStansifer_common	:	35 - 75
+16_2_1_EricStansifer_common	:	35 - 75
+16_2_1_EricStansifer_common	:	35 - 75
+16_2_1_EricStansifer_common	:	35 - 75
+16_2_1_cjb_A	:	52 - 74
+16_2_1_EricStansifer_common	:	35 - 75
+

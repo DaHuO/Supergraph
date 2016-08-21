@@ -1,0 +1,1 @@
+def thelastword s res = for i in s if res == res += i elif ord i < ord res 0 res += i else res = i + res return res 		1 10

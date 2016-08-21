@@ -1,0 +1,1 @@
+def solve line line_splitted = line split  k = int line_splitted 0 c = int line_splitted 1 s = int line_splitted 2 if s >= k res = for i in range k - 1 res = res + str i + 1 +  res = res + str k return res else pass return impossible 		3 20

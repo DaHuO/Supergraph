@@ -1,0 +1,6 @@
+def getCases 		65 68
+getOutput solvedCase solvedCase = 		71 75
+def solveCase num num = list num zeroes = num count Z for i in range zeroes num remove c for c in ZERO fours = num count U for i in range fours num remove c for c in FOUR twos = 		6 49
+def 		3 4
+generateOutput solvedCases getOutput solvedCases None cases = getCases 		77 84
+def parseInput text cases = 		54 62

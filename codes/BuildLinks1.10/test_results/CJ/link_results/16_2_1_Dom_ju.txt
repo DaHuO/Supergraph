@@ -1,0 +1,15 @@
+Direct links:
+6 - 17 links:
+16_3_1_Dom_ju	:	6 - 17
+
+
+With same rare tokens:
+6 - 17 links:
+16_3_1_Dom_ju	:	6 - 17
+16_3_1_Dom_ju	:	3 - 4
+
+3 - 4 links:
+16_3_1_Dom_ju	:	3 - 4
+16_3_1_Dom_ju	:	6 - 17
+16_3_1_Dom_ju	:	3 - 4
+

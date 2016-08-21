@@ -1,0 +1,1 @@
+def solve s l = 		4 11

@@ -1,0 +1,3 @@
+def main n = int 		50 55
+def solve s letters_cnt = Counter for ch in s letters_cnt ch += 1 letters = c Counter for c in 		9 48
+def available spelling 		6 7

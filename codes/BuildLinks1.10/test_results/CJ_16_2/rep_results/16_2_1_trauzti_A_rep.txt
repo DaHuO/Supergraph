@@ -1,0 +1,3 @@
+decNumber d i global 		19 23
+hasNumber d i global words 		11 17
+hasNumber decNumber newPhone newPhone if sum d values == 0 		29 42

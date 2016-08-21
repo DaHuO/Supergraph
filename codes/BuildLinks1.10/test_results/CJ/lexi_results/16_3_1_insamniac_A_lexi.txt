@@ -1,0 +1,7 @@
+def hasmajor l m = max l if l count m < 2 return true return false 		25 30
+def getletter i return abet i i + 1 		12 13
+def main inp res = int i for i in inp split  debug 1 res o = while max res != 0 os res = decmax res o append os return o 		72 81
+def willfuckup lis m if m == 0 return true l = list lis maxindex = l index m l maxindex = l maxindex - 1 if hasmajor l return true return false 		32 41
+def calc m return m 		22 23
+def debug lvl msg if debuglevel >= lvl print msg 		16 18
+def decmax l debug 3 decmax start: + str l m = max l maxindex = l index m l maxindex = l maxindex - 1 r = getletter maxindex debug 3 decmax2: + str l for i in l if len r == 1 and willfuckup l i == false maxindex = l index i l maxindex = l maxindex - 1 r += getletter maxindex break debug 3 decmax4: + str l return r l 		43 70

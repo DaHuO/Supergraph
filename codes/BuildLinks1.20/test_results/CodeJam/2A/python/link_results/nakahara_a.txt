@@ -1,0 +1,16 @@
+
+With same rare tokens:
+4 - 13 links:
+Tish_stage 2	:	67 - 89
+Tish_stage 2	:	46 - 60
+lidaobing_1	:	65 - 75
+yingted_A	:	22 - 25
+yingted_A	:	35 - 45
+yingted_A	:	27 - 73
+robostac_test	:	61 - 74
+robostac_test	:	7 - 47
+
+15 - 42 links:
+Tish_stage 2	:	67 - 89
+Tish_stage 2	:	46 - 60
+

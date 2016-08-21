@@ -1,0 +1,3 @@
+aA aB nowA aA nowA aB aA nowA aB aB map str numB = int join 		33 54
+fA fB fA fA d == len c 		10 20
+fB fB fB if d == len j 		22 32

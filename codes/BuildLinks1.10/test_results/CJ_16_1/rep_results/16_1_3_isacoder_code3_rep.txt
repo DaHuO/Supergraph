@@ -1,0 +1,2 @@
+findseeds seedmax seedmax seedmax = n = len bff seedlines = bff for i in xrange 1 n seq = i bff i i 		15 48
+findseeds bff seedlines = n = len bff result = 		3 13

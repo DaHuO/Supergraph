@@ -1,0 +1,1 @@
+def ic c return ord c - 65 		2 3

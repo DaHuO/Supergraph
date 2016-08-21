@@ -1,0 +1,19 @@
+
+With same rare tokens:
+36 - 50 links:
+elockhart_A	:	49 - 51
+elockhart_A	:	72 - 76
+elockhart_A	:	65 - 70
+
+59 - 69 links:
+elockhart_A	:	49 - 51
+elockhart_A	:	72 - 76
+elockhart_A	:	65 - 70
+eMBe_A	:	36 - 41
+eMBe_A	:	29 - 34
+Ha.sH_solver	:	88 - 109
+kenneth.maples_showdown	:	13 - 22
+kenneth.maples_showdown	:	24 - 32
+YuMS_A	:	50 - 56
+NekoChen_a	:	66 - 73
+

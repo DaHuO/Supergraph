@@ -1,0 +1,2 @@
+def sort l s e if e - s == 1 return m = s + e / 2 sort l s m sort l m e if l m e < l s m l s m l m e = l m e l s m 		33 40
+def dfs r p s total = r + p + s if total == 1 if r return r elif p return p else return s elif r > total / 2 or p > total / 2 or s > total / 2 return false i = r + p - s / 2 nr = r - i np = i ns = p - i if nr < 0 or np < 0 or ns < 0 return false result = dfs nr np ns if result toreturn = for c in result if c == r toreturn += r s elif c == p toreturn += p r else toreturn += p s return toreturn else return false 		1 30

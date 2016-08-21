@@ -1,0 +1,1 @@
+def solve s bans = eans = if s == return bans + eans maxi = none maxv = \0 for i s in enumerate s if ord s >= ord maxv maxv = s maxi = i b = s maxi e = s maxi + 1 return solve b bans + maxv e + eans 		6 22

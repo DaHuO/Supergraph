@@ -1,0 +1,1 @@
+def solve x ran = for l in x if len ran == 0 ran = l else if l < ran 0 ran = ran + l else ran = l + ran return ran 		6 16

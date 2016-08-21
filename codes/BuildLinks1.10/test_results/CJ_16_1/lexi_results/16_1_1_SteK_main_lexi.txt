@@ -1,0 +1,4 @@
+def read self file self s = file readline - 1 		12 13
+def solve self print ############ case : + str self id_case for c in self s if self res == self res += c elif self res 0 > c self res += c else self res = c + self res 		18 26
+def write_output self file file write case # + str self id_case + : + str self res + \n 		15 16
+def __init__ self id_case file_in file_out self res = self number = none self id_case = id_case self read file_in self solve self write_output file_out self s = self res = 		2 10

@@ -1,1 +1,1 @@
-Solve Nval Nval Nval Nval ret2 ret2 ret2 ret2 P S b = min R P S if a - b > 1 return IMPOSSIBLE clist = if R == a clist += R 		6 32
+Solve N R P S a = max R P S b = min R P S if a - b > 1 return IMPOSSIBLE clist = if R == a clist += R 		6 32

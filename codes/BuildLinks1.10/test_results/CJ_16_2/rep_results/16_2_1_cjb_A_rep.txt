@@ -1,0 +1,5 @@
+makedict s d 		37 41
+subdict d d2 		42 45
+foutname {}/Desktop/{}.out home foutname foutname = A = format prob 		25 35
+openFile ftype small-attempt0 {}/Desktop/{}-{}.in home ftype = format prob 		15 23
+makedict subdict subdict {:d} = m dd = defaultdict int dd 2 = d W dd 4 = d U dd 		52 74

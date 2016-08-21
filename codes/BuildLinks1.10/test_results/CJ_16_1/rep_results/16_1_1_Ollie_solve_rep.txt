@@ -1,0 +1,1 @@
+def solve s lw = 		3 10

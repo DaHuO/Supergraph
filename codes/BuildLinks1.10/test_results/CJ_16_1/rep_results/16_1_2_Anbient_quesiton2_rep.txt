@@ -1,0 +1,3 @@
+greater greater greater less = equal = = if len array 		7 24
+find_missing_list array dict = for list_i in array for 		46 64
+compute_diff_list array dict = for list_i in array for 		26 42

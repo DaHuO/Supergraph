@@ -1,0 +1,3 @@
+def add_letter self c if self left == none and self right == none self left = tree self left data = c + self data self right = tree self right data = self data + c else self left add_letter c self right add_letter c 		12 21
+def get_words self words if self left == none and self right == none words append self data else self left get_words words self right get_words words 		23 28
+def __init__ self self left = none self right = none self data = none 		7 10

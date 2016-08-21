@@ -1,0 +1,4 @@
+def 		9 10
+def 		12 13
+testCompatible left right returnValue = L = len left for index in 		15 29
+testCompatible solution left right L = len left returnValue = left right if returnValue is not None return returnValue +  + returnValue bestSum = 0 bestDifference = 10 ** 20 bestLeft = bestRight = prefix = for index in xrange L if left index == ? and right index == ? possibleLeft = prefix + 1 + minimize left index + 1 possibleRight = prefix + 0 + maximize right index + 1 possibleSum = int possibleLeft + int possibleRight possibleDiff = int possibleLeft - int possibleRight if bestDifference > possibleDiff or bestDifference >= possibleDiff and bestSum > possibleSum bestLeft = possibleLeft bestRight = possibleRight bestDifference = possibleDiff bestSum = possibleSum possibleLeft = prefix + 0 + maximize left index + 1 possibleRight = prefix + 1 		31 146

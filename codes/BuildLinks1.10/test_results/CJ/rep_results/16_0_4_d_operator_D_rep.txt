@@ -1,0 +1,4 @@
+frombase s b 		13 14
+read_simple solve fin 		26 29
+greedy_1 greedy_1 if 0 not 		6 10
+frombase solve_case x k c s = x solns = t 		17 23

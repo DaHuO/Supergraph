@@ -1,0 +1,1 @@
+def get_letters n return ch for ch in n 		4 5

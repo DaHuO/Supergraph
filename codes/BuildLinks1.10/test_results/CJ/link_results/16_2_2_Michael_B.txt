@@ -1,0 +1,38 @@
+Direct links:
+17 - 18 links:
+16_1_2_Michael_B	:	16 - 17
+
+33 - 34 links:
+16_1_2_Michael_B	:	32 - 33
+
+36 - 37 links:
+16_1_2_Michael_B	:	35 - 36
+
+8 - 9 links:
+16_1_2_Michael_B	:	7 - 8
+
+26 - 31 links:
+16_1_2_Michael_B	:	25 - 30
+
+11 - 12 links:
+16_1_2_Michael_B	:	10 - 11
+
+
+With same rare tokens:
+33 - 34 links:
+16_1_2_Michael_B	:	32 - 33
+16_1_2_Michael_B	:	32 - 33
+
+8 - 9 links:
+16_1_2_Michael_B	:	7 - 8
+
+26 - 31 links:
+16_1_2_Michael_B	:	25 - 30
+
+11 - 12 links:
+16_1_2_Michael_B	:	10 - 11
+16_3_1_Fedux_senate	:	41 - 51
+
+36 - 37 links:
+16_1_2_Michael_B	:	35 - 36
+

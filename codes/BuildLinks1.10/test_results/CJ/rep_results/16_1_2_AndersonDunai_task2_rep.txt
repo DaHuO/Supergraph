@@ -1,0 +1,1 @@
+def solve array items = for line in array 		6 21

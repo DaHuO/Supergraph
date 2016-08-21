@@ -1,0 +1,1 @@
+segment segment segment largest = sorted letters - 1 indices = index for index letter in enumerate 		5 18

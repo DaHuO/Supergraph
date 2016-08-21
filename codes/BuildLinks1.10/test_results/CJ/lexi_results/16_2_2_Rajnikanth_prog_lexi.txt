@@ -1,0 +1,1 @@
+def hmd x y l = 0 for i in xrange len x if x i == ? l += 1 elif x i == y i l += 1 return l 		1 8

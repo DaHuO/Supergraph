@@ -1,0 +1,2 @@
+def main t = int input for x in range 1 t + 1 print case #%d: %s % x solve input 		18 21
+def solve s r = deque for c in s if r if c < r 0 r append c else r appendleft c else r append c return join r 		6 16

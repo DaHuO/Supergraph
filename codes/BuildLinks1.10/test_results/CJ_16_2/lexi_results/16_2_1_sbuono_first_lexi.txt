@@ -1,0 +1,1 @@
+def output out tc res print Case #%s: %s % tc res out write Case #%s: %s\n % tc res 		6 8

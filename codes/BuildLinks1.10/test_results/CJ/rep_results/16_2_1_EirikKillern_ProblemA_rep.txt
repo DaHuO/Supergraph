@@ -1,0 +1,2 @@
+lettercheck output_str output_str output_str numbers = 0 * 10 for l in string dic setdefault l 0 dic l += 1 if z in dic if dic z > 0 dic e -= dic z dic r -= dic z dic o -= dic z numbers 0 += dic z dic z = 0 if u in dic if dic u > 0 dic o -= dic u 		1 74
+lettercheck main fil = open input.txt r output = 		80 89

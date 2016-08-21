@@ -1,0 +1,1 @@
+sen_len sen_len letters_from_second letters_from_second letters_from_second senators = map int senators split = sum senators while sum senators > 0 indexes = list reversed sorted range len 		3 22

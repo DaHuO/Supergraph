@@ -1,0 +1,5 @@
+def 		40 41
+read_simple solve fin 		43 46
+padleft d n 		6 8
+repinline s sub s1 = ch 		10 17
+bestdist bestcoders bestjammers repinline padleft repinline padleft bestdist bestdist bestcoders bestjammers bestcoders bestjammers coders count ? y 		19 37

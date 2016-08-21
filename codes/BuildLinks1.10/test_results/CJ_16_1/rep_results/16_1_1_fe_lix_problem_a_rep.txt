@@ -1,0 +1,2 @@
+insert_letter last_word word 		10 16
+insert_letter c word if 		1 7

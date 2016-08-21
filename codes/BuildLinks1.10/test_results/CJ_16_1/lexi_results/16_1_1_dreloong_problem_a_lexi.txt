@@ -1,0 +1,2 @@
+def winning_last_word s lst = s 0 for ch in s 1 if ord ch < ord lst 0 lst append ch else lst insert 0 ch return join lst 		1 8
+def main f_in = open a-large.in.txt r f_out = open a-large.out.txt w n_tests = int f_in readline for i in range n_tests s = f_in readline f_out write case #{}: {} format i + 1 winning_last_word s f_in close f_out close 		11 21

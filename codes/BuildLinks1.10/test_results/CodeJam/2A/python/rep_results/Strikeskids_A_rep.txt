@@ -1,6 +1,6 @@
 run_test main 		53 57
 children expand_chars children if self 		15 22
-run_test nums compute_rps 		49 51
+run_test compute_rps nums 		49 51
 def 		12 13
 children sort self if 		24 27
 expand_chars c if c 		3 9

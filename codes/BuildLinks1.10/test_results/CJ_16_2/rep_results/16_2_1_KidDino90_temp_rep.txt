@@ -1,0 +1,3 @@
+stage1 tempL printOutput = global CasePointer CasePointer = 1 for i in range 1 int listL 0 + 1 answer = tempS = tempS = list listL CasePointer print tempS = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE tempA = j = 0 while j < len tempS if tempS j == Z tempS remove Z tempS remove E tempS remove R tempS remove O j = 0 tempA append 0 else j = j + 1 j = 0 while j < len tempS if 		21 177
+stage1 		6 8
+printOutput output outputFile = open 		195 199

@@ -1,0 +1,1 @@
+getPhoneNumber fromkeys returnText returnText returnText Counter list text phoneNumber = dict range 10 for letter in string ascii_uppercase if letter not in counts counts letter = 0 for i in range 10 phoneNumber i = 0 phoneNumber 0 = counts Z counts Z -= phoneNumber 0 counts E -= phoneNumber 0 counts R -= phoneNumber 0 counts O -= phoneNumber 0 phoneNumber 8 		9 87

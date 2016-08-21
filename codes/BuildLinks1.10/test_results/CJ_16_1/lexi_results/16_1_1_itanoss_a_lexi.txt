@@ -1,0 +1,3 @@
+def winning_word string result = string 0 for i in range 1 len string current_letter = string i if result 0 > current_letter result append current_letter else result insert 0 current_letter return join result 		7 15
+def read_int return int read 		3 3
+def read return sys stdin readline rstrip 		2 2

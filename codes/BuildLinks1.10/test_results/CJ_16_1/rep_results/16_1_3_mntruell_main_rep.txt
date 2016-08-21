@@ -1,0 +1,6 @@
+def output filename strings file = open filename w 		10 14
+curlist curlist curlist 66 curlist validcircle curlist curlist curlist 		48 63
+validcircle childs idd childs idd idd = - 1 if bff not in circle return false index = 		18 34
+beginid currentchilds beginid currentid beginid 		36 44
+solveugly curlist validcircle curlist curlist for 		65 70
+linespercase linespercase filename lines = open filename 		3 7

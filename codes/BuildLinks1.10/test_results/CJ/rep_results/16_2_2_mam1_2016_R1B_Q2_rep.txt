@@ -1,0 +1,5 @@
+maxpos maxpos maxpos answera maxpos answerb maxpos newtries fillchar newtries tempa tempb maxpos answera tempa answerb tempb tempa answera answera tempa 		198 227
+changestr mys mylist 		6 9
+def main with open b-large.in r as infile 		239 245
+fillchar charb knowna knownb knowna charb knownb knowna knownb knowna knownb intb charb copya copya changestr copya zerotonine intb copya copya changestr copya zerotonine intb copya copya changestr copya zerotonine intb copya knowna knownb inta copyb copyb changestr copyb zerotonine inta copyb copyb changestr copyb zerotonine inta copyb copyb changestr copyb zerotonine inta copyb knowna knownb copya copyb copya changestr copya copyb changestr copyb copya copyb copya changestr copya copyb changestr copyb copya copyb copya changestr copya copyb changestr copyb copya copyb knowna knownb intb charb copya copya changestr copya zerotonine intb copya copya changestr copya zerotonine intb copya copya changestr copya zerotonine intb copya knowna knownb inta copyb copyb changestr copyb zerotonine inta copyb copyb changestr copyb zerotonine 		11 195
+maxpos maxpos c sa sb = 		230 237

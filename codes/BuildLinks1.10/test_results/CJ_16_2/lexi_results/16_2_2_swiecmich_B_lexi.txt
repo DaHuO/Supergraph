@@ -1,0 +1,1 @@
+def matches seq score for k in range len seq if seq k != score k and score k != ? return False return True 		8 12

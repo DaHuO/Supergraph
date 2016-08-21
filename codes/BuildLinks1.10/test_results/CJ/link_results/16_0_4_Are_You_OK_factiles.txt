@@ -1,0 +1,16 @@
+Direct links:
+21 - 22 links:
+16_1_1_Are_You_OK_1	:	34 - 35
+16_0_4_a1ex_D	:	4 - 5
+16_2_2_fynjy_b	:	12 - 13
+16_2_2_fynjy_b	:	15 - 16
+
+10 - 11 links:
+16_1_1_Are_You_OK_1	:	23 - 24
+
+
+With same rare tokens:
+21 - 22 links:
+16_1_1_Are_You_OK_1	:	37 - 42
+16_1_1_Are_You_OK_1	:	34 - 35
+

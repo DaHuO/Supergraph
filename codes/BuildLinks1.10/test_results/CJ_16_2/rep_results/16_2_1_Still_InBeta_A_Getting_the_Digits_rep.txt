@@ -1,0 +1,2 @@
+home_dir r'C:\Users\Nishant\Dropbox\CodeBase\Coding Competitions\GoogleCodeJam_2016\Round_1B' home_dir home_dir total_cases total_cases path join A-large.in output_file = os path 		118 137
+def get_number s chars = defaultdict for ch in s chars setdefault ch 0 chars ch += 1 numbers = if chars get Z 0 > 0 no = chars Z chars Z -= no chars E -= no chars R -= no chars O -= no numbers append 0 * no if chars get W 0 > 0 no = chars W chars T -= no chars W -= no chars 		13 115

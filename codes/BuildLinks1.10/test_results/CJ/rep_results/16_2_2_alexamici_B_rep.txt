@@ -1,0 +1,4 @@
+def case_reader 		18 21
+		14 15
+def case_solver tc n = none p = none i = none t = none s = none ** kwargs import itertools as it def partial res_c res_j t0 t1 if len t0 == 0 return 		24 55
+def partial res_c res_j t0 t1 if len t0 == 0 return res_c res_j c = t0 0 j = t1 0 t0 = t0 1 t1 		27 53

@@ -1,0 +1,1 @@
+def solve testcase n = int sys stdin readline strip cnt = collections defaultdict 		4 13

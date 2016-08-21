@@ -1,0 +1,1 @@
+check_tiles num_checks checks: num_checks s: num_checks free_skip free_skip num_checks quadrant quadrant_skip quadrant free_skip quadrant_skip i in range 0 k free_checks = c - 2 = 		3 35

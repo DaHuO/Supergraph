@@ -1,0 +1,1 @@
+def find_string string result = for char in string if result == result = char elif result 0 <= char result = char + result else result += char return result 		12 24

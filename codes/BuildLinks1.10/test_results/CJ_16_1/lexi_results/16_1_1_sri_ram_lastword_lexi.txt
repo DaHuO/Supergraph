@@ -1,0 +1,1 @@
+def lastword filename f = open filename ru tc = int f readline g = open lastsmall.out w for test in range tc line = f readline x = line 0 s = line 0 for i in line 1 if i < s 0 s += i else s = i + s g write case #%d: %s\n % test + 1 s f close g close 		1 17

@@ -1,0 +1,5 @@
+def insertrow n row for j in range n if rowins n or field n j and field n j != row j return false field n = row rowins n = true return true 		18 24
+def deletecol n for i in range n if not rowins i field i n = none colins n = false 		41 45
+def backtracking n if n == n * 2 - 1 return true for i in range n if insertrow i l n if backtracking n + 1 return true deleterow i if insertcol i l n if backtracking n + 1 return true deletecol i return false 		48 69
+def insertcol n col for i in range n if colins n or field i n and field i n != col i return false for i in range n field i n = col i colins n = true return true 		26 33
+def deleterow n for j in range n if not colins j field n j = none rowins n = false 		35 39

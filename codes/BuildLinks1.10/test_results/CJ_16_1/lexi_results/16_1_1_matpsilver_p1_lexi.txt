@@ -1,0 +1,2 @@
+def printoutput output outputfile = open output.txt w for i line in enumerate output outputfile write case # + str i + 1 + : + line + \n outputfile close 		11 15
+def getinput file = open input.txt r cases = line strip \n for line in file cases pop 0 return cases 		4 8

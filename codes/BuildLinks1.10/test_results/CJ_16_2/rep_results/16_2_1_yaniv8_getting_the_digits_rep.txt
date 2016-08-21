@@ -1,0 +1,6 @@
+handle_input path 		17 19
+write_res result_file 		30 32
+line_numbers line_numbers line_numbers int 		22 27
+digits_dict calculate_digits digits_dict digits_dict 		35 40
+calculate_digits s d = l_count = s count Z d 0 = l_count for c in LETTERS 0 s = s replace c l_count l_count = s count X d 6 = l_count for c in LETTERS 6 s = s 		43 85
+case_result case_result res = case_counter cases = 		88 97

@@ -1,0 +1,15 @@
+
+With same rare tokens:
+37 - 61 links:
+16_2_2_mdippel_B	:	142 - 143
+16_2_2_alphacentauri_sol1	:	3 - 17
+16_2_2_Yusan_B	:	8 - 50
+16_2_2_Yusan_B	:	8 - 50
+16_2_2_EricStansifer_common	:	35 - 75
+16_1_2_goulagman_rank	:	4 - 10
+16_2_1_EricStansifer_common	:	35 - 75
+16_2_2_t93_main	:	38 - 52
+16_2_2_t93_main	:	22 - 36
+16_2_2_t93_main	:	54 - 74
+16_2_2_jeroenvw_gcj	:	70 - 108
+

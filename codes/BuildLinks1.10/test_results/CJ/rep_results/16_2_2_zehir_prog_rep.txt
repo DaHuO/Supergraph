@@ -1,0 +1,2 @@
+codelist jamlist dists codelist jamlist mindist fcode codelist fjam jamlist fcode fjam mindist mindist mindist fcode fjam = 		13 30
+def fill s res = for i in 		3 11

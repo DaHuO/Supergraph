@@ -1,0 +1,2 @@
+getting_the_digits file_in fr = open file_in r T = int fr readline strip fw = open file_in - 3 + .out w for i in range T num = text = fr readline while Z 		9 52
+def remove text 		3 6

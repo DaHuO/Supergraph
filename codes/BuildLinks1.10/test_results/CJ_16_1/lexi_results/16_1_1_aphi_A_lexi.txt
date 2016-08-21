@@ -1,0 +1,1 @@
+def solve s final = for s in s if not final final append s elif s >= final 0 final insert 0 s else final append s return join final 		3 13

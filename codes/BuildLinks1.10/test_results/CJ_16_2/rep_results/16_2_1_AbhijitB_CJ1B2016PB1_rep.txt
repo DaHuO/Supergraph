@@ -1,0 +1,1 @@
+CJ1B2016PB1 word table = Z 0 ZERO W 2 TWO U 4 FOUR 		7 18

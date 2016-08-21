@@ -1,0 +1,21 @@
+getNumbers containsZero removeZero containsTwo removeTwo containsFour removeFour containsSix removeSix containsEight removeEight containsThree removeThree containsFive removeFive containsSeven removeSeven containsOne removeOne 		172 194
+containsThree s 		93 94
+removeOne containsOne s if s 		144 152
+containsEight s 		74 75
+containsOne s 		141 142
+containsFour s 		47 48
+removeFour containsFour s if s 		50 59
+removeTwo containsTwo s if s 		37 45
+removeNine containsNine s if s 		159 168
+containsSeven s 		125 126
+removeEight containsEight s if s s 		77 87
+removeZero containsZero s if s 		23 32
+removeThree containsThree s if s s 		96 106
+containsNine s 		156 157
+removeFive containsFive s if s 		112 121
+containsFive s 		109 110
+removeSix containsSix s if s 		64 72
+containsZero s 		20 21
+containsSix s 		61 62
+containsTwo s 		34 35
+removeSeven containsSeven s if s s 		128 138

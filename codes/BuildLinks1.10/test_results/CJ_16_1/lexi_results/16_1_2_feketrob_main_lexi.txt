@@ -1,0 +1,2 @@
+def solve_test index test_case print case: [{0}] format test_case n = int test_case 0 nums = result = for line in test_case 1 numbers = map int line split  for n in numbers if not nums has_key n nums n = 0 nums n += 1 for k v in nums iteritems if v % 2 != 0 result append k result sort finish index  join map str result 		10 33
+def finish index solution print solution file_out write case #{0}: {1}\n format index + 1 solution 		4 8

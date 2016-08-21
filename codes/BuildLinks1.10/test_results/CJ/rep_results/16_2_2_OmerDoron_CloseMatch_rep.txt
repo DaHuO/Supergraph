@@ -1,0 +1,4 @@
+fullsolve infilename readfileintolist infilename closematch f = open 		94 100
+readfileintolist contentfixed contentfixed open filename 		4 9
+solverec whowins whowins whowins solverec solverec solverec solverec solverec solverec solverec solverec solverec solverec solverec solverec j = j replace ? 9 return c j elif == - 1 c = c replace ? 9 j = j replace ? 0 return c j else if c 0 != ? and j 0 != ? if c 0 == j 0 sol = c 1 j 1 0 if c 0 > j 0 sol = c 1 j 1 1 if c 0 < j 0 sol = c 1 j 1 - 1 return c 0 + sol 0 j 0 + sol 1 		17 92
+closematch inputlist inputlist inputlist 		11 14

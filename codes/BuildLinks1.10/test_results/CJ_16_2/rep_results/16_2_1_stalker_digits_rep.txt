@@ -1,0 +1,4 @@
+strToMap solve s freq = 0 * 10 m = s freq 0 += subtractWord Z ZERO m freq 		24 43
+Underflow subtractWord c word m 		14 22
+		3 4
+strToMap s result 		8 12

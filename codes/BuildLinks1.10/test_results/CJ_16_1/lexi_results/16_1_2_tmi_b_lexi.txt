@@ -1,0 +1,2 @@
+def solve_it n lists heights = counter for l in lists for s in l heights s += 1 missing_heights = for h c in heights iteritems if c % 2 missing_heights append h return sorted missing_heights 		22 31
+def test self self assertequal 3 4 6 solve_it 3 		10 11

@@ -1,0 +1,1 @@
+max_num max_num max_num sens = map lambda x int x senators split  rv = while sum sens > 0 		1 26

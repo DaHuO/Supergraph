@@ -1,0 +1,2 @@
+def stm p r s if r == 0 and s == 0 return p elif p == 0 and s == 0 return r elif p == 0 and r == 0 return s if p == r and p > s or s > p and s > r return st p + 1 / 2 r - 1 / 2 s / 2 + st p - 1 / 2 r + 1 / 2 s / 2 if p > r and p > s or r > p and r == s return st p / 2 r + 1 / 2 s - 1 / 2 + st p / 2 r - 1 / 2 s + 1 / 2 if p == s and p > r or r > p and r > s return st p + 1 / 2 r / 2 s - 1 / 2 + st p - 1 / 2 r / 2 s + 1 / 2 		11 24
+def st p r s if p r s not in std std p r s = stm p r s return std p r s 		6 9

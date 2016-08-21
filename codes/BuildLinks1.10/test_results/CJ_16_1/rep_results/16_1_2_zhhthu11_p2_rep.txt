@@ -1,0 +1,1 @@
+def solve n = int raw_input dic = for i in range 		3 16

@@ -1,0 +1,2 @@
+best_score permuted_circle permuted_circle = len bffs for 		21 28
+def check circle bffs for i kid in enumerate circle bff 		6 18

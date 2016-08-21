@@ -1,0 +1,1 @@
+def test k c s = map int raw_input split coordinates = min x k - 1 for x in xrange first first + c for first in xrange 0 k c questions = map lambda c reduce lambda accum x accum * k + x c coordinates if s < len questions print impossible else print  join map lambda i str i + 1 questions 		2 10

@@ -1,0 +1,2 @@
+def cases inputFile with 		6 10
+def solve digits results = 0 for x in 		23 31

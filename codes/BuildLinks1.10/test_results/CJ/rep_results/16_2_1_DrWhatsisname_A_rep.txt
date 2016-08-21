@@ -1,0 +1,3 @@
+removechars s cts for c 		20 26
+ctchars s cts = 		28 35
+chrcts removechars chrcts i if i >= len return 		4 16

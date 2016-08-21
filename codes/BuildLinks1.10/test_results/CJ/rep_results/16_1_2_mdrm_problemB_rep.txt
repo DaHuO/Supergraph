@@ -1,0 +1,7 @@
+def sol1 n lists def putcol i mat col for k in range i if mat k i and mat k i != col k return false for k in range n if i if mat k i - 1 >= col k return false mat k i = col k return true def putrow i mat row for k in range i if mat i k and mat i k != row k return false for k in range n if i if mat i - 1 k >= row k return false mat i k = row k return true def helper i mat missing_row missing_col if i == n if 		19 125
+def putcol i mat col for k in range 		21 30
+def helper_row i mat missing_row missing_col used if missing_col == 0 rowbase = mat i 1 rowcands = idx for idx l in enumerate 		92 111
+def helper i mat missing_row missing_col if i == n if missing_row is not none return mat missing_row assert missing_col is not none return mat missing_col k for 		44 68
+def putrow i mat row for k in range 		32 41
+def helper_col i mat missing_row missing_col used if i == n if missing_row is not none return mat missing_row assert missing_col is not 		70 90
+def read_ints 		15 16

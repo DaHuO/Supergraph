@@ -1,0 +1,1 @@
+def solve s = str raw_input cnt = 1 t = s 0 for i in range 1 len s if s i >= t 0 t = s i + t else t = t + s i return t 		3 12

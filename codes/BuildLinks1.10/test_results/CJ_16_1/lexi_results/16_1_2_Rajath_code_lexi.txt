@@ -1,0 +1,6 @@
+def convert_list a b = for i in a i = str i b append i return b 		59 64
+def get_output rows_cols dim miss = heights = for i in range len rows_cols curr_list = rows_cols i for j in range len curr_list item = curr_list j if heights get item heights item += 1 else heights item = 1 count = 0 for height in heights keys item = heights height if item % 2 == 1 count += 1 miss append height if count == dim break miss sort return miss 		33 56
+def get_item flag inp = raw_input strip if flag == 0 return inp else return int inp 		4 9
+def main num_tests = get_item 1 for i in range num_tests dim = get_item 1 num = 2 * dim - 1 rows_cols = for k in range num list = get_list 1 rows_cols append list miss = get_output rows_cols dim miss = convert_list miss miss =  join miss print case #%d: %s % i + 1 miss 		67 82
+def get_tuple flag inp_tuple = get_list flag inp1 = inp_tuple 0 inp2 = inp_tuple 1 return inp1 inp2 		12 16
+def get_list flag inp = raw_input strip inp_list_str = inp split if flag == 0 return inp_list_str else inp_list_int = for inp_str in inp_list_str inp_str = inp_str strip inp_int = int inp_str inp_list_int append inp_int return inp_list_int 		19 30

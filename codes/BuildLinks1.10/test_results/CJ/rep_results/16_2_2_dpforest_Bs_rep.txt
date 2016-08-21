@@ -1,0 +1,10 @@
+def solve f skip = false c j = f read_str_list if skip return 0 cl = jl = n = len c for item in itertools product 0123456789 repeat = n 		11 42
+def read_int 		49 51
+read_decimal_list self 		68 70
+def __init__ 		45 47
+def read_str 		58 60
+def read_float 		52 54
+def read_float_list 		65 67
+def read_str_list 		71 73
+def read_int_list 		62 64
+read_decimal self 		55 57

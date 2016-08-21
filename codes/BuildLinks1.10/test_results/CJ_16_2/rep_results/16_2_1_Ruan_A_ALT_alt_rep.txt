@@ -1,0 +1,2 @@
+number_item number_item inputStringList number 		47 54
+contains_letter already_seen number_item number_item already_seen contains_letter already_seen contains_letter number = False 		30 45

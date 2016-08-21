@@ -1,0 +1,1 @@
+def solve input k c s = int i for i in input split  required_guesses = max 1 k - c + 1 if s < required_guesses return impossible start = 1 offset = k - 2 while c > 1 start *= k if offset > 0 start -= offset offset -= 1 c -= 1 solution = for i in range required_guesses solution append str start + i return  join solution 		3 20

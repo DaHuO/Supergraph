@@ -1,0 +1,7 @@
+print_case_result case_num 		1 2
+complete_dict all_nums cur_num_dict can_use cur_num_dict can_use can_use cur_num_dict cur_num_dict return True if cur_num == len return False = all_num_dicts cur_num for i in 		41 64
+calc_all_num_dict all_nums 		18 22
+convert_num_dict origin_str origin_str dict 		9 15
+origin_str convert_num_dict origin_str calc_all_num_dict cal_all_num_max all_nums num_max_count = all_num_dicts num_dict 		67 77
+cal_all_num_max each_num each_num num_max_count = for in all_num_dicts 		25 33
+complete_dict num_dict for 		35 39

@@ -1,0 +1,2 @@
+def get_input file_path inputfile = open file_path for x in inputfile readlines try input_list append x strip 		7 11
+def get_word words output_word = words 0 words = words 1 for i in words if not output_word == if output_word 0 > i output_word = output_word + i else output_word = i + output_word return output_word 		15 24

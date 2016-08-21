@@ -1,0 +1,4 @@
+def 		1 2
+def 		5 6
+def 		3 4
+def f a b if len a == 0 return a b if a 0 == b 0 == ? c d = f a 1 b 1 l = abs int 0 + c - int 0 + d 0 + c 0 + d c d = f 0 + a 1 1 + b 1 l append 		7 43

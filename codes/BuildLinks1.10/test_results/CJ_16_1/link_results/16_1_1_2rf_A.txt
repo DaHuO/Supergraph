@@ -1,0 +1,13 @@
+Direct links:
+1 - 6 links:
+16_1_1_Jethol_A	:	16 - 28
+16_1_1_eMBe_A	:	87 - 92
+16_1_1_LinesPrower_r1a	:	7 - 12
+16_1_1_kmwho_TaskA	:	7 - 13
+
+
+With same rare tokens:
+1 - 6 links:
+16_1_3_2rf_C	:	1 - 36
+16_1_2_2rf_B	:	3 - 10
+

@@ -1,0 +1,2 @@
+def last_word s rts = sz = len 		2 13
+deal_input input.\n output_name = filename replace .in .out with open filename r 		15 25

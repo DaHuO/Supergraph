@@ -1,0 +1,4 @@
+readvalue 		19 20
+def solve s ans = for 		23 32
+classmethod def answer 		13 16
+readvalue 		6 7

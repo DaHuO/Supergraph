@@ -1,0 +1,2 @@
+def output 		13 14
+def main t = int raw_input for i 		1 11

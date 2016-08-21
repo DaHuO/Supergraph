@@ -1,0 +1,4 @@
+def evacuate sortedlist parties 		19 23
+is_all_evacuated check_legal is_all_evacuated senators parties = evacuated = nm = ord a for n in senators parties chr nm = 		31 54
+check_legal sortedlist parties major = sortedlist 		9 17
+is_all_evacuated parties for 		25 29

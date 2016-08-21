@@ -1,0 +1,1 @@
+abc_task mas result_mas mas result_mas result_mas as input_f with open output_file w as output_f n = input_f readline strip 		5 24

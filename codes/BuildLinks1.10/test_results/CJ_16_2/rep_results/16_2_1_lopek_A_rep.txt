@@ -1,0 +1,1 @@
+EROZ EIHTG TREEH EVENS FIEV OURF TOW ress ress ress ord A ord Z + 1 cnt chr x = 0 for x in s cnt x += 1 res = dict x 0 for 		4 51

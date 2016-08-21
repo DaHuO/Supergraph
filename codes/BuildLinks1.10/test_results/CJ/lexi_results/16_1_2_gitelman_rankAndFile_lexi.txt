@@ -1,0 +1,1 @@
+def main t = int raw_input for i in range 1 t + 1 n = int raw_input concatlist = for j in range 2 * n - 1 concatlist extend raw_input split concatcounter = counter concatlist ans = for height in concatcounter if concatcounter height % 2 == 1 ans append height print case #{}: {} format i  join sorted ans key = lambda x int x 		9 21

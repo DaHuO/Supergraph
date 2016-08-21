@@ -1,0 +1,2 @@
+def last word ans = word 		1 9
+var var length = int input ans = for 		13 24

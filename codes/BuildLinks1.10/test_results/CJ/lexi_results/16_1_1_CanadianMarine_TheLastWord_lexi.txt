@@ -1,0 +1,2 @@
+def testsorted s return sorted s reverse = true 		15 16
+def findlastword s word = for char in s possible_choices = word + char char + word possible_choices = sorted possible_choices reverse = true word = possible_choices 0 return word 		3 13

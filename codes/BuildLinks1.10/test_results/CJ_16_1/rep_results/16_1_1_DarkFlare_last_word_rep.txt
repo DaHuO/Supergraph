@@ -1,0 +1,1 @@
+construct_last_word construct_last_word construct_last_word original == return str_list = str_list extend original str_list reverse max_ch = str_list 0 for ch 		4 22

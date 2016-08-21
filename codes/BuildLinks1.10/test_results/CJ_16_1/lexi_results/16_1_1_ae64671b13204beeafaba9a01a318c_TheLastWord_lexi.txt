@@ -1,0 +1,2 @@
+def get_numbers input_number previously_seen for i in range 0 10 if str i not in previously_seen and str i in str input_number previously_seen add str i 		28 31
+def get_input global line_number if not test return raw_input else output = test_input split \n line_number line_number += 1 return output 		34 41

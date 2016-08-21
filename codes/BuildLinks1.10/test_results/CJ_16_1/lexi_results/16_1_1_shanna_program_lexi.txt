@@ -1,0 +1,2 @@
+def main t = int input for i in range 1 t + 1 string = input strip print case #{}: {} format i solve string 		14 18
+def solve string start = string 0 result = start for s in string 1 if s >= result 0 result insert 0 s else result append s return join result 		3 11

@@ -1,0 +1,54 @@
+4 7:
+out	1	0	10	7
+\n	10	7	1	0
+for	3	0	8	5
+num	4	1	7	4
+in	5	2	6	3
+n	6	3	5	2
+print	7	4	4	1
+num	8	5	3	0
+print	9	6	2	0
+
+22 26:
+listify	1	0	13	10
+listy_list	2	0	12	9
+out	3	0	11	8
+
+9 14:
+nums	2	0	35	27
+digit	3	0	34	26
+nums	15	7	22	14
+bucket	16	8	21	13
+digit	23	15	14	6
+digit	27	19	10	2
+bucket	31	23	6	0
+listify	35	27	2	0
+
+16 20:
+lsd_sort	1	0	29	23
+math	14	8	16	10
+ceil	15	9	15	9
+math	16	10	14	8
+sort	5	0	25	19
+a	6	0	24	18
+0	7	1	23	17
+r	8	2	22	16
+for	9	3	21	15
+i	10	4	20	14
+in	11	5	19	13
+range	12	6	18	12
+1	13	7	17	11
+log	17	11	13	7
+100	18	12	12	6
+r	19	13	11	5
++	20	14	10	4
+1	21	15	9	3
+buckets	22	16	8	2
+=	23	17	7	1
+sort	24	18	6	0
+buckets	25	19	5	0
+i	26	20	4	0
+r	27	21	3	0
+return	28	22	2	0
+buckets	29	23	1	0
+

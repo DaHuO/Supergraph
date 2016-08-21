@@ -1,0 +1,9 @@
+def minus1 n return str int n - 1 if n != 0 else 0 		16 17
+def __init__ self f self f = f 		5 6
+memoize def f c j a b = g c j return b a 		24 27
+def g c j if c == return b a = f c 1 j 1 if c 0 == ? and j 0 == ? v1 = 0 + j 1 replace ? 9 1 + c 1 replace ? 0 v2 = 0 + a 0 + b v3 = 1 + j 1 replace ? 0 0 + c 1 replace ? 9 return min v1 v2 v3 key = scorer elif c 0 == ? v1 = j replace ? 9 plus1 j 0 + c 1 replace ? 0 v2 = j 0 + a j 0 + b v3 = j replace ? 0 minus1 j 0 + c 1 replace ? 9 return min v1 v2 v3 key = scorer elif j 0 == ? v1 = plus1 c 0 + j 1 replace ? 0 c replace ? 9 v2 = c 0 + a c 0 + b v3 = minus1 c 0 + j 1 replace ? 9 c replace ? 0 return min v1 v2 v3 key = scorer else if j 0 == c 0 return j 0 + a c 0 + b elif j 0 > c 0 return j replace ? 0 c replace ? 9 else return j replace ? 9 c replace ? 0 		28 61
+def __missing__ self key ret = self key = self f * key return ret 		9 11
+def plus1 n return str int n + 1 if n != 9 else 9 		14 15
+def memoize f class memodict dict def __init__ self f self f = f def __call__ self * args return self args def __missing__ self key ret = self key = self f * key return ret return memodict f 		2 12
+def scorer j c return 		18 19
+def __call__ self * args return self args 		7 8

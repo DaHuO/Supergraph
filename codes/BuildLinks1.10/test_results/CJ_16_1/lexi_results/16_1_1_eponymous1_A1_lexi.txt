@@ -1,0 +1,1 @@
+def last_word s word = deque s 0 for ch in s 1 if ch >= word 0 word appendleft ch else word append ch return join word 		3 11

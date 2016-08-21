@@ -1,0 +1,2 @@
+letters_in_english char_index char_index result 		10 15
+DIGITS_PRICE solve case_index word = read_word next_line a = a 		19 27

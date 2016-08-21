@@ -1,0 +1,3 @@
+[+] solve data if debug print input data 		6 17
+howto <input file> [-o <output file>] optparse optionparser -o + usage parser 		23 33
+readdata 		19 21

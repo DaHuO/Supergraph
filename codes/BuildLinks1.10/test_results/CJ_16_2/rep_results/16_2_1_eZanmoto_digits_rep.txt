@@ -1,0 +1,4 @@
+def ps xs 		10 11
+sort_str 		3 4
+sort_str S_ S_ sort_str S_ ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT 		13 37
+def 		6 7

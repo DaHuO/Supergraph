@@ -1,0 +1,7 @@
+find_circ_len tgroup tgroup tgroup tcircle tcircle tgroup grp_base grp_base grp_base in bnext circ = bnext vtx2type = none * len bnext def get_type src if not vtx2type src vtx2type 		53 90
+def __init__ 		45 47
+tgroup tgroup tgroup tcircle tcircle src == 2 return 		64 75
+def 		50 51
+def get_type 		59 62
+bmap bmap bmap = int input for 		93 99
+find_circ_len bnext circ = 0 * len bnext visited = 0 * len bnext vis_id = 0 for i 		7 41

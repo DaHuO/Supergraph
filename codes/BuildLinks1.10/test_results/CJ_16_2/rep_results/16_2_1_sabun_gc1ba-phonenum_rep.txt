@@ -1,0 +1,1 @@
+dsp dsp sp ndsp = while sp count Z > 0 for c in ZERO sp = sp replace c 1 ndsp += 0 while sp count X > 0 for c in SIX sp = sp replace c 		7 49

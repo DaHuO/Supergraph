@@ -1,0 +1,2 @@
+def solve s1 s2 bigger = none if s1 s2 bigger in memoized return memoized s1 s2 bigger out1 = out2 = if bigger is none bigger = none for n i j in enumerate zip s1 s2 if i == ? and j == ? if bigger == none option1 = 0 0 solve s1 n + 1 s2 n + 1 bigger = none option2 = 0 1 solve s1 n + 1 s2 n + 1 bigger = second option3 = 1 0 solve s1 n + 1 s2 n + 1 bigger = first 		32 121
+best_1 best_2 cbest_1 cbest_2 inum2 inum2 best_1 best_1 inum2 best_2 best_1 best_2 inum2 cbest_1 cbest_2 cbest_1 cbest_2 options if op is 		6 28

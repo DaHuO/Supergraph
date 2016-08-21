@@ -1,0 +1,1 @@
+highestindex highestletter highestletter highestletter highestindex beginning highestletter beginning return = 0 = 		4 23

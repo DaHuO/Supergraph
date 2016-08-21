@@ -1,0 +1,1 @@
+def solve s pre = post = part = s while len part > 0 c = max list part i = len part - 1 - part - 1 find c pre += c post = part i + 1 + post part = part i return pre + post 		4 14

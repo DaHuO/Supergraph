@@ -1,0 +1,5 @@
+def contains a 		20 24
+make_lcd s ss 		14 18
+make_lcd ss: dn make_lcd dn dn SZAR: s if DEBUG print ss for 		32 45
+lcd lcd for 		26 30
+def read_input data = 		4 8

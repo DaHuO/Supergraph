@@ -1,0 +1,2 @@
+isIn isInString isIn current out if len s == 0 return out else 		11 33
+isInString s lookfor for 		3 9

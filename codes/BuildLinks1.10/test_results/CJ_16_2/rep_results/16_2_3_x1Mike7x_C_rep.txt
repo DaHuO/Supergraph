@@ -1,0 +1,6 @@
+def save f asnwers with 		86 89
+def 		81 83
+def read_test f raw = with open f r 		8 21
+e.in input.in Done! f in os listdir CUR_DIR 		92 99
+lw rw lw lw rw rw lw rw pre_used pre_used pre_used ul ur ul ur ul ur l not in l = il il += 1 if r not in r = ir ir += 		36 77
+def dfs graph used v match if used 		25 33

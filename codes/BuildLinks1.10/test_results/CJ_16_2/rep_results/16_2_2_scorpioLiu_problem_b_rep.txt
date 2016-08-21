@@ -1,0 +1,1 @@
+def solution c j x = c count ? + j count ? r = c +  + j y = list r import itertools 		8 34

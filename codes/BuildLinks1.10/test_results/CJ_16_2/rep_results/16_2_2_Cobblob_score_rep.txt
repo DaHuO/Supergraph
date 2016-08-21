@@ -1,0 +1,6 @@
+def getDigits 		12 13
+marks marks marks newDif newDif newDif newDif split  0 = n count ? a = b = 0 dif = - 1 		15 35
+def main f = open input.txt r lines = 		85 93
+def solve n return brute n coders jammers = n split  cval = jval = 0 for i l in enumerate zip coders jammers c j = l tens = 		40 82
+def min 		7 10
+def max 		2 5

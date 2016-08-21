@@ -1,0 +1,1 @@
+printnumber word test e = word count e g = word count g f = word count f i = word count i h = word count h o = word count o n = word count n s = word count s r = word count r u = word count 		2 50

@@ -1,0 +1,2 @@
+def checkm exclude global parties total = 0 left = 0 for name in parties total += parties name if name in exclude total -= 1 if parties name - 1 > 0 left += 1 elif parties name > 0 left += 1 if total == 0 return false for name in parties if name in exclude if left == 2 if parties name - 1 >= total / 2 return false if parties name - 1 >= total / 2 return true else if parties name / total >= 0.5 return true return false 		8 32
+def outp a b file = open output.txt a s = case # + str a + 1 + : + str b + \n file write s file close print s 		1 6

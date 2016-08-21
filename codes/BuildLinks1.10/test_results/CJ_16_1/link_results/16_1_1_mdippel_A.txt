@@ -1,0 +1,30 @@
+Direct links:
+17 - 20 links:
+16_1_2_mdippel_B	:	22 - 25
+
+
+With same rare tokens:
+8 - 14 links:
+16_1_2_mdippel_B	:	117 - 125
+16_1_2_mdippel_B	:	8 - 19
+
+42 - 43 links:
+16_1_2_mdippel_B	:	100 - 102
+
+45 - 53 links:
+16_1_2_mdippel_B	:	117 - 125
+16_1_2_mdippel_B	:	117 - 125
+16_1_2_mdippel_B	:	8 - 19
+16_1_2_mdippel_B	:	68 - 92
+16_1_2_mdippel_B	:	117 - 125
+16_1_2_mdippel_B	:	22 - 25
+16_1_2_mdippel_B	:	117 - 125
+
+17 - 20 links:
+16_1_2_mdippel_B	:	22 - 25
+16_1_2_mdippel_B	:	117 - 125
+
+34 - 40 links:
+16_1_2_mdippel_B	:	68 - 92
+16_1_2_mdippel_B	:	117 - 125
+

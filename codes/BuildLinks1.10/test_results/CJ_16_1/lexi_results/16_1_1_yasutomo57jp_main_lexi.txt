@@ -1,0 +1,1 @@
+def check s slist = list s result = for c in slist if len result == 0 result append c elif result 0 <= c result insert 0 c else result append c return join result 		9 21

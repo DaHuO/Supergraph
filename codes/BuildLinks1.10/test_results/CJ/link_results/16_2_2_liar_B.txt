@@ -1,0 +1,14 @@
+
+With same rare tokens:
+49 - 56 links:
+16_1_1_Brennan_problem-a	:	17 - 23
+16_2_1_Brennan_problem-a	:	55 - 61
+
+58 - 68 links:
+16_3_1_chekunkov_A	:	10 - 15
+16_2_1_chekunkov_A	:	6 - 11
+16_3_1_chekunkov_A	:	10 - 15
+16_2_1_chekunkov_A	:	6 - 11
+16_1_1_Brennan_problem-a	:	17 - 23
+16_2_1_Brennan_problem-a	:	55 - 61
+

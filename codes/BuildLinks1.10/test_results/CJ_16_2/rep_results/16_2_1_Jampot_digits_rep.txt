@@ -1,0 +1,5 @@
+def remove_number x 		95 101
+remove_third_set param count = 		83 93
+remove_first_set param count = 0 nums = while True if Z in param param = remove_number 0 param nums 		23 53
+remove_first_set remove_second_set remove_third_set result = param nums = 		103 117
+remove_second_set param count = 0 nums = while True if O in param param = remove_number 		55 81

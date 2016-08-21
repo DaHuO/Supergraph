@@ -1,0 +1,3 @@
+inttochar 		45 46
+analyse run name lines = l rstrip for l in open name 		48 56
+analyse maxv1 maxi1 maxv1 maxi1 maxi1 maxv2 maxi2 maxv2 maxi2 maxi1 maxi2 maxv1 maxv2 inttochar maxi1 inttochar maxi2 maxi1 maxi2 = max senators = 		3 43

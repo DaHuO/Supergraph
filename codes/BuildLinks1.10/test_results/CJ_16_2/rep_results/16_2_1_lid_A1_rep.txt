@@ -1,0 +1,9 @@
+delThree l try 		131 136
+def delNum l ch 		68 73
+delZero l try 		77 82
+delSix l try 		86 91
+delFive l try 		122 127
+delTwo l try 		95 100
+delEight l try 		113 118
+def main t = int raw_input for i in xrange 1 t + 1 S = str raw_input l = list S theList = while True if not delNum l Z ZERO 		5 65
+delFour l try 		104 109

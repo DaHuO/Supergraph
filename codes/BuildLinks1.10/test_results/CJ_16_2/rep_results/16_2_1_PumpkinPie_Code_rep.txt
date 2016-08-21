@@ -1,0 +1,2 @@
+del_el L R 		18 21
+find_el del_el P2 del_el P2 P2 for i in range 0 len L if L i == Z Arr append 0 Drop = Drop + ZERO elif L i == W Arr append 2 Drop 		24 66

@@ -1,0 +1,2 @@
+def read_case n = int raw_input rows = map int raw_input split for _ in range 2 * n - 1 return n rows 		3 6
+def solve case n rows = case cnt = counter sum rows missed = k for k v in cnt items if v % 2 == 1 return sorted missed 		8 12

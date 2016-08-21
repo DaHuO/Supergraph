@@ -1,0 +1,2 @@
+def digit line lets = for let in line if let in lets lets let += 1 else lets let = 1 nums = if Z in lets while lets Z >= 1 extract_digit lets 		7 55
+def extract_digit 		3 5

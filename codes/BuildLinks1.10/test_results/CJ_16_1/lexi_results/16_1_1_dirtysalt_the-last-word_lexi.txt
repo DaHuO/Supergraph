@@ -1,0 +1,1 @@
+def f s res = for x in s ss = max res + x x + res res = ss return res 		9 14

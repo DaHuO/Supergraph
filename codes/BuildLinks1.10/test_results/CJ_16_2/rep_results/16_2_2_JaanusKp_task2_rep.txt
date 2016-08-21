@@ -1,0 +1,1 @@
+over1 keep2 keep2 over2 over2 over2 over1 over1 over1 = nr2 = for x in xrange places nr1 append 0 nr2 append 0 pos1 = pos2 = best = 9999 bestVals = 9999 0 = False for x in xrange places if coders x == ? pos1 append x else nr1 x = int coders x 		5 78

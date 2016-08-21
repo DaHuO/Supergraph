@@ -1,15 +1,4 @@
-47 - 54 links:
-178855371157_a	:	17 - 26
-pr0v3rbs_A	:	3 - 36
-
-10 - 14 links:
-luca.wehrstedt_A	:	15 - 22
-
+Direct links:
 40 - 45 links:
-rutsky_a	:	17 - 24
 Sylvus_solution	:	6 - 17
-
-28 - 38 links:
-smapson_A	:	1 - 11
-ahausch_Atest	:	26 - 35
 

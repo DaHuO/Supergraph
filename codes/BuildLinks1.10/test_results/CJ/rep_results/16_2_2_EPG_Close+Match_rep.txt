@@ -1,0 +1,1 @@
+do_solve nodesc nodesj nodesc nodesj finnodesc finnodesj nodesc nodesc finnodesc nodesc nodesj nodesj finnodesj nodesj finnodesc finnodesj = node find ? if i == - 1 append node continue else for j in xrange 10 append node 		24 70

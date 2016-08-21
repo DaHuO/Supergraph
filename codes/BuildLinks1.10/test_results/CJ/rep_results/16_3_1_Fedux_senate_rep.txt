@@ -1,0 +1,4 @@
+index2party 		8 9
+def check senators tot = 		12 18
+index2party index2party index2party res = while sum senators > 0 e2 		21 38
+fileparser read_integers inputfile = t = inputfile 		41 51

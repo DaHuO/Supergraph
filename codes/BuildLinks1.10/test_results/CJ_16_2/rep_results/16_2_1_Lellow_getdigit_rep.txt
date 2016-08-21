@@ -1,0 +1,2 @@
+fichierR fichierR fichierR CASE countNumber int readline print 		81 90
+countNumber s tab = 0 * 26 for i in s tab ord i - 65 += 1 tab2 = 0 * 10 tab2 0 = tab ord Z - 65 tab ord Z - 65 = 0 tab ord E - 65 = tab ord E - 65 - tab2 0 tab ord R - 65 = tab ord R - 65 - tab2 0 tab ord O - 65 = tab ord O - 65 - tab2 0 tab2 2 = tab ord W - 65 tab ord W - 65 = 0 tab ord T - 65 = tab ord T - 65 - tab2 		4 76

@@ -1,0 +1,3 @@
+_get_digits get_digits S global result_list 		33 40
+def remove_word S word N = min S count 		8 16
+_get_digits CONSTANTS _get_digits global result_list if i == 		19 30

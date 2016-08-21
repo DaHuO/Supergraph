@@ -1,0 +1,2 @@
+def calculate p val_x = re findall (-?\+?)(\d+)(x)? p const = x 0 + x 1 for x in val_x if x 2 == tottal_const = sum int x for x in const val_x = re findall \+?-?\d*x p without_x = x replace x 1 if x in +x -x x else x replace x for x in val_x r = sum int x for x in without_x return r tottal_const 		4 21
+def process_input p = input ls = calculate p split = 0 rs = calculate p split = 1 x_val = ls 0 - rs 0 con_val = - ls 1 + rs 1 if x_val == 0 if con_val == 0 print IDENTITY else print IMPOSSIBLE else print con_val // x_val 		24 43

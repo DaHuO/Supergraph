@@ -1,0 +1,1 @@
+LpProblem LpMinimize fWordVars sWordVars fWordVars sWordVars LpVariable cat LpBinary lpSum fWordVars lpSum fWordVars sWordVars lpSum sWordVars objective t in 		8 31

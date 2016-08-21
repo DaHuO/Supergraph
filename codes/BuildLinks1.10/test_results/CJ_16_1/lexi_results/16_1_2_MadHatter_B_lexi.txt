@@ -1,0 +1,1 @@
+def solve d l = list d l sort return  join map str l 		3 6

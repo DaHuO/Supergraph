@@ -1,0 +1,1 @@
+def f s builder = for c in s if builder == builder = c else if c >= builder 0 builder = c + builder else builder = builder + c return builder 		1 11

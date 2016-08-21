@@ -1,0 +1,1 @@
+def ans s ret = 		5 12

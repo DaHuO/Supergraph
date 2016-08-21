@@ -1,0 +1,3 @@
+start_test n_lines start_test start_test n_lines find_answer start_test n_lines in fileinput input 		70 83
+def remove_str str1 str2 		7 11
+find_answer numList numList ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE num_dict = Z 0 		13 67

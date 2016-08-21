@@ -1,0 +1,2 @@
+def valid_circle circle kids length = len circle for i in range length if kids circle i != circle i - 1 if kids circle i != circle i + 1 % length return false return true 		33 41
+def get_input global line_number if not test return raw_input else output = test_input split \n line_number line_number += 1 return output 		24 31

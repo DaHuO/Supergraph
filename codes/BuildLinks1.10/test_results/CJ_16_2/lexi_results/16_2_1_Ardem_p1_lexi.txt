@@ -1,0 +1,4 @@
+def addition a b out = for i in range len a out append a i + b i return out 		17 21
+def getarr s letters = 0 for i in range 26 for c in s letters ord c - 65 += 1 return letters 		6 10
+def dp cur vals if min vals < 0 return if sum vals == 0 return str cur if cur > 9 return t = if min dif vals values cur >= 0 t = dp cur dif vals values cur if t != return str cur + t i = cur + 1 while i <= 9 if min dif vals values i >= 0 t = dp i dif vals values i t = dp i dif vals values i if t != return str cur + t i += 1 return t 		23 48
+def dif a b out = for i in range len a out append a i - b i return out 		12 16

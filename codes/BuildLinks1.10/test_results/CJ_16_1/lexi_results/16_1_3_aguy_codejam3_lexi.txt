@@ -1,0 +1,4 @@
+def ans x return max f x longestcycle x 		64 136
+def f x pairs = findpairs x pairnum = 0 * len x count = 1 for p in pairs for i in p pairnum i = count count += 1 isleaf = 1 * len x for i in x isleaf i = 0 longestpaths = 0 * len pairs * 2 for start in range len x if isleaf start score = 0 visited = 0 * len x current = start while not visited current visited current = 1 current = x current score += 1 if pairnum current i = pairnum current - 1 if score > longestpaths i longestpaths i = score break return sum longestpaths + len longestpaths 		30 62
+def findpairs x ans = used = set for i in range len x if i not in used j = x i if x j == i ans append i j used add j return ans 		18 27
+def longestcycle x ans = 0 for start in range len x score = 0 visited = 0 * len x current = start while not visited current visited current = true score += 1 current = x current if current == start ans = max ans score return ans 		1 15

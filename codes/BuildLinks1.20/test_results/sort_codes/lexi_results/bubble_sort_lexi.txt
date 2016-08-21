@@ -1,0 +1,1 @@
+def bubble_sort list dist = len list for j in range 0 dist for i in range 0 dist - 1 if list i > list i + 1 t = list i list i = list i + 1 list i + 1 = t return list 		7 15

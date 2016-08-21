@@ -1,0 +1,4 @@
+def fillgridrow grid vec ind if grid == none return grid 		5 14
+def fillgridcol grid vec ind if grid == none return grid 		16 25
+probb recsolve lines revlines grid = * n for i in range 0 n grid i = 0 * n lines sort revlines sort revlines reverse matches = collections defaultdict list revmatches = collections defaultdict list pos = collections counter rpos = collections counter if lines 0 0 == lines 1 0 grid 0 = lines 0 for i in range 0 n grid i 0 = lines 1 i pos 		87 163
+recsolve recsolve recsolve recsolve recsolve rlist if grid == none return grid n = len grid if len mlist > 0 choice = mlist 0 gr = dc grid gr = fillgridrow gr m choice 0 0 if len m choice > 1 gr = fillgridcol gr m choice 1 		27 85

@@ -1,0 +1,4 @@
+returnoutput 		38 43
+def compute self last_piece = for n 		45 58
+takeinput this_piece this_piece self d = for 		21 34
+find_num_line line_per_case line_per_case 		11 19

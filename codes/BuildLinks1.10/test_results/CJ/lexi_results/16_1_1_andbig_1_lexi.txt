@@ -1,0 +1,1 @@
+def getans el w = el 0 l = len el i = 1 while i < l c = el i if c != \n w = c + w if w 0 <= c else w + c i += 1 return w 		1 10

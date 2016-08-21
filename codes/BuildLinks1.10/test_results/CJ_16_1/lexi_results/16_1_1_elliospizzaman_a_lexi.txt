@@ -1,0 +1,5 @@
+def write_case self solution self output_handle write case #%i: %s\n % self case_num solution self case_num += 1 		18 21
+def solve jam casecount = int jam read_string letters = abcdefghijklmnopqrstuvwxyz for casenum in xrange casecount solution = s = jam read_string solution = s 0 for i in xrange 1 len s if letters index s i < letters index solution 0 solution += s i else solution = s i + solution jam write_case solution 		23 35
+def __init__ self input_handle output_handle self input_handle = input_handle self output_handle = output_handle self case_num = 1 		8 11
+def read_string self return self input_handle readline rstrip \n 		12 14
+def read_array self return self read_string split 		15 17

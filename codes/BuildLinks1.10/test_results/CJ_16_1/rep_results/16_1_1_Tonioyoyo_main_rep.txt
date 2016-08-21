@@ -1,0 +1,1 @@
+output_{} numbertestcase numbertestcase charac charac charac finallist finallist finallist open format f name w = int f readline for i in range 1 + 		3 44

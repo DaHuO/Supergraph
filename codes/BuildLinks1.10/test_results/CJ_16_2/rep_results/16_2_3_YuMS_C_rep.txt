@@ -1,0 +1,2 @@
+situation OK situation situation OK OK for in itertools product True False repeat = len words first 		2 21
+def main T = input for 		23 30

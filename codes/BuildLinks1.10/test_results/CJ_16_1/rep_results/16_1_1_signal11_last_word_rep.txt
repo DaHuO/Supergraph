@@ -1,0 +1,2 @@
+new_word_1 new_word_2 new_word_1 new_word_1 new_word_2 new_word_2 l in s if 		3 23
+def main num_tests = int sys 		26 32

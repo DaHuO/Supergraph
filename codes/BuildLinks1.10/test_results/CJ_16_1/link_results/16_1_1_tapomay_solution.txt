@@ -1,0 +1,39 @@
+Direct links:
+3 - 10 links:
+16_1_1_hotdogee_a	:	4 - 11
+16_1_1_wilsonhsu_A	:	3 - 10
+16_1_1_phire_1	:	6 - 13
+16_1_1_brett42_1	:	11 - 19
+16_1_1_Mauro_a	:	6 - 13
+16_1_1_golden_digit_p1	:	1 - 12
+16_1_1_weitang114_a	:	4 - 11
+16_1_1_mskyt_A	:	3 - 10
+16_1_1_zhhthu11_p1	:	3 - 11
+16_1_1_bhuztez_A	:	4 - 14
+16_1_1_metakirby5_a	:	3 - 11
+16_1_1_tallstory83_A	:	4 - 11
+16_1_1_gosip_smallA	:	9 - 17
+16_1_1_amanous_solve	:	9 - 17
+16_1_1_numa_A	:	1 - 10
+16_1_1_Kbo_problem_a	:	6 - 13
+16_1_1_xxifaye_lastword	:	3 - 12
+16_1_1_standbackiknowregex_prog	:	1 - 11
+16_1_1_Nol_codeJamA1	:	3 - 10
+16_1_1_Qshaman_solution	:	1 - 8
+16_1_1_sarneaud_ans	:	4 - 11
+16_1_1_relarge_sol1	:	1 - 8
+16_1_1_dbooth_solve	:	8 - 17
+16_1_1_Gant_a	:	1 - 8
+16_1_1_Aweather_A	:	12 - 19
+16_1_1_layersof_A	:	6 - 16
+16_1_1_jptl_go	:	16 - 24
+16_1_1_Ollie_solve	:	3 - 10
+16_1_1_xuanji_A	:	5 - 12
+16_1_1_rray_solve	:	1 - 8
+16_1_1_jcb_q1	:	20 - 32
+16_1_1_NateW_a	:	6 - 13
+16_1_1_Alon_foo	:	4 - 12
+16_1_1_randomguywithoutaname_A	:	3 - 10
+16_1_1_cptcarrot_proba	:	1 - 8
+16_1_1_powerplane_a	:	5 - 15
+

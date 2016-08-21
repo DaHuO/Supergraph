@@ -1,0 +1,8 @@
+_parse_line def 		30 32
+_strip_data data 		5 6
+_parse_header end_line single_test _parse_line remaining_parsed_data single_test remaining_parsed_data header 		35 42
+_parse_header header_line header_data 		23 27
+_write_output out_lines out_lines = 		9 11
+try_letters win_case try_letters win_case win_case win_case if not garbled return true 		54 72
+try_letters func x words = zero 0 one 1 		45 51
+coding_challenge_specific_io challenge_function parsed_data _strip_data challenge_function parsed_data 		14 20

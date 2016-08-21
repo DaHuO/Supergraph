@@ -1,0 +1,1 @@
+table2 solve s ll = list s rr = while len ll > 0 check_continue = false for idx ccs in table set1 = set 		16 49

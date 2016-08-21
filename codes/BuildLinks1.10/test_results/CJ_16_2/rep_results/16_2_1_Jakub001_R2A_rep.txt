@@ -1,0 +1,3 @@
+def rem inx code 		8 11
+		42 43
+def Solve self code = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE tests = int input for test in range tests txt = 		14 40

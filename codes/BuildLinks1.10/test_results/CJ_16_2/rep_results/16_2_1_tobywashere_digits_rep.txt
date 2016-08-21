@@ -1,0 +1,3 @@
+canTake solve S s = sign = sig S assert len digits 		40 54
+canTake sign d for 		33 38
+def sig S count 		1 7

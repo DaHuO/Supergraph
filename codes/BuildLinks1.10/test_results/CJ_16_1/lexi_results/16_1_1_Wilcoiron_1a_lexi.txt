@@ -1,0 +1,1 @@
+def main global count inp = input temp = inp 0 for i in range 1 len inp if ord temp 0 <= ord inp i temp = inp i + temp else temp = temp + inp i print case #{}: {} format count temp count += 1 		3 13

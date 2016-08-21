@@ -1,0 +1,1 @@
+int_as_str int_values int_as_str int_values = for c in s char_counts c = char_counts get c 0 + 1 = ZERO TWO SIX EIGHT FOUR ONE THREE FIVE 		1 38

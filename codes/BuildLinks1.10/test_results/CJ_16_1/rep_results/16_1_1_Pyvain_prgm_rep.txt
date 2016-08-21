@@ -1,0 +1,1 @@
+def solve word w = word 		4 11

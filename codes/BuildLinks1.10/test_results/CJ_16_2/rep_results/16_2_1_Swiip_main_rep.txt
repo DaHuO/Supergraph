@@ -1,0 +1,2 @@
+canConstructWord available_letters available_letters available_letters for letr in word 		12 21
+def isEmpty dictionary 		23 27

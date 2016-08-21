@@ -1,0 +1,1 @@
+def answer s r = 		3 10

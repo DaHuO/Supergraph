@@ -1,0 +1,1 @@
+def do_case ncase n = parse_line bffs = bffline = parse_line bffline = x - 1 for x 		12 27

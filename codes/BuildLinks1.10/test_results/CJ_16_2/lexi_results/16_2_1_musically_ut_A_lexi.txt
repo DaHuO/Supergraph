@@ -1,0 +1,2 @@
+def get_ph_digits dgs d = d 0 = count dgs Z ZERO d 2 = count dgs W TWO d 4 = count dgs U FOUR d 6 = count dgs X SIX d 8 = count dgs G EIGHT d 1 = count dgs O ONE d 3 = count dgs T THREE d 5 = count dgs F FIVE d 7 = count dgs S SEVEN d 9 = count dgs N NINE assert all dgs x == 0 for x in dgs return join str x * d x for x in range 0 10 		32 49
+def count dgs char nstr c = 0 while dgs char > 0 c += 1 for x in nstr dgs x -= 1 return c 		9 15

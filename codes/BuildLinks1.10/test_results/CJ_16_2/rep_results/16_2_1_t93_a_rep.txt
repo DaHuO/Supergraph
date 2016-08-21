@@ -1,0 +1,1 @@
+def main t = int raw_input for ti in xrange t inp = raw_input counts 		8 27

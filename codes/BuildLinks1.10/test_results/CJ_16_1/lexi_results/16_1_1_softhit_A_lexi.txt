@@ -1,0 +1,1 @@
+def solve words h = for i c in enumerate words idx = 0 if i == 0 h append c else if c >= h 0 h insert 0 c else h append c w = join h return w 		5 19

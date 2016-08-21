@@ -1,0 +1,3 @@
+def solve i line string = str line replace \n numbers = n1 string = processuniquedict string uniquedict1 n2 string = processuniquedict string uniquedict2 numbers extend n1 numbers extend n2 nines = string count I numbers extend 9 * nines outnum = join str x for x in sorted numbers print outnum output i outnum 		38 51
+def processuniquedict string udict numbers = for key in udict keys charcount = string count key numbers extend charcount * udict key for char in list numtolet udict key string = string replace char charcount return numbers string 		28 36
+def output i out with open A-large.out a as outfile outfile write Case #{0}: {1}\n format i out 		3 5

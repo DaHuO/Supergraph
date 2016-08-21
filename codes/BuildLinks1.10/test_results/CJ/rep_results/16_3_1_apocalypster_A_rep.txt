@@ -1,0 +1,2 @@
+allsame l for 		1 5
+allzero l 		7 11

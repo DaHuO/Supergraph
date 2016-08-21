@@ -1,0 +1,4 @@
+def resolve line r = line 0 for c in line 1 a = r + c b = c + r r = max a b return r 		3 9
+def get_line try return raw_input 		33 35
+def main t = int get_line for t in xrange t print case #{}: {} format t + 1 resolve raw_input 		15 18
+def _main t = int get_line line = get_line i = 1 while line print case #{}: {} format i resolve line line = get_line i += 1 		22 30

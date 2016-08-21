@@ -1,0 +1,5 @@
+splitln splitln splitln 		45 49
+generateAllMatchingScores doCase stuff digits = scores = stuff minDiff = - 1 minScores = - 1 win = None 		82 104
+generateAllMatchingScores totalScore vScores questionMarks maxValue questionMarks questionValue questionValue maxValue qString questionValue questionMarks newT totalScore qString newT 		55 80
+def 		51 53
+runSolution inFile lines = open inFile mode = r readlines ln = 0 cases = int 		20 42

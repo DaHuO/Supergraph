@@ -1,0 +1,1 @@
+first_round second_round loner loner = 0 * 26 for character in s count ord character - ord A += 1 ans = 0 * 10 		29 55

@@ -1,0 +1,27 @@
+
+With same rare tokens:
+147 - 152 links:
+mth_A	:	55 - 83
+fandersen_GCJ	:	109 - 142
+tpablo_main-large	:	209 - 220
+
+133 - 145 links:
+fandersen_GCJ	:	109 - 142
+tpablo_main-large	:	209 - 220
+
+48 - 51 links:
+klolos_jam	:	70 - 71
+klolos_jam	:	54 - 59
+
+36 - 41 links:
+Ha.sH_solver	:	88 - 109
+kenneth.maples_showdown	:	13 - 22
+kenneth.maples_showdown	:	24 - 32
+EricDLee_A	:	59 - 69
+
+29 - 34 links:
+Ha.sH_solver	:	88 - 109
+kenneth.maples_showdown	:	13 - 22
+kenneth.maples_showdown	:	24 - 32
+EricDLee_A	:	59 - 69
+

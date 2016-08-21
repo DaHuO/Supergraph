@@ -1,0 +1,1 @@
+def calc s r = 		3 10

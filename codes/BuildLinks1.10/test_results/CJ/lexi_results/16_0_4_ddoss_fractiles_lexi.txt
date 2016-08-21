@@ -1,0 +1,2 @@
+def main num_cases = int sys stdin readline cases = sys stdin readline strip for i in range num_cases memo_dict = for i in range num_cases print case # + str i + 1 + : + str solve cases i 		3 8
+def solve case k c s = case split  k c s = int k int c int s if c * s < k return impossible else i = 0 soln = while i < k choice = 1 for j in range c i = min i k - 1 choice += i * k ** c - j - 1 i += 1 soln += str choice +  return soln 		10 26

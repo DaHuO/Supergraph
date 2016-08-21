@@ -1,0 +1,1 @@
+def solve s d = 0 * 10 d 0 = s count z d 6 = s count x d 2 = s count w d 4 = s count u d 8 = s count g d 7 = s count s - d 6 d 5 = s count v - d 7 d 4 = s count f - d 5 d 3 = s count h - d 8 d 1 = s count o - d 0 - d 2 - d 4 d 9 = s count i - d 5 - d 6 - d 8 out = reduce lambda x y x + y i * d i for i in range 10 out = join str x for x in out return out 		1 16

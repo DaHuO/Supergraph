@@ -1,0 +1,5 @@
+format_output #{case_num}: 		17 18
+format_output run io all_output = 		40 46
+def parse_input io io readline 		20 36
+input_string input_array input_string iter_in input_array iter_in iter_in 		6 15
+def main 		48 50

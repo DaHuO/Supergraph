@@ -1,0 +1,1 @@
+def lastword word if word == return lastletter = max word firstlastindex = word index lastletter return lastletter * word count lastletter + lastword word firstlastindex + filter lambda l l != lastletter word firstlastindex 		1 6

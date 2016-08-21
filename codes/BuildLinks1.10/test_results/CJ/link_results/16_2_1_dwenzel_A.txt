@@ -1,0 +1,16 @@
+
+With same rare tokens:
+13 - 30 links:
+16_3_1_dwenzel_A	:	6 - 7
+16_3_1_dwenzel_A	:	9 - 41
+16_3_1_haoming_supelec_sol	:	4 - 8
+16_3_1_dwenzel_A	:	6 - 7
+16_3_1_dwenzel_A	:	9 - 41
+
+3 - 11 links:
+16_3_1_dwenzel_A	:	6 - 7
+16_3_1_dwenzel_A	:	9 - 41
+
+32 - 36 links:
+16_3_1_haoming_supelec_sol	:	4 - 8
+

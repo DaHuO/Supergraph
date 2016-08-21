@@ -1,0 +1,1 @@
+def remove S nb arr for s in list S arr ord s - 65 = arr ord s - 65 - nb 		4 6

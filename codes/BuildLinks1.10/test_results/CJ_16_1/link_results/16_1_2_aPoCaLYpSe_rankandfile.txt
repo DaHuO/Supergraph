@@ -1,0 +1,12 @@
+Direct links:
+8 - 13 links:
+16_1_2_tintypemolly_rank_and_file	:	5 - 24
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_car03e_rank_file	:	35 - 59
+
+
+With same rare tokens:
+33 - 57 links:
+16_1_1_gagarin_main	:	27 - 36
+16_1_1_gagarin_main	:	10 - 25
+

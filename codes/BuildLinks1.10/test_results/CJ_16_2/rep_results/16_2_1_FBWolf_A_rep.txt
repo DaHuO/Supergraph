@@ -1,0 +1,1 @@
+guess_order digit_to_str origin total_letter_count = digit_count = for c in origin if c not in 		7 28

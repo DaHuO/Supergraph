@@ -1,0 +1,8 @@
+ford_fulkerson parents parents parents parents rv = set real_edges = defaultdict set for e in edges lv add 0 e 0 rv add 1 e 1 real_edges 0 e 0 add 1 		46 83
+		7 8
+def readarray 		11 12
+is_prime N i = 3 if 		35 43
+gen_primes max primes = 1 * max + 1 for 		25 32
+GCD a 		19 22
+		3 4
+readlinearray foo 		15 16

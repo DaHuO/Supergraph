@@ -1,24 +1,16 @@
-48 - 49 links:
-gilesg_A	:	61 - 65
-Zark_CJ201620A	:	12 - 13
+
+With same rare tokens:
+147 - 166 links:
+bigOnion_rps	:	87 - 113
 
 209 - 220 links:
 Ha.sH_solver	:	17 - 46
 
-147 - 166 links:
-bigOnion_rps	:	87 - 113
-
-99 - 106 links:
-farin_a	:	79 - 88
-
-35 - 41 links:
-codespam_q1	:	19 - 32
-
 193 - 206 links:
 Strikeskids_A	:	59 - 63
 
-108 - 132 links:
-Zark_CJ201620A	:	59 - 64
+35 - 41 links:
+codespam_q1	:	19 - 32
 
 135 - 144 links:
 bigOnion_rps	:	87 - 113

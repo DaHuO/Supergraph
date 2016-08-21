@@ -1,0 +1,2 @@
+def jout filename results linebreaks = false f = open download_dir + filename + .out w for n in range len results f write case # + str n + 1 + : if isinstance n list if linebreaks f write \n f write  join n else if linebreaks f write \n f write str results n + \n 		6 17
+def jopen filename return open download_dir + filename + .in r 		3 4

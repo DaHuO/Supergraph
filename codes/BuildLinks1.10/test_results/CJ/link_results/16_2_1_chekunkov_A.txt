@@ -1,0 +1,23 @@
+Direct links:
+6 - 11 links:
+16_3_1_chekunkov_A	:	10 - 15
+
+14 - 15 links:
+16_3_1_chekunkov_A	:	18 - 19
+
+
+With same rare tokens:
+6 - 11 links:
+16_3_1_chekunkov_A	:	10 - 15
+16_2_2_liar_B	:	58 - 68
+16_3_1_chekunkov_A	:	10 - 15
+16_3_1_chekunkov_A	:	10 - 15
+16_2_2_liar_B	:	58 - 68
+16_3_1_chekunkov_A	:	10 - 15
+
+64 - 70 links:
+16_2_1_3190m_a	:	11 - 29
+16_2_1_3190m_a	:	11 - 29
+16_2_1_3190m_a	:	11 - 29
+16_2_1_3190m_a	:	11 - 29
+

@@ -1,0 +1,1 @@
+def check S num if Z in S S remove Z S remove E S remove R S remove O num append 0 return elif W in S S remove T S remove W S remove O num append 2 		12 82

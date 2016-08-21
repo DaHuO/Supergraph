@@ -1,0 +1,3 @@
+contain_num nums_word num num_chs = list 		13 22
+contain_num correct correct num if num == 10 return 0 if 		34 53
+nums_word remove_num arr num num_chs = 		24 31

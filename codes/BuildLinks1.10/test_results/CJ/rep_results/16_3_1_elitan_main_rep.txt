@@ -1,0 +1,1 @@
+psum tw psum psum int input for tc in range t n = int input p = list map int input split  = sum p out = list for 		5 42

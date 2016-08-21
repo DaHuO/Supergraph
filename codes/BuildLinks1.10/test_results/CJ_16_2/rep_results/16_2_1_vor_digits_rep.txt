@@ -1,0 +1,4 @@
+lettersCountToKey MEMO MEMO MEMO theKey = lettersCount ans = get theKey None if ans != None return ans for i in 		30 58
+lettersCountToKey KEYS theKey = 		17 22
+def pre numbers keys 		6 13
+strDigits strDigits lettersCount = 		24 28

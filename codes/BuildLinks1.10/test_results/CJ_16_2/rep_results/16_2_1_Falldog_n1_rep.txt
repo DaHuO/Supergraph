@@ -1,0 +1,10 @@
+zc z_n zc z_n num_word num2word num_word WordCounter WordCounter 		51 63
+num2word DIGIT 		38 42
+def total self 		24 28
+def set 		21 23
+def __init__ 		17 20
+__eq__ self wc for k 		29 33
+def z_count word 		44 49
+zc zc word = 		65 70
+num2word_count DIGIT 		35 36
+def main filename = sys argv 1 with 		72 79

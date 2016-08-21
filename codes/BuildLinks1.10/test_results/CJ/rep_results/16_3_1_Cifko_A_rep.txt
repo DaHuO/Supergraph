@@ -1,0 +1,1 @@
+def sol n = int f readline p = map int f readline split  		4 21

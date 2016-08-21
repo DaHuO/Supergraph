@@ -1,0 +1,1 @@
+def find a b pos if not ? in a + b return abs int a - int b a b if a pos != ? and b pos != ? return 		1 16

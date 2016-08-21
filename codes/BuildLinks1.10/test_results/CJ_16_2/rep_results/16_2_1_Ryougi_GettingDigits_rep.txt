@@ -1,0 +1,7 @@
+def contain d counts tmp = 		39 46
+toNumber newRe newRe newRe newRe i in 		81 94
+toCounts s counts = 		48 55
+preProcess ma = for d in DIGITS for c in 		17 31
+def isEmpty counts 		33 37
+def info counts = for i in 		5 15
+toPhoneNum restRe toPhoneNum restRe re = if isEmpty counts valid = True else for 		57 79

@@ -1,0 +1,2 @@
+def getnum word num result = for char in word if char == ? num tmp = divmod num 10 result += %d % tmp elif char ==  result +=  else result += char return result 		7 20
+def getscore code jam diff = int code - int jam return diff 		22 24

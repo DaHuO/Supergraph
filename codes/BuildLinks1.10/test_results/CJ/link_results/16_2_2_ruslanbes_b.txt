@@ -1,0 +1,78 @@
+
+With same rare tokens:
+116 - 125 links:
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+16_2_2_AJ721_Round1B-B	:	93 - 130
+
+5 - 9 links:
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+16_1_2_KidDino90_main	:	15 - 82
+
+12 - 113 links:
+16_0_4_druidh_sol_d_dummy	:	4 - 11
+16_0_4_druidh_sol_d_dummy	:	4 - 11
+16_0_4_druidh_sol_d_dummy	:	4 - 11
+16_0_4_druidh_sol_d_dummy	:	4 - 11
+16_0_4_druidh_sol_d_dummy	:	4 - 11
+16_0_4_druidh_sol_d_dummy	:	4 - 11
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+16_2_2_stoney_solve	:	3 - 55
+

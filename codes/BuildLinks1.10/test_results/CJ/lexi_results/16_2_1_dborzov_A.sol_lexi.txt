@@ -1,0 +1,3 @@
+def readline return input_data readline rstrip 		12 13
+def how_many_keys count key_letter return count key_letter 		52 53
+def substract count minus repeats for letter num in minus iteritems count letter = count letter - repeats * minus letter 		62 64

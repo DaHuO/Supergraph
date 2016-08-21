@@ -1,0 +1,1 @@
+def solve inp numbers = for i in range inp count Z numbers append 0 for l in ZERO inp remove l for i in range inp count W numbers append 2 for l in 		5 54

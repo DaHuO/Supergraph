@@ -1,0 +1,1 @@
+def red d letter num_str if letter in d and d letter > 0 count = d letter for c in num_str d c -= count if d c < 0 print DAMN + str letter +  + num_str print d return count else return 0 		7 17

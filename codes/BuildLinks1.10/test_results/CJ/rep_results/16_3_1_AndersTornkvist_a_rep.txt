@@ -1,0 +1,26 @@
+def 		28 29
+__enter__ reading {0}, outputting input_file_name input_file_name format 		67 75
+hashable __call__ self * args if not 		18 26
+def __get__ 		31 32
+_read_x_lines _read_line self 		194 201
+solve_problem all_needed assertionerror input/output opened. first_line first_line n_test_cases first_line n_test_cases input_vars _read_input_for_case input_vars all_needed _write_output_for_case all_needed _change_all_results n_test_cases _write_output_for_case 		90 122
+problema solve_problem 		285 287
+def 		36 37
+_read_input_for_case number_of_parties number_of_parties = 		238 241
+_read_n_and_first_line _read_n_and_x_lines split_lines = false 		209 211
+__exit__ exc_type exc_val exc_tb exc_type 1024 assertionerror finally 		77 88
+_read_x_lines self x = 1 split_lines = false map_func = none lines 		172 192
+_read_input_for_case 		134 139
+		235 236
+		230 231
+def __init__ 		14 16
+input_file_name _find_input_and_output_files pre_compute _impossible type 		42 48
+number_of_parties number_of_parties assertionerror did if_one_no_more_than if_two_no_more_than current_max n_parties_current_max current_max current_max warning warning: assertionerror correct letters = string ascii_uppercase while current_n taken = 0 for i in range if current_n < 3 taken = n_each_party 		243 282
+_multiple_n_and_repeat_x_lines all_n all_n current_x _read_x_lines current_x all_n false map_func 		213 219
+notimplementederror 		124 129
+_write_output_for_case to_output _format_case_result to_output 		161 170
+_read_n_and_x_lines _read_x_lines x = none split_lines 		203 207
+_repeat_n_and_x_lines all_n _read_n_and_x_lines all_n all_n split_lines = false 		221 228
+_format_case_result should codejamimpossible codejamimpossible _impossible 0.0000000 quantize {0:.7f} _format_case_result case answer not be none 		141 159
+		131 132
+staticmethod _find_input_and_output_files isfile patterns ^[a-z]-large(-(attempt\d?|practice(-\d)?))?\.in$ ^[a-z]-small(-(attempt\d?|practice(-\d)?))?\.in$ ^sample\.in$ patterns compiled_pattern 		50 65

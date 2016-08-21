@@ -1,0 +1,4 @@
+def removeAll numbers digit character word number found = True while found is not None found number = remove digit character word number if found is not None numbers append found return number 		16 22
+def remove digit character word number if character in number for char in word number = number replace char 1 return digit number return None number 		9 14
+def parse filename with open filename as file numbers = file readlines return numbers 1 if len numbers > 0 else 		39 42
+def digits number numbers = number = removeAll numbers 0 Z ZERO number number = removeAll numbers 2 W TWO number number = removeAll numbers 6 X SIX number number = removeAll numbers 8 G EIGHT number number = removeAll numbers 3 T THREE number number = removeAll numbers 7 S SEVEN number number = removeAll numbers 5 V FIVE number number = removeAll numbers 4 U FOUR number number = removeAll numbers 9 I NINE number number = removeAll numbers 1 O ONE number numbers sort return join numbers 		24 37

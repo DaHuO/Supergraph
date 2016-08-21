@@ -1,0 +1,1 @@
+def find_max s word = s 0 s = s 1 for ch in s if ch >= word 0 word = ch + word else word += ch return word 		8 18

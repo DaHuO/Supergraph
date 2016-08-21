@@ -1,0 +1,9 @@
+fractile d fname fin = open fname + .in lines = fin readlines T = 		130 143
+def b fname fin = open fname + .in lines = fin 		27 37
+map1 map2 map3 map1 map2 map3 line = Z 0 ZERO W 2 TWO U 4 FOUR X 		11 24
+fractile IMPOSSIBLE c s if s 		145 150
+isprime sfs sfs n b = bin j 2 s = 1 + 		104 114
+qcs qjs qcs qcs qcs qjs qjs qjs bestdiff bestcoderscore bestjammerscore bestcoderscore bestjammerscore mindiff = float inf None None = coders count ? = jammers count ? for i in range 10 ** si = str 		39 81
+:\n c fname fin = open fname + .in lines = fin readlines T = int lines 0 fout 		85 102
+isprime n if n <= 1 return False if 		118 128
+def a fname fin = open fname + .in lines = 		1 9

@@ -1,0 +1,1 @@
+def get_biggest_word line line = line strip initial_word = line word = initial_word 0 for ch in initial_word 1 if ch >= word 0 word = ch + word else word = word + ch return word 		12 22

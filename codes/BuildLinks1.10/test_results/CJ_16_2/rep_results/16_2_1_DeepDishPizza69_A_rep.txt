@@ -1,0 +1,4 @@
+numbers_str numbers_str numbers_str digits = digits append ZERO digits append ONE digits append TWO digits append THREE digits append FOUR digits append FIVE digits append SIX digits append SEVEN digits append EIGHT digits append NINE remainDigits = remainDigits append ONE remainDigits append 		30 107
+def checkWord digit line exist 		3 12
+A-small-attempt1.in numOfTestCases numOfTestCases open r as ins 		109 120
+def removeDigit digit line 		15 26

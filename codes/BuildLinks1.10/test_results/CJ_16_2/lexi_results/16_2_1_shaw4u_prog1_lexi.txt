@@ -1,0 +1,1 @@
+def remove alphaBool numStr for x in numStr alphaBool ord x - ord A = alphaBool ord x - ord A - 1 return len numStr 		3 7

@@ -1,0 +1,7 @@
+def 		1 2
+better2 x y X 		22 25
+better2 better2 better2 b pos = 0 cap = 10 if pos == len a return a b if a pos == ? and b pos == ? best = None for i in range 10 for j 		87 118
+def pad s 		81 84
+def better x y diff1 = abs x 0 - x 		5 19
+def solve a b y 		121 123
+choice2 choice2 choice2 choice3 choice3 choice3 Wasnt supposed be here len a return A B c1 = a pos c2 = b pos if c1 != ? and c2 != ? return rec a b pos + 1 A * 10 + digit c1 B * 10 + digit c2 if c1 == ? and c2 == ? if A < B return rec a b pos + 1 A * 10 + 9 B * 10 if A > B return rec a b pos + 		28 78

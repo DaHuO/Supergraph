@@ -1,0 +1,1 @@
+def solve s winner = s 0 for i in xrange 1 len s z = s i if winner + z > z + winner winner += z else winner = z + winner return winner 		8 16

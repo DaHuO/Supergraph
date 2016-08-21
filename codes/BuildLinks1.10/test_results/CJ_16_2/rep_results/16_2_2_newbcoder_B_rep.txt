@@ -1,0 +1,1 @@
+curmin curmin curmin curmin pd pd pd pd 3 posC = 1 2 3 for i in range len J if C i == ? and J i == ? posJ i = 0 1 9 posC i = 0 1 9 elif C i == ? J i = int J i posJ i = J i posC i = list range 10 continue if int J i == 0 or int J i == 9 posC i = 0 1 9 else posC i = J i - 1 J i J i + 1 elif J i == ? C i = int C i posC i = C i posJ i = list range 		6 142

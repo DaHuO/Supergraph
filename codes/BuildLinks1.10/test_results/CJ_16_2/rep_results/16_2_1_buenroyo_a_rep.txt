@@ -1,0 +1,1 @@
+consumeNumber consumeNumber numbers if len stack > 0 letter = stack 0 candidates = dic letter for c in 		17 38

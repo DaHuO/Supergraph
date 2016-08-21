@@ -1,0 +1,2 @@
+def main t 		8 12
+def solve k 		3 5

@@ -1,0 +1,2 @@
+get_output path_to_index c s if c * s < k return impossible current = 		7 20
+path_to_index path_to_index k if 		1 5

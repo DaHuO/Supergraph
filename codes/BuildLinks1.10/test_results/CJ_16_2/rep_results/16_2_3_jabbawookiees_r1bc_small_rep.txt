@@ -1,0 +1,2 @@
+first_origs second_origs first_origs second_origs first_origs second_origs = 		9 18
+def powerset iterable xs 		4 6

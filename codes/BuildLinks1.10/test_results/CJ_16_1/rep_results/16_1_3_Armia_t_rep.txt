@@ -1,0 +1,1 @@
+addst bbf bbf addst bbf 1 nxt = cir - 1 if len cir > 1 and nxt == 		12 34

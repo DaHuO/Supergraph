@@ -1,0 +1,2 @@
+def play_game string if len string == 1 return true winners = for i in xrange 0 len string 2 letters = sorted string i string i + 1 if string i == string i + 1 return false elif letters == r s winners append r elif letters == p r winners append p else winners append s return play_game join winners 		7 21
+def answer n r p s string = r * r + p * p + s * s works = none for permutation in permutations string permutation = join permutation if play_game permutation if works is none or permutation < works works = permutation if works return works return impossible 		24 34

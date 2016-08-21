@@ -1,0 +1,10 @@
+Direct links:
+16 - 19 links:
+16_1_2_d_operator_B	:	16 - 19
+16_1_3_d_operator_C	:	37 - 40
+
+
+With same rare tokens:
+16 - 19 links:
+16_1_1_JVirak_A	:	53 - 56
+

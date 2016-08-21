@@ -1,0 +1,2 @@
+def f s sc = Counter s ret = 		5 15
+def g s ret = uniques = Z 0 W 2 U 4 X 6 G 		17 33

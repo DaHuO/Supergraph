@@ -1,0 +1,1 @@
+solve_riddle 48 counter = dict for i in range 26 counter chr 65 + i = 0 for c in input if c in counter counter c 		6 30

@@ -1,0 +1,1 @@
+def number line letters = numbers = for char in line if char in letters letters char += 1 else letters char = 1 if Z in letters while letters Z > 0 letters Z -= 1 letters E -= 1 letters R -= 1 letters O -= 1 numbers append 0 if X in letters while letters X > 0 letters S 		6 97

@@ -1,0 +1,5 @@
+def contains a b for k v in b iteritems if a k < v return false return true 		20 24
+def make_lcd s ss = defaultdict int for i in s ss i += 1 return ss 		14 18
+def solve s n = ss = make_lcd s if debug print ss: ss for ds dn in digits d = make_lcd ds while contains ss d n append dn for k v in d iteritems ss k -= v if debug print dn / ss if debug print n if not empty ss return szar: %s % ss else return join map str sorted n 		32 45
+def empty lcd for k v in lcd iteritems if v > 0 return false return true 		26 30
+def read_input data = sys stdin read split for _ in xrange int data pop 0 n = data pop 0 yield n 		4 8

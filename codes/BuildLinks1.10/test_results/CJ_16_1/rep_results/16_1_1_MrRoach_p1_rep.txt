@@ -1,0 +1,1 @@
+def solve w lastword = 		1 8

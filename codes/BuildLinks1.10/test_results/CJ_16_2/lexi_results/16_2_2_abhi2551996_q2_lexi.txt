@@ -1,0 +1,1 @@
+def match j k for i in range len j if j i != ? if j i != k i return 0 break return 1 		1 8

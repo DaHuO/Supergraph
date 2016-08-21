@@ -1,0 +1,1 @@
+def solve mat n d = defaultdict int for row in mat for col in row d col += 1 res = for n cnt in d items if cnt % 2 == 1 res append n res sort return res 		5 15

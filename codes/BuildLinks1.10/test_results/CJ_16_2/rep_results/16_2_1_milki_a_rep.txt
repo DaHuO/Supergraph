@@ -1,0 +1,2 @@
+def output casenum 		39 40
+def main T = int raw_input for i in xrange T S 		19 36

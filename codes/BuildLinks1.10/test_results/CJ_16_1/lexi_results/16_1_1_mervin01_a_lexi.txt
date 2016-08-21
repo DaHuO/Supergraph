@@ -1,0 +1,1 @@
+def solve_case inputs print inputs temp_string = inputs 0 for letter in inputs 1 if ord letter >= ord temp_string 0 temp_string = letter + temp_string else temp_string = temp_string + letter return temp_string 		22 31

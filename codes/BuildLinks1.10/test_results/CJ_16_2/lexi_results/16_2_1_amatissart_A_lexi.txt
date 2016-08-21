@@ -1,0 +1,1 @@
+def isin number digit dc = Counter digit for c in dc if number c < dc c return False return True 		8 13

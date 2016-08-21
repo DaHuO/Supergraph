@@ -1,0 +1,6 @@
+def ras return list sys stdin readline strip 		6 7
+def ri return int sys stdin readline strip 		4 5
+def solve k c s = rai return  join map str range 1 k + 1 		13 15
+def rai return map int sys stdin readline strip split 		8 9
+def rs return sys stdin readline strip 		2 3
+def raf return map float sys stdin readline strip split 		10 11

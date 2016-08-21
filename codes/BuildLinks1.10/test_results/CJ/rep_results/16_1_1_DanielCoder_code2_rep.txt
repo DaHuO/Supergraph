@@ -1,0 +1,7 @@
+def 		4 5
+getcases parseinput 		40 43
+getoutput solvedcase solvedcase = 		46 50
+parseinput text cases = for 		29 37
+csolvecase letters 		9 11
+def solvecase letters word = 		13 21
+generateoutput getcases solvedcases getoutput solvedcases cases = filename 		52 59

@@ -1,0 +1,1 @@
+def work nlist register = collections defaultdict int largest = - 1 for row in nlist for num in row register num += 1 largest = num if num > largest else largest missing = for i in range 0 largest + 1 if register i % 2 == 1 missing append i return  join str i for i in missing 		6 19

@@ -1,0 +1,1 @@
+def analysis t = raw_input res = for i in t res = max i + res res + i return res 		1 6

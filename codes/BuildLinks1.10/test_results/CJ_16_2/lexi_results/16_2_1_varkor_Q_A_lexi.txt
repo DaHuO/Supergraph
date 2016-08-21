@@ -1,0 +1,3 @@
+def scan string sub n ns osub = + sub rstring = + string for c in string if c in sub sub = sub replace c 1 rstring = rstring replace c 1 if sub == ns append n return scan rstring osub n ns return string 		13 23
+def case x y output Case # + str x + : + str y 		10 11
+def output string string = str string print string outputLines append string 		5 8

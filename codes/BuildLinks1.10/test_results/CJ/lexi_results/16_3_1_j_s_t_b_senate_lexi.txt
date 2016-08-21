@@ -1,0 +1,6 @@
+def total_sen s_in total = 0 for sen in s_in total += sen 1 return total 		27 32
+def evacuate s_in s = sort_senates s_in if remaining_parties s == 1 raise valueerror only one party if remaining_parties s == 2 if s 0 1 > s 1 1 s 0 1 -= 1 return s s 0 0 else s 0 1 -= 1 s 1 1 -= 1 return s s 0 0 + s 1 0 if s 0 1 - s 1 1 >= 2 s 0 1 -= 2 return s s 0 0 * 2 if remaining_parties s >= 4 if s 0 1 > 1 s 0 1 -= 2 return s s 0 0 * 2 else s 0 1 -= 1 s 1 1 -= 1 return s s 0 0 + s 1 0 else if s 0 1 == 1 s 0 1 -= 1 return s s 0 0 else s 0 1 -= 1 s 1 1 -= 1 return s s 0 0 + s 1 0 		34 70
+def remaining_parties s_in parties = 0 for sen in s_in if sen 1 parties += 1 return parties 		72 77
+def sort_senates s assert type s == list return sorted s key = lambda x x 1 reverse = true 		10 12
+def has_remaining s_in return bool total_sen s_in 		24 25
+def has_majority s_in s = sort_senates s_in maxvotes = s 0 1 other_votes = 0 for i in range 1 len s other_votes += s i 1 return maxvotes > other_votes 		14 21

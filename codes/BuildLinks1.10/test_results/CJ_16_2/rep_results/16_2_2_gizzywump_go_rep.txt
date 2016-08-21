@@ -1,0 +1,6 @@
+_getKey ImmutableDict 		32 33
+do_trial switch_idx min_1 min_1 min_2 switch_idx min_1 min_2 t1p t2p switch_idx switch_idx t1p t1p t1p does_match t2p t2p t2p does_match bv1 bv2 bv1 bv2 in enumerate zip s1 s2 if c1 == c2 and c2 == ? if state == min_both r1 append 0 r2 append 0 r1p append 0 r2p append 0 continue elif state == r1 append 0 r2 append 9 r1p append 9 r2p append 0 		44 143
+_cache _callable 		20 22
+_cache _getKey self * 		24 27
+does_match n s if len n 		35 41
+def debug 		15 17

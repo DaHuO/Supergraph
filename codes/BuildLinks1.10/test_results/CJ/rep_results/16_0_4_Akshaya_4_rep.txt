@@ -1,0 +1,2 @@
+def ceil b d 		9 13
+chunksize chunksize chunksize chunksize chunksize if k <= c ignore = 0 i = 1 chunk = = pow k c - 1 while i <= 		16 42

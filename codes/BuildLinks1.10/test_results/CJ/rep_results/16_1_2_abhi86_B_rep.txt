@@ -1,0 +1,1 @@
+get_missing_row soldiers num_count = for row in soldiers for 		3 17

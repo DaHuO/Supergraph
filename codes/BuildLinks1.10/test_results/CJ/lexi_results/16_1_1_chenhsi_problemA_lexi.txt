@@ -1,0 +1,4 @@
+def solvespecific s if len s <= 1 return s highest = chr max map ord s split = s split highest pre = highest * len split - 1 post = join split 1 return pre + solvespecific split 0 + post 		19 26
+def loaddata instancenumber problem = a filename = problem + -small-attempt + str instancenumber + .in if instancenumber == - 1 filename = problem + -large.in with open filename rb as f return line for line in f 		12 17
+def solve instancenumber data = loaddata instancenumber outputfile = open solutiona.txt wb t = int data 0 for j in range 1 t + 1 outputfile write case # + str j + : + solvespecific data j strip + \n outputfile close 		1 9
+def check with open solutiona.txt rb as f i = 0 for line in f print line - 1 i += 1 if i == 20 break 		28 35

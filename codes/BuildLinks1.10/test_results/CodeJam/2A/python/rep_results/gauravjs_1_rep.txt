@@ -1,2 +1,2 @@
 def order2 p order ordering = if order == 0 ordering = P R S 		1 21
-pnext rnext snext pnext rnext snext pnext rnext snext rnext pnext snext hands - s = 2 ** n - 1 		26 51
+hands rps n r p s order pnext = 2 ** n - 1 - s rnext = 2 ** n 		26 51

@@ -1,0 +1,1 @@
+#{0}:{1}\n 1\n 1\n #{0}:{1}\n s t if c == 1 if s < k sys stdout write case #{0}: impossible\n format tt else sys stdout write case format tt join  + str x 		5 27

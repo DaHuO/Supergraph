@@ -1,0 +1,5 @@
+rem_keys rem_keys rem_keys assert isinstance txt str values = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE 		32 86
+filter_out txt name for 		13 18
+rem_keys filter_out txt delta = 		21 29
+def solve fd total = 		89 102
+def start if len 		105 110

@@ -1,0 +1,1 @@
+def work input_string result = input_string 0 for i in range 1 len input_string if input_string i < result 0 result = result + input_string i else result = input_string i + result return result 		6 13

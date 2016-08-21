@@ -1,0 +1,1 @@
+def sub dic1 dic2 x for i in dic2 dic1 i -= dic2 i * x 		44 46

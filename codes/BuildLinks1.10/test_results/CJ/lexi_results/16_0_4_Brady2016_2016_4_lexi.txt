@@ -1,0 +1,1 @@
+def doit2 k c s minanswer = k - c + 1 if minanswer < 1 minanswer = 1 if minanswer > s return impossible if c > k c = k first = 0 for index in range 1 c first = int first + math pow k c - 1 - index * index first = first + 1 result2 = for ans in range minanswer result2 = result2 + str first + ans +  return result2 		52 68

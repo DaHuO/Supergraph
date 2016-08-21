@@ -1,0 +1,2 @@
+def step l n p r s if p < 0 or r < 0 or s < 0 return false if drawing l return false if n == 0 return l res = step l + p n - 1 p - 1 r s if res return res res = step l + r n - 1 p r - 1 s if res return res res = step l + s n - 1 p r s - 1 if res return res return false 		22 40
+def drawing l if len l < 2 return false s = for i in range 0 len l + 1 2 p = l i i + 2 if p in pp rr ss return true if p in pr rp s += p if p in ps sp s += s if p in rs sr s += r return drawing s 		2 18

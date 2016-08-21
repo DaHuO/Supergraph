@@ -1,0 +1,2 @@
+def parser fin return fin readword 		13 14
+def solver data data = list data lastword = data 0 for i in xrange 1 len data if ord data i >= ord lastword 0 lastword = data i + lastword else lastword = lastword + data i return lastword 		17 25

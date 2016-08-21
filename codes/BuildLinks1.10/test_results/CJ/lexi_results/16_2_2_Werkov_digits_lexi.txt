@@ -1,0 +1,3 @@
+def get_diff s w c = s 0 w j = s w return abs int c - int j 		6 9
+def subs mask num b num = str num num = num zfill b z = 0 s = for c in mask if c == ? s append num z z += 1 else s append c return join s 		11 22
+def solve c j assert len c == len j w = len c mask = c + j b = len x for x in mask if x == ? if b == 2 * w z = 0 * w return z z best = none bests = none for i in range 10 ** b s = subs mask i b d = get_diff s w if best == none or d < best best = d bests = s return bests 0 w bests w 		24 44

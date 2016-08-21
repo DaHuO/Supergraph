@@ -1,0 +1,1 @@
+numberofsenators myletters numberofsenators myletters totalsenators numberofsenators totalsenators numberofsenators maxpos numberofsenators numberofsenators maxpos numberofsenators maxpos totalsenators myletters maxpos letters size print 		6 32

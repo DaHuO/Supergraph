@@ -1,0 +1,7 @@
+def isq c return c == ? 		1 2
+def mx b return b replace ? 9 		10 11
+def diff a b return abs int a - int b 		4 5
+def f a b if len a == 0 return p = a 0 q = b 0 ansa ansb = ra = a 1 rb = b 1 if isq p and isq q a3 b3 = f 0 + ra 0 + rb a1 b1 = f 0 + mx ra 1 + mn rb a2 b2 = f 1 + mn ra 0 + mx rb d3 = diff a3 b3 d1 = diff a1 b1 d2 = diff a2 b2 ansa = a3 ansb = b3 d = d3 if d1 < d d = d1 ansa ansb = a1 b1 if d2 < d d = d2 ansa ansb = a2 b2 elif not isq p and not isq q if p < q ansa ansb = p + mx ra q + mn rb elif p > q ansa ansb = p + mn ra q + mx rb else ansa ansb = f ra rb ansa = p + ansa ansb = q + ansb else if isq p qn = int q ansa ansb = f q + ra b if qn > 0 a1 a2 = f str qn - 1 + ra b if diff a1 a2 <= diff ansa ansb ansa ansb = a1 a2 if qn < 9 a1 a2 = f str qn + 1 + ra b if diff a1 a2 < diff ansa ansb ansa ansb = a1 a2 else pn = int p ansa ansb = f a p + rb if pn > 0 a1 a2 = f a str pn - 1 + rb if diff a1 a2 <= diff ansa ansb ansa ansb = a1 a2 if pn < 9 a1 a2 = f a str pn + 1 + rb if diff a1 a2 < diff ansa ansb ansa ansb = a1 a2 return ansa ansb 		13 80
+def main t = int raw_input for t in range 1 t + 1 word = raw_input strip print case #{0}: {1} format t g word 		87 91
+def g s a b = s split m n = f a b return m +  + n 		82 85
+def mn a return a replace ? 0 		7 8

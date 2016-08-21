@@ -1,0 +1,2 @@
+iter_input for 		5 7
+def solve sequence string k c s = string 		10 17

@@ -1,0 +1,1 @@
+def main infile outfile with open infile rt as f t = int f readline 		7 25

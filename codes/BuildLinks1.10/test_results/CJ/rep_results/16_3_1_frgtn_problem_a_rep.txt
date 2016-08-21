@@ -1,0 +1,4 @@
+is_equal_rule party_dict 		9 10
+def main n_cases = int sys stdin 		38 43
+solve_bruteforce is_equal_rule solve_bruteforce not party_dict return choices = list map join itertools combinations party_dict 		13 26
+solve_bruteforce solve t n p party_dict 		29 35

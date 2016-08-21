@@ -1,0 +1,1 @@
+def find_last_word ordered_alphabet word = ordered_alphabet 0 for c in ordered_alphabet 1 if c >= word 0 word insert 0 c else word append c return join word 		4 12

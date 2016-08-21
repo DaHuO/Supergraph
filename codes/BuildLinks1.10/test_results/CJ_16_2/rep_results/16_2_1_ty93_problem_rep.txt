@@ -1,0 +1,4 @@
+get_final_result result_dict final_result = 		15 20
+operation get_final_result sorted_chars = sorted inp result = update_result sorted_chars result 0 		22 35
+get_amount_of_digit letter_to_search letter_to_search amount 		4 9
+letter_to_search get_amount_of_digit letter_to_search 		11 13

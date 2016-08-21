@@ -1,0 +1,2 @@
+mysum l res 		3 7
+def mymax l 		9 13

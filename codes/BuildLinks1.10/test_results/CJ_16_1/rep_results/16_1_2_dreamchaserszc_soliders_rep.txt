@@ -1,0 +1,3 @@
+^ findmissing self table = defaultdict lambda 0 for 		6 17
+def solve 		24 26
+def __init__ self 		19 22

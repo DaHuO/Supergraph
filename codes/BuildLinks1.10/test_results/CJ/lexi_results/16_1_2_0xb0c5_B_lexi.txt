@@ -1,0 +1,1 @@
+def solve l counts = for note in l for soldier in note if not soldier in counts counts soldier = 1 else counts soldier += 1 missing = for soldier in counts if counts soldier % 2 missing append soldier return  join map str sorted missing 		2 15

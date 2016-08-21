@@ -1,0 +1,1 @@
+def generate lst word current if len current 		8 15

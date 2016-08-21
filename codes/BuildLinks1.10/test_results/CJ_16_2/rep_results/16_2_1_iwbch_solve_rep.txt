@@ -1,0 +1,1 @@
+uniq_chars u_char uniq_chars u_char u_char ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE counter = defaultdict lambda 0 for c in string counter c += 1 ans = = Z nums 0 W nums 2 X nums 6 G nums 8 for num in items if 		8 62

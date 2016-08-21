@@ -1,0 +1,1 @@
+def solve n = int input occur = dict for i in range 		5 23

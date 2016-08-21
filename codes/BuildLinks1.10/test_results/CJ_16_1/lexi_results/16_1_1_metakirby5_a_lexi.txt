@@ -1,0 +1,1 @@
+def main * args s = args 0 lw = for c in s if all c >= d for d in lw lw = c + lw else lw = lw + c return lw 		3 11

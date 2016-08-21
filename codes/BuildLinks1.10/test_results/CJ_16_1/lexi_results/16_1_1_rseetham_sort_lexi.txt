@@ -1,0 +1,1 @@
+def sort s s = list s p = s 0 o = p for i in range 1 len s if p <= s i o = s i + o p = s i else o = o + s i return o 		1 11

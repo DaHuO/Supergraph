@@ -1,0 +1,1 @@
+def build_tree top h if h == 1 outp = mat top 0 0 0 outp 1 + top += 1 return outp else k = top top + 1 % 3 k sort f = build_tree k 0 h - 1 s = build_tree k 1 h - 1 k = f 0 s 0 k sort return k 0 + k 1 f 1 + s 1 f 2 + s 2 f 3 + s 3 		16 28

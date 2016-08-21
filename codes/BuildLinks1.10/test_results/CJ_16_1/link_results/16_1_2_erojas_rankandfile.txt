@@ -1,0 +1,18 @@
+Direct links:
+9 - 10 links:
+16_1_1_dpforest_A	:	18 - 20
+16_1_1_parth8891_FileHandling	:	3 - 8
+16_1_2_dpforest_B	:	29 - 31
+16_1_3_dpforest_Cs	:	23 - 25
+
+33 - 35 links:
+16_1_1_erojas_lastword	:	32 - 34
+
+
+With same rare tokens:
+33 - 35 links:
+16_1_1_erojas_lastword	:	32 - 34
+16_1_1_erojas_lastword	:	32 - 34
+16_1_1_erojas_lastword	:	32 - 34
+16_1_1_erojas_lastword	:	32 - 34
+

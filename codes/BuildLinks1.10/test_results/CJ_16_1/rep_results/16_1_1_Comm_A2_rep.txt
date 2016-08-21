@@ -1,0 +1,2 @@
+def solve i line outstring = for 		7 17
+def output i 		3 5

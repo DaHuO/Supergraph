@@ -1,0 +1,2 @@
+def get_ans s ss = gen_string s ss sort return ss - 1 		31 35
+def gen_string s sl = s = list s for es in s tsl = t for t in sl nl = for esl in tsl org = esl s1 = esl + es s2 = es + esl nl append s1 nl append s2 sl = nl if sl == sl append es return sl 		2 28

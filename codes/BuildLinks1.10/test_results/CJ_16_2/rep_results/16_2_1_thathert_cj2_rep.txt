@@ -1,0 +1,7 @@
+readl 		16 17
+output_results results f for 		65 67
+def dec occs 		40 44
+reuse_number reuse_number reuse_number skip_number skip_number skip_number all map lambda x x == 0 occs values return 		47 62
+description The prices are mixed! ./data/in ./data/out output_results add_argument file type = 		82 91
+def process line occs = 		33 37
+readl readl StopIteration test_cases 		70 79

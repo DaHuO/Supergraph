@@ -1,0 +1,1 @@
+def main s q = deque q 		4 13

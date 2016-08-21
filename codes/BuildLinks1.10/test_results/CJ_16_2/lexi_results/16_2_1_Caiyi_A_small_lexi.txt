@@ -1,0 +1,3 @@
+def write_res file_name res with open file_name w as f res_str = for i in range len res - 1 res_str += Case #{}: format i + 1 + str res i + \n res_str += Case #{}: format i + 2 + str res - 1 f write res_str 		8 14
+def split s word D = defaultdict list for i in range len s D s i append i for l in word if l not in D or len D l == 0 return None D l pop ind = for key in D ind += D key return s ind 		40 72
+def helper s res l start for i in range start 10 tmp = split s digits i if tmp == None continue if len tmp == 0 res append l + str i return res else helper tmp res l + str i i return res 		84 99

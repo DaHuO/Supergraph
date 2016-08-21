@@ -1,0 +1,2 @@
+strred s sub d1 = dict for c in s if not c in d1 		8 32
+strred fa2 fa2 strred open sys argv 1 t = int f readline strip for kk in xrange t line = f readline line = 		34 62

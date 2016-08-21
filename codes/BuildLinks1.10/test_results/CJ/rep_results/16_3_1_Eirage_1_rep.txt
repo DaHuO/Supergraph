@@ -1,0 +1,1 @@
+def good x m = sum p - 		1 10

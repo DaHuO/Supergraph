@@ -1,0 +1,7 @@
+def foo ifile n = int 		56 61
+yy2 yy2 i if i == 1 		23 31
+def main ifile = sys 		63 68
+foo3 foo2 a 		49 53
+def cc n i if i == 1 for 		5 20
+yy2 yy n i n2 = list 		33 38
+foo3 a x for i in range 		40 47

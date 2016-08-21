@@ -1,0 +1,1 @@
+def lastword w word = w 0 for i in range 1 len w if ord w i >= ord word 0 word = w i + word else word = word + w i return word 		1 9

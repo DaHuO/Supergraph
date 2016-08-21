@@ -1,0 +1,1 @@
+def solve lst fs r nxt = fs lst - 1 if nxt not in lst solve lst + nxt fs r else if nxt == lst 0 if len lst > r 0 r 0 = len lst if nxt == lst - 2 if fs lst 1 == lst 0 and len lst > r 0 r 0 = len lst for j in xrange 1 len fs if j not in lst solve lst + j fs r 		4 17

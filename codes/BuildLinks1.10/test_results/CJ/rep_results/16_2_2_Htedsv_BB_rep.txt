@@ -1,0 +1,2 @@
+deep ss1 deep ss1 ss2 deep ss2 ? ans = none if p1 > - 1 for i in range 		8 27
+def eva 		4 6

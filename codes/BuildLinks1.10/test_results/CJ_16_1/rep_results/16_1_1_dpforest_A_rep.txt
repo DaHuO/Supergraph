@@ -1,0 +1,10 @@
+def solve f skip = false 		7 15
+read_str_list self 		44 46
+def read_int 		22 24
+read_float_list self 		38 40
+read_long_list self 		41 43
+def read_int_list 		35 37
+def read_str 		31 33
+def read_float 		25 27
+def __init__ 		18 20
+read_long self 		28 30

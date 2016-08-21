@@ -1,0 +1,3 @@
+def solve S count = defaultdict int ret = 		22 33
+_in 		5 5
+def 		6 6

@@ -1,0 +1,10 @@
+def solve f skip = false s = f read_str if skip return 0 ans = for si in s ans = max ans + si si + ans return ans 		7 15
+def read_long_list self self linenum += 1 return map long self f readline split 		41 43
+def read_long self self linenum += 1 return long self f readline strip 		28 30
+def read_float_list self self linenum += 1 return map float self f readline split 		38 40
+def read_str_list self self linenum += 1 return self f readline split 		44 46
+def read_float self self linenum += 1 return float self f readline strip 		25 27
+def read_int self self linenum += 1 return int self f readline strip 		22 24
+def read_int_list self self linenum += 1 return map int self f readline split 		35 37
+def __init__ self filename self f = open filename self linenum = 1 		18 20
+def read_str self self linenum += 1 return self f readline strip 		31 33

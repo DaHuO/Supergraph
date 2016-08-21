@@ -1,0 +1,3 @@
+def read_int_list line separator =  return map int line strip split separator 		56 57
+def output_case i result output = case i + 1 result result print case #%(case)s: %(result)s % output 		59 64
+def solve height_lists n i occurrances = defaultdict int for lst in height_lists for x in lst occurrances x += 1 missing = for x mult in occurrances iteritems if mult % 2 != 0 missing append x missing sort return  join map str missing 		19 33

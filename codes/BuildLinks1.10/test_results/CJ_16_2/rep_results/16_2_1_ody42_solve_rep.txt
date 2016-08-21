@@ -1,0 +1,9 @@
+def main T = int sys 		168 174
+NumberName remove self i n = 		39 47
+def __init__ self S self counts = defaultdict int 		9 20
+uniq_letters_2 Counts (%s) counts.remove(%s, counts.counts['%s']) NumberNames i for i in 		127 137
+generate_code Counts (%s) counts.counts['%s'] ans.extend([%s]*n) counts.remove(%s, n) FAIL Removed = join NumberNames i for i in indexes new_indexes = set indexes 		142 164
+uniq_letters 		122 125
+all_zero self 		49 52
+{ toString self ret = ret 		54 60
+Counts all_zero S counts = S ans = counts remove 8 counts counts G counts remove 4 counts counts U counts 		64 119

@@ -1,0 +1,1 @@
+def func word center = word 0 		1 9

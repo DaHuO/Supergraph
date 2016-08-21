@@ -1,0 +1,2 @@
+permute permute jint sjint jint sjint jint sjint jint sjint deepcopy answers answers = j js = copy deepcopy answers answers = 		13 48
+permute qpos qpos permute qpos qpos 		50 58

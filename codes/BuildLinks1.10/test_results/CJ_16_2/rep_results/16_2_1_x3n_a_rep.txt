@@ -1,0 +1,2 @@
+dec1 c character string n 		15 21
+dec1 decode s global dic c 		23 32

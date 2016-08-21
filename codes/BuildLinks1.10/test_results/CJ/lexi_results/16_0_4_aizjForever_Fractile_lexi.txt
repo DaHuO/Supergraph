@@ -1,0 +1,2 @@
+def readfile path with open path rt as f return f read 		1 3
+def writefile path contents with open path wt as f f write contents 		5 7

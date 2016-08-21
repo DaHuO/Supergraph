@@ -1,0 +1,27 @@
+Direct links:
+128 - 129 links:
+16_1_2_LinesPrower_r1a	:	55 - 56
+
+124 - 125 links:
+16_1_2_LinesPrower_r1a	:	53 - 54
+
+140 - 141 links:
+16_1_2_LinesPrower_r1a	:	61 - 62
+
+132 - 133 links:
+16_1_2_LinesPrower_r1a	:	57 - 58
+
+
+With same rare tokens:
+124 - 125 links:
+16_1_2_LinesPrower_r1a	:	53 - 54
+
+132 - 133 links:
+16_1_2_LinesPrower_r1a	:	57 - 58
+
+140 - 141 links:
+16_1_2_LinesPrower_r1a	:	61 - 62
+
+104 - 117 links:
+16_3_1_AlixMartin_senate	:	1 - 11
+

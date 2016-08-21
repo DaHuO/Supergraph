@@ -1,0 +1,2 @@
+def solver data n data = data data sort print data missing = count = for n in xrange n for d in data if not d n in count count d n = 0 count d n += 1 for key in count if count key % 2 == 1 missing append key missing sort print missing return  join map str missing 		21 39
+def parser fin n = fin readint data = for _ in xrange 2 * n - 1 data append fin readints return n data 		13 18

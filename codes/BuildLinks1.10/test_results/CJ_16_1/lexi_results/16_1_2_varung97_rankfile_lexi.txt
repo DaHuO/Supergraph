@@ -1,0 +1,1 @@
+def rankfile soldiers soldiers = map int soldiers split  last = set for i in soldiers num = soldiers count i if num % 2 == 1 last add i return  join map str sorted list last 		3 11

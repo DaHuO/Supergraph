@@ -1,0 +1,5 @@
+wrappedRec ansstr ansstr ansstr answer 		60 69
+checkAllZero numdict for 		21 25
+def getDigit strnum numdict 		1 8
+startI checkAllZero startI numCharList numCharList elechar notContain elechar elechar elechar notContain notContain containMinus 		35 58
+containMinus numdict for 		27 31

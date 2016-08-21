@@ -1,0 +1,2 @@
+def main t = int raw_input for i in range t print case #%s: %s % i + 1 last_word raw_input 		13 16
+def last_word s out = s 0 for c in s 1 if c >= out 0 out = c + out else out += c return out 		4 11

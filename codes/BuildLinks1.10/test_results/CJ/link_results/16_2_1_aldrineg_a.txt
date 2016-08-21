@@ -1,0 +1,36 @@
+Direct links:
+11 - 15 links:
+16_3_1_aldrineg_a	:	11 - 15
+16_3_1_aldrineg_a	:	5 - 9
+16_2_2_aldrineg_b	:	6 - 10
+16_2_2_aldrineg_b	:	12 - 16
+
+17 - 21 links:
+16_3_1_aldrineg_a	:	17 - 21
+16_2_2_aldrineg_b	:	18 - 22
+
+
+With same rare tokens:
+11 - 15 links:
+16_3_1_aldrineg_a	:	11 - 15
+16_1_1_cloudrick_a	:	4 - 27
+16_3_1_aldrineg_a	:	11 - 15
+
+23 - 64 links:
+16_2_2_gilesg_B	:	28 - 45
+16_2_2_gilesg_B	:	28 - 45
+16_2_1_Devashishdas_S01	:	1 - 33
+16_2_1_Devashishdas_S01	:	1 - 33
+16_2_1_Devashishdas_S01	:	1 - 33
+16_2_2_gilesg_B	:	28 - 45
+16_2_2_gilesg_B	:	28 - 45
+16_2_1_Devashishdas_S01	:	1 - 33
+16_2_1_Devashishdas_S01	:	1 - 33
+16_2_1_Devashishdas_S01	:	1 - 33
+
+5 - 9 links:
+16_3_1_aldrineg_a	:	5 - 9
+16_1_1_caslte_a	:	7 - 33
+16_1_2_LinesPrower_r1a	:	33 - 49
+16_3_1_aldrineg_a	:	5 - 9
+

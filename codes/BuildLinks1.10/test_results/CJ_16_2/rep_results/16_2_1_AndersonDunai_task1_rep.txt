@@ -1,0 +1,2 @@
+def solve sentence sentence 		50 56
+history history history results = for i word in enumerate DIGITS copy 		30 47

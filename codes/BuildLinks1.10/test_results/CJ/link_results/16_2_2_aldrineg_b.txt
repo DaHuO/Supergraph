@@ -1,0 +1,21 @@
+Direct links:
+6 - 10 links:
+16_3_1_aldrineg_a	:	5 - 9
+16_3_1_aldrineg_a	:	11 - 15
+16_2_1_aldrineg_a	:	11 - 15
+16_2_1_aldrineg_a	:	5 - 9
+
+18 - 22 links:
+16_3_1_aldrineg_a	:	17 - 21
+16_2_1_aldrineg_a	:	17 - 21
+
+
+With same rare tokens:
+44 - 60 links:
+16_1_2_Cyanfish_jam	:	22 - 29
+16_1_2_Cyanfish_jam	:	22 - 29
+
+12 - 16 links:
+16_1_2_cloudrick_b	:	4 - 32
+16_2_2_perel_bs	:	64 - 77
+

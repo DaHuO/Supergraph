@@ -1,0 +1,3 @@
+solverankandfile main 1 		36 37
+solverankandfile ranks ranks odd_members odd_members odd_members for soldier in 		18 34
+extractranksfrominput file_path file_path collections_of_ranks collections_of_ranks rank_collection_size rank_collection rank_collection_size rank_collection collections_of_ranks 		4 16

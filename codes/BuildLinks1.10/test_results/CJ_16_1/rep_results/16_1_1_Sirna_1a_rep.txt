@@ -1,0 +1,1 @@
+def getlastword inp ans = ans append 		5 13

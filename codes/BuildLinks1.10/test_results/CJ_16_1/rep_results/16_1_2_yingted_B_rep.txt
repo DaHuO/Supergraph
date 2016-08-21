@@ -1,0 +1,1 @@
+^= main for t in xrange 1 1 + int 		4 13

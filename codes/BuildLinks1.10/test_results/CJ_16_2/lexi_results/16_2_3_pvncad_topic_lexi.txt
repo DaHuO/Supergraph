@@ -1,0 +1,1 @@
+def is_valid o f first = set t split 0 for t in o second = set t split 1 for t in o for t in f f s = t split if f not in first or s not in second return False return True 		5 15

@@ -1,0 +1,2 @@
+currentString currentStart currentNumber currentString currentNumber currentStart currentString currentNumber currentString currentNumber 0 while 		1 22
+texts texts newNumber newNumber i = ZERO ONE 		27 38

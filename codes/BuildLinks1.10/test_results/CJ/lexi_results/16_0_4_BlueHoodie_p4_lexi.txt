@@ -1,0 +1,2 @@
+def check subs solutions = poss = subs 3 print poss return min solutions 		15 20
+def make_cases num substrings = stuff = g l l g for subset in itertools permutations stuff num if subset not in substrings substrings append subset return substrings 		7 13

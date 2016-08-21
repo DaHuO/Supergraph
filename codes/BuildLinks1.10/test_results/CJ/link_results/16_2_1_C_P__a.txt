@@ -1,0 +1,7 @@
+
+With same rare tokens:
+18 - 136 links:
+16_2_1_alphacentauri_sol1	:	2 - 74
+16_2_2_alphacentauri_sol1	:	30 - 63
+16_2_2_BoldBB_2	:	3 - 9
+

@@ -1,6 +1,6 @@
 list_to_int 		96 97
-list_index_in_sorted_with_position list_index_in_sorted_with_position list_index_in_sorted_with_position pos list_len = len a_list if list_len 		125 134
-output.txt wb iterate_cases_1lpc time:%.02f calc_result time time with 		259 278
+def list_index_in_sorted_with_position a_list value pos list_len = len a_list if 		125 134
+output.txt iterate_cases_1lpc time:%.02f calc_result = time time with 		259 278
 list_to_float 		109 110
 iterate_cases_glpc filepath with file filepath rb as f_in case_counter = 0 new_case = True for 		62 84
 def choice a b assert a >= b res = 1 if b > 		169 186
@@ -14,6 +14,6 @@ real_result tran real_result tran real_result elems = P R S result = if max elem
 copy_list 		139 142
 calc_result list_to_int result = 		249 257
 get_primes PRIMES_FILENAME readlines Create bigger prime rb 		154 167
-iterate_cases_subsections num_of_subs new_sub_case sub_cases_left num_of_subs new_sub_case new_sub_case sub_case sub_case sub_case sub_cases_left new_sub_case sub_cases_left True for line_index line in enumerate 		32 60
+iterate_cases_subsections num_of_subs sub_cases_left num_of_subs sub_case sub_case sub_case sub_cases_left sub_cases_left = 0 new_case = True for line_index line in enumerate 		32 60
 iterate_cases_nlpc filepath n with file filepath rb as 		19 30
 part_of_list_to_int array flags assert len array 		86 94

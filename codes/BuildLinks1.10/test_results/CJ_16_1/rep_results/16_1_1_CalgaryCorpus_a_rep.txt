@@ -1,0 +1,1 @@
+minor solve str = final = for 		3 15

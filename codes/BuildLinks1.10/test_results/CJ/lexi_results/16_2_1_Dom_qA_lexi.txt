@@ -1,0 +1,1 @@
+def ordoff letter return ord letter - ord a 		7 8

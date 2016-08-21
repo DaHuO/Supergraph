@@ -1,0 +1,2 @@
+def solve heights missinglist = for i in range maxheight + 1 if heights i % 2 == 1 missinglist append str i return missinglist 		7 12
+def main filename = sys argv 1 filehandle = open filename r lines = filehandle readlines numberoftests = int lines pop 0 for i in range numberoftests n = int lines pop 0 heights = dict x 0 for x in range maxheight + 1 for j in range n * 2 - 1 line = lines pop 0 heightstrings = line split  heightlist = for k in range n heights int heightstrings k += 1 missinglist = solve heights print case # + str i + 1 + : +  join missinglist 		14 29

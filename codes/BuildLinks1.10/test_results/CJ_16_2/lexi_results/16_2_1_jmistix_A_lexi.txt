@@ -1,0 +1,2 @@
+def get_phone word letters = for char in ascii_uppercase letters char = 0 for char in word letters char += 1 numbers = Z ZERO 0 W TWO 2 U FOUR 4 X SIX 6 G EIGHT 8 H THREE 3 F FIVE 5 V SEVEN 7 I NINE 9 O ONE 1 result_number = for uniq number digit in numbers while letters uniq > 0 result_number append digit for char in number letters char -= 1 for char q in letters iteritems assert q == 0 return join str x for x in sorted result_number 		9 38
+def ind_by_char char return ord char - ord A 		6 7

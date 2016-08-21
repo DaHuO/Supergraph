@@ -1,0 +1,3 @@
+def start if len 		41 46
+def solve fd total = 		26 38
+def winner txt sol = 		13 23

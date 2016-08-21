@@ -1,0 +1,17 @@
+gen_word {:0 b} fmt = + str len 		29 38
+solve_bf gen_word s = case mw 		39 46
+maximize 		62 64
+def read_line 		4 8
+rsplit process path_in path_out = none 		79 84
+def load_cases path with open 		18 24
+maximize max_right maximize len s 		56 60
+test_solutions outcome: until_first_fail = true cases = load_cases path_in 		97 110
+def read_list 		9 10
+test_solutions_gen outcome: = true cases = gen_cases for 		116 129
+solve_bf 		94 95
+def save_outcomes path outcomes with 		75 78
+def 		14 15
+max_right s mp = 		49 54
+def 		11 12
+		112 114
+def 		71 72

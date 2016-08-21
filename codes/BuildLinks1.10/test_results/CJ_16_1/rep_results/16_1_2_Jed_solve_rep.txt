@@ -1,0 +1,2 @@
+def solve rows cnt = collections counter 		9 18
+def main nr_case = int input for case 		20 27

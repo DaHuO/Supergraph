@@ -1,0 +1,3 @@
+def valid sc c sc = 		6 11
+def score c j n = len c best_scores current_min = none 10000 for sc1 in all_scores n if 		14 36
+def all_scores 		1 3

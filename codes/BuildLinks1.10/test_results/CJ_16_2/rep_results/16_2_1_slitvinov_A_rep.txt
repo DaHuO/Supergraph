@@ -1,0 +1,5 @@
+emptyp 		18 19
+def take n 		21 23
+		6 7
+emptyp solve s m = defaultdict int for c in s m c = m c + 1 digits = 0 * 10 while True if m break while m Z > 0 dd = 0 take dd m digits dd = digits dd + 		25 60
+def ia 		9 12

@@ -1,0 +1,1 @@
+def read_inp return inp readline strip 		8 9

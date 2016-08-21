@@ -1,0 +1,2 @@
+def main t = 		15 19
+def compute_last_word s answer = 		5 12

@@ -1,0 +1,1 @@
+getmissing self n list result = dict = for i in range 		2 17

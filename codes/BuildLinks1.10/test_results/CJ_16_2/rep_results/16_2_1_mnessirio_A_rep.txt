@@ -1,0 +1,1 @@
+pick_order solve phone_number_digits = 0 for i in range 10 S = list 		26 44

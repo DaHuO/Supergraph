@@ -1,0 +1,1 @@
+def solve l cnt = for r in l for 		6 18

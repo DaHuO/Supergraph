@@ -1,0 +1,1 @@
+getlastword lastchar lastchar lastchar lastchar = 0 finalword = for x in word if 		21 37

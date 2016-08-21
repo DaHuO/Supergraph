@@ -1,0 +1,4 @@
+def solv rooms sum rooms = sorted rooms key = lambda v v 1 reverse = true result = while true if len rooms == 0 return result r rs = gettworoom rooms sum result append r rooms = rs return result 		35 45
+def gettworoom rooms sum def poproom rs if len rs == 0 return rs r = rs 0 0 rs 0 1 -= 1 if rs 0 1 == 0 rs pop 0 return r sorted rs key = lambda v v 1 reverse = true result = r rs = poproom rooms result += r if len rs == 2 and rs 0 1 == 1 return result rs r rs = poproom rs result += r return result rs 		17 33
+def toroom line rs = int v for v in line split result = sum = 0 for i r in enumerate rs sum += r result append chr ord a + i r return result sum 		8 15
+def poproom rs if len rs == 0 return rs r = rs 0 0 rs 0 1 -= 1 if rs 0 1 == 0 rs pop 0 return r sorted rs key = lambda v v 1 reverse = true 		18 25

@@ -1,0 +1,1 @@
+def func arr arr = int x for x in arr parties = for i a in enumerate arr name = chr i 		3 24

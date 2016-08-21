@@ -1,0 +1,2 @@
+strlist strlist tmplist strlist strlist tmplist strlist tmplist strlist tmplist strlist strlist strlist 		5 30
+num_testcase output_small_text1.txt f = open a-small-attempt0.in r = int f readline 		33 47

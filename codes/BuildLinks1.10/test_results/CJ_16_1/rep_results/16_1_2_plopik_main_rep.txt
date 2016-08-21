@@ -1,0 +1,2 @@
+def rec_fun w if not w return 		27 35
+ddict list_int list_int list_int t = int f readline for t2 in range t n = int f 		4 19

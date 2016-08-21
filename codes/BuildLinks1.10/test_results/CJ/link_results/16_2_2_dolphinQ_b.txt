@@ -1,0 +1,28 @@
+Direct links:
+8 - 9 links:
+16_2_1_dolphinQ_a	:	8 - 9
+16_0_4_dolphinQ_easy	:	8 - 9
+
+10 - 11 links:
+16_2_1_dolphinQ_a	:	10 - 11
+16_0_4_dolphinQ_easy	:	10 - 11
+
+6 - 7 links:
+16_2_1_dolphinQ_a	:	6 - 7
+16_0_4_dolphinQ_easy	:	6 - 7
+
+
+With same rare tokens:
+8 - 9 links:
+16_2_1_dolphinQ_a	:	8 - 9
+16_0_4_dolphinQ_easy	:	13 - 15
+16_0_4_dolphinQ_easy	:	8 - 9
+
+10 - 11 links:
+16_2_1_dolphinQ_a	:	10 - 11
+16_0_4_dolphinQ_easy	:	10 - 11
+
+6 - 7 links:
+16_2_1_dolphinQ_a	:	6 - 7
+16_0_4_dolphinQ_easy	:	6 - 7
+

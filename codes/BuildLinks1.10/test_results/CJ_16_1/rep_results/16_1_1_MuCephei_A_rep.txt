@@ -1,0 +1,1 @@
+def winningword inputstring result = 		1 9

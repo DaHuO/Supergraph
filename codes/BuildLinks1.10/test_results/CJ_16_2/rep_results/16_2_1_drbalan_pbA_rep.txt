@@ -1,0 +1,2 @@
+chaine chaine result = L = list while Z in L result append 0 L = sup1 L ZERO while W in L r = result append 2 L 		11 48
+chaine chaine liste for c 		3 9

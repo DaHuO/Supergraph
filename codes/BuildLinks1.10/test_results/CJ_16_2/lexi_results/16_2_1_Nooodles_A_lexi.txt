@@ -1,0 +1,1 @@
+def I letter return ord letter - 64 		5 6

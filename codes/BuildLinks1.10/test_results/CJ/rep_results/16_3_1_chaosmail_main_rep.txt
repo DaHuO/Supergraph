@@ -1,0 +1,4 @@
+is_absolute b arr a = 		11 15
+leaving tmp_out tmp_out tmp_out no_absolute tmp_out no_absolute map int p split  out = = 0 while sum p > 0 for 		23 57
+no_absolute is_absolute split_by_index 		17 21
+split_by_index arr i m 		7 9

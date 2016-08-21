@@ -1,0 +1,4 @@
+def solve k n a global g global vis if k == n if check g 		20 40
+		1 1
+def check g a for i in g for 		7 18
+def 		2 2

@@ -1,0 +1,2 @@
+def solve lis di = for li in lis for 		22 36
+def main name pathin pathout = sys argv filein = open pathin fileout 		3 20

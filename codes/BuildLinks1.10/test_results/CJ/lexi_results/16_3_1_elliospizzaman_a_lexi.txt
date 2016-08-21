@@ -1,0 +1,5 @@
+def write_case self solution self output_handle write case #%i: %s\n % self case_num solution self case_num += 1 		18 21
+def __init__ self input_handle output_handle self input_handle = input_handle self output_handle = output_handle self case_num = 1 		8 11
+def solve jam casecount = int jam read_string for casenum in xrange casecount solution = n = int jam read_string p = map int jam read_array senators = sum p while senators > 0 nxt = p index max p p nxt -= 1 solution += letters nxt senators -= 1 nxt = p index max p if not p count p nxt == 2 and nxt == senators / 2 p nxt -= 1 solution += letters nxt senators -= 1 solution +=  solution rstrip jam write_case solution 		25 46
+def read_string self return self input_handle readline rstrip \n 		12 14
+def read_array self return self read_string split 		15 17

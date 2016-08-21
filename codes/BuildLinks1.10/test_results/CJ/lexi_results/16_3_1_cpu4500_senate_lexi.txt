@@ -1,0 +1,2 @@
+def max_idx a return max enumerate a key = itemgetter 1 0 		4 5
+def print_evacuation s plan = n = sum s while n > 0 curr_evac = ratio = 0.0 while len curr_evac < 2 idxp = max_idx s curr_evac += chr 65 + idxp n -= 1 s idxp -= 1 if n == 0 break ratio = float max s / n if ratio <= 0.5 break elif len curr_evac == 2 n += 1 s idxp += 1 curr_evac = curr_evac - 1 break if ratio > 0.5 and n > 0 raise exception aaaa - %s %f % repr s ratio plan append curr_evac return  join plan 		8 39

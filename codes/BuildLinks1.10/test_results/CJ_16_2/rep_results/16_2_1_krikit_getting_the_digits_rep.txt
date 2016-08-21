@@ -1,0 +1,4 @@
+_solve_inner solve line line_cnt 		65 74
+_solve_inner _DIGITS _is_in _solve_inner last_num _DIGITS last_num _solve_inner last_num phone_number for num num_str 		40 62
+_is_in to_find 		29 37
+def main fin fout num_cases = 		80 89

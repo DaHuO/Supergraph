@@ -1,0 +1,2 @@
+def ct s r = 26 * 0 for c in s if not c isalpha continue r ord c - ord A += 1 return r 		2 7
+def minus l1 l2 for x in xrange 26 if l1 x < l2 x return False for x in xrange 26 l1 x -= l2 x return True 		9 16

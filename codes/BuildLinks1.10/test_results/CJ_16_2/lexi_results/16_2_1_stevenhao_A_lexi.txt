@@ -1,0 +1,1 @@
+def solve s freqs = defaultdict int for i in s freqs i += 1 ans = for i ch in order while freqs ch > 0 ans append str i for k in names i freqs k -= 1 for k in freqs if freqs k > 0 print bad ans sort return join map str ans 		9 24

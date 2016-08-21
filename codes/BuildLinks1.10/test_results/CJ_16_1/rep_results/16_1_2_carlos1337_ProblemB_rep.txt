@@ -1,0 +1,3 @@
+not_used not_used current_fit check_if_fits current_fit check_if_valid used2 used2 used2 0 = index for index e in 		24 41
+check_if_valid total_array paper valid = 		2 8
+check_if_fits dummyindex dummyindex dummyindex index in range n 		10 22

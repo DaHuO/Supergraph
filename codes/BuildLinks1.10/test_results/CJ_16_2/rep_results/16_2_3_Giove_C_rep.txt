@@ -1,0 +1,1 @@
+DiGraph mincostFlow max_flow_min_cost mincost cost_of_flow mincostFlow needed_arcs mincost needed_arcs = for i in xrange n topics append sys stdin readline split left 		9 38

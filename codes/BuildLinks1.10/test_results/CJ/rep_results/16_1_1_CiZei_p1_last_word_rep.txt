@@ -1,0 +1,2 @@
+def solve_case input_str current = 		5 12
+read_and_solve case_num = int sys 		14 18

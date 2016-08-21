@@ -1,0 +1,2 @@
+maxheight solve heights missinglist 		7 12
+numberoftests numberoftests maxheight heightstrings heightlist heightstrings 1 filehandle = open filename r lines = filehandle readlines = int 		14 29

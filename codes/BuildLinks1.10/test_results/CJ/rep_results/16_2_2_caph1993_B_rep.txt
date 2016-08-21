@@ -1,0 +1,3 @@
+def dp lo s if lo == len c return 0 0 0 if lo s in m return m lo s p = pow10 len c - 1 - lo i = int c lo if c lo != ? else ? j = int j lo if j lo != ? else ? if i == ? or j == ? if s == 0 		15 54
+def addp p i j 		12 12
+def mymin a b return 		13 13

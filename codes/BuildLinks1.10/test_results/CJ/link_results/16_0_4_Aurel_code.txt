@@ -1,0 +1,13 @@
+Direct links:
+7 - 8 links:
+16_1_2_Aurel_code	:	39 - 40
+16_1_1_Aurel_code	:	39 - 40
+16_3_1_Aurel_code	:	9 - 10
+
+
+With same rare tokens:
+7 - 8 links:
+16_1_2_Aurel_code	:	39 - 40
+16_1_1_Aurel_code	:	39 - 40
+16_3_1_Aurel_code	:	9 - 10
+

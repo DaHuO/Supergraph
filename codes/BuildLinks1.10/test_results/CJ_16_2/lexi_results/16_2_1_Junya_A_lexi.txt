@@ -1,0 +1,6 @@
+def handle_case trial x = raw_input letters = for l in x letters l = letters get l 0 + 1 digit_counts = for digit in 0 8 6 2 3 4 5 7 9 1 digit_count letters = get_digit_count digit letters digit_counts digit = digit_count print_solution trial digit_counts 		45 55
+def main n = int raw_input for i in range n handle_case i + 1 		58 61
+def readd_digit d letters for c in numbermap d letters c += numbermap d c 		26 28
+def get_digit_count d letters digit_count = 0 while True for c in numbermap d if c not in letters return digit_count letters if letters c < 0 readd_digit d letters return digit_count - 1 letters for c in numbermap d letters c -= numbermap d c digit_count += 1 		30 43
+def print_solution trial sol formatted_sol = for i digit in enumerate sol formatted_sol += str i * sol digit print Case #{}: {} format trial formatted_sol 		15 19
+def digit_exists digit letters digit_chars = numbermap digit for c in digit_chars new_letters c 		21 24

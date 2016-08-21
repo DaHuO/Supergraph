@@ -1,0 +1,3 @@
+def readint return int input 		4 5
+def readline return str input 		10 11
+def readints return map int input split 		7 8

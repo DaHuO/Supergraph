@@ -1,0 +1,21 @@
+
+With same rare tokens:
+81 - 115 links:
+sort_word_by_other_word	:	8 - 18
+stoogesort	:	15 - 22
+sort	:	93 - 104
+quicksort_inplace	:	21 - 25
+test_sorts	:	50 - 74
+sorttests	:	11 - 15
+sortable	:	65 - 81
+
+69 - 77 links:
+quicksort	:	31 - 32
+quicksort	:	24 - 29
+
+23 - 65 links:
+quicksort	:	31 - 32
+quicksort	:	24 - 29
+smoothsort	:	18 - 19
+smoothsort	:	61 - 98
+

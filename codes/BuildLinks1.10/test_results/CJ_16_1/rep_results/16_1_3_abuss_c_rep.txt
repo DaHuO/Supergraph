@@ -1,0 +1,3 @@
+def verify s global m s = s - 		11 16
+half solve2 i global m l c b = bffs i print   * len c i b 		19 41
+def solve l2 		44 49

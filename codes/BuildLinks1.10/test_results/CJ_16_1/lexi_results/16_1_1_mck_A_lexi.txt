@@ -1,0 +1,1 @@
+def solve stream s = stream readline strip answer = s 0 for i in range 1 len s if s i < answer 0 answer += s i else answer = s i + answer return answer 		3 11

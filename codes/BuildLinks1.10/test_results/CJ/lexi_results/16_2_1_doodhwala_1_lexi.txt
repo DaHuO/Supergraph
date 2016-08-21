@@ -1,0 +1,1 @@
+def checkfor index letter d global op ctr = d get letter 0 if ctr for c in num index d c -= ctr op extend index for i in range ctr 		9 15

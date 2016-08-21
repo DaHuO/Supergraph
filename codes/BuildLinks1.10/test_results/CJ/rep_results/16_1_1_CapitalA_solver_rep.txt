@@ -1,0 +1,1 @@
+count_char count_char %s%s%s count_char char in chr i for 		3 11

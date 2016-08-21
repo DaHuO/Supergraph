@@ -1,0 +1,1 @@
+shape shape report ids rows if not rows return true ids 0 report else row = rows 0 for jj in range len ids j = ids jj if j > 0 bad = false for r 		4 39

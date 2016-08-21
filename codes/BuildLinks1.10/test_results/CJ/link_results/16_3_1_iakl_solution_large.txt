@@ -1,0 +1,20 @@
+
+With same rare tokens:
+40 - 43 links:
+16_2_2_trauzti_B	:	12 - 13
+16_2_2_trauzti_B	:	19 - 29
+
+45 - 74 links:
+16_2_2_iakl_solution_small	:	55 - 82
+16_1_2_iakl_solution_large	:	41 - 69
+16_2_2_trauzti_B	:	12 - 13
+16_2_2_trauzti_B	:	19 - 29
+16_2_2_trauzti_B	:	12 - 13
+16_2_2_trauzti_B	:	19 - 29
+
+28 - 35 links:
+16_2_2_iakl_solution_small	:	23 - 24
+16_1_2_iakl_solution_large	:	33 - 38
+16_2_2_iakl_solution_small	:	23 - 24
+16_1_2_iakl_solution_large	:	33 - 38
+

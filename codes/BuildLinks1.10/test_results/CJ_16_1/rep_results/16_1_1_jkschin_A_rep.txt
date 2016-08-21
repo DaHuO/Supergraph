@@ -1,0 +1,2 @@
+a-large.txt main f = open w 		14 19
+prev_value cur_value cur_value prev_value = word 0 		3 12

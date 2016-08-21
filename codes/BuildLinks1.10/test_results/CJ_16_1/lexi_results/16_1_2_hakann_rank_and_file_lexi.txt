@@ -1,0 +1,2 @@
+def formatted_output index final_count return case # + str index + : + str final_count 		19 20
+def rank_and_file str_list height_counts = for row in str_list heights = row split  for height in heights if height not in height_counts keys height_counts height = 1 else height_counts height += 1 missing_heights = for height in height_counts keys if height_counts height % 2 != 0 missing_heights append height missing_heights = map int missing_heights missing_heights sort missing_heights = map str missing_heights return  join missing_heights 		1 17

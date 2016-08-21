@@ -1,0 +1,10 @@
+def main args = parse_args incoming = args input outgoing = incoming replace .in .out with open incoming r as f trials = int f readline strip for i in range 1 trials + 1 string = f readline strip word = last_word string result = case #{}: {} format i word with open outgoing a as o o write result o write \n 		24 41
+def test_two assert last_word jam == mja 		49 50
+def parse_args parser = argparse argumentparser parser add_argument input help = the file with all the input values return parser parse_args 		4 9
+def test_seven assert last_word zxcasdqwe == zxcasdqwe 		64 65
+def test_three assert last_word code == ocde 		52 53
+def test_six assert last_word abcabcabc == cccbaabab 		61 62
+def test_one assert last_word cab == cab 		46 47
+def last_word string result = string 0 for char in string 1 if char >= result 0 result = char + result else result += char return result 		11 21
+def test_five assert last_word cabcbbabc == cccabbbab 		58 59
+def test_four assert last_word abaab == bbaaa 		55 56

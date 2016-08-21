@@ -1,0 +1,4 @@
+inputvals inputlist inputvals inputvals inputlist inputvals inputlist inputlist inputlist error! mismatch. inputlist 		32 51
+inputlist outputlist inputlist outputlist orderstring outputstrings minindex dictstring 		17 30
+orderstring minindex minindex minindex minindex minindex 0 = 		3 14
+printresults resultslist codejamlastword resultslist resultslist for 		53 59

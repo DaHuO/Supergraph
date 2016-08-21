@@ -1,0 +1,1 @@
+def getlastword with open a-large.in.txt as f numofcases = int f readline for case in range numofcases lastword = firstletter = for letter in f readline if firstletter == firstletter = letter if ord letter >= ord firstletter lastword insert 0 letter firstletter = letter else lastword append letter print case # + str case + 1 + : + join lastword strip 		1 19

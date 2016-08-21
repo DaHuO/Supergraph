@@ -1,0 +1,1 @@
+def a f = open a-large.in t = int f readline ct = 0 while t > 0 t -= 1 ct += 1 s = f readline - 1 cur = for t in s cur1 = t + cur cur2 = cur + t if cur1 > cur2 cur = cur1 else cur = cur2 print case # + str ct + : + cur f close 		3 20

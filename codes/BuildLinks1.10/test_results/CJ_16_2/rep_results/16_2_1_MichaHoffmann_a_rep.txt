@@ -1,0 +1,1 @@
+band band band D = dict D 0 = 4 list ZERO D 1 = 3 list ONE D 2 = 3 list TWO D 3 = 5 list THREE D 4 = 4 list FOUR D 5 = 4 		3 34

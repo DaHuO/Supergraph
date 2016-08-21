@@ -1,0 +1,10 @@
+def __init__ self filename self f = open filename self linenum = 1 		49 51
+def read_str self self linenum += 1 return self f readline strip 		62 64
+def read_int self self linenum += 1 return int self f readline strip 		53 55
+def read_float self self linenum += 1 return float self f readline strip 		56 58
+def read_float_list self self linenum += 1 return map float self f readline split 		69 71
+def read_decimal_list self self linenum += 1 return map decimal decimal self f readline split 		72 74
+def solve f skip = false c = collections counter f read_str if skip return 0 ans = 0 * 10 ans 0 = c z for i in zero c i -= ans 0 ans 2 = c w for i in two c i -= ans 2 ans 4 = c u for i in four c i -= ans 4 ans 6 = c x for i in six c i -= ans 6 ans 8 = c g for i in eight c i -= ans 8 ans 1 = c o for i in one c i -= ans 1 ans 5 = c f for i in five c i -= ans 5 ans 3 = c t for i in three c i -= ans 3 ans 7 = c v for i in seven c i -= ans 7 ans 9 = c i return join str i * ans i for i in xrange len ans 		11 46
+def read_str_list self self linenum += 1 return self f readline split 		75 77
+def read_int_list self self linenum += 1 return map int self f readline split 		66 68
+def read_decimal self self linenum += 1 return decimal decimal self f readline strip 		59 61

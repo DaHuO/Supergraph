@@ -1,0 +1,3 @@
+def main ifile = sys 		18 22
+def foo2 s if len 		4 9
+def foo 		12 14

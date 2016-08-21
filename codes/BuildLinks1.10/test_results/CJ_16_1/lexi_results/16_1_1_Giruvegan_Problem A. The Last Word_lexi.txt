@@ -1,0 +1,1 @@
+def lastword case_input word = for letter in case_input if len word == 0 word append letter continue if letter >= word 0 word insert 0 letter else word append letter return join word 		4 14

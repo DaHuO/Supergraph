@@ -1,0 +1,1 @@
+def rec digits cur if cur == 10 return d2 = digits curs = dvals cur found = True for c in curs if c in d2 d2 remove c else found = False break if found if len d2 == 0 return cur t = rec d2 cur if t == f = rec digits cur + 1 return f else return cur + t else return rec digits cur + 1 		2 31

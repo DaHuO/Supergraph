@@ -1,0 +1,1 @@
+def winner s newstr = s 0 for i in range 1 len s if alpha get s i >= alpha get newstr 0 newstr = s i + newstr else newstr += s i return newstr 		5 12

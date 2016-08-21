@@ -1,0 +1,2 @@
+#{n}: {y} ======================================================= output = open filename split . 0 + 		14 23
+def solve s words = s 0 		3 12

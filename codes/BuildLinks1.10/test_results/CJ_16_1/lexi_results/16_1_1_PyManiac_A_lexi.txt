@@ -1,0 +1,1 @@
+def get_ans s ls = cs = for i in s added = set for each in cs added add each + i added add i + each added = list added ls = ls + added cs = added return sorted ls - 1 		1 12

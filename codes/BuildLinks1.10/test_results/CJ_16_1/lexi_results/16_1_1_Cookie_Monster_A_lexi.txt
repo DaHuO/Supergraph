@@ -1,0 +1,1 @@
+def genstr s out = out = out + s 0 for i in range 1 len s if s i >= out 0 out = s i + out else out = out + s i return out 		1 9

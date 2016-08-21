@@ -1,0 +1,2 @@
+rankfo n lists matrix = none * n * n r = 0 * n c = 0 * n r 0 = 1 lists sort matrix 0 = lists 0 for i in xrange 1 2 		6 41
+rankf n lists lists sort s = 		43 52

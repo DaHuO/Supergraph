@@ -1,0 +1,2 @@
+def contains a b return all a x >= b x for x in b 		36 37
+def getDigits scount n i = n num = while i < len digit if contains scount digit i thisScount = scount - digit i if sum thisScount itervalues > 0 s = getDigits Counter thisScount i if s is not None num = str i + str s return num else return str i i += 1 if len num != sum scount itervalues return None 		18 33

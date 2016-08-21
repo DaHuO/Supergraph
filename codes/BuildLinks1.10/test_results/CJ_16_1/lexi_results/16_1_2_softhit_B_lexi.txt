@@ -1,0 +1,1 @@
+def solve n l l = sorted l r = b = 0 * 2500 for j in range 0 2 * n - 1 for k in range 0 n tmp = l j k - 1 b tmp += 1 for j in range 0 2500 if b j % 2 != 0 r append j + 1 ans =  join map str r return ans 		5 22

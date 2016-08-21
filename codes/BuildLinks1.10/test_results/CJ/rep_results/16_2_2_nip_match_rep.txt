@@ -1,0 +1,3 @@
+def minimise s 		9 10
+def maximise s 		6 7
+posc posj posc posj posc posj posj posc cjb jjb cjb jjb cans cjb jans jjb cjb jjb cjb jjb cans cjb jans jjb ceq jeq ceq jeq cans ceq jans jeq ccb jcb ccb jcb cans ccb jans jcb ccb jcb ccb jcb cans ccb jans jcb cans jans ccb jcb ccb jcb cans ccb jans jcb cjb jjb cjb jjb cans cjb jans jjb ceq jeq ceq jeq cans ceq jans jeq cjb jjb cjb jjb cans cjb jans jjb ccb jcb ccb jcb cans ccb jans jcb cans jans cans jans cans jans cjb jjb cjb jjb cans cjb jans jjb cjb jjb cjb jjb cans cjb jans jjb ccb jcb ccb jcb cans ccb jans jcb ccb jcb ccb jcb cans ccb jans jcb cans jans 1 j pos + other 		12 134

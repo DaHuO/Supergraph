@@ -1,0 +1,2 @@
+ff ff node vis = 0 for i in 		36 50
+def find_longest node global visited visited node 		21 31

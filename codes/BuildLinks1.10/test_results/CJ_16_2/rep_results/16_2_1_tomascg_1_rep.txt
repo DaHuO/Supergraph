@@ -1,0 +1,2 @@
+dicHasLetters dic letters has = True other = for 		40 56
+numb numb numbs dicHasLetters numbers = for letter in if letter in 		8 34

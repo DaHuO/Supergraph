@@ -1,0 +1,2 @@
+def helper word last_word = word 		5 13
+def parse_file num_lines = - 1 with open sys argv 1 r as f lines 		15 34

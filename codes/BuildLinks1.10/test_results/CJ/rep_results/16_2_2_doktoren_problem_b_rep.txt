@@ -1,0 +1,2 @@
+{:0 } {:0 } int sys stdin readline strip for k in xrange t global sx sy factors to_beat best_x best_y sx sy = 		55 67
+01 89 01 89 i global to_beat best_x best_y if i == len sx if abs vx - vy < to_beat best_x = vx best_y = vy to_beat = abs vx - vy return if vy - vx + 10 * factors i > to_beat return if vx - vy + 10 * factors i 		16 53

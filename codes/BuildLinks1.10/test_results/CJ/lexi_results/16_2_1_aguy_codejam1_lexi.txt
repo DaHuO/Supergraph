@@ -1,0 +1,1 @@
+def f s s upper l = 0 * 10 l 0 = s count z l 2 = s count w l 4 = s count u l 8 = s count g l 5 = s count f - l 4 l 7 = s count v - l 5 l 6 = s count x l 1 = s count o - l 0 - l 2 - l 4 l 3 = s count r - l 0 - l 4 l 9 = s count i - l 5 - l 6 - l 8 ans = for i in range 10 ans append chr ord 0 + i * l i return join ans 		7 23

@@ -1,0 +1,1 @@
+functools lru_cache maxsize = none def solve s if len s == 0 return s else left = solve s 1 + s 0 right = s 0 + solve s 1 return left if left > right else right 		21 28

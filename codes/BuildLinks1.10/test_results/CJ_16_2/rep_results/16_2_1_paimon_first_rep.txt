@@ -1,0 +1,1 @@
+def solve s counter = Counter s names = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE letter_to_digits = 		4 21

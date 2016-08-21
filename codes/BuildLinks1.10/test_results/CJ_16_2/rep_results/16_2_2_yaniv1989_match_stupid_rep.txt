@@ -1,0 +1,2 @@
+is_eq is_eq is_eq s2 = True for i in xrange len s1 if s1 i != 		22 42
+new_s1 new_s2 new_s1 new_s2 new_s1 new_s2 new_s1 new_s2 20 for i in xrange len s1 if s1 i == ? or s2 i == 		3 20

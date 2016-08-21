@@ -1,0 +1,2 @@
+takeout minLT s global N 		14 20
+minLT s 		11 12

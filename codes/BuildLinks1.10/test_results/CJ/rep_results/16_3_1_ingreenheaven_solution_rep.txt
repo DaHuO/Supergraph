@@ -1,0 +1,6 @@
+[{0}:{1}] 		17 18
+__repre__ 		20 21
+def __init__ 		10 12
+__cmp__ 		14 15
+print_list 		23 26
+def solve n = input x = map int raw_input split q = parties = left = 0 for i in xrange len x p = party letters i x i heappush q 		28 97

@@ -1,0 +1,7 @@
+def retireLettre s a if s is None return None if a in s index = s find a s1 = s index + s index + 1 return s1 		11 17
+def traite self dig return rendRes2 self s dig 		77 78
+def motPresent s mot if s is None return False for e in mot if e not in s return False return True 		29 35
+def teste s dig li = temp = for e in dig if motPresent s e temp append e retireMot s e while len temp > 0 for el in temp if el - 1 == return el else for e in dig if motPresent el - 1 e res = el - 1 res append e res append retireMot el - 1 e li append res temp = li li = 		39 57
+def __init__ self s self s = s 		73 74
+def retireMot s mot if s is None return s1 = s for lettre in mot s1 = retireLettre s1 lettre return s1 		19 25
+def rendRes2 s dig liste = for e in teste s dig if e in dig liste append dig index e liste = sorted liste res = for e in liste res += str e return res 		59 69

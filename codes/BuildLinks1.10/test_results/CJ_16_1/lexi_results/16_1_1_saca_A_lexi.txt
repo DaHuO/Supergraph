@@ -1,0 +1,4 @@
+def readinput return readvalue str strip 		19 20
+def solve s ans = for x in s if not ans ans = x elif x >= ans 0 ans = x + ans else ans = ans + x return ans 		23 32
+def readvalue valuetype return valuetype stdin readline 		6 7
+classmethod def answer cls answer print case #{}: {} format cls count answer cls count += 1 		13 16

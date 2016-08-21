@@ -1,0 +1,3 @@
+def solve_case next s 		14 20
+def solve next emit cases = int next for case 		29 39
+def 		11 12

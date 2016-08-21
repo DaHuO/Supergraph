@@ -1,0 +1,4 @@
+def findsubsets S m return set itertools product S repeat = m 		25 26
+def mystrip w s for i in w s = s replace i 1 return s 		20 23
+def check w s for i in w if i not in s return False return True 		14 18
+def check_final digits s ss = for d in digits ss += arr int d return len ss == len s and sorted ss == sorted s 		28 32

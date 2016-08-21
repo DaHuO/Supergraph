@@ -1,0 +1,1 @@
+def solve w ans = w 0 for let 		3 15

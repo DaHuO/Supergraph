@@ -1,0 +1,1 @@
+def f ls n guards = res = set for l in ls for elt in l guards append elt for elt in guards if guards count elt % 2 != 0 res add elt return  join str x for x in sorted list res 		1 10

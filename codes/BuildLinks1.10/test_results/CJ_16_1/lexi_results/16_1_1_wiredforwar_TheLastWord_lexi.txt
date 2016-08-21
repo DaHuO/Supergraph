@@ -1,0 +1,2 @@
+def main t = int raw_input f = open output.txt w for i in range 0 t s = str raw_input ans = findans s f write case # + str i + 1 + : + str ans + \n f close 		20 29
+def findans s l = len s ans = s 0 if l == 1 return s for c in s 1 if c >= ans 0 ans = c + ans else ans = ans + c print ans return ans 		1 16

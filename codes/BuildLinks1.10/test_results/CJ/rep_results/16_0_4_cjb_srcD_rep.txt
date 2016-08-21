@@ -1,0 +1,4 @@
+d.out d.out n lines f = open path + w for i 		8 17
+mapbit mapbit k c if c == 		19 24
+you told me k!=s mapbit l = if 		25 32
+openfile d-small.in = open 		2 6

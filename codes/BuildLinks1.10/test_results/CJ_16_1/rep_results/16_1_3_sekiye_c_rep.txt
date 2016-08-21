@@ -1,0 +1,1 @@
+def solve n = int raw_input v = map int raw_input split s = range 1 n + 1 		3 20

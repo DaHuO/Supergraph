@@ -1,0 +1,3 @@
+adder a b if a == 		1 10
+adder 		13 14
+a-input.in a-output.out with open as fin with 		17 23

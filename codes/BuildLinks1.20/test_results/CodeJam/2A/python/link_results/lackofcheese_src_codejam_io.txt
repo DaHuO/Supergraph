@@ -1,0 +1,27 @@
+
+With same rare tokens:
+37 - 88 links:
+jzj_A	:	56 - 91
+lmz_a	:	11 - 38
+bigOnion_rps	:	165 - 199
+jzj_A	:	43 - 53
+LinesPrower_p1	:	39 - 55
+UberFarmer_A	:	105 - 125
+lackofcheese_src_showdown	:	26 - 29
+lackofcheese_src_showdown	:	31 - 36
+
+90 - 113 links:
+Ha.sH_solver	:	69 - 77
+bigOnion_rps	:	87 - 113
+bigOnion_rps	:	165 - 199
+Jed_solve	:	59 - 68
+fandersen_GCJ	:	109 - 142
+PhilippSinitsyn_problem	:	51 - 61
+PhilippSinitsyn_problem	:	10 - 30
+tanriol_A	:	64 - 66
+Capp_A	:	6 - 32
+jzj_A	:	43 - 53
+
+19 - 21 links:
+fandersen_GCJ	:	206 - 224
+

@@ -1,0 +1,11 @@
+
+With same rare tokens:
+4 - 10 links:
+16_2_2_EricStansifer_common	:	35 - 75
+16_2_2_kulkul_b	:	37 - 61
+16_2_1_EricStansifer_common	:	35 - 75
+16_0_4_caethan_d_fractiles	:	109 - 112
+16_1_2_hatze_b	:	3 - 21
+16_0_4_caethan_d_fractiles	:	109 - 112
+16_1_2_hatze_b	:	3 - 21
+

@@ -1,0 +1,1 @@
+def solve i data if len data == 1 return data 0 payload = data 0 data = data 1 last = payload for i x in enumerate data if x >= last and x >= payload 0 payload = x + payload else payload = payload + x last = x return payload 		5 22

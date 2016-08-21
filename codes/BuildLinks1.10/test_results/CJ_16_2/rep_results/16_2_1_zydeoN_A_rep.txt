@@ -1,0 +1,1 @@
+rounds rounds S cs = for s in S cs s = cs get s 0 + 		8 25

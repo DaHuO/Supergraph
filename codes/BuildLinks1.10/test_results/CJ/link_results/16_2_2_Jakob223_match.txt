@@ -1,0 +1,14 @@
+Direct links:
+5 - 6 links:
+16_2_1_dpforest_A	:	49 - 51
+16_2_2_dpforest_Bs	:	45 - 47
+16_1_2_dpforest_B	:	29 - 31
+16_2_2_kosii_B	:	78 - 80
+16_3_1_dpforest_A	:	38 - 40
+16_0_4_dpforest_D	:	27 - 29
+
+
+With same rare tokens:
+2 - 12 links:
+16_2_2_Earthwings_match	:	10 - 27
+

@@ -1,0 +1,1 @@
+get_winner s win = for c in 		5 17

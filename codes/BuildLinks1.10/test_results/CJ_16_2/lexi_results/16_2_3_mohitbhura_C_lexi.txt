@@ -1,0 +1,1 @@
+def solve num fakes global ans if num == n for k v in r1 items if v == - 1 return for k v in r2 items if v == - 1 return ans = max ans fakes return i = num x = r1 input1 i 0 y = r2 input1 i 1 solve num + 1 fakes + 1 marked i = 1 r1 input1 i 0 = 1 r2 input1 i 1 = 1 solve num + 1 fakes marked i = 0 r1 input1 i 0 = x r2 input1 i 1 = y 		5 36

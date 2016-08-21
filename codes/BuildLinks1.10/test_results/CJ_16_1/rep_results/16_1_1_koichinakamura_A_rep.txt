@@ -1,0 +1,1 @@
+def solve s answer = 		1 8

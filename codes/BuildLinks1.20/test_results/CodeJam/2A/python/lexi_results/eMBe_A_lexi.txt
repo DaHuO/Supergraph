@@ -1,0 +1,13 @@
+classmethod def _read_line cls line = cls _read_line_raw if isinstance line memoryview line = line tobytes return line 		36 41
+classmethod def tokens cls cnt conv = identity return cls token conv for _ in range cnt 		76 78
+def make n p r s res if max p r s - min p r s > 1 return none if p + r + s != 2 ** n return none if p r s res in memo return memo p r s res if n == 0 if p == res count p and r == res count r and s == res count s return res return none if res == p sec = r elif res == s sec = p elif res == r sec = s x = 2 ** n - 1 // 3 for p1 in xrange x x + 2 for r1 in xrange x x + 2 for s1 in xrange x x + 2 a = make n - 1 p1 r1 s1 res if a is none continue b = make n - 1 p - p1 r - r1 s - s1 sec if b is none continue q = min a b + max a b memo p r s res = q return q return none 		100 131
+def solve n r p s = gcj tokens 4 int res = none for x in prs y = make n p r s x if y is not none if res is none res = y else res = min res y if res is not none return res return impossible 		133 145
+classmethod def _read_line_raw cls if cls buf res = cls buf cls buf = none else res = cls in readline if not res raise eoferror return res 		18 27
+def main sys setrecursionlimit 10000 t = gcj token int for _ in xrange t print gcj case solve sys stdout flush 		147 152
+classmethod def whitespace cls line = none while not line line = cls _read_line_raw i = 0 l = len line while i < l and line i isspace i += 1 line = memoryview line i cls buf = line 		53 63
+classmethod def _read_line_view cls line = cls _read_line_raw if not isinstance line memoryview line = memoryview line return line 		29 34
+classmethod def line cls conv = identity line = cls _read_line return conv line rstrip b'\r\n' 		43 46
+classmethod def token cls conv = identity cls whitespace line = cls _read_line_view i = 0 l = len line while i < l and not line i isspace i += 1 cls buf = line i if i < l else none return conv line i tobytes 		65 74
+def result a b results = pr p rs r ps s if a < b return results a + b else return results b + a 		87 96
+classmethod def splitline cls conv = identity line = cls _read_line return conv x for x in line split 		48 51
+classmethod def case cls cls current_case += 1 return b'case #{}:' format cls current_case 		82 85

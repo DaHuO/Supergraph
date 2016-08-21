@@ -1,0 +1,1 @@
+def remove s1 s2 s3 = list copy copy s1 if DEBUG print s3 for c in s2 if c in s3 del s3 s3 index c else if DEBUG print c print not found in print s3 return False if DEBUG print FOUND! if len s3 > 0 return join s3 else return 		26 44

@@ -1,0 +1,1 @@
+def findmissingline m d = for m in m for i in m d i = d get i 0 + 1 res = for k in d if d k % 2 != 0 res append k res = map str sorted res return  join res 		1 11

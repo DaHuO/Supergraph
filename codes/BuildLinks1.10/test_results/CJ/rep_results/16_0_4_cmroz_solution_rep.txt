@@ -1,0 +1,6 @@
+def 		20 21
+xp xp x left level if len 		23 29
+xp xp k c s def w level return k ** c - level def choose_next x left 		19 46
+check_solution |= c s pts sets = for k in xrange k x0 = 		53 67
+%s: dump k c for k 		48 51
+def f x c x0 = none if x0 		3 17

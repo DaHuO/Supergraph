@@ -1,0 +1,11 @@
+run_sample basestring cls data 		52 58
+def 		22 23
+UNIQUE_CHAIN DIGIT_COUNTS DIGIT_COUNTS case counts = letter_counts case found 		89 100
+classmethod def 		46 50
+def 		102 103
+def 		25 26
+def letter_counts word 		61 65
+unique_chain unique_chain if not words return for 		68 76
+def read_cases self lines = None 		28 33
+elapsed Solved elapsed verbose = False for index case in 		35 44
+def 		19 20

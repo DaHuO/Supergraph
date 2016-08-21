@@ -1,0 +1,2 @@
+def solve s best = ! result = for c in s if c >= best best = c result = c + result else result += c return result 		18 31
+def main for i in range int input s = input strip print case #%d: % i + 1 solve s 		3 15

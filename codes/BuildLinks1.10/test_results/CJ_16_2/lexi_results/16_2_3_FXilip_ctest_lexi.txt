@@ -1,0 +1,4 @@
+def remfree topics counts fake for i in range topics __len__ - 1 - 1 - 1 if counts i 0 == 0 and counts i 1 == 0 del topics i del counts i fake += 1 return topics counts fake 		20 26
+def break_cycle topics counts poss = for i in range topics __len__ - 1 - 1 - 1 if counts i 0 > 1 and counts i 1 > 1 poss append i if poss __len__ != 0 i = random randint 0 poss __len__ - 1 i = poss i return rem i topics counts i = random randint 0 topics __len__ - 1 return rem 0 topics counts 		42 56
+def rem i topics counts t = topics i del topics i del counts i for j in range topics __len__ if topics j 0 == t 0 counts j 0 = 0 if topics j 1 == t 1 counts j 1 = 0 return topics counts 		8 18
+def remalone topics counts fake for i in range topics __len__ - 1 - 1 - 1 if counts i 0 == 1 or counts i 1 == 1 topics counts = rem i topics counts topics counts fake = remfree topics counts fake return topics counts fake 		28 40

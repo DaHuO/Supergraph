@@ -1,0 +1,1 @@
+def no_match a b for i in range len a if b i == ? continue if a i != b i return true return false 		3 9

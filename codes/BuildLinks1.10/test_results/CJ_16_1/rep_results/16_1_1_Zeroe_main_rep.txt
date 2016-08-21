@@ -1,0 +1,6 @@
+def 		13 14
+def 		24 25
+def 		20 21
+def solve fin s = fin 		33 43
+def read_ints 		27 28
+def write 		16 18

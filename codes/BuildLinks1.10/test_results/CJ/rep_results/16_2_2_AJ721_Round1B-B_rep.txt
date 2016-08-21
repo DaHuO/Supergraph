@@ -1,0 +1,5 @@
+def can_match ints strs s = 		7 12
+zeroor9 bigger 		1 5
+founddifference outc outj founddifference outc outj outc outj outc outj outc outj founddifference outc outj founddifference outc outj outc zeroor9 founddifference outc outj zeroor9 founddifference outj outc outj 		93 130
+maxc maxj rngi rngi rngj rngj bestabs rngi rngj rngi rngj maxj maxc jjs jjs bestabs bestabs bestabs jjs if cached is not none return cached if goal == if c start == ? c = 9 else c = c start if j start == ? j = 0 else j = j start cs js 		18 76
+do_brute bestabs bestabs bestabs bestabs bestabs bestabs bestabs none = none for c in xrange 0 10 ** len c 		77 91

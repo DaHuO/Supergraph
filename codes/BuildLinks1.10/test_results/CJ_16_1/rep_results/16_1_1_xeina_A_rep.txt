@@ -1,0 +1,5 @@
+returnoutput 		29 34
+create_word starting_string new_string = starting_string 0 		50 58
+takeinput 		21 26
+find_num_line line_per_case 		11 19
+create_word 		36 42

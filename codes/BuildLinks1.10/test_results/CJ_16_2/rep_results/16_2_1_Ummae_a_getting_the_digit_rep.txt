@@ -1,0 +1,1 @@
+remove_num_nth s t 		6 9

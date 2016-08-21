@@ -1,0 +1,2 @@
+bokstavverdi 12 13 14 15 16 17 18 19 21 22 24 bokstavverdi bokstavverdi a 1 b 2 		2 13
+svaret svaret svaret = open a-large.in r output = open output.txt w 		19 29

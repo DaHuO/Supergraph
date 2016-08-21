@@ -1,0 +1,2 @@
+tcno numberslist numberslist tcno numberslist tcno tcno tcno tcno numberslist tcno numberslist and k != 1 for i in range 1 s + 1 		10 32
+r'd:\spyderworkspace\codejam\codejam16results\fractilessmall.txt' r'd:\spyderworkspace\codejam\codejam16results\d-small-attempt1.in' nooftcs nooftcs open w filein = open 		34 46

@@ -1,0 +1,1 @@
+def solve k c s return range 1 k + 1 		3 4

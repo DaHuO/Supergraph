@@ -1,0 +1,2 @@
+def convert_base_plus_one b digits num = 0 for i in digits num = num * b + i return num + 1 		7 11
+def compute k c s = map int input split needed_s = k // c + k % c > 0 if s < needed_s return impossible else ans = for i in range 0 needed_s start = i * c end = i + 1 * c if end >= k end = k ans = ans + str convert_base_plus_one k list range start end +  if end == k break return str ans 		13 29

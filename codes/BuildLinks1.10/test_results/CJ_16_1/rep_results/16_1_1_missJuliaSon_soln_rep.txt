@@ -1,0 +1,5 @@
+def __init__ 		4 5
+def 		12 13
+def do_all_cases self 		6 9
+		28 29
+def do_it self word = sys stdin readline strip out_word 		15 26

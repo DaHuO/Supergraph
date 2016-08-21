@@ -1,0 +1,1 @@
+isn isn isn leftovers leftovers leftovers isn as f flines = x strip for x in f readlines if len flines - 1 == 0 flines = flines - 		7 45

@@ -1,0 +1,1 @@
+def remove p 		11 14

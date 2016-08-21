@@ -1,0 +1,1 @@
+def m s x n for i in range n if s n - i - 1 != ? and ord s n - i - 1 - ord 0 != x // 10 ** i % 10 return False return True 		1 5

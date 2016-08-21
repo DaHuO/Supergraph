@@ -1,0 +1,30 @@
+
+With same rare tokens:
+26 - 47 links:
+test_sorts	:	42 - 47
+test_sorts	:	50 - 74
+counting_sort	:	15 - 44
+sortalg	:	42 - 63
+py_cocktail_sort	:	7 - 18
+cocktailsort	:	2 - 21
+sortable	:	28 - 32
+sortable	:	7 - 12
+sortable	:	3 - 5
+timsort	:	12 - 16
+sortTest	:	13 - 21
+
+8 - 14 links:
+sortable	:	28 - 32
+sortable	:	7 - 12
+sortable	:	3 - 5
+
+20 - 24 links:
+sortable	:	28 - 32
+sortable	:	7 - 12
+sortable	:	3 - 5
+
+51 - 63 links:
+sortingtest	:	21 - 24
+sortable	:	28 - 32
+sortable	:	65 - 81
+

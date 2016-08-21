@@ -1,0 +1,10 @@
+def solve_case n r p s if not okay r p s return impossible return build r p s 		49 51
+def readint return int fi readline 		22 23
+def okay s if len s == 1 return true t = for i in range len s // 2 if s 2 * i == s 2 * i + 1 return false t = t + winner s 2 * i s 2 * i + 1 return okay t 		53 59
+def read_case return readints 		28 29
+def print_solution case val = solve_case * case 1 msg = case #{}: {} format case 0 val print msg return msg 		72 76
+def readints return int x for x in fi readline split 		25 26
+def winner a b return w min a b max a b 		62 63
+def okay r p s if r + p + s <= 2 return max r p s < 2 return p <= r + s and r <= s + p and s <= p + r 		31 34
+def solve_case n r p s sss = r * r + p * p + s * s poss = sorted join x for x in itertools permutations sss for p in poss if okay p return p return impossible 		65 70
+def build r p s print r p s if r + p + s == 1 return for r p s sss rr rp rs in zip pairs spair outcome if r <= r and s <= s and p <= p if okay r - r + rr s - s + rs p - p + rp continue return sss + build r - r + rr p - p + rp s - s + rs return ??? 		40 47

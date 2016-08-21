@@ -1,0 +1,1 @@
+def solve word res = for c in word res = max c + res res + c return res 		4 8

@@ -1,3 +1,5 @@
+Direct links:
 8 - 17 links:
+pysort	:	79 - 98
 sort_insertion	:	8 - 14
 

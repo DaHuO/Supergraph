@@ -1,0 +1,1 @@
+def getchain i s if i in s return - 1000000 if bchain i == - 1 s = set s s add i if i in m bchain i = max getchain x s for x in m i + 1 else bchain i = 0 return bchain i 		8 18

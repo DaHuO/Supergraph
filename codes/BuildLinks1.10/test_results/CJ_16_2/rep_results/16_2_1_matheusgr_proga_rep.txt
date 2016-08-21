@@ -1,0 +1,1 @@
+symbol symbol tmp letter word 		10 16

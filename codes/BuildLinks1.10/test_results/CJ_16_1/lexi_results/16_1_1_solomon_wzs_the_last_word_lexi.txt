@@ -1,0 +1,1 @@
+def f s res = s 0 for i in s 1 if i >= res 0 res = i + res else res = res + i return res 		4 11

@@ -1,0 +1,2 @@
+bffi try sequence n if sequence 0 		9 18
+b1 bffi b1 b1 i = 0 		20 27

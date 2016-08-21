@@ -1,0 +1,1 @@
+def lol hilary trump otherguy up = hilary ** trump down = up / hilary president = down * 2 list = while president <= up list append president president += down fhand2 write  + str 2 print 2 for num in list fhand2 write  + str num print num return list 		4 17

@@ -1,0 +1,2 @@
+def calccyclelen u nxt vis l = 0 while u not in vis vis add u u = nxt u l += 1 return l 		8 14
+def findcycle pre u l nxt vis mp v = nxt u if v == pre if v not in mp mp v = l else mp v = max mp v l return l if v in vis nvis = set return calccyclelen u nxt nvis vis add v return findcycle u v l + 1 nxt vis mp 		16 28

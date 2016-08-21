@@ -1,0 +1,3 @@
+is_prime n if n % 2 == 		3 9
+def solve s x res s = s strip 		11 19
+c://codejam/a1large.in c://codejam/a1large.out f = open r 		21 29

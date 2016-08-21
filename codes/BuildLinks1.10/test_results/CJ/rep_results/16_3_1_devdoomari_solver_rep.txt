@@ -1,0 +1,7 @@
+has_one_party_only num_senators count 		14 16
+get_nth_party_name 		5 6
+get_nth_party_name has_one_party_only get_nth_party_name has_one_party_majority get_nth_party_name max_index = get_max_index num_senators while num_senators max_index > 0 result 		23 43
+translate_to_array input_line 		45 47
+nth nth 		8 9
+has_one_party_majority max_sen max_sen max 		18 21
+def 		11 12

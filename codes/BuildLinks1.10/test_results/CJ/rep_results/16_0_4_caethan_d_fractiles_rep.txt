@@ -1,0 +1,16 @@
+def 		49 51
+def 		86 87
+def __get__ 		52 54
+def read_ints 		77 78
+find_witness witnessed witnessed = 		102 106
+		60 67
+hashable __call__ self * args if not 		38 48
+object read_strings 		88 89
+def read_floats 		84 85
+def 		82 83
+%i find_witness witnessed witnessed s if 		109 112
+izip_longest grouper iterable n 		96 99
+read_bigints line = 		79 81
+def 		75 76
+read_bigints object infile def read_int return int infile readline strip def read_ints return np array infile 		69 93
+def __init__ 		35 37

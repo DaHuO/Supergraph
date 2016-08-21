@@ -1,0 +1,6 @@
+def fight a b if a == b return none else return winners frozenset a b 		69 73
+def process_case f_in f_out case_no other_data = none n r p s = toks_line f_in ans = solve n r p s if ans is none ans = impossible print case #{}: {} format case_no ans file = f_out 		31 36
+def process_first f_in num_cases = int f_in readline other_data = none return num_cases other_data 		26 29
+def solve n r p s lineups = players = r * r + p * p + s * s for perm in it permutations players lineup = join perm for i in range n lineup = round lineup if lineup is none break if lineup is not none lineups append join perm if not lineups return none lineups sort return lineups 0 		38 52
+def round lineup new_lineup = for i in range len lineup // 2 winner = fight lineup i * 2 lineup i * 2 + 1 if winner is none return none new_lineup += winner return new_lineup 		54 61
+def toks_line f_in fun = int return fun k for k in f_in readline split 		23 24

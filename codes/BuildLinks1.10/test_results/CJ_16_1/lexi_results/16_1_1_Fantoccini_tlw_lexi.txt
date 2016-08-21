@@ -1,0 +1,1 @@
+def solve line res = for ch in line strip if ch + res > res + ch res = ch + res else res = res + ch return res 		4 11

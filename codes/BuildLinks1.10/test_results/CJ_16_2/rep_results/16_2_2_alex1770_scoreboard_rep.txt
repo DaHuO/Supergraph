@@ -1,0 +1,1 @@
+best1 best1 best1 best1 C0 = list C0 J0 = list J0 n = len C0 assert len J0 == n l = for m in range n for s in - 1 0 1 C1 = C0 J1 = J0 for i in range n c = C0 i j = J0 i if i < m or s == 0 if c == ? and j == ? C1 i = J1 i = 0 continue if 		3 64

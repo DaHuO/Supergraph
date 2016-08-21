@@ -1,0 +1,4 @@
+remaindigits remaindigits remaindigits remaindigits remaindigits remaindigits checkword removedigit checkword removedigit checkword removedigit checkword removedigit checkword removedigit remaindigits checkword removedigit numbers_str numbers_str numbers_str five digits append six digits append seven digits append eight digits append nine = append one append three append five 		30 107
+checkword exist exist exist true 		3 12
+a-small-attempt1.in numoftestcases numoftestcases open r as ins 		109 120
+removedigit digit line new_line 		15 26

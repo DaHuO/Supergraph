@@ -1,0 +1,1 @@
+def solveCase S = next stdin - 1 C = defaultdict int for s in S C s += 1 c = 		5 21

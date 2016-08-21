@@ -1,0 +1,12 @@
+
+With same rare tokens:
+5 - 7 links:
+16_3_1_AndersTornkvist_a	:	235 - 236
+16_0_4_Azrathud_problem_file	:	43 - 45
+16_3_1_brusco_a	:	6 - 9
+16_0_4_ait_main	:	6 - 17
+
+25 - 39 links:
+16_3_1_algomaus_A	:	17 - 53
+16_3_1_algomaus_A	:	17 - 53
+

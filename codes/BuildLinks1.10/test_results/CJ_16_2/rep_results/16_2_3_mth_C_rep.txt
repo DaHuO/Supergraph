@@ -1,0 +1,7 @@
+def parse inp n = int 		10 17
+topicWords topicWords pairedWith pairedWith maxDoubleIntro subsets maxDoubleIntro maxDoubleIntro maxDoubleIntro for w1 w2 in topics 		64 84
+subsets sequence sequence = tuple sequence size = len sequence 		19 36
+def rec s i if i == 		26 35
+setrecursionlimit RECURSION_LIMIT soft getrlimit setrlimit MEM_LIMIT_GB 1024 apply apply_async [%s/%s] %%s\n RLIMIT_AS resource resource RLIMIT_AS * ** 3 hard with open FILE_NAME_BASE + .in r as inp numCases = 		86 114
+wordsToIndices words known = for 		38 45
+pairedWith paired paired 		47 51

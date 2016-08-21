@@ -1,0 +1,1 @@
+partiess partiess n letters = abcdefghijklmnopqrstuvwxyz = n split parties = for p in parties append int p 		8 36

@@ -1,0 +1,1 @@
+def one_test s = input res = for c in s res = max c + res res + c return res 		1 6

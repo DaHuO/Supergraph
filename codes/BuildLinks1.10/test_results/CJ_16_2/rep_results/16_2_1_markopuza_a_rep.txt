@@ -1,0 +1,1 @@
+def find x if sum x == 0 return for i in range 		3 23

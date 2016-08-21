@@ -1,0 +1,2 @@
+def check0 l for i in range 0 len l if l i != 0 return false return true 		13 17
+def check lb a l = lb l a -= 1 for i in range 0 len l if sum l / 2 < l i return false return true 		3 11

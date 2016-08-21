@@ -1,0 +1,3 @@
+def dfs id bfs seen if id in seen return id seen add id return dfs bfs id bfs seen 		17 21
+def cycle id bfs count = 1 cur = id while bfs cur != id g_seen add cur cur = bfs cur count += 1 return count 		7 14
+def longe id adj seen forbid if id == forbid return 0 count = 0 for i in adj id count = max count longe i adj seen forbid return count + 1 		23 29

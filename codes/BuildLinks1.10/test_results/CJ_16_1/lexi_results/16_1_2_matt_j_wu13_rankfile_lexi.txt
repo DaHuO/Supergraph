@@ -1,0 +1,1 @@
+def solve lists biggestnumber = 0 for l in lists biggestnumber = max biggestnumber max l heights = for i in range biggestnumber + 1 heights append 0 for l in lists for num in l heights num += 1 missinglist = for h in range len heights if heights h % 2 != 0 missinglist append h s = for m in missinglist s +=  + str m return s 1 		4 25

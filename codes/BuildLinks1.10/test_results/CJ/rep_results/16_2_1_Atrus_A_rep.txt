@@ -1,0 +1,1 @@
+check_order check_order s answer = letters = for l in s if l in letters letters l += 1 else letters l 		13 48

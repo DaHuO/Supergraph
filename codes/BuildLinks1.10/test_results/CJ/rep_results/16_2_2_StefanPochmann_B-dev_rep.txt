@@ -1,0 +1,4 @@
+naive c j def nums x x = x replace ? . 		9 19
+{:0{}} 		6 7
+def nums x 		10 12
+def key 		16 18

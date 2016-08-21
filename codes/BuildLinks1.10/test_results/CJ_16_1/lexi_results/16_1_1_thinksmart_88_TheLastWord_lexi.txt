@@ -1,0 +1,1 @@
+def func string result = + string 0 for i in xrange 1 len string letter = string i if letter >= result 0 result = letter + result else result = result + letter return result 		8 18

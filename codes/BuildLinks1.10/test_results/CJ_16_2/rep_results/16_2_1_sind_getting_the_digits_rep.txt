@@ -1,0 +1,1 @@
+def solve a digits = a = list a while len a > 2 if Z in a digits append 0 del a a index Z del a a index E del a a index R del a a index O if X in a digits append 6 del a a index S del a a index I del a a index X if G in 		2 69

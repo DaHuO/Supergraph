@@ -1,0 +1,2 @@
+findmax secmax secmax secmax secmax arr indices = for i in range 0 len 		1 16
+allones all1s = true for a in 		18 27

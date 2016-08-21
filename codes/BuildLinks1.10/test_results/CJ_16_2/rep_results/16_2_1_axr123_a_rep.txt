@@ -1,0 +1,1 @@
+def update s digit 		6 12

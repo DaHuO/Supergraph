@@ -1,0 +1,1 @@
+def update c k num count = c inds k for i in num c inds i -= count return count c 		13 17

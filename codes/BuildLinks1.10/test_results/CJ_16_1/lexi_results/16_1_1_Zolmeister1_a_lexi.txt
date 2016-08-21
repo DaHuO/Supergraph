@@ -1,0 +1,1 @@
+def pp t s out = case #{}: {} format t + 1 s print out fout write out + \n 		8 11

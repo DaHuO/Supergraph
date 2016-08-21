@@ -1,0 +1,5 @@
+def checkNum s letters 		14 20
+inputvars f = 		2 6
+inputvars outputvars num numlist = output = for x in range num letters = list numlist x curnum = while len letters > 0 while checkNum SIX letters letters = 		30 70
+def removeLetter 		22 28
+outputvars num output f = open 		8 12

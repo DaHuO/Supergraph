@@ -1,0 +1,1 @@
+def main text result = for key number in od items while key in text result append number for l in DIGITS number text = text replace l 1 return sorted result 		15 23

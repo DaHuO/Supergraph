@@ -1,0 +1,1 @@
+def sol n l c = defaultdict int 		4 13

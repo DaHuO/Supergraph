@@ -1,0 +1,7 @@
+def read_int return int read_input 		16 17
+def solve_matrix n soldier_lists solution = used_edges = for iteration in xrange n valid_soldiers = i l for i l in enumerate soldier_lists if i not in used_edges top_left = min min x for j x in enumerate l if j >= iteration for i l in valid_soldiers edges = l for i l in valid_soldiers if l iteration == top_left used_edges += i for i l in valid_soldiers if l iteration == top_left if len edges == 2 edge_heights = edges 0 + edges 1 for soldiers in soldier_lists value = soldiers iteration edge_heights remove value solution append edge_heights 0 used_edges else solution append edges 0 iteration return  join str x for x in solution 		29 54
+def read_input_multi strip = true return read_input strip split 		12 13
+def solve n = read_int num_lists = 2 * n - 1 soldier_lists = read_int_multi for _ in xrange num_lists line = solve_matrix n soldier_lists return line 		59 64
+def read_input strip = true return raw_input strip if strip else raw_input 		8 9
+def read_int_multi return int s for s in read_input_multi 		20 21
+def print_solution i solution print case #{}: {} format i solution 		24 25

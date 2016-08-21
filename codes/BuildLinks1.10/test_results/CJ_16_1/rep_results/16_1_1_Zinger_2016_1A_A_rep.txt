@@ -1,0 +1,1 @@
+def doit s if s == return 		12 18

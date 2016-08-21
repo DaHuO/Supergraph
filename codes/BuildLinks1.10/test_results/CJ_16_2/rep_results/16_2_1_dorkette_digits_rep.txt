@@ -1,0 +1,3 @@
+inData rt inData 		15 20
+printTest aVariable = 		22 25
+printOutput number result 		27 30

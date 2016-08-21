@@ -1,0 +1,1 @@
+def finddepth id if depth id != inf return finddepth friendof id depth id = depth friendof id + 1 root id = root friendof id 		7 14

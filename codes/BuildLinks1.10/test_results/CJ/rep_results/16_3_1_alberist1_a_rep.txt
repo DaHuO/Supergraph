@@ -1,0 +1,1 @@
+def solve n = int input p = int x chr ord a + i 		5 21

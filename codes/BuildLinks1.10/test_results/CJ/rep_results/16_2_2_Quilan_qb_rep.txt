@@ -1,0 +1,4 @@
+parseinput outbuf outbuf outbuf buf split \n buf 		28 42
+combinations_with_replacement iterable r pool = tuple 		44 49
+solveproblem rnd fmt1 fmt2 fmt1 fmt2 on1 on2 on1 on2 on1 on2 rnd == ? rep1 append i rep2 = for i v in enumerate t2 if v == ? rep2 		51 91
+getinput curtype example examplestring %s- curproblem curtype %s-large.in curproblem curtype 		15 26

@@ -1,0 +1,27 @@
+
+With same rare tokens:
+96 - 133 links:
+cyclesort	:	3 - 20
+counting_sort	:	15 - 44
+sorts	:	11 - 43
+sortable	:	49 - 52
+pysort	:	226 - 242
+pysort	:	208 - 224
+pysort	:	244 - 264
+quicksort_inplace	:	3 - 12
+
+24 - 40 links:
+selection_sort	:	7 - 19
+
+1 - 22 links:
+sortalg	:	22 - 40
+bubble_sort	:	7 - 15
+test_bubble_sort	:	8 - 9
+sorts	:	170 - 194
+
+42 - 60 links:
+test_insertion_sort	:	8 - 9
+sorter	:	49 - 56
+insertion-sort	:	4 - 13
+insertion_sort	:	1 - 8
+

@@ -1,0 +1,3 @@
+def has ch dd 		24 27
+mincs hassol mincs hassol global minc if nc == 0 return True 		29 39
+hassol solve N print N ch 		41 47

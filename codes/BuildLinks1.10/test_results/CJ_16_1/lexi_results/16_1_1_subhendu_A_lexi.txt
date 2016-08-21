@@ -1,0 +1,1 @@
+def solvea w res = w 0 p = w 0 for i in range len w - 1 j = i + 1 nc = w j pc = res 0 if ord nc >= ord pc res = nc + res else res = res + nc return res 		1 15

@@ -1,0 +1,2 @@
+def trova m c m_c = 0 * 30 for i in c m_c ord i - ord a += 1 for j in range 30 if m_c j > m j return false return true 		3 8
+def togli m c for i in c m ord i - ord a -= 1 		10 11

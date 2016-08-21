@@ -1,0 +1,6 @@
+remove06824 s if z in s s = s replace z 1 s = s replace e 1 s = s replace r 1 s = s replace o 1 return 		2 38
+laterremove5 s if f in s s 		69 79
+laterremove9 s if n in s s 		58 67
+laterremove13 s if o in s s = s replace o 1 s 		40 56
+remove06824 remove06824 laterremove13 laterremove13 laterremove7 laterremove7 laterremove9 laterremove9 laterremove5 laterremove5 w = open out.txt w tc = r readline tc = int tc i = 0 while tc > 0 i += 		94 144
+laterremove7 s if s in s s = 		81 91

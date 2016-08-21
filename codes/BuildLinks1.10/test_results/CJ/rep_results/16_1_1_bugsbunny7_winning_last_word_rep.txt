@@ -1,0 +1,2 @@
+combine current_word current_word = 		2 7
+win_last_word next_word_list combine next_word_list next_word_list == 1 return word whiteboard 		12 25

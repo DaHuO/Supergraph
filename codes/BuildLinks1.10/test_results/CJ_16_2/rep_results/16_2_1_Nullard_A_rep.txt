@@ -1,0 +1,4 @@
+def solve s = readone str s = str sorted s count = 0 * 10 count 6 = s count X s = remlet s SIX count 6 count 4 = 		14 54
+readmany 		7 7
+def remlet s 		9 12
+def 		6 6

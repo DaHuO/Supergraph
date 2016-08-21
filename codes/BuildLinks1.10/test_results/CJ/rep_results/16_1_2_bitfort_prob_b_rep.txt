@@ -1,0 +1,2 @@
+intersect covered covered covered covered = none cs = = set i 		6 18
+diag compli compli compli = len l + 1 / 2 = set p i for p in l for i in xrange n smallest = 		21 51

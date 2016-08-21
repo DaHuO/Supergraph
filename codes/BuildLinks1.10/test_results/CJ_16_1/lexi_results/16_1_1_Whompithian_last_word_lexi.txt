@@ -1,0 +1,2 @@
+def blank tc a = tc 0 for c in tc 1 - 1 if c >= a 0 a insert 0 c else a append c return join a 		18 25
+def main output = i = 1 with open sys argv 1 r as f lines = f readlines for line in lines 1 a = blank line output append case #{}: {}\n format i a i += 1 with open output.txt w as f for o in output f write o 		5 16

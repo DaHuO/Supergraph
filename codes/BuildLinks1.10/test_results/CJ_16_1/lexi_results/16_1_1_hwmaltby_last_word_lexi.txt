@@ -1,0 +1,1 @@
+def last_word s word = s 0 if len s == 1 return word for c in s 1 if c < word 0 word = word + c else word = c + word return word 		4 16

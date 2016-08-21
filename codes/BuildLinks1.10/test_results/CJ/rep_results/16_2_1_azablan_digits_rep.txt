@@ -1,0 +1,2 @@
+def contains 		36 37
+scount scount thisscount scount thisscount itervalues thisscount scount itervalues i < len digit 		18 33

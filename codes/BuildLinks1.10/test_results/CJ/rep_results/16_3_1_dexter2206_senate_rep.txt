@@ -1,0 +1,2 @@
+get_plan next_plan next_plan next_plan next_plan for k in range n senators k = p k plan = 		6 27
+get_plan main t = int input 		30 36

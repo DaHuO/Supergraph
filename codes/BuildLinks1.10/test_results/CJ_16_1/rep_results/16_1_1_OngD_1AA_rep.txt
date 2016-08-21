@@ -1,0 +1,2 @@
+openfile input_file 		4 12
+def last_word n ret = deque 		15 23

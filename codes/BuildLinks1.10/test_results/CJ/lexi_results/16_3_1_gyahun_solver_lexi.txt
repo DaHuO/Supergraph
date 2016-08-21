@@ -1,0 +1,2 @@
+def solve test senators = counter test s evacuated = while + senators first = max senators key = senators get senators first -= 1 if len + senators == 2 and all n == 1 for n in + senators values evacuated append first else second = max senators key = senators get senators second -= 1 evacuated append first + second return  join evacuated 		9 22
+def read line return test counter dict zip uppers map int line split 		6 7

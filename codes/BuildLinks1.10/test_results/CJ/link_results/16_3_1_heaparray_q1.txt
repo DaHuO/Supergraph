@@ -1,0 +1,48 @@
+
+With same rare tokens:
+45 - 46 links:
+16_3_1_Earthwings_evacuation	:	9 - 10
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_dborzov_sol	:	9 - 10
+16_3_1_BlackEleph_a	:	12 - 56
+16_3_1_hoenaime_1C Pb1	:	51 - 70
+
+8 - 17 links:
+16_2_2_OmerDoron_CloseMatch	:	94 - 100
+16_2_2_OmerDoron_CloseMatch	:	94 - 100
+16_2_2_OmerDoron_CloseMatch	:	94 - 100
+16_2_2_OmerDoron_CloseMatch	:	94 - 100
+
+24 - 43 links:
+16_3_1_Earthwings_evacuation	:	9 - 10
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_Earthwings_evacuation	:	9 - 10
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_Earthwings_evacuation	:	9 - 10
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_Earthwings_evacuation	:	9 - 10
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_Earthwings_evacuation	:	12 - 29
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+16_3_1_chaidao001_solv	:	1 - 25
+
+78 - 84 links:
+16_2_2_x1Mike7x_B	:	68 - 75
+

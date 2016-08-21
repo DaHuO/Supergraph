@@ -1,0 +1,4 @@
+def 		1 2
+def 		4 5
+repeat func 		10 11
+printcase pattern 		7 8

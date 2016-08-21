@@ -1,0 +1,7 @@
+read_list_of_str 		32 33
+read_list_of_float 		40 41
+is_even 		48 49
+def 		28 29
+def 		24 25
+is_odd 		44 45
+read_list_of_int 		36 37

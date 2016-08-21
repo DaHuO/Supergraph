@@ -1,0 +1,87 @@
+Direct links:
+28 - 29 links:
+16_0_4_caethan_d_fractiles	:	49 - 51
+16_2_1_bsoist_A	:	21 - 23
+16_1_2_Aurel_code	:	20 - 22
+16_1_1_Aurel_code	:	20 - 22
+
+18 - 26 links:
+16_0_4_caethan_d_fractiles	:	38 - 48
+16_2_1_bsoist_A	:	10 - 20
+
+
+With same rare tokens:
+77 - 88 links:
+16_0_4_bigOnion_fractiles	:	127 - 131
+16_2_2_bigOnion_close_match	:	134 - 138
+16_2_1_bigOnion_phone	:	134 - 138
+16_2_2_mth_B	:	77 - 105
+16_3_1_FeDal_main	:	13 - 35
+
+90 - 122 links:
+16_1_1_Brennan_problem-a	:	3 - 14
+16_2_1_Brennan_problem-a	:	18 - 52
+16_3_1_FeDal_main	:	13 - 35
+16_2_2_GumJum_q2	:	34 - 47
+16_2_2_GumJum_q2	:	34 - 47
+16_2_2_GumJum_q2	:	34 - 47
+
+134 - 139 links:
+16_2_2_Vytas_solution	:	26 - 27
+16_2_2_Vytas_solution	:	23 - 24
+16_2_2_tanriol_B	:	32 - 33
+16_2_2_tanriol_B	:	35 - 36
+16_0_4_dalgacik_main	:	8 - 14
+
+243 - 282 links:
+16_3_1_FeDal_main	:	13 - 35
+16_3_1_davids_senate	:	91 - 130
+16_3_1_davids_senate	:	91 - 130
+16_3_1_davids_senate	:	91 - 130
+16_0_4_EarthShadows_fractal	:	9 - 20
+16_2_2_jeroenvw_gcj	:	70 - 108
+16_2_2_jeroenvw_gcj	:	70 - 108
+16_2_2_jeroenvw_gcj	:	70 - 108
+16_3_1_FeDal_main	:	13 - 35
+
+285 - 287 links:
+16_1_1_Codertron_ProblemA	:	6 - 25
+16_2_1_Codertron_ProblemA	:	6 - 25
+16_1_1_Brennan_problem-a	:	3 - 14
+16_2_1_Brennan_problem-a	:	18 - 52
+
+67 - 75 links:
+16_0_4_bigOnion_fractiles	:	121 - 125
+16_2_2_bigOnion_close_match	:	128 - 132
+16_2_1_bigOnion_phone	:	128 - 132
+
+18 - 26 links:
+16_0_4_caethan_d_fractiles	:	38 - 48
+16_2_1_bsoist_A	:	10 - 20
+
+124 - 129 links:
+16_2_2_Vytas_solution	:	26 - 27
+16_2_2_Vytas_solution	:	23 - 24
+16_2_2_tanriol_B	:	32 - 33
+16_2_2_tanriol_B	:	35 - 36
+16_0_4_dalgacik_main	:	8 - 14
+
+141 - 159 links:
+16_2_2_lbj_B	:	3 - 69
+16_1_1_Codertron_ProblemA	:	6 - 25
+16_2_1_Codertron_ProblemA	:	6 - 25
+
+235 - 236 links:
+16_0_4_ait_loadFile	:	5 - 7
+16_0_4_Azrathud_problem_file	:	43 - 45
+16_3_1_brusco_a	:	6 - 9
+
+50 - 65 links:
+16_1_1_Codertron_ProblemA	:	6 - 25
+16_2_2_x1Mike7x_B	:	68 - 75
+16_2_1_Codertron_ProblemA	:	6 - 25
+16_1_1_Cornfield_theLastWord	:	31 - 42
+16_2_1_Cornfield_GettingTheDigits	:	73 - 83
+16_2_2_x1Mike7x_B	:	68 - 75
+16_1_1_100aaa_thelastword	:	3 - 12
+

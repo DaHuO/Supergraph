@@ -1,0 +1,4 @@
+def test_col mat line col for i v in enumerate line if mat i col != 0 and mat i col != v return false return true 		11 15
+def write_col mat line col for i v in enumerate line mat i col = v 		23 25
+def write_row mat line row for i v in enumerate line mat row i = v 		18 20
+def test_row mat line row for i v in enumerate line if mat row i != 0 and mat row i != v return false return true 		4 8

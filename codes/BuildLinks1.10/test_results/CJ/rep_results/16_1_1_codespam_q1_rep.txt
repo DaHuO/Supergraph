@@ -1,0 +1,2 @@
+def run case s = case 0 		10 19
+		6 7

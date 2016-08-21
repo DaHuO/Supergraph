@@ -1,0 +1,2 @@
+def check p ans sums 		7 14
+def sol n p if debug print -> p ans = while true sums = sum p maxs = 		16 51

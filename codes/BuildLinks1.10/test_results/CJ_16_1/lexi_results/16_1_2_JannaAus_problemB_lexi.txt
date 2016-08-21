@@ -1,0 +1,1 @@
+def addheightstodict x dictheights if x in dictheights dictheights x = dictheights x + 1 else dictheights x = 1 return dictheights 		3 8

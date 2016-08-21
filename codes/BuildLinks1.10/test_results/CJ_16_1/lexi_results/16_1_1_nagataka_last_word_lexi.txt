@@ -1,0 +1,1 @@
+def solve word last = for char in word if last == last += char elif char >= last 0 last = char + last else last += char return last 		6 16

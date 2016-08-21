@@ -1,0 +1,4 @@
+def doCase stuff digits = print stuff while Z in stuff stuff = stuff replace Z 1 stuff = stuff replace E 1 stuff = stuff replace R 1 stuff = stuff replace O 1 digits append 0 while W in stuff stuff = stuff replace T 1 stuff = stuff replace W 1 stuff = stuff replace O 1 digits append 2 while 		54 131
+runSolution inFile lines = open inFile mode = r readlines ln = 0 cases = int 		20 42
+def 		50 52
+def formatCaseInput 		45 48

@@ -1,0 +1,1 @@
+def solve_case p result = zeros = sum 1 for x in p if x == 0 l = for i v in enumerate p l append int v alphabet i l = sorted l reverse = true while 1 l = len l if l 		5 48

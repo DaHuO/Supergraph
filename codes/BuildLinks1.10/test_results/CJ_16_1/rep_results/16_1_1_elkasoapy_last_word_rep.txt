@@ -1,0 +1,2 @@
+read_problem_file current_line current_line formatted file! = open filename 		17 34
+input_letters input_letters input_letters = 0 		37 46

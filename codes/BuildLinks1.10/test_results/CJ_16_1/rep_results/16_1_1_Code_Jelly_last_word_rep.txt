@@ -1,0 +1,2 @@
+mainlogic numcases infile output = for 		14 19
+def getlastword instr if len instr == 		3 12

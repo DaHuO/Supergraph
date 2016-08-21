@@ -1,0 +1,2 @@
+all_items all_items n lists = x for 		5 9
+def main t = int sys stdin readline strip for k in 		11 20

@@ -1,0 +1,3 @@
+def subarr a b c 		14 20
+to26arr s arr = 		22 26
+to26arr kuso s digit26 s_arr = s answer = for i in range s_arr 25 answer append 0 s_arr = subarr s_arr digit26 0 for i in range s_arr 23 answer append 6 s_arr = 		29 79

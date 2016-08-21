@@ -1,0 +1,1 @@
+def winner s newstr = s 0 		5 12

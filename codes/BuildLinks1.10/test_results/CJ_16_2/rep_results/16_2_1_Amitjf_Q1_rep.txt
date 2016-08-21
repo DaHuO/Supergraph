@@ -1,0 +1,2 @@
+def fixLists lstAlpha lstCountDig s ch 		3 7
+def solve f_in S = f readline strip phoneNumber = lstAlpha = 0 * ord Z - ord A + 1 lstCountDig = 0 * 10 for ch 		8 27

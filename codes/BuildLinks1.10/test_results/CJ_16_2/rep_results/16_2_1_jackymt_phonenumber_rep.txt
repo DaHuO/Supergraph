@@ -1,0 +1,4 @@
+_soln _soln p 		70 75
+def possible s i_count = for c in s if c not 		12 28
+def take i s i_count = for c in s if c not 		30 47
+def solution s p = possible s r = if 		50 68

@@ -1,0 +1,2 @@
+def lastword word res = word 0 for c in word 1 if c >= res 0 res = c + res else res = res + c return res 		1 9
+def solve file f = open file r count = f readline case = 1 for l in f readlines word = l strip print case #%d: %s % case lastword word case += 1 f close 		11 19

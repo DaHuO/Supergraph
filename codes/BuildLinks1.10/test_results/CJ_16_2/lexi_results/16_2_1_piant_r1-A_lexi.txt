@@ -1,0 +1,1 @@
+def go2 s cnt_s = Counter s n_s = len s result = for uniq in uniqs for letter lset num in uniq how_many = cnt_s letter if how_many > 0 for k in lset cnt_s k -= how_many * lset k n_s -= how_many * sum lset values result += num * how_many if n_s > 0 result += n_s / 4 * 9 return join sorted result 		15 29

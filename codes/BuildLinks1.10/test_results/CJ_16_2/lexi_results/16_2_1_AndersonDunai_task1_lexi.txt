@@ -1,0 +1,2 @@
+def solve sentence sentence = sorted list sentence results = process sentence return join str x for x in results 0 		50 56
+def process source history results = for i word in enumerate DIGITS copy = source for c in word try copy remove c except pass if len copy == len source - len word if len copy == 0 results = results + history + i else results = results + process copy history + i return x for x in results if x 		30 47

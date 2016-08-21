@@ -1,0 +1,1 @@
+def main with open a-large.in as in_file with open a-large.out w as fout 		5 20

@@ -1,0 +1,3 @@
+word_to_number identify number 		62 67
+def filter 		14 16
+identify stop stop stop False if Z in letters filter letters key 0 number append 0 elif W in letters filter letters key 2 		19 59

@@ -1,0 +1,7 @@
+def parse_input T = read_int cases = for _ in xrange T cases append read_string return cases 		9 14
+def read_pair return int x for x in raw_input strip split , 		5 5
+def read_string return raw_input strip 		6 6
+def read_int_list return int x for x in raw_input split 		4 4
+def solve_case word lcounts = c 0 for c in letters for c in word lcounts c += 1 nzero = lcounts Z for c in ZERO lcounts c -= nzero ntwo = lcounts W for c in TWO lcounts c -= ntwo nsix = lcounts X for c in SIX lcounts c -= nsix neight = lcounts G for c in EIGHT lcounts c -= neight nseven = lcounts S for c in SEVEN lcounts c -= nseven nfive = lcounts V for c in FIVE lcounts c -= nfive nthree = lcounts H for c in THREE lcounts c -= nthree nnine = lcounts I for c in NINE lcounts c -= nnine nfour = lcounts R for c in FOUR lcounts c -= nfour none = lcounts N for c in ONE lcounts c -= none for c in letters assert lcounts c == 0 res = 0 * nzero + 1 * none + 2 * ntwo + 3 * nthree + 4 * nfour + 5 * nfive + 6 * nsix + 7 * nseven + 8 * neight + 9 * nnine return join res 		18 91
+def read_int return int raw_input 		2 2
+def read_pair_list return int pair split , 0 int pair split , 1 for pair in raw_input split 		3 3

@@ -1,0 +1,17 @@
+Direct links:
+74 - 82 links:
+16_1_1_waitingkuo0527_main	:	26 - 34
+16_1_1_ziyan_a	:	15 - 20
+16_1_1_cavoo_a	:	12 - 17
+16_1_1_happyhacking_the-last-word	:	13 - 18
+16_1_1_thatsmybo4t_lastword	:	13 - 18
+16_1_2_thatsmybo4t_rankNfile	:	18 - 23
+16_1_1_mbcko_solve	:	18 - 23
+16_1_2_waitingkuo0527_main	:	57 - 65
+
+
+With same rare tokens:
+1 - 62 links:
+16_1_3_mrauen_C	:	100 - 125
+16_1_3_mrauen_C	:	100 - 125
+

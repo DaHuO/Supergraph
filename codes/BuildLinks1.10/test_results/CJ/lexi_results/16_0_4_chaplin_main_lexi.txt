@@ -1,0 +1,3 @@
+def problem_2016d_small t = int raw_input for case in range 1 t + 1 k c s = int item for item in raw_input split print case # + str case + : for i in range k print i + 1 print 		1 8
+def problem_2016d_large pass 		10 11
+def main problem_2016d_small 		16 18

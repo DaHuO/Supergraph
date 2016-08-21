@@ -1,0 +1,2 @@
+def winningword given 		3 7
+_domain inp = sys stdin ncases 		9 14

@@ -1,0 +1,1 @@
+def lastword s ns 		1 5

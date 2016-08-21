@@ -1,0 +1,1 @@
+def find c n s while d get c 0 r n += 1 for _c in s d _c -= 1 if d _c == 0 del d _c 		20 26

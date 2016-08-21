@@ -1,0 +1,4 @@
+OutputTestCase tcn tcn 		20 21
+dg dg GetWord ch w dgs 		27 31
+SolveTestCase w d = dict for ch in w if not ch in d d ch = 0 d ch 		33 54
+GetWord d 		23 25

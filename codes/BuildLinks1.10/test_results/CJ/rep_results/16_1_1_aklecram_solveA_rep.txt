@@ -1,0 +1,3 @@
+def solve word 		35 39
+def run pool = none inp = sys argv 1 outp = %s.out % inp split . 0 		8 27
+def solve_wrapper args 		29 32

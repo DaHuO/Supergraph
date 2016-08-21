@@ -1,0 +1,3 @@
+recursebffs recursebffs bffs ind mutualpairs ct covered start if 		66 77
+readthroughdatageneric parts parts parts f = open filename r lct = 0 for line in f 		14 34
+recursebffs solve n bffs mutualpairs = for i in range 1 n if i < bffs i and bffs bffs 		36 64

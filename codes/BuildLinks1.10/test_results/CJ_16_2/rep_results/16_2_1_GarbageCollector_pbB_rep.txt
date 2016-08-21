@@ -1,0 +1,3 @@
+containremove solve_case S while True nums = ZERO 0 ONE 0 TWO 0 THREE 0 FOUR 0 FIVE 0 SIX 0 SEVEN 0 EIGHT 0 		19 64
+fout_name fout_name nb_cases nb_cases argv 1 split . 0 + 		67 84
+containremove S sub nums = Sr = S 		4 16

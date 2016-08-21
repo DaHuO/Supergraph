@@ -1,0 +1,2 @@
+matc n s n = str n 		3 10
+matc matc c j l = len c pc = set pj = set for i in range 10 ** l if i c pc add 		13 39

@@ -1,0 +1,5 @@
+pullWordsHelper toNumDict toWordDict toNumDict toNumDict toWordDict in if key in 		14 27
+pullWords uniquesToNum uniquesToWord pullWordsHelper uniquesToNum uniquesToWord postUniquesToNum postUniquesToWord pullWordsHelper postUniquesToNum postUniquesToWord finalsToNum finalsToWord pullWordsHelper finalsToNum finalsToWord X SIX 		49 69
+def charCount string dict 		5 12
+largeTestCase testString totalLen totalLen 2000 testString totalLen 		72 82
+testLarge 		84 86

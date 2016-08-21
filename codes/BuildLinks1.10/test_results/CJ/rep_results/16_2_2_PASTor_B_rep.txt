@@ -1,0 +1,1 @@
+smallera smallera smallera smallera smallera smallera i == len a return abs int join resa - int join resb resa resb if is none if a i != ? and b i != ? resa append a i resb append b i if a i != b i = a i < b i return solve i + 1 resa resb if a i == 		14 83

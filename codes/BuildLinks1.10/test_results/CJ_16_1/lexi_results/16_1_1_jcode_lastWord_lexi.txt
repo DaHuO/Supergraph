@@ -1,0 +1,2 @@
+def append l s return s + l 		9 10
+def prepend l s return l + s 		6 7

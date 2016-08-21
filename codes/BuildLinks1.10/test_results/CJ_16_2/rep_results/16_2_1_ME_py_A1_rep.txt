@@ -1,0 +1,1 @@
+digitWord digitWord s Digits = 0 ZERO 2 TWO 6 SIX 8 EIGHT 7 SEVEN 5 		4 37

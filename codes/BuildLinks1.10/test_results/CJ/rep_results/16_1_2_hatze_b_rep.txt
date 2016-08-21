@@ -1,0 +1,1 @@
+missingstr missingstr %i missingstr int raw_input for i in xrange 1 t + 1 n = int 		3 21

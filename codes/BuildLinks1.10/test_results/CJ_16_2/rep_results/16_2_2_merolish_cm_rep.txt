@@ -1,0 +1,1 @@
+def m s x n for i in 		1 5

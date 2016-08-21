@@ -1,0 +1,3 @@
+def 		81 82
+def main infile = sys argv 1 		70 79
+UPPER UPPER S = ABCDEFGHIJKLMNOPQRSTUVWXYZ counts = c S count c for c in digits = dict digits 0 = counts Z for c in ZERO counts c -= digits 0 digits 2 = counts 		18 68

@@ -1,0 +1,2 @@
+def f x x = list map int x split ans = while 1 m 		1 16
+def 		19 20

@@ -1,0 +1,6 @@
+A-small-out.txt main n words = parse 		40 46
+test_single_number get word for i in 		28 36
+def write out 		6 8
+def parse f 		10 13
+test_single_number n concat 		22 26
+def get_numbers n 		17 20

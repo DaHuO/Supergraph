@@ -1,0 +1,1 @@
+def doit inp items = for item in inp x = int i for 		13 26

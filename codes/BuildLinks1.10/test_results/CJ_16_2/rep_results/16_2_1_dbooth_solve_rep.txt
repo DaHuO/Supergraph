@@ -1,0 +1,3 @@
+uniqueWordSets uniqueWords uniqueWordSets uniqueWords remcount subcount remcount remcount Remaining counts: sortedRet sortedRet sortedRet sortedRet NINE charcounts = dict for word in words for c in word charcounts c 		19 56
+Need exactly args: not len sys argv == 3 print twos input filename and 		57 67
+subcount newMin oldMin newMin oldMin newMin for x in word 		7 17

@@ -1,0 +1,4 @@
+cperm genperms jperm genperms getmin cperm jperm j = cj 1 = c 		41 53
+genperms remainingperms genperms genperms remainingperms extra0 extra0 if s == ? return range 		8 21
+getmin minval 0xffffffff candmin candmin minval candmin minval minval candmin val2cands val2cands 		23 39
+exactly args: if not len sys argv == 3 print need twos input filename and output filename 		55 66

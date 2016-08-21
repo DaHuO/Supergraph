@@ -1,0 +1,3 @@
+getletters s counts = for letter in 		18 24
+getletters solve s counts = s nums = while counts z > 0 nums append 0 counts z -= 1 counts e -= 1 counts r -= 1 counts o -= 1 while counts w > 0 nums append 2 		26 76
+{0}.out main inf = open sys argv 1 r name = 		4 16

@@ -1,0 +1,2 @@
+def run case s = case 0 r = s for f in case 1 if r + f >= f + r r = r + f else r = f + r print r 		10 19
+def conv l return l 		6 7

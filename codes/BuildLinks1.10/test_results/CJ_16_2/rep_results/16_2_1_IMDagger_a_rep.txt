@@ -1,0 +1,5 @@
+compress solve S letters = 		48 53
+shift shift put_back letters path if not letters return list 		25 37
+put_back RULES letters cnt 		18 22
+compress S l 		40 45
+RULES 4000 digit letters need = digit cnt = for k 		1 15

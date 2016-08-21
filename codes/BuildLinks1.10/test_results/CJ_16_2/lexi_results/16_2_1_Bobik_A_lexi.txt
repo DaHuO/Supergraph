@@ -1,0 +1,1 @@
+def solve S C = defaultdict int for c in S C c += 1 R = 0 * 10 for c d in L n = C c R d += n for i in D d C i -= n return join str d for d in range 10 for _ in range R d 		6 18

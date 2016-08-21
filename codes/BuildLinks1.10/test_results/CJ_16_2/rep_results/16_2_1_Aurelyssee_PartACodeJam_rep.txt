@@ -1,0 +1,1 @@
+execute self data countOccur = dict i 0 for i in range 0 10 countPerLetter = collections defaultdict int for i in data countPerLetter i += 1 countExpLetter = collections defaultdict int for i in data if i == W countOccur 2 += 1 for l in TWO countExpLetter l += 		7 70

@@ -1,0 +1,1 @@
+def calcsingletest f line = f readline s = line translate none \r\n res = res += s 0 for c in s 1 if c >= res 0 res = c + res else res = res + c return res 		10 20

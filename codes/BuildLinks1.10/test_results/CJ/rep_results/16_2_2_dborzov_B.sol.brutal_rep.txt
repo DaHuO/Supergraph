@@ -1,0 +1,4 @@
+check_if_better res_coders res_jammers int join j_score = int join cur_diff = abs c_score - 		20 37
+padding padding num val 		62 65
+traverse broken res_coders res_jammers broken check_if_better traverse digit 		41 51
+def 		6 7

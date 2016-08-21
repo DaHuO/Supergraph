@@ -1,0 +1,9 @@
+fid fid 		40 46
+str2list 		10 11
+rm_num rm_char n sl 		14 19
+case_list fid case_list fid open 		49 53
+str2list rm_num s sl = 		32 37
+rm_char n sl for 		22 29
+a-large.in.txt a-out.txt case_list 		76 80
+def parse data r 		56 65
+def 		68 73

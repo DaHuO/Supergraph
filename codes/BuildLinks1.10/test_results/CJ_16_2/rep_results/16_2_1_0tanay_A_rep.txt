@@ -1,0 +1,1 @@
+def getNumber text letters = list text number = list while Z in letters number append 0 for x in ZERO letters remove x while W in letters number append 2 for 		1 59

@@ -1,0 +1,1 @@
+def solve_case line k c s = int i for i in line split if k != s return impossible solution = for i in xrange s solution append str k ** c - 1 * i + 1 return  join solution 		3 10

@@ -1,0 +1,19 @@
+Direct links:
+13 - 15 links:
+16_1_1_GJMIMIMEOW_ProblemA	:	13 - 15
+
+4 - 6 links:
+16_1_1_GJMIMIMEOW_ProblemA	:	4 - 6
+
+19 - 21 links:
+16_1_1_GJMIMIMEOW_ProblemA	:	19 - 21
+
+
+With same rare tokens:
+13 - 15 links:
+16_1_2_DpEpsilon_b	:	28 - 29
+16_1_1_GJMIMIMEOW_ProblemA	:	13 - 15
+
+19 - 21 links:
+16_1_1_GJMIMIMEOW_ProblemA	:	19 - 21
+

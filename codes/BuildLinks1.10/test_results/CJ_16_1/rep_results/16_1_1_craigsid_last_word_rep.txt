@@ -1,0 +1,3 @@
+def add_letter self c if self left == none 		12 21
+get_words get_words get_words if self 		23 28
+def __init__ 		7 10

@@ -1,0 +1,1 @@
+def find c n s 		20 26

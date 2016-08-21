@@ -1,0 +1,2 @@
+def _solve rows seen = for row in rows for 		13 26
+def solve 		28 30

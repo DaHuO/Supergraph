@@ -1,0 +1,3 @@
+def sol n f vis = 0 * n res = 0 def dfs i l if vis i r = l - vis i else vis 		5 38
+def dfs i l if vis 		9 17
+def lc i ii q = i l 		23 31

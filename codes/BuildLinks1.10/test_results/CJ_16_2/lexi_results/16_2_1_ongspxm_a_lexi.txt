@@ -1,0 +1,1 @@
+def rm S word for c in word S remove c return S 		1 4

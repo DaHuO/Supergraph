@@ -1,0 +1,1 @@
+def solve s if len s == 0 return m = max s p = s rfind max s return m + solve s p + s 1 + p 		5 9

@@ -1,0 +1,1 @@
+def solve n res = zeros = n count Z twos = n count W fours = n count U sixs = n count 		1 22

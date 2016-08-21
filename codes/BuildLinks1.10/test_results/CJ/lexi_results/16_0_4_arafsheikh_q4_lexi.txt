@@ -1,0 +1,2 @@
+def compute orig curr k st = list curr for i in xrange len st if st i == g st i = k * g else st i = orig return join st 		3 10
+def contains_g s for x in xrange len s if s x == g return true return false 		12 16

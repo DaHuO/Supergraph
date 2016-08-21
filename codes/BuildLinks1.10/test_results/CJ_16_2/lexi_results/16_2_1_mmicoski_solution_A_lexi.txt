@@ -1,0 +1,8 @@
+def endAccess self self fin close self fout close 		49 51
+def buscaDigito S dig s2 = S achou = True for ch in dig if ch in s2 ind = s2 index ch s2 = s2 0 ind + s2 ind + 1 else achou = False if not achou s2 = S return s2 achou 		70 84
+def writeLine self line self fout write line + \n 		46 47
+def buscaDigitos S digs global result opcoes = s2 = S for dig in numb2 s3 achou = buscaDigito s2 dig 1 if achou digs2 = list digs digs2 append dig if s3 == result = list digs2 else s4 = buscaDigitos s3 digs2 digs append opcoes return digs s2 = S achou = True for ch in dig if ch in s2 ind = s2 index ch s2 = s2 0 ind + s2 ind + 1 else achou = False if not achou s2 = S return s2 achou 		89 124
+def readLines self qt lines = for i in range qt line = self fin readline lines append line return lines 		38 44
+def readIntList self MN = self fin readline split MN = int x for x in MN return MN 		31 35
+def readInt self return int self fin readline 		27 28
+def __init__ self nomeIn nomeOut = nomeIn split . 0 + .out self fin = open nomeIn r self fout = open nomeOut w 		21 24

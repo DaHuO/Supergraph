@@ -1,0 +1,2 @@
+sirve sirve sirve ans = for j in range 1000 u = 		1 13
+mb mb s t a = gen s b 		15 25

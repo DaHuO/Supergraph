@@ -1,0 +1,5 @@
+find_doubles firsts seconds topics doubles 		7 12
+def add_dict d 		1 5
+real_topics real_topics real_topics find_doubles double_topic choose_doubles double_topic double_topic double_topic remove_topic remove_topic remove_topic remove_topic firsts = seconds = for _ in xrange N topic = f readline strip first second = topic split 		32 78
+def writeLine fout 		80 82
+choose_doubles chosen chosen chosen chosen = for topic in doubles add_dict f topic 		14 30

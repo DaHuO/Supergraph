@@ -1,0 +1,2 @@
+resolver contar dos seis ocho dos seis ocho sietes sietes cincos cincos tres tres nueves nueves cuatros cuatros unos unos dos tres cuatros cincos seis sietes ocho nueves in xrange zeros for l in numeros 0 letras l -= 1 for i in xrange for l 		20 60
+contar s letras = 		10 17

@@ -1,0 +1,2 @@
+def main n = int raw_input for i in xrange n s = list raw_input word = solve s print case #{}: {} format i + 1 word 		12 18
+def solve s word = s 1 for ch in s 1 if ch >= word 0 word = ch + word else word append ch return join word 		3 10

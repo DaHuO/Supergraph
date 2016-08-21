@@ -1,0 +1,1 @@
+def thing s d = 0 zero z 6 six x 8 eight g 2 two w 7 seven s 5 five v 3 three h 4 four r 1 one o 9 nine i ans = none * 10 e = for x in s e x = e get x 0 + 1 for a b c in d n = e get c 0 ans a = n for x in b e x = e get x 0 - n for x in e assert e x == 0 r = for i in range 10 r += str i * ans i return r 		3 24

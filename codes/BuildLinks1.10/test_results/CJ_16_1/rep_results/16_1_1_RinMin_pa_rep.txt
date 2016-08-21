@@ -1,0 +1,2 @@
+max_el big_i big_i big_i big = 		3 10
+spell_word max_el places = for c in s places append f i = len s 		12 30

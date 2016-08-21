@@ -1,0 +1,5 @@
+util print_case 		47 50
+<{} {}> 		26 27
+Trying picked pick picked Trying picked while pool trying = 		33 44
+pick s n s = 		10 17
+def __init__ 		22 24

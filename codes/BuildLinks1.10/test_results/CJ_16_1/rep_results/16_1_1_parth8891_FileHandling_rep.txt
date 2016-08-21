@@ -1,0 +1,4 @@
+def __init__ self filename = input.txt 		3 8
+__del__ 		17 18
+def 		14 15
+log_msg self msg 		10 12

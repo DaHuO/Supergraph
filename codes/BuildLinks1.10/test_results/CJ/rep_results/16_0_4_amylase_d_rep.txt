@@ -1,0 +1,1 @@
+student_count student_count student_count c s = k + c - 1 / c 		1 18

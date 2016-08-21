@@ -1,0 +1,1 @@
+def get freq number letter if letter not in freq or freq letter == 0 return 0 count = freq letter / number count letter for i in number freq i -= count return count 		8 18

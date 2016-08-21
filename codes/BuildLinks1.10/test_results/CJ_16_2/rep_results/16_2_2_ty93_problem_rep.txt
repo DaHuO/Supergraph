@@ -1,0 +1,9 @@
+def 		1 2
+check_all_possibilities possible_result get_better_result possible_result i = first_difference - 1 possible_results = if c i == ? and j i == ? c i = j i = 0 possible_results append solve_for_list c j i c i = 0 j i = 1 possible_results append 		31 70
+make_smallest_same fill_the_rest check_all_possibilities difference_for_lists first_difference c = list 		83 92
+difference_for_lists c 		4 5
+get_better_result first second if first 2 < second 2 		72 75
+find_first_difference c j for i in 		77 81
+make_smallest_same c j for i in range 		7 12
+operation find_first_difference c j = inp 		94 100
+fill_the_rest c_is_bigger j_is_bigger c_is_bigger j_is_bigger c_is_bigger j_is_bigger c_is_bigger j_is_bigger in range len c 		14 29

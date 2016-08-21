@@ -1,0 +1,2 @@
+def main text = sys stdin readlines text = line - 1 		23 32
+Graph lwords rwords lwords rwords nx for line in lines words = line split  G add_edge words 0 		5 21

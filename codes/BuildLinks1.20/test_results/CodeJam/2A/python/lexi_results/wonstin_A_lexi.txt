@@ -1,0 +1,3 @@
+def solve n r p s return solns get n p r s impossible 		28 29
+def main outfile = open a.out w t = int string strip raw_input for k in xrange 1 t + 1 print k n r p s = map int string strip raw_input split answer = solve n r p s outfile write case #%d: %s\n % k answer 		36 45
+def test inputs ans b = solve * inputs if b != ans print failed test! inputs {} should give answer of {} not {} format  join inputs ans b 		31 34

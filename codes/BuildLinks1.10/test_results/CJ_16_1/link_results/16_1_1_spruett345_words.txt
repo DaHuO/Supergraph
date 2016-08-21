@@ -1,0 +1,24 @@
+Direct links:
+3 - 10 links:
+16_1_1_leanu_A	:	1 - 9
+16_1_1_wilsonhsu_A	:	3 - 10
+16_1_1_theFreightTrain_smallA	:	1 - 8
+16_1_1_nattster_a	:	5 - 13
+16_1_1_Saaber_googleCodeJam2016-round1-A	:	5 - 12
+16_1_1_basitali_LastWord	:	1 - 9
+16_1_1_MikeyG_A	:	1 - 8
+16_1_1_tedsta_lastword	:	5 - 12
+16_1_1_chaosmail_main	:	4 - 14
+16_1_1_Fornax_A	:	5 - 13
+16_1_1_moose_A	:	7 - 17
+16_1_1_fthomas_lastword	:	13 - 20
+16_1_1_rray_solve	:	1 - 8
+16_1_1_DanielCoder_code2	:	13 - 21
+16_1_1_bigpapa_A	:	3 - 14
+16_1_1_jabagawee__A	:	4 - 11
+16_1_1_RavenSeldon_lastword	:	1 - 11
+16_1_1_dexter2206_lastwords	:	2 - 10
+16_1_1_mercurium_lastword	:	12 - 19
+16_1_1_almabeth_lastword	:	14 - 25
+16_1_1_giwon_a	:	12 - 22
+

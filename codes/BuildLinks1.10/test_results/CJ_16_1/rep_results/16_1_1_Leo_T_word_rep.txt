@@ -1,0 +1,2 @@
+test_path main input_path = with open input_path 		6 12
+def solve s res = s 		15 23

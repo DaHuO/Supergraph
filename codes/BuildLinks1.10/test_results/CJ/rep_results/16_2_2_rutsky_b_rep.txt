@@ -1,0 +1,2 @@
+def solve_impl c j if not c return 0 for i in range len c if c i == ? or j i == ? break else return abs int c - int j c j c1 = int c i or 0 j1 = int j i or 0 if c1 != j1 if c1 < j1 cc = c replace ? 9 		12 60
+def 		63 64

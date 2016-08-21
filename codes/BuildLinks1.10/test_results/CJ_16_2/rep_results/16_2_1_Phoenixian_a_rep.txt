@@ -1,0 +1,2 @@
+casenumber casenumber 		1 2
+pullOut digitWord scramble scramble currentNumbers digitWord 		4 11

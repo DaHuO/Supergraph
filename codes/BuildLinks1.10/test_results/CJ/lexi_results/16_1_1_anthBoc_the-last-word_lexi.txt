@@ -1,0 +1,2 @@
+def sort_word word resultword = for letter in word if len resultword == 0 resultword += letter else if letter >= resultword 0 resultword = letter + resultword else resultword += letter return resultword 		3 17
+def main result = i = 1 with open a-large.in r as inputfile testcasesnumber = inputfile readline for word in inputfile if i <= int testcasesnumber word = word replace \n result += case # + str i + : + sort_word word + \n i += 1 with open output.txt w as outputfile outputfile write result 		29 43

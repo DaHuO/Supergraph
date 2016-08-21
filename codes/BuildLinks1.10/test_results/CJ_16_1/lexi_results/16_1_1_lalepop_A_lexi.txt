@@ -1,0 +1,2 @@
+def letterorder letter return ord letter - ord a 		1 2
+def algo line return_letters = last_letter_order = 0 for letter in line current_letter_order = letterorder letter if current_letter_order >= last_letter_order return_letters = letter + return_letters last_letter_order = current_letter_order else return_letters = return_letters + letter return return_letters 		4 14

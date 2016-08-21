@@ -1,0 +1,2 @@
+paths paths paths c s if k > c * s return none 		31 49
+{0}.out main inf = open sys argv 1 r name = string split sys argv 1 . 1 		11 29

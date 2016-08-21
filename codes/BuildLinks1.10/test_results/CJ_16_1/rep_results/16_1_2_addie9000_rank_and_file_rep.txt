@@ -1,0 +1,2 @@
+def main r = sys stdin if len sys argv > 1 		20 33
+uniq_soldiers uniq_soldiers lines case_number soldiers = for line in lines 		4 17

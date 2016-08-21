@@ -1,0 +1,2 @@
+retopen tnum 		15 16
+runtest retopen lines output test = lines 0 res = 		18 28

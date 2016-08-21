@@ -1,0 +1,2 @@
+def rotatelex s length = 1 while length < len s for k in range 0 len s 2 * length if s k k + length > s k + length k + 2 * length s k + length k + 2 * length s k k + length = s k k + length s k + length k + 2 * length length *= 2 return s 		13 22
+def rl s return xrange len s 		3 3

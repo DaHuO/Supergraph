@@ -1,0 +1,2 @@
+possible_fakes solve t N = int sys stdin readline rstrip topics = for i 		15 29
+possible_fakes fake_ids real_ids sfirsts real_ids ssecs real_ids rfirsts fake_ids rsecs 		6 13

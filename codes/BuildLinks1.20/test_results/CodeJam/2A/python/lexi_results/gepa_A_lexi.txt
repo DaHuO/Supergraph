@@ -1,0 +1,4 @@
+def sort_rps x n if n == 0 return x k = 2 ** n - 1 a = sort_rps x k n - 1 b = sort_rps x k n - 1 if a < b return a + b else return b + a 		4 13
+def compute n r p s x = make n r r p s if x is not none return x x = make n p r p s if x is not none return x x = make n s r p s if x is not none return x return impossible 		29 39
+def parse n r p s = map int sys stdin readline strip split return n r p s 		42 44
+def make n x r p s m = r rs p pr s ps for i in xrange n x = join map lambda a m a x counts = 0 0 0 for a in x if a == r counts 0 += 1 if a == p counts 1 += 1 if a == s counts 2 += 1 if counts != r p s return none return sort_rps x n 		15 26

@@ -1,0 +1,4 @@
+hasPattern freq pattern 		5 6
+hasPattern removePattern isOK isOK addPattern x == 0 		16 28
+addPattern freq 		8 10
+removePattern freq 		12 14

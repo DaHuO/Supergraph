@@ -1,0 +1,1 @@
+def foo ss resstr = ss 0 temp = ss 0 for idx in range 1 len ss if ss idx < temp resstr append ss idx else resstr insert 0 ss idx temp = ss idx return join resstr 		2 11

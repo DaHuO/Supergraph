@@ -1,0 +1,3 @@
+factorial recur n k if DP n k < 0 if k == 		12 23
+nCr factorial r 		6 8
+Lis Lis num_zer num_two num_four num_one num_zer num_two num_four num_six num_eight num_sev num_six num_three num_eight num_five num_sev num_nume num_eight num_six num_five num_zer num_one num_two num_three num_four num_five num_six num_sev num_eight num_nume = s O - 		25 95

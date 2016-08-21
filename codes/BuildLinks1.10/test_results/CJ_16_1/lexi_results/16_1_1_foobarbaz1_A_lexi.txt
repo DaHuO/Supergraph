@@ -1,0 +1,1 @@
+def instance inst result = for x in inst logging debug x if len result > 0 if result 0 > x result += x else result = x + result else result = x return result 		22 33

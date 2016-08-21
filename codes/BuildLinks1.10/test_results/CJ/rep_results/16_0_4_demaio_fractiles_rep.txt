@@ -1,0 +1,3 @@
+next_sol evaluate next_sol idx line = lines idx nums = line strip split  		12 29
+num_used num_used fn = sys argv 1 with open 		31 40
+evaluate base string 		5 10

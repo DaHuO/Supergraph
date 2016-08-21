@@ -1,0 +1,2 @@
+def remove word sentence new_sentence = sentence for c in word if c not in new_sentence return sentence else new_sentence = new_sentence replace c 1 return new_sentence 		3 10
+def unscramble phone digits if not digits if phone raise LeftoversError else return digit = digits 0 new_phone = remove digit phone if new_phone != phone try return digits_map digit + unscramble new_phone digits except LeftoversError try return digits_map digit + unscramble new_phone digits 1 except LeftoversError return unscramble phone digits 1 else return unscramble phone digits 1 		15 32

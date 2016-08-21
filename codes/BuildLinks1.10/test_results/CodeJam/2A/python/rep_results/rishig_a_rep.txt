@@ -1,7 +1,7 @@
 def __init__ self 		22 25
-swap s a b w if s a a 		3 6
-getd 13 nxt cur = RPS 1 0 0 		42 49
-bsort swap N for i in range 1 		8 12
+def swap s a b w if s a 		3 6
+getd 13 = cur = RPS 1 0 0 		42 49
+bsort s N for i in range 1 		8 12
 def expand s def f x 		14 19
 def f x if 		15 18
-nxt bsort ntrip ntrip expand self s 		27 31
+bsort ntrip ntrip ns = expand self 		27 31

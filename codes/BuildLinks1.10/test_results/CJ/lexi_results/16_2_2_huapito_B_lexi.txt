@@ -1,0 +1,2 @@
+def solve s1 s2 a = b = add s1 a add s2 b for aa in a for bb in b dif = max int aa int bb - min int aa int bb if dif not in r r dif = r dif append aa bb if dif == 0 return 		15 27
+def add s l if ? in s for i in range len s1 if s i == ? for j in range 10 sj = s replace ? str j 1 add sj l else l append s 		5 13

@@ -1,0 +1,2 @@
+counts_orig counts_orig digit_order digit_order for line in read_input infile out s = list line counts = digits = 0 zero 1 one 2 two 3 three 4 four 5 five 6 		6 51
+def read_input infile out with open 		54 59

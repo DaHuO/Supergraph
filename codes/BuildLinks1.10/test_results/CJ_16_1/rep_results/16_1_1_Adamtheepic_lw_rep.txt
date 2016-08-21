@@ -1,0 +1,2 @@
+ltn 12 13 14 15 16 17 18 19 21 22 		1 29
+lwgen la ltn ltn la 0 for l 		30 39

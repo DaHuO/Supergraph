@@ -1,0 +1,1 @@
+def choose_senats senats senats sort cmp = lambda a b b 1 - a 1 senats 0 1 -= 1 first = senats 0 0 senats sort cmp = lambda a b b 1 - a 1 s0 = senats 0 1 - 1 all_count = sum senats i 1 for i in xrange len senats - senats 1 1 - 1 if len senats == 1 or senats 1 1 > 2 * all_count return first none second = senats 0 0 senats 0 1 -= 1 return first second 		5 17

@@ -1,0 +1,1 @@
+def each_case n allheights = set for n in xrange 2 * n - 1 heights = map int stdin readline split for h in heights if h in allheights allheights remove h else allheights add h assert len allheights == n return  join map str sorted allheights 		3 14

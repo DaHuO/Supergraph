@@ -1,0 +1,13 @@
+		32 33
+def foo 		49 50
+		26 27
+readfloats 		29 30
+def 		23 24
+def dbg 		14 18
+def solve_case n = readint np = readints s = sum np p = party chr ord a + i 		52 74
+def 		9 11
+{0.name}:{0.count} 		46 47
+def __init__ 		39 41
+def 		43 44
+#{0:d}: _dbg {:.6f}\n = case {1}\n cases = readint 		76 86
+def 		35 36

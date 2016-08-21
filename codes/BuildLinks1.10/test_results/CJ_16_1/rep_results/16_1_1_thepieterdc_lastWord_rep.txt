@@ -1,0 +1,1 @@
+def lastword inpt result = list for letter in inpt if len result 		1 20

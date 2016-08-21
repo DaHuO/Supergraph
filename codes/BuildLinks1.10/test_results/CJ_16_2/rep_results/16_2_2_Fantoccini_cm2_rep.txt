@@ -1,0 +1,2 @@
+def 		6 8
+mmm mmm mmm c j = line strip split  n = len c max = 1000 min = None res = if n 		12 38

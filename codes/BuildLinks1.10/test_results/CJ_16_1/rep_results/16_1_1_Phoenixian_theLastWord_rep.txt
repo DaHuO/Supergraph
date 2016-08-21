@@ -1,0 +1,3 @@
+invert inversion inversion inversions sort reverse = 		9 18
+def answer 		7 8
+maxletterindex maxletterindex maxletterindex maxletterindex end 		1 6

@@ -1,13 +1,13 @@
 mapping multiprocess_imap parse_file generator mapping open_output_file timing_message Execution timeit timing_message generator = True start = 1 multiprocessing 		121 141
 check_function module modules __module__ getattr 		69 77
-get_command_line_kwargs from_cli args = 		196 205
+def from_cli args = 		196 205
 def print_result case result output 		112 118
 contextmanager timeit message {}: 		49 56
 parse_file lower dynamic variables eval variables = True expression = isinstance lines_per_case str and lines_per_case for 		88 109
-decorator get_command_line_kwargs check_function = solve def solve input_file output_file = True multiprocessing = True timing 		168 210
+check_function decorator func solve_func = solve def solve input_file output_file = True multiprocessing = True 		168 210
 square 		219 222
-decorator get_command_line_kwargs check_function decorator decorator lines_per_case = 1 header = True start = 1 def func solve_func = solve def 		144 214
+check_function solver func = None lines_per_case = 1 header = True start = 1 def decorator func solve_func = solve 		144 214
 multiprocess_imap iterator imap 		80 85
 contextmanager open_output_file if 		59 66
-get_command_line_kwargs desc Solve the problem using given file. default. argparse ArgumentParser description desc metavar INPUT to --output -o metavar OUT specific --no-result -nr store_false do the --no-timing -nt store_false do 		17 46
+desc Solve problem using given file. default. argparse ArgumentParser description desc metavar INPUT to --output -o metavar OUT specific --no-result -nr --no-timing -nt execution --no-write -nw --no-multi -nm use parse_args 		17 46
 def solve input_file 		170 188

@@ -1,0 +1,28 @@
+Direct links:
+12 - 19 links:
+16_1_1_lingchunkai_A	:	2 - 14
+16_1_1_Peter2000_Googlecode_Round_1A_LastWord	:	29 - 39
+16_1_1_erojas_lastword	:	36 - 45
+16_1_1_agkdc_A	:	11 - 18
+16_1_1_Saaber_googleCodeJam2016-round1-A	:	5 - 12
+16_1_1_VoidRay_A	:	3 - 17
+16_1_1_hehaodele_0	:	3 - 12
+16_1_1_adbjesus_main	:	1 - 11
+16_1_1_luca_wehrstedt_A	:	3 - 11
+16_1_1_phg1024_A	:	1 - 9
+16_1_1_lkj_a	:	1 - 8
+16_1_1_Sim007_LastWord	:	1 - 11
+16_1_1_idon2020_round1	:	3 - 10
+16_1_1_Chiffre_1A	:	1 - 8
+16_1_1_helca_A	:	1 - 8
+16_1_1_Yusan_A2	:	8 - 15
+16_1_1_curryhoward_solution	:	8 - 19
+16_1_1_RogerW_a_the_last_word	:	1 - 16
+16_1_1_MathProgrammer_word	:	3 - 10
+16_1_1_ProblemFactory_gcj1	:	1 - 19
+16_1_1_pedrosorio_A	:	1 - 8
+16_1_1_Cookie_Monster_A	:	1 - 9
+16_1_1_Mr_Pi_lastword	:	8 - 16
+16_1_1_Kuni_sub1_a	:	3 - 11
+16_1_1_tomascg_1	:	4 - 13
+

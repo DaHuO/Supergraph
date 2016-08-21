@@ -1,0 +1,17 @@
+Direct links:
+21 - 23 links:
+16_3_1_AndersTornkvist_a	:	28 - 29
+16_0_4_caethan_d_fractiles	:	49 - 51
+16_1_2_Aurel_code	:	20 - 22
+16_1_1_Aurel_code	:	20 - 22
+
+10 - 20 links:
+16_3_1_AndersTornkvist_a	:	18 - 26
+16_0_4_caethan_d_fractiles	:	38 - 48
+
+
+With same rare tokens:
+10 - 20 links:
+16_3_1_AndersTornkvist_a	:	18 - 26
+16_0_4_caethan_d_fractiles	:	38 - 48
+

@@ -1,0 +1,1 @@
+def solve cn s = raw_input strip sol = s 0 for ch in s 1 if ord ch >= ord sol 0 sol = ch + sol else sol += ch print case #%d: %s % cn sol 		8 16

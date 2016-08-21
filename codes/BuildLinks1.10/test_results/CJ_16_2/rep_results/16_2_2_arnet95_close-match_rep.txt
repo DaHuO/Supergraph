@@ -1,0 +1,1 @@
+def f s1 s2 n = len s1 l = for i in product range 10 repeat = s1 count ? + s2 count ? 		3 24

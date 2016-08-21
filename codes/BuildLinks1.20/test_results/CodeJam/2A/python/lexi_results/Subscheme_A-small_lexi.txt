@@ -1,0 +1,8 @@
+def compete seq return join winner a b for a b in zip seq 2 seq 1 2 		49 50
+def gen p r s if p + r + s == 0 yield elif p + r + s == 1 yield p if p else r if r else s else if p > 0 for seq in gen p - 1 r s yield p + seq if r > 0 for seq in gen p r - 1 s yield r + seq if s > 0 for seq in gen p r s - 1 yield s + seq 		18 32
+def memo f cache = dict def wrap * args if args not in cache cache args = f * args return cache args return wrap 		5 10
+def solve n r p s for seq in gen p r s if works seq return seq return impossible 		61 65
+memo def works seq if len seq <= 1 return true try return works compete seq 		52 57
+def winner a b if a == b raise valueerror if a > b a b = b a if a == p if b == r return p if b == s return s assert false assert a == r and b == s return r 		34 46
+def put casenumber result print case #%d: %s % casenumber result 		15 16
+def wrap * args if args not in cache cache args = f * args return cache args 		7 9

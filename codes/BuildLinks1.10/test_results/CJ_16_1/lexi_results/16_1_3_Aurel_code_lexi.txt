@@ -1,0 +1,2 @@
+def inputints return map int raw_input split 		9 10
+def solve taken cur likesprev first if not likesprev if taken f cur if f cur == first return 1 else return 0 taken cur = true thisone = 1 + solve taken f cur f f cur == cur first taken cur = false if thisone == 1 return 0 return thisone taken cur = true best = 1 for i in xrange n if taken i continue thisone = 1 + solve taken i f i == cur first if thisone > best best = thisone taken cur = false return best 		13 40

@@ -1,0 +1,1 @@
+def sf vs for i in range 10 for _ in range vs i yield i 		4 7

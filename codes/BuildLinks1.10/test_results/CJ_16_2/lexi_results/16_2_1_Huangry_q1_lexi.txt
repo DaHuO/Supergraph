@@ -1,0 +1,1 @@
+def remove dc_letters word n_times for letter in word dc_letters letter -= n_times 		1 3

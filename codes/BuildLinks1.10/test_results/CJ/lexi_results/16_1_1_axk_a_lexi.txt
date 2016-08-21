@@ -1,0 +1,1 @@
+def calc s r = for c in s if not r or c >= r 0 r = c + r else r = r + c return r 		3 10

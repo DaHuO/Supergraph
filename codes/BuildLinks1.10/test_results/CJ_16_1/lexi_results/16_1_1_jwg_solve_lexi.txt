@@ -1,0 +1,1 @@
+def solve chars if len chars <= 1 return chars latestchar = max chars index = chars find latestchar return latestchar * chars count latestchar + solve chars index + chars index + 1 replace latestchar 		4 9

@@ -1,0 +1,1 @@
+def a str new_str = for i in xrange 		2 13

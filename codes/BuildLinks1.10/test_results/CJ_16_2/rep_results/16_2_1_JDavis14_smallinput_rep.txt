@@ -1,0 +1,3 @@
+check_if_in string check copy = 		7 14
+remove_nums check_if_in remove_nums = numbers = ZERO 0 ONE 1 TWO 2 THREE 3 FOUR 4 FIVE 5 SIX 6 SEVEN 7 		17 41
+def remove string 		1 4

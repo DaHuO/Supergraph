@@ -1,0 +1,2 @@
+<> solve s def fits digit cnt s = set digit for c in s if not c in cnt or digit count 		2 31
+def fits digit cnt s 		3 8

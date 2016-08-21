@@ -1,0 +1,1 @@
+def find_firsts s maxs = max s pos = s rfind maxs if pos == 0 return 0 return find_firsts s pos + pos 		4 10

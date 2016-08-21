@@ -1,0 +1,2 @@
+my_int st base cnt = 		3 9
+my_int solve pool = range k if float k / float c > s return 		11 44

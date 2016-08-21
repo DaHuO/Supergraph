@@ -1,0 +1,2 @@
+def delete s c index = s find c s = s index + s index + 1 return s 		8 11
+def removenumber s k n n global digits while s find k != - 1 digits append n for c in n s = delete s c return s 		13 19

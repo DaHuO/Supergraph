@@ -1,0 +1,1 @@
+case_all case_all f = open a-large.in r fout = open a.out w = 		4 27

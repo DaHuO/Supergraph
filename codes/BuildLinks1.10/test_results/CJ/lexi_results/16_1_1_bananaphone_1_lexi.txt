@@ -1,0 +1,2 @@
+def func rr if len rr <= 1 return rr x = list rr curr = x 0 for i in xrange 1 len x toadd = x i if toadd >= curr 0 curr = toadd + curr else curr = curr + toadd return curr 		16 27
+def doprob read = str raw_input return func read 		29 31

@@ -1,0 +1,1 @@
+def chain k s global b global n m = s for i in range 0 n if b i == k - 1 and i not in k and i != b k 0 k append i m = max m chain k s + 1 k pop return m 		1 10

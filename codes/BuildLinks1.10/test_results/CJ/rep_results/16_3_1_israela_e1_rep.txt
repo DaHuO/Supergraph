@@ -1,0 +1,2 @@
+def solve a letters = abcdefghijklmnopqrstuvwxyz res = while a count 0 != len 		12 29
+def find_max a m = - 		3 10

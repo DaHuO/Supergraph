@@ -1,0 +1,2 @@
+def main source dest with open source r as fd open dest 		13 22
+def solve word result = 		2 10

@@ -1,0 +1,13 @@
+def output self value print case # 		36 39
+nextlineoffloats nextline delim 		51 53
+nextint 		44 45
+getstringmatrix self matrix space = true out = 		78 88
+nextdelimitedmatrix nextline x y delim =  matrix = 		58 66
+nextline 		41 42
+codejamhelper a-large nextint nextline 		3 11
+basefilename ensuredirectory ./output ./input/ basefilename ./output/ 		26 30
+nextcharmatrix nextline x y matrix = for _ 		68 76
+nextlineofints nextline delim 		47 49
+nextdelimitedline nextline 		55 56
+ensuredirectory makedirs 		32 34
+def process line out = line 		14 22

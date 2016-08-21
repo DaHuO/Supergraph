@@ -1,0 +1,3 @@
+idnotin sizemax circleok checkcircleinside circleok idnotin cerclebis cerclebis cerclebis checkcircle cerclebis sizemax sizemax 		39 54
+checkcircle idcour idsnext idcour idsnext len circle <= 1 return true for 		1 19
+checkcircleinside idcour idsnext idcour idsnext i in range 1 len circle - 		21 37

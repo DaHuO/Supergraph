@@ -1,0 +1,3 @@
+case_reader tc 		18 21
+case_solver co co = None P = None I = None T = None S = None ** kwargs import collections as C = dict Counter T Z = C get Z 0 if Z C E -= Z C R -= Z C O -= Z X = C get X 		24 72
+		14 15

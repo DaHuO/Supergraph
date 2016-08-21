@@ -1,0 +1,6 @@
+replace_at_index replace_with 		33 34
+get_surrounding_numbers num num = int num 		25 30
+def read_strs 		46 48
+run_case input score_1 score_2 		1 4
+def read_ints 		41 43
+get_surrounding_numbers get_surrounding_numbers get_surrounding_numbers score_2 for pos in range len score_1 if score_1 pos == score_2 pos 		7 22

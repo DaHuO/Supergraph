@@ -1,3 +1,3 @@
-INFILE fo OUTFILE time0 time1 read_input %.3f time1 fo %.3f time0 fo = 		50 63
+INFILE OUTFILE time0 time1 read_input %.3f time1 %.3f time0 = time time t 		50 63
 SPR RSP SPR RSP p s m = 2 ** n - 2 / 2 if m % 3 == 0 if r == p - 1 and p == s res = PRS elif p == r - 1 and r == s res 		8 38
 read_input readArray readMatrix readLines readArray type type fi readline - 1 = 		42 48

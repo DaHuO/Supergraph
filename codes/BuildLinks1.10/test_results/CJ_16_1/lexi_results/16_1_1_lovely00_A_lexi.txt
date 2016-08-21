@@ -1,0 +1,2 @@
+def r f with open f r as fin return fin read splitlines 		5 7
+def solve n if n == 0 return x = s 0 index = - 1 for i in xrange n if s i >= x x = s i index = i return x + solve index + s index + 1 n 		11 22

@@ -1,0 +1,2 @@
+problema input_file.txt check_number checking!!! should happen os path isfile output_file_name os remove output_file_name 		6 25
+check_number test_case_number s output_file = open output_file_name a first = true text = for idx 		28 44

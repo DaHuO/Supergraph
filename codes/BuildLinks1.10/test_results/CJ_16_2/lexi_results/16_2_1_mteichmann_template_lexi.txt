@@ -1,0 +1,4 @@
+def solve line mystring = line count = np zeros 10 dtype = int for pos num in enumerate nums char = unique pos amount = count_char mystring char count pos = amount mystring = remove_num mystring num amount res = for i in range 10 for j in range count i res append nums_bin i res sort sol = join res return sol 		44 58
+def remove_char string char amount num_rem = 0 for pos char2 in enumerate string if amount == num_rem break if char2 == char string = string pos - num_rem + string - num_rem + pos + 1 num_rem += 1 return string 		32 40
+def count_char string char amount = 0 for char2 in string if char2 == char amount += 1 return amount 		20 25
+def remove_num string number amount for char in number string = remove_char string char amount return string 		27 30

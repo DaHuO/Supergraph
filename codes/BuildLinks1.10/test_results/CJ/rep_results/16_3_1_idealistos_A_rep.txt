@@ -1,0 +1,2 @@
+		4 5
+getresult imax imax imax imax == 2 return  join ab for i in range counts 0 else s = sum counts 		7 28

@@ -1,0 +1,1 @@
+def order xs x = max xs c = next i for i in xrange len xs if xs i == x m = h = xs c t = xs c while x in t t remove x m append x if c == 0 return m + t return m + order h + t 		7 17

@@ -1,0 +1,9 @@
+def d fname fin = open fname + .in lines = fin readlines t = 		130 143
+lnum b fname fin = open fname + .in lines = fin 		27 37
+map1 map2 map3 map1 map2 map3 line = z 0 zero w 2 two u 4 four x 		11 24
+def fractile k c s if 		145 150
+jamcoin prime isprime prime jamcoin sfs sfs 2 s = 1 + 0 		104 114
+qcs qjs qcs qcs qcs qjs qjs qjs bestdiff bestcoderscore bestjammerscore bestcoderscore bestjammerscore mindiff = float inf none none = coders count ? = jammers count ? for i in range 10 ** si = str 		39 81
+:\n jamcoin fname fin = open fname + .in lines = fin readlines t = int lines 0 fout 		85 102
+isprime primes_db primes_db primes_db primes_db 1 return false if 		118 128
+def a fname fin = open fname + .in lines = 		1 9

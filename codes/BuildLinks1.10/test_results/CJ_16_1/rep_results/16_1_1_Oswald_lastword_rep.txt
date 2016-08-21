@@ -1,0 +1,3 @@
+96 thestart themiddle theend getsmallword thestart themiddle theend theend range 1 cases + 1 base = raw_input 		19 36
+getsmallword startindex getindexofhighestlast startindex 		12 17
+getindexofhighestlast word highest 		8 10

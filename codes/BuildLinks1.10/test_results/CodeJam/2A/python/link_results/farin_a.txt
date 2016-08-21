@@ -1,11 +1,4 @@
-91 - 95 links:
-Vovani_Q1	:	7 - 36
-
+Direct links:
 79 - 88 links:
-aklecram_solveA	:	45 - 53
 Fedux_rock	:	46 - 55
-tpablo_main-large	:	99 - 106
-
-24 - 77 links:
-Vovani_Q1	:	7 - 36
 

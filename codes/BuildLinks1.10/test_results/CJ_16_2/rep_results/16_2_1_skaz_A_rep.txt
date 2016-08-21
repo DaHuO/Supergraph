@@ -1,0 +1,2 @@
+def handle_case t N = raw_input words = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE counts = m = for c in N if c not in m m c = 0 m c += 1 if X in m counts 6 = m get X 0 m X = 0 m I -= counts 6 m S -= counts 6 if Z in m counts 0 = m 		6 99
+def print_result t 		3 4

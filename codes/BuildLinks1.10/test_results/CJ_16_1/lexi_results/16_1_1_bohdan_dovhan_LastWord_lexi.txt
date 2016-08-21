@@ -1,0 +1,1 @@
+def solve ss = for c in s split 0 if ss != if c >= ss 0 ss = c + ss else ss = ss + c else ss = c cc = c return ss 		3 18

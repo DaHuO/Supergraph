@@ -1,0 +1,1 @@
+second_word second_word second_word = input t = int test_case if not 1 <= t or not t <= 100 print 1 <= t <= 100 		6 47

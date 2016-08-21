@@ -1,0 +1,1 @@
+def solve n = int raw_input w = result = for 		5 16

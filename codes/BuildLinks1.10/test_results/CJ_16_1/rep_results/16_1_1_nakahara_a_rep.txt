@@ -1,0 +1,1 @@
+def solve a = input fin 		2 13

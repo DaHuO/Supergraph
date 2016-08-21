@@ -1,0 +1,3 @@
+def solve fd total = as_number fd single = true for k in range total n 		38 62
+def start if len 		65 70
+kind kind fd = int single = 		13 35

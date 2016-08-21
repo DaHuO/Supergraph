@@ -1,0 +1,1 @@
+def lastword ncase s lastword_seq = deque lastword_seq 		3 11

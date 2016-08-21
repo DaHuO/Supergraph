@@ -1,0 +1,1 @@
+def solveit n ilist nums = defaultdict int for l in ilist for e in l nums e += 1 eh = k for k in nums if nums k % 2 != 0 eh sort return  join map str eh 		3 10

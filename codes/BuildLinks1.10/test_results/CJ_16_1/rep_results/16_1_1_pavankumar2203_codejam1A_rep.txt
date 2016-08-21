@@ -1,0 +1,1 @@
+run_code t = int input res = for i in range t word = input 		1 23

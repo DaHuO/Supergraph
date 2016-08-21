@@ -1,0 +1,1 @@
+zwxsghrofi find s letters = dict digits = dict a = for d in range 0 9 digits d = 0 for c in a letters c = 0 for c in s if c not in letters letters c = 0 letters c += 1 if letters z > 0 r = letters z digits 0 = r letters z -= r letters e -= r 		16 115

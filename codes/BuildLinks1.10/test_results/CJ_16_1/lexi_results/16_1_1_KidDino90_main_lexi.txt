@@ -1,0 +1,3 @@
+def stage1 listline output = for i in range 1 int listline 0 + 1 answer = \n answer = + listline i 0 for j in range 1 len listline i if listline i j >= answer 0 answer = listline i j + answer else answer = answer + listline i j outputline = case # + str i + : + answer print outputline output append outputline printoutput output 		15 51
+def printoutput output outputfile = open output w for i in range 0 len output - 1 outputfile write output i + \n outputfile write output len output - 1 		62 66
+def main listline = inputfile read splitlines stage1 listline 		6 8

@@ -1,0 +1,4 @@
+solvehelper curdigits isempty curdigits containsdigit curdigits solvehelper curdigits curdigits index in range len 		13 30
+solvehelper solve input chars = for c 		3 11
+containsdigit digitschars digitschars digitschars digitschars digitschars digitschars digitschars 		38 48
+isempty chars for 		32 36

@@ -1,0 +1,2 @@
+def last_word str list_str = list str 		2 13
+formatted_output index 		15 16

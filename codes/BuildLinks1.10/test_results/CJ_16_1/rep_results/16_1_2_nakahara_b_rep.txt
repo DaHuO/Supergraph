@@ -1,0 +1,1 @@
+def solve n = int input mis = set for i 		2 15

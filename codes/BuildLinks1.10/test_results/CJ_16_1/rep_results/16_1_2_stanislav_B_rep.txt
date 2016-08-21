@@ -1,0 +1,1 @@
+def run t n = int raw_input counts = for i in range 		3 17

@@ -1,0 +1,3 @@
+def main case = int input for i in range case k c s = tuple input split k c s = int k int c int s print case #{}: {} format i + 1 positions k c s 		23 28
+def number numbers base ret = 0 while len numbers > 0 ret = ret * base + numbers pop return ret 		1 5
+def positions k c s if k > s * c return impossible pos = for i in range k + c - 1 // c numbers = list range c * i min c * i + 1 k numbers += 0 * c - len numbers pos append str number numbers k + 1 return  join pos 		8 20

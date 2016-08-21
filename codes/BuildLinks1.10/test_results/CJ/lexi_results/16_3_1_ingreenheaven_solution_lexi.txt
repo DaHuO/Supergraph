@@ -1,0 +1,6 @@
+def __str__ self return [{0}:{1}] format self name self count 		17 18
+def __repre__ self return self __str__ 		20 21
+def __init__ self name count self name = name self count = count 		10 12
+def __cmp__ self other return cmp other count self count 		14 15
+def print_list a for x in a print x print 		23 26
+def solve n = input x = map int raw_input split q = parties = left = 0 for i in xrange len x p = party letters i x i heappush q p parties append p left += x i ans = while len q > 0 p1 = heappop q left -= 1 p1 count = p1 count - 1 if p1 count > 0 heappush q p1 ans += p1 name if left == 1 x = heappop q heappush q x if len q > 0 p2 = heappop q if left == 1 ans += p2 name continue p2 count -= 1 if p2 count > 0 heappush q p2 p3 = none if len q > 0 p3 = heappop q if not p3 or p3 count <= left - 1 / 2 left -= 1 ans += p2 name else p2 count += 1 if p2 count == 1 heappush q p2 if p3 heappush q p3 ans +=  return ans 		28 97

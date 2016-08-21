@@ -1,0 +1,2 @@
+resolve text digits = charcount = Counter text if Z in charcount num = charcount Z digits extend 0 for i in range num charcount E -= num charcount R -= num charcount O -= num charcount Z = 0 if X in charcount num = charcount X digits extend 6 for i in range num charcount I -= num charcount S -= num charcount X = 0 		15 85
+A-large (1).in outGetting Digits.txt resolve outtxt outtxt with open 		86 95

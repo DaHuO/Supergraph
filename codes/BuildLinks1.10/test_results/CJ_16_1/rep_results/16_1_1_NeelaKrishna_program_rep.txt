@@ -1,0 +1,3 @@
+digitize n digits = 		3 9
+make p final newfinal 		12 17
+make doit fw final 		20 24

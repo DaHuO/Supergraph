@@ -1,0 +1,4 @@
+fullSolve outFileName readFileIntoList outFileName CloseMatch inFileName f = 		94 100
+readFileIntoList contentFixed contentFixed open fileName 		4 9
+whoWins whoWins whoWins j if c == return if == 1 c = c replace ? 0 j = j replace ? 9 return c j elif == - 1 c = c replace ? 9 j = j replace ? 0 return c j else if c 0 != ? and j 0 != ? if c 0 == j 0 sol = solveRec c 1 j 1 0 if c 0 > j 0 sol = solveRec c 1 j 1 1 if c 0 < j 0 sol = solveRec c 1 j 1 - 1 return c 0 + sol 0 j 		17 92
+CloseMatch inputList c j 		11 14

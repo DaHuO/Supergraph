@@ -1,0 +1,2 @@
+def remove_digit D S for d 		8 14
+def answer S ans = occur = 0 for i in range 10 while Z in S ans append 0 S = remove_digit ZERO S while W 		17 51

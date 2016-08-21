@@ -1,0 +1,1 @@
+def sol s = input a = 		2 10

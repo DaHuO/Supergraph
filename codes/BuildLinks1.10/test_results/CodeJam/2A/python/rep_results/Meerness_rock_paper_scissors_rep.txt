@@ -1,2 +1,2 @@
-build_recursive_solution winner_tree prevs winner_tree sol1 build_recursive_solution prevs sol2 		28 36
-make_prs_tree n_R n_P n_S ordered_solutions build_recursive_solution n_R n_P n_S ordered_solutions ordered_solutions 		10 25
+winner_tree prevs winner_tree prevs prevs depth == 1 		28 36
+make_prs_tree n_R n_P n_S n_R n_P n_S winner in R P 		10 25

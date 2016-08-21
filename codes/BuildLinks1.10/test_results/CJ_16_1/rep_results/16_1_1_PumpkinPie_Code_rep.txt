@@ -1,0 +1,1 @@
+def win line winn = line 0 for i 		18 28

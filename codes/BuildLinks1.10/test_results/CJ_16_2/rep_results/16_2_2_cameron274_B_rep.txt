@@ -1,0 +1,5 @@
+def get_digit 		1 2
+set_digit n k 		4 5
+c_best j_best make_numbers c_best j_best get_leading_zeroes c_best get_leading_zeroes j_best = len c min_dist = 10 ** n c_blanks = list j_blanks = list for i in range 		23 49
+make_numbers set_digit set_digit c_blanks j_blanks k b for i in 		7 15
+get_leading_zeroes i n 		17 21

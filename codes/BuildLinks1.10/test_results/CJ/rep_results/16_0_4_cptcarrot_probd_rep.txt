@@ -1,0 +1,1 @@
+d-small-attempt0.in d-small-attempt0.out infile = open outfile = open w t = 		1 10

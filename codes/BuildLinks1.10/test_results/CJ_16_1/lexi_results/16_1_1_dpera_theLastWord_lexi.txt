@@ -1,0 +1,1 @@
+def problem word lastword = word 0 for letter in range 1 len word if word letter >= lastword 0 lastword = word letter + lastword else lastword += word letter return lastword 		4 11

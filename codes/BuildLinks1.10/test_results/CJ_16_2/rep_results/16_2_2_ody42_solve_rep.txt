@@ -1,0 +1,4 @@
+def best answers 		13 14
+def main T = int sys stdin 		128 134
+def solve C J LEN = len C assert len C == len J EQUAL = 1 FIRST_BIGGER = 2 LAST_BIGGER = 3 Decs = 10 ** LEN - i - 1 for i in xrange LEN def best answers return min answers key = lambda csum jsum abs csum - jsum csum jsum def solve2 i csum jsum mode if i == LEN return csum jsum if C i != ? and J i != ? x = int C i y = int J i if mode == EQUAL and x > y new_mode = LAST_BIGGER elif mode 		3 122
+def solve2 i csum jsum mode if i == LEN return csum jsum if C i != ? and J i != ? x = int C i y = int J i if mode == EQUAL and x > y new_mode = LAST_BIGGER elif mode == EQUAL and x < y new_mode = FIRST_BIGGER else new_mode = mode return solve2 i + 1 csum + x * Decs i jsum + y * Decs i new_mode elif C i == ? and J i == 		16 76

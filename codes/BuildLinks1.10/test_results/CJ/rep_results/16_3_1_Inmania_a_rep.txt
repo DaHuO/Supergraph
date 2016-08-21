@@ -1,0 +1,3 @@
+l_of_s as_list 		2 5
+solve_ list_of_senators 90 tagged_list list_of_senators tagged_sorted tagged_list tagged_sorted tagged_sorted first_to_leave first_to_leave all_leave tagged_sorted evac_pair evac_pair = sorted key 		7 29
+all_leave s_l s_l s_l 		31 40

@@ -1,0 +1,1 @@
+def solve n = int sys stdin readline c = defaultdict int 		4 17

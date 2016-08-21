@@ -1,0 +1,5 @@
+def read_and_solve case_count = int sys stdin readline strip for case in xrange 1 case_count + 1 input_str = sys stdin readline strip solution = solve_case input_str print case #{}: {} format case join map str solution 		46 51
+def get_letter_count input_str ret = defaultdict int for letter in input_str ret letter += 1 return ret 		21 25
+def solve_case input_str letter_count = get_letter_count input_str existing_nums = for digit in digit_check_order while has_letters letter_count digit existing_nums append digit decrement_letter_count letter_count digit return sorted existing_nums 		37 44
+def decrement_letter_count letter_count digit for letter in digits digit letter_count letter -= 1 		33 35
+def has_letters letter_count digit for letter in digits digit if not letter_count letter > 0 return false return true 		27 31

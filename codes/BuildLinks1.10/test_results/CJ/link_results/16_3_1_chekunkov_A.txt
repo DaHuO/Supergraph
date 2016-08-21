@@ -1,0 +1,17 @@
+Direct links:
+10 - 15 links:
+16_2_1_chekunkov_A	:	6 - 11
+
+44 - 49 links:
+16_3_1_gogakujin_small	:	37 - 42
+
+
+With same rare tokens:
+10 - 15 links:
+16_2_1_chekunkov_A	:	6 - 11
+16_2_2_liar_B	:	58 - 68
+16_2_1_chekunkov_A	:	6 - 11
+16_2_1_chekunkov_A	:	6 - 11
+16_2_2_liar_B	:	58 - 68
+16_2_1_chekunkov_A	:	6 - 11
+

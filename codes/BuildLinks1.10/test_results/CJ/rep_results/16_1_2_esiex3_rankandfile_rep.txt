@@ -1,0 +1,1 @@
+rankandfile.in rankandfile.txt inp = open out = open w t = int inp readline for casenum in range t n 		5 25

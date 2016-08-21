@@ -1,0 +1,2 @@
+equalize cre dre cre dre compile c replace ? . = re compile d replace ? 		15 24
+equalize run filename lines = open filename + .in 		6 13

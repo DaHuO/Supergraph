@@ -1,0 +1,4 @@
+def main for t in xrange 		63 68
+contained product repeat compress contained len a ret = 0 for in 		50 61
+get_cycles_and_hairpins solve a c h = a c = map len c hairpins = for 		32 48
+get_cycles_and_hairpins has_pred h = c = = set a for i in xrange len a 		4 30

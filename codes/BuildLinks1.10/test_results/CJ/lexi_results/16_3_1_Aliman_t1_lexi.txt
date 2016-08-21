@@ -1,0 +1,2 @@
+def takemax max ind return chr a + ind 		24 25
+def takeothers parties length curr_ind max_first if curr_ind >= length return curr_ind while curr_ind == max_first or parties curr_ind == 0 curr_ind += 1 if curr_ind >= length return curr_ind parties curr_ind -= 1 return chr a + curr_ind curr_ind 		11 22

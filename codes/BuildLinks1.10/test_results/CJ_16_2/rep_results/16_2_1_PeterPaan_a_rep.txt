@@ -1,0 +1,1 @@
+nbtc main = sys stdin readline for it line in enumerate sys stdin readlines tc = it + 1 line = line strip c = Counter line ZERO = c Z 		6 34

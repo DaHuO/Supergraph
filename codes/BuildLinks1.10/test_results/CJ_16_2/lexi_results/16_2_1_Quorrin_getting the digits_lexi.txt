@@ -1,0 +1,21 @@
+def getNumbers re num = while containsZero re num re = removeZero num re while containsTwo re num re = removeTwo num re while containsFour re num re = removeFour num re while containsSix re num re = removeSix num re while containsEight re num re = removeEight num re while containsThree re num re = removeThree num re while containsFive re num re = removeFive num re while containsSeven re num re = removeSeven num re while containsOne re num re = removeOne num re while containsNine re num re = removeNine num re return num re 		172 194
+def containsThree s return R in s or r in s 		93 94
+def removeEight cArr s if containsEight s s remove E s remove I s remove G s remove H s remove T cArr append 8 return cArr s else return cArr s 		77 87
+def containsEight s return G in s or g in s 		74 75
+def containsFive s return F in s or f in s 		109 110
+def containsZero s return Z in s or z in s 		20 21
+def containsNine s return N in s or n in s 		156 157
+def removeFour cArr s if containsFour s s remove F s remove O s remove U s remove R cArr append 4 return cArr s else return cArr s 		50 59
+def removeTwo cArr s if containsTwo s s remove T s remove W s remove O cArr append 2 return cArr s else return cArr s 		37 45
+def containsOne s return O in s or o in s 		141 142
+def removeNine cArr s if containsNine s s remove N s remove I s remove N s remove E cArr append 9 return cArr s else return cArr s 		159 168
+def containsSix s return X in s or x in s 		61 62
+def containsTwo s return W in s or w in s 		34 35
+def removeThree cArr s if containsThree s s remove T s remove H s remove R s remove E s remove E cArr append 3 return cArr s else return cArr s 		96 106
+def containsSeven s return V in s or v in s 		125 126
+def removeFive cArr s if containsFive s s remove F s remove I s remove V s remove E cArr append 5 return cArr s else return cArr s 		112 121
+def removeZero cArr s if containsZero s s remove Z s remove E s remove R s remove O cArr append 0 return cArr s else return cArr s 		23 32
+def removeSix cArr s if containsSix s s remove S s remove I s remove X cArr append 6 return cArr s else return cArr s 		64 72
+def containsFour s return U in s or u in s 		47 48
+def removeOne cArr s if containsOne s s remove O s remove N s remove E cArr append 1 return cArr s else return cArr s 		144 152
+def removeSeven cArr s if containsSeven s s remove S s remove E s remove V s remove E s remove N cArr append 7 return cArr s else return cArr s 		128 138

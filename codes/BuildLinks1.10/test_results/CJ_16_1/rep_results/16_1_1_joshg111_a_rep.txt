@@ -1,0 +1,1 @@
+gen_last_word s res = q = deque 		5 22

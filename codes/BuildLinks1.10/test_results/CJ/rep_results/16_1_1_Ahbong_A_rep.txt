@@ -1,0 +1,1 @@
+def solve word 		4 8

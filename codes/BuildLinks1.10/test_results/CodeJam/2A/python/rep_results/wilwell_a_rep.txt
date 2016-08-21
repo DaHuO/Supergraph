@@ -1,2 +1,2 @@
-make_sort count N R P S answers = for start in R P S cur = start 		14 33
-make_sort middle make_sort middle make_sort middle 1 		3 12
+def count N R P S answers = for start in R P S cur = start 		14 33
+middle middle middle if len new_cur == 		3 12

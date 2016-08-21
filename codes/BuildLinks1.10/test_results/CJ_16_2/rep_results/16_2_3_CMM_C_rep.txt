@@ -1,0 +1,2 @@
+def test d f for i in range len d if f i == 		1 13
+16 solve d big = 0 n = len d 		16 26

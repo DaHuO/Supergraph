@@ -1,0 +1,6 @@
+def rd1int return int rdline 		11 11
+def rdints return map int ssr split 		10 10
+def rdstrs return ssr split 		9 9
+def rdline return ssr strip 		8 8
+def do_one_case cnum n = rd1int s = ss = for i in range 2 * n - 1 v = rdints assert len v == n s append v ss append set v for i in range n v = x i for x in s v sort vs = set v if i == n - 1 or v 2 * i < v 2 * i + 1 z = v 2 * i assert i == 0 or v 2 * i - 1 < v 2 * i ul = x for x in s if x i == z assert len ul == 1 u = ul 0 for x in u if x != z del v v index x w =  join map str v print case #%d: %s % cnum w return 		15 39
+def main t = rd1int for i in range t do_one_case i + 1 sys stdout flush 		47 51

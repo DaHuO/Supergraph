@@ -1,0 +1,1 @@
+get_string input op = input 0 		3 10

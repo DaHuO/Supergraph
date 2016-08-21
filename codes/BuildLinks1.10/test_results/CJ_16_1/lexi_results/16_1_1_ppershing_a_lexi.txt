@@ -1,0 +1,1 @@
+def solve testcase x = sys stdin readline strip s = x 0 m = x 0 for y in x 1 if y >= m s = y + s m = y else s = s + y print case #%d: %s % testcase s 		3 13

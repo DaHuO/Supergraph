@@ -1,0 +1,4 @@
+def answer_problem file_name f_solve with open file_name r as f n = int f readline output_str = \n join {1} format i + 1 f_solve input_str for i input_str in enumerate f read splitlines return output_str 		4 10
+def remove_num curr_str num num_str = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE num new_str = curr_str for c in num_str str_index = new_str find c if str_index == - 1 return curr_str None else new_str = new_str str_index + new_str str_index + 1 return new_str num 		33 43
+def solve_a input_str bt_stack = input_str while bt_stack curr = bt_stack pop if not curr 0 return join str x for x in sorted curr 1 else for i in range 10 parsed_digit = remove_num curr 0 i if parsed_digit 1 bt_stack += parsed_digit 0 parsed_digit 1 + curr 1 		20 30
+def answer_problem_special file_name f_solve with open file_name r as f num_cases = int f readline n j = f readline split return f_solve n j 		13 17

@@ -1,0 +1,5 @@
+a.out a_%s.out argv 		11 15
+def print_answer t answer 		17 21
+sv hr on sv hr on uc found_all uc found_all found_all to_remove uc to_remove to_remove to_remove uc m c = m c + 1 else m c = 1 o = z w u x g fi ni 		23 64
+def main argv f = open get_file argv 		66 73
+a.in a_%s.in argv 		5 9

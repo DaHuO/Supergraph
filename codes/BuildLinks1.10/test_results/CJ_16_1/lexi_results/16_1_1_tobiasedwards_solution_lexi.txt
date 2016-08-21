@@ -1,0 +1,1 @@
+def solution word = input new_word = word 0 for char in word 1 if char >= new_word 0 new_word = char + new_word else new_word += char return new_word 		1 9

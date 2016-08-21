@@ -1,0 +1,4 @@
+def __init__ self self word = 		8 9
+def put self c if not self word self word append c elif c >= self word 0 self word insert 0 c else self word append c 		11 17
+def __str__ self return join self word 		19 20
+def solution idx raw = raw_input word = word for c in raw word put c s = str word util print_case idx s 		23 29

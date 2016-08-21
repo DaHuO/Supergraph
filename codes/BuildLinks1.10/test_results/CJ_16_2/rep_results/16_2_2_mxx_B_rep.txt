@@ -1,0 +1,2 @@
+ALL_RES ALL_RES ALL_RES global coder jammer = coder jammer = raw_input split mingap minc minj = None None None bestc bestj = None 		6 25
+ALL_RES dfs resc resj clarger for i in xrange len resc len coder c j = coder i jammer i if c != ? and j != ? if c == j resc += c resj += j if c != j if clarger == None clarger = int c > int 		28 75

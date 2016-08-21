@@ -1,0 +1,1 @@
+def solve cols nums = for col in cols for num in col if num not in nums nums num = 0 nums num += 1 result = for num in nums if nums num % 2 == 1 result append num return  join str x for x in sorted result 		4 15

@@ -1,0 +1,10 @@
+classmethod def case cls cls current_case += 1 return Case #{}: format cls current_case 		70 73
+def main t = gcj token int for _ in range t case = gcj case if case == Case #34: j = 1 result = solve gcj writefile case result print case result 		115 124
+classmethod def writefile cls case solve cls OUT write case +  + str solve + \n return 		75 78
+classmethod def tokens cls cnt conv = identity return cls token conv for _ in range cnt 		60 66
+classmethod def token cls conv = identity cls whitespace line = cls _read_line i = 0 l = len line while i < l and not line i isspace i += 1 cls buf = line i if i < l else None return conv line i 		49 58
+classmethod def whitespace cls line = None while not line line = cls _read_line i = 0 l = len line while i < l and line i isspace i += 1 line = line i cls buf = line 		37 47
+classmethod def line cls conv = identity line = cls _read_line return conv line rstrip b'\r\n' 		27 30
+classmethod def _read_line cls if cls buf res = cls buf cls buf = None else res = cls IN readline if not res raise EOFError return res 		16 25
+classmethod def splitline cls conv = identity line = cls _read_line return conv x for x in line split 		32 35
+def solve S = gcj token str numbers = 0 * 10 numbers 0 = S count Z numbers 2 = S count W numbers 4 = S count U numbers 3 = S count R - numbers 4 - numbers 0 numbers 5 = S count F - numbers 4 numbers 6 = S count X numbers 7 = S count V - numbers 5 numbers 8 = S count G numbers 9 = S count I - numbers 5 - numbers 6 - numbers 8 numbers 1 = S count N - numbers 7 - numbers 9 - numbers 9 result = 0 * numbers 0 + 1 * numbers 1 + 2 * numbers 2 + 3 * numbers 3 + 4 * numbers 4 result += 5 * numbers 5 + 6 * numbers 6 + 7 * numbers 7 + 8 * numbers 8 + 9 * numbers 9 return result 		81 112

@@ -1,0 +1,2 @@
+def parse input_file output_file with open input_file as f t = int f readline split 0 out = open output_file w for i in range t n = int f readline split 0 rows = for _ in range 2 * n - 1 rows append map int f readline split sol = solve n rows sol =  join map str sol line = case # + str i + 1 + : + str sol print line out write line + \n return 		3 17
+def solve n rows c = counter for row in rows c update row res = for height in c if c height % 2 == 1 res append height assert len res == n return sorted res 		20 30

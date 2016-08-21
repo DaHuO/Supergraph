@@ -1,0 +1,5 @@
+inputToList f n = 		15 20
+solutionToString sol s = 		87 92
+N_0 N_2 N_4 N_8 N_6 N_3 N_7 N_5 N_7 N_9 N_6 N_5 N_8 N_1 N_0 N_2 N_4 N_0 N_1 N_2 N_3 N_4 N_5 N_6 N_7 N_8 N_9 0 H = 0 U = 0 F = 0 I = 0 V = 0 S = 0 X 		26 85
+outputList iL oL = 		96 101
+outputListToString oS oS solutionToString oS 		107 111

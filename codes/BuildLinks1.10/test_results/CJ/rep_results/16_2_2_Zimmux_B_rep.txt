@@ -1,0 +1,5 @@
+def fmt c 		4 5
+sumup c df = 		10 15
+allpossible allpossible sumup sumup = next stdin split n = len c c = int d if d != ? else - 1 for d in c j = int d if 		34 58
+def repl c 		7 8
+allpossible allpossible done = false for i d in 		17 29

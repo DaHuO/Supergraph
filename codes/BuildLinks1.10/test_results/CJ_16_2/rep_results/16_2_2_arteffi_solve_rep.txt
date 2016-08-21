@@ -1,0 +1,5 @@
+def fill x y div higher fx = for i dx dy in enumerate zip x y if 		66 89
+output_solutions #{i}: {a} {b}\n output w 		26 29
+def solve a b n = len a possibilities = for div in range n + 1 if div == n fa = fill a b div None fb = fill 		32 63
+INPUT_PATH output_solutions test_cases = parse_input solutions = 		3 14
+def parse_input path with open path 		17 23

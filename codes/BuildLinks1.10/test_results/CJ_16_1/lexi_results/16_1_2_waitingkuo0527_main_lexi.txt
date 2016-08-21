@@ -1,0 +1,3 @@
+def parse n = int input m = for i in range 2 * n - 1 m append int j for j in input split return n m 		47 54
+def solve n m ori_m = deepcopy m pos = - 1 line = need_elem = - 1 for i in range n m_row = min m key = lambda x x i m_index = m index m_row m_elem = m_row i m pop m_index found = false for m2_row in m if m2_row i == m_elem m2_index = m index m2_row m pop m2_index found = true break if not found need_elem = m_elem line = m_row pos = i l = row pos for row in ori_m l append need_elem for elem in line l pop l index elem l sort return  join str i for i in l 		2 44
+def main t = int input for t in range 1 t + 1 params = parse result = solve * params print case #%d: %s % t result 		57 65

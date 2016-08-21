@@ -1,0 +1,3 @@
+str_arr 		10 11
+choose_tiles main t = 		13 16
+choose_tiles str_arr c 		4 8

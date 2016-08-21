@@ -1,0 +1,1 @@
+def solve filename solutions = with open filename rb as f n = int f readline for i in range n a = map int f readline split solutions append  join map str range 1 a 0 + 1 with open answer.txt wb as f for i in range len solutions f write case #%d: % i + 1 + solutions i + \n 		1 10

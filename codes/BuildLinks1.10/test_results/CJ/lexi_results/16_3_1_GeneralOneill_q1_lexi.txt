@@ -1,0 +1,1 @@
+def remove l alph = string ascii_lowercase rtn = while sum l > 0 hi = max l rtn += alph l index hi l l index hi -= 1 hi = max l if float hi / sum l > .5 rtn += alph l index hi l l index hi -= 1 rtn +=  return rtn 		3 15

@@ -1,0 +1,3 @@
+def match s pattern if pattern not in d d pattern = re compile pattern return bool d pattern match s 		36 39
+def output casenum c j print case #%d: %s %s % casenum + 1 c j 		31 32
+def main for i in range 1000 for j in range 1000 all_poss append str i str j t = int raw_input for i in xrange t c j = raw_input split c = c replace ? . j = j replace ? . mini = 1000000 res = none length = len c for x y in all_poss if len x > length or len y > length continue if match x zfill length c and match y zfill length j diff = abs int x - int y if diff < mini res = x y mini = diff output i str res 0 zfill length str res 1 zfill length 		5 29

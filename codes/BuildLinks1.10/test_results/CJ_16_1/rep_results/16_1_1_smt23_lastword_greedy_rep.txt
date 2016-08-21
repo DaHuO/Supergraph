@@ -1,0 +1,1 @@
+def solveproblem letters letters pop ans = ans 		4 19

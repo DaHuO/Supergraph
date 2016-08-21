@@ -1,0 +1,3 @@
+def do n 		7 11
+def run s let = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE s = list s a = def do n s l l append n for c in let n s remove c return s l 		3 49
+def main t = int raw_input 		52 60

@@ -1,0 +1,4 @@
+def gen s if ? not in s yield s else for i in range 10 for s2 in gen s replace ? str i 1 yield s2 		8 14
+def solve case log info solving: %r case a b = case split al = map int gen a bl = map int gen b comb = for a in al for b in bl comb append abs a - b a b a + b best = min comb return %%0%dd % len a * 2 strip % best 1 best 2 		17 32
+def main lines = ln strip for ln in sys stdin for i case in enumerate get_cases lines 1 result = solve case log info case #%d: %s i result print case #%d: %s % i result 		40 46
+def get_cases lines for ln in lines 1 yield ln 		35 37

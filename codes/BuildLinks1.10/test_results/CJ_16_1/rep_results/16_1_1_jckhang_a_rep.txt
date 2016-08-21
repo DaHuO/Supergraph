@@ -1,0 +1,1 @@
+def word lst arr = i for 		1 12

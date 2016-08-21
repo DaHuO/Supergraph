@@ -1,6 +1,6 @@
-GCD a b a 		27 32
-LCM GCD 		33 34
-P_2 R_2 S_2 P_2 R_2 S_2 R_2 P_2 S_2 S_2 P_2 R_2 1 and S == 1 return RS else return None if R == 0 if P == 1 and S 		40 78
+def GCD a b 		27 32
+LCM a 		33 34
+def MUP P R S if P == 0 if R == 1 and S == 1 return RS else return None if R == 0 if P == 1 and S 		40 78
 processInputLine inputType inputNumber inputSeparator inputLine inputNumber inputVector inputLine inputSeparator 		15 25
 LCMList 		37 38
 outputFile processInputLine processInputLine O O O \r\n outputFile in range T _ 		80 100

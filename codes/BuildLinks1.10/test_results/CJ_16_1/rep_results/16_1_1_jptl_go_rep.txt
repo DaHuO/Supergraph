@@ -1,0 +1,3 @@
+def main tc = 		10 13
+def foo s s = str s 		16 24
+def 		7 8

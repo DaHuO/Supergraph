@@ -1,0 +1,1 @@
+def matches seq score 		8 12

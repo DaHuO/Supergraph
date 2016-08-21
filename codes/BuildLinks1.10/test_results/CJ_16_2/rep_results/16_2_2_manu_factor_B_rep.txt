@@ -1,0 +1,5 @@
+def 		13 14
+def distance 		16 17
+def solve p s 		90 93
+def 		10 11
+def closer p s if not p assert not s return lst = if p 0 == ? and s 0 == ? pp ss = closer p 1 s 1 pp = 0 + pp ss = 0 + ss lst append distance pp ss pp ss = minimum p 1 maximum s 1 pp = 1 + pp ss = 0 + ss lst append distance pp ss pp ss = maximum p 		19 87

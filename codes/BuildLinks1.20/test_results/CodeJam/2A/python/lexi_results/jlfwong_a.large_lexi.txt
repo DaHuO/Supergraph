@@ -1,0 +1,3 @@
+def optimized matchlist if len matchlist < 2 return matchlist halflen = len matchlist / 2 left = optimized matchlist halflen right = optimized matchlist halflen if left < right return left + right else return right + left 		74 86
+def expand matchlist n if n == 0 return matchlist return expand join winner_to_match x for x in matchlist n - 1 		68 72
+def winner_to_match x if x == p return pr if x == s return ps if x == r return rs assert false x 		58 66

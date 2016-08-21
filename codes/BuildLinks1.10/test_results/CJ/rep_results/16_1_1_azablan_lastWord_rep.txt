@@ -1,0 +1,2 @@
+findlast buildword 		3 7
+buildword buildword buildword finished if not s finished 		9 20

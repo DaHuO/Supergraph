@@ -1,0 +1,22 @@
+def decorating_function user_function def wrapper * args ** kwargs if 		55 63
+def time_it inner_func wraps inner_func def wrapper * args ** kwargs print --> start 		39 50
+main_run directory stat st_mtime chosen .parsed.txt startswith 000 chosen gcjiowrapper solve_all_cases conclusion directory chosen chosen = os x x for x in file_names if x endswith .in if not l1 		161 197
+solve_one_case ordereddict s = io_wrapper readline replace \n d = for c in abcdefghijklmnopqrstuvwxyz d c = 0 for c in s d c += 1 phone_number = for c in abcdefghijklmnopqrstuvwxyz assert d c >= 0 a = d z phone_number += 0 * a d z -= a d e -= a d r -= a d o -= a a 		215 303
+def readline 		140 144
+def 		155 157
+__input_filename __parsed_filename __output_filename input_filename parsed_filename output_filename 		119 126
+solve_all_cases new_test_case solve_one_case t = 		201 207
+__exit__ type_e 		134 138
+__enter__ __input_filename __parsed_filename __output_filename 		128 132
+log_it arguments = true output = true def decorating_function user_function def wrapper 		54 64
+def 		151 153
+def wrapper * args ** kwargs if arguments print 		56 62
+memoize_it inner_func global __memoization_registry cache = __memoization_registry 		15 25
+reset_memoization global 		29 33
+wraps inner_func def wrapper * args ** kwargs print --> start function \' 		40 49
+new_test_case \n## _bigonion 		146 149
+wraps inner_func def wrapper 		20 24
+count_it _call_func_counters _call_func_counters _call_func_counters _call_func_counters _call_func_counters _call_func_counters assert 		68 79
+_call_func_counters _call_func_counters def wrapper 		74 78
+pre-process_ pickling highest_protocol pickling unpickling unpickling args ** kwargs filename = + inner_func __qualname__ + .pickle if filename not in os listdir print --> 		90 107
+pre_process_it getargspec keywords varargs defaults must have pre-process_ pickling highest_protocol pickling unpickling unpickling or a or a or a raise valueerror a pre process function not arguments time_it wraps inner_func def 		83 109

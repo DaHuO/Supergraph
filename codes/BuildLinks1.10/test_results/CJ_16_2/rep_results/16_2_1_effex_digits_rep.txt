@@ -1,0 +1,2 @@
+next_case f line = f 		15 23
+find_ans_str c5 c7 c5 c7 c9 c5 c7 c9 Z c2 = c s count W c4 = c s count U c6 = c s count X c8 = c s count G for x in range c0 c s remove E c s remove R c s remove O for x 		25 89

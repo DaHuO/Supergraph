@@ -1,0 +1,1 @@
+def abc a b c d z = if b == 0 return int join a if b == 1 for i in d a c 0 = i z append int join a if b == 2 for i in d x = copy copy a x c 0 = i for j in d x c 1 = j z append int join x if b == 3 for i in d a c 0 = i for j in d a c 1 = j for k in d a c 2 = k z append int join a return z 		2 25

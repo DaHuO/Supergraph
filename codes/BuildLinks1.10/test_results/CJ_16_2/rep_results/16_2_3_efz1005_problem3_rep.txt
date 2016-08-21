@@ -1,0 +1,2 @@
+check_solution f_a s_a f_a s_a = f 0 for f in 		7 15
+def diff 		3 5

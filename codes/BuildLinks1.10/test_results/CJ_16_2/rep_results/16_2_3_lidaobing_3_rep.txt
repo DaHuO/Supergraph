@@ -1,0 +1,5 @@
+transfer foo ifile n = int ifile readline a = 		41 50
+def main ifile = sys 		53 58
+transfer a pp = ss = aa = pa = 1 sa 		23 38
+def xx idx 		4 9
+idx2 idx2 |= |= idx2 idx = res = 		11 21

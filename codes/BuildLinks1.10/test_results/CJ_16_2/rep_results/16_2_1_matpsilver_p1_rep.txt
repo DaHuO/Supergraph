@@ -1,0 +1,3 @@
+getInputCases hashmaps hashmaps hashmaps input.txt r lines = line 		2 14
+solveCases listOfLetters listOfLetter listOfLetters numberOfLetter listOfLetter listOfLetter numberOfLetter numberOfLetter listOfLetter X 6 TWO W 2 FOUR U 4 		16 42
+outputResults results outputFile = open output.txt w 		44 51

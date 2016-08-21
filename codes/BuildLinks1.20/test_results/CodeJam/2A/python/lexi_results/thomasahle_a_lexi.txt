@@ -1,0 +1,1 @@
+def solve n top if n == 0 return prs top a = solve n - 1 top b = solve n - 1 top + 1 % 3 return min a + b b + a 		7 12

@@ -1,0 +1,27 @@
+Direct links:
+12 - 13 links:
+16_3_1_BigFudge_A	:	9 - 12
+
+54 - 56 links:
+16_3_1_BigFudge_A	:	60 - 64
+
+8 - 10 links:
+16_3_1_BigFudge_A	:	5 - 7
+
+
+With same rare tokens:
+12 - 13 links:
+16_3_1_BigFudge_A	:	9 - 12
+
+26 - 45 links:
+16_3_1_Celeritous_senate	:	39 - 56
+16_3_1_Avail_run	:	6 - 69
+16_3_1_Avail_run	:	6 - 69
+16_3_1_giwon_a	:	14 - 42
+
+54 - 56 links:
+16_3_1_BigFudge_A	:	60 - 64
+
+8 - 10 links:
+16_3_1_BigFudge_A	:	5 - 7
+

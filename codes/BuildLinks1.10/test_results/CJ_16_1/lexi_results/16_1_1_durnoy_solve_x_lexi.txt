@@ -1,0 +1,2 @@
+def main f = sys stdin if len sys argv > 1 f = open sys argv 1 rt t = int f readline strip for case_id in range 1 t + 1 s = f readline strip r = calc s print str format case #{}: {} case_id r 		15 28
+def calc s out = s 0 for ch in s 1 if ch >= out 0 out = ch + out else out = out + ch return out 		6 13

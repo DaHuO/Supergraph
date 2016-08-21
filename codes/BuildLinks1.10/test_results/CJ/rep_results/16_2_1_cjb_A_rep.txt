@@ -1,0 +1,5 @@
+makedict s d 		37 41
+subdict d d2 		42 45
+{}/desktop/{}.out go n lines prob = a foutname = format 		25 35
+openfile small-attempt0 {}/desktop/{}-{}.in prob = a fname = format 		15 23
+makedict subdict subdict {:d} = m dd = defaultdict int dd 2 = d w dd 4 = d u dd 		52 74

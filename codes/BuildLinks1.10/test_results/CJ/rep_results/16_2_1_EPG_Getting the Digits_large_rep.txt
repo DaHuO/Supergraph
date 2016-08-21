@@ -1,0 +1,1 @@
+do_solve s occ = counter occ 0 = s count z occ 2 = s count w occ 4 = s 		25 46

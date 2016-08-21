@@ -1,0 +1,1 @@
+def solve letters word = letters 0 for letter in letters 1 if letter >= word 0 word = letter + word else word = word + letter return word 		3 10

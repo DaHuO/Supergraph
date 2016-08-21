@@ -1,0 +1,4 @@
+get_result original_word wdigit original_word wdigit wdigit get_result list if not 		48 61
+silent __stdout__ message if len 		16 21
+def print_case case 		12 14
+remove_uniques unique_letter unique_digits unique_letter for 		38 45

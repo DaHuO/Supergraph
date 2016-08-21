@@ -1,0 +1,1 @@
+def decrease tuples letter count = - 1 for l c in tuples if l is letter count = c if count <= 1 return filter lambda l c l is not letter tuples else return map lambda l c l c - 1 if l is letter else l c tuples 		10 19

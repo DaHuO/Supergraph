@@ -1,0 +1,2 @@
+def cases inputFile with open inputFile r as f numCases = int f readline for _ in range numCases yield f readline rstrip \n 		6 10
+def solve digits results = 0 for x in range 10 counts = Counter digits for digit test string in table digitCount = counts test for letter in string counts letter -= digitCount results digit += digitCount return join count * str digit for digit count in enumerate results 		23 31

@@ -1,0 +1,2 @@
+read_n_int expected ints, got int s for 		4 10
+get_longest_arm exc inv exc sons_ sons_ inv 		50 60

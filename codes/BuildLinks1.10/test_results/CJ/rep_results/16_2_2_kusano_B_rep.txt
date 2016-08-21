@@ -1,0 +1,1 @@
+def solve c j n = len c ans = 0 * n 9 * n for p in range n + 1 for d in - 1 1 c j = for i in range p if c i == ? and j i == ? c += 0 j += 0 elif c i == j i c += c i j += j i elif c i == ? c 		1 79

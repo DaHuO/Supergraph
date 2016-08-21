@@ -1,0 +1,2 @@
+def main ts = int stdin readline for i in range 1 ts + 1 k c s = list map int stdin readline split sol = solve k c s print case #%d: %s % i sol 		6 11
+def solve k c s if s < k return impossible sol = for i in range k pos = i + 1 + i * k * c - 1 sol append str pos return  join sol 		13 21

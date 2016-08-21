@@ -1,0 +1,2 @@
+numsAndStrings makePhoneNumber numsAndStrings inp = join sorted inp nums = 0 ZERO 1 ONE 2 TWO 3 		6 27
+makePhoneNumber words nums = 		29 35

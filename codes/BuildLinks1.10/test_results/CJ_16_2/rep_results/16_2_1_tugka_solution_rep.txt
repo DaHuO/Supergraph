@@ -1,0 +1,3 @@
+delete_first_occurrence letters_to_delete letters_to_delete first_index first_index = i 		11 15
+def 		3 4
+make_solution delete_first_occurrence letters_to_delete letters_to_delete first_index first_index delete_first_occurrence 2 TWO W 6 SIX X 7 SEVEN S 5 FIVE V 4 FOUR 		7 26

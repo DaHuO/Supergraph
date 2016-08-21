@@ -1,0 +1,3 @@
+first_line first_line #%(case_number)d: %(result)s stream readline case_count = 		89 103
+def decrease map word 		76 86
+initial initial ERROR: CASE initial %s%s%s%s%s%s%s%s%s%s = dict for letter in count = letter_map get letter 0 + 1 letter_map letter = count zeroes = letter_map get Z 0 		6 62

@@ -1,0 +1,2 @@
+def solve s r = s 0 for d in s 1 if val d >= val r 0 r = d + r else r = r + d return r 		9 16
+def val s return int s 36 - 10 		6 7

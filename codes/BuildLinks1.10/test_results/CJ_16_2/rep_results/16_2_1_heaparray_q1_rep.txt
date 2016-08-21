@@ -1,0 +1,9 @@
+distinct retNum retArr distinct retArr retNum 		42 49
+def 		20 21
+solveProblemSet parseFile inFilePath solvePS 		71 77
+solvePS a7 a9 a7 a9 c in ps string if d get c == None d c = 0 d c += 		23 40
+parseVec vecValues 		56 58
+parseNum 		53 54
+psOutFormat iterNum 		60 61
+writeToFile outFileStr outFileStr resultArr 		63 67
+parseFile parseNum ProblemArr ProblemArr ProblemSet ProblemArr 		8 16

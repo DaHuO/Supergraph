@@ -1,0 +1,2 @@
+s_list s_list s_list digit = list 		5 12
+findNumbers s numbers = while s find Z != - 1 s = stripDigit s ZERO numbers append 0 while s find W != - 1 s = stripDigit s TWO 		14 58

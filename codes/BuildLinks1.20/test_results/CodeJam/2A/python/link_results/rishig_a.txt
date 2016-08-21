@@ -1,0 +1,17 @@
+
+With same rare tokens:
+27 - 31 links:
+johnLate_a	:	9 - 13
+
+42 - 49 links:
+lidaobing_1	:	48 - 58
+johnLate_a	:	9 - 13
+
+3 - 6 links:
+LiranR_showdown2	:	5 - 10
+LiranR_showdown2	:	13 - 21
+
+8 - 12 links:
+LiranR_showdown2	:	5 - 10
+LiranR_showdown2	:	13 - 21
+

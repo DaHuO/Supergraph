@@ -1,0 +1,2 @@
+def solveCase S x = 0 p = l = len S f = for c in list set S f c = S count c for gl gf gn in genNumber if gl != l continue good = True for gc gf in gf iteritems if not gc in f or f gc != gf good = False if good return gn return x 		38 65
+def genNumber for i in range 1 2001 for n in map join itertools combinations_with_replacement 0123456789 i l = 0 f = for c in n o = ord c - 48 y = nfreq o for key value in y iteritems if key in f f key = f key + value else f key = value l = l + ncount o yield l f n 		19 36

@@ -1,0 +1,2 @@
+def solve n A B = I readline - 1 split  A = x for x in A B = x for x in B smallest = 10 ** 20 As = str 10 ** 20 Bs = str 10 ** 20 for i in range len A if A i == ? and B i == ? A i = 0 B i = 0 A_ = A B_ = B A_ i = 1 d x y = finish A_ B_ True if d == smallest if int x == int As if int y < int Bs Bs = y if int x < int As As = x Bs = y if d < smallest smallest = d As = x 		15 166
+which which A B if A = join 		5 13

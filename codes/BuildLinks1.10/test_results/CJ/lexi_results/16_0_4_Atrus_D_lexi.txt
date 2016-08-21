@@ -1,0 +1,2 @@
+def solve k c s index = k_pos = 0 c_pos = 0 for i in range s while c_pos <= k_pos and c_pos + 1 < k and c != 1 c_pos += 1 index append calc_c c_pos k c + k_pos + 1 if c_pos > k_pos k_pos = c_pos + 1 else k_pos += 1 if k_pos >= k index_str = map str index return  join index_str return impossible 		6 29
+def calc_c pos k c if c == 1 return 0 current = pos * k ** c - 1 return current + calc_c pos k c - 1 		1 4

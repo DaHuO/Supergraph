@@ -1,0 +1,1 @@
+decrease tuples letter count = - 1 for l c 		10 19

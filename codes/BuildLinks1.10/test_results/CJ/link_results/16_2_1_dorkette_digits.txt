@@ -1,0 +1,21 @@
+Direct links:
+15 - 20 links:
+16_3_1_dorkette_senate	:	15 - 20
+
+22 - 25 links:
+16_3_1_dorkette_senate	:	22 - 25
+
+27 - 30 links:
+16_3_1_dorkette_senate	:	27 - 30
+
+
+With same rare tokens:
+22 - 25 links:
+16_3_1_dorkette_senate	:	22 - 25
+16_3_1_dorkette_senate	:	22 - 25
+
+27 - 30 links:
+16_3_1_dorkette_senate	:	27 - 30
+16_1_2_KidDino90_main	:	93 - 97
+16_1_2_KidDino90_main	:	15 - 82
+

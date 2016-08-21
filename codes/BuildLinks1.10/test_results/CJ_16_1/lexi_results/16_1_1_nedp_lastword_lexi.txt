@@ -1,0 +1,2 @@
+def last s chars = list s 0 1 for letter in s 1 if letter >= chars 0 chars insert 0 letter else chars append letter return join chars 		5 18
+def oracle s result assert result 0 == max s 		20 22

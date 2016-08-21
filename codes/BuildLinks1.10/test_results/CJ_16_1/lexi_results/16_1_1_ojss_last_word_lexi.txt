@@ -1,0 +1,1 @@
+def solve s tmp = deque str_list = ch for ch in s i = 1 for indx in xrange len str_list if indx == 0 tmp extendleft s indx continue if ord str_list indx >= ord tmp 0 tmp extendleft s indx i += 1 else tmp extend s indx return join tmp 		6 20

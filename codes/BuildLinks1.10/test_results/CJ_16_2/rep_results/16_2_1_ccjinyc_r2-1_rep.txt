@@ -1,0 +1,1 @@
+def rec cnt t a res if t > len nums - 1 sss = 0 for k in cnt sss += cnt k if sss == 		127 161

@@ -1,0 +1,2 @@
+def options for combo in itertools 		13 17
+def solve scores template = scores replace ? {} def 		11 20

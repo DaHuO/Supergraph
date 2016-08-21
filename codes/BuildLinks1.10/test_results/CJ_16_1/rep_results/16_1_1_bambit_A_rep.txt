@@ -1,0 +1,1 @@
+def solve t word = sys stdin readline rstrip top = max word toploc 		5 26

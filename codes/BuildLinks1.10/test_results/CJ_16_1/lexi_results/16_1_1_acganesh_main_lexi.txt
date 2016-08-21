@@ -1,0 +1,2 @@
+def main t = int raw_input for i in xrange 1 t + 1 s = raw_input print case #%s: %s % i winning s 		19 23
+def winning s winner = for c in s if winner == winner append c else if abc_dict c >= abc_dict winner 0 winner insert 0 c else winner append c return join winner 		7 17

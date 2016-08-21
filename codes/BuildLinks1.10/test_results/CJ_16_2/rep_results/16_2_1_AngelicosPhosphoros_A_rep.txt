@@ -1,0 +1,5 @@
+get_number_of_digit check_exist counts ret 		27 32
+proceed_string get_number_of_digit ret_string ret_string ret_string for ch in alphabet char_numbers ch = 		35 50
+check_exist string counts 		15 21
+def output 		60 63
+def decrease 		23 25

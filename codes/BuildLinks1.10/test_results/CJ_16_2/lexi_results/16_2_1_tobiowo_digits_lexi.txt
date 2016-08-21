@@ -1,0 +1,1 @@
+def get_number s counter = Counter s y = np array counter get char 0 for char in char_list x = np array digit_set get char 0 for char in char_list for digit_set in digit_sets scalars = np linalg lstsq x T y 0 result = for digit count in enumerate np rint scalars count = int count result append str digit * count return join result 		27 42

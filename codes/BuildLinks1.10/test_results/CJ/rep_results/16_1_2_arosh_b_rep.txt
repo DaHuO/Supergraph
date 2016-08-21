@@ -1,0 +1,1 @@
+ary ary t = int input for case in range 1 t + 1 n 		5 22

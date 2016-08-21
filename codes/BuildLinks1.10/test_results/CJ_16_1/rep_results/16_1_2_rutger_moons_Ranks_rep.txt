@@ -1,0 +1,2 @@
+def solve lists dict = for l in lists for el 		13 28
+prettyarray l s 		6 10

@@ -1,0 +1,4 @@
+lecture arret arret arret = 0 c1 = 0 		37 49
+rchch lst nb2 = 0 for k in lst nb2 += k s = while nb2 != 2 nb2 -= 2 		1 24
+encoding utf-8 nb_val nb_val nbc lecture nbc rchch 97 = open ifn r = g = open ofn w 		51 70
+def maxi l a = l 		26 34

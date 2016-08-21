@@ -1,0 +1,5 @@
+pretty n x 		27 31
+is_better update cc cj 		38 41
+def complete i sign cc cj if i == len c update cc cj return if c i == ? if j i == ? if sign < 0 cc += 9 cj += 0 elif sign > 0 cc += 0 cj += 9 else complete i + 1 - 		42 92
+is_better cc cj ansc ansj if ansc == - 1 		14 25
+pretty fits n pat n = len 		5 12

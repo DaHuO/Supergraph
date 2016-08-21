@@ -1,0 +1,2 @@
+def convert_to_base10 l base answer = 0 for element in l answer *= base answer += element return answer + 1 		6 12
+def solve t k c s = map int sys stdin readline rstrip split checks = for next in range k - 1 // c + 1 check = range next * c min next * c + c k if not check continue checks append convert_to_base10 check k answer = impossible if len checks > s else  join map str checks print case #{}: {} format t answer 		14 26

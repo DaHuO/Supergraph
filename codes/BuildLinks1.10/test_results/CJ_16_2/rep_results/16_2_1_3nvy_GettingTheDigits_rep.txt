@@ -1,0 +1,2 @@
+GettingTheDigits S ZERO = S count Z S = S replace Z ZERO replace E ZERO replace R ZERO replace O ZERO TWO = S count W S = S replace T TWO replace W TWO replace O TWO SIX = S count X S 		15 44
+RuntimeError within GettingTheDigits = int input if T < 		6 13

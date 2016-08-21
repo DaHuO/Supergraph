@@ -1,0 +1,1 @@
+def number s d = for i in range 10 d i = 0 d 0 = s count z d 6 = s count x d 2 = s count w d 8 = s count g d 4 = s count u if r in s d 3 = s count h - d 8 if f in s d 5 = s count f - d 4 if v in s d 7 = s count v - d 5 if o in s d 1 = s count o - d 2 - d 4 - d 0 if i in s d 9 = s count i - d 5 - d 8 - d 6 l = for i in d keys l append str i * d i l sort return join l 		1 24

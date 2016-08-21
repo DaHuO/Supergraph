@@ -1,0 +1,2 @@
+def remove_word_from_letters word letters print Subtracting {} format word return letters - collections Counter word 		34 36
+def solve letters numbers = pasn = 0 removed = True while len letters != 0 if removed is True removed = False pas = passes pasn for letter in pas print letters if len letters == 0 break if letter in letters removed = True numbers append lookup pas letter letters = remove_word_from_letters pas letter letters else removed = True pasn += 1 return join map str sorted numbers 		38 61

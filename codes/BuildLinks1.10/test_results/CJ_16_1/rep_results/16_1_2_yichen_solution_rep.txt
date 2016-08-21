@@ -1,0 +1,1 @@
+input_numbers input_numbers case_number size = int raw_input nums = for i 		1 13

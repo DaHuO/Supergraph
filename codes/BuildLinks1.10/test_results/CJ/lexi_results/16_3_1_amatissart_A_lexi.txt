@@ -1,0 +1,2 @@
+def next_step p s = sum p for _ p in p p sort key = lambda i p p reverse = true i x = p 0 j y = p 1 if x == y == 0 return none if x - 1 > s - 1 / 2 or y > s - 1 / 2 p 0 = i x - 1 p 1 = j y - 1 return i j p 0 = i x - 1 return i 		9 21
+def letter_from_int i return chr i + 65 		6 7

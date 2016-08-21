@@ -1,0 +1,1 @@
+def solve k c s n = math ceil k / c if n > s return impossible resposta = for i in range n s = 0 k = 1 for q in range c d = c * i + q if d >= k break s += d * k k *= k resposta += str s + 1 +  return resposta 		11 28

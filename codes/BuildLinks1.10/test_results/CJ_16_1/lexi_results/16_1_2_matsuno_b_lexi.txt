@@ -1,0 +1,2 @@
+def main t = int sys stdin readline for t in range t do t + 1 		26 29
+def do t cnt = n = int sys stdin readline for i in range n * 2 - 1 for s in sys stdin readline split n = int s if n in cnt cnt n += 1 else cnt n = 1 r = for n c in cnt iteritems if c & 1 == 1 r append n r = sorted r print case #{0}: format t for n in r print {0} format n print 		4 24

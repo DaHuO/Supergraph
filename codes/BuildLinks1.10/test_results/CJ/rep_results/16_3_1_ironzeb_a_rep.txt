@@ -1,0 +1,1 @@
+nsmallest heapreplace p ans = evacuated = 0 total = sum p numleft = total numbers = 		12 36

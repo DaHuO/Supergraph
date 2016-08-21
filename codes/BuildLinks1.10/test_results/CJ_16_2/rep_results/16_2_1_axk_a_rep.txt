@@ -1,0 +1,3 @@
+is_empty cc for 		15 19
+is_empty rec ds i cc r if i == len ds return cc exists 		21 42
+def calc s ds = ZERO ONE TWO 		5 13

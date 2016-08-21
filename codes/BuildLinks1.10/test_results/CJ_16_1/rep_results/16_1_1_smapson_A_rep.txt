@@ -1,0 +1,1 @@
+def last_word s if s == 		4 9

@@ -1,0 +1,1 @@
+def main_func S ind = Z O W R U F X V G N words = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE order = 0 2 4 3 1 5 6 7 8 9 res = s = list S for d in order while ind d in s res append str d for c in words d s remove c return join sorted res 		7 18

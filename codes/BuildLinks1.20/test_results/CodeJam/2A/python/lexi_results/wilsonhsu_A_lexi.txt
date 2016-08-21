@@ -1,0 +1,7 @@
+def get_lineup winner n lineup = none * 2 ** n lineup 0 = winner fill_lineup lineup 0 len lineup return lineup 		9 13
+def lineup_ok lineup r p s return lineup count r == r and lineup count s == s and lineup count p == p 		38 39
+def fill_lineup lineup start end if end > start + 1 mid = start + end // 2 lineup mid = opp lineup start fill_lineup lineup start mid fill_lineup lineup mid end 		15 20
+def solve n r p s best_lineup = none for winner in r p s lineup = get_lineup winner n if lineup_ok lineup r p s sort_lineup lineup if best_lineup is none or greater best_lineup 0 lineup 0 len lineup best_lineup = lineup return best_lineup 		41 49
+def sort_lineup lineup i = 1 while i < len lineup for k in range 0 len lineup i * 2 if greater lineup k lineup k + i i lineup k k + i lineup k + i k + 2 * i = lineup k + i k + 2 * i lineup k k + i i *= 2 		22 28
+def greater lineup1 k1 lineup2 k2 n for j in range n if lineup1 k1 + j > lineup2 k2 + j return true elif lineup1 k1 + j < lineup2 k2 + j return false return false 		30 36
+def run name f = open {0}.in format name r g = open {0}.out format name w t = int f readline for t in range t n r p s = int x for x in f readline split lineup = solve n r p s if lineup g write case #{0}: {1}\n format t + 1 join lineup else g write case #{0}: impossible\n format t + 1 f close g close 		51 65

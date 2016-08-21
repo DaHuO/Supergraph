@@ -1,0 +1,3 @@
+def digit_in_word word digit return all word count c >= digit count c for c in set digit 		9 10
+def possible_digits word digits = for digit in words if digit_in_word word digit digits append digit return digits 		13 18
+def solve word for canidates in itertools permutations possible_digits word canidate = list word return_value = for each in canidates while digit_in_word canidate each try for c in each canidate remove c except valueerror continue return_value append words index each if len canidate == 0 return join str c for c in sorted return_value print join canidate 		21 35

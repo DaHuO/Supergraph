@@ -1,0 +1,4 @@
+stringio stringio int32 = none if data is none f = sys stdin else f = data 		117 129
+def stripnl 		112 115
+int32 cmp n p lp = len p a = np zeros n n dtype = np pairs = for i in xrange n p 		67 97
+def try_set a pairs l missing n is_row if len pairs == 0 yield a is_row else if l == missing p0 = pairs 0 0 row_ok = true col_ok = true for i in xrange n if a l i != 0 and a l i != p0 i row_ok 		19 62

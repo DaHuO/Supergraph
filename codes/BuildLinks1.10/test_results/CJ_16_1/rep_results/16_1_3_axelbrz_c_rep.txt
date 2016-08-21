@@ -1,0 +1,4 @@
+def all_perms elements if len elements 		132 138
+threading thread 		76 79
+def all_perms elements if len elements 		187 193
+acquire empty release release {0:b} (case %d/%d, thread %d) testing with: ns_set valid1 ns_set valid1 valid1 perm_x perm_x acquire release n = len fs maxl = 0 for i in xrange 2 ** n - 1 - 1 - 1 b 		81 128

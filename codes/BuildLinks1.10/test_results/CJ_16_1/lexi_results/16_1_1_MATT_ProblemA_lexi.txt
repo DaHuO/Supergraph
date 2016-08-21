@@ -1,0 +1,1 @@
+def bestalpha s l = len s string = s 0 for i in range 1 l if s i < string 0 string = string + s i else string = s i + string return string 		10 18

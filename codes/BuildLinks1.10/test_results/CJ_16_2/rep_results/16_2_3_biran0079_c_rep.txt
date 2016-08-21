@@ -1,0 +1,1 @@
+snd snd snd if i == len l return 0 res 		1 11

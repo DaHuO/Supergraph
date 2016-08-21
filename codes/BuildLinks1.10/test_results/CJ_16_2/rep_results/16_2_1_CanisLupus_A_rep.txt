@@ -1,0 +1,2 @@
+perms perms name_counters TEST S_counter perms S_counter name_counters isNameInString TEST SIX SEVEN EIGHT NINE = for i in xrange 1 len names + 		10 39
+isNameInString S_counter S_counter 		4 8

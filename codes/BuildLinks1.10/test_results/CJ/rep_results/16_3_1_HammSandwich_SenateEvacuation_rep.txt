@@ -1,0 +1,15 @@
+partycounts partycounts anyleft partycounts evacperson findwhichtoevac partycounts partycounts evacperson partycounts evacperson evacperson 		18 32
+nextlineoffloats nextline delim 		78 80
+findwhichtoevac partycounts partycounts partycounts 0 		34 41
+basefilename ensuredirectory ./output ./input/ basefilename ./output/ 		53 57
+nextline 		68 69
+nextint 		71 72
+nextlineofints nextline delim 		74 76
+nextdelimitedmatrix nextline problem, specified dimensions =  matrix = 		85 93
+nextdelimitedline nextline 		82 83
+def output self value print case # 		63 66
+anyleft partycounts 		43 47
+getstringmatrix self matrix space = true out = 		105 115
+codejamhelper a-large nextint nextint partycounts 		6 15
+nextcharmatrix nextline problem, specified dimensions = for _ 		95 103
+ensuredirectory makedirs 		59 61

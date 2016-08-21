@@ -1,0 +1,13 @@
+Direct links:
+8 - 14 links:
+16_1_1_Caiyi_A_small	:	8 - 14
+16_1_2_Caiyi_B_small	:	8 - 15
+16_0_4_Caiyi_P_D	:	96 - 102
+
+
+With same rare tokens:
+8 - 14 links:
+16_1_1_Caiyi_A_small	:	8 - 14
+16_1_2_Caiyi_B_small	:	8 - 15
+16_0_4_Caiyi_P_D	:	96 - 102
+

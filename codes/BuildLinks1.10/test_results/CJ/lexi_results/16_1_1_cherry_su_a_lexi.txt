@@ -1,0 +1,2 @@
+def solve_slow s state = if len s == 0 return state l = solve_slow s 1 s 0 + state r = solve_slow s 1 state + s 0 return max l r 		1 6
+def solve s f = * len s + 1 for i c in enumerate s start = 1 f i = max c + f i - 1 f i - 1 + c return f len s 		8 12

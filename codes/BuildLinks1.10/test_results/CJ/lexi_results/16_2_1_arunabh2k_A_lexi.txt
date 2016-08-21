@@ -1,0 +1,1 @@
+def check word arrs count warr = list word karrs = copy copy arrs for c in warr if c not in arrs arrs c = 0 karrs c = 0 if karrs c == 0 return count karrs c = karrs c - 1 arrs = copy copy karrs return check word arrs count + 1 		6 18

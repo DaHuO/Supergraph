@@ -1,0 +1,6 @@
+read_chrs 		32 33
+def read_ints 		26 27
+1.0 solve p result = while sum p 		9 20
+read_frac return 		28 29
+def read_floats 		34 35
+def read_strs 		30 31

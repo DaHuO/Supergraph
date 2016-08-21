@@ -1,0 +1,2 @@
+def combos s digits = list s unknowns = digits count ? for i in range 10 ** unknowns yield translate digits i 		3 7
+def translate digits n digits = list digits unknowns = 0 for i in range len digits if digits i == ? digits i = str n // 10 ** unknowns % 10 unknowns += 1 s = join digits return int s 		9 17

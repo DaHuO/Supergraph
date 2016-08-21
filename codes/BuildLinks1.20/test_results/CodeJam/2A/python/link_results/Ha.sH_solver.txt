@@ -1,0 +1,34 @@
+
+With same rare tokens:
+121 - 141 links:
+romd_RPS	:	60 - 76
+Ha.sH_showdown	:	8 - 11
+kevinsogo_a	:	13 - 24
+klolos_jam	:	74 - 76
+klolos_jam	:	62 - 63
+
+88 - 109 links:
+eMBe_A	:	36 - 41
+eMBe_A	:	29 - 34
+kenneth.maples_showdown	:	13 - 22
+kenneth.maples_showdown	:	24 - 32
+EricDLee_A	:	59 - 69
+
+69 - 77 links:
+lackofcheese_src_codejam_io	:	90 - 113
+
+17 - 46 links:
+bananaphone_1	:	11 - 18
+tpablo_main-large	:	209 - 220
+tpablo_main-large	:	193 - 206
+tpablo_main-large	:	169 - 178
+fandersen_GCJ	:	206 - 224
+ody42_solve	:	29 - 45
+paramaciej_A	:	24 - 37
+paramaciej_A	:	18 - 22
+
+112 - 118 links:
+kevinsogo_a	:	13 - 24
+klolos_jam	:	74 - 76
+klolos_jam	:	62 - 63
+

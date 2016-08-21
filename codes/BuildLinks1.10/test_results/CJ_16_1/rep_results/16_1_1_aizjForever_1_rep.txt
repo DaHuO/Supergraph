@@ -1,0 +1,3 @@
+writefile contents 		13 15
+def solve s res = 		1 8
+def readfile 		9 11

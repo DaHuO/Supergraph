@@ -1,0 +1,2 @@
+def comparestring x y alphabet = a b c d e f g h i j k l m n o p q r s t u v w x y z return alphabet index x >= alphabet index y 		13 15
+def putinside inside currentnumber for i in str currentnumber inside append int i return inside 		17 20

@@ -1,0 +1,1 @@
+def solve s m = len s 		1 9

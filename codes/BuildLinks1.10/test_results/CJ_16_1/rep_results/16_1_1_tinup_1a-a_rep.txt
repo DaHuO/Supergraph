@@ -1,0 +1,2 @@
+def solve s global l strs = set l 		19 31
+def generate s t st global l if 		5 16

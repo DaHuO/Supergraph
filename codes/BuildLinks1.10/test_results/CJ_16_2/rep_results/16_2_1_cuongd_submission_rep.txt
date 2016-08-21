@@ -1,0 +1,6 @@
+_get_counter self word 		80 84
+_filename _get_word_counters 		17 25
+_get_word_counters _get_counter 		75 78
+PROJECT_HOME /Users/cdongsi/Hub/python/CodeJam GetDigits PROJECT_HOME 		87 91
+_solve_digits istring _get_counter istring CHAR_DIGIT_1 CHAR_DIGIT_1 CHAR_DIGIT_1 CHAR_DIGIT_2 CHAR_DIGIT_2 CHAR_DIGIT_2 CHAR_DIGIT_3 CHAR_DIGIT_3 CHAR_DIGIT_3 = self counters self key while 		45 73
+_filename _solve_digits IOError Error opening sys stdout try with 		27 43

@@ -1,0 +1,1 @@
+def solve s last_word = leftmost_char = for c in s if last_word == last_word = c leftmost_char = c else if c >= leftmost_char last_word = c + last_word leftmost_char = c else last_word = last_word + c return last_word 		4 17

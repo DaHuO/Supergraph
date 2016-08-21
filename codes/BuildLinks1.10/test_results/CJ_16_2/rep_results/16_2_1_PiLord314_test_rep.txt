@@ -1,0 +1,3 @@
+64 		1 2
+def digits s letters = 0 * 27 nums = 0 * 10 for letter in s letters x letter += 1 word = ZERO key = Z val = letters x key nums 0 += val for letter in word letters x letter -= val word = SIX key = X val = letters 		4 84
+def main n = int input ans 		86 94

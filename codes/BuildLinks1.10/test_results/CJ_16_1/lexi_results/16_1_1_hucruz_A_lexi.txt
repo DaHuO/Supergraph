@@ -1,0 +1,1 @@
+def solve s whiteboard = s 0 for c in s 1 if c >= whiteboard 0 whiteboard = list c + whiteboard else whiteboard append c return join whiteboard 		7 14

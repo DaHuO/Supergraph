@@ -1,0 +1,8 @@
+def valid state 		14 17
+convert_to_letters new_steps new_steps uppercase 		22 27
+read_stdin_lines import 		5 7
+def total steps size 		29 34
+print_outputs outputs for n output in 		60 64
+next_step next_step next_step convert_to_letters = 0 * len target diff = sorted list enumerate subtract target current key = lambda e - e 1 steps 		36 57
+def subtract 		19 20
+parse_lines lines lines = line 		9 12

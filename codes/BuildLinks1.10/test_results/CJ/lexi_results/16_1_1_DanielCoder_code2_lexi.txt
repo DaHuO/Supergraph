@@ -1,0 +1,7 @@
+def getdigits num return list map int str num 		4 5
+def getcases filename with open filename as h data = h read return parseinput data 		40 43
+def getoutput solved lines = for i solvedcase in enumerate solved lines append case #%d: %s % i + 1 solvedcase return \n join lines 		46 50
+def parseinput text cases = for i line in enumerate text splitlines if i == 0 continue line = line strip letters = list line cases append letters return cases 		29 37
+def csolvecase letters if tuple letters in solved return solved letters 		9 11
+def solvecase letters word = letters 0 for letter in letters 1 if letter >= word 0 word = letter + word else word = word + letter return word 		13 21
+def generateoutput filename outfile = none cases = getcases filename solvedcases = solvecase case for case in cases output = getoutput solvedcases if outfile == none outfile = filename - 2 + out with open outfile w as h h write output 		52 59

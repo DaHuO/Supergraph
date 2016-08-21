@@ -1,0 +1,2 @@
+def main f = open d-small-attempt1.in lines = f readlines case = lines 0 rstrip for index in range 1 int case + 1 line = lines index rstrip list_item = line split k = int list_item 0 c = int list_item 1 s = int list_item 2 answer = for i in range 1 int k + 1 answer += str i +  write_answer index answer index += 1 f close 		6 28
+def write_answer index answer print case #%s: %s % index answer 		2 3

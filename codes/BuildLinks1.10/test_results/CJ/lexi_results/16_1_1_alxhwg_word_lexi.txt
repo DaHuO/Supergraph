@@ -1,0 +1,2 @@
+def word s result = s 0 for letter in s 1 first = result 0 if letter >= first result = letter + result else result = result + letter return result 		18 26
+def main inf = open sys argv 1 r name = string split sys argv 1 . 1 0 ouf = open {0}.out format name w t = int inf readline for i in range t s = inf readline k = word s ouf write case #{0}: {1} format i + 1 k inf close ouf close 		4 16

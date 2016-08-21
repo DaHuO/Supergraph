@@ -1,0 +1,2 @@
+def get_hist s hist = for i in ABCDEFGHIJKLMNOPQRSTUVWXYZ hist i = 0 for c in s o = hist get c 0 hist c = o + 1 return hist 		9 16
+def sub_hist a b times for i in ABCDEFGHIJKLMNOPQRSTUVWXYZ a i -= b i * times 		18 20

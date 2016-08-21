@@ -1,0 +1,4 @@
+bestChoice choicesA choicesB choicesA choicesB bestChoice memo if i == N return 0 if i stay sgn in memo return memo i stay sgn else cA = A i cB = B i = int cA if 		7 44
+caseAB caseBA caseAB caseBA solAB solAB caseBA caseAB solBA solBA solAB solBA solAB solBA 		68 84
+bestChoice rebuild stay sgn sA = sB = 		56 66
+bestChoice solveCase a b stay sgn global 		46 54

@@ -1,0 +1,3 @@
+avals avals avals bvals bvals bvals aval avals bval bvals localdiff aval bval aval bval localdiff power i - 		34 61
+def solve global power best besta bestb n 		63 78
+def 		8 10

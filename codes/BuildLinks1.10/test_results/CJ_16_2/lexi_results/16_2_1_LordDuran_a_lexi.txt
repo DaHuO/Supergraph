@@ -1,0 +1,1 @@
+def do_case ncase letters = list rl counts = matrix letters count c for c in LETTERS transpose sol = linalg lstsq Mat counts sol = int round x for x in sol 0 parts = for i in xrange 10 parts append str i * sol i print >> outputfile out_s % ncase str join parts 		39 48

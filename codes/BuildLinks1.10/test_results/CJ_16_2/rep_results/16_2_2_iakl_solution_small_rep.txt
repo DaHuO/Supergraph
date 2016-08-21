@@ -1,0 +1,6 @@
+ToDec y l = len y r 		34 41
+Match x y for i 		26 32
+ToStr dx R r = 		48 53
+CalcDiff x1d ToDec 		43 46
+OutputTestCase tcn tcn write 		23 24
+SolveTestCase Match Match CalcDiff ToStr ToStr J = tc 1 R = len C inp = 0123456789 cA = itertools product inp repeat = R 		55 82

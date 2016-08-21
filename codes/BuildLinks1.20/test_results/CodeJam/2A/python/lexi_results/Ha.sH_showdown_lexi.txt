@@ -1,0 +1,3 @@
+def possible n a b c = 1 0 0 for x in range n a b c = a + c b + a c + b return a b c 		13 17
+def rec s n if not n return s return join sorted rec c n - 1 for c in mapping s 		8 11
+solver def showdown lines n r p s = map int lines 0 split d = r s p r s p r s p r s p key = possible n if key not in d return impossible return rec d key n 		19 28

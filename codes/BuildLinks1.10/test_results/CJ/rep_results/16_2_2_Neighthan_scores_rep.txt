@@ -1,0 +1,4 @@
+potential_scores choose_best scores = best_diff = smallest_coders_score = smallest_jammers_score = float inf best_coders_score_string = best_jammers_score_string = for score in scores coders_score = 		63 91
+base_case coders_score jammers_score for i in range len coders_score 		51 60
+base_case approx approx approx approx scores 0 jammers_score = scores 1 for i in range len coders_score if coders_score i == jammers_score i and coders_score i != ? continue elif coders_score 		22 48
+_b.in _b.out size infile = size + output = with open 		4 19

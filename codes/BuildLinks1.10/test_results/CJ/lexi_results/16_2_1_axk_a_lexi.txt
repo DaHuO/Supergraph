@@ -1,0 +1,3 @@
+def is_empty cc for c in cc if cc c > 0 return false return true 		15 19
+def rec ds i cc r if i == len ds return is_empty cc exists = true for c in ds i if cc c == 0 exists = false break if exists for c in ds i cc c -= 1 r append str i if rec ds i cc r return true for c in ds i cc c += 1 r pop return rec ds i + 1 cc r 		21 42
+def calc s ds = zero one two three four five six seven eight nine cc = collections counter for c in s cc c += 1 r = res = rec ds 0 cc r assert res return join r 		5 13

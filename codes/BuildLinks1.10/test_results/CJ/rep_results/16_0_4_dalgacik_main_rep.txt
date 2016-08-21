@@ -1,0 +1,1 @@
+implemented solve_case k c s if 		8 14

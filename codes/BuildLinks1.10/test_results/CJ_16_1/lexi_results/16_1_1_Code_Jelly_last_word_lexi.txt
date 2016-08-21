@@ -1,0 +1,2 @@
+def mainlogic numcases infile output = for case in range numcases result = getlastword infile readline strip output = output + case #{}: {}\n format case + 1 result return output 		14 19
+def getlastword instr if len instr == 1 return instr outstr = instr 0 for char in instr 1 if char >= outstr 0 outstr = char + outstr else outstr = outstr + char return outstr 		3 12

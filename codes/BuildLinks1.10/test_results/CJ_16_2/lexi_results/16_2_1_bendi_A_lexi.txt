@@ -1,0 +1,1 @@
+def toNum letter return ord letter - ord A 		3 4

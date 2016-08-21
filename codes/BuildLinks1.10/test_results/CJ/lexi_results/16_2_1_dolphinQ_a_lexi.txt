@@ -1,0 +1,6 @@
+def ras return list sys stdin readline strip 		6 7
+def ri return int sys stdin readline strip 		4 5
+def solve s = rs hashmap = for x in s hashmap x = hashmap get x 0 + 1 words = zero z 0 six x 6 two w 2 seven s 7 eight g 8 three h 3 four r 4 one o 1 five f 5 nine e 9 result = for word let r in words count = hashmap get let 0 if count == 0 continue result = result + r * count for l in word hashmap l -= count return join map str sorted result 		13 37
+def rai return map int sys stdin readline strip split 		8 9
+def rs return sys stdin readline strip 		2 3
+def raf return map float sys stdin readline strip split 		10 11

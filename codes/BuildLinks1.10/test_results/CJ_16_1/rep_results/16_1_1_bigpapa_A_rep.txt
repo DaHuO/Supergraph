@@ -1,0 +1,2 @@
+def main num_inputs 		16 19
+input_id input_id letters = input output = letters 		3 14

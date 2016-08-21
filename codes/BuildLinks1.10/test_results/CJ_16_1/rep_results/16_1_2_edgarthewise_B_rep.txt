@@ -1,0 +1,3 @@
+def 		4 5
+def getints 		10 11
+getline 		7 8

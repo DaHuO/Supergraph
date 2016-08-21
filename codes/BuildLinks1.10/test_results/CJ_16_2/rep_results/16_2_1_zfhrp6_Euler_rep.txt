@@ -1,0 +1,10 @@
+prime_make n from math import sqrt l = True for i in range n + 1 for 		34 48
+seconds. time_measuring_func * args ** kwargs 		4 9
+is_kaibun n if 		104 108
+seconds. time func def time_measuring_func * args 		3 10
+pandigital_check n y = 1 if type n == type text n 		70 85
+sum_divisors n sum = 		96 101
+factoring prime_make from math import sqrt primes = int n / 2 		51 67
+sum_numbers_expo n j = 1 n 		88 93
+primecheck n from math import sqrt if n <= 1 or type n != 		13 31
+how_many_divisors n y = len str n xd = i = 2 while n % i == 0 if xd has_key i xd i += 1 else xd i = 1 n = n 		111 145

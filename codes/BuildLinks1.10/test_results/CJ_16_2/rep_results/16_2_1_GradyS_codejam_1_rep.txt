@@ -1,0 +1,5 @@
+def count val digits = False * 		16 25
+def remove case string case 		27 32
+def digits case result = while z in case lower case = remove case zero result append 0 while w in case lower case = remove case two result append 		34 67
+readfile filename textfile = 		1 9
+writefile filename 		11 14

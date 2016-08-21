@@ -1,0 +1,1 @@
+b.out num_list num_list iterkeys open b-large.in r fout = open w t = int f readline t = 		4 32

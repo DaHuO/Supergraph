@@ -1,0 +1,2 @@
+def dfs p a b ca cb if p == len a return ca cb if a p != ? if b p != ? if a p == b p return dfs p + 1 a b ca * 10 + int a p cb * 10 + int b p else return finish p + 1 a b ca * 10 + int a p cb * 10 + int b p else oa1 ob1 = dfs 		31 70
+def finish p a b ca cb if p == len a return ca cb if ca == cb print ERROR if 		3 29

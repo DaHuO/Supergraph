@@ -1,0 +1,2 @@
+remove_character_from_string solve s digits = z 0 zero w 2 two u 4 four 		10 27
+remove_character_from_string s x s = 		1 7

@@ -1,0 +1,1 @@
+def produce_last_word s result = for i c in enumerate s if c != \n if i == 0 result += c else if c >= result 0 result = c + result else result = result + c return result 		5 16

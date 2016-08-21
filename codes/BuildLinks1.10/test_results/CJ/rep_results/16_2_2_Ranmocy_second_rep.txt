@@ -1,0 +1,2 @@
+def search i n b1 b2 global result global minimal_diff while i < n and b1 i != ? and b2 i != ? i += 1 if i >= n a = join b1 b = join b2 t = abs int a - int 		8 56
+boards boards boards boards b1_is_greater 2 b1 = 0 b2 = 1 print b1 b2 assert len b1 == 		58 84

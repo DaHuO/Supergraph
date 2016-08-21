@@ -1,0 +1,5 @@
+def nc2 n return int n * n - 1 / 2 		41 42
+def process self fin fout ans = s = fin readline strip for x in s if ans == ans = x else if x >= ans 0 ans = x + ans else ans = ans + x print str ans fout write str ans 		4 18
+def solve self fin = open ../in.in r fout = open ../out w times = int fin readline for i in range times fout write case #%d: % i + 1 self process fin fout fout write \n fin close fout close 		20 31
+def make_test self fout = open ../test w fout write 1\n2000\n for i in range 2000 fout write %d %d\n % - 1000 + i 1000 - i fout close 		33 38
+def line a b return pow a 0 - b 0 2 + pow a 1 - b 1 2 		45 46

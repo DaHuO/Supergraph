@@ -1,0 +1,1 @@
+easy harder s result = counter data = counter s for i letters in enumerate if not letters continue letter = letters 0 nb 		19 53

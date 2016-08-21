@@ -1,0 +1,5 @@
+ceildiv x 		21 22
+def 		32 32
+tst a = ZERO ONE TWO THREE FOUR FIVE SIX 		74 83
+baseN baseN lstrip 0123456789abcdefghijklmnopqrstuvwxyz 		24 26
+dbg ich ich chklen chklets chklen NUMLET chklets LETSA chklen <> mismatch!! %d<>%d S=%s chklen S_Sorted CHK_Sorted chklets S_Sorted CHK_Sorted mismatch! A letct += 1 numdig = 0 * 10 numdig 8 = letct flet G numdig 3 = 		38 72

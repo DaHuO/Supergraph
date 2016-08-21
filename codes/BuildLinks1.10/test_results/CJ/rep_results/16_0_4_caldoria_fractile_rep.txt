@@ -1,0 +1,1 @@
+abs_coordinate k coords sum = 		5 11

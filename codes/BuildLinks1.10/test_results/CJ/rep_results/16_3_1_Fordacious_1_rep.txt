@@ -1,0 +1,6 @@
+ismaj_remove1 parties i total if total <= 		25 34
+		36 37
+ismaj_remove2 parties i j total if total <= 0 		11 23
+		62 63
+translatemoves moves string = if moves 		1 9
+ismaj_remove1 ismaj_remove2 parties total = 0 for i in parties total += i if total == 0 return for i in range 		39 60

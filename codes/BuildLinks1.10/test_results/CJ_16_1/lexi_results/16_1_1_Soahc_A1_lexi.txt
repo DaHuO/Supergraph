@@ -1,0 +1,1 @@
+def solve s i j = 0 len s l r = while i < j m = max s mi = s rfind m l += m r = join s mi + 1 j + r j = mi s = s i j return l + r 		2 12

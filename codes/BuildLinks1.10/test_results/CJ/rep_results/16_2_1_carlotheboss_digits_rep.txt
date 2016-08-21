@@ -1,0 +1,2 @@
+trova m_c m_c m_c 0 * 30 		3 8
+togli m c 		10 11

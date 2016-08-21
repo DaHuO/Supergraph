@@ -1,2 +1,2 @@
-dn itervalues dn dn dn S d = P PR R RS S PS for i in range 		4 26
+itervalues solve N R P S d = P PR R RS S PS for i in range 		4 26
 def main T = int sys stdin readline for 		28 33

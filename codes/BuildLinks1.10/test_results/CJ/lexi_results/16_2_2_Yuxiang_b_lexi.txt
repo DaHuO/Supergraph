@@ -1,0 +1,1 @@
+def same i s l _s = str i zfill l for j in range l if s j is not ? and s j != _s j return false return true 		3 8

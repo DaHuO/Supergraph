@@ -1,0 +1,1 @@
+def rankfile soldiers soldiers = map int 		3 11

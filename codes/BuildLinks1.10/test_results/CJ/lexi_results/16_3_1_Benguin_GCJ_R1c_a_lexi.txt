@@ -1,0 +1,1 @@
+def sol a if len a == 2 return int sum a / 2 - 1 * ab + ab sol = max2 = max a while max2 > 1 for i a in enumerate a if a == max2 sol += chr ord a + i +  a i -= 1 max2 = max a for i a in enumerate a if sum a <= 2 break if a == 1 sol += chr ord a + i +  a i -= 1 for i a in enumerate a if a == 1 sol += chr ord a + i a i -= 1 return sol 		1 30

@@ -1,0 +1,1 @@
+def solve s xx = s 		2 14

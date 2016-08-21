@@ -1,0 +1,24 @@
+Direct links:
+8 - 10 links:
+xwu_A	:	35 - 37
+gepa_A	:	42 - 44
+Sempr_A	:	32 - 36
+Giove_A	:	12 - 16
+waitingkuo0527_main	:	43 - 48
+lslah_solve	:	28 - 33
+aklecram_solveA	:	8 - 28
+wilsonhsu_A	:	51 - 65
+bigOnion_rps	:	220 - 225
+lidaobing_1	:	107 - 114
+EricDLee_A	:	36 - 50
+
+
+With same rare tokens:
+55 - 83 links:
+eMBe_A	:	147 - 152
+QuantumCaffeine_showdown	:	5 - 9
+Yaksha_A	:	18 - 31
+mdippel_A	:	57 - 66
+mxx_A	:	7 - 36
+fandersen_GCJ	:	109 - 142
+

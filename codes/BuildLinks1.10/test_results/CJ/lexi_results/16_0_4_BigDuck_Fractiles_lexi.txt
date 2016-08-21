@@ -1,0 +1,1 @@
+def position x layer if layer == 0 return x + 1 else return position x layer - 1 + k ** layer * x 		7 11

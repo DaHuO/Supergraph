@@ -1,0 +1,1 @@
+def solve word letters = list word fl = letters 0 str = 		21 36

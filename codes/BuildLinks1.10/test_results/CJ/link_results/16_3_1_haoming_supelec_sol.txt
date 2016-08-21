@@ -1,0 +1,16 @@
+Direct links:
+11 - 15 links:
+16_3_1_dasilvacontin_solution	:	33 - 36
+
+17 - 22 links:
+16_3_1_asikowitz_base	:	10 - 15
+
+4 - 8 links:
+16_3_1_Gr8Ad_problem a	:	13 - 17
+
+
+With same rare tokens:
+4 - 8 links:
+16_2_1_dwenzel_A	:	13 - 30
+16_2_1_dwenzel_A	:	32 - 36
+

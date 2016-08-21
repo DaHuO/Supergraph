@@ -1,0 +1,1 @@
+nchoices nchoices s_word1 s_word2 s_word1 s_word2 s_word1 s_word2 nchoices i in topics word2 = Counter i 1 for i 		9 39

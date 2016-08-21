@@ -1,0 +1,3 @@
+def readline return fp readline strip 		5 6
+def classify bffs i j = i seen = set while true if j in seen if bffs bffs j == j return tail len seen - 2 j bffs j elif j == i return cycle len seen else return none seen add j j = bffs j 		23 35
+def solve bffs longest_cycle = 0 tails = for i in xrange len bffs l = classify bffs i if l is none continue if l 0 == cycle longest_cycle = max longest_cycle l 1 elif l 0 == tail tail_len = l 1 p1 p2 = l 2 tails p1 p2 = max tails get p1 p2 0 tail_len tails_total = 0 for p1 p2 tail_len in tails iteritems assert p1 != p2 if p1 < p2 or p2 p1 not in tails tails_total += 2 tails_total += tail_len return max longest_cycle tails_total 		37 57

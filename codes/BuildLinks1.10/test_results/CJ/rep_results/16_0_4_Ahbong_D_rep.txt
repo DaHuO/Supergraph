@@ -1,0 +1,1 @@
+def solve k c s if c * s < k return 		6 21

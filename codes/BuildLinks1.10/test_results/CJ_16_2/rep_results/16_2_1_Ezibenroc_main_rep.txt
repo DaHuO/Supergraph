@@ -1,0 +1,3 @@
+find_clue clue clues 		21 25
+def find_digits string digits 		33 38
+find_clue digit_to_string string 		27 31

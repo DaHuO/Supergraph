@@ -1,0 +1,3 @@
+def 		1 2
+def 		4 5
+Ji Ji C J if C == return x = C 0 y = J 0 if x != ? and y != ? if x == y Ci = similar C 1 J 1 return x + Ci y + elif int x > int y return small C big J elif int x < int y return big C small J if x == ? and 		7 66

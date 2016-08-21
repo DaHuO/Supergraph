@@ -1,0 +1,1 @@
+def solve s ans = ans append 		1 10

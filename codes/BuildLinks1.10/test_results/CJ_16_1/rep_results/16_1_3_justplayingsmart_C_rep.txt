@@ -1,0 +1,6 @@
+def 		12 13
+def read_floats 		21 22
+def 		18 19
+def main num_cases = read_int for case 		65 74
+def read_ints 		15 16
+def solve n f answer = false nums = n friends = for person in range len f friends person + 1 = f person print friends 		24 63

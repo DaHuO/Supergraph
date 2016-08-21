@@ -1,0 +1,2 @@
+def read_ints 		14 15
+def sol1 s res = 		18 25

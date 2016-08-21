@@ -1,0 +1,1 @@
+def f s out = for c in s if not out out = c continue if c >= out 0 out = c + out else out = out + c return out 		2 22

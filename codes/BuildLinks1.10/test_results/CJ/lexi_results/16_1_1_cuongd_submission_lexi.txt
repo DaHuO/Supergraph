@@ -1,0 +1,4 @@
+def main project_home = /users/cdongsi/hub/python/codejam solver = lastword project_home + /data/a-large.in with open out.txt w as f solver solve output = f 		49 53
+def __init__ self filename self _filename = filename pass 		11 18
+def solve self output = sys stdout try with open self _filename r as f lines = f readlines num = int lines 0 for i in xrange num last_word = self _solve_last_word lines i + 1 strip output write case #%d: %s\n % i + 1 last_word except ioerror print error opening file pass 		20 36
+def _solve_last_word self word q = deque word 0 for c in word 1 if c >= q 0 q appendleft c else q append c return join q 		38 46

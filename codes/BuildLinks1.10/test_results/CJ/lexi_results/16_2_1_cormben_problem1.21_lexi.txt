@@ -1,0 +1,8 @@
+q def _parse_line line return int x for x in line split 		30 32
+def _strip_data data return x strip for x in data readlines 1 		5 6
+def _parse_data in_lines if not in_lines return header = _parse_header in_lines 0 end = header end_line single_test = _parse_line line for line in in_lines 1 end + 1 remaining_parsed_data = _parse_data in_lines end + 1 return header header data single_test + remaining_parsed_data 		35 42
+def func x words = zero 0 one 1 two 2 three 3 four 4 five 5 six 6 seven 7 eight 8 nine 9 garbled = x header data 0 for x in range len words y = try_letters words x list garbled if y return y 		45 51
+def _write_output completed_data out_file out_lines = case #{}: {}\n format i + 1 line for i line in enumerate completed_data out_file writelines out_lines 		9 11
+def try_letters words garbled garbled = garbled if not garbled return true for letter in words 0 0 if letter not in garbled return false else garbled remove letter for x in range len words win_case = try_letters words x garbled if win_case if win_case == true return words 0 1 else return words 0 1 + win_case return false 		54 72
+q def _parse_header header_line header_data = header_line split header = end_line 0 data header_data return header 		23 27
+def coding_challenge_specific_io challenge_function with open input as in_file parsed_data = _parse_data _strip_data in_file completed_data = challenge_function data for data in parsed_data q completed_data with open output w as out_file _write_output completed_data out_file 		14 20

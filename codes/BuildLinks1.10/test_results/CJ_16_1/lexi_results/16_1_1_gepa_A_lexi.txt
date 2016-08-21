@@ -1,0 +1,2 @@
+def parse s = sys stdin readline strip return s 		14 16
+def compute s if s == return x = max s p = s find x y = compute s p z = filter lambda c c != x s p return x * len s - p - len z + y + z 		4 11

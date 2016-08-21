@@ -1,0 +1,1 @@
+def buildresult s ans = maxcharindex = 0 for index in range len s if s index >= s maxcharindex maxcharindex = index ans = s index + ans else ans += s index return ans 		12 21

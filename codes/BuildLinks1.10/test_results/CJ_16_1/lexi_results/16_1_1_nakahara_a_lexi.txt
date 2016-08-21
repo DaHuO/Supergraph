@@ -1,0 +1,1 @@
+def solve a = input fin = fr = for j in list a if fr > j fin += j else fin = j + fin fr = j return fin 		2 13

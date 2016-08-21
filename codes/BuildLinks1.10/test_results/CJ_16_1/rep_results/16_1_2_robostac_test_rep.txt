@@ -1,0 +1,4 @@
+def 		4 5
+nameerror nameerror nameerror n v pos if v >= len x t = list 		7 24
+output_res caseno output 		83 86
+nameerror nameerror n v x = res = n for i in range 0 v t = for j in range 0 v t append x x append t pos = 0 c = 0 v = 		28 80

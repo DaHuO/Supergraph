@@ -1,0 +1,6 @@
+def check c num 		37 41
+readi Error %d: %c for t in range 1 nt + 1 s = reads chars = dict for c in s chars c = 		24 61
+readia return 		12 13
+readi 		9 10
+def 		18 19
+readfa return 		15 16

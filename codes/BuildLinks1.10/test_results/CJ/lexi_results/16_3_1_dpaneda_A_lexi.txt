@@ -1,0 +1,4 @@
+def print_leave a b = none s = chr a + ord a if b is not none s += chr b + ord a s +=  return s 		6 11
+def check_ok p parties for n in p itervalues if n > parties / 2 return false return true 		13 17
+def solve s = raw_input parties = 0 p = i = 0 for n in map int raw_input split p i = n parties += n i += 1 while parties > 0 a = find_max p p a -= 1 parties -= 1 if check_ok p parties s += print_leave a else b = find_max p p b -= 1 parties -= 1 s += print_leave a b return s 		23 47
+def find_max p sorted_p = sorted p items key = operator itemgetter 1 reverse = true return sorted_p 0 0 		19 21

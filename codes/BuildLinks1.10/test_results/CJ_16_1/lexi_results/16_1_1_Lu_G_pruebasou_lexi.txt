@@ -1,0 +1,1 @@
+def funcion palabra palabrafinal = palabrafinal += palabra 0 for a in range 1 len palabra if palabra a < palabrafinal 0 palabrafinal += palabra a else palabrafinal = palabra a + palabrafinal return palabrafinal 		7 16

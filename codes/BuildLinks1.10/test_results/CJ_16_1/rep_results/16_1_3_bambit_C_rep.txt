@@ -1,0 +1,2 @@
+testbff chain_start chain_start bffs left = set l full = set l neighbors = set for i in range n 		5 47
+testbff solve t n = int sys stdin readline rstrip bffs = map 		50 62

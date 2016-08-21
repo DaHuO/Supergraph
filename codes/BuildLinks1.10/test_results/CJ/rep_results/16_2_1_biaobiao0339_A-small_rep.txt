@@ -1,0 +1,3 @@
+def main lines = l strip for l in fileinput input 		70 83
+remove_str str1 str2 for 		7 11
+numstr numstr numstr numstr remove_str numstr one two three four five six seven eight nine num_dict = 		13 67

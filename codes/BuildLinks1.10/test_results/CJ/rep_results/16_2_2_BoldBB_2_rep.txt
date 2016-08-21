@@ -1,0 +1,2 @@
+getvalue tupnum tupnum 0 		3 9
+getcombos numberstring postfix numberstring indexlist numberstring indexlist postfix ? else c for c in 		11 19

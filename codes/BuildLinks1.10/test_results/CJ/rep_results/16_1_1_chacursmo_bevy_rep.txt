@@ -1,0 +1,2 @@
+mojo aprev aprev aprev = list line a = list w 		17 29
+mojo main import sys 		6 14

@@ -1,0 +1,11 @@
+Direct links:
+5 - 9 links:
+16_1_1_DAMF_the_last_word	:	5 - 9
+16_0_4_DAMF_fractiles_large	:	5 - 9
+
+
+With same rare tokens:
+12 - 18 links:
+16_1_1_DAMF_the_last_word	:	12 - 18
+16_0_4_DAMF_fractiles_large	:	12 - 18
+

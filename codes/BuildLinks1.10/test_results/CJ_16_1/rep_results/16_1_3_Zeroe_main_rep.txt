@@ -1,0 +1,18 @@
+def 		31 32
+extract_reci bffmap visited = set ids = bffmap 		113 130
+def 		22 23
+def write 		14 16
+count_one_way fs bffmap reci nonebff = set xrange len fs 		132 147
+def set 		28 29
+def 		11 12
+biggest_ring bffmap visited = set ids = bffmap 		95 111
+has 		25 26
+diff l return 		53 54
+clean_map biggest_ring extract_reci count_one_way = read_int fin fs = read_ints fin 		149 164
+clean_map bffpred nbff nbff bffpred bffpred nonebff = set xrange 		79 93
+def 		18 19
+functioncallcache f cache = dict def 		34 44
+def read_ints 		50 51
+binary_search vp vp v fce assert pmax >= pmin assert fce pmin <= 		56 75
+def 		47 48
+def fce * args t 		36 43

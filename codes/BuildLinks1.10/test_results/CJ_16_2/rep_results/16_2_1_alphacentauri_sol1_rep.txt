@@ -1,0 +1,1 @@
+getValue finalnum finalnum finalnum Counter string numcount = 0 * 10 if Z in mapper count = mapper Z numcount 0 = count mapper Z = mapper Z - count mapper E = mapper E - count mapper O = mapper O - count if X in mapper count = mapper X numcount 6 = count mapper X = mapper X - 0 mapper S = mapper S - count mapper I = mapper I - count if U in mapper 		2 74

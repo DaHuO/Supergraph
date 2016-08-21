@@ -1,0 +1,1 @@
+parties_name abcefghijklmnopqrstuvwxyz ind_max parties_name ind_max ind_max parties_name parties_name t = int fr readline strip fw = open file_in - 3 + .out w for i in 		2 29

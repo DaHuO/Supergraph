@@ -1,0 +1,2 @@
+do_algorithm read_input in_file out_file = in_file split . 0 + .out 		4 13
+do_algorithm s last_word = s 0 for 		16 25

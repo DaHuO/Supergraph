@@ -1,0 +1,1 @@
+def solve S count = collections defaultdict int for ch in S count ch += 1 num_digits = 0 * 10 num_digits 6 = count X count I -= count X count S -= count X count X = 0 num_digits 7 = count S count E -= 2 * count S count V -= 		13 81

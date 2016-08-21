@@ -1,0 +1,2 @@
+def solve k c a = 		4 9
+def main t = int raw_input test_cases = 		12 16

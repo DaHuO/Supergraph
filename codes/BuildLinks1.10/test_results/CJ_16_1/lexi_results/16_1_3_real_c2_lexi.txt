@@ -1,0 +1,1 @@
+def trace_path fr memo if fr in memo return memo fr ans = 1 for x in b fr ans = max ans 1 + trace_path x memo memo fr = ans return ans 		9 18

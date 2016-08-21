@@ -1,0 +1,12 @@
+def read_word f return next f strip 		1 2
+def read_ints f b = 10 d =  return int x b for x in read_words f d 		16 17
+def read_case f num = read_int f r = read_ints f return num r 		28 31
+def read_digits f b = 10 return int x b for x in read_letters f 		10 11
+def solver case sen = case 1 result = while 1 m = max sen if m == 0 return result - 1 biglist = i for i j in enumerate sen if j == m if m == 1 and len biglist == 3 pos = biglist 0 sen pos -= 1 result = result + alph pos +  elif len biglist == 1 pos = biglist 0 sen pos -= 1 result = result + alph pos +  elif len biglist > 1 p1 p2 = biglist 0 biglist 1 sen p1 -= 1 sen p2 -= 1 result = result + alph p1 + alph p2 +  		60 80
+def read_int f b = 10 return int read_word f b 		4 5
+def read_floats f d =  return float x for x in read_words f d 		19 20
+def write_case f i res f write case #%d: % i f write %s % res f write \n 		33 36
+def read_words f d =  return read_word f split d 		13 14
+def read_arr f r reader = read_ints * args ** kwargs return reader f * args ** kwargs for i in range r 		22 23
+def read_letters f return list read_word f 		7 8
+def begin fn = a out_fn = none in_fn = fn + .in if out_fn is none out_fn = fn + .out with open in_fn r as fi with open out_fn w as fo t = read_int fi for i in range 1 t + 1 case = read_case fi res = solver case write_case fo i res 		44 54

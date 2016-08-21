@@ -1,0 +1,1 @@
+def prob2 n rows final = set for r in rows if rows count r % 2 == 1 final add r final = list final final sort return  join map str final 		1 8

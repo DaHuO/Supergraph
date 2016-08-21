@@ -1,0 +1,27 @@
+Direct links:
+3 - 16 links:
+16_2_1_A13xand3r_solution	:	3 - 14
+
+
+With same rare tokens:
+3 - 16 links:
+16_2_1_A13xand3r_solution	:	3 - 14
+16_1_1_A13xand3r_solution	:	3 - 11
+16_1_2_A13xand3r_solution	:	3 - 19
+
+71 - 123 links:
+16_1_1_Adamtheepic_lw	:	1 - 29
+16_3_1_arpitkath07_code	:	29 - 40
+16_1_1_Adamtheepic_lw	:	1 - 29
+16_3_1_arpitkath07_code	:	29 - 40
+16_1_1_Adamtheepic_lw	:	1 - 29
+16_3_1_arpitkath07_code	:	29 - 40
+
+58 - 69 links:
+16_1_1_aguy_codejam1	:	4 - 23
+16_1_1_aguy_codejam1	:	4 - 23
+16_1_1_aguy_codejam1	:	4 - 23
+16_1_1_aguy_codejam1	:	4 - 23
+16_1_1_aguy_codejam1	:	4 - 23
+16_1_1_aguy_codejam1	:	4 - 23
+

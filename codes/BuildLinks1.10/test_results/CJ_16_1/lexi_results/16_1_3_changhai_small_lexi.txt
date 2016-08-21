@@ -1,0 +1,4 @@
+def findloop n bff rt = 0 for i in range n cp = cp extend bff if cp i < 0 continue looplen = 0 cur = i while cp cur >= 0 looplen += 1 oldcur = cur cur = cp oldcur cp oldcur = - 1 if cur == i rt = max rt looplen break return rt 		29 46
+def maxchain n rev a b visited = 0 * n rt = 0 dist = 0 visited b = 1 que = a while que newq = found = 0 for x in que if visited x continue else found = 1 for y in rev x if not visited y newq append y if found dist += 1 que = newq pr dist a b rev dist return dist 		7 27
+def pr * a return for x in a print x print 		2 5
+def solve n bff rev = for i in range n for i in range n a = i b = bff i rev b append a noloop = 0 for i in range n j = bff i if bff j == i and i < j noloop += maxchain n rev i j noloop += maxchain n rev j i loop = findloop n bff return max noloop loop 		51 64

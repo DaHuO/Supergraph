@@ -1,0 +1,2 @@
+def test self self assertequal cab solve_it cab self assertequal mja solve_it jam self assertequal ocde solve_it code self assertequal bbaaa solve_it abaab self assertequal cccabbbab solve_it cabcbbabc self assertequal cccbaabab solve_it abcabcabc self assertequal zxcasdqwe solve_it zxcasdqwe 		9 16
+def solve_it s current = s 0 for char in s 1 if char < current 0 current = current + char else current = char + current return current 		19 26

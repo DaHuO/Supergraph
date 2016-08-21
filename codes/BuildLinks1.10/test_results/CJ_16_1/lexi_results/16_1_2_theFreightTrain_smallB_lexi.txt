@@ -1,0 +1,1 @@
+def solution armylists missingnumbers = for i in range max armylists + 1 if sum int x == i for x in armylists % 2 != 0 missingnumbers += i sortedlist = np sort missingnumbers output = for t in sortedlist output +=  + str t return output 		3 11

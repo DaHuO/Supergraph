@@ -1,3 +1,4 @@
+Direct links:
 2 - 14 links:
 pysort	:	61 - 77
 py_cocktail_sort	:	7 - 18

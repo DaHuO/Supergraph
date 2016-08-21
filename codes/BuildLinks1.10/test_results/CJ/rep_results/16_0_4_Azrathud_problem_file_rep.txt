@@ -1,0 +1,7 @@
+format_output #{case_num}: 		10 11
+orig_tile_num viewable_num viewable_num 		6 8
+def parse_input io io readline 		13 25
+def main 		37 39
+format_output run io all_output = for index 		29 35
+isprime_time timeout timeout timeouterror took determine == 3 return true none if n % 2 == 		47 69
+super timeouterror 		43 45

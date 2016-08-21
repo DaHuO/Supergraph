@@ -1,0 +1,1 @@
+def calculate s ans = s 0 largest = s 0 for i in s 1 if alpha index largest <= alpha index i ans = i + ans largest = i else ans = ans + i return ans 		2 11

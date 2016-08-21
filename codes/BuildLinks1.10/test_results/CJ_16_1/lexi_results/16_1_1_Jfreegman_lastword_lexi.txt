@@ -1,0 +1,2 @@
+def lastword t lines = open t read split \n num = int lines 0 for i in xrange 1 num + 1 winner = getwords lines i print case # + str i + : + winner 		11 17
+def getwords line winner = line 0 for i ch in enumerate line 1 winner = winner + ch if ch >= winner - 1 else ch + winner return winner - 1 		4 9

@@ -1,0 +1,2 @@
+given_string given_string given_string start_string given_string process_number phone_number_ascending phone_number_ascending W 2 FOUR U 4 SIX X 		1 24
+process_number counts number unique_letter occurrences = 		26 36

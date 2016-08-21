@@ -1,0 +1,2 @@
+def put_letter word letter if len word == 0 return letter if alpha letter < alpha word 0 word append letter else word insert 0 letter return word 		11 18
+def solve string letters = char for char in string word = for letter in letters word = put_letter word letter return join word 		21 27

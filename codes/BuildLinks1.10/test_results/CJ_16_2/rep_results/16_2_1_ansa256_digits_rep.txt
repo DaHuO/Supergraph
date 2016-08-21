@@ -1,0 +1,3 @@
+first_pass line uniques = if X in line line remove S line remove I line remove X uniques append 		5 41
+second_pass line uniques = if H in line line 		43 60
+third_pass line uniques = if V in line line remove S line 		62 85

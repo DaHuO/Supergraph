@@ -1,0 +1,1 @@
+ranknfile file_in fr = open file_in r t = int fr readline strip fw = open file_in - 		2 22

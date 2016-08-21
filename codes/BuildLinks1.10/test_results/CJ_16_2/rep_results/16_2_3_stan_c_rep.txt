@@ -1,0 +1,2 @@
+non_fake_topic_first non_fake_topic_second fake_topics non_fake_topic_first non_fake_topic_second fake_topics fake_topics non_fake_topic_first non_fake_topic_second set = set 		6 20
+bitcount 		3 4

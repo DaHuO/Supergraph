@@ -1,0 +1,2 @@
+ntest getint ntest for 		130 141
+def phoneNumber s count = dict digits = list for c in s if c not in count count c = 1 else count c += 1 if Z in count for n in range count Z digits append 0 count Z -= 1 count E -= 1 count R -= 1 count O -= 1 if W in count for n in range count 		5 117

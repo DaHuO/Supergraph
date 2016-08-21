@@ -1,0 +1,3 @@
+def solve_case case nlet = sum i for i in case values nums = solve_rec 0 case nums = sorted nums return join map str nums 		18 22
+def parse_case instrm return counter instrm readline strip 		14 15
+def solve_rec start obs if start == 10 return none allowed = true for c v in ddict start items if obs c < v allowed = false break if allowed newobs = obs - ddict start if sum newobs values == 0 return start attempt = solve_rec start newobs if attempt is not none return start + attempt return solve_rec start + 1 obs 		25 41

@@ -1,0 +1,2 @@
+def get_input with open 		11 19
+case_line_format print_case 		21 24

@@ -1,0 +1,1 @@
+def sub key cc str if key in cc and cc key > 0 count = cc key for c in str cc c -= count return count return 0 		7 13

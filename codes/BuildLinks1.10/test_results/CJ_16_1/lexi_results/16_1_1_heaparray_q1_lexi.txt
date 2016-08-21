@@ -1,0 +1,8 @@
+def solveproblemset ps = parsefile infilepath results = for i in range len ps results append solveps ps i writetofile results outfilepath print done! 		52 58
+def solveps ps s = ps s n = for i in range len s if len n == 0 or n 0 > s i n = n + s i else n = s i + n return n 		23 31
+def __init__ self s self s = s 		20 21
+def parsevec line vecvalues = line split seperator return int value for value in vecvalues 		37 39
+def psoutformat iternum res return case #{0}: {1}\n format iternum + 1 res 		41 42
+def parsenum line return int line 		34 35
+def writetofile results outfilestr outfile = open outfilestr w try resultarr = psoutformat i results i for i in range len results outfile writelines resultarr 		44 48
+def parsefile infilename infile = open infilename t = parsenum infile readline problemarr = for k in range t s = infile readline - 1 problemarr append problemset s infile close return problemarr 		8 16

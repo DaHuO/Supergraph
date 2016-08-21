@@ -1,0 +1,2 @@
+def read_problem s = raw_input return s 		5 7
+def solve problem s = problem o = s 0 for c in s 1 if c >= o 0 o = c + o else o = o + c return o 		9 17

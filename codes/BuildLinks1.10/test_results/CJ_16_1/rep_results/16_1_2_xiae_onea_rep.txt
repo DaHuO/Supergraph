@@ -1,0 +1,9 @@
+def missing lists ns = for lst in lists for n 		39 52
+def d fname fin = open fname + .in lines = fin readlines t = 		100 113
+:\n c fname fin = open fname + .in lines = fin readlines t = int lines 0 fout 		55 72
+ht ht fname fin = open fname + .in lines = fin readlines t = int lines 		22 37
+impossible fractile k c s if 		115 120
+def word line acc = for 		11 20
+def jamcoin j n b = bin j 2 s = 1 + 		74 84
+def isprime n if n <= 1 return false 		88 98
+def a fname fin = open fname + .in lines 		1 9

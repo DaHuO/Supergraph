@@ -1,0 +1,5 @@
+def expand data x = rs sr y = ps sp z = pr rp res = data replace r x res = res replace s y res = res replace p z for xx in x tmpx = res replace x xx for yy in y tmpy = tmpx replace y yy for zz in z tmpz = tmpy replace z zz yield tmpz 		33 46
+def back data for res in data for x in expand res yield x 		56 59
+def solve case n r p s = map int sys stdin readline strip split assert r + p + s == 2 ** n res = find_solution r s p if not res res = impossible else res = res - 1 print case #%d: %s % case res 		62 70
+def find_solution r s p if r < 0 return none if s < 0 return none if p < 0 return none if r + s + p == 1 if r return r if s return s if p return p assert false for x in range r + 1 y = s - x z = r - x if y + z != p continue res = find_solution x y z if res return best back res return none 		6 31
+def best data data = list data res = for order in itertools permutations p r s res append max data key = lambda string order index s for s in string return res 		48 54

@@ -1,0 +1,1 @@
+def print_result 		5 6

@@ -1,0 +1,1 @@
+def solve info s = list info w = s 0 s pop 0 for l in s if w 0 > l w = w + l else w = l + w return w 		1 10

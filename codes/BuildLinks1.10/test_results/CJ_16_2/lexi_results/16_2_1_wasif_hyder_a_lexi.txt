@@ -1,0 +1,1 @@
+def solution s s = Counter s result = for i in 0 2 4 6 8 5 7 3 9 1 letter = d i 1 numchars = Counter d i 0 if letter in s and s letter != 0 repetitions = s get d i 1 0 for j in range repetitions s subtract numchars result += str i return join x for x in sorted list result 		17 28

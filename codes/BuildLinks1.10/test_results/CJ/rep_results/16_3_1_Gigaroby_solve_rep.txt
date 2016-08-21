@@ -1,0 +1,6 @@
+def cases f one = true n 		44 53
+def is_majority case tot 		4 9
+command argument argument type = click file r 		55 61
+read_numbers f 		41 42
+pick_party pn parties fp = parties 		11 18
+pick_party pick_party case out = n pn = case parties = list range n parties sort 		21 39

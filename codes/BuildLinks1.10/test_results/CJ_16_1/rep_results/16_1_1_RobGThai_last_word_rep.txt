@@ -1,0 +1,5 @@
+clean_line 		13 14
+#{case_no}: 		6 7
+def solve line result = 		16 24
+def 		3 4
+input_size clean_line file with open 		26 31

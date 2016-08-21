@@ -1,0 +1,7 @@
+retireLettre s a if s 		11 17
+traite 		77 78
+motPresent s mot if 		29 35
+teste motPresent retireMot motPresent retireMot temp = for e in dig if s e 		39 57
+def 		73 74
+retireMot lettre retireLettre lettre 		19 25
+rendRes2 teste dig liste = for e 		59 69

@@ -1,0 +1,1 @@
+def getspertileandcomplexity k c if k == 1 return 1 data = for i in xrange k data append str 1 + i * pow k c - 1 / k - 1 return  join data 		4 12

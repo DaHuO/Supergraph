@@ -1,0 +1,1 @@
+def solve xs n ret = total = sum xs while true min = total + 1 none max = 0 none for i in xrange n if xs i < min 0 min = xs i i if xs i 		1 50

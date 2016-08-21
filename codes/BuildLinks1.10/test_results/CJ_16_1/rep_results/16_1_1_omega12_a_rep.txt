@@ -1,0 +1,1 @@
+def solve info s = list info 		1 10

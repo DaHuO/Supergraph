@@ -1,0 +1,2 @@
+evens phone_no evens evens EVENS phone_no blank evens ODDS phone_no ODDS blank phone_no T letter_counts = collections Counter sys stdin 		55 86
+check_letter 		49 52

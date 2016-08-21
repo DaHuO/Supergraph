@@ -1,0 +1,1 @@
+def getoddsvalordered countnums res = for val countval in countnums iteritems if countval % 2 == 1 res append int val return  join map lambda x str x sorted res 		7 14

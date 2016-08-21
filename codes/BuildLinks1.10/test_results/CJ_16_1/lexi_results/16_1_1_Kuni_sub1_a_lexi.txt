@@ -1,0 +1,1 @@
+def proc s = raw_input ret = s 0 for i in xrange 1 len s if ret 0 <= s i ret = s i + ret else ret = ret + s i return ret 		3 11

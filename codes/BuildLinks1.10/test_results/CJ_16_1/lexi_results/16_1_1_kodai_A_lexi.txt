@@ -1,0 +1,1 @@
+def solve data list_data = list data ans = list_data 0 for i in range len list_data - 1 if list_data i + 1 >= ans 0 ans insert 0 list_data i + 1 else ans append list_data i + 1 return ans 		8 16

@@ -1,0 +1,7 @@
+assign_students is_odd limit = int original_size / 2 		31 41
+is_odd 		28 29
+./input.txt read_input input = total 		5 12
+determine_solutions parameters shlex parameters parameters parameters solve_it in 		59 70
+write_results ./output.txt write_out = open w counter = 		14 26
+solve_it all_columns all_columns chosen_tiles assign_students chosen_tiles == 1 if original_size 		43 56
+test_data test_data test_data 		72 79

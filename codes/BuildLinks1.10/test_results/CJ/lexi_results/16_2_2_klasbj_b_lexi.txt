@@ -1,0 +1,2 @@
+def solve a b bestd = int 1e20 best = fmt = {{:0{l}}} {{:0{l}}} format l = len a for asc in gen a for bsc in gen b if abs asc - bsc < bestd bestd = abs asc - bsc best = fmt format asc bsc return best 		16 25
+def gen x agg = 0 if x if x 0 == ? for i in range 10 for p in gen x 1 10 * agg + i yield p else for p in gen x 1 10 * agg + int x 0 yield p else yield agg 		4 14

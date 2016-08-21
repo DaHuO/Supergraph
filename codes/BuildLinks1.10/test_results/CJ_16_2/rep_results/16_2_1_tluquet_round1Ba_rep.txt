@@ -1,0 +1,1 @@
+outList nbLines There are nbLines cases: nbLines DIGIT_LIST DIGIT_EQ Error, recovered correctly outList OUTPUT_FILE outList 0 f = open sys argv 1 r inList = = = int f readline print + str + for l in xrange line = f readline if line - 1 == 		15 84

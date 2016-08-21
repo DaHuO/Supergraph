@@ -1,0 +1,3 @@
+def to_str 		5 9
+to_nbr 100000000000000000000 to_nbr to_nbr def to_str t r = for x in t r += str x return r def t r = 0 for x in t r 		4 42
+to_nbr t r 		11 15

@@ -1,0 +1,2 @@
+def parse lines n 		3 8
+[ ] word occs = for c in word if c in occs keys occs c = occs c + 1 else occs c = 1 nums = while z in occs keys and e in occs keys and r in occs keys and o in occs keys and occs z > 0 and occs e > 0 and occs r > 0 and occs o > 0 occs z = occs z - 1 occs e = occs e - 1 occs r = occs r - 1 occs o = occs o - 1 nums append 0 while s in occs keys and i in occs keys and x in occs keys and occs s > 0 and occs i > 0 and occs x > 0 occs s = occs s - 1 occs i = occs i - 1 occs x = occs x 		10 108

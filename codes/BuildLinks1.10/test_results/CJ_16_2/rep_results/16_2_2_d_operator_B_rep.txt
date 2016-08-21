@@ -1,0 +1,5 @@
+def 		40 41
+read_simple write_simple fin 		43 46
+padLeft d n 		6 8
+repInline sidx sidx sidx = ch 		10 17
+bestDist bestCoders bestJammers curC repInline padLeft curJ repInline padLeft curC curJ bestDist bestDist bestCoders curC bestJammers curJ 		19 37

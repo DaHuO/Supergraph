@@ -1,0 +1,7 @@
+solve_large A-large-out.txt 		150 153
+scopy realans realans realans zzz realans zzz ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE ZERO df = ONE 1 TWO 2 THREE 3 FOUR 4 FIVE 5 SIX 6 SEVEN 7 EIGHT 8 NINE 9 ZERO 0 ans = L = 0 while Z in s z = join p for p in permutations ZERO for y in z if is_subseq y s ans append ZERO s = prmv y s L += 4 while X in s z = join p 		13 131
+dosolve f g d = f read split \n n = 		138 148
+A-small-out-4.txt A-small-attempt4.in 		155 158
+def prmv y 		7 11
+solve_examples A-eg-out.txt 		160 163
+def is_subseq x y 		3 5

@@ -1,0 +1,29 @@
+Direct links:
+49 - 53 links:
+16_2_1_cuongd_submission	:	87 - 91
+
+11 - 18 links:
+16_2_1_cuongd_submission	:	17 - 25
+
+
+With same rare tokens:
+49 - 53 links:
+16_2_1_cuongd_submission	:	87 - 91
+16_2_1_cuongd_submission	:	87 - 91
+16_2_1_cuongd_submission	:	87 - 91
+16_2_1_cuongd_submission	:	87 - 91
+16_2_1_cuongd_submission	:	87 - 91
+16_2_1_cuongd_submission	:	87 - 91
+
+11 - 18 links:
+16_2_1_cuongd_submission	:	17 - 25
+16_2_1_cuongd_submission	:	27 - 43
+
+20 - 36 links:
+16_2_1_cuongd_submission	:	17 - 25
+16_2_1_cuongd_submission	:	27 - 43
+16_1_1_barryd_process	:	85 - 93
+16_3_1_barryd_process	:	99 - 107
+16_2_1_cuongd_submission	:	27 - 43
+16_2_1_cuongd_submission	:	27 - 43
+

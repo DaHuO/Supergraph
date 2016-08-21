@@ -1,0 +1,1 @@
+def solve inFile word = list inFile readline strip word sort cl = dict cl Z = 0 cl X = 0 cl U = 0 cl W = 0 cl G = 0 cl F = 0 cl S = 0 cl 		12 54

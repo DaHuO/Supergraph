@@ -1,0 +1,5 @@
+input.in Done! for f in os listdir CUR_DIR 		55 62
+def solve_case case order = Z ZERO 0 W TWO 2 X SIX 6 G EIGHT 		19 41
+def read_test f with open f 		9 16
+def save f asnwers with 		49 52
+def 		44 46

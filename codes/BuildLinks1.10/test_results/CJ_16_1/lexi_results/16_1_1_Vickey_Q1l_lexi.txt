@@ -1,0 +1,1 @@
+def main with open a-large.in.txt r as f inp = f read split \n inp = inp 1 for c i in enumerate inp if not i continue i = w for w in i final = i 0 for w in i 1 if w >= final 0 final = w + final else final = final + w print case # + str c + 1 + : + join final 		13 30

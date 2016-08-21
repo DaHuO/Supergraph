@@ -1,0 +1,3 @@
+print_ans n ans if ans 		11 15
+car cdr car cdr path assert len path <= c 		18 30
+up_to up_to up_to up_to s check = = 0 		33 46

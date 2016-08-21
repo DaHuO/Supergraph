@@ -1,0 +1,3 @@
+def parse 		2 6
+outputword.out output data = parse a-large.in l 		19 25
+def lastword word res = word 		8 15

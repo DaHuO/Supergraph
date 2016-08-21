@@ -1,0 +1,2 @@
+Str Str st = 0 st = join sorted st count = 0 * 10 count 0 = st count Z count 2 = st count W count 4 = st count U count 6 		20 39
+infname outfname read_simple infname 		41 44

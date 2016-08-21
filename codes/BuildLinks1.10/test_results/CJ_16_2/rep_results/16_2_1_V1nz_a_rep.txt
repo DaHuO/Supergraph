@@ -1,0 +1,1 @@
+def solve case tab solus = while Z in tab solus append 0 tab remove Z tab remove E tab remove R tab remove O while W in tab solus append 2 tab remove T tab remove W tab remove O while X 		4 80

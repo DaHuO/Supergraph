@@ -1,0 +1,13 @@
+def read_ints f 		72 73
+chosen chosen chosen n f = case d = dict zip itertools count 1 f res = for i in range 1 n + 1 d = d copy r = i while 		15 45
+def read_int 		60 61
+def 		47 48
+def read_case 		10 13
+def 		57 58
+def read_words 		69 70
+read_digits f 		66 67
+def read_arr f r 		78 79
+def write_case f 		50 53
+def solve solver fn out_fn = none in_fn = fn 		81 91
+def read_floats 		75 76
+def 		63 64

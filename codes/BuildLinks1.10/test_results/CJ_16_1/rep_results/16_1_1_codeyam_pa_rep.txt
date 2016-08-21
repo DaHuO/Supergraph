@@ -1,0 +1,1 @@
+def solution s letters = list 		8 20

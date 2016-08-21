@@ -1,0 +1,15 @@
+Direct links:
+9 - 10 links:
+16_1_1_edgarthewise_A	:	10 - 11
+16_1_2_edgarthewise_B	:	10 - 11
+
+6 - 7 links:
+16_1_1_edgarthewise_A	:	7 - 8
+16_1_2_edgarthewise_B	:	7 - 8
+
+
+With same rare tokens:
+6 - 7 links:
+16_1_1_edgarthewise_A	:	7 - 8
+16_1_2_edgarthewise_B	:	7 - 8
+

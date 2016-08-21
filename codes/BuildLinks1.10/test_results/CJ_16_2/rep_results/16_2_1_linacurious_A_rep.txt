@@ -1,0 +1,2 @@
+numcases numcases repr = open attempt + .in r fout 		24 35
+def solve s c = Counter s t = 0 * 10 t 0 = c Z t 2 = c W t 4 = c U 		9 22

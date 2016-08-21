@@ -1,0 +1,12 @@
+Direct links:
+20 - 21 links:
+16_1_1_Juampi_cj1	:	2 - 3
+16_1_3_Jed_solve	:	45 - 47
+16_1_3_Jed_solve	:	50 - 51
+
+
+With same rare tokens:
+8 - 16 links:
+16_1_1_missJuliaSon_soln	:	28 - 29
+16_1_2_missJuliaSon_soln	:	26 - 27
+

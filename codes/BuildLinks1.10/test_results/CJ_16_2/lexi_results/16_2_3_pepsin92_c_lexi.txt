@@ -1,0 +1,2 @@
+def check old new return a == b 		7 10
+def setify s s = x for x in zip * s return set x for x in s 		3 5

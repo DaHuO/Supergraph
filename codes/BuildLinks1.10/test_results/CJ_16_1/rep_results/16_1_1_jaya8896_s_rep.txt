@@ -1,0 +1,1 @@
+def solve st global answer new = 		1 11

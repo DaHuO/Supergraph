@@ -1,0 +1,5 @@
+def processInput T 		8 14
+def ALGORITHM test_case S = test_case count = dd lambda 0 for c in S count c += 1 nums = while count Z > 0 nums append 0 for c 		36 81
+runAlgorithm results = for test_case in processInput 		109 117
+def 		17 20
+basic_test OZONETOWER WEIGHFOXTOURIST OURNEONFOE ETHER 012 2468 114 200 200 200 for x in D S = list D 		85 107

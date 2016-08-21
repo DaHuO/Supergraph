@@ -1,0 +1,2 @@
+solve_digits s freq = for c in s freq c = freq 		9 22
+solve_digits main start_time = time time input_file 		24 31

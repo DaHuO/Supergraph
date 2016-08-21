@@ -1,0 +1,1 @@
+def lastword inp out = out2 = for c in inp if out2 == out2 += c else if c < out2 0 out2 += c else out2 = c + out2 return out2 		4 16

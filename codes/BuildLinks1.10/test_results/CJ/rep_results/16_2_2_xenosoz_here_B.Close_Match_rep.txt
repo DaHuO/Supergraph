@@ -1,0 +1,5 @@
+lhs lhs 		13 14
+def 		21 22
+def score item c 		16 19
+head_c head_j c j if not c or not j return solns = c j = = c 0 j 0 tail_c_min = make_min c 1 tail_c_max = make_max c 1 tail_j_min = make_min j 1 tail_j_max = make_max j 1 if c == ? and j 		27 66
+def 		24 25

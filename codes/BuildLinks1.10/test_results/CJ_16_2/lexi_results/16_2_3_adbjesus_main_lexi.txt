@@ -1,0 +1,1 @@
+def solve C = int input W = for c in range C W append s for s in input split for c in range 1 C for z in combinations W c tmp = W fw = sw = for e in z tmp remove e fw append e 0 sw append e 1 finish = True for e in tmp if not e 0 in fw and e 1 in sw finish = False break if finish return C - c return 0 		3 64

@@ -1,0 +1,1 @@
+def binM x l return bin x 2 zfill l 		1 2

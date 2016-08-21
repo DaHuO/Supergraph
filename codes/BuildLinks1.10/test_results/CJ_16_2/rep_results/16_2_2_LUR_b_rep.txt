@@ -1,0 +1,2 @@
+is_ok d x sd = len x 		2 7
+2141483647 2141483647 2141483647 is_ok is_ok = a b = input split  1 for i in range 10 ** len a for j in range 10 ** 		10 30

@@ -1,0 +1,1 @@
+def contained linea d for c in d if linea count c < d count c return False return True 		40 44

@@ -1,0 +1,1 @@
+def digits s cnt = 0 * 26 for c in s cnt ord c - 65 += 1 ds = for w d c in ws cx = cnt ord c - 65 / w count c ds += str d * cx for wc in w cnt ord wc - 65 -= cx return join sorted ds 		9 19

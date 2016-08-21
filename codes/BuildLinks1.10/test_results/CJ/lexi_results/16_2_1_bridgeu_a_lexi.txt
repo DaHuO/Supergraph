@@ -1,0 +1,2 @@
+def read_ints inp return int x for x in inp readline split 		4 5
+def handle inp i letters = inp readline strip word_and_signal = zero z eight g six x four u five f three h two w seven v nine i one o words = zero one two three four five six seven eight nine lcs = counter letters a0 = lcs z a8 = lcs g a6 = lcs x a4 = lcs u a5 = lcs f - a4 a3 = lcs h - a8 a2 = lcs w a7 = lcs v - a5 a9 = lcs i - a8 + a6 + a5 a1 = lcs o - a0 + a4 + a2 return 0 * a0 + 1 * a1 + 2 * a2 + 3 * a3 + 4 * a4 + 5 * a5 + 6 * a6 + 7 * a7 + 8 * a8 + 9 * a9 		7 37

@@ -1,0 +1,22 @@
+Direct links:
+137 - 138 links:
+16_3_1_andbig_1	:	32 - 33
+
+
+With same rare tokens:
+137 - 138 links:
+16_3_1_andbig_1	:	32 - 33
+16_3_1_andbig_1	:	35 - 36
+
+140 - 141 links:
+16_3_1_andbig_1	:	35 - 36
+16_3_1_andbig_1	:	32 - 33
+16_3_1_andbig_1	:	35 - 36
+
+111 - 127 links:
+16_1_2_abcnet_1ab1	:	8 - 45
+
+131 - 135 links:
+16_1_1_andbig_1	:	1 - 10
+16_3_1_andbig_1	:	12 - 30
+

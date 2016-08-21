@@ -11,17 +11,17 @@ def getReps(code, majortoken, threshold):
 		major = []
 		n = int(len(code[line]) * (1 -threshold))
 		for token in code[line]:
-			if token not in majortoken:
-				minorrep.append(token)
-			else:
+			if token in majortoken:
 				major.append(token)
+			else:
+				minorrep.append(token)
 		if len(minorrep) >= n:
 			represult = minorrep[:n]
 		else:
 			represult = list(minorrep)
 			represult.extend(major[len(minorrep):n])
-		coderep[line] = represult
-		codeminorrep[line] = minorrep
+		coderep[line] = list(represult)
+		codeminorrep[line] = list(minorrep)
 	return coderep, codeminorrep
 
 

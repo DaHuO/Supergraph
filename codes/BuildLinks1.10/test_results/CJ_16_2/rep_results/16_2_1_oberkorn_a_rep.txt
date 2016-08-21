@@ -1,0 +1,3 @@
+def remove_number m number 		5 9
+firstline firstline firstline True case = 0 for 		40 50
+def solve a mchars = out = for c in list a if mchars has_key c mchars c += 1 else mchars c = 1 for 		11 38

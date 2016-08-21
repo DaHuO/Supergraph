@@ -1,0 +1,4 @@
+def answer query lst1 = r * query 1 + p * query 2 + s * query 3 perms = set itertools permutations lst1 anslist = sorted join item for item in perms if works item if anslist return anslist 0 return impossible 		32 41
+def nextrnd st ans = for i in range 0 len st 2 if st i == st i + 1 return none ans append winner st i st i + 1 return ans 		16 22
+def winner st1 st2 st = set st1 st2 if st == set p s return s if st == set s r return r if st == set r p return p 		7 14
+def works st while len st > 1 st = nextrnd st if not st return false return true 		24 29

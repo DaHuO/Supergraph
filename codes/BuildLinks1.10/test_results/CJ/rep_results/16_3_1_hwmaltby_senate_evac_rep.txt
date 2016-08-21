@@ -1,0 +1,3 @@
+max_info maxm maxm maxm maxm - 1 		22 34
+def sum 		36 43
+senate_evac exits max_info exits exits exits > 0 values = lst 		4 19

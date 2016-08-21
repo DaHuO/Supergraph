@@ -1,0 +1,4 @@
+def majority ps m = 		11 15
+def max_party ps 		6 8
+def main r = sys stdin if len 		37 48
+evacs_str evacs_str #%d:%s evacs_str evacs = while sum ps > 0 e1 = 		18 34

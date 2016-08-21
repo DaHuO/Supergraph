@@ -1,0 +1,2 @@
+def read_case n = 		3 6
+def solve case n rows 		8 12

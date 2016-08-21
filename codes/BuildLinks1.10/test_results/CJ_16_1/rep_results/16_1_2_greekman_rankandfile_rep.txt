@@ -1,0 +1,2 @@
+get_missing heights result = 		3 8
+max_height get_missing num heights = for i in range 		10 19

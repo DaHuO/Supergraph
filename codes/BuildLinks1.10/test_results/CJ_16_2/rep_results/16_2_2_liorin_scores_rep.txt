@@ -1,0 +1,2 @@
+cmp_scores c_s1 j_s1 c_s2 j_s2 c_s1 j_s1 c_s2 j_s2 c_s2 c_s1 		10 22
+c_bigger j_bigger c_bigger j_bigger c_ret j_ret c_bigger j_bigger c_u j_u c_u j_u cmp_scores j_j j_j j_j cmp_scores False my_flag = flag if flag > 0 = True if flag < 0 = True if flag == 0 unknown = True = = c = c_str 0 j = j_str 0 if c_tmp j_tmp = solve c_str 1 j_str 1 flag return c if c != ? else 		24 90

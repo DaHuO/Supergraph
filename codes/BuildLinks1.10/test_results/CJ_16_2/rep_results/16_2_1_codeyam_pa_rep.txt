@@ -1,0 +1,2 @@
+drop_chars drop_chars by_char if by_char in charcount amount 		17 29
+drop_chars drop_chars s charcount = for char in s if char in charcount charcount char += 1 else charcount char = 1 def dropwords by_char if by_char in charcount amount = charcount by_char for 		8 42

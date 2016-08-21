@@ -1,0 +1,2 @@
+get_order ch1 ch2 		3 8
+_s1 _s2 _s1 _s1 _s2 _s1 _s2 chs1 chs1 chs2 chs2 chs1 chs2 subsol get_order subsol subsol str1 - int str2 str1 str2 s1 s2 = if order < 0 if s1 		10 42

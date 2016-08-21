@@ -1,0 +1,2 @@
+rounds rounds myfunc int input 		15 19
+myfunc par1 result = par1 0 		3 11

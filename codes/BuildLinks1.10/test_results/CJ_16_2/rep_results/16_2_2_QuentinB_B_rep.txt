@@ -1,0 +1,7 @@
+startTime clock T = int 		20 26
+debugln 		212 214
+doCase1 case C J = inFile readline split n = len C C2 = None for i in range n if C i != J i and C i != ? and J i != ? break if C i == ? and J i == ? if i == n - 1 or C i + 1 == J i + 1 C = C i + 0 + C i + 1 J = J i + 0 + J i + 1 elif C i + 1 == ? and J i + 1 <= 8 J = J i + 0 + J i + 1 C = C i + 0 + C i + 1 elif J i + 1 == ? and C i + 1 <= 8 J = J i + 0 + J i + 1 C = C i + 0 + C i + 1 elif C i + 1 == ? J = J i + 0 + J i + 1 C = C i + 		72 206
+def f Ct for k in range len Ct C = 		34 43
+debugv 		216 218
+Jt Jt Jt Jt J = inFile readline split Ct = C = J while f Ct pass while f pass mc = Ct 		45 70
+def 		30 32

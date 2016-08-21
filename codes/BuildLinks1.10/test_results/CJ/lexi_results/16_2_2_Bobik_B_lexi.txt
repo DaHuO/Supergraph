@@ -1,0 +1,3 @@
+def largest s return s replace ? 9 		7 8
+def smallest s return s replace ? 0 		3 4
+def solve a b n = len a if n == 0 return 0 if a 0 == b 0 if a 0 == ? return min solve 0 + a 1 0 + b 1 solve 0 + a 1 1 + b 1 solve 1 + a 1 0 + b 1 else r = solve a 1 b 1 return r 0 a 0 + r 1 b 0 + r 2 elif a 0 == ? x = int b 0 return min solve str x + d + a 1 b for d in - 1 0 1 if 0 <= x + d <= 9 elif b 0 == ? x = int a 0 return min solve a str x + d + b 1 for d in - 1 0 1 if 0 <= x + d <= 9 elif a 0 < b 0 a = largest a b = smallest b return int b - int a a b elif a 0 > b 0 a = smallest a b = largest b return int a - int b a b else assert false 		11 39

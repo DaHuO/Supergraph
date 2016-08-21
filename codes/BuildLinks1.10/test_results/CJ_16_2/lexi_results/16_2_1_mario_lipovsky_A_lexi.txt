@@ -1,0 +1,1 @@
+def solve line = input chars = for c in ABCDEFGHIJKLMNOPQRSTUVWXYZ chars c = 0 for c in line chars c += 1 ans = for w c d in zip words ch digits n = chars c ans extend d * n for cc in w chars cc -= n return join map str sorted ans 		6 24

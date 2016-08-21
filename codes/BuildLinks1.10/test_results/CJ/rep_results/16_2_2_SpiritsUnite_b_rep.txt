@@ -1,0 +1,1 @@
+def better a b c d if int c == - 1 return true if 		1 9

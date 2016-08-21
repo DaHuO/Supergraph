@@ -1,0 +1,5 @@
+trans s a = 		1 8
+d_to_n add_digit s d res rem = sum s values if not d 		29 47
+def remove_digit s d res = True for i 		10 21
+add_digit s d 		23 26
+s_t trans s_t d = ZERO ONE TWO THREE FOUR 		50 60

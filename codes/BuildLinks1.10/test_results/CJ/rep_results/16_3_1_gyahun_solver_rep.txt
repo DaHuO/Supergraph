@@ -1,0 +1,2 @@
+def solve test senators = counter test s evacuated = while + senators 		9 22
+uppers read 		6 7

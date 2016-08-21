@@ -1,0 +1,1 @@
+def lastword num_case b l = len b string = string 		16 28

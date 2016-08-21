@@ -1,0 +1,2 @@
+1e11 pq pq pq 1e11 pq ??????? in C and ? not in P return C P cq = C find ? if cq == - 1 cq = = P find ? if == - 1 = i = min cq if C i == ? and P i == ? if C i == P i cc = C replace ? 0 1 pp = P replace ? 0 1 s1 = solve cc pp cc = C 		9 104
+CP CP CP = 		1 7

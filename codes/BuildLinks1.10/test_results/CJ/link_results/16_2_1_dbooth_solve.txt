@@ -1,0 +1,16 @@
+Direct links:
+57 - 67 links:
+16_1_1_dbooth_solve	:	19 - 29
+16_2_2_dbooth_solve	:	55 - 66
+16_0_4_dbooth_solve	:	36 - 47
+
+
+With same rare tokens:
+57 - 67 links:
+16_1_1_dbooth_solve	:	19 - 29
+16_2_2_dbooth_solve	:	55 - 66
+16_0_4_dbooth_solve	:	36 - 47
+16_1_1_dbooth_solve	:	19 - 29
+16_2_2_dbooth_solve	:	55 - 66
+16_0_4_dbooth_solve	:	36 - 47
+

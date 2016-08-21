@@ -1,0 +1,4 @@
+def returnoutput self result = self answer return result 		38 43
+def compute self last_piece = for n in self d if self d n % 2 != 0 last_piece append n last_piece sort self answer = for soldier in last_piece self answer +=  + str soldier 		45 58
+def takeinput self content self d = for c in content this_piece = c split for num in this_piece n = int num if not n in self d self d n = 1 else self d n += 1 		21 34
+def find_num_line self if line_per_case return line_per_case else n = int inputfile readline return n * 2 - 1 		11 19

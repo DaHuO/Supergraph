@@ -1,0 +1,10 @@
+def sa 		14 17
+l10 s2l l20 s2l l10 l20 glg l10 		77 87
+		6 7
+def l2n l ans = 		37 43
+glg l while true for i f 		46 57
+s2l s ans = for e 		19 29
+n1m n2m dm n1m n2m dm dm n1m dm n1m n2m = l2n l2 = 		59 75
+l2s l ans 		31 35
+def ia 		9 12
+def copy s ans = 		89 94

@@ -1,0 +1,1 @@
+def cocktailsort lst begin end = 0 len lst - 1 finished = false while not finished finished = true for i in xrange begin end if lst i > lst i + 1 lst i lst i + 1 = lst i + 1 lst i lst log finished = false if finished break finished = true end -= 1 for i in reversed xrange begin end if lst i > lst i + 1 lst i lst i + 1 = lst i + 1 lst i lst log finished = false begin += 1 		2 21

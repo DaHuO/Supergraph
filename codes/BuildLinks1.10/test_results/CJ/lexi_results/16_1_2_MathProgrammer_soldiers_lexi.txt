@@ -1,0 +1,2 @@
+def solve2 n soldiers solution = 0 for i in range n for i in range n for i in range n cur = min soldiers for j in range len soldiers if soldiers j == cur del soldiers j break for j in range i n a = 0 print solution 		22 34
+def solve n soldiers count = for l in soldiers for p in l count setdefault p 0 count p += 1 li = for p in count if count p % 2 == 1 li append p if len li < n a = 0 li sort return li 		3 19

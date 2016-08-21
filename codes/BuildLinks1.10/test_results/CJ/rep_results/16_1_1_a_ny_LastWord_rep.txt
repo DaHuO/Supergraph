@@ -1,0 +1,2 @@
+construct construct construct construct s == return l 		5 14
+def lastword s l = s 0 		17 26

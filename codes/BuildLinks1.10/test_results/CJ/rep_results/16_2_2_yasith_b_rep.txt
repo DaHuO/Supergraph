@@ -1,0 +1,1 @@
+getall {0:0 d} = for i in range 0 pow 10 		3 16

@@ -1,0 +1,11 @@
+
+With same rare tokens:
+3 - 23 links:
+16_3_1_eponymous1_A1	:	3 - 39
+16_1_2_drakeire_rank_and_file	:	27 - 43
+16_1_2_drakeire_rank_and_file	:	67 - 93
+16_0_4_cmroz_solution	:	53 - 67
+
+26 - 32 links:
+16_3_1_eponymous1_A1	:	3 - 39
+

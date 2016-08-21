@@ -1,0 +1,2 @@
+def missing lists odd = set for l in lists for n in l if n in odd odd remove n else odd add n return sorted list odd 		5 17
+def oracle lists result assert sorted result == result for a b in zip result - 1 result 1 assert a != b 		19 23

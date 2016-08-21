@@ -1,0 +1,2 @@
+def dfs2 x y ans = 0 for i in if x if i != y ans = max ans dfs2 i y return ans + 1 		17 22
+def dfs x dep s x = true depth x = dep y = f x if depth y if not s y ans = 0 else ans = depth x - depth y + 1 else ans = dfs y dep + 1 s x = false return ans 		4 16

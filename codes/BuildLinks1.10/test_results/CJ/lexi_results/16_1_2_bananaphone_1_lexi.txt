@@ -1,0 +1,1 @@
+def doprob d = n = int raw_input for i in xrange 2 * n - 1 xx = raw_input yy = xx split for ii in yy if ii in d d ii += 1 else d ii = 1 out = for i in d keys if d i % 2 != 0 out append int i out sort nnn = for i in out nnn += str i +  return nnn - 1 		3 22

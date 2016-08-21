@@ -1,0 +1,2 @@
+def run s1 _ s2 = 		45 48
+def rec s1 pre1 s2 pre2 if len s1 == 0 return abs pre1 - pre2 pre1 pre2 if s1 0 != ? and s2 0 != ? pre1 = pre1 * 10 + int s1 0 pre2 = pre2 * 10 + int s2 0 return rec s1 1 pre1 s2 1 pre2 if s1 0 == ? and s2 0 == ? if pre1 == pre2 res = rec s1 1 pre1 * 10 s2 1 pre2 * 10 res = 		2 42

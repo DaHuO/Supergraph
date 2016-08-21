@@ -1,0 +1,5 @@
+next_number_in solve S 		43 48
+next_number_in NUMBER_MAP all_chars_in 		37 40
+go_through data data = data 1 s = 		50 59
+all_chars_in chars S s_clone = S 		28 35
+remove_chars S chars for 		23 26

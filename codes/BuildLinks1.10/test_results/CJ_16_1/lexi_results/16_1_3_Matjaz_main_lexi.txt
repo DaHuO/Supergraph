@@ -1,0 +1,3 @@
+def bestconfiguration x y return finddepth x y + finddepth y x 		25 26
+def mark x while seen x != - 1 seen x = - 1 x = bff x 		6 9
+def finddepth x p res = 1 maxdepth = 0 for child in bffreverse x if child == p continue depth = finddepth child x if depth > maxdepth maxdepth = depth return res + maxdepth 		12 22

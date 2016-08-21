@@ -1,0 +1,1 @@
+def run n inp ns = for vv in inp for v in vv ns v = ns get v 0 + 1 rs = x for x y in ns items if y % 2 == 1 rs sort return  join map str rs 		7 14

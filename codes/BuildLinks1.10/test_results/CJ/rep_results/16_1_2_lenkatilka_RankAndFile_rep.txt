@@ -1,0 +1,1 @@
+outputrankandfile.out newdict newdict newdict newdict newdict newdict outputstr missingnumbers outputstr missingnumbers outputstr outputstr filename as f content = f readlines outputfile = open w t 		2 45

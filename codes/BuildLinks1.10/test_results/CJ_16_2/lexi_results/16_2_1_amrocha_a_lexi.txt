@@ -1,0 +1,2 @@
+def parseNumber s if Z in s return 0 ZERO if W in s return 2 TWO if U in s return 4 FOUR if X in s return 6 SIX if G in s return 8 EIGHT if O in s return 1 ONE if R in s return 3 THREE if F in s return 5 FIVE if V in s return 7 SEVEN if N in s return 9 NINE return None None 		1 22
+def getNewString s d result = s for c in d result = result replace c 1 return result 		24 28

@@ -1,0 +1,1 @@
+def solve s t = 		2 9

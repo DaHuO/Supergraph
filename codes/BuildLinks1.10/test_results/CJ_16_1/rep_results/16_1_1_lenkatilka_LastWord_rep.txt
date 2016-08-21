@@ -1,0 +1,2 @@
+findlatest chind chind chind chind return string 		27 38
+outputlatest.out findlatest outputstr outputstr outputstr = sys argv 1 with open filename 		2 25

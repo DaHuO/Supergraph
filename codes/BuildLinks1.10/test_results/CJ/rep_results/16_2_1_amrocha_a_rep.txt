@@ -1,0 +1,2 @@
+parsenumber s if z in s return 0 zero if w in s return 2 		1 22
+getnewstring s d 		24 28

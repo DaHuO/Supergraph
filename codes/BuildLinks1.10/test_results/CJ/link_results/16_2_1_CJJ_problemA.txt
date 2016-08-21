@@ -1,0 +1,136 @@
+Direct links:
+4 - 10 links:
+16_0_4_CJJ_problemD	:	4 - 10
+16_3_1_CJJ_problemA	:	4 - 12
+
+
+With same rare tokens:
+29 - 34 links:
+16_3_1_Celeritous_senate	:	33 - 37
+16_3_1_Celeritous_senate	:	33 - 37
+16_3_1_Celeritous_senate	:	33 - 37
+16_3_1_Celeritous_senate	:	33 - 37
+
+4 - 10 links:
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_2_saca_B	:	23 - 24
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	26 - 32
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_1_bpw1621_gettingTheDigits	:	7 - 26
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	26 - 32
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_1_bpw1621_gettingTheDigits	:	7 - 26
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	26 - 32
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_1_bpw1621_gettingTheDigits	:	7 - 26
+
+20 - 25 links:
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	26 - 32
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_1_bpw1621_gettingTheDigits	:	7 - 26
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_2_saca_B	:	23 - 24
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	26 - 32
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_1_bpw1621_gettingTheDigits	:	7 - 26
+
+12 - 18 links:
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	26 - 32
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_1_bpw1621_gettingTheDigits	:	7 - 26
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	26 - 32
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_1_bpw1621_gettingTheDigits	:	7 - 26
+

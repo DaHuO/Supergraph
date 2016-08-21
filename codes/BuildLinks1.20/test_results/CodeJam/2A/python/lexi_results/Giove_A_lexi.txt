@@ -1,0 +1,5 @@
+def solve data n r p s = data res = n r p s solutions = for string in s p r for i in xrange n x = for c in string if c == s x += ps elif c == p x += pr else x += rs string = x if x count s == s and x count p == p and x count r == r solutions append order string if verbose sys stderr write . sys stderr flush return min solutions if len solutions > 0 else impossible 		44 72
+def write res print res 		19 21
+def check data if verbose sys stderr write . sys stderr flush return res 		75 81
+def order string if len string <= 1 return string n = len string assert n % 2 == 0 m = n / 2 x = order string m y = order string m if x < y return x + y else return y + x 		24 39
+def read n r p s = int u for u in sys stdin readline split return n r p s 		12 16

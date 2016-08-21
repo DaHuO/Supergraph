@@ -1,0 +1,15 @@
+Direct links:
+6 - 7 links:
+16_2_2_klolos_jam	:	10 - 11
+16_2_2__o948_slow	:	3 - 4
+16_2_2_dborzov_B.sol.brutal	:	6 - 7
+16_3_1_BlackEleph_a	:	8 - 10
+16_2_1_dborzov_A.sol	:	12 - 13
+
+
+With same rare tokens:
+9 - 10 links:
+16_3_1_heaparray_q1	:	45 - 46
+16_3_1_BlackEleph_a	:	12 - 56
+16_3_1_hoenaime_1C Pb1	:	51 - 70
+

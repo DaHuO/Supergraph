@@ -1,0 +1,1 @@
+def rank_and_file n a count = for i in range 0 n * 2 - 1 for j in range 0 n if a i j not in count count a i j = 1 else count a i j = count a i j + 1 ret = for i in count if count i % 2 == 1 ret append i ret sort ret_string = str i for i in ret return  join ret_string 		12 32

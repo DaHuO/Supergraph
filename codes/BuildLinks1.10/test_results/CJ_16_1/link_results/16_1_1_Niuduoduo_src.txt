@@ -1,0 +1,19 @@
+Direct links:
+2 - 5 links:
+16_1_2_Niuduoduo_src	:	5 - 8
+
+11 - 13 links:
+16_1_2_Niuduoduo_src	:	14 - 16
+
+
+With same rare tokens:
+15 - 43 links:
+16_1_2_Niuduoduo_src	:	14 - 16
+
+45 - 59 links:
+16_1_2_Niuduoduo_src	:	48 - 62
+16_1_2_Niuduoduo_src	:	48 - 62
+
+11 - 13 links:
+16_1_2_Niuduoduo_src	:	14 - 16
+

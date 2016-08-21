@@ -1,0 +1,1 @@
+def take letter full 		9 13

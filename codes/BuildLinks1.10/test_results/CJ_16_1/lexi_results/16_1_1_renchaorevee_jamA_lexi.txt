@@ -1,0 +1,1 @@
+def solve s result = for c in str s if result == result = c continue if c >= result 0 result = c + result else result = result + c return result 		4 18

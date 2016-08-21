@@ -1,0 +1,17 @@
+Direct links:
+50 - 53 links:
+16_1_1_MichelJ_A	:	40 - 43
+16_1_2_MichelJ_B	:	112 - 115
+
+
+With same rare tokens:
+55 - 66 links:
+16_1_1_MichelJ_A	:	45 - 55
+16_1_1_MichelJ_A	:	45 - 55
+16_1_2_MichelJ_B	:	117 - 129
+16_1_2_MichelJ_B	:	117 - 129
+16_1_1_MichelJ_A	:	45 - 55
+16_1_1_MichelJ_A	:	45 - 55
+16_1_2_MichelJ_B	:	117 - 129
+16_1_2_MichelJ_B	:	117 - 129
+

@@ -1,0 +1,1 @@
+def compute line newline = line 0 for ch in line 1 if ch >= newline 0 newline insert 0 ch else newline append ch return join newline 		4 11

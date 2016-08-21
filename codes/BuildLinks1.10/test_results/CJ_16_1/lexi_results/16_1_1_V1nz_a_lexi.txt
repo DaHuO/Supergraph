@@ -1,0 +1,1 @@
+def solve case mot solus = mot 0 for i in range 1 len mot if mot i >= solus 0 solus = mot i + solus else solus = solus + mot i print case #{0}: {1} format case solus 		4 11

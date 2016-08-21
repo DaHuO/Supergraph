@@ -1,0 +1,27 @@
+
+With same rare tokens:
+42 - 63 links:
+sorts	:	143 - 167
+test_sortable	:	26 - 47
+counting_sort	:	15 - 44
+py_cocktail_sort	:	7 - 18
+cocktailsort	:	2 - 21
+
+232 - 251 links:
+sort	:	93 - 104
+
+99 - 115 links:
+sorts	:	11 - 43
+shell_sort	:	7 - 19
+
+22 - 40 links:
+bubble_sort	:	7 - 15
+test_bubble_sort	:	8 - 9
+sorts	:	170 - 194
+sorting_algorithms	:	1 - 22
+
+10 - 20 links:
+cocktail_shaker_sort	:	48 - 89
+cocktail_shaker_sort	:	92 - 158
+sorts	:	11 - 43
+

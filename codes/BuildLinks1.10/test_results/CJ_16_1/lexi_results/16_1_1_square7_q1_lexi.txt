@@ -1,0 +1,1 @@
+def solve s ans = for ele in s if len ans == 0 or ele >= ans 0 ans = ele + ans else ans = ans + ele return ans 		5 12

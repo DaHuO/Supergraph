@@ -1,0 +1,3 @@
+def bipartiteMatch graph matching = for u in graph for v in graph u if v not in matching matching v = u break while 1 preds = unmatched = pred = dict u unmatched for 		1 54
+sX sY sX sY sX sY = zip * A = set X set Y 		57 73
+def recurse v if v in preds L 		41 52

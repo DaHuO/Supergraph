@@ -1,0 +1,3 @@
+def sol if temp = if readline split n = int temp 0 r = int temp 1 p = int temp 2 s = int temp 3 possible = generate n for i in range 1 6 2 if p r s == possible i return possible i - 1 return impossible 		37 47
+def addc x y return x 0 + y 0 x 1 + y 1 x 2 + y 2 		7 8
+def generate n if n == 1 return pr 1 1 0 rs 0 1 1 ps 1 0 1 else temp = generate n - 1 oldp = temp 0 oldpc = temp 1 oldr = temp 2 oldrc = temp 3 olds = temp 4 oldsc = temp 5 temp = sorted oldp oldr newp = temp 0 + temp 1 newpc = addc oldpc oldrc temp = sorted oldr olds newr = temp 0 + temp 1 newrc = addc oldrc oldsc temp = sorted oldp olds news = temp 0 + temp 1 newsc = addc oldpc oldsc return newp newpc newr newrc news newsc 		10 34

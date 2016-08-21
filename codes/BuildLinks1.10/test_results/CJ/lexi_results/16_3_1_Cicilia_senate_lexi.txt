@@ -1,0 +1,1 @@
+def find_max n_ppl name_party index value = max enumerate n_ppl key = operator itemgetter 1 n_ppl index -= 1 return name_party index 		6 11

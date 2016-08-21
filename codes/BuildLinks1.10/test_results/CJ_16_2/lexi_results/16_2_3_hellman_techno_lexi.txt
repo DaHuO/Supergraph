@@ -1,0 +1,7 @@
+def brute lst ans = 0 for orig in product range 2 repeat = len lst ws1 = set ws2 = set for i w1 w2 in enumerate lst if orig i ws1 add w1 ws2 add w2 for i w1 w2 in enumerate lst if not orig i if w1 not in ws1 or w2 not in ws2 break else ans = max ans len lst - sum orig return ans 		79 94
+def __init__ self V1 V2 self V1first = 0 self V1last = V1 - 1 self V2first = V1 self V2last = V1 + V2 - 1 self edges = defaultdict list self pair = v None for v in xrange self V1first self V1last + 1 self visited = set self satur = set 		34 43
+def add_edge self a b b += self V2first self edges a append b self edges b append a 		45 48
+def dfs self p self visited add p if self left p if self pair p is not None r = self pair p if r in self visited return return self dfs r for l in self edges p if l in self visited continue if self pair l is None or self dfs l self pair l = p self satur add p return True 		53 68
+def solve lst ws1 = set ws2 = set for w1 w2 in lst ws1 add w1 ws2 add w2 ws1 = list ws1 ws2 = list ws2 BP = BipartiteMatching len ws1 len ws2 for w1 w2 in lst BP add_edge ws1 index w1 ws2 index w2 maxm = BP get_max orig = len ws1 + len ws2 - maxm return len lst - orig 		97 115
+def left self v return self V1first <= v <= self V1last 		50 51
+def get_max self for v in xrange self V2first self V2last + 1 if v in self satur continue self visited = set self dfs v return sum 1 for v in self pair values if v 		70 76

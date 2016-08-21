@@ -1,0 +1,5 @@
+doing get_min get_min missingindex arrays arrays missingindex missingindex missingindex missingindex num1 missingindex num2 missingindex num3 missingindex num3 num1 num2 num1 w num_tests = int f readline for nt in range num_tests n = int f readline strip papers = for i 		1 66
+is_equal a2 a2 		103 107
+check_validity grid line is_row index if is_row for i in range len line if grid index i 		74 93
+place_in_grid grid line is_row index if 		95 101
+get_min minimum minimum if 		68 72

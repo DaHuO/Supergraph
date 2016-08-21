@@ -1,8 +1,5 @@
-57 - 66 links:
-elockhart_A	:	65 - 70
-
+Direct links:
 45 - 53 links:
-dkorduban_A	:	18 - 27
-FatAlex_a	:	31 - 39
 elockhart_A	:	53 - 59
+ikicha_rock_paper_scissor	:	23 - 33
 

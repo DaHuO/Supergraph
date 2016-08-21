@@ -1,0 +1,5 @@
+newTries fillChar newTries sB pos maxPos if pos == maxPos return abs int sA - int sB sA sB answer = 		198 227
+myS myList myS 		6 9
+B-large.in main with open r as infile open 		239 245
+fillChar charA charB charA charB charB charA myA myB myA myB charB charA myA myB myA myB fatal flaw, returning sA, SB = False if == ? knownB = False if knownA and knownB answers append sA sB return answers if pos == 0 if not knownA and knownB intB = int copyA = sA + copyA = changeStr copyA pos zeroToNine intB - 1 answers append copyA sB copyA = changeStr copyA pos zeroToNine intB answers append copyA sB copyA = changeStr copyA pos zeroToNine intB + 1 answers append copyA sB return answers if knownA and not knownB intA = int copyB = sB + copyB = changeStr copyB pos zeroToNine intA - 1 answers append sA 		11 195
+def solve c sA sB = 		230 237

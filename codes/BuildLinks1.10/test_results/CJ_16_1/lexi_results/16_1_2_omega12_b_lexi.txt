@@ -1,0 +1,3 @@
+def idfun x return x 		20 20
+def solve info n = int info p = list for x in range 0 2 * n - 1 q = map int raw_input split  for z in q p append z h = f5 p m = list for q in h if p count q % 2 != 0 m append q m sort return  join map str m 		1 14
+def f5 seq idfun = none if idfun is none def idfun x return x seen = result = for item in seq marker = idfun item if marker in seen continue seen marker = 1 result append item return result 		17 31

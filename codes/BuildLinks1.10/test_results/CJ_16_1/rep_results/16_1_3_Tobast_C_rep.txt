@@ -1,0 +1,9 @@
+descr descr sym symgraph comps sym compcycles comps compcycles sym sumof2chains compcycles sumof2chains 		73 91
+findchain invgraph findchain2 maxdepth = 		63 69
+symgraph graph out = dict for 		1 8
+component onceparent onceparent onceparent component false for x in graph def dfs pos parent if seen pos 		32 50
+chainlen invgraph invgraph findchain2 invgraph findchain2 invgraph findchain invgraph findchain2 findchain findchain graph for i in range len 		52 71
+def components graph colors = none for x in range len graph def dfs pt 		10 30
+findchain2 invgraph findchain2 invgraph 		59 62
+def dfs pt col 		13 19
+onceparent onceparent onceparent parent if seen pos return 1 pos false seen pos 		34 49

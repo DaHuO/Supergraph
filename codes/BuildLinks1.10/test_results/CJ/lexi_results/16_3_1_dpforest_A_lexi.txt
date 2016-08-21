@@ -1,0 +1,10 @@
+def read_float_list self self linenum += 1 return map float self f readline split 		58 60
+def read_decimal_list self self linenum += 1 return map decimal decimal self f readline split 		61 63
+def __init__ self filename self f = open filename self linenum = 1 		38 40
+def read_float self self linenum += 1 return float self f readline strip 		45 47
+def read_int self self linenum += 1 return int self f readline strip 		42 44
+def solve f skip = false n = f read_int p = f read_int_list if skip return 0 ss = sum p s = sum p ans = if s % 2 == 1 i = max p a = p index i ans append chr ord a + a p a -= 1 for _ in xrange s / 2 i = max p a = p index i p a -= 1 i = max p b = p index i p b -= 1 ans append chr ord a + a + chr ord a + b return  join ans 		11 35
+def read_str_list self self linenum += 1 return self f readline split 		64 66
+def read_int_list self self linenum += 1 return map int self f readline split 		55 57
+def read_decimal self self linenum += 1 return decimal decimal self f readline strip 		48 50
+def read_str self self linenum += 1 return self f readline strip 		51 53

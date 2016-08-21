@@ -1,0 +1,2 @@
+calccyclelen u nxt vis 		8 14
+findcycle nvis calccyclelen nvis findcycle vis mp v = nxt u 		16 28

@@ -1,0 +1,2 @@
+increasing lst return 		5 6
+any increasing any comb in combinations lines n trans = tuple zip * comb if 		9 24

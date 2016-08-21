@@ -1,0 +1,3 @@
+def solve_instance n topics first = set w 0 for w in topics second = set w 1 for w in topics maxx = max len first len second for origincount in range maxx n + 1 for originals in itertools combinations topics origincount first = set w 0 for w in originals second = set w 1 for w in originals if all w 0 in first and w 1 in second for w in topics return n - origincount return 0 		22 32
+def solve input_file with open input_file as f_in testcases = int next f_in for i in range testcases N = int next f_in topics = next f_in rstrip split for i in range N output = solve_instance N topics print Case #%d: %d % i + 1 output 		12 19
+def main input_file = sys argv 1 solve input_file 		7 9

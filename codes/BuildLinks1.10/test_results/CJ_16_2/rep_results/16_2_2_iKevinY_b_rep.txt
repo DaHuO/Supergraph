@@ -1,0 +1,2 @@
+def memoize f cache = 		13 22
+def _mem_fn * 		16 19

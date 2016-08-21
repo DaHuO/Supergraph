@@ -1,0 +1,2 @@
+can_find s substr tmp = s 		30 39
+can_find new_node new_node IndexError we shouldn't here stack cur soln = 		13 26

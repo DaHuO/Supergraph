@@ -1,0 +1,1 @@
+def test_insertion_sort_should_sort_a_list self self assertequal 1 2 3 4 5 insertion_sort 4 2 3 5 1 		8 9

@@ -1,0 +1,2 @@
+def solve for tc in range input k c s = raw_input split  k = int k c = int c s = int s print case #%d: % tc + 1 sequence = list range 0 k positions = while len sequence > 0 indexes = sequence c del sequence c if len indexes < c indexes += 0 * c - len indexes index = 0 for i d in enumerate indexes index += d * k ** i positions append index if len positions > s print impossible else for p in positions print p + 1 print 		15 43
+def main solve 		46 49

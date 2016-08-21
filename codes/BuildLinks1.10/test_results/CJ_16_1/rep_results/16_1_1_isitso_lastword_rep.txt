@@ -1,0 +1,2 @@
+addchar word char return 		3 7
+script addchar filename = argv in_file = open filename r out_file = open filename split . 0 		9 29

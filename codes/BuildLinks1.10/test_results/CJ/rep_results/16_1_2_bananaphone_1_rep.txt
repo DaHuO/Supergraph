@@ -1,0 +1,1 @@
+doprob nnn nnn nnn = int raw_input for i in xrange 2 * n - 		3 22

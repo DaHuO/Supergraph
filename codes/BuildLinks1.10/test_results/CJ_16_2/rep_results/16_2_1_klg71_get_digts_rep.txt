@@ -1,0 +1,1 @@
+poss_number number_list temp_string string_letter temp_string string_letter temp_string temp_string poss_number poss_number 0 return = for number in i = 0 = 		6 37

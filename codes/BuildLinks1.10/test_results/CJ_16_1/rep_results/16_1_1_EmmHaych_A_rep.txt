@@ -1,0 +1,4 @@
+arg_config inputs/ outputs/ global output_file if len 		15 21
+input_read input_read print_output = int for t in range 1 t 		23 38
+input_read 		6 10
+print_output s 		11 14

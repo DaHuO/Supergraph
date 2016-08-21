@@ -2,5 +2,5 @@ mask mask good r p s ans = for in xrange 3 ** 		36 51
 def 		29 30
 good good if len a == 1 return 		18 27
 ZZZ uu uu uu ZZZ s ans = pp 		70 80
-loser build n root if n == 0 		59 68
+def build n root if n == 0 		59 68
 def winner x y if x > y 		6 16

@@ -1,0 +1,2 @@
+def readint return int raw_input 		3 3
+def do_filter s s_filter is_three = False nums = to_remove = for k v in s_filter iteritems n = s count k n = n / 2 if is_three else n nums extend v 0 * n to_remove extend v 1 * n for i in to_remove s remove i return nums s 		28 40

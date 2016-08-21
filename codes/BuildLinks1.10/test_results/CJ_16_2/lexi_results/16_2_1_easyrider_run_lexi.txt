@@ -1,0 +1,1 @@
+def check_number inp_str number for chara in num2str number try if inp_str index chara < 0 return 0 except return 0 for chara in num2str number try del inp_str inp_str index chara except pass return 1 		35 48

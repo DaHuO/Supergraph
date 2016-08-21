@@ -1,0 +1,1 @@
+input2.in digits.txt f = open r file = open w t = f readline t = int t for k in range t s = f readline r = s = list s while Z in s s remove Z s remove E s remove R s remove O r = r + 0 while 		1 78

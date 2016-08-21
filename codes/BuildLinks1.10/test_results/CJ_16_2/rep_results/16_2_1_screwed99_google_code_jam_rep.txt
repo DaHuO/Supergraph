@@ -1,0 +1,4 @@
+answer_problem f_solve f_solve open file_name r as 		4 10
+curr_str curr_str str_index str_index curr_str str_index str_index TWO THREE 		33 43
+solve_a bt_stack bt_stack bt_stack parsed_digit parsed_digit bt_stack parsed_digit parsed_digit 		20 30
+answer_problem_special f_solve f_solve open 		13 17

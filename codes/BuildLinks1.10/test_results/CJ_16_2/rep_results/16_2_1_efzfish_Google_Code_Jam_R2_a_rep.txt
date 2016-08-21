@@ -1,0 +1,1 @@
+pro_a x c = Counter x ct = np zeros 10 ct 0 = c Z ct 2 = c W ct 4 = c U ct 6 = c 		27 46

@@ -1,0 +1,1 @@
+def main s nums = cnts = for c in s if c not in cnts cnts c = 1 else cnts c += 1 if Z in cnts cnt = cnts Z for i in range cnt nums append 0 cnts E -= cnt cnts R -= cnt cnts O -= cnt del cnts Z if W in cnts cnt = cnts W for i in range cnt nums append 2 		3 110

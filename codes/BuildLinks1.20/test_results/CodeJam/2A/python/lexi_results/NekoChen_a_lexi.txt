@@ -1,0 +1,5 @@
+def tour b c = for i j in zip * iter b * 2 if i == j return c append rule i j return c 		11 16
+def solve2 n r p s m = 1 << n a = sorted r r p p s s reverse = true b = 0 * m n p = a 0 if n > m >> 1 return impossible b n * 2 2 = p * n n1 p1 = a 1 b n * 2 2 = p1 * m >> 1 - n n1 -= m >> 1 - n n2 p2 = a 2 z = permutations p1 * n1 + p2 * n2 for i in z b 1 2 = i if test b return join b return impossible 		30 51
+def test b s t = join b if t in cache return while len b > 1 b = tour b if b == none return return s append t 		20 28
+def main f = open sys argv 1 if len sys argv >= 2 else sys stdin t = int f next for case in range 1 t + 1 n r p s = map int f next strip split print case #{0}: {1} format case solve n r p s 		66 73
+def solve n r p s z = permutations r * r + p * p + s * s cache clear s = for i in z test i s if len s == 0 return impossible return min s 		53 64

@@ -1,0 +1,10 @@
+
+With same rare tokens:
+23 - 24 links:
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_1_CJJ_problemA	:	4 - 10
+16_2_1_CJJ_problemA	:	20 - 25
+

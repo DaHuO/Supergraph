@@ -1,0 +1,2 @@
+def main num_cases = int sys stdin 		3 7
+def solve case ans_str = case 0 		9 16

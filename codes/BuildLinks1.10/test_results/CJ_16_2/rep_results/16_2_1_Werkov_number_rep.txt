@@ -1,0 +1,1 @@
+def solve S a = 0 for x in range 10 c = Counter for x in S c x += 1 a 		19 40

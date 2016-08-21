@@ -1,0 +1,1 @@
+def list_to_str ls r = for l in ls r += str l r +=  return r 		3 8

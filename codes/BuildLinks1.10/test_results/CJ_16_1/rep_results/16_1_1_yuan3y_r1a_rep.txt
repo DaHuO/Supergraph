@@ -1,0 +1,1 @@
+def last_word s appeared = result = for x 		1 12

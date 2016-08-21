@@ -1,0 +1,1 @@
+def lw letters outstr = none for l in letters if outstr == none outstr = l continue if l >= outstr 0 outstr = l + outstr else outstr += l return outstr 		5 15

@@ -1,0 +1,5 @@
+def readfile filename global f global out f = open filename + .in r out = open filename + .out w 		5 9
+def readint global curreadingline if len curreadingline == 0 curreadingline = readln split  r = curreadingline 0 curreadingline = curreadingline 1 return int r 		11 17
+def answerln o answer str o + \n 		23 24
+def answer o sys stdout write o out write str o 		26 28
+def readln global f return f readline replace \n 		19 21

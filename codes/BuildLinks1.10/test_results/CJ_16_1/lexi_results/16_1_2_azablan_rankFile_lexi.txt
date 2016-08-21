@@ -1,0 +1,1 @@
+def findmissing lists freq = counter for l in lists freq += counter l missing = k for k in freq if int freq k % 2 == 1 missing = int i for i in missing missing sort missing = str i for i in missing return  join missing 		4 12

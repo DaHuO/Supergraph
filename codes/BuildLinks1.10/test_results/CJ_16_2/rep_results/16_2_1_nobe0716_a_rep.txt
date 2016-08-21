@@ -1,0 +1,2 @@
+match_chr c r chr 		19 23
+def reduce 		13 16

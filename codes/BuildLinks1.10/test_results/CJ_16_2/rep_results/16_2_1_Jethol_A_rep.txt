@@ -1,0 +1,3 @@
+strtoarray nummat nbnum nbnum = casedata b 		35 47
+strtoarray s a = 		20 25
+def parse t = int sys 		49 57

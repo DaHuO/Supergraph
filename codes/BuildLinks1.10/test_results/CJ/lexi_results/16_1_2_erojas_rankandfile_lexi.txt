@@ -1,0 +1,6 @@
+def __init__ self casenumber caseinfo self number = casenumber self params = caseinfo 		33 35
+def getnextcase self case_lines = 2 * int self lines self lastline - 1 case_info = start_offset = self lastline + 1 end_offset = self lastline + case_lines + 1 for i in range start_offset end_offset case_info append self lines i self lastline = self lastline + case_lines + 1 return case_info 		21 29
+def __init__ self filename self filename = filename 		9 10
+def getcases self return self cases 		18 19
+def read self with open self filename r as f self lines = f readlines self lines = line strip for line in self lines self cases = int self lines 0 		12 16
+def solve self result = count = for i in range 0 len self params numbers = self params i split for j in range 0 len numbers key = int numbers j if count get key count key = count key + 1 else count key = 1 count_items = sorted count items for i in range 0 len count_items height n = count_items i if n % 2 != 0 result = result +  + str height return case # + str self number + : + result 		37 55

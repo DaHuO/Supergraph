@@ -1,0 +1,2 @@
+def solve self case positions = range 1 case + 1 return  join str i for i in positions 		10 12
+def read_case self input_file line = input_file readline strip length complexity positions = line split  return int length 		5 8

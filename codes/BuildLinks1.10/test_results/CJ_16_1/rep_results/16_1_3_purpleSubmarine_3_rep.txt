@@ -1,0 +1,1 @@
+def mytry step cur start global g h ans visited n lst if step > n + 1 return if step > 1 and cur == start if ans < step - 1 ans = step - 1 return if step == 1 nxt = g cur if g nxt 		7 75

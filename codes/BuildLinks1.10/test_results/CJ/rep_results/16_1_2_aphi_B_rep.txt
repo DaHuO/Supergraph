@@ -1,0 +1,1 @@
+def solve elements counts = defaultdict int 		5 18

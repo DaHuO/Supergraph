@@ -1,0 +1,1 @@
+b-large.out main with open b-large.in as in_file with open w as fout cases = int in_file readline for 		5 24

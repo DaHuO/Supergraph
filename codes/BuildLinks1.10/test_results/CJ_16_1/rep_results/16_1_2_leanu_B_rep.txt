@@ -1,0 +1,1 @@
+def lista n m u = for i in m 		1 15

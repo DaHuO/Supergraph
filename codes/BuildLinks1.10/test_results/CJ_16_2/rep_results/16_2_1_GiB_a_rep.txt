@@ -1,0 +1,10 @@
+fichier fichier read_elements 		78 81
+resalgo 		38 40
+property 		85 86
+property 		83 84
+frac 		89 90
+def decr_let d i if d 		12 18
+read_elements lines 		73 75
+property 		87 88
+resalgo s letter_count = dict number_count = dict for c in s if c in letter_count letter_count c += 1 else letter_count c = 1 for 		3 36
+cmp_f 0.00000001 y epsilon = if - epsilon 		50 65

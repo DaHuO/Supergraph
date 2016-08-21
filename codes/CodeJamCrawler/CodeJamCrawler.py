@@ -20,6 +20,7 @@ def getRestPage(rest_page_prefix, total_page):
 	results = []
 	page = 1
 	while page <= total_page:
+		print page
 		link = rest_page_prefix + str(page)
 		response = urllib2.urlopen(link)
 		html = response.read()
@@ -33,14 +34,14 @@ def getRestPage(rest_page_prefix, total_page):
 	return results
 
 if __name__ == '__main__':
-	start_page = 'https://www.go-hero.net/jam/16/solutions/4/1/Python'
-	rest_page_prefix = 'https://www.go-hero.net/jam/16/solutions/4/1/Python/partial/'
-	total_rest_page = 2
+	start_page = 'https://www.go-hero.net/jam/16/solutions/4/3/Python'
+	rest_page_prefix = 'https://www.go-hero.net/jam/16/solutions/4/3/Python/partial/'
+	total_rest_page = 0
 	results = []
 	results.extend(getFirstPage(start_page))
 	results.extend(getRestPage(rest_page_prefix, total_rest_page))
 	# print results
-	file_out = open('links.txt', 'w')
+	file_out = open('links_16_4_3.txt', 'w')
 	for link in results:
 		file_out.write(link + '\n')
 	file_out.close()

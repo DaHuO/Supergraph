@@ -1,0 +1,4 @@
+behaj videne_vsetky videne_vsetky dlzka_cyklu = - 1 dlzka_chvosta = - 1 id = n + 1 vstup_do_cyklu 		10 29
+spracujkomponent chvost chvost = for dlzka_chvosta dlzka_cyklu id 		31 41
+spracujstvorice stvorice pole stvorice pole pole spracujkomponent n maximum_cyklus = - 		44 55
+identifikujzaciatky b a = 		4 8

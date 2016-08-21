@@ -1,0 +1,1 @@
+def solve case n = case readint lists = for i in range 2 * 		5 22

@@ -1,0 +1,5 @@
+def distance p1 p2 s = 0 for 		50 55
+generate_neighbors s_word s_word n = for 		14 20
+		11 12
+find_path_from closed_list AStarGrid AStarGrid reconstruct_path closed_list generate_neighbors closed_list tmp_g AStarGrid tmp_g tmp_g AStarGrid start = 0 f start = distance start goal h start 		22 48
+reconstruct_path current_node current_node 		57 60

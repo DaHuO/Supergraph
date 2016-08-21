@@ -1,0 +1,2 @@
+def check s p 		3 7
+def solve t c j = raw_input split l = len c ans = for n in xrange 10 		10 32

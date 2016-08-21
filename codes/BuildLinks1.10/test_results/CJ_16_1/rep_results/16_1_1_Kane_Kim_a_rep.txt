@@ -1,0 +1,1 @@
+def solve inp ret = for 		4 14

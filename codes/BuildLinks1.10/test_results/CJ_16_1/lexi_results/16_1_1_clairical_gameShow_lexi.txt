@@ -1,0 +1,1 @@
+def getstring file n = int file readline for i in range n finalstr = stri = file readline rstrip for s in stri if len finalstr == 0 finalstr = s continue firstletter = finalstr 0 if s >= firstletter finalstr = s + finalstr else finalstr = finalstr + s print case # + str i + 1 + : + finalstr 		7 21

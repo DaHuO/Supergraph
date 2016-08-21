@@ -1,0 +1,4 @@
+haszero haszero haszero haszero isrow idx = false for i in range len grid if isrow if grid idx i == s i pass elif grid idx i == 		3 31
+zz recurse grid rc n rrr ccc if grid == false and len rc == 0 return grid for k in rc yes = false for idx in range n test = check grid k false idx if test 		39 89
+def solve rc n grid = 0 * n for i in range 		93 111
+zz grid for 		33 37

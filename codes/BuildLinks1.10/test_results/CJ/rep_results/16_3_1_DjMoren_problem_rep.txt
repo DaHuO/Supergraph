@@ -1,0 +1,1 @@
+repeated_values repeated_values parties senators abecedary = list ascii_uppercase sol = list while any senators max_value = max senators max_index = senators index max_value if max_value % 2 == 0 senators max_index 		9 40

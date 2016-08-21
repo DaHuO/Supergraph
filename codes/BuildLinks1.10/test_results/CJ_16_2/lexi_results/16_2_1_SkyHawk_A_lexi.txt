@@ -1,0 +1,1 @@
+def sub_letters word letters k for l in word letters l -= word l * k 		7 9

@@ -1,0 +1,1 @@
+def rek x y if ? in x return rek x replace ? str i 1 y for i in range 0 10 if ? in y return rek x y replace ? str j 1 for j in range 0 10 raz = abs int x - int y if raz in d keys tc tj = d raz if tc > x d abs int x - int y = x y elif tc == x and tj > y d abs int x - int y = x y else d abs int x - int y = x y return 0 		2 21

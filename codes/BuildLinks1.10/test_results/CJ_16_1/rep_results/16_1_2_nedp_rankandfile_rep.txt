@@ -1,0 +1,2 @@
+def missing lists odd = 		5 17
+oracle lists result assert 		19 23

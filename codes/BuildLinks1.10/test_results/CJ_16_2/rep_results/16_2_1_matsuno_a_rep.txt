@@ -1,0 +1,2 @@
+FEATURE ALPHA FEATURE ALPHA FEATURE 0 * 10 for c in s for i in 0 2 4 6 8 if c == i cnt i 		6 39
+def main T = int 		41 44

@@ -1,0 +1,10 @@
+def __init__ self filename with open filename r as fichier lines = fichier readlines self data = read_elements lines 		78 81
+property def float self return float next self data 		87 88
+def algo inp n = inp str return resalgo n 		38 40
+property def str self return str next self data 		85 86
+property def int self return int next self data 		83 84
+property def frac self return Fraction float next self data 		89 90
+def decr_let d i if d not in letter_count return None n = letter_count d if n == 0 return None number_count i += n for c in numbers i letter_count c -= n 		12 18
+def read_elements lines for s in lines for i in s split yield i 		73 75
+def resalgo s letter_count = dict number_count = dict for c in s if c in letter_count letter_count c += 1 else letter_count c = 1 for i in range 10 number_count i = 0 numbers = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE def decr_let d i if d not in letter_count return None n = letter_count d if n == 0 return None number_count i += n for c in numbers i letter_count c -= n decr_let Z 0 decr_let W 2 decr_let X 6 decr_let U 4 decr_let F 5 decr_let V 7 decr_let G 8 decr_let O 1 decr_let H 3 decr_let I 9 res = for i in range 10 x = str i for _ in range number_count i res append x return join res 		3 36
+def cmp_f x y epsilon = 0.00000001 if - epsilon <= x - y <= epsilon return True if - epsilon <= x <= epsilon or - epsilon <= y <= epsilon return False return - epsilon <= x - y / x <= epsilon 		50 65

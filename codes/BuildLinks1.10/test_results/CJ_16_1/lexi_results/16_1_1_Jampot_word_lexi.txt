@@ -1,0 +1,1 @@
+def calculate t result = t 0 for i in t 1 if i < result 0 result = result + i else result = i + result return result 		11 21

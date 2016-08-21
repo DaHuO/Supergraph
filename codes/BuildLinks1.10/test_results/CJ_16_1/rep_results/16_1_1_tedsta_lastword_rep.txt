@@ -1,0 +1,2 @@
+def last_word s word = 		5 12
+last_word.py <file> if len sys argv < 2 print 		14 23

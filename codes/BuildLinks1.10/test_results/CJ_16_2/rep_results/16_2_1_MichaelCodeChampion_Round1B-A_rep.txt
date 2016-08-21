@@ -1,0 +1,1 @@
+12 12 n sol = d = 1 n = n 0 S = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE z = n count Z h = n count H six = n count X u = n count U g = n count G w = n count W x = 0 * 15 for i in range len n if n i == E x 0 += 1 if n i == F x 1 		1 123

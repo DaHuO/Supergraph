@@ -1,0 +1,13 @@
+
+With same rare tokens:
+1 - 2 links:
+dkorduban_A	:	36 - 51
+
+4 - 5 links:
+dkorduban_A	:	36 - 51
+
+7 - 36 links:
+mdippel_A	:	57 - 66
+mth_A	:	55 - 83
+fandersen_GCJ	:	109 - 142
+

@@ -1,0 +1,2 @@
+data_iterator SHELL_PIPE_FLAG DATA_FILE_NAME f_handle f_handle xreadlines with open r as line_iter = case_no = int line_iter next for idx in range case_no 		15 35
+case_data case_data cha colnum rownum cha S = 0 c = Counter S num = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE Counter join ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE 		41 89

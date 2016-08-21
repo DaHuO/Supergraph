@@ -1,0 +1,3 @@
+def ensure_consistency row1 row2 out = len i for i in range len row1 if row2 i != - 1 and row1 i != row2 i == 0 return out 		1 3
+def solve lines occurences = for row in lines for el in row if el in occurences occurences el += 1 else occurences el = 1 odd = for el in occurences if occurences el % 2 == 1 odd append el return sorted odd 		9 22
+def update_column arr col i for j in range len col arr j i = col j 		5 7

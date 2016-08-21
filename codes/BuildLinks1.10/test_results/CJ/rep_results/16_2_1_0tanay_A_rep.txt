@@ -1,0 +1,1 @@
+getnumber text letters = list text number = list while z in letters number append 0 for x in zero letters remove x while w in letters number append 2 for x 		1 59

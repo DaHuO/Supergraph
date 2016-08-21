@@ -1,0 +1,2 @@
+nsen nsen nsen senators = 0 total_senators = senators sum plan = list while < total_senators to_evac = 		7 36
+getintlist main ntest = getint for 		49 61

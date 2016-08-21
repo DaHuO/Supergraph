@@ -1,0 +1,2 @@
+def last_word word res = for 		3 12
+def main filename = sys argv 1 with 		16 23

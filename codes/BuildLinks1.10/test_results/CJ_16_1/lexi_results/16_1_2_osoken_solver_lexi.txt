@@ -1,0 +1,1 @@
+def solve l cnt = for r in l for x in r if x not in cnt cnt x = 0 cnt x += 1 res = for k v in cnt items if v % 2 != 0 res append k res sort return  join map str res 		6 18

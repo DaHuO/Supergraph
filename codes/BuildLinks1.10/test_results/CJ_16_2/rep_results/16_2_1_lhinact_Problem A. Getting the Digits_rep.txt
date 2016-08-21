@@ -1,0 +1,2 @@
+deal_input cntmap data_num data_num gtd filename replace .in .out with 		80 89
+gtd instr instr inlist = defaultdict int for x in inlist x += 1 if True while inlist Z > 0 rts append 0 inlist Z -= 1 inlist E -= 1 inlist R -= 1 inlist O -= 1 while inlist W > 0 rts append 2 inlist T 		3 78

@@ -1,0 +1,2 @@
+def is_in string substring temp = string for c in substring if c in temp temp = remove temp c else return False return True 		6 12
+def remove string chr i = string index chr return string i + string i + 1 		14 16

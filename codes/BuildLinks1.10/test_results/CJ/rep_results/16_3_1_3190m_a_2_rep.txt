@@ -1,0 +1,1 @@
+def calc n ps if n == 2 return  join ab * ps 0 		9 25

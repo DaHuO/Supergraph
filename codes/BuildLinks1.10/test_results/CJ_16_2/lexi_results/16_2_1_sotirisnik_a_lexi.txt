@@ -1,0 +1,4 @@
+def inc n global memo how for i in range 0 27 memo i += how i 		30 33
+def f global memo found final ret if found == True return tmp = 0 for j in range 0 len memo if memo j == 0 tmp += 1 if tmp == len memo found = True ret = for j in range 0 10 if final j > 0 ret += chr ord 0 + j * final j return for i in range 0 10 if has i for k in p i memo ord k - ord A -= 1 final i += 1 f for k in p i memo ord k - ord A += 1 final i -= 1 		41 73
+def er n global memo how for i in range 0 27 memo i -= how i 		25 28
+def has n global memo how how = 0 * 27 for k in range 0 len p n how ord p n k - ord A += 1 for k in range 0 27 if how k > 0 if memo k < how k return False return True 		9 23

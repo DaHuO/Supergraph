@@ -1,0 +1,1 @@
+def last_word s s1 = s 0 s = s 1 while len s > 0 c = s 0 s = s 1 if s1 0 > c s1 = s1 + c else s1 = c + s1 return s1 		1 12

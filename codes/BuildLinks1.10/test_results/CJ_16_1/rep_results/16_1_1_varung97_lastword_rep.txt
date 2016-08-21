@@ -1,0 +1,1 @@
+def lastword word ans = 		3 10

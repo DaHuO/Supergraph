@@ -1,0 +1,3 @@
+def solve s ctr = counter chain from_iterable s return sorted x for x c in ctr items if c % 2 == 1 		35 39
+def less t u return all ti < ui for ti ui in zip t u 		67 68
+def main for i in range int input n = int input s = tuple int x for x in input strip split for _ in range n * 2 - 1 ans =  join map str solve s print case #%d: % i + 1 ans 		3 30

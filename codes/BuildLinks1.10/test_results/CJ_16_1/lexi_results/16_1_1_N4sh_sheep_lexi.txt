@@ -1,0 +1,2 @@
+def inputdissect s lines = s split \n inputcnt = int lines pop 0 for offset in xrange inputcnt y = reorder lines offset print case #%d: % offset + 1 y 		13 18
+def reorder word s = list word new = for idx in range 1 len s if s idx >= s 0 tmp = s pop idx s = tmp + s return join s 		4 11

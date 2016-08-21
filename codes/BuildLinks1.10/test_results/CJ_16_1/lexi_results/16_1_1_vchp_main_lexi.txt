@@ -1,0 +1,1 @@
+def getwinninganswer s ans = for c in s if len ans == 0 ans += c continue if c < ans 0 ans = ans + c else ans = c + ans return ans 		3 13

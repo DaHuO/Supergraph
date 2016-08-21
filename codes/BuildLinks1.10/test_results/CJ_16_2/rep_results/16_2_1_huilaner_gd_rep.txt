@@ -1,0 +1,5 @@
+getNum rstStr rstStr rstStr sorted s digitList 		21 30
+def readFile 		6 12
+def helper s digitList rst if not s return True for i in range 0 10 num 		32 65
+r+ rfile r+ name: testNum testTotal: testNum testNum getNum rfile sys argv 2 		71 82
+def digitList 		14 15

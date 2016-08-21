@@ -1,0 +1,2 @@
+def match s n x = str n while len x < len s x = 0 + x for i in xrange len s if not s i == ? or s i == x i return false return true 		3 10
+def solve c j = raw_input split l = len c min_ = 1000 0 0 for i in xrange 10 ** l if not match c i continue for j in xrange 10 ** l if not match j j continue if min_ 0 > abs i - j min_ = abs i - j i j c j = str min_ 1 str min_ 2 while len c < l c = 0 + c while len j < l j = 0 + j if l != len c or l != len j print hogeeee return c +  + j 		12 31

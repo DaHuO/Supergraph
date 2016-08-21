@@ -1,0 +1,7 @@
+		11 11
+def 		10 10
+def bffs b 		56 59
+def main t 		62 66
+		9 9
+		8 8
+mch mch mch n = rd1int b = rdints assert len b == n b = b - 1 for b in b mcy = 0 cl = t = for i in range n j 		15 47

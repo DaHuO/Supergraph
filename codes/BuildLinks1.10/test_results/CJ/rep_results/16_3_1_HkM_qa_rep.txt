@@ -1,0 +1,2 @@
+def arrange n l a a1 		4 12
+def f n l1 a if sum l1 == 		14 23

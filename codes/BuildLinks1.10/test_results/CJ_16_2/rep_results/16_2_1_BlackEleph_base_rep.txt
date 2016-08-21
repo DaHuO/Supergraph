@@ -1,0 +1,3 @@
+number_of_cases number_of_cases self filename input_file = open filename r output_file 		5 12
+abstractmethod 		14 16
+abstractmethod 		18 20

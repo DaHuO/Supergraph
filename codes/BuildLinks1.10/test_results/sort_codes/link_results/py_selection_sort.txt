@@ -1,4 +1,5 @@
+Direct links:
 5 - 15 links:
 graphsort	:	30 - 45
-graphsort	:	30 - 45
+py_bubble_sort	:	6 - 12
 

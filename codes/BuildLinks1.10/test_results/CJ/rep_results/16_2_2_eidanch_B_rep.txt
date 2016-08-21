@@ -1,0 +1,4 @@
+def realize c if len c == 0 yield 0 		8 17
+def main t = int 		32 36
+leading_zeros s 		19 20
+scorelen best_key best_key best_key best_key leading_zeros scorelen leading_zeros scorelen 10 len 		22 30

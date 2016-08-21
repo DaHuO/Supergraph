@@ -1,44 +1,27 @@
+Direct links:
+46 - 59 links:
+bubble_sort_with_flag	:	7 - 17
+
+
+With same rare tokens:
 31 - 44 links:
 test_sorts	:	50 - 74
 
 136 - 152 links:
-sortable	:	65 - 81
+test_sorts	:	50 - 74
 
 79 - 98 links:
 test_sorts	:	50 - 74
 
-226 - 242 links:
-test_sorts	:	50 - 74
-
 46 - 59 links:
-cocktail_shaker_sort	:	48 - 89
-bubble_sort_with_flag	:	7 - 17
-bubble_sort	:	7 - 15
-cocktailsort	:	2 - 21
-sorting_algorithms	:	1 - 22
-py_bubble_sort	:	6 - 12
-cocktail_shaker_sort	:	14 - 45
-sorter	:	33 - 40
 test_sorts	:	50 - 74
 
 162 - 183 links:
-test_sorts	:	50 - 74
-
-379 - 394 links:
-sorts	:	46 - 65
-
-208 - 224 links:
-test_sorts	:	50 - 74
-
-185 - 206 links:
-test_sorts	:	50 - 74
+test_sorts	:	19 - 26
 
 61 - 77 links:
 test_sorts	:	50 - 74
 
-244 - 264 links:
-test_sorts	:	50 - 74
-
 122 - 134 links:
-sortable	:	65 - 81
+test_sorts	:	50 - 74
 

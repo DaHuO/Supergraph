@@ -1,0 +1,1 @@
+def get_last_word word if len word == 		3 12

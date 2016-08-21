@@ -1,0 +1,4 @@
+def hasmajority members total = sum members for member in members if member > total / 2 return true return false 		27 34
+def maxindex members index = 0 biggest = max members for member in members if biggest == member return index index += 1 		36 44
+def solve numparties members members = int i for i in members split emptymembers = 0 for _ in members tochar = ord a previous = members results = while previous != emptymembers result = index = maxindex previous result += chr tochar + index previous index -= 1 if previous != emptymembers temp = i for i in previous index = maxindex temp temp index -= 1 if not hasmajority temp result += chr tochar + index previous index -= 1 results += result +  return results strip 		1 25
+def search input_d result d for letter in d if letter in input_d and input_d letter > 0 occurrance = input_d letter word = d letter for w in word input_d w -= occurrance if word in result result word += occurrance else result word = occurrance 		46 58

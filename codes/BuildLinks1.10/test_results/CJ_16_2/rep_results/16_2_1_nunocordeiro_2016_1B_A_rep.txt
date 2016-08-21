@@ -1,0 +1,10 @@
+classmethod def 		70 73
+gcj token gcj #34: gcj writefile 		115 124
+writefile def cls 		75 78
+tokens identity token 		60 66
+whitespace isspace cls line = None while 		37 47
+identity b'\r\n' line 		27 30
+token identity whitespace isspace = cls line = cls 		49 58
+EOFError def _read_line cls if 		16 25
+identity def splitline 		32 35
+gcj token S = str numbers = 0 * 10 numbers 0 = S count Z numbers 2 = S count W numbers 4 = S count U numbers 3 = 		81 112

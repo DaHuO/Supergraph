@@ -1,0 +1,1 @@
+def thing s d = 0 zero z 6 six x 8 eight g 2 two w 7 seven s 5 		3 24

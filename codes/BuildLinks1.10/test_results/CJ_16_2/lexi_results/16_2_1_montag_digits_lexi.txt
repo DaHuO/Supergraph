@@ -1,0 +1,10 @@
+def read_int f b = 10 return int read_word f b 		16 17
+def enumeration_solver T S = None num = while len S > 0 if S find Z != - 1 num append 0 S = S replace Z 1 S = S replace E 1 S = S replace R 1 S = S replace O 1 continue if S find X != - 1 num append 6 S = S replace S 1 S = S replace I 1 S = S replace X 1 continue if S find W != - 1 num append 2 S = S replace T 1 S = S replace W 1 S = S replace O 1 continue if S find U != - 1 num append 4 S = S replace F 1 S = S replace O 1 S = S replace U 1 S = S replace R 1 continue if S find F != - 1 num append 5 S = S replace F 1 S = S replace I 1 S = S replace V 1 S = S replace E 1 continue if S find V != - 1 num append 7 S = S replace S 1 S = S replace E 1 S = S replace V 1 S = S replace E 1 S = S replace N 1 continue if S find O != - 1 num append 1 S = S replace O 1 S = S replace N 1 S = S replace E 1 continue if S find N != - 1 num append 9 S = S replace N 1 S = S replace I 1 S = S replace N 1 S = S replace E 1 continue if S find G != - 1 num append 8 S = S replace E 1 S = S replace I 1 S = S replace G 1 S = S replace H 1 S = S replace T 1 continue if S find H != - 1 num append 3 S = S replace T 1 S = S replace H 1 S = S replace R 1 S = S replace E 1 S = S replace E 1 continue num sort return Case #%d: %s\n % T join str t for t in num 		46 145
+def read_digits f b = 10 return int x b for x in read_letters f 		22 23
+def read_word f return next f strip 		13 14
+def read_floats f d =  return float x for x in read_words f d 		31 32
+def read_words f d =  return read_word f split d 		25 26
+def read_ints f b = 10 d =  return int x b for x in read_words f d 		28 29
+def read_arr f R reader = read_ints * args ** kwargs return reader f * args ** kwargs for i in range R 		34 35
+def read_letters f return list read_word f 		19 20
+def main_reader T f S = read_word f return T T S S 		39 41

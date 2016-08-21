@@ -1,0 +1,1 @@
+strBuilt strBuilt strBuilt = counts = 0 for x in range 10 mapx = mapx Z = 0 mapx W = 0 mapx U = 0 mapx X = 0 mapx G = 0 mapx H = 0 mapx F = 0 mapx S = 0 mapx O = 0 mapx I = 0 for i in range len n if mapx has_key n i mapx n i += 1 else mapx n i = 1 counts 0 		6 101

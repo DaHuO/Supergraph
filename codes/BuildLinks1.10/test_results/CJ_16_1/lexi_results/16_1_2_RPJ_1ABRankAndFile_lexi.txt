@@ -1,0 +1,1 @@
+def getmissinglst lst outlst = for i in lst if i in outlst outlst remove i else outlst append i return sorted int i for i in outlst 		1 8

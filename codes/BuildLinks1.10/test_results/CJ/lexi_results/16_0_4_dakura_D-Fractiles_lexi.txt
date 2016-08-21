@@ -1,0 +1,1 @@
+def solve k c s answers = for i in range k answers append k ** c - 1 * i + 1 if len answers > s return impossible return  join map str answers 		5 13

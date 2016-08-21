@@ -1,0 +1,3 @@
+def index tile_inds k c res = 1 power = c - 1 for ind in tile_inds res += k ** power * ind power -= 1 return res 		4 10
+def readfile f result = with open f as handle t = int handle readline for t in range t s = map int handle readline split  result append s return result 		13 20
+def solve k c s if s < math ceil k / float c return impossible indices_list = for i in range s indices = range c * i c * i + 1 indices = i for i in indices if i < k if len indices > 0 if len indices < c indices += 0 * c - len indices indices_list append indices final_list = map lambda x index x k c indices_list return  join map str final_list 		28 41

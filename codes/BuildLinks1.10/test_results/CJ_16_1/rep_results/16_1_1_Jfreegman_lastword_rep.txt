@@ -1,0 +1,2 @@
+getwords lastword t lines = open t 		11 17
+getwords line winner = line 0 		4 9

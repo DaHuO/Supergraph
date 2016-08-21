@@ -1,0 +1,2 @@
+def read_int return int raw_input 		3 4
+def solve s ret = s 0 for i in s 1 if i >= ret 0 ret = i + ret else ret = ret + i return ret 		6 13

@@ -1,0 +1,2 @@
+def construct l s if s == return 		5 14
+def lastword s l = s 0 		17 26

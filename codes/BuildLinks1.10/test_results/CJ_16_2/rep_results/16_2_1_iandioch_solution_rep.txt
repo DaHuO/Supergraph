@@ -1,0 +1,2 @@
+def get s counts = for c in s if c in counts counts c += 1 else counts c = 1 nums = 0 for i in xrange 10 while X in counts and counts X > 0 counts = rem counts SIX nums 6 		11 56
+def rem d 		5 9

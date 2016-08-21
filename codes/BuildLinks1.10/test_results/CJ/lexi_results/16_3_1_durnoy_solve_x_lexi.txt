@@ -1,0 +1,3 @@
+def calc nums q = - x i for i x in enumerate nums heapq heapify q r = while q action = x = heapq heappop q action += idx2chr x 1 if x 0 < - 1 heapq heappush q x 0 + 1 x 1 if q x = heapq heappop q if len q == 1 and x 0 == - 1 heapq heappush q x else action += idx2chr x 1 if x 0 < - 1 heapq heappush q x 0 + 1 x 1 r append action return r 		9 29
+def main f = sys stdin if len sys argv > 1 f = open sys argv 1 rt t = int f readline strip for case_id in range 1 t + 1 n = int f readline strip nums = map int f readline strip split assert n == len nums {} != {} format n len nums r = calc nums r_str =  join r print str format case #{}: {} case_id r_str 		31 46
+def idx2chr idx return chr ord a + idx 		6 7

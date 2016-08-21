@@ -1,0 +1,3 @@
+idx2chr idx2chr nums q = - x i for i x in enumerate nums heapq heapify q r = 		9 29
+r_str r_str f = sys stdin if len sys argv > 1 f = open 		31 46
+idx2chr 		6 7

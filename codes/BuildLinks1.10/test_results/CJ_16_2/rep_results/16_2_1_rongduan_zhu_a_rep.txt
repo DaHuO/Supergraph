@@ -1,0 +1,4 @@
+hash_empty letters_hash for 		67 71
+try_make digit_char digit_char char in 		59 65
+hash_empty result_current try_make int_char result_current result_current result_current True for i in xrange 		41 57
+cur_case cur_case cur_case with open file as f f readline = 		17 39

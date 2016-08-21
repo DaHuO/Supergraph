@@ -1,0 +1,1 @@
+def get_final_word letters word = letters 0 if len letters == 1 return word for letter in letters 1 if letter >= word 0 word = letter + word else word = word + letter return word 		1 11

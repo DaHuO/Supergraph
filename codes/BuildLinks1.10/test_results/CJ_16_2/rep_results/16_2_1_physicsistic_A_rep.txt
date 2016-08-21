@@ -1,0 +1,2 @@
+io #{n}: {y} ======================================================= open filename split . 0 + .out 		132 141
+def solve S A = dict for c in S if c in A A c += 1 else A c = 1 print A answer = if Z in A n = A Z for k v in P 0 iteritems A k -= n * v if A k == 0 A pop k None answer extend 0 * n if W in A n = A W for k v in P 2 iteritems 		28 130

@@ -1,0 +1,2 @@
+def getDigits word for digit in digits while digit 2 in word yield digit 0 for c in digit 1 idx = word find c if idx < 0 raise Exception Failed to find: + c + in + word word = word idx + word idx + 1 		20 28
+def solveIt word def getDigits word for digit in digits while digit 2 in word yield digit 0 for c in digit 1 idx = word find c if idx < 0 raise Exception Failed to find: + c + in + word word = word idx + word idx + 1 result = list getDigits word return sorted result 		17 30

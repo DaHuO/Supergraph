@@ -1,0 +1,1 @@
+testing test n ma b curr l print n ma b curr l if curr >= n return false if b if curr >= 1 if ma 0 curr - 1 == 0 return false for i in range n if i >= 1 and ma i - 1 curr > 0 and ma i - 1 		8 45

@@ -1,0 +1,4 @@
+A-large.in.txt output_format case_total str_to_int case_total output_format out = Case #{0}: {1}\n results 		97 117
+def solve line digit_num = 0 * 10 letter = dict for x in line letter x = letter get x 0 + 1 num = letter get Z 0 if num != 0 digit_num 0 = num letter Z -= num letter E -= num letter R -= num letter O -= num num = letter get X 0 if num != 0 digit_num 6 = 		6 95
+str_to_int 		123 124
+str_to_int_list delimiter delimiter 		127 128

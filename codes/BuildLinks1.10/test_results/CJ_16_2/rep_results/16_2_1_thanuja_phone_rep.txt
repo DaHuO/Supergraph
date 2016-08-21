@@ -1,0 +1,4 @@
+ALLLETTERS removeChars ALLLETTERS 		26 29
+removeChars ALLLETTERS ALLLETTERS numC numC inputString for 		14 24
+natural_sort isdigit alphanum_key ([0-9]+) alphanum_key text 		9 12
+digitsSorted natural_sort digitsSorted digitsAll = numDigits newString = processString inputString Z ZERO str1 = 0 * numDigits digitsAll = digitsAll + str1 numDigits newString = processString newString X SIX str1 = 6 * numDigits digitsAll 		31 79

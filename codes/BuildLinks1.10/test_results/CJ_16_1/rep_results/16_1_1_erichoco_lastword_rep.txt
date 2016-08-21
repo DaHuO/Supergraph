@@ -1,0 +1,3 @@
+		33 34
+please provide [outputfile] failed failed testcasenumber testcasenumber 2 print input file print usage: %s inputfile % sys argv 0 return timestart = datetime datetime now try inputfile = open sys argv 1 except print to 		36 134
+s_list s_list ans = for c 		14 29

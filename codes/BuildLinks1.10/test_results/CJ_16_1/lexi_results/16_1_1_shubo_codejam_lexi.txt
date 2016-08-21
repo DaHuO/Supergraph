@@ -1,0 +1,2 @@
+def main if len sys argv < 2 sys exit usage: %s [input] % sys argv 0 if not os path exists sys argv 1 sys exit input file %s does not exist! % sys argv 1 with open sys argv 1 as f lines = f readlines t = int lines 0 inputs = map lambda l l split  lines 1 solve t inputs 		19 31
+def solve t inputs for t in xrange t s = map lambda s s strip inputs t s_out = s 0 for i in xrange 1 len s if ord s i >= ord s_out 0 s_out = s i + s_out else s_out += s i print case #%d: %s % t + 1 s_out 		4 16

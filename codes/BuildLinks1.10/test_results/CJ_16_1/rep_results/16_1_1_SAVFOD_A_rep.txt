@@ -1,0 +1,2 @@
+sb sb c s_copy = 		1 6
+def solve s new_word = 		8 15

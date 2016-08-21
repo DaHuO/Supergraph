@@ -1,0 +1,3 @@
+getelementstocheck lengthoriginalsequence elementstocheck pointstocheck curpoint lengthoriginalsequence curpoint curpoint pointstocheck curpoint 		15 28
+pointtonumber point lengthoriginalsequence point 		9 13
+lengthoriginalsequence elementstocheck getelementstocheck lengthoriginalsequence elementstocheck stdin readline 		30 34

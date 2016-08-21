@@ -1,0 +1,1 @@
+senate_evacuation pis pis pis pis last_one last_one last_one = n = len pis_tuppled = for i in range n pis_tuppled append i i while sum_pis > 2 pis_tuppled sort key = lambda 		5 40

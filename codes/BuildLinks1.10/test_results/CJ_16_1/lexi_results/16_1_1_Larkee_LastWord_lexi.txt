@@ -1,0 +1,1 @@
+def last_word string final_word = string 0 for char in string 1 if alpha final_word 0 <= alpha char final_word = char + final_word else final_word += char return final_word 		6 13

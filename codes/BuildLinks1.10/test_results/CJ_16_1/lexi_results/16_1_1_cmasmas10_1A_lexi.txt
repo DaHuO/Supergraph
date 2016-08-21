@@ -1,0 +1,1 @@
+def get_last_word s new_word = deque new_word append s 0 first_letter = s 0 for i in xrange 1 len s if first_letter > s i new_word append s i else new_word appendleft s i first_letter = s i return join new_word 		4 16

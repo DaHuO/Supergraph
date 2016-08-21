@@ -1,0 +1,3 @@
+evacuation_plan solve filename with open filename as f 		3 10
+evacuation_plan parties_senators parties_senators evacuation_step = 0 letters = iter 		33 46
+evacuation_step selected2 selected2 selected2 selected2 key = lambda x x 1 reverse = true selected = parties 		12 31

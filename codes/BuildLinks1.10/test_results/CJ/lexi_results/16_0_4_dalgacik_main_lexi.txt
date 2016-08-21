@@ -1,0 +1,1 @@
+def solve_case k c s if s < k return not implemented b = k ** c ls = range 1 b + 1 b / s return  join map str ls 		8 14

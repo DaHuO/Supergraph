@@ -1,0 +1,1 @@
+def solve i num = l = collections Counter i lower while l z > 0 l = l - collections Counter zero num append 0 while l w > 0 l = 		2 36

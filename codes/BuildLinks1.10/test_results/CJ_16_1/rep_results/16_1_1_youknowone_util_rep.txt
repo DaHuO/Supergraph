@@ -1,0 +1,12 @@
+list_input str_values str_values str_values 		18 23
+plain {}x{} self debug format self size 		57 61
+__setitem__ self coord item 		52 55
+float_input 		14 16
+floatlist_input 		28 29
+def __init__ self size 		43 45
+def print_case idx fmt * 		35 40
+int_input 		10 12
+intlist_input 		25 26
+__getitem__ self coord r 		47 50
+def loop 		31 33
+def debug 		6 8

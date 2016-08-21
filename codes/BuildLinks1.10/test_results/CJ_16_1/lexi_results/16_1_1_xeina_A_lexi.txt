@@ -1,0 +1,5 @@
+def returnoutput self result = self answer return result 		29 34
+def create_word starting_string new_string = starting_string 0 starting_string = starting_string 1 for char in starting_string if char < new_string 0 new_string = new_string + char else new_string = char + new_string return new_string 		50 58
+def takeinput self content self s = content 0 strip 		21 26
+def find_num_line self if line_per_case return line_per_case else line = inputfile readline return 		11 19
+def compute self self answer = create_word self s 		36 42

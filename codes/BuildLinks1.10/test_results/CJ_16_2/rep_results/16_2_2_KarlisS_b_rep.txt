@@ -1,0 +1,3 @@
+solveTest solve T = int 		63 68
+solveTest trySolve J ans = INF 		52 60
+trySolve NUMBER NUMBER tans2 tans2 = for i in range n if c i == ? and j i == ? ac append 0 elif c i == ? ac append j i elif j i == ? 		7 50

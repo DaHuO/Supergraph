@@ -1,0 +1,1 @@
+def solve cn k c s = map int raw_input strip split  		7 23

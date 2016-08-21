@@ -1,0 +1,4 @@
+sindex n l i max = - 		3 10
+def possible n l i if l 		11 19
+ipossible n l i x if l i < 1 		21 32
+sindex ipossible n l count = sum l out = while count > 0 i = l index max l 		35 59

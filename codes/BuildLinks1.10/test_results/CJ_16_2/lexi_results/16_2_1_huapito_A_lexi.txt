@@ -1,0 +1,1 @@
+def solve s r = for ddict in d1 d2 d3 for key in ddict while key in s value = ddict key for l in value s = s replace l 1 r append dd value return join str x for x in sorted r 		7 16

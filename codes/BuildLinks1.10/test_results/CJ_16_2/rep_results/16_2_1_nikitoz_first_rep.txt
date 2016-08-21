@@ -1,0 +1,2 @@
+def set_known l1 mp lst num res n = 0 		8 19
+def solve lt mp = nm = 0 res = for l in lt if l in mp mp l = mp l 		21 47

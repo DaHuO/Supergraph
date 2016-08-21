@@ -1,0 +1,3 @@
+def read file with open 		1 5
+add_line file 		6 8
+alph find_digits s counts = dict zip 0 * 26 for l in s counts l += 1 n = dict zip range 0 10 0 * 10 if counts Z > 0 n 0 = counts Z counts O -= counts Z counts R -= counts Z counts E -= counts Z counts Z = 0 if counts W > 0 n 2 = counts W 		21 89

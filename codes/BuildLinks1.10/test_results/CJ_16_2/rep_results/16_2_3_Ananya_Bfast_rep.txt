@@ -1,0 +1,4 @@
+is_in_first word topics 		3 7
+cur_topic is_fake cur_topic try1 try1 try2 try1 try2 topics 		18 29
+is_fake cur_topics 		15 16
+is_in_second word topics 		9 13

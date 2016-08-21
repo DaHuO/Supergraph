@@ -1,0 +1,1 @@
+def do_it c j a b i if i == len c cache append abs int a - int b int a int b return if c i != ? and j i != ? do_it c j a + c i b + j i i + 1 if c i == ? and j i == ? do_it c j a 		5 33

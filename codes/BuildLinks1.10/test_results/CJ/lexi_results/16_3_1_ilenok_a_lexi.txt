@@ -1,0 +1,1 @@
+def evacuate nparty ns party = chr ord a + nparty res = for i in xrange 0 ns / 2 res += party * 2 +  if ns % 2 == 1 res += party +  return res 		1 8

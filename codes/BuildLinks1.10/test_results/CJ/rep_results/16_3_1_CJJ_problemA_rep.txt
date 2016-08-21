@@ -1,0 +1,5 @@
+.input numberofcases readinput evacuationplan numberofcases 		22 27
+numberofcases numberofcases filename output with open filename 		14 20
+readinput numberofcases numberofcases numberofcases with open filename r as 		4 12
+removeparty nmembers partyplan nmembers 		45 47
+evacuationplan fstind auxsenators fstind fstind scdind auxsenators auxsenators scdind fstind scdind removeparty fstind fstind scdind 		31 43

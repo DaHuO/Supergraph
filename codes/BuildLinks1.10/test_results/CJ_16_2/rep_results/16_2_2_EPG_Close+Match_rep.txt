@@ -1,0 +1,1 @@
+finNodesC finNodesJ finNodesC finNodesJ finNodesC finNodesJ nodesJ = nodesC append C nodesJ append J = = while nodesC node = nodesC pop 0 i = node find ? if i == - 1 append node continue else 		24 70

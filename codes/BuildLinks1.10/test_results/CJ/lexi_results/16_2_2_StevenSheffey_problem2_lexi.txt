@@ -1,0 +1,3 @@
+def max_number regex return int join 9 if c == ? else c for c in regex 		16 17
+def min_number regex return int join 0 if c == ? else c for c in regex 		14 15
+def match regex number number = str number zfill len regex if len regex != len number return false for i r in enumerate regex if r == ? continue elif r != number i return false return true 		3 12

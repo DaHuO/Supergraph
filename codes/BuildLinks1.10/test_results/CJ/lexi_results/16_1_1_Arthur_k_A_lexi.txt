@@ -1,0 +1,1 @@
+def solve v t = v 0 for c in v 1 joined = join t if joined + c < c + joined t insert 0 c else t append c return join t 		8 18

@@ -1,0 +1,2 @@
+executer_calcul entrees n = entrees 0 parties = entrees 1 case = entrees 2 result 		2 16
+def maximum liste maximum 		18 22

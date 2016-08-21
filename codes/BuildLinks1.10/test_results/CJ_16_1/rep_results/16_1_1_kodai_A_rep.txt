@@ -1,0 +1,1 @@
+def solve data list_data = list data ans 		8 16

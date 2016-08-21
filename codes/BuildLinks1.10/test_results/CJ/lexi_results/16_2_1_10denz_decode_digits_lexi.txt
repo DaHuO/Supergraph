@@ -1,0 +1,4 @@
+def find_digit identifier digit_string char_count amount = char_count identifier / digit_string count identifier for c in digit_string char_count c -= amount return amount 		3 8
+def solve_testcase line digit_count = get_digits line result = for i in range 10 result += str i * int digit_count i return result 		32 38
+def get_digits line digit_count = character_count = counter line digits = x six 6 z zero 0 g eight 8 w two 2 s seven 7 v five 5 f four 4 t three 3 o one 1 n nine 9 for id_ digit_string number in digits digit_count number = find_digit id_ digit_string character_count return digit_count 		10 29
+def main with open large.in as infile infile readline for i line in enumerate infile 1 print case #{}: {} format i solve_testcase line strip 		40 44

@@ -1,0 +1,1 @@
+def rankfile n rows d = for row in rows for num in row try d num += 1 except keyerror d num = 1 odds = for key value in d items if value % 2 == 1 odds append key odds sort odds = str i for i in odds return  join odds 		1 15

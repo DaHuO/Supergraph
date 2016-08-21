@@ -1,0 +1,1 @@
+give_the_word x word res = + word 0 for 		1 9

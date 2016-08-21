@@ -1,0 +1,1 @@
+curr_front 64 curr_front curr_front curr_str = 		6 15

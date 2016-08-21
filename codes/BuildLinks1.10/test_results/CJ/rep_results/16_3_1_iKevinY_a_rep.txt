@@ -1,0 +1,5 @@
+def memoize f cache = 		13 22
+indicies list n 		25 26
+def _mem_fn * 		16 19
+ind_to_senators list 		28 29
+def is_majority senators total_senators 		31 33

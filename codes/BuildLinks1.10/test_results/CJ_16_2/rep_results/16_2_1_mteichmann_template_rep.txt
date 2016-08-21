@@ -1,0 +1,4 @@
+count_char nums_bin line mystring = line count = np zeros 10 dtype 		44 58
+char2 char2 string char amount num_rem = 0 		32 40
+count_char char2 char2 		20 25
+def remove_num string 		27 30

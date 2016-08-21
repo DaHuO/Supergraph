@@ -1,0 +1,1 @@
+def testcase ind n = int raw_input lists = for _ in xrange 2 * n - 1 lists extend map int raw_input split from collections import counter ctr = counter lists res = sorted filter lambda k ctr k % 2 == 1 ctr print case #%d: %s % ind  join map str res 		1 9

@@ -1,0 +1,8 @@
+arrstr a 		45 46
+def 		39 40
+def main fname = a.in if len sys argv > 1 fname = sys 		17 33
+def 		41 42
+fnums return 		37 38
+def solve s = 		7 12
+def 		43 44
+def nums 		35 36

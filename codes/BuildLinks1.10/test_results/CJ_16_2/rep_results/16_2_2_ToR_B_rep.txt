@@ -1,0 +1,4 @@
+format_check tn tn = format_num 		29 36
+def main fname fin = open fname + .in fout 		42 54
+def format_num n 		38 40
+maxC maxJ stop maxC maxJ format_check format_check l = len C minC = int C replace ? 0 = int C replace ? 		1 27

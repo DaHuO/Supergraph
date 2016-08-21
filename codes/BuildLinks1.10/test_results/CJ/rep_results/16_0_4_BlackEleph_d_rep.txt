@@ -1,0 +1,2 @@
+def solve self 		10 12
+def read_case self 		5 8

@@ -1,0 +1,66 @@
+casos = int(input())
+for n in range(1,casos+1):
+   tel = []
+   string = str(input())
+   while 'Z' in list(string):
+        string = string.replace('Z','',1)
+        string = string.replace('E','',1)
+        string = string.replace('R','',1)
+        string = string.replace('O','',1)
+        tel.append('0')
+   while 'W' in list(string):
+        string = string.replace('W','',1)
+        string = string.replace('T','',1)
+        string = string.replace('O','',1)
+        tel.append('2')
+   while 'U' in list(string):
+        string = string.replace('U','',1)
+        string = string.replace('F','',1)
+        string = string.replace('O','',1)
+        string = string.replace('R','',1)
+        tel.append('4')
+   while 'X' in list(string):
+        string = string.replace('X','',1)
+        string = string.replace('S','',1)
+        string = string.replace('I','',1)
+        tel.append('6')
+   while 'G' in list(string):
+        string = string.replace('G','',1)
+        string = string.replace('E','',1)
+        string = string.replace('I','',1)
+        string = string.replace('T','',1)
+        string = string.replace('H','',1)
+        tel.append('8')
+   while 'F' in list(string):
+        string = string.replace('F','',1)
+        string = string.replace('I','',1)
+        string = string.replace('V','',1)
+        string = string.replace('E','',1)
+        tel.append('5')
+   while 'T' in list(string):
+        string = string.replace('T','',1)
+        string = string.replace('R','',1)
+        string = string.replace('E','',1)
+        string = string.replace('E','',1)
+        string = string.replace('H','',1)
+        tel.append('3')
+   while 'O' in list(string):
+        string = string.replace('E','',1)
+        string = string.replace('O','',1)
+        string = string.replace('N','',1)
+        tel.append('1')
+   while 'I' in list(string):
+        string = string.replace('N','',1)
+        string = string.replace('E','',1)
+        string = string.replace('I','',1)
+        string = string.replace('N','',1)
+        tel.append('9')
+   while 'N' in list(string):
+        string = string.replace('N','',1)
+        string = string.replace('E','',1)
+        string = string.replace('S','',1)
+        string = string.replace('V','',1)
+        string = string.replace('E','',1)
+        tel.append('7')
+   tel.sort()
+   print("Case #{}: ".format(n) + "".join(tel))

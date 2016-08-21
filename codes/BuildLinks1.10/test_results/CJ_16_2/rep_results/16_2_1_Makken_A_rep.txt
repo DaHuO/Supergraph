@@ -1,0 +1,1 @@
+def solve number nr = while len number != 0 if Z in number nr append 0 number remove Z number remove E number remove R number remove O continue elif G in number nr append 8 number remove E number remove I 		1 75

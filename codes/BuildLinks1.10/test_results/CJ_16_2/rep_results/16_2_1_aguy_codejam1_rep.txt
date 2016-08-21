@@ -1,0 +1,1 @@
+def f s s upper l = 0 * 10 l 0 = s count Z l 2 = s count W l 		7 23

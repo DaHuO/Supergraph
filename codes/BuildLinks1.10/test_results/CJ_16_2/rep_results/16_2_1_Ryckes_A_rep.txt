@@ -1,0 +1,1 @@
+accountFor num word definingLetter 		15 20

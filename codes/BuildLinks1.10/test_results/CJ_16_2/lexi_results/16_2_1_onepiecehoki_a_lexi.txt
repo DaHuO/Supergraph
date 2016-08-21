@@ -1,0 +1,1 @@
+def count_char S ccount = collections Counter for c in S ccount c += 1 return ccount 		6 10

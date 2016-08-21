@@ -1,0 +1,3 @@
+phase1 phase2 phase1 phase2 = s 0 slst = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN 		17 32
+read_simple write_simple fin 		34 37
+def extractDigits lst slst phase digits = for 		6 14

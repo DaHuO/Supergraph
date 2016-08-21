@@ -1,0 +1,2 @@
+def solver cases with open codejam-a-large.out w as f for i c in enumerate cases start = 1 f write case #%d: %s % i helper c f close 		1 5
+def helper phr best_phr = phr 0 for ch in phr 1 if ord ch >= ord best_phr 0 best_phr = ch + best_phr else best_phr = best_phr + ch return best_phr 		7 14

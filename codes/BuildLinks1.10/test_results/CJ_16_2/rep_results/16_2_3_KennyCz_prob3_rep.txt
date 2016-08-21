@@ -1,0 +1,1 @@
+lind rind lind rind rind lind Queue Queue side side i 0 not in words 0 words 0 append i 0 if i 1 not in words 1 words 1 append i 1 edges = for i in range len words 0 for i in range len words 1 for i in qr = words 0 		7 63

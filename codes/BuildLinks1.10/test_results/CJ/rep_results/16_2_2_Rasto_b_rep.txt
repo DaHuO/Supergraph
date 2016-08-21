@@ -1,0 +1,3 @@
+def num s 		6 9
+def solve c j n = 		44 47
+def rec c j n i if i == n nc = num c nj = num j q = abs nc - nj return q nc nj z = 10 ** 20 if 		11 42

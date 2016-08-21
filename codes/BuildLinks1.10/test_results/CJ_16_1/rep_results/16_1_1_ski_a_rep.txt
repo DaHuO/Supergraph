@@ -1,0 +1,4 @@
+def solve2 case out = 		20 51
+get_cases %r lines = ln strip for 		59 67
+def solve case variants = case 		10 17
+get_cases lines 		54 56

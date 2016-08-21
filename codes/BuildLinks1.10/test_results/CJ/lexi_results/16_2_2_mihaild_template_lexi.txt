@@ -1,0 +1,9 @@
+def readint return int input 		1 2
+def gen_primes max primes = 1 * max + 1 for i in range 2 max + 1 if primes i for j in range i + i max + 1 i primes j = 0 primes 0 = 0 return x for x in range max + 1 if primes x 		23 30
+def check x t x = enlen x len t return all x i == t i or t i == ? for i in range len t 		49 51
+def enlen x n x = str x return 0 * n - len x + x 		44 46
+def readfloat return float input 		5 6
+def gcd a b while b a b = b a % b return a 		17 20
+def readarray n foo = input return foo for i in range n 		9 10
+def readlinearray foo = int return list map foo input split 		13 14
+def is_prime n i = 3 if not n % 2 return 0 while i * i < n if not n % i return 0 i += 3 return 1 		33 41

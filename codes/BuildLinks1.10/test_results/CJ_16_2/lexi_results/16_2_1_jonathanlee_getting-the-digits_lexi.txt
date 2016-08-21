@@ -1,0 +1,1 @@
+def subtract counter number count subtraction = Counter letters number for letter in subtraction subtraction letter *= count counter -= subtraction return number * count 		21 26

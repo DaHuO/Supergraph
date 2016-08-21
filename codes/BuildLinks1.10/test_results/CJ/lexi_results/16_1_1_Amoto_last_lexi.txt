@@ -1,0 +1,2 @@
+def main n = int stdin readline strip for i in range 1 n + 1 s = stdin readline strip a = s 0 for j in range 1 len s tmp = while len a > 0 and len a - 1 < len s z = a pop tmp append z + s j tmp append s j + z a = tmp a sort print case # + str i + : + a - 1 		19 33
+def booth s s += s f = - 1 * len s k = 0 for j in range 1 len s i = f j - k - 1 while i != - 1 and s j != s k + i + 1 if s j < s k + i + 1 k = j - i - 1 i = f i if i == - 1 and s j != s k + i + 1 if s j < s k + i + 1 k = j f j - k = - 1 else f j - k = i + 1 return k 		2 18

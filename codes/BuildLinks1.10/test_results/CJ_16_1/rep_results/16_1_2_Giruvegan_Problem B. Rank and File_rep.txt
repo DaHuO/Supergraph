@@ -1,0 +1,1 @@
+num_dict num_dict num_dict case_input = defaultdict int ans = for 		4 15

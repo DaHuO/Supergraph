@@ -1,0 +1,1 @@
+def compare a b c a = a b = b for i in xrange 		9 25

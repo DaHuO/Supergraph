@@ -1,0 +1,11 @@
+def 		26 27
+run_sample basestring cls data 		53 59
+def 		20 21
+solve_brute qC qJ qC qJ c_test qC j_test qJ c_test qC j_test qJ + 1 0 0 = C count ? = J count ? if == 		101 135
+elapsed Solved elapsed verbose = False for index case in 		36 45
+def 		141 142
+solve_brute solve 		137 139
+def read_cases self lines = None 		29 34
+classmethod def 		47 51
+solve_wrong self case C J = map list case for pos in range len C c = C pos j = J pos prior 		64 99
+def 		23 24

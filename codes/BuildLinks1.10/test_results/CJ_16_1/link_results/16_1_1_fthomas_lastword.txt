@@ -1,0 +1,23 @@
+Direct links:
+13 - 20 links:
+16_1_1_wilsonhsu_A	:	3 - 10
+16_1_1_nattster_a	:	5 - 13
+16_1_1_Saaber_googleCodeJam2016-round1-A	:	5 - 12
+16_1_1_basitali_LastWord	:	1 - 9
+16_1_1_hwmaltby_last_word	:	4 - 16
+16_1_1_nickbomtempo_problem1a	:	2 - 9
+16_1_1_tedsta_lastword	:	5 - 12
+16_1_1_spruett345_words	:	3 - 10
+16_1_1_rray_solve	:	1 - 8
+16_1_1_DanielCoder_code2	:	13 - 21
+16_1_1_Yaksha_A	:	6 - 20
+16_1_1_dexter2206_lastwords	:	2 - 10
+16_1_1_gauravjs_1	:	1 - 20
+16_1_1_giwon_a	:	12 - 22
+
+
+With same rare tokens:
+1 - 11 links:
+16_1_1_Woodworks_lastword	:	18 - 28
+16_1_1_Woodworks_lastword	:	18 - 28
+

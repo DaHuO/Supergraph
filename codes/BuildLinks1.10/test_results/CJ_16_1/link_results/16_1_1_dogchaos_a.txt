@@ -1,0 +1,24 @@
+Direct links:
+41 - 42 links:
+16_1_2_dogchaos_b	:	51 - 52
+
+33 - 38 links:
+16_1_2_dogchaos_b	:	43 - 48
+
+
+With same rare tokens:
+41 - 42 links:
+16_1_2_dogchaos_b	:	51 - 52
+
+20 - 31 links:
+16_1_2_dogchaos_b	:	30 - 41
+16_1_2_dogchaos_b	:	30 - 41
+
+33 - 38 links:
+16_1_2_dogchaos_b	:	43 - 48
+16_1_2_dogchaos_b	:	43 - 48
+16_1_2_dogchaos_b	:	43 - 48
+16_1_2_dogchaos_b	:	43 - 48
+16_1_3_Zark_CJ201610C	:	74 - 75
+16_1_2_dogchaos_b	:	43 - 48
+

@@ -1,0 +1,2 @@
+def solve s i answer = s 0 for letter in s 1 if answer 0 > letter answer += letter else answer = letter + answer return answer 		5 14
+def output_case i result output = case i + 1 result result print case #%(case)s: %(result)s % output 		16 21

@@ -1,0 +1,4 @@
+mifkad mifkad existing_f existing_s MASK MASK MASK MASK >>= existing_f existing_s lines first = a 0 for a in p second = a 1 for a in p unique = np = for l in p if first 		44 90
+recurse_solve only_to_test only_to_test so_far to_rem_0 to_rem_1 to_rem_0 to_rem_1 recurse_solve so_far so_far to_rem_0 to_rem_1 so_far if r 0 in kuf and r 1 in kus 		11 42
+mifkad x d = 		2 9
+def main num_tests = int raw_input 		97 103

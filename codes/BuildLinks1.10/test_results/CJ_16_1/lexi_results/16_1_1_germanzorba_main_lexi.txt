@@ -1,0 +1,1 @@
+def rearrange w s s = w 0 for i in range 1 len w if s 0 > w i s = s + w i else s = w i + s return s 		2 7

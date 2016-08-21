@@ -1,0 +1,2 @@
+def rec_fun w if not w return letter = pos = 0 for i l in enumerate w if l >= letter letter = l pos = i return letter + rec_fun w pos + str w pos + 1 		27 35
+def main f o t = int f readline for t2 in range t n = int f readline counts = ddict int for i l in enumerate f for j in int w for w in l split  counts j += 1 if i == 2 * n - 2 break list_int = for k c in counts items if c % 2 == 1 list_int append k o write case #%d: % t2 + 1 o write  join str k for k in sorted list_int o write \n 		4 19

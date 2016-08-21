@@ -1,0 +1,2 @@
+caseIdx caseIdx t = int raw_input for in 		1 13
+fakableW1s fakableW2s fakableW1s fakableW2s notFakableW1s fakableW1s notFakableW2s fakableW2s notFakableW1s notFakableW2s POPs notFakableW1s notFakableW2s newPOPs POPs assumedOriPairs assumedOriPairs wordToFake wordToFake assumedOriPairs newNode newPOPs newNode wordToFake wordToFake assumedOriPairs newNode newPOPs newNode POPs newPOPs w2 if w1 in w1ToPair w1ToPair w1 append i else w1ToPair w1 = i if w2 in w2ToPair w2ToPair w2 append i else w2ToPair 		15 138

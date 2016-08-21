@@ -1,0 +1,1 @@
+def get_min_last_word s last_word = for si in s if len last_word > 0 and si < last_word 0 last_word += si else last_word = si + last_word return last_word 		3 10

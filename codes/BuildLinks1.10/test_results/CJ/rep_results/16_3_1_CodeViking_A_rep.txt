@@ -1,0 +1,9 @@
+make_fmt formatter 		4 5
+def __init__ self file_name = none verbose = true formatter = 		18 27
+make_seq_fmt sep item_fmt 		8 9
+def 		60 61
+def read_line self * types words 		32 43
+get_evac_seq senators seq = while len senators > 0 senators sort nparties = len senators assert nparties > 1 n0 p0 = senators pop n1 p1 = 		64 100
+def msg 		29 30
+get_evac_seq solve p 		103 105
+def write_case self output pfx_char =  pfx 		46 54

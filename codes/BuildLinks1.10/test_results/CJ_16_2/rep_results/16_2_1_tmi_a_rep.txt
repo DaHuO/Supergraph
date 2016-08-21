@@ -1,0 +1,2 @@
+NINEENNNIENIINNINEEN NOE 012 OZONETOWER 2468 WEIGHFOXTOURIST 		22 28
+letter_per_word count_per_word count_per_word letter_per_word count_per_word input_letters input_letters input_letters input_letters o_string o_string o_string THREE 4 FOUR 5 FIVE 6 SIX 7 SEVEN 8 EIGHT 9 		31 88

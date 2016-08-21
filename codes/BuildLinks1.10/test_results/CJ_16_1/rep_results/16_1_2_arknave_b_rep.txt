@@ -1,0 +1,7 @@
+print_grid grid 		30 32
+insert_col grid x 		8 11
+used_col insert_row next_cands valid_row used_col valid_col insert_row insert_col used_col next_cands next_cands t + 1 n = int input opts = for _ in range 2 * n - 1 opts append int x for x in input split opts sort grid = 		46 97
+def extract grid out = for row 		34 44
+insert_row grid x 		3 6
+valid_row grid x r if all v 		13 19
+valid_col non_zero non_zero non_zero = false 		21 28

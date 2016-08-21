@@ -1,0 +1,3 @@
+verify g k c index l = k ** c for 		21 34
+generatesequence k c l = 2 ** k arr = for i 		3 19
+verify2 numverified numverified numverified = 0 check = false 		36 46

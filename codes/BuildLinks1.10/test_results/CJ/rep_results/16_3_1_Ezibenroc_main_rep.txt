@@ -1,0 +1,1 @@
+def compute parties evacuation = while true step = i = np argmax 		5 20

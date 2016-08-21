@@ -1,0 +1,3 @@
+tile_inds tile_inds k c res 		4 10
+def readfile f result = with 		13 20
+indices_list indices_list indices_list c s if s < math ceil k / float c return impossible 		28 41

@@ -1,0 +1,4 @@
+find_tail_rec max_length find_tail_rec max_length max_length i + 1 for i in 		10 23
+case: [{0}] current_circle circle: current_circle current_circle solution1 two_length_circles two_length_circles tail_len1 find_tail tail_len2 find_tail tail_len1 tail_len2 solution1 test_case 1 split  circles = visited = for i in xrange 		32 70
+find_tail find_tail_rec {0}: max_tail 		25 30
+def finish index 		4 8

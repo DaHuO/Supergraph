@@ -6,5 +6,5 @@ print_solution msg msg msg 		72 76
 def readints 		25 26
 def winner 		62 63
 def okay r p s if r 		31 34
-sss sss n r p s = R 		65 70
-sss rR rP rS spair rR rS rP sss rR rP rS ??? + s == 		40 47
+def solve_case n r p s sss = 		65 70
+rR rP rS spair rR rS rP rR rP rS ??? + p + s == 		40 47

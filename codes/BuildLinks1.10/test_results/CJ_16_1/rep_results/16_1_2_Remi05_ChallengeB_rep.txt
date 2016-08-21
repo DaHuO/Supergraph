@@ -1,0 +1,2 @@
+def solveproblem file n = int file readline vals = for i 		10 22
+formatoutput n result 		6 7

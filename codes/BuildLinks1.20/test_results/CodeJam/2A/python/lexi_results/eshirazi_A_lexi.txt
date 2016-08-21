@@ -1,0 +1,2 @@
+def solve case_index print case_index n = read_int r = read_int p = read_int s = read_int next_line opts = sorted solve_n n p solve_n n r solve_n n s for opt in opts if opt count r == r and opt count s == s and opt count p == p return opt return impossible 		30 43
+def solve_n n top if n == 0 return top if top == p a = p b = r if top == r a = r b = s if top == s a = s b = p a_word = solve_n n - 1 a b_word = solve_n n - 1 b if a_word < b_word return a_word + b_word return b_word + a_word 		8 27

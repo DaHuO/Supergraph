@@ -1,0 +1,4 @@
+999999 999999 t print case #%d: % t + 1 		22 31
+sint sint q = map str range 10 ans = 		6 17
+def form 		19 20
+def main 		34 37

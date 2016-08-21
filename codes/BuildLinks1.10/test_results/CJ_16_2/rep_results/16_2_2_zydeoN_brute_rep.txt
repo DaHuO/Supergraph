@@ -1,0 +1,2 @@
+def brute sC sJ solutions = rec 		24 27
+def rec S ans if S == N = len ans sC = 		7 21

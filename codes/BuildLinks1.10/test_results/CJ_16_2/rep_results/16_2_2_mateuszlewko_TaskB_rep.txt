@@ -1,0 +1,1 @@
+firstBigger firstBigger firstBigger s2 pos for i in xrange 		4 12

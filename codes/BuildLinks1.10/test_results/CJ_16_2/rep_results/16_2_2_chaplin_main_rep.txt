@@ -1,0 +1,4 @@
+		85 86
+problem_2016_1B_B_small finalj finalc wordj wordj wordc wordc finalj wordj finalc wordc finalc finalj raw_input split mindif = 99999 		56 83
+def match word pattern L 		49 54
+problem_2016_1B_B t = int raw_input for case in range t c j = raw_input split equal = 1 ansc = ansj = L = len c cmp = 0 for i in range L if c i 		1 47

@@ -1,0 +1,1 @@
+def f inp k _ 		1 3

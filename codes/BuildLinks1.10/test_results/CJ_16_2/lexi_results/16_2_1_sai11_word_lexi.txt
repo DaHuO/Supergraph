@@ -1,0 +1,1 @@
+def remove spell check num phone = while check in h phone append num for c in list spell h c -= 1 if h c == 0 del h c return phone 		8 18

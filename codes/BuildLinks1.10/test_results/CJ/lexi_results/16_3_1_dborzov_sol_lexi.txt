@@ -1,0 +1,2 @@
+def ind2letter ind return chr ind + 97 upper 		9 10
+def readline return input_data readline rstrip 		6 7

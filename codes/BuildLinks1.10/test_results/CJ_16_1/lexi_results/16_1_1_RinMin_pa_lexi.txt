@@ -1,0 +1,2 @@
+def max_el s bot top big = s bot big_i = bot for i in range bot top if s i >= big big = s i big_i = i return big_i 		3 10
+def spell_word s places = for c in s places append f i = len s - 1 while i > 0 j = max_el s 0 i places j = f for p in range j + 1 i places p = b i = j res = for i in range 0 len s - 1 if places i == f res = s i + res else res = res + s i return res 		12 30

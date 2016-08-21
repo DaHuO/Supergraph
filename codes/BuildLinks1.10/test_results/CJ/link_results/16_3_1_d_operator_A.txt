@@ -1,0 +1,8 @@
+Direct links:
+35 - 38 links:
+16_2_2_d_operator_B	:	43 - 46
+16_1_2_d_operator_B	:	16 - 19
+16_2_1_d_operator_A	:	34 - 37
+16_1_1_d_operator_A	:	16 - 19
+16_0_4_d_operator_D	:	26 - 29
+

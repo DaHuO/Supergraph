@@ -1,0 +1,1 @@
+def rem_num m num n for c in num m c = m c - n 		18 20

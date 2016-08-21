@@ -1,0 +1,2 @@
+googlecodereporter inputfilename 2016_a_small_attempt0.in outputfilename inputfilename outputfilename listout inputfilename samplesize sampleindex samplesize sampleindex wordbuilder listout outputfilename 		118 138
+wordbuilder inputline inputline builtwords wordindex wordindex builtwords wordindex newbuiltwords builtwords tempbuiltwords1 builtwords tempbuiltwords2 builtwords newbuiltwords basealphabet1 tempbuiltwords1 basealphabet1 wordindex 		63 105

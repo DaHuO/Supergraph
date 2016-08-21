@@ -1,0 +1,1 @@
+def findNum words mapping s order = 0 6 4 2 8 5 7 3 9 1 dix = p = 0 * 10 for c in s if c not in dix dix c = 0 dix c = dix c + 1 for index in order while mapping index in dix p index += 1 for val in words index dix val -= 1 if dix val == 0 dix __delitem__ val t = 0 s = for index in range 0 10 t = p index while t > 0 s += str index t -= 1 return s 		27 50

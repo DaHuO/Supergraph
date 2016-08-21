@@ -1,0 +1,3 @@
+def solve S s = sign = sig S assert len digits == 10 for i in range len digits included = True d = digits i while canTake sign d s append order i for c in d keys sign c -= d c for c in sign keys assert sign c == 0 s sort return join map str s 		40 54
+def canTake sign d for c in d keys if not c in sign or sign c < d c return False else return True 		33 38
+def sig S count = for c in S if not c in count count c = 0 count c += 1 return count 		1 7

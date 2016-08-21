@@ -1,0 +1,1 @@
+def process total global parties rlt = while total > 0 		8 21

@@ -1,0 +1,2 @@
+def match s n x = str n 		3 10
+hogeeee solve C J = raw_input split l = len C min_ = 1000 0 0 for i in xrange 		12 31

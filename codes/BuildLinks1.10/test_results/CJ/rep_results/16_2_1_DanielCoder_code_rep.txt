@@ -1,0 +1,6 @@
+getcases parseinput 		65 68
+getoutput solvedcase solvedcase = 		71 75
+def solvecase num num = list num zeroes = num count z for i in range zeroes num remove c for c in zero fours = num count u for i in range fours num remove c for c in four twos = 		6 49
+def 		3 4
+generateoutput getcases solvedcases getoutput solvedcases cases = filename 		77 84
+parseinput text cases = for 		54 62

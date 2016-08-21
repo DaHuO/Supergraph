@@ -1,0 +1,1 @@
+def find_list n lines thing = for line in lines for num 		3 20

@@ -1,0 +1,1 @@
+def main f = open sys argv 1 t = int f 		3 18

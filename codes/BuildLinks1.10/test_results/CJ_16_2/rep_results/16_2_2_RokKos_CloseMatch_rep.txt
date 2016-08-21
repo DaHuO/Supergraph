@@ -1,0 +1,1 @@
+rek rek rek raz raz raz x return x replace ? str i 1 y for i in range 0 		2 21

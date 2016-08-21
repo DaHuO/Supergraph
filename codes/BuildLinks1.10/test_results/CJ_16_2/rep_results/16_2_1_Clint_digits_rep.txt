@@ -1,0 +1,1 @@
+def digits string s = list string words = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE d = 0 numbers = while s count Z > 0 numbers append 0 for c in words 0 s 		1 58

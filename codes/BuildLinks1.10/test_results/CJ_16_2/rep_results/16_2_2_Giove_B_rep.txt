@@ -1,0 +1,1 @@
+def solve a b = sys stdin readline split l = len a assert len a == len b besta = None bestb = None weight = 10 ** l + 2 0 0 aa = x for x in a bb = x for x in b for i in xrange l + 1 for j 		9 90

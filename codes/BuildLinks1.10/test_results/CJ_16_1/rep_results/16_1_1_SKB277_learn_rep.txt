@@ -1,0 +1,2 @@
+def last_word s res = for 		1 11
+def main f = open a-small-attempt0.in r w 		14 24

@@ -1,0 +1,2 @@
+def last_word word new_word = for c in word new_word = insert_letter c new_word return new_word 		10 16
+def insert_letter c word if word == return word + c if c >= word 0 return c + word else return word + c 		1 7

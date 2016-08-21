@@ -1,0 +1,7 @@
+def solve_test test_case n 		110 113
+def check d = c 		25 30
+def main filename test_lst = read_file 		116 120
+extract_sol d t = n = d n for i in xrange n if i in d r 		66 85
+extract_sol process d if len d u == 0 return d else l = d u 		88 107
+csv read_file filename f = open filename csv_r = reader f delimiter 		10 22
+s_row s_row s_row s_col s_col s_col = d n for i in xrange n if i in d r t append d r i else t append none * n 		33 63

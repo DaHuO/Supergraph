@@ -1,0 +1,2 @@
+def brute s out = for i in xrange 0 len s out = islast out + s i s i + out return out 		13 17
+def islast a b for i in xrange 0 len a if a i > b i return a if a i < b i return b return a 		5 11

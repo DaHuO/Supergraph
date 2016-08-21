@@ -1,0 +1,1 @@
+def digits number count = Counter number count = defaultdict int count dcount = dcount 0 = count Z dcount 2 = 		5 21

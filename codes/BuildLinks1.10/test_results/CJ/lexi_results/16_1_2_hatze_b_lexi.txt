@@ -1,0 +1,1 @@
+def main t = int raw_input for i in xrange 1 t + 1 n = int raw_input occurences = for j in range n occurences append 0 for j in range 2 * n - 1 nums = int s for s in raw_input split  for x in nums occurences x += 1 missing = for j in range n if occurences j % 2 != 0 missing append j missingstr = for m in missing missingstr += %i % m print case #%i: % i + missingstr 		3 21

@@ -1,0 +1,4 @@
+def problem_specific_parser src return int e for e in next src split  		5 6
+def solve data k c s = data elements = e + 1 for e in range k offset = k for _ in range 1 c elements = e + idx * offset for idx e in enumerate elements offset *= k return  join str e for e in elements 		9 18
+def parse src lines = iter src split os linesep nproblems = int next lines for problem in range nproblems yield problem_specific_parser lines 		21 26
+def main src = sys stdin read for i data in enumerate parse src print case #{0}: {1} format i + 1 solve data 		29 32

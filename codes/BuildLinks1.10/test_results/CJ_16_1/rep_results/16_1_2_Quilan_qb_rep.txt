@@ -1,0 +1,4 @@
+npossible npossible npossible grid possible if rem == 0 yield grid for index cur in enumerate possible 		46 65
+rnd \t**%s origset origcount origcount origcount \t%s origset origset origset \tnever scanned \t\trow %s\t%s origcount origset 123 \t\tcol %s\t%s origcount origset 123 \t\t** %s\t%s v 0 for v in x for v in x v += 1 for grid in rec n x count 		67 122
+getinput curtype example examplestring %s- curproblem curtype %s-large.in curproblem curtype 		19 30
+outbuf outbuf outbuf buf = buf split \n buf = filter len buf t 		32 44

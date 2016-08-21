@@ -1,0 +1,1 @@
+def run ss f = for k v in enumerate ss z = f k nw = max z + v v + z f append nw return f - 1 		6 12

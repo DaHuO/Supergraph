@@ -1,0 +1,2 @@
+def main t = int 		4 10
+def solve s res = for 		12 22

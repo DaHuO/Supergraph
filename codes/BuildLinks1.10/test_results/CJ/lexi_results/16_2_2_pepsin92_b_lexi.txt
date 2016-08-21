@@ -1,0 +1,1 @@
+def transform nums s s = s format * nums n = len s // 2 a b = s n s n c d = int a int b return abs c - d d c a +  + b 		3 8

@@ -1,4 +1,5 @@
+
+With same rare tokens:
 15 - 20 links:
-merge_sort	:	9 - 15
 radixrsort	:	16 - 20
 

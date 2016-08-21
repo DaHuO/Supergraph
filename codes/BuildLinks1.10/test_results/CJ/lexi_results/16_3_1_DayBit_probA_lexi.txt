@@ -1,0 +1,1 @@
+def solve ns res = esq = sum ns p = sorted n pp i for i n in enumerate ns reverse = true while p 0 0 > 1 if p 0 0 > p 1 0 res append p 0 1 p 0 0 -= 1 else res append p 0 1 + p 1 1 p 0 0 -= 1 p 1 0 -= 1 p = sorted p reverse = true while len p > 2 res append p 0 1 del p 0 res append p 0 1 + p 1 1 return  join res 		22 40

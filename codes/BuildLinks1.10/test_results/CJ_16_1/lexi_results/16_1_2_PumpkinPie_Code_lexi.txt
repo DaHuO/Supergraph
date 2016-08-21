@@ -1,0 +1,1 @@
+def missing listof howmany = x listof count x for x in set listof missarr = for i in range 0 len howmany if howmany i 1 % 2 == 1 missarr append howmany i 0 missarr = sorted missarr missstr =  join str e for e in missarr return missstr 		18 27

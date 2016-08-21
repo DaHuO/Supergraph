@@ -1,0 +1,1 @@
+def solve global l global l2 s = s for s in input n = for i in range len l if len l i == 1 while l i in s n append str i for c in lc i s remove c for i in range len l if len l i == 2 while l i 0 in s and l i 1 in s n append str i for c in lc i s remove c return join sorted n 		4 28

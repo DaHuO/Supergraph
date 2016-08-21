@@ -1,0 +1,4 @@
+def count dstr charcnt 		7 12
+def main T = int sys 		38 43
+vminus digitcnt digitcnt vminus digitcnt dstr charcnt = 0 * 26 for c in dstr i = ord c - ord A charcnt i += 1 return 		5 36
+vminus v u if any 		14 17

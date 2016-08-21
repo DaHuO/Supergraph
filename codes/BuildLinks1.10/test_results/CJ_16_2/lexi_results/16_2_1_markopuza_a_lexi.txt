@@ -1,0 +1,1 @@
+def find x if sum x == 0 return for i in range 10 copy = list x found = True for letter in digs i if copy ord letter - ord A == 0 found = False break else copy ord letter - ord A -= 1 if not found continue rec = find copy if rec == - 1 continue else return i + rec return - 1 		3 23

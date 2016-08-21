@@ -1,0 +1,4 @@
+process_phase phase cfg for marker digits value 		30 36
+def main count = 		52 57
+input_to_cfg process_phase MARKS_1 process_phase MARKS_2 m3 process_phase MARKS_3 		39 50
+input_to_cfg string cfg 		24 28

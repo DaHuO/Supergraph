@@ -1,0 +1,2 @@
+def main t = 		18 21
+def solve s = input ret 		5 16

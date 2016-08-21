@@ -1,0 +1,2 @@
+def solve problem answer = problem = list problem first = z 0 zero w 2 two u 4 four x 6 six g 8 eight second = h 3 three f 5 five third = o 1 one s 7 seven fourth = i 9 nine def unique s for u in s n = problem count u if n > 0 answer append n * s u 0 for l in s u 1 for _ in range n problem remove l unique first unique second unique third unique fourth return join sorted answer 		6 28
+def unique s for u in s n = problem count u if n > 0 answer append n * s u 0 for l in s u 1 for _ in range n problem remove l 		14 21

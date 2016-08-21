@@ -1,0 +1,1 @@
+def work s if len s == 0 return m = max s i = s index m c = s count m return m * c + work s i + s i replace m 		3 9

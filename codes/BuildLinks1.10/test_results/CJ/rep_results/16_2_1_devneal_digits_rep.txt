@@ -1,0 +1,2 @@
+parsedigithelp i s digits if i == 0 s digits = parsedigit i s digits z zero if i == 2 s digits = parsedigit i s 		16 37
+def parsedigit i s digits char string 		4 14

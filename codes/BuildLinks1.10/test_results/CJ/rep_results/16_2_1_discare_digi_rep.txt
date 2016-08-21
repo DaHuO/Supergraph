@@ -1,0 +1,1 @@
+def getdigi nl if len nl == 0 return if z in nl nl remove z nl remove e nl remove r nl remove o cn = 0 cn extend getdigi nl return cn elif w in nl nl remove t nl remove w nl remove o cn = 2 cn 		7 94

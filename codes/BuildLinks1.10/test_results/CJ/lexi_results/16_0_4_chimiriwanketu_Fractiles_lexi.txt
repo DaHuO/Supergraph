@@ -1,0 +1,1 @@
+def fractiles k c s sol = if k == s for i in range 1 k + 1 sol += str i +  else return return sol 		3 10

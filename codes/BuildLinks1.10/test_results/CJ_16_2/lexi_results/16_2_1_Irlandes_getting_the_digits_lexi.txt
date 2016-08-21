@@ -1,0 +1,4 @@
+def letter_counts S result = dict for l in S if l not in result result l = 0 result l += 1 return result 		6 12
+def process_word d letters count = 0 new_letters = letters copy while True for z in d if z not in new_letters return count letters else new_letters z -= 1 if new_letters z <= 0 new_letters pop z letters = new_letters copy count += 1 		14 26
+def output case data print Case #%s: % case data 		3 4
+def solve case_num S result = dict letters = letter_counts S for x in ZERO TWO SIX EIGHT SEVEN FIVE NINE FOUR THREE ONE count letters = process_word x letters result DIGITS x = count if len letters keys > 0 print ERROR result_str = for x in range 10 if str x in result result_str += str x * result str x output case_num result_str 		30 42

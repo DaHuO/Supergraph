@@ -1,0 +1,1 @@
+def main t = int input for i in range t k c s = map int input split if s < k + c - 1 // c print case #%d: impossible % i + 1 else result = case #%d: % i + 1 for j in range k + c - 1 // c t = j * c if t + c - 1 >= k t = k - c x = 0 for k in range c if t + k > 0 x = x * k + t + k result += %d % x + 1 print result 		1 18

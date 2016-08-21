@@ -1,0 +1,5 @@
+def 		9 10
+random_choice s mapping = 0 after 		12 18
+random_choice foo s 		27 33
+def 		6 7
+all_permutations s p mapping = 0 		20 25

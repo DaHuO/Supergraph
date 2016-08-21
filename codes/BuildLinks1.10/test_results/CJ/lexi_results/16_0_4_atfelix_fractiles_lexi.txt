@@ -1,0 +1,2 @@
+def fractile k c s assert s == k return list range 1 k + 1 		1 3
+def main for i in range int input answer = fractile * tuple map int input split print case # + str i + 1 + : +  join str x for x in answer 		5 8

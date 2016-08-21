@@ -1,0 +1,5 @@
+def __init__ self file 		17 21
+def __init__ self file 		6 9
+def put self ans outs = 		24 29
+def run self s word = for 		35 46
+def pop 		11 13

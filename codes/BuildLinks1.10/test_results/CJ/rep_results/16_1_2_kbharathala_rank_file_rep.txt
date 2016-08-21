@@ -1,0 +1,1 @@
+def rank_and_file l dict = final_list = for each in 		1 11

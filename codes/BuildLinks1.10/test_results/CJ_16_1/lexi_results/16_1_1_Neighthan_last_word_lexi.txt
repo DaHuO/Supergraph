@@ -1,0 +1,2 @@
+def find_last_word seq last_word = seq 0 for i in range 1 len seq if last_word 0 <= seq i last_word = seq i + last_word else last_word += seq i return last_word 		22 29
+def main size infile = size + _a.in output = with open infile as file num_cases = int file readline for case in range 1 num_cases + 1 last_word = find_last_word file readline output += case #%s: %s\n % case last_word with open size + _a.out w as outfile outfile write output 		4 19

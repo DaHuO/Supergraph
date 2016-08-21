@@ -1,0 +1,1 @@
+def solve s res = for i in range len s if res + s i < s i + res res = s i + res else res = res + s i return res 		1 8

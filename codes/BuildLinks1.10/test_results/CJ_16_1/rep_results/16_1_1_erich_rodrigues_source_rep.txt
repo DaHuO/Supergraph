@@ -1,0 +1,1 @@
+gera_casos tamanho_entrada tamanho_entrada = = len entrada resposta append 		5 16

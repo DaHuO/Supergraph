@@ -1,0 +1,1 @@
+def sol a if len a == 2 return int sum a / 2 - 1 * ab + ab sol 		1 30

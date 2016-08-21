@@ -1,0 +1,2 @@
+def executer_calcul entrees n = entrees 0 parties = entrees 1 case = entrees 2 result = while sum parties > 0 evac1 = maximum parties parties evac1 = parties evac1 - 1 evac2 = maximum parties if 2 * parties evac2 > sum parties parties evac2 = parties evac2 - 1 result = result +  + chr evac1 + 65 + chr evac2 + 65 else result = result +  + chr evac1 + 65 return result 		2 16
+def maximum liste maximum = 0 for i in range len liste if liste i > liste maximum maximum = i return maximum 		18 22

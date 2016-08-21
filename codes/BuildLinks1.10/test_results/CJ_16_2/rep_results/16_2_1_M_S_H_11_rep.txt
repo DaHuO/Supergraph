@@ -1,0 +1,1 @@
+finder my ans = while my find Z != - 1 my = my replace Z 1 my = my replace E 1 my = my replace R 1 my = my replace O 1 ans append 0 while my find X != - 1 my = my replace S 1 my = my replace I 1 my = my replace X 1 ans append 6 while my find 		3 65

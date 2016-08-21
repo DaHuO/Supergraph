@@ -1,0 +1,28 @@
+Direct links:
+9 - 10 links:
+16_2_1_dpforest_A	:	49 - 51
+16_2_2_dpforest_Bs	:	45 - 47
+16_1_2_dpforest_B	:	29 - 31
+16_3_1_dpforest_A	:	38 - 40
+16_0_4_dpforest_D	:	27 - 29
+
+
+With same rare tokens:
+33 - 35 links:
+16_2_1_bpw1621_gettingTheDigits	:	50 - 52
+16_2_1_bpw1621_gettingTheDigits	:	50 - 52
+16_2_2_Subscheme_B-large	:	14 - 15
+16_2_2_Subscheme_B-large	:	14 - 15
+16_2_1_bpw1621_gettingTheDigits	:	50 - 52
+16_2_1_bpw1621_gettingTheDigits	:	50 - 52
+16_2_2_Subscheme_B-large	:	14 - 15
+16_2_2_Subscheme_B-large	:	14 - 15
+
+18 - 19 links:
+16_2_1_DanielCoder_code	:	65 - 68
+16_2_1_DanielCoder_code	:	77 - 84
+16_2_2_DanielCoder_code2	:	137 - 144
+16_2_2_DanielCoder_code2	:	125 - 128
+16_1_1_DanielCoder_code2	:	40 - 43
+16_1_1_DanielCoder_code2	:	52 - 59
+

@@ -1,0 +1,1 @@
+def f c x a x = b c for i in d x b i -= a x 		3 6

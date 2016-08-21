@@ -1,0 +1,1 @@
+def find_lastword s s = list s d = w = s 0 for x in s if w <= x d insert 0 x w = x else d append x return join d 		6 16

@@ -1,0 +1,1 @@
+def solve stream s = stream readline 		3 11

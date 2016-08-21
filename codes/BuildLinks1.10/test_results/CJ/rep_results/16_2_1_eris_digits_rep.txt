@@ -1,0 +1,3 @@
+findoccurences s ch 		20 21
+def main with open sys argv 1 r as f src 		51 63
+number_list findoccurences s chars = list s result = for number in while true positions = 		24 48

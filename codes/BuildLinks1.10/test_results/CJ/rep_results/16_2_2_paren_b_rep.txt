@@ -1,0 +1,1 @@
+genall genall if n count ? == 0 return 		3 13

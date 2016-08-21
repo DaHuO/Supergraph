@@ -1,0 +1,1 @@
+def answer s p parties = list string ascii_uppercase 0 s rst = total = sum p escape = while total if len escape == 2 rst append join escape escape = i = p index max p p i -= 1 total -= 1 escape append parties i rst append join escape if len rst - 1 == 1 rst - 1 rst - 2 = rst - 2 rst - 1 return  join rst 		3 19

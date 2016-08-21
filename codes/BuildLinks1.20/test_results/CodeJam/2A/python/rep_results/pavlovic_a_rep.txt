@@ -1,0 +1,37 @@
+25 31:
+competitors	2	0	22	17
+competitors	16	11	8	3
+competitors	18	13	6	1
+=	4	0	20	15
+r	5	0	19	14
+0	6	1	18	13
+p	7	2	17	12
+0	8	3	16	11
+s	9	4	15	10
+0	10	5	14	9
+for	11	6	13	8
+i	12	7	12	7
+in	13	8	11	6
+range	14	9	10	5
+len	15	10	9	4
+res	17	12	7	2
+i	19	14	5	0
++=	20	15	4	0
+1	21	16	3	0
+return	22	17	2	0
+res	23	18	1	0
+
+6 22:
+finalist	14	2	44	32
+finalist	21	9	37	25
+finalist	25	13	33	21
+half1	28	16	30	18
+half2	35	23	23	11
+finalist	38	26	20	8
+half1	43	31	15	3
+half2	45	33	13	1
+half2	47	35	11	0
+half1	49	37	9	0
+half1	51	39	7	0
+half2	53	41	5	0
+

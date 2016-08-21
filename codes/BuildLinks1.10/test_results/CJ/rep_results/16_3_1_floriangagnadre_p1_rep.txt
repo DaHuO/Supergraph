@@ -1,0 +1,3 @@
+def get_cases filename with open filename r as f t = 		1 10
+get_plan n s assert n > 1 assert n < 27 res = while 		12 26
+b_print res t filename with 		28 31

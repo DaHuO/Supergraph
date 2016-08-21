@@ -1,0 +1,14 @@
+
+With same rare tokens:
+17 - 45 links:
+16_2_1_elkasoapy_getting_digits	:	17 - 34
+16_3_1_elkasoapy_senate_evacuation	:	17 - 45
+16_2_1_elkasoapy_getting_digits	:	17 - 34
+16_3_1_elkasoapy_senate_evacuation	:	17 - 45
+16_3_1_elkasoapy_senate_evacuation	:	17 - 45
+
+48 - 60 links:
+16_1_2_lhinact_Problem B. Rank and File	:	2 - 16
+16_1_2_lhinact_Problem B. Rank and File	:	18 - 33
+16_1_2_hwmaltby_rank_file	:	4 - 21
+

@@ -1,0 +1,1 @@
+def rank_and_file n = input lists = for _ in xrange 2 * n - 1 lists += list map int raw_input strip split cnt = counter lists res = for k v in cnt iteritems if v % 2 == 1 res append k res sort return  join map str res 		3 14

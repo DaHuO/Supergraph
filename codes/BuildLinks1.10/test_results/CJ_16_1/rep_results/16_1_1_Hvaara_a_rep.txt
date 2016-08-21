@@ -1,0 +1,3 @@
+def read filename out = 		1 8
+def solve inp out = 		15 22
+def write filename out with 		10 13

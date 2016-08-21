@@ -1,0 +1,7 @@
+		7 8
+is_prime N i = 3 if 		35 43
+readlinearray foo 		15 16
+gen_primes max primes = 1 * max + 1 for 		25 32
+GCD a 		19 22
+		3 4
+def readarray 		11 12

@@ -1,0 +1,4 @@
+def file_io file_names = a with open join file_names .in as txtin open join file_names .out w as txtout case_count = int rdln txtin for i in range case_count s = rdln txtin answer = make_answer s str_out = str answer txtout write join case # str i + 1 : txtout write str_out txtout write \n oscommandstring = join notepad.exe file_names .out os system oscommandstring 		29 42
+def rdln txtin return txtin readline strip 		26 27
+def main file_io 		44 46
+def make_answer s final_word = deque s 0 for char in s 1 for next_char in final_word if char > next_char final_word appendleft char break if char < next_char final_word append char break else final_word append char return join final_word 		12 24

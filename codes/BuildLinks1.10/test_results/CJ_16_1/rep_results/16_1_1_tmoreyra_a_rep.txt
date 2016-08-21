@@ -1,0 +1,4 @@
+def resolve line r = 		3 9
+		33 35
+def main t = 		15 18
+_main t = int get_line 		22 30

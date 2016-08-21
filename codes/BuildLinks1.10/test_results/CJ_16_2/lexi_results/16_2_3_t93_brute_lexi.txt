@@ -1,0 +1,6 @@
+def log fmt * args print fmt % tuple args 		1 3
+def main ts = int raw_input for ti in xrange ts reset n = int raw_input pairs = frozenset tuple raw_input split + True True for i in xrange n ans = solve pairs print Case #%d: %d % ti + 1 ans 		50 57
+cached def solve pairs ans = 0 best_pair = - 1 - 1 for p1 p2 p1e p2e in pairs count = - 1 rest = set for q1 q2 q1e q2e in pairs if p1e and q1 == p1 q1e = False if p2e and q2 == p2 q2e = False if q1e or q2e rest add q1 q2 q1e q2e else count += 1 count += solve frozenset rest ans = max ans count return ans 		24 48
+def cached f cache = caches append cache def wrapper * args k = tuple args if k in cache return cache k else v = f * args cache k = v return v return wrapper 		11 22
+def wrapper * args k = tuple args if k in cache return cache k else v = f * args cache k = v return v 		14 21
+def reset for c in caches c clear 		7 9

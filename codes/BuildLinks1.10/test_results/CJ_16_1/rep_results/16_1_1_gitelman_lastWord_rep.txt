@@ -1,0 +1,2 @@
+currstring currstring t = 		17 21
+toreturn toreturn toreturn toreturn toreturn toreturn 		4 15

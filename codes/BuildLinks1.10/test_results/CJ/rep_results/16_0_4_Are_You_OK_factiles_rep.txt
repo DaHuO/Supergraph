@@ -1,0 +1,7 @@
+def sp 		10 11
+		12 13
+def 		15 16
+readstrs return 		21 22
+def readints 		18 19
+def main n = readint 		24 29
+def solve k c 		7 8

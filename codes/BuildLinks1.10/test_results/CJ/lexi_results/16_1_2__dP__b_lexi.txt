@@ -1,0 +1,1 @@
+def sol n l c = defaultdict int for ll in l for a in ll c a += 1 res = for k v in c iteritems if v % 2 == 1 res append k return  join map str sorted res 		4 13

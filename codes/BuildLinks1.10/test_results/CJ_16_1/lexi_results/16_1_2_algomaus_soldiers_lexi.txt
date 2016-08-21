@@ -1,0 +1,3 @@
+def aslist line linesplitted = line split  a = for i in linesplitted a append int i return a 		3 8
+def parse lines t = int lines 0 cases = actline = 1 for i in range t n = int lines actline actline = actline + 1 lists = for j in range 2 * n - 1 lists append aslist lines actline actline = actline + 1 cases append lists return cases 		10 22
+def solve lists listssorted = sorted lists occurrences = n = len listssorted 0 cells = for alist in listssorted for j in alist if j in occurrences keys occurrences j = occurrences j + 1 else occurrences j = 1 badguys = for j in occurrences if occurrences j % 2 != 0 badguys append j badguys = sorted badguys stra = for i in badguys stra append str i return  join stra 		24 47

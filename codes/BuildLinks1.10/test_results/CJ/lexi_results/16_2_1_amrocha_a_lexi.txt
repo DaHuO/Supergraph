@@ -1,0 +1,2 @@
+def parsenumber s if z in s return 0 zero if w in s return 2 two if u in s return 4 four if x in s return 6 six if g in s return 8 eight if o in s return 1 one if r in s return 3 three if f in s return 5 five if v in s return 7 seven if n in s return 9 nine return none none 		1 22
+def getnewstring s d result = s for c in d result = result replace c 1 return result 		24 28

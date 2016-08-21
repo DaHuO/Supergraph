@@ -1,0 +1,5 @@
+def getNum s s = sorted s digitList = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE rst = helper s digitList rst rstStr = for n in rst rstStr += str n return rstStr 		21 30
+def readFile file lines = for line in file lines append line return lines 		6 12
+def digitList list = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE 		14 15
+def main file = open sys argv 1 r+ rfile = open sys argv 2 r+ print file name: file name lines = readFile file testNum = int lines 0 print testTotal: testNum for i in range 1 testNum + 1 s = lines i rstrip r = getNum s r = Case # + str i + : + str r rfile write r + \n 		71 82
+def helper s digitList rst if not s return True for i in range 0 10 num = digitList i tmp = hasNum = True for c in num if c in s tmp = tmp + c s remove c else for ch in tmp s append ch s = sorted s hasNum = False break if hasNum rst append i finished = helper s digitList rst if finished return True rst pop for ch in num s append ch s = sorted s return False 		32 65

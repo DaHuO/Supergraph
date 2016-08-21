@@ -1,0 +1,2 @@
+def getMinMax s _min = 0 _max = 0 f = 1 for c in s _min *= 10 _max *= 10 if c == ? _min += 0 _max += 9 else _min += int c _max += int c return _min _max 		3 16
+def isValid v l if len l == 3 v = %03d % v elif len l == 2 v = %02d % v else v = %d % v assert len v == len l for i in range len v if l i != ? and l i != v i return False return True 		18 25

@@ -1,0 +1,1 @@
+def solve k c s student_count = k + c - 1 / c if student_count > s return impossible students = for i in xrange student_count start end = c * i min c * i + 1 k dest = 0 for j pos in enumerate xrange start end dest += pow k j * pos students append dest + 1 return  join map str students 		1 18

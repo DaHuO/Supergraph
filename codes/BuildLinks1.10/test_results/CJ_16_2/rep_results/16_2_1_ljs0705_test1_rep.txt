@@ -1,0 +1,8 @@
+subsList myDict alphaDict 		73 77
+readLines filename input = open 		3 10
+isPossible myDict alphaDict string = 		79 85
+isPossible addList subsList subList global resultNumbers if number subList number 		87 104
+solveProblem 28 alphaDict 28 global resultNumbers solutionList = resultNumbers 		106 121
+28 found subList 		61 65
+writeLines output outputFile 		12 16
+addList myDict alphaDict 		67 71

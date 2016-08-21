@@ -1,0 +1,170 @@
+32 33:
+precalculate	1	0	4	3
+
+14 17:
+wrapped	1	0	17	13
+*	2	0	16	12
+args	3	0	15	11
+if	4	0	14	10
+args	5	1	13	9
+not	6	2	12	8
+in	7	3	11	7
+mem	8	4	10	6
+mem	9	5	9	5
+args	10	6	8	4
+=	11	7	7	3
+func	12	8	6	2
+*	13	9	5	1
+args	14	10	4	0
+return	15	11	3	0
+mem	16	12	2	0
+args	17	13	1	0
+
+57 62:
+staticmethod	0	0	37	29
+char	3	0	34	26
+char	10	2	27	19
+prev	23	15	14	6
+char	24	16	13	5
+==	7	0	30	22
+0	8	0	29	21
+return	9	1	28	20
+left	11	3	26	18
+right	12	4	25	17
+=	13	5	24	16
+solver	14	6	23	15
+expand	15	7	22	14
+c	16	8	21	13
+count	17	9	20	12
+-	18	10	19	11
+1	19	11	18	10
+for	20	12	17	9
+c	21	13	16	8
+in	22	14	15	7
+return	25	17	12	4
+left	26	18	11	3
++	27	19	10	2
+right	28	20	9	1
+if	29	21	8	0
+left	30	22	7	0
+<	31	23	6	0
+right	32	24	5	0
+else	33	25	4	0
+right	34	26	3	0
++	35	27	2	0
+left	36	28	1	0
+
+29 30:
+precalculate	4	3	1	0
+
+68 76:
+ncase	4	0	43	33
+readints	10	0	37	27
+self	2	0	45	35
+infile	3	0	44	34
+n	5	0	42	32
+r	6	0	41	31
+p	7	0	40	30
+s	8	0	39	29
+=	9	0	38	28
+infile	11	1	36	26
+for	12	2	35	25
+line	13	3	34	24
+in	14	4	33	23
+r	15	5	32	22
+p	16	6	31	21
+s	17	7	30	20
+line	18	8	29	19
+=	19	9	28	18
+self	20	10	27	17
+expand	21	11	26	16
+line	22	12	25	15
+n	23	13	24	14
+counts	24	14	23	13
+=	25	15	22	12
+counter	26	16	21	11
+line	27	17	20	10
+if	28	18	19	9
+r	29	19	18	8
+==	30	20	17	7
+counts	31	21	16	6
+r	32	22	15	5
+and	33	23	14	4
+p	34	24	13	3
+==	35	25	12	2
+counts	36	26	11	1
+p	37	27	10	0
+and	38	28	9	0
+s	39	29	8	0
+==	40	30	7	0
+counts	41	31	6	0
+s	42	32	5	0
+return	43	33	4	0
+line	44	34	3	0
+return	45	35	2	0
+impossible	46	36	1	0
+
+38 44:
+ncase	11	3	27	19
+#{nc}	17	9	21	13
+ncase	21	13	17	9
+ncase	29	21	9	1
+ncase	31	23	7	0
+#{nc}:	35	27	3	0
+{data}\n	36	28	2	0
+int	7	0	31	23
+infile	8	0	30	22
+readline	9	1	29	21
+for	10	2	28	20
+in	12	4	26	18
+range	13	5	25	17
+cases	14	6	24	16
+print	15	7	23	15
+case	16	8	22	14
+format	18	10	20	12
+nc	19	11	19	11
+=	20	12	18	10
++	22	14	16	8
+1	23	15	15	7
+data	24	16	14	6
+=	25	17	13	5
+self	26	18	12	4
+process	27	19	11	3
+infile	28	20	10	2
+=	30	22	8	0
+outfile	32	24	6	0
+write	33	25	5	0
+case	34	26	4	0
+format	37	29	1	0
+
+11 18:
+memoized	1	0	24	19
+wrapped	6	1	19	14
+wrapped	24	19	1	0
+=	4	0	21	16
+def	5	0	20	15
+*	7	2	18	13
+args	8	3	17	12
+if	9	4	16	11
+args	10	5	15	10
+not	11	6	14	9
+in	12	7	13	8
+mem	13	8	12	7
+mem	14	9	11	6
+args	15	10	10	5
+=	16	11	9	4
+func	17	12	8	3
+*	18	13	7	2
+args	19	14	6	1
+return	20	15	5	0
+mem	21	16	4	0
+args	22	17	3	0
+return	23	18	2	0
+
+35 36:
+ncase	4	2	3	1
+notimplementederror	6	4	1	0
+
+64 66:
+precalculate	1	0	3	2
+

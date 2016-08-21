@@ -1,0 +1,1 @@
+newa newb newq newq newq newq newq newq newq newq newq newq newq newq newq newq newq newq newq newq newq newq newq newq if a i == ? and b i == ? if a == b append 10 * a 10 * b append 10 * a + 1 10 * b append 10 * a 10 * b + 1 elif a > b append 10 * a 		1 65

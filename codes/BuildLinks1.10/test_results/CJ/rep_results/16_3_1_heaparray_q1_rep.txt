@@ -1,0 +1,10 @@
+tochar 		45 46
+writetofile outfilestr outfilestr resultarr 		70 74
+pararr 		21 22
+parsenum 		60 61
+findmaxind maxa maxa maxa maxa 0 for 		48 58
+parsefile infilename infilename parsenum problemarr parsenum pararr 		8 17
+solveproblemset parsefile infilepath solveps 		78 84
+solveps pararr pararr pararr maxind findmaxind pararr tochar maxind pararr maxind maxind tochar maxind tochar maxind pararr 		24 43
+psoutformat iternum 		67 68
+parsevec vecvalues 		63 65

@@ -1,0 +1,2 @@
+write_answer index 		2 3
+write_answer main f = open a.in lines = f readlines case = lines 0 		7 33

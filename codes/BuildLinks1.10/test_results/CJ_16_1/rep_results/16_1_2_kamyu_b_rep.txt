@@ -1,0 +1,1 @@
+def rank_and_file n = input lists = for _ in 		3 14

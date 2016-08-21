@@ -1,0 +1,3 @@
+analyze find_last_alphabetical_word_permutation 		8 11
+find_last_alphabetical_word_permutation {}{} {}{} if not self built_word self 		13 20
+def __init__ 		4 6

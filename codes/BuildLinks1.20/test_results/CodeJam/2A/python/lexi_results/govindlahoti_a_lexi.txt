@@ -1,0 +1,2 @@
+def expand s anss = for i in s if i == r anss += rs elif i == p anss += pr else anss += ps return anss 		1 10
+def game s if len s == 1 return s else s1 = s len s / 2 s2 = s len s / 2 s1 = game s1 s2 = game s2 if s1 < s2 return s1 + s2 else return s2 + s1 		12 23

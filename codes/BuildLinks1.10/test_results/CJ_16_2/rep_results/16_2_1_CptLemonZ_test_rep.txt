@@ -1,0 +1,2 @@
+def works digits S attempt if len S == 0 return attempt for d in 		10 25
+dlst dlst digits 		28 32

@@ -1,0 +1,1 @@
+def main t = input for tt in range t s = raw_input k c s 		4 23

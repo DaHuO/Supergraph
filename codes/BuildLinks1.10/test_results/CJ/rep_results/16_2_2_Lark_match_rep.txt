@@ -1,0 +1,6 @@
+def 		30 32
+findcandidates findbest thebest thebest 		125 137
+def maxs inp s j out 		10 18
+def mins inp s j out 		20 28
+findcandidates o1 o2 abort o1 o2 o1 o2 o1 o2 o1 o2 o1 o2 o1 o2 o1 o2 o1 o2 o1 o2 o1 o2 o1 o2 abort o1 o2 abort o1 o2 out += 9 else out += c return out def mins inp s j out = inp for i in range j l c = s i if c == ? out += 0 else out += c return out def add t1 t2 db append t1 t2 for i in 		3 103
+findbest 99999999999999999999999999999 best = out = for i in range 0 		107 121

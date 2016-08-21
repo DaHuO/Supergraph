@@ -1,0 +1,3 @@
+handle c_in firstc restc firstj restj firstc firstj restc restj c_in 999999999999999999999999999999999999999999999999 if len c == 0 return poss = c0 = c 0 j0 = j 0 if c0 == ? and j0 == ? poss append 0 0 poss append 0 9 poss append 9 		6 60
+firstc restc firstj restj firstc firstj restc restj 0 return poss = c0 = c 0 j0 = j 0 if c0 == ? and j0 == ? poss append 		9 43
+def read_ints 		3 4

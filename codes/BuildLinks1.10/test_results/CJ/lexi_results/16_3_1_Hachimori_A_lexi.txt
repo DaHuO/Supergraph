@@ -1,0 +1,2 @@
+def read raw_input return map int raw_input split 		4 6
+def work cases vlist ans = while sum vlist > 0 maxv = 0 maxidx = for idx v in enumerate vlist if maxv < v maxv = v maxidx = idx elif maxv == v maxidx append idx ans +=  if len maxidx == 2 for idx in maxidx ans += chr ord a + idx vlist idx -= 1 else ans += chr ord a + maxidx 0 vlist maxidx 0 -= 1 print case #%d:%s % cases ans 		9 33

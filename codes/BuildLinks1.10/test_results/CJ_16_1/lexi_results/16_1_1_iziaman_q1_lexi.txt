@@ -1,0 +1,2 @@
+def startword src str = index = 0 if index == len src anslist append str else startword src str + src index index + 1 startword src src index + str index + 1 		3 9
+def readfromfile filename return line rstrip \n for line in open filename 		25 33

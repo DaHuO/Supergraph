@@ -1,0 +1,4 @@
+write_output self file 		17 18
+############ CASE step detect_order step Find Removing self id_case print self 		20 31
+def 		14 15
+detect_order write_output self id_case file_in file_out self res = self id_case 		2 12

@@ -1,0 +1,2 @@
+def replace c j v a b = str v 0 str v 1 a = 0 * len c - len a + a b = 0 * len c - len b + b return a b 		6 10
+def match c j c j c j = str c str j c = 0 * 3 - len c + c c = 0 * 3 - len c + c j = 0 * 3 - len j + j j = 0 * 3 - len j + j for a b in zip c c if a != b and a != ? return false for a b in zip j j if a != b and a != ? return false return true 		13 26

@@ -1,0 +1,1 @@
+def match s t for i in range len s if s i == ? continue if s i != t i return false return true 		4 10

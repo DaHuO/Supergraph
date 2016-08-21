@@ -1,0 +1,12 @@
+def 		128 129
+def 		136 137
+inmajority x n = functools reduce 		24 29
+fnums return 		124 125
+duplicate duplicate s = false 		144 148
+test.in main fname = global fin fin = io 		104 117
+def combinations s repeat 		152 154
+def nums 		120 121
+sstrip 		132 133
+arrstr a 		140 141
+iszero x n = 		32 36
+left_alone iszero left_alone inmajority iszero inmajority iszero left_list = n = num senetors = nums for i in range n d chr 65 + i = senetors i left = permutations join str x for x in 		40 91

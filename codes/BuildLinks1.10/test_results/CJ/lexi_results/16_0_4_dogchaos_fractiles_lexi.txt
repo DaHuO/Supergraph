@@ -1,0 +1,6 @@
+def cal_loc self num_list k c step = 1 loc = 0 for i in num_list loc += i * step step *= k return loc + 1 		27 33
+def line a b return pow a 0 - b 0 2 + pow a 1 - b 1 2 		60 61
+def nc2 n return int n * n - 1 / 2 		56 57
+def make_test self fout = open ../test w fout write 1\n2000\n for i in range 2000 fout write %d %d\n % - 1000 + i 1000 - i fout close 		48 53
+def process self fin fout ans_list = k c s = int x for x in fin readline strip split if c * s < k print impossible fout write impossible return todo = range k while len todo > 0 todo_len = len todo if len >= c dodo = todo 0 c todo = todo c else dodo = 0 for _ in range c - todo_len + todo todo = ans_list append str self cal_loc dodo k c ans =  join ans_list print str ans fout write ans 		4 25
+def solve self fin = open ../in.in r fout = open ../out w times = int fin readline for i in range times fout write case #%d: % i + 1 self process fin fout fout write \n fin close fout close 		35 46

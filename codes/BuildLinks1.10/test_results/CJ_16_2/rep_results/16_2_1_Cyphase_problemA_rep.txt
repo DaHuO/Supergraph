@@ -1,0 +1,2 @@
+def remove_word counter 		13 17
+case_idx sentinel sentinel sentinel num_count_tups num_count_tups case_idx in enumerate iter sys stdin readline 1 s = s strip c 		20 50

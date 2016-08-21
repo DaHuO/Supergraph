@@ -1,0 +1,2 @@
+winning main t = 		19 23
+winning abc_dict abc_dict = for c 		7 17

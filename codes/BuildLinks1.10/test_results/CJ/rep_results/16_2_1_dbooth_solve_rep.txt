@@ -1,0 +1,3 @@
+uniquewordsets uniquewords uniquewordsets uniquewords remcount subcount remcount remcount counts: sortedret debugret sortedret debugret debugret debugret debugret sortedret sortedret for word in words for c in word charcounts c 		19 56
+exactly args: if not len sys argv == 3 print need twos input filename 		57 67
+subcount newmin oldmin newmin oldmin newmin for x in word 		7 17

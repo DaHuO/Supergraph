@@ -1,0 +1,1 @@
+each_case max2_party max2_party max max2 argmax argmax2 = - 1 p 0 0 0 for i p in enumerate p if max < 		3 29

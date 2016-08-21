@@ -1,0 +1,1 @@
+def get_missing_row soldiers num_count = for row in soldiers for soldier in row if soldier not in num_count num_count soldier = 1 else num_count soldier += 1 missing_row = for n in num_count if num_count n % 2 != 0 missing_row append n return  join map str sorted missing_row 		3 17

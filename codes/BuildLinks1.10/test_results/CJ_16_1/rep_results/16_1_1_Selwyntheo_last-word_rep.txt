@@ -1,0 +1,2 @@
+processitem i line output = for letter 		12 22
+\r\n processitem processitem = 0 with open input.txt rt as 		2 10

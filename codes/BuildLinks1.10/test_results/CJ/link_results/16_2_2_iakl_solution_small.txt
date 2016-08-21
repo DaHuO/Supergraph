@@ -1,0 +1,20 @@
+Direct links:
+26 - 32 links:
+16_2_2_dkorduban_B	:	2 - 7
+16_2_2_devneal_close-dumb	:	4 - 10
+16_2_2_alphacentauri_sol1	:	19 - 28
+16_2_2_roiti46_b_s	:	10 - 16
+16_2_2_ymgve_progb	:	5 - 12
+
+
+With same rare tokens:
+23 - 24 links:
+16_3_1_iakl_solution_large	:	28 - 35
+16_1_2_iakl_solution_large	:	33 - 38
+16_3_1_iakl_solution_large	:	28 - 35
+16_1_2_iakl_solution_large	:	33 - 38
+
+55 - 82 links:
+16_3_1_iakl_solution_large	:	45 - 74
+16_1_2_iakl_solution_large	:	41 - 69
+

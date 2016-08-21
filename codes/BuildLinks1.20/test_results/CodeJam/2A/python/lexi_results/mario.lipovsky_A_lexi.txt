@@ -1,0 +1,8 @@
+def check seq res = seq while len res > 1 nres = for i in range len res // 2 nres append winner res 2 * i res 2 * i + 1 res = nres 		47 54
+def winner a b if a == b raise exception if a b == p s or a b == s p return s return min a b 		40 45
+def new_seq seq res = for c in seq res extend before c return res 		4 8
+def char_seq seq chars res = for c in seq res append chars c return res 		22 26
+def final_seq n res = 0 for i in range n res = new_seq res return res 		10 14
+def counts seq res = 0 0 0 for c in seq res c += 1 return res 		16 20
+def solve n r p s = map int input split seq = final_seq n cou = counts seq chseq = if p r s == cou chseq append char_seq seq p r s if r s p == cou chseq append char_seq seq r s p if s p r == cou chseq append char_seq seq s p r if len chseq == 0 return impossible chseq = map sort_seq chseq res = join min chseq check res return res 		57 79
+def sort_seq seq if len seq == 1 return seq l = len seq // 2 a b = sort_seq seq l sort_seq seq l if a < b return a + b return b + a 		28 38

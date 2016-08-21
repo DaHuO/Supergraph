@@ -1,0 +1,8 @@
+def fractal k c i start = join 1 if i == j else 0 for j in range k pattern = start for j in range c - 1 pattern = add_level pattern start return pattern 		38 43
+def solve k c s if s * c < k return impossible result = i = 0 while i < k result append 1 + position k c range i min i + c k i += c return  join str r for r in result 		53 61
+def solve_wrapper args case_no _args = args print solving case #%s % case_no return case_no solve * _args 		29 32
+def test for i in range 10 k = random randint 1 10 c = random randint 1 5 to_check = set random randint 0 k - 1 for _ in range c p = position k c to_check for i in to_check assert p < k ** c assert fractal k c i p == 1 		74 82
+def speed_test for i in range 20 k = random randint 1 100 c = min random randint 1 100 10 ** 18 // k s = random randint 1 k solve k c s 		67 72
+def position k c to_check result = 0 block = 1 for p in to_check result += block * p block *= k return result 		45 51
+def run pool = none inp = sys argv 1 outp = %s.out % inp split . 0 with open inp r as _file open outp w as out _cases = int _file readline arguments = for _case in range _cases k c s = tuple int x for x in _file readline split  arguments append _case + 1 k c s if pool == none results = list map solve_wrapper arguments else results = sorted list pool imap_unordered solve_wrapper arguments key = lambda r r 0 for _case result in results out write case #%s: %s\n % _case result 		8 27
+def add_level pattern original return join original if p == 0 else 1 * len original for p in pattern 		35 36

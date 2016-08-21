@@ -1,0 +1,1 @@
+def f l if len l == 1 return l 0 m = min x 0 for x in l two = filter lambda x x 0 == m l if len 		2 23

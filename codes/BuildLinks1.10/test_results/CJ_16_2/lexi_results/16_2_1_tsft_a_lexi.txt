@@ -1,0 +1,2 @@
+def superset digit string for char in digit if digit char > string char return False return True 		15 19
+def unscramble remaining path if not remaining return path for i digit in enumerate digits if superset digit remaining attempt = unscramble remaining - digit path + str i if attempt return attempt return False 		5 13

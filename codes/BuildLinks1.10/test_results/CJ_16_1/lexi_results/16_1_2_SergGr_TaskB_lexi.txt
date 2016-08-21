@@ -1,0 +1,1 @@
+def calcsingletest f line = f readline n = int line arr = all_h = counter for i in xrange 2 * n - 1 line = f readline l = map int line split arr append l all_h update l odds = k for k v in all_h iteritems if v % 2 == 1 odds = list sorted odds if len odds == n return str join  map str odds raise runtimeerror aaaaaa 		22 38

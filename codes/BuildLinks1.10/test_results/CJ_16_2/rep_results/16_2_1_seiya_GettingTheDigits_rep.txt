@@ -1,0 +1,2 @@
+def solve case S results = lastCount = 0 while True if S find Z >= 0 results append 0 S = delStr S ZERO if S find W >= 0 results append 2 S = delStr S TWO if S find X >= 0 results append 		14 110
+strlist strlist strlist for i 		8 12

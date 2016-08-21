@@ -1,0 +1,2 @@
+def solve c c = c rstrip answer = c 0 for ch in c 1 if ch >= answer 0 answer = ch + answer else answer = answer + ch return answer 		4 15
+def main with open a-large.in r as infile open output.txt w as outfile t = int infile readline for x in xrange t line = infile readline outfile write case # + str x + 1 + : + str solve line + \n 		17 23

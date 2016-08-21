@@ -1,0 +1,2 @@
+def parse n = int sys stdin readline strip a = for i in xrange n + n - 1 a append sys stdin readline strip split return n a 		13 18
+def compute n a x = a for b in a for a in b c = counter x z = filter lambda a a 1 % 2 == 1 c iteritems z = sorted int a 0 for a in z return  join map str z 		5 10

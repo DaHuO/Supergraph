@@ -4,9 +4,9 @@ def close self 		156 159
 read_string 		138 139
 read_integers read 		12 14
 read_strings read_string 		141 142
-parallel _verbose _verbose FileParser log Solving test_cases parallel process_pool test_results process_pool map_async solve_data test_cases 		83 103
+parallel _verbose _verbose FileParser Solving test_cases parallel process_pool test_results process_pool map_async solve_data test_cases 9999999 		83 103
 def generate n winner P R S = 0 1 2 if winner == P count = 1 0 		17 43
-log * 		114 116
+def log 		114 116
 solve_data data res 		106 111
 def __init__ self filepath 		129 133
 read_integers self 		147 148

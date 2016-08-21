@@ -1,0 +1,4 @@
+def solve line line_cnt = Counter list line phone_number = answer = _solve_inner line_cnt phone_number 0 return join str _ for _ in answer 		65 74
+def _solve_inner line_cnt phone_number try_num if line_cnt == Counter return phone_number for num num_str in enumerate _DIGITS if num < try_num continue digit_cnt = Counter list num_str if _is_in digit_cnt line_cnt phone_number append num line_cnt -= digit_cnt return _solve_inner line_cnt phone_number try_num last_num = phone_number - 1 del phone_number - 1 digit_cnt = Counter list _DIGITS last_num line_cnt += digit_cnt return _solve_inner line_cnt phone_number last_num + 1 		40 62
+def _is_in to_find where subtract = where - to_find return subtract + to_find == where 		29 37
+def main fin fout num_cases = int fin readline strip for case in xrange 1 num_cases + 1 line = fin readline strip print >> fout Case #%d: %s % case solve line 		80 89

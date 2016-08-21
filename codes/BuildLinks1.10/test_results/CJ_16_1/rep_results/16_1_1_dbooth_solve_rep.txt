@@ -1,0 +1,2 @@
+def solve s ret = for 		8 17
+need exactly args: split_input split_input split_input argv == 3 print twos input filename and 		19 29

@@ -1,0 +1,1 @@
+def raw_input return inp pop 0 strip 		13 14

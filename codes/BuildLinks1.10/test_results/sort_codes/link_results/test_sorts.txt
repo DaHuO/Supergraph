@@ -1,9 +1,11 @@
+
+With same rare tokens:
 19 - 26 links:
 pysort	:	162 - 183
 
 29 - 39 links:
-Arraysort	:	69 - 88
+bucketsort	:	5 - 19
 
 50 - 74 links:
-sort_bogo	:	9 - 12
+pysort	:	136 - 152
 

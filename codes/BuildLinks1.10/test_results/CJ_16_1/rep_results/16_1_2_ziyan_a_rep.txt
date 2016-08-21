@@ -1,0 +1,2 @@
+piece piece t = int sys stdin readline strip for t in 		17 26
+def solve n pieces count = collections defaultdict 		7 15

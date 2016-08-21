@@ -1,0 +1,3 @@
+letramasgrande s res 		7 12
+agregarresto pmas letramasgrande pmas pmas for 		15 22
+procesar pmas letramasgrande subs pmas pmas agregarresto procesar 		24 32

@@ -1,0 +1,3 @@
+def strToVec s v = 0 * 26 for l in s v ord l - ord A += 1 return np array v 		3 7
+def vecToStr v r = for i c in enumerate v for j in range int c r append i return r 		9 14
+def solve input v = strToVec input solved = np linalg lstsq A T v 0 solved = abs round x for x in solved res = sorted vecToStr solved return join repr x for x in res 		16 22

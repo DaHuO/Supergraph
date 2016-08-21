@@ -1,0 +1,1 @@
+def process s t1 = t2 = rlt = for i in s t1 = rlt + i t2 = i + rlt if t1 > t2 rlt = t1 else rlt = t2 return rlt 		6 17

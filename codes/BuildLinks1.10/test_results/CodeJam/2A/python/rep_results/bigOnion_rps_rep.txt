@@ -1,25 +1,25 @@
 log_it decorating_function args= kwargs= outputs update_wrapper decorating_function def user_function def wrapper * 		57 68
-__enter__ __input_file __input_filename __parsed_filename 		132 136
+__enter__ __input_filename __parsed_filename __output_filename 		132 136
 decorating_function args= kwargs= outputs update_wrapper args ** kwargs if arguments 		58 67
 count_it inner_func global _CALL_FUNC_COUNTERS assert type _CALL_FUNC_COUNTERS == 		72 83
-alphabetically_first_solution l jump = 1 while jump < len l for s in range 		271 282
-__output_file 		155 157
+def alphabetically_first_solution l jump = 1 while jump < len l for s in 		271 282
+def 		155 157
 wraps inner_func def wrapper 		78 82
-try_winner alphabetically_first_solution try_winner alphabetically_first_solution try_winner alphabetically_first_solution a = ROCK N R P S print a if a is 		228 250
-Start end_time End Elapsed end_time args ** kwargs print --> function \' + 		43 52
-try_winner _round N R P S l = winner for in range N l2 		253 268
-pre-process_ .pickle listdir Pre started .... pre_process_data Pre Pickling started .... wb dump pre_process_data HIGHEST_PROTOCOL Pickling Unpickling pre-processed of ... load Unpickling process for 		94 111
-pre_process_it inspect inspect signature aparmeters pre must have pre-process_ .pickle listdir Pre started .... pre_process_data Pre Pickling started .... wb dump pre_process_data HIGHEST_PROTOCOL Pickling Unpickling pre-processed of ... load 		87 113
-main_run Directory getcwd file_names listdir stat st_mtime file_names No Chosen Input parsed_filename .parsed.txt file_names startswith -run output_file_index 000 -run output_file_index Chosen Output GCJIOWrapper parsed_filename solve_all_cases Conclusion Directory getcwd Chosen Input 		165 199
-memoize_it __memoization_registry __memoization_registry cache = append cache 		18 28
-parsed_filename __input_filename __parsed_filename parsed_filename __output_filename __index_test_case 		123 130
-new_test_case __index_test_case \n## 		150 153
+def find_solution N R P S a = try_winner ROCK N R P S print a if a 		228 250
+Start End Elapsed wrapper * args ** kwargs print --> function \' + 		43 52
+_round try_winner winner N R P S l = winner for in range N 		253 268
+pre-process_ .pickle listdir dump HIGHEST_PROTOCOL pre-processed ... load kwargs filename = + inner_func __qualname__ + if filename not in os print --> Pre process 		94 111
+pre_process_it inspect inspect signature aparmeters pre must have pre-process_ .pickle listdir dump HIGHEST_PROTOCOL pre-processed ... load not arguments time_it wraps inner_func def wrapper * args ** kwargs filename = 		87 113
+main_run Directory getcwd file_names listdir stat st_mtime file_names No Input .parsed.txt file_names startswith -run output_file_index 000 -run output_file_index Output GCJIOWrapper solve_all_cases Conclusion Directory getcwd Input Output raise ValueError input file 		165 199
+memoize_it inner_func global __memoization_registry cache = __memoization_registry 		18 28
+__input_filename __parsed_filename __output_filename input_filename parsed_filename output_filename 		123 130
+new_test_case \n## _BigOnion 		150 153
 solve_all_cases new_test_case get_test_case solve_one_case = 		203 209
-__input_file readline 		144 148
-Start end_time End Elapsed end_time def wrapper * args ** kwargs print --> function 		42 53
+def readline 		144 148
+Start End Elapsed wraps inner_func def wrapper * args ** kwargs print --> function 		42 53
 __exit__ type_e 		138 142
 solve_one_case get_test_case N R P S = int x 		220 225
-reset_memoization __memoization_registry 		32 36
+reset_memoization cache_d 		32 36
 wraps inner_func def wrapper 		23 27
 args= kwargs= outputs args ** kwargs if arguments print 		59 66
 get_test_case 		159 161

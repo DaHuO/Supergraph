@@ -1,0 +1,1 @@
+retstr temp3 temp3 = counter s split temp2 = for x 		5 16

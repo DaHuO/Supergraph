@@ -1,0 +1,1 @@
+frist frist frist = int raw_input for case in range 		3 14

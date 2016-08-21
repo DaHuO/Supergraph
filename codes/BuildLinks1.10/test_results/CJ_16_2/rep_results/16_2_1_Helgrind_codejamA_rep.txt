@@ -1,0 +1,3 @@
+strToVec s v = 		3 7
+vecToStr v r = 		9 14
+strToVec vecToStr repr v = input solved 		16 22

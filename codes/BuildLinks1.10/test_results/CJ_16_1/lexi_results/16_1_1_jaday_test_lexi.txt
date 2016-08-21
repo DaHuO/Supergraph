@@ -1,0 +1,1 @@
+def append s c if ord c >= ord s 0 return c + s return s + c 		1 4

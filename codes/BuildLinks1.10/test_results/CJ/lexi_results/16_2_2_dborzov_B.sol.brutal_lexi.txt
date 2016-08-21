@@ -1,0 +1,4 @@
+def check_if_better c_score = int join res_coders j_score = int join res_jammers cur_diff = abs c_score - j_score global sol if len sol == 0 sol = c_score j_score cur_diff if sol 2 < cur_diff return if sol 2 > cur_diff sol = c_score j_score cur_diff return if c_score < sol 0 sol = c_score j_score cur_diff return if c_score == sol 0 and j_score < sol 1 sol = c_score j_score cur_diff return sol 		20 37
+def pad num val = str num padding = length - len val return join 0 for _ in range padding + val 		62 65
+def traverse cur team ind = broken cur for digit in range 10 if team == c res_coders ind = str digit if team == j res_jammers ind = str digit if cur == len broken - 1 check_if_better else traverse cur + 1 		41 51
+def readline return input_data readline rstrip 		6 7

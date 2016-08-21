@@ -1,0 +1,4 @@
+def ToMap S result = for c in S result c = result get c 0 + 1 return result 		33 37
+def ToAlp n NUM = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE return NUM n 		15 18
+def minus S val for c in val if c not in S or S c == 0 return None S c -= 1 if S c == 0 del S c return S 		6 13
+def solv S pn if len S == 0 return pn for n in range 10 newS = minus S copy ToAlp n if newS is None continue npn = solv newS pn + n if npn is not None return npn 		20 30

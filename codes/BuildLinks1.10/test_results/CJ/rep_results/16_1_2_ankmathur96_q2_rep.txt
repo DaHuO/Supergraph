@@ -1,0 +1,4 @@
+check_success_condition original_lists_c failures failure_lists original_lists_c all_matrix ndarray tolist all_matrix failures failure_lists ndarray tolist all_matrix failures failure_lists 		11 36
+check_success_condition case_copy1 case_copy1 case_copy1 case_copy2 case_copy2 case_copy2 len joined_lists == 0 success = matrix original_lists if success is false return false else return success elif len joined_lists 0 		45 76
+find_missing_list resulting_matrix l_copy index_firsts n_th_same n_th_same n_th_same resulting_matrix l_copy = 0 joined_lists = = list 		78 98
+row_or_col_given_assignment assignment vector1 vector2 i for x in 		5 10

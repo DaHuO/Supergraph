@@ -1,0 +1,1 @@
+a.out case_all case_all = open a-large.in r fout = open w = int 		4 27

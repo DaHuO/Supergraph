@@ -1,0 +1,1 @@
+output1.txt main fo = open a-large.in r fp = open w test = int fo readline 		12 32

@@ -1,0 +1,3 @@
+make_choices make_choices make_choices j n = len c def c cs = for c in range 10 ** n c_s 		5 28
+xc xj xc xj n = len c assert len j == n a = for num_match in range n + 1 c = * n j = * n for i in range num_match if c i == ? if j i == ? c i = 		30 87
+make_choices c cs = for c in range 		7 18

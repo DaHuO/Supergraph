@@ -1,0 +1,2 @@
+def main lines = l strip for l in fileinput input 		23 36
+alpha_list alpha_list alpha_list a_str = lines 0 = 		7 21

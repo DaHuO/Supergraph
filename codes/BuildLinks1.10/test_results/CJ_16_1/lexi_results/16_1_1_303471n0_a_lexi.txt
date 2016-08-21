@@ -1,0 +1,1 @@
+def trees items index stri if index > len items - 1 return stri else s1 = trees items index + 1 stri + items index s2 = trees items index + 1 items index + stri if s1 > s2 return s1 else return s2 		2 11

@@ -1,0 +1,2 @@
+def res s return reduce add s 		12 13
+def add arr c if arr is none return c if len arr > 0 and arr 0 <= c return c + arr else return arr + c 		3 10

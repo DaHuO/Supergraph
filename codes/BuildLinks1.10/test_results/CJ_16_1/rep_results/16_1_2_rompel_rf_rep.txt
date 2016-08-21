@@ -1,0 +1,6 @@
+		11 11
+def 		10 10
+		9 9
+		8 8
+ul ul ul n = rd1int s = ss = for i in range 2 * n - 1 v = rdints assert len v == n s 		15 39
+def main t 		47 51

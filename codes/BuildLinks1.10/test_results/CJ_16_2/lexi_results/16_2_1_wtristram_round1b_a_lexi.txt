@@ -1,0 +1,1 @@
+def lcons num letrs for c in num if c not in letrs return False letrs remove c return True 		1 7

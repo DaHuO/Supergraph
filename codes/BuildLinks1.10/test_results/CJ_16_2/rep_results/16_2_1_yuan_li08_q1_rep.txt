@@ -1,0 +1,4 @@
+multiset string char_set = 		3 8
+char_dicts calculate_count num char 		15 19
+mset1 mset2 mset1 		10 13
+multiset solve string total_char_dict = string counts = 0 * 10 counts 0 = calculate_count 0 Z string total_char_dict counts 2 		21 39

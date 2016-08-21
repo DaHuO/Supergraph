@@ -1,0 +1,1 @@
+cur_kid cur_kid cur_kid last_kid path_kid path_kid last_kid in_file readline for trial in range 1 trials + 1 special_paths = dict n = int in_file readline bffs = int word for word in in_file readline strip split best = 0 for kid in range 1 n + 		3 54

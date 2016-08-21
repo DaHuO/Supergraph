@@ -1,0 +1,4 @@
+def read name 		13 14
+COUNT_0 COUNT_6 COUNT_8 COUNT_7 COUNT_5 COUNT_9 COUNT_4 COUNT_3 COUNT_1 COUNT_2 counts LETTERS index Z counts = subtract_counts counts number append 0 for six in range 0 counts LETTERS index X counts = subtract_counts counts number 		26 69
+def subtract_counts 		22 24
+def count s counts = 0 		16 20

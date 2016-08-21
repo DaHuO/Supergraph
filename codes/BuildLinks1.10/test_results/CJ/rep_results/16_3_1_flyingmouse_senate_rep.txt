@@ -1,0 +1,2 @@
+gen_alpha a = 		1 5
+index1 index1 index1 res = while sum a > 0 m = max a liste = i for i j in enumerate a if j == m size 		9 37

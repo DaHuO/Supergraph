@@ -1,0 +1,1 @@
+problem_a __len__ ans = i = 0 len = l last = first 		9 29

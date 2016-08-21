@@ -1,0 +1,2 @@
+eliminate_word llist word nb for 		6 11
+extract_digits discriminant discriminant eliminate_word discriminant nlist 		1 4

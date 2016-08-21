@@ -1,0 +1,15 @@
+check_five char_occ resarr mycount = let_count char_occ 		92 100
+let_ind let_ind 		22 24
+INPUT! read_input arr = f = stdin num 		5 16
+count_chars S char_occ for 		26 30
+check_six char_occ resarr mycount = let_count 		53 60
+check_eight char_occ resarr mycount = let_count char_occ G 		42 51
+check_nine char_occ resarr mycount = let_count char_occ 		122 130
+check_one char_occ resarr mycount = let_count 		113 120
+check_case count_chars check_zero check_eight check_six check_two check_four check_three check_five check_seven 		133 159
+check_two char_occ resarr mycount = let_count 		62 69
+check_three char_occ resarr mycount = let_count char_occ H 		81 90
+check_zero char_occ resarr mycount = let_count char_occ 		32 40
+check_seven char_occ resarr mycount = let_count char_occ V 		102 111
+let_ind let_ind 		18 20
+check_four char_occ resarr mycount = let_count char_occ 		71 79

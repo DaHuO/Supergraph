@@ -1,0 +1,1 @@
+digraph simple_cycles friends fr = dict friends g = nx 		12 23

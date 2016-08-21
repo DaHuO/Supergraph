@@ -1,0 +1,2 @@
+aprev aprev aprev iter w = list line a = list 		17 29
+def main import sys 		6 14

@@ -1,12 +1,12 @@
 __int__ 		16 17
 __getattr__ 		44 47
 wrap wrapper wrapper 		34 38
-__cmp__ other tracklist 		7 12
+__cmp__ total_comparisons try 		7 12
 reset total_comparisons 		40 42
-enumerate log self 		49 52
+def log self 		49 52
 def __init__ 		56 58
 __int__ 		60 61
-read_paths fp fp readlines DummySortable offset enumerate offset 		65 81
+read_paths fp fp readlines DummySortable offset offset = 		65 81
 itms Sortable itms total_comparisons 		28 32
 __repr__ 		19 20
-tracklist tracklist 		3 5
+def __init__ 		3 5

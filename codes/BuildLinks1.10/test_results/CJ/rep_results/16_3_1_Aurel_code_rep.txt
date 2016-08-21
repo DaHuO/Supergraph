@@ -1,0 +1,1 @@
+inputints 		9 10

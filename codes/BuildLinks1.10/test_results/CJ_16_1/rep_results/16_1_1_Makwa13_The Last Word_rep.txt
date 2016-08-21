@@ -1,0 +1,3 @@
+def resolve line chlist = for 		14 25
+main4 cab code abaab 		27 34
+a-large (1).in outputthelastword.txt open r as infile with 		35 43

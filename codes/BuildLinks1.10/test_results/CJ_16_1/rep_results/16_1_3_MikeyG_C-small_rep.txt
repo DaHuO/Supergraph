@@ -1,0 +1,3 @@
+rotations_and_reversals l this = for 		68 74
+all_choices solved: n data = int d for d in n strip split bffs = for i in range len 		10 45
+all_choices one_step_down all_choices osd one_step_down osd in choices return choices n k if k 		47 66

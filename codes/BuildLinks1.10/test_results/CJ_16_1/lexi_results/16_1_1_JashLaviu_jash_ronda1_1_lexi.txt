@@ -1,0 +1,1 @@
+def dameres casoactual palabra = casoactual posta = posta += palabra 0 for c in palabra 1 if c >= posta 0 posta = c + posta else posta += c return posta 		6 16

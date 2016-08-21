@@ -1,0 +1,1 @@
+getmissing outputanswer max_number max_number outputanswer outputanswer = input split parsedinput = map 		3 23

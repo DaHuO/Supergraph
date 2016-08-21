@@ -1,0 +1,1 @@
+def last_word word best = word 0 for i in xrange 1 len word if word i < best 0 best append word i else best insert 0 word i return best 		1 8

@@ -1,0 +1,1 @@
+def check_and_remove St number digit letter_ spelled while letter_ in St for letter in list spelled St remove letter number append digit return St number 		16 21

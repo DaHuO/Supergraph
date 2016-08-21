@@ -1,0 +1,22 @@
+
+With same rare tokens:
+16 - 49 links:
+16_2_2_0xb0c5_B	:	69 - 75
+16_2_2_StefanPochmann_B-dev	:	9 - 19
+
+52 - 54 links:
+16_2_2_0xb0c5_B	:	69 - 75
+16_2_2_StefanPochmann_B-dev	:	9 - 19
+
+68 - 75 links:
+16_0_4_bigOnion_fractiles	:	154 - 190
+16_2_2_bigOnion_close_match	:	161 - 197
+16_2_1_bigOnion_phone	:	161 - 197
+16_3_1_AndersTornkvist_a	:	50 - 65
+16_1_1_Codertron_ProblemA	:	6 - 25
+16_2_1_Codertron_ProblemA	:	6 - 25
+16_3_1_AndersTornkvist_a	:	50 - 65
+16_1_1_Cornfield_theLastWord	:	31 - 42
+16_2_1_Cornfield_GettingTheDigits	:	73 - 83
+16_3_1_heaparray_q1	:	78 - 84
+

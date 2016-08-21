@@ -1,0 +1,1 @@
+findDigits s testS = s ans0 = ans1 = ans2 = ans3 = ans = c = testS count Z ans0 = ans0 + 0 * c testS = testS replace O c c = testS count W ans2 = ans2 		1 39

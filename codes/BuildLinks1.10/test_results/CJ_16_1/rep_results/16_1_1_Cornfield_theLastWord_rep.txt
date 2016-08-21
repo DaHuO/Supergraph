@@ -1,0 +1,2 @@
+previousletter outputstring outputstring tempstring tempstring previousletter tempstring tempstring outputstring tempstring tempstring tempstring tempstring 		1 29
+input.in main outputfile = open output.txt w inputfile = 		31 42

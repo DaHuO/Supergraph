@@ -1,0 +1,18 @@
+Direct links:
+8 - 8 links:
+16_1_1_gb177_lastword2	:	6 - 6
+
+7 - 7 links:
+16_1_1_gb177_lastword2	:	5 - 5
+
+9 - 9 links:
+16_1_1_gb177_lastword2	:	7 - 7
+
+
+With same rare tokens:
+8 - 8 links:
+16_1_1_gb177_lastword2	:	6 - 6
+
+7 - 7 links:
+16_1_1_gb177_lastword2	:	5 - 5
+

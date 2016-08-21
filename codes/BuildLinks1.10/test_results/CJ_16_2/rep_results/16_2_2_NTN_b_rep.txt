@@ -1,0 +1,2 @@
+2395789 aa ip if 		1 5
+def r ip global best if ip find ? == - 1 if aa 		7 22

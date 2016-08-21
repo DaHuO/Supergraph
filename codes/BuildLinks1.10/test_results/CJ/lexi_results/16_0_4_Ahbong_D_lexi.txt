@@ -1,0 +1,1 @@
+def solve k c s if c * s < k return none res = pos = 0 for i in range 1 s + 1 t = 1 for p in range c if pos >= k break t += pos * k ** c - 1 - p pos += 1 res append t if k <= i * c break return res 		6 21

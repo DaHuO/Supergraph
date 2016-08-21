@@ -1,0 +1,1 @@
+def solve graph recip = for i in range len graph if graph graph i == i recip 		1 23

@@ -1,0 +1,1 @@
+def solve nums = freq = defaultdict lambda 0 for ch in list raw_input freq ch += 1 for i in xrange freq z nums append 0 freq e -= freq z freq r -= freq z freq o -= freq z freq z = 0 for i in xrange freq w nums append 2 		4 74

@@ -1,0 +1,4 @@
+newxvalues newyvalues newxvalues stringsub newxvalues newyvalues stringsub newyvalues newxvalues newyvalues len x return xvalues yvalues 		4 21
+$$$ 100000000000000 10000000000000 10000000000000 l = len x print x y xvalues yvalues = score x y x y 0 print xvalues yvalues print xvalues = map int xvalues yvalues = 		59 88
+stringsub s index 		1 3
+scorel newxvalues newyvalues newxvalues stringsub newxvalues stringsub newyvalues stringsub newyvalues stringsub newxvalues stringsub newxvalues stringsub newxvalues stringsub newyvalues newyvalues stringsub newyvalues stringsub newyvalues stringsub newxvalues newxvalues newyvalues newxvalues newyvalues in xvalues append v index 9 		23 57

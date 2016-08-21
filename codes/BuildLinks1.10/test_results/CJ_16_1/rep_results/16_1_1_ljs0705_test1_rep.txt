@@ -1,0 +1,3 @@
+def readlines filename input = 		3 10
+alphadict alphadict alphadict output = head = 0 count = 		47 62
+def writelines output 		12 16

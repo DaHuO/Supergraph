@@ -1,0 +1,1 @@
+find_phone number number = list number ans = while len number > 0 and Z in number number remove Z ans append 0 for i in range len zero number remove zero i while len number > 0 and W in number number remove W ans append 2 for i in range 		15 78

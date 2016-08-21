@@ -1,0 +1,2 @@
+def solve s a = while Z in s a append 0 s = s replace Z 1 replace E 1 replace R 1 replace O 1 while W in s a append 2 s = s replace T 1 replace W 1 replace O 1 while 		18 52
+in.txt main file = open r data = file read file close 		1 15

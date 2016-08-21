@@ -1,0 +1,6 @@
+remove_hist hist 		36 38
+make_hist string hist 		22 26
+contains_hist hist other 		29 33
+convert_to_number numbers_map imap 		50 53
+get_all_number_word histograms input_hist make_hist found_words 		40 47
+words_hist make_hist in_stream cases_count in_stream cases_count in_stream convert_to_number 		55 63

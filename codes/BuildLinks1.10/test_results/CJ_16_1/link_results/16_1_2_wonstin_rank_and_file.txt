@@ -1,0 +1,17 @@
+Direct links:
+4 - 17 links:
+16_1_2_bambit_B	:	5 - 16
+16_1_2_PaLy_b	:	1 - 13
+16_1_2_jzj_B	:	6 - 17
+16_1_2_archangel11_main	:	6 - 19
+
+
+With same rare tokens:
+19 - 22 links:
+16_1_2_erichoco_rank	:	37 - 137
+16_1_2_erichoco_rank	:	37 - 137
+16_1_1_erichoco_lastword	:	36 - 134
+16_1_1_erichoco_lastword	:	36 - 134
+16_1_1_ndthapaliya_last_word	:	3 - 11
+16_1_1_Codertron_ProblemA	:	6 - 25
+

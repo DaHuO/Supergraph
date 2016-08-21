@@ -1,0 +1,2 @@
+staticmethod get_last_word s o = for c 		15 26
+def __init__ self filename file = open filename r lines = 		3 13

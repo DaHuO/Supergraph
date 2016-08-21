@@ -1,0 +1,2 @@
+def main lines = sys stdin 		16 21
+def solve s result = 		6 13

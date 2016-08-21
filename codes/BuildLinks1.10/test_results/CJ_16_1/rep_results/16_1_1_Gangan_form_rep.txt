@@ -1,0 +1,2 @@
+dir dir s k if s == return 		2 12
+getperm s a 		13 16

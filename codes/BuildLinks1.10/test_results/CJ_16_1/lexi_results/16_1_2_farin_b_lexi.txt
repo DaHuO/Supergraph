@@ -1,0 +1,1 @@
+def solve n c = counter for i in range 2 * n - 1 for i in map int input split c i += 1 missing = for i cnt in c items if cnt % 2 missing append i missing sort return  join map str missing 		4 14

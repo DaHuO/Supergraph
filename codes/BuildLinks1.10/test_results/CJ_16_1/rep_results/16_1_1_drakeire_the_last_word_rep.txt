@@ -1,0 +1,5 @@
+front_insertable solve word lasts = deque 		22 31
+def 		15 16
+def display_and_clear 		18 20
+front_insertable lasts ch index = 0 		33 44
+def main fi = sys stdin fo 		6 13

@@ -1,0 +1,1 @@
+def compute word result = word 		8 16

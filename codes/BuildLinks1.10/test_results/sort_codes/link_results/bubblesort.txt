@@ -1,9 +1,10 @@
+Direct links:
 8 - 14 links:
+Arraysort	:	4 - 61
 Arraysort	:	46 - 59
 bubble_sort_with_flag	:	7 - 17
 insertionsort	:	8 - 13
-pysort	:	31 - 44
-Arraysort	:	4 - 61
-sorter	:	33 - 40
 pysort	:	136 - 152
+pysort	:	31 - 44
+sorter	:	33 - 40
 

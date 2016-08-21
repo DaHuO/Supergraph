@@ -1,0 +1,11 @@
+nis 		58 59
+result_string result_string output t 		54 56
+def inversion_count seq if len seq < 2 return seq 0 l = len seq / 2 seq1 		89 114
+replace_qmark prod prod prod = 0 an = 0 bn = 0 for j 		15 32
+nis sis nqa nqb nqa nqb minf replace_qmark input open output_filename w as output T = input for t 		38 52
+integer_sqrt cannot square negative i return 0 if i < 0 		64 75
+def __call__ self * args ** kwargs if 		81 87
+def n 		70 71
+minf replace_qmark b 		34 36
+sis 		61 62
+def __init__ 		78 80

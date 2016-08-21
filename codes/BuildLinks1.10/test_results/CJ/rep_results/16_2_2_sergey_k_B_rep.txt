@@ -1,0 +1,2 @@
+def main t = int sys stdin readline 		43 48
+def solve a b i if i == len a x y = int a int b return abs x - y x y a b if a i != b i less = a i < b i a = a replace ? 9 if less else 0 b 		6 40

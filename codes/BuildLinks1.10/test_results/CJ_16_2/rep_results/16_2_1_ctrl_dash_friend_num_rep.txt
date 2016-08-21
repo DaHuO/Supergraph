@@ -1,0 +1,2 @@
+def remove_num s 		18 21
+def get_phone_number s res = list if Z in s while Z in s s = remove_num s 0 res append 0 if W in s while W in s s = remove_num 		24 74

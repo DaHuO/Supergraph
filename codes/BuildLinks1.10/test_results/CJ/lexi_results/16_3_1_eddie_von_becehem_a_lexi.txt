@@ -1,0 +1,2 @@
+def check p ans sums = sum p maxs = max p if maxs > sums / 2 print error ans p print p exit - 1 		7 14
+def sol n p if debug print -> p ans = while true sums = sum p maxs = max p if maxs == 0 break if debug print h p maxs sums if sums % 2 == 0 ind = p index maxs ans +=  + chr 65 + ind p ind -= 1 maxs = max p ind = p index maxs ans += chr 65 + ind p ind -= 1 else ind = p index maxs ans +=  + chr 65 + ind p ind -= 1 check p ans return ans 		16 51

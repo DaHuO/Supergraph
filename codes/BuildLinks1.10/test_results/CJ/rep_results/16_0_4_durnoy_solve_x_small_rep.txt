@@ -1,0 +1,2 @@
+def calc k 		6 9
+r_str r_str f = sys stdin if len sys argv > 1 f 		11 25

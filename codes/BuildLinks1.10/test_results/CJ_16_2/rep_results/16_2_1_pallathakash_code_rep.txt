@@ -1,0 +1,1 @@
+getdig lstdig lstpss dicy lstper dicy lstper lstdig dicy lstpss posscombs posscombs lstpss posscombs dicy posscombs 5 SIX 6 SEVEN 7 EIGHT 8 NINE 9 = list itertools permutations 		13 41

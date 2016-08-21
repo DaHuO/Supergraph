@@ -1,0 +1,1 @@
+mindigit mindigit del_letters bad_variant del_letters bad_variant bad_variant TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE 		4 24

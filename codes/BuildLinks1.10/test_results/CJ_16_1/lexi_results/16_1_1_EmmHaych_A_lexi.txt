@@ -1,0 +1,4 @@
+def arg_config global input_file global output_file if len sys argv > 1 input_file = open inputs/ + sys argv 1 r if len sys argv > 2 output_file = open outputs/ + sys argv 2 w 		15 21
+def main t = int input_read for t in range 1 t + 1 result = word = input_read rstrip for char in word if result == result = char continue if ord char >= ord result 0 result = char + result else result += char print_output case # + str t + : + result 		23 38
+def input_read if input_file return input_file readline else return input 		6 10
+def print_output s print s if output_file output_file write s + \n 		11 14

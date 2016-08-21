@@ -1,0 +1,1 @@
+def solve word word_len = len word rstrip \n 		3 11

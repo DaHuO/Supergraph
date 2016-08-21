@@ -1,0 +1,3 @@
+def solve data if debug print [+] input data %s % data ret = data 0 for i in range 1 len data if data i >= ret 0 ret insert 0 data i else ret append data i return str join ret 		6 17
+def howto usage = -i <input file> [-o <output file>] parser = optparse optionparser sys argv 0 + usage parser add_option -i dest = infile type = string help = specify infile name parser add_option -o dest = outfile type = string help = specify outfile name options args = parser parse_args if options infile is none print parser usage return options infile options outfile 		23 33
+def readdata infile line = infile readline strip return line 		19 21

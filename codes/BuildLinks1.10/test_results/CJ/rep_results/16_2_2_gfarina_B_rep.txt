@@ -1,0 +1,4 @@
+bestchoice choicesa choicesb choicesa chb choicesb chb chb chb chb chb chb chb bestchoice i stay sgn in memo return memo i stay sgn else ca = a i cb = b i = int ca if 		7 44
+caseab caseba caseab caseba solab solab caseba caseab solba solba solab solba solab solba 		68 84
+bestchoice rebuild stay sgn sa = sb = 		56 66
+bestchoice solvecase a b stay sgn global 		46 54

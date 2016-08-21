@@ -1,0 +1,2 @@
+def acc c known = 0 unknown = for e 		4 15
+min_diff_c_j cw jw cw jw cw jw min_diff_c_j min_diff_c_j min_diff_c_j ** 		17 25

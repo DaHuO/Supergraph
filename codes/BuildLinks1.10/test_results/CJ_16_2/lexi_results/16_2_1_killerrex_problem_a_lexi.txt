@@ -1,0 +1,5 @@
+def decoder txt assert isinstance txt str values = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE unique = Z ZERO W TWO U FOUR X SIX G EIGHT number = txt delta = rem_keys unique txt number extend delta second = H THREE F FIVE S SEVEN txt delta = rem_keys second txt number extend delta last = O ONE I NINE txt delta = rem_keys last txt number extend delta assert txt == number = values index name for name in number number sort return join str n for n in number 		32 86
+def filter_out txt name for c in name p = txt index c txt = txt p + txt p + 1 return txt 		13 18
+def rem_keys group txt delta = for key in group while key in txt name = group key delta append name txt = filter_out txt name return txt delta 		21 29
+def solve fd total = int fd readline strip for k in range total txt = fd readline strip print Case #{}: {} format k + 1 decoder txt 		89 102
+def start if len sys argv > 1 with open sys argv 1 r as fd solve fd else solve sys stdin 		105 110

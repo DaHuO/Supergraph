@@ -1,0 +1,2 @@
+def solve n papers count = 0 * 2501 for p in papers hs = p split for h in hs count int h += 1 rt = for i in range 2501 if count i % 2 rt append i assert len rt == n rt sort return  join str h for h in rt 		7 19
+def pr * a return for x in a print x print 		2 5

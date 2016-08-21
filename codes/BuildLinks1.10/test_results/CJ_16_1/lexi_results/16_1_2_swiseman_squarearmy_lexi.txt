@@ -1,0 +1,1 @@
+def getmissing input answer = outputanswer = parsedinput = input split parsedinput = map int parsedinput max_number = max parsedinput for i in xrange 1 int max_number + 1 count = 0 for l in parsedinput if l == i count = count + 1 if count % 2 == 1 answer append str i outputanswer =  join answer return outputanswer 		3 23

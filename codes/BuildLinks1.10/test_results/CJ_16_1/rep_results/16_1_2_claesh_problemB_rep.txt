@@ -1,0 +1,2 @@
+def solver data n data = data data sort print data missing 		21 39
+def parser fin n 		13 18

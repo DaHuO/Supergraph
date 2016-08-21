@@ -1,0 +1,1 @@
+check_num s num = count = nc = for i in string ascii_uppercase count i = 0 for c in s count c += 1 nc 0 = count Z for i in range 0 nc 0 num append 0 nc 		23 62

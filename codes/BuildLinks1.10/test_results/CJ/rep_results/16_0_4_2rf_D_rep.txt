@@ -1,0 +1,2 @@
+def to_number digits 		4 5
+one_test cycle islice s = map int input split 		7 12

@@ -1,0 +1,3 @@
+ex1 main n = input for 		93 98
+ex1 verifyNumber zero = one = two = three = four = five = six = seven = eight = nine = zero append Z zero append E zero append R zero append O one append O one append N one append E two append T two append W two append O 		1 83
+verifyNumber num_copy num_copy num_copy 		85 90

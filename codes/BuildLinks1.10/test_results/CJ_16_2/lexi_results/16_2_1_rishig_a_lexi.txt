@@ -1,0 +1,2 @@
+def setk k kstr l xxx = lcounts l ncounts k = xxx for lete in kstr lcounts lete -= xxx 		13 17
+def run S lcounts = defaultdict int ncounts = 0 * 10 for l in S lcounts l += 1 def setk k kstr l xxx = lcounts l ncounts k = xxx for lete in kstr lcounts lete -= xxx setk 0 ZERO Z setk 2 TWO W setk 6 SIX X setk 8 EIGHT G setk 7 SEVEN S setk 5 FIVE V setk 9 NINE I setk 1 ONE N setk 4 FOUR U setk 3 THREE R assert not sum lcounts values return join a * b for a b in zip list 0123456789 ncounts 		7 31

@@ -1,0 +1,2 @@
+def solve_small k c s return  join str 1 + i * k ** c - 1 for i in range k 		32 33
+def solve_large k c s if s == k return solve_small k c s if c == 1 return impossible guessesrequired = k + 1 / 2 if s < guessesrequired return impossible guesses = i = 0 while len guesses < guessesrequired branch = i * 2 local = branch + 1 if k % 2 == 1 and len guesses + 1 == guessesrequired guesses append branch * k ** c - 1 else guesses append local + branch * k ** c - 1 i += 1 return  join str 1 + g for g in guesses 		3 29

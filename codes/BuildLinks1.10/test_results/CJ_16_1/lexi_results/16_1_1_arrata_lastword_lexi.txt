@@ -1,0 +1,1 @@
+def getstring s wordrank = sorted list s ret = for x in s if ret == ret = x + ret else if ret 0 <= x ret = x + ret else ret = ret + x return ret 		5 16

@@ -1,0 +1,2 @@
+_solve solve * args ** kwargs 		59 64
+_solve parties parties = list parties sm = sum parties hparties = - num i for i num in enumerate parties heapify hparties evac = while sm > 0 mx1 i1 = heappop hparties 		13 55

@@ -1,0 +1,9 @@
+trymaximize num if type 		102 106
+getoutput solvedcase solvedcase = for 		131 135
+generateoutput getcases solvedcases getoutput solvedcases cases = filename 		137 144
+getcases parseinput 		125 128
+parseinput text cases = for i 		114 122
+solvecasec reversesol lastwasq onums tryminimize trymaximize trymaximize tryminimize onums dopts dopts1 dopts dopts2 dopts lastwasq dopts1 lastwasq dopts2 lastwasq dopts1 dopts2 curr1 curr2 curr1 curr2 lastwasq d2i d2i d2i bmatch reversesol doswap bmatch oldc oldj bmatch bmatch oldc doswap oldc oldj doswap bmatch doswap doswap bmatch bmatch in d1 d2 break if g1 i != g2 i g1 = join g1 g2 = join g2 if int g1 i > 		14 97
+tryminimize num if type 		108 112
+reversesol lastwasq cname reversesol lastwasq cname 		6 12
+def 		3 4

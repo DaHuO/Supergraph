@@ -1,0 +1,2 @@
+numbersenators listsen numbersenators listsen int raw_input for 		52 61
+listsenators priorityqueue listsenators neworder neworder neworder neworder neworder neworder for i in range num q put - i alphabet i + 1 		11 43

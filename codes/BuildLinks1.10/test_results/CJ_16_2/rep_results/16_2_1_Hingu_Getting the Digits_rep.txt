@@ -1,0 +1,1 @@
+def main for t in xrange int raw_input strip number = s = sorted list raw_input strip if Z in s for i in range s count Z number append 0 s remove Z s remove E s remove R s remove O if X in s for i in range s count X number append 6 s remove S s remove I s remove X if G in s for i in range s count G number append 8 s 		1 46

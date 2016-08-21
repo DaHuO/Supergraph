@@ -1,0 +1,1 @@
+def findbest s if len s == 0 return s maxletter = max s firstoccurrence = s index maxletter return maxletter * s count maxletter + findbest s firstoccurrence + join c if c != maxletter else for c in s firstoccurrence 		1 6

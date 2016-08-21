@@ -1,0 +1,1 @@
+total_t total_t list_other lists_current lists_current list_other lists_current lists_current list_other list_other readline for t in xrange 1 + 1 n = int f readline rstrip \n lists = map int f readline rstrip \n split 		5 42

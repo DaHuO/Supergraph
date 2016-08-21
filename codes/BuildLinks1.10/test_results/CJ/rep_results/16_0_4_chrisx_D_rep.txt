@@ -1,0 +1,2 @@
+zip_longest order_in_set order_in_set order_in_set s if c * s < k return impossible sol = if k % c == 0 		17 40
+def parse input_file output_file with open input_file as f t = int f 		3 14

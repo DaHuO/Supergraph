@@ -1,0 +1,8 @@
+def 		96 97
+debugging hasattr 		92 94
+		68 69
+def read_case id input n 		30 34
+prepare_cached data.pickle loaded {}.\n ioerror prepared {}.\n 		99 107
+prepare prepared_data 		67 72
+completed preparation seconds.\n processing (output {}). {:.0f} elapsed. debugging \r processed seconds. seconds.\n - t0 t = int stdin readline for 		109 125
+def solve_case id parties total = sum parties plan = while total > 0 if total == 3 		36 64

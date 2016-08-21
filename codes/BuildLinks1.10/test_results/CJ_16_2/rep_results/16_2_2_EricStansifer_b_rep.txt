@@ -1,0 +1,6 @@
+first_bigger x y first n = len x for i in range first + 1 n if x i == - 1 x i = 0 if y i == - 		5 36
+first_bigger first_bigger res_ consistent consistent res_ res_ res_ x = digit c for c in x_ y = digit c for c in y_ n = len x res = first = None for i in range n if x i != - 1 		62 111
+def concat 		44 45
+consistent x_ i y = str i 		53 60
+def digit 		38 42
+def pad i 		47 51

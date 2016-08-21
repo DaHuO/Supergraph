@@ -1,0 +1,4 @@
+numind numind numind numind = for n in range len nums print range len nums mapsc = copy copy 		27 58
+A-small-attempt2.in.txt outStr with open r as f inp = f read split \n inp = inp 1 for 		61 87
+def 		15 16
+outStr outStr 		19 22

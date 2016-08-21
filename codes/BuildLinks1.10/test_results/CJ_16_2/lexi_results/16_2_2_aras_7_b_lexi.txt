@@ -1,0 +1,1 @@
+def find_items sss itm = for i x in enumerate sss new_itm = for s in itm if x != ? s += x new_itm append s else for xx in range 10 ss = s + str xx new_itm append ss itm = new_itm return itm 		8 23

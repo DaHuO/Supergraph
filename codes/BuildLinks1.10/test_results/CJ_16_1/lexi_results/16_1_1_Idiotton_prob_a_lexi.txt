@@ -1,0 +1,1 @@
+def f s maxchar = none ans = for c in s if maxchar == none or c >= maxchar ans insert 0 c maxchar = c else ans append c return join ans 		1 12

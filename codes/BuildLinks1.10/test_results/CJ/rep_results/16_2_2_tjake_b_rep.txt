@@ -1,0 +1,3 @@
+numa nowa numb nowb numa numb numa nowa numb nowb numa numa nowa numb nowb numa 		33 54
+nowb fa d now if d == len 		10 20
+def fb d now if d == len 		22 32

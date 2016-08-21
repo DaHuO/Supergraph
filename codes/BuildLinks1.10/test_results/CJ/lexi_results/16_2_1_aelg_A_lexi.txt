@@ -1,0 +1,3 @@
+def get_line f return f readline rstrip \n 		16 17
+def solve line c = res = a = z 0 w 2 u 4 x 6 s 7 v 5 g 8 o 1 h 3 i 9 numbers = zero one two three four five six seven eight nine for letter number in a c letter = line count letter for letter number in a temp = c letter res append str number * temp for character in numbers number if character in c keys c character -= temp return join sorted res return join l 		19 40
+def get_lines filename lines = try with open filename r as f while true line = f readline rstrip \n if line == break lines append line except eoferror pass return lines 		3 14

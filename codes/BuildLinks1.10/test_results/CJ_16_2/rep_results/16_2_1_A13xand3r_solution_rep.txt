@@ -1,0 +1,3 @@
+nscounted vscounted hscounted hscounted vscounted nscounted nscounted vscounted vscounted nscounted hscounted for i in range 0 len block if block i in checkmark checkmark block i += 1 else checkmark block i = 1 nums = oscounted = 0 sscounted = 0 = 0 = 0 = 0 if Z in checkmark 		30 97
+writeanswer lines file with open file w+ as f 		16 23
+readandwritefile numcases linestowrite numcases linestowrite writeanswer linestowrite f lines 		3 14

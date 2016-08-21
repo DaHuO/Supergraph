@@ -1,0 +1,2 @@
+next_step p s = sum p for _ p in p p sort key = lambda 		9 21
+letter_from_int 		6 7

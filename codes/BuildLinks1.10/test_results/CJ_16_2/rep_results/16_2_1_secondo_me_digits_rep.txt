@@ -1,0 +1,2 @@
+primesfrom3to r_ nonzero n >= 2 sieve = np ones n 		5 13
+nontrivial_divisor n d = 		20 27

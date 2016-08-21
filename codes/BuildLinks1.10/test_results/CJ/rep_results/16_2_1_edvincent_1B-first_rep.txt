@@ -1,0 +1,2 @@
+can_create cnter cnter = 		15 19
+recur_create can_create temp_current_number temp_current_number next_recurr recur_create next_recurr recur_create str_number in possibilities keys if 		21 39

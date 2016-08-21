@@ -1,0 +1,1 @@
+def solve s r = for c in s if len r == 0 or c >= r 0 r = c + r else r += c return r 		2 9

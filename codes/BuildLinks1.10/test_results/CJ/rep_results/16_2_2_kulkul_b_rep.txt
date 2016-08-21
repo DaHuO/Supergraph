@@ -1,0 +1,2 @@
+---start test--- test_cases_in 2? ??3 ?0 test_cases_out 023 00 test_cases_in 		37 61
+ques_count min_left ques_count ques_count left_str right_str min_left left_str right_str right_str min_left left_str right_str min_left = 0 for i in itertools product 0 1 2 3 		7 33

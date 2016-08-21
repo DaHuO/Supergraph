@@ -1,0 +1,4 @@
+getindex 		12 13
+getchar 		15 16
+getfiles name 		2 3
+getvalue getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex getindex retvalue retvalue retvalue retvalue 1 numbers 0 = z buckets z = 0 w = buckets w for i in range w buckets t -= 1 buckets 		18 136

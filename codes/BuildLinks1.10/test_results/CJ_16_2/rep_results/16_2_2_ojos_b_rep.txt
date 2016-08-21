@@ -1,0 +1,1 @@
+def run C J l L if l == L return tempC tempJ = run C J 		3 48

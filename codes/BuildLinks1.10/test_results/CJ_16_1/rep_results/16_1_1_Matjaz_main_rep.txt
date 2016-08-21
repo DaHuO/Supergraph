@@ -1,0 +1,1 @@
+def solve s best = 0 if len 		6 13

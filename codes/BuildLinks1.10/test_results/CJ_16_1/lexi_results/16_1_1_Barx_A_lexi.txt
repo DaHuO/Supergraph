@@ -1,0 +1,2 @@
+def main source dest with open source r as fd open dest w as fo t = int fd readline for i in range 1 t + 1 word = fd readline rstrip result = solve word print case # + str i + : + result + \n fo write case # + str i + : + result + \n 		13 22
+def solve word result = word 0 for w in word 1 if w >= result 0 result insert 0 w else result append w return join result 		2 10

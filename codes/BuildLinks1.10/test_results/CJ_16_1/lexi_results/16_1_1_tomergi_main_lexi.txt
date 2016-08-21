@@ -1,0 +1,2 @@
+def print_answer s case print case #%d: %s % case find_answer s 		16 17
+def find_answer s current = for i in s if not current current += i elif i >= current 0 current = i + current else current += i return current 		3 13

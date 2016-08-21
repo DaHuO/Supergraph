@@ -1,0 +1,1 @@
+def winningword inputstring result = for letter in inputstring if not result or result 0 > letter result = result + letter else result = letter + result return result 		1 9

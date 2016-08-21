@@ -1,0 +1,1 @@
+def lastword inputstring results = outputstring = inputstring 0 for i in range 1 len inputstring intermediatestring = sorted outputstring + inputstring i inputstring i + outputstring outputstring = intermediatestring 1 return outputstring 		3 11

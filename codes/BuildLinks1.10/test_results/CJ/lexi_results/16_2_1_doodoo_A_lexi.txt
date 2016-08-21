@@ -1,0 +1,3 @@
+def do_digit count letter digit mul = 1 c = count get letter 0 / mul for d in digits digit reduce_count count d c return str digit for i in xrange c 		6 12
+def solve s count = for s in s count s = count get s 0 + 1 res = res += do_digit count z 0 res += do_digit count x 6 res += do_digit count s 7 res += do_digit count u 4 res += do_digit count f 5 res += do_digit count w 2 res += do_digit count o 1 res += do_digit count n 9 2 res += do_digit count i 8 res += do_digit count t 3 for k v in count items assert v == 0 return join sorted res 		15 37
+def reduce_count count dig c count dig = count get dig 0 - c 		3 4

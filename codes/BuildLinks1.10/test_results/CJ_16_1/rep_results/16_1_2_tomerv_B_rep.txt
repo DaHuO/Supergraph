@@ -1,0 +1,1 @@
+def solve n nums = defaultdict int for i 		4 13

@@ -1,0 +1,1 @@
+def CalSingle nac ch idx n = nac ch for c in numbers idx nac c -= n return n 		5 9

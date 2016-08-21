@@ -1,0 +1,2 @@
+def helper k c for k in 		21 24
+total_t total_t fin = open input.txt r = int fin readline for 		4 19

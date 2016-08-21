@@ -1,0 +1,4 @@
+exhaust enlarge jlist jlist enlarge jlist jlist cchar in c clist = clist cchar = 0 for 		45 68
+def abs 		40 43
+crep jrep crep jrep crep jrep whoIsGreater = None for i in range len C cchar = c i jchar = j i if whoIsGreater == c if cchar == ? cchar = 0 if jchar 		70 120
+enlarge clist char rep = if char != 		28 38

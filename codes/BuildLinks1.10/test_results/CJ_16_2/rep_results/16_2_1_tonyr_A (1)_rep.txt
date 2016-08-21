@@ -1,0 +1,4 @@
+WriteResult output.out case_i case_i case_i w 		91 98
+choose n 		19 20
+solve_bruteforce number_order counta number_order num_of_number counta counta counta num_of_number num_of_number output_ 		62 77
+solve_all_brute all_ins instance 		84 88

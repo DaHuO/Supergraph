@@ -1,0 +1,1 @@
+def sol n = int f readline p = map int f readline split  x = sum p plan = while x m = max p i = p index m y = chr 65 + i p i -= 1 x -= 1 if p count m and x != 2 i = p index m y += chr 65 + i p i -= 1 x -= 1 plan += y return  join plan 		4 21

@@ -1,0 +1,2 @@
+possible_as get_list_of_integers possible_bs get_list_of_integers possible_as possible_bs possible_as possible_bs min_a = 0 min_b = 0 min_abs_diff = abs min_a - min_b 		17 40
+get_list_of_integers get_list_of_integers values = index = a 		6 14

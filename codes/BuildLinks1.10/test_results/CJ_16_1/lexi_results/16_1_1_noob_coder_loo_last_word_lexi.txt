@@ -1,0 +1,2 @@
+def index_of_largest_char s largest_letter = max s index = len s - 1 while s index != largest_letter index -= 1 return index 		5 12
+def compute_last_word s if len s <= 2 return sorted s s - 1 - 1 index = index_of_largest_char s letter = s index first_part = s index second_part = s index + 1 return str letter + str compute_last_word first_part + str second_part 		15 24

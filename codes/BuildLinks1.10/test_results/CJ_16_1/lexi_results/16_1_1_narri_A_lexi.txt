@@ -1,0 +1,2 @@
+def _cc for line in sys stdin for x in line strip split yield x 		3 6
+def solve s memo = for fulllen in xrange 1 len s + 1 out = chr ord a - 1 sout = chr ord a - 1 for idx in xrange fulllen ss = s idx + memo idx + s idx + 1 fulllen if ss > out out = ss if out == sout out = memo append out return memo - 1 		12 24

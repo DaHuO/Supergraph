@@ -1,0 +1,22 @@
+Direct links:
+24 - 25 links:
+16_1_2_dfan_b_rank_and_file	:	56 - 57
+
+27 - 32 links:
+16_2_1_dfan_a_getting_the_digits	:	128 - 133
+16_2_2_dfan_b_close_match	:	135 - 140
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+
+
+With same rare tokens:
+27 - 32 links:
+16_2_1_dfan_a_getting_the_digits	:	128 - 133
+16_2_2_dfan_b_close_match	:	135 - 140
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+16_2_1_dfan_a_getting_the_digits	:	128 - 133
+16_2_2_dfan_b_close_match	:	135 - 140
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+16_2_1_dfan_a_getting_the_digits	:	128 - 133
+16_2_2_dfan_b_close_match	:	135 - 140
+16_1_2_dfan_b_rank_and_file	:	59 - 64
+

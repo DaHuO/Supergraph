@@ -1,0 +1,3 @@
+		21 22
+def solve t = int 		15 19
+def solvecase s = input 		7 13

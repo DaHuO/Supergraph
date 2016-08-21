@@ -1,0 +1,2 @@
+def 		5 6
+B-small-attempt0.in B-small-attempt0.out in_file = open mode = r out_file = open mode = w lines = in_file readlines T = int lines 0 for i in xrange T line = lines i + 1 C J = line split  l 		8 42

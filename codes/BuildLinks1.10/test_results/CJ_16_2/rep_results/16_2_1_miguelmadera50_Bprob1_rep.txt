@@ -1,0 +1,1 @@
+def solution string num = while len string != 0 if Z in string string = string replace Z 1 string = string replace E 1 string = string replace R 1 string = string replace O 1 num += 0 continue if W in string string = string replace T 1 string = string replace W 1 string = string replace O 1 num += 2 		1 75

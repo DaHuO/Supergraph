@@ -1,0 +1,8 @@
+readlinearray foo 		16 17
+gcd a 		20 23
+gen_primes max primes = 1 * max + 1 for 		26 33
+		4 5
+		8 9
+readarray n 		12 13
+def get s for l in string ascii_uppercase 		47 51
+get_min_divisor n for p 		38 44

@@ -1,0 +1,3 @@
+unique_id unique_id Found digit occurences = self s 		45 54
+__str__ 		42 43
+Phone number: __str__ s self s = s self sl = list 		22 40

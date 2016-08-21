@@ -1,0 +1,20 @@
+Direct links:
+1 - 8 links:
+16_1_1_alexis_ivashchenko_prog1	:	4 - 13
+16_1_1_adbjesus_main	:	1 - 11
+16_1_1_cptcarrot_proba	:	1 - 8
+16_3_1_bakharev_k_1C GCJ	:	11 - 22
+
+13 - 15 links:
+16_0_4_aizjForever_Fractile	:	5 - 7
+
+
+With same rare tokens:
+13 - 15 links:
+16_3_1_GradyS_codejam_1	:	11 - 14
+16_0_4_aizjForever_Fractile	:	5 - 7
+16_0_4_aizjForever_Fractile	:	5 - 7
+16_0_4_aizjForever_Fractile	:	5 - 7
+16_0_4_aizjForever_Fractile	:	5 - 7
+16_0_4_aizjForever_Fractile	:	5 - 7
+

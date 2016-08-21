@@ -1,0 +1,4 @@
+def md 		5 6
+def ad a 		7 8
+2500 2500 b = false for i in range 0 for j 		10 21
+tp a m n 		3 4

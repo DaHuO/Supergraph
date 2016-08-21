@@ -1,0 +1,3 @@
+check_sol possible_first possible_second possible_first possible_second x 0 for 		4 10
+check_sol brute_force topics for i 		12 17
+num_topics num_topics it = fileinput input cnt = 		19 27

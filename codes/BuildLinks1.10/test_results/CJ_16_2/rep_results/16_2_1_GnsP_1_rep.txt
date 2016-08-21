@@ -1,0 +1,3 @@
+def possible m 		6 10
+def solve m l if m count == 0 return l for dig 		52 70
+preprocess m l for i in range m Z l append 0 m count -= m Z * 4 m E -= m Z m R -= m Z m O -= m Z m 		12 48

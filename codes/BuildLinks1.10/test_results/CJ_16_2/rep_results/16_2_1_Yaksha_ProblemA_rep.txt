@@ -1,0 +1,4 @@
+%s=%s\t p ** 		6 11
+doSolve parseTestCase solver log = False with open filename as infile 		14 27
+parseTestCase file 		34 37
+def solver * args final = for i in range 10 final i = 0 final 0 = args count z final 2 		39 59

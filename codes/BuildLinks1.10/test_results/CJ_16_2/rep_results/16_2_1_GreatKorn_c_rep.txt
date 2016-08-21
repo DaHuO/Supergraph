@@ -1,0 +1,1 @@
+def solve arr ans = global l if len arr == 0 ans sort fout write Case # + str l + : + join map str ans + \n if X in arr for i in d 6 arr 		4 50

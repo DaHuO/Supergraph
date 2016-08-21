@@ -1,0 +1,2 @@
+def match num phrase N for i j in zip num phrase if i == j continue if j == ? continue return False return True 		3 8
+def solve A B N = len A best = 10 ** N pA = pB = for i in A if i == ? pA append digits else pA append i for i in B if i == ? pB append digits else pB append i for i in product * pA for j in product * pB dif = abs int join i - int join j if dif < best if match i A N and match j B N best = dif mem = i j i j = mem i = join i j = join j return i +  + j 		13 59

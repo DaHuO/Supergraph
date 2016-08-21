@@ -1,0 +1,4 @@
+def main it = fileinput input 		118 123
+c_i c_t c_i check_match c_t j_i j_t j_i check_match j_t c_i j_i c_i j_i c_t j_t 		100 116
+check_match c_1 c_2 c_1 		93 98
+def solve c_s j_s c_res = j_res = leader = 0 for i in range len c_s c_c = c_s i j_c = j_s i if i + 1 < len c_s j_n = j_s i + 1 c_n = c_s i + 1 else j_n = 0 c_n = 0 if c_c == ? if leader == 0 if j_c != ? if j_n != ? and c_n != ? and j_n != c_n 		3 91

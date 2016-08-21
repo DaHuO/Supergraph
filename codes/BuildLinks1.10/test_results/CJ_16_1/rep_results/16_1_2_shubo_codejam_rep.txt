@@ -1,0 +1,2 @@
+def solve t inputs inp = 0 for t in xrange t n = int inputs inp 0 rows 		4 26
+[input] exist! if len sys argv < 2 sys exit usage: %s % 		29 41

@@ -1,0 +1,1 @@
+def rem S w for c in w S remove c return S 		21 24

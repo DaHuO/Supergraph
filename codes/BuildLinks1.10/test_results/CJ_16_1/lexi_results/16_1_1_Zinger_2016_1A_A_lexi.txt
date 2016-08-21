@@ -1,0 +1,1 @@
+def doit s if s == return else high = len s - s - 1 find max s - 1 s = s high + doit s high + s high + 1 return s 		12 18

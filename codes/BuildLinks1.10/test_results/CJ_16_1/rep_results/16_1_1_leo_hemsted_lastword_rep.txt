@@ -1,0 +1,1 @@
+wordthing popleft wordthing wordthing = deque word_queue append word = next_chars = s 		4 15

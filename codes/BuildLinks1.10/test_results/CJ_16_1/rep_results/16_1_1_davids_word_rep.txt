@@ -1,0 +1,3 @@
+def do_case case chars = case 		29 38
+def 		10 12
+def print_case result 		23 26

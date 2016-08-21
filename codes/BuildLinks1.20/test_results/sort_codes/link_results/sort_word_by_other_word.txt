@@ -1,0 +1,9 @@
+
+With same rare tokens:
+8 - 18 links:
+stoogesort	:	15 - 22
+quicksort_solved	:	81 - 115
+sort	:	93 - 104
+quicksort_inplace	:	21 - 25
+test_sorts	:	50 - 74
+

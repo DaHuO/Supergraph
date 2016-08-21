@@ -1,0 +1,1 @@
+evacuate_senate partiesvals parties p = string letters 26 plan = while sum parties != 0 if sum 1 for i in parties if i != 0 > 		5 32

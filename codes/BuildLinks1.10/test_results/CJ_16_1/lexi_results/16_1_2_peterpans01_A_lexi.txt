@@ -1,0 +1,1 @@
+def solveb data size c = for i in xrange len data if data i not in c c data i = 1 else c data i += 1 r = for e in c if c e % 2 != 0 r append e r sort return r 		21 33

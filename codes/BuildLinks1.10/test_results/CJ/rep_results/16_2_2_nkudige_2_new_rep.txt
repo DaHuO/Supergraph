@@ -1,0 +1,3 @@
+getallpossible allpossible %03d ispossible allpossible 		8 17
+getsol c_poss getallpossible j_poss getallpossible c_poss j_poss c list j mindiff 		19 34
+ispossible item x for 		1 6

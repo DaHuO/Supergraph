@@ -1,0 +1,1 @@
+def answer s ans = s 0 for i in range 1 len s if s i + ans > ans + s i ans = s i + ans else ans = ans + s i return ans 		8 15

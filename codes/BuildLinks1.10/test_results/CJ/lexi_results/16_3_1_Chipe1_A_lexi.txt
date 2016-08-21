@@ -1,0 +1,1 @@
+def getsum a return sum i 0 for i in a 		3 4

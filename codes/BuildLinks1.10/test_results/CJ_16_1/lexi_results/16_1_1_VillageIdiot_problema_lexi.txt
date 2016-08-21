@@ -1,0 +1,1 @@
+def dotest s out = for c in s if len out > 0 if ord c >= ord out 0 out = c + out else out = out + c else out = c return out rstrip \n 		2 12

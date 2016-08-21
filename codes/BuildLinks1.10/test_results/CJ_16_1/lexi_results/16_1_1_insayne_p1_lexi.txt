@@ -1,0 +1,2 @@
+def write_line line open output.txt a write str line + \n 		9 10
+def read_file for line in open a-large (1).in r yield line strip 		3 5

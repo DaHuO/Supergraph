@@ -1,0 +1,9 @@
+take_many take_one ind letters result = 		74 81
+make_fmt specials 		4 5
+indicators INDICATORS_0 INDICATORS_1 indicators take_many digits = for in for 		84 95
+splitext _case_idx self file_name = None verbose = True formatter = 		18 27
+take_one digit letters result = 		64 71
+make_seq_fmt item_fmt item_fmt 		8 9
+def msg 		29 30
+types types types types words = 		32 43
+pfx_char pfx _case_idx _case_idx pfx pfx_char pfx Case 		46 54

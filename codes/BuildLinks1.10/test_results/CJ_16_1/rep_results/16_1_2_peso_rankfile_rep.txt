@@ -1,0 +1,2 @@
+appok appok m i rs cs w if i == len m and w == true return rs cs if i < len 		19 41
+appok r rs cs i = len rs rs append 		7 16

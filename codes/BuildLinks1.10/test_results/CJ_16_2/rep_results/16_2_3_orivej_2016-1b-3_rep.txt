@@ -1,0 +1,3 @@
+def recurse v if v in preds L 		58 69
+matched_left matched_right legit matched_left matched_right legit stdin readline for case in range 1 t + 1 n = 		77 93
+def bipartiteMatch graph matching = for u in graph for v in graph u if v not in matching matching v = u break while 1 preds = unmatched = pred = dict u unmatched for 		1 71

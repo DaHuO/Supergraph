@@ -1,0 +1,2 @@
+def read_int return int raw_input 		4 5
+def read_ints return map int raw_input split 		7 8

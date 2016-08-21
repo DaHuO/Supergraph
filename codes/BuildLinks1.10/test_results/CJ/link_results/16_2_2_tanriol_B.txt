@@ -1,0 +1,21 @@
+
+With same rare tokens:
+32 - 33 links:
+16_0_4_caethan_d_fractiles	:	60 - 67
+16_3_1_AndersTornkvist_a	:	134 - 139
+16_3_1_AndersTornkvist_a	:	124 - 129
+16_2_2_Vytas_solution	:	26 - 27
+16_2_2_Vytas_solution	:	23 - 24
+
+29 - 30 links:
+16_0_4_caethan_d_fractiles	:	60 - 67
+
+35 - 36 links:
+16_3_1_AndersTornkvist_a	:	134 - 139
+16_3_1_AndersTornkvist_a	:	124 - 129
+16_2_2_Vytas_solution	:	26 - 27
+16_2_2_Vytas_solution	:	23 - 24
+
+50 - 52 links:
+16_0_4_caethan_d_fractiles	:	60 - 67
+

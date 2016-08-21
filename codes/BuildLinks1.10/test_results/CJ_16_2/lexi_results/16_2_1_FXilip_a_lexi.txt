@@ -1,0 +1,2 @@
+def special d s sn word res n = d count s res += sn * n d = remove d word n return d res 		11 15
+def remove d word n for w in list word d = d replace w n return d 		6 9

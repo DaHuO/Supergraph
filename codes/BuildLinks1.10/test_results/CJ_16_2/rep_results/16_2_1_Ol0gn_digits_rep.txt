@@ -1,0 +1,1 @@
+prev_num prev_num num_found num_wc num_wc num_found num_found num_wc num_wc glob_phone_num glob_phone_num glob_phone_num curr_num > 9 return False = True 		20 47

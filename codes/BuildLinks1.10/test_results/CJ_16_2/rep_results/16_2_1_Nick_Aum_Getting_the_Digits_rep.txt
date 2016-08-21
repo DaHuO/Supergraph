@@ -1,0 +1,3 @@
+read_lines all_lines all_lines 		7 11
+solve_problem input_item digits = 0 * 10 digits 0 = input_item count Z digits 2 = input_item count W digits 6 = input_item count X digits 4 = input_item count U digits 		29 71
+clean_up all_lines final_lines all_lines 		15 23

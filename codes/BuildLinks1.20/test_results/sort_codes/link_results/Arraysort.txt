@@ -1,0 +1,11 @@
+
+With same rare tokens:
+69 - 88 links:
+sort	:	10 - 20
+sortTest	:	36 - 38
+sort_insertion	:	16 - 27
+sorts	:	197 - 223
+sorts	:	11 - 43
+test_sorts	:	29 - 39
+sorting	:	34 - 47
+

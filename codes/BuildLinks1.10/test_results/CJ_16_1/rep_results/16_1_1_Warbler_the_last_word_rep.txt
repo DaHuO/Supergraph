@@ -1,0 +1,1 @@
+def solve word lenth = len word 		2 10

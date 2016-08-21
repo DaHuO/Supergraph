@@ -1,0 +1,3 @@
+def make_tree ch levels if levels == 0 return ch ky = ch levels if ky in memo return memo ky tree1 = make_tree ch levels - 1 tree2 = make_tree other ch levels - 1 if tree1 < tree2 ret = tree1 + tree2 else ret = tree2 + tree1 memo ky = ret return ret 		18 31
+def _cc for line in sys stdin for x in line strip split yield x 		3 6
+def solve n r p s out = none for ch in rps mytree = make_tree ch n cts = r 0 p 0 s 0 for cc in mytree cts cc += 1 if cts r == r and cts p == p and cts s == s if out is none out = mytree else out = min out mytree if out is none out = impossible return out 		33 47

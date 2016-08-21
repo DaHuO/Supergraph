@@ -1,0 +1,2 @@
+		4 5
+def solve k c s if c == 1 if s < k return impossible else return  join str 		27 53

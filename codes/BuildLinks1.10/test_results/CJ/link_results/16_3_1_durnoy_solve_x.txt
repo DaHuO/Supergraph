@@ -1,0 +1,15 @@
+
+With same rare tokens:
+9 - 29 links:
+16_2_1_durnoy_solve_x	:	12 - 13
+16_2_1_durnoy_solve_x	:	12 - 13
+
+31 - 46 links:
+16_0_4_durnoy_solve_x_small	:	11 - 25
+16_0_4_durnoy_solve_x_small	:	11 - 25
+16_0_4_durnoy_solve_x_small	:	11 - 25
+16_0_4_durnoy_solve_x_small	:	11 - 25
+
+6 - 7 links:
+16_2_1_durnoy_solve_x	:	12 - 13
+

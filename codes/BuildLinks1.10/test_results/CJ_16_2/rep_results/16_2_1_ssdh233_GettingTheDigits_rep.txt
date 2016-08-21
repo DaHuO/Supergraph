@@ -1,0 +1,2 @@
+def 		3 4
+def solve S alpha = 0 for _ in range 26 for s in S alpha ord s - 65 += 1 number = 0 for _ in range 10 number 0 = alpha ord Z - 65 alpha ord Z - 65 -= number 0 alpha ord E - 65 -= number 0 alpha ord R - 65 -= number 0 alpha ord O - 65 -= number 0 number 2 = alpha ord W - 65 alpha ord T 		6 62

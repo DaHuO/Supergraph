@@ -1,0 +1,1 @@
+def rank_file mat n = len mat cnt = 0 * 2501 for i in range len mat for j in range len mat 0 cnt mat i j += 1 out = for i in range 2501 if cnt i % 2 != 0 out append i return out 		6 16

@@ -1,0 +1,7 @@
+answer_2 C J best_c best_j = None None for c in xrange 1000 for j in xrange 		105 116
+def fmt num 		14 16
+c_first j_first c_first j_first = C find ? J find ? try minimum = min x for x in if x != - 1 except minimum = None if minimum is not None if C minimum > J minimum return minimize C maximize J elif C minimum < J minimum return maximize C minimize J if C find ? in len C - 1 - 1 and J find ? in len C - 1 - 1 if len C == len J == 1 if C 0 == ? and J 0 == ? return 0 0 if C 0 == ? return J J 		24 103
+def 		21 22
+def replace string index 		10 12
+def match x X x = 		3 8
+def 		18 19

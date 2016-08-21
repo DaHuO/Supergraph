@@ -1,0 +1,2 @@
+def solve arr dd = defaultdict int for 		13 22
+_cc for 		4 7

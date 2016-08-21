@@ -1,0 +1,1 @@
+def solve n l l = sorted l r = b = 0 		5 22

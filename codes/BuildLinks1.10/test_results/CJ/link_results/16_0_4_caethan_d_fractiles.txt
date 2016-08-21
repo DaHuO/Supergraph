@@ -1,0 +1,42 @@
+Direct links:
+96 - 99 links:
+16_0_4_Davidinosauro_D-fractiles	:	12 - 16
+16_3_1_9bamboo_main	:	42 - 44
+
+49 - 51 links:
+16_3_1_AndersTornkvist_a	:	28 - 29
+16_2_1_bsoist_A	:	21 - 23
+16_1_2_Aurel_code	:	20 - 22
+16_1_1_Aurel_code	:	20 - 22
+
+38 - 48 links:
+16_3_1_AndersTornkvist_a	:	18 - 26
+16_2_1_bsoist_A	:	10 - 20
+
+
+With same rare tokens:
+109 - 112 links:
+16_1_2_goulagman_rank	:	4 - 10
+16_1_2_goulagman_rank	:	4 - 10
+16_1_2_hatze_b	:	3 - 21
+
+69 - 93 links:
+16_3_1_9bamboo_main	:	13 - 36
+16_2_2_Earthwings_match	:	10 - 27
+
+88 - 89 links:
+16_3_1_9bamboo_main	:	13 - 36
+16_2_2_Earthwings_match	:	10 - 27
+
+60 - 67 links:
+16_2_2_tanriol_B	:	32 - 33
+16_2_2_tanriol_B	:	29 - 30
+16_2_2_tanriol_B	:	50 - 52
+
+96 - 99 links:
+16_0_4_Davidinosauro_D-fractiles	:	12 - 16
+
+38 - 48 links:
+16_3_1_AndersTornkvist_a	:	18 - 26
+16_2_1_bsoist_A	:	10 - 20
+

@@ -1,0 +1,1 @@
+second_most second_most second_most second_most ans = total = sum p k for k in p if total % 		3 21

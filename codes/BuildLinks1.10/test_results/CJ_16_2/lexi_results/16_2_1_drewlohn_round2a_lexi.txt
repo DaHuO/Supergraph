@@ -1,0 +1,1 @@
+def removeNumber string num sList = list string for letter in letters num loc = sList index letter sList pop loc return str sList 		17 22

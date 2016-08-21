@@ -1,0 +1,1 @@
+def solve_riddle input stri = input res = input 0 for i in range 1 len input c = input i if c >= res 0 res = c + res else res = res + c return res 		6 15

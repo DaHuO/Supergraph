@@ -1,0 +1,2 @@
+pg solve c j cs = c for c in c js = c for c in j gt = 0 for i in xrange len cs if cs i != 		1 34
+minabs abd abd minabs abd minabs minabs abd for c in c if c == ? + len c for c in j if c == ? mx = 10 ** ct minc minj = 10 ** 10 10 ** 		37 68

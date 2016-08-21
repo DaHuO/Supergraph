@@ -1,0 +1,1 @@
+def rankfile n rows d = for row in rows for 		1 15

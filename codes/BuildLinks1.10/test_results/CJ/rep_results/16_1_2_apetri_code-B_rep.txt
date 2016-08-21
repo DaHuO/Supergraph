@@ -1,0 +1,2 @@
+missinglist flatten lines numbers_seen = dict for n in lines if 		7 24
+missinglist main ntest = int line for t in range ntest n 		32 47

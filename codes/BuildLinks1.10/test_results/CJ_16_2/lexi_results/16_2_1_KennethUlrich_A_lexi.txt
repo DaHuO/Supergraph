@@ -1,0 +1,1 @@
+def solve s dgts if not s return dgts for e d in enumerate digits t = s for c in d if c in t t = t replace c 1 else break else result = solve t dgts + e if result is not None return result return None 		9 23

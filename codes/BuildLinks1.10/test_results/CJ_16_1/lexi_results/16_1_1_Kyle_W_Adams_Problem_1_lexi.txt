@@ -1,0 +1,1 @@
+def lastword letters result = letters 0 for c in letters 1 if result 0 > c result += c else result = c + result return result 		2 9

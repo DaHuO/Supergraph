@@ -1,0 +1,2 @@
+def handle_digit count digit letter 		6 15
+def digits s c = Counter s cur = cur += handle_digit c 0 		17 33

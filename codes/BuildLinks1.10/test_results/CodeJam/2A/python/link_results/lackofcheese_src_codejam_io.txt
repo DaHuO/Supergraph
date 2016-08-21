@@ -1,6 +1,8 @@
-90 - 113 links:
-jzj_A	:	43 - 53
 
+With same rare tokens:
 37 - 88 links:
 LinesPrower_p1	:	39 - 55
+
+90 - 113 links:
+jzj_A	:	43 - 53
 

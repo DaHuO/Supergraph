@@ -1,5 +1,5 @@
 testEmpty 		24 26
-testRandom java lang 		36 38
+testRandom MIN_VALUE MAX_VALUE 		36 38
 testSorted self 		28 30
-sortedArray sortedArray jArray jarray sortedArray java lang Integer 		13 21
+sortedArray sortedArray jArray jarray sortedArray method METHODS arrayCopy 		13 21
 testReverse self 		32 34

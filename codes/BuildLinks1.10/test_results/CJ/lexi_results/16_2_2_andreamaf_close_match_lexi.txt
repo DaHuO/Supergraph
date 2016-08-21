@@ -1,0 +1,2 @@
+def check s p l for i in xrange l if p i != ? and p i != s i return false return true 		3 7
+def solve t c j = raw_input split l = len c ans = for n in xrange 10 ** l ns = str n while len ns < l ns = 0 + ns if not check ns c l continue for m in xrange 10 ** l ms = str m while len ms < l ms = 0 + ms if not check ms j l continue ans append abs n - m n m ns ms ans sort c j = ans 0 3 ans 0 4 print case #%d: %s %s % t c j 		10 32

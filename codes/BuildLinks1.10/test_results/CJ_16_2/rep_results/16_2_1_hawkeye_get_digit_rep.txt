@@ -1,0 +1,1 @@
+def parse num res = num = list num try while Z in num num pop num index Z num pop num index E num pop num index R num pop num index O res append 0 except ValueError pass try while X in num num pop num index S num pop num index I num pop num index X res append 6 except 		1 95

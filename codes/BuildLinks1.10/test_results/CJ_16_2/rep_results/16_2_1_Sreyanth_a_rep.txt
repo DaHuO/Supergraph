@@ -1,0 +1,1 @@
+def number s f = if not len s return n = while Z in s n append 0 for k in ZERO s = s replace k 1 while G in s n append 8 for 		1 47

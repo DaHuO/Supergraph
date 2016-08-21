@@ -1,0 +1,1 @@
+s_len s_len s = len s result 		5 13

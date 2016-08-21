@@ -1,0 +1,11 @@
+property def float self return float next self data 		81 82
+def cmp_f x y epsilon = 0.00000001 if - epsilon <= x - y <= epsilon return true if - epsilon <= x <= epsilon or - epsilon <= y <= epsilon return false return - epsilon <= x - y / x <= epsilon 		44 59
+def letter n return str chr n + ord a 		4 5
+property def frac self return fraction float next self data 		83 84
+def __init__ self filename with open filename r as fichier lines = fichier readlines self data = read_elements lines 		72 75
+property def int self return int next self data 		77 78
+def resalgo n return n 		12 13
+def peek q x = q get q put x return x 		7 10
+def algo inp n = inp int people = priorityqueue res = for i in range n x = inp int people put - x x i cont = true while cont _ a b = people get _ i las = peek people print a b i las if people qsize < 2 for j in range a res append letter b + letter las cont = false else for j in range a - i + 1 res append letter b if i > 1 people put 1 - i i - 1 b return  join res 		15 36
+property def str self return str next self data 		79 80
+def read_elements lines for s in lines for i in s split yield i 		67 69

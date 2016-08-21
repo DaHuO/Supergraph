@@ -1,0 +1,3 @@
+def __init__ self bff self n = 		4 9
+def check self length circle = self circle for i in range 		11 19
+def go self length if length > self best and 		21 29

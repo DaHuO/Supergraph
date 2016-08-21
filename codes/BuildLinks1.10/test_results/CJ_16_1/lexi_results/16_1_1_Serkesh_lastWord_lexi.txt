@@ -1,0 +1,3 @@
+def parse path files = open path files readline content = files readlines return content 		2 6
+def output data = parse a-large.in l = for i in range len data l append case # + str i + 1 + : + lastword data i output = open outputword.out w output writelines l 		19 25
+def lastword word res = word 0 for i in range 1 len word if word i < res 0 res = res + word i else res = word i + res return res 		8 15

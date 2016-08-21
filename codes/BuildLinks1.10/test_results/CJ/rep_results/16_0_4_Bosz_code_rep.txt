@@ -1,0 +1,2 @@
+createfractile original k complexity temp = original result = 		2 14
+createallpermutation allcombination allcombination createfractile createallpermutation createallpermutation 		17 28

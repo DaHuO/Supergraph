@@ -1,0 +1,1 @@
+def solve niz if niz == return m p = niz 		4 17

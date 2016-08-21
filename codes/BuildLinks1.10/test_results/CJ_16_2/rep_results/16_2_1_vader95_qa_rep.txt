@@ -1,0 +1,2 @@
+countn s d = dict zip range 10 0 * 10 d 0 = s count Z s = remove_all s ZERO d 0 d 2 = s count W 		5 31
+def remove_all s 		1 4

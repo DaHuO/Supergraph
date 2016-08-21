@@ -1,0 +1,1 @@
+rowlen rowcol_lines logger rowlen: rowlen rowcol_lines rowlen for line in line = line strip row = list 		12 34

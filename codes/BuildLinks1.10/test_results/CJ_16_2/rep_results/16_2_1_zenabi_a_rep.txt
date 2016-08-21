@@ -1,0 +1,5 @@
+verify s digits c1 = 		52 58
+flatten flatten for i 		19 25
+Something wrong. has_letter subtract_from_counter Something already wrong. values < 0 print is d = while 		31 50
+has_letter c str c2 = 		10 17
+subtract_from_counter c1 str 		4 8

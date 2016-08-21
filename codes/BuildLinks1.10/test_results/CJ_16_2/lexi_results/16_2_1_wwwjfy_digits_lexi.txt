@@ -1,0 +1,3 @@
+def get_digits S global result_list result_list = 0 * 10 _get_digits S 0 result = for i count in enumerate result_list result += str i * count return result 		33 40
+def remove_word S word N = min S count i for i in word for i in range N - 1 - 1 if i == 0 yield S i SS = S for j in word SS = SS replace j i yield SS i 		8 16
+def _get_digits S i global result_list if i == 10 return False for S1 count in remove_word S CONSTANTS i if not S1 result_list i = count return True if _get_digits S1 i + 1 result_list i = count return True return False 		19 30

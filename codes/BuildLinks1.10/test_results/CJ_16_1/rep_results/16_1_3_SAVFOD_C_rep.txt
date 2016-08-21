@@ -1,0 +1,6 @@
+find_longest_path_to_pair links n = len links paired = for i in range n 		52 66
+def dfs ilinks v 		45 49
+unknown save i 		9 12
+def find list 		3 7
+tryit unknown unknown answers if answers i != return cur = i 		14 34
+find_smallest_length unknown tryit = 		36 43

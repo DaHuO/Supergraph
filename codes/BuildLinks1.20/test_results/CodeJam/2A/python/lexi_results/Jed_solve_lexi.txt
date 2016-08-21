@@ -1,0 +1,5 @@
+def main nr_case = int input for i in range nr_case inp = list map int input split r p s = inp 1 try ans = solve p r s except impossible ans = impossible print case #{}: {} format i + 1 ans 		59 68
+def prst func def wfunc * args rst = func * args print args rst return rst return wfunc 		20 25
+def solve np nr ns if min np nr ns < 0 raise impossible td = np + nr + ns // 2 if td == 0 ans = if np ans += p if nr ans += r if ns ans += s return ans ans = a b c = td - ns td - np td - nr for i in solve a b c if i == p o = r a -= 1 elif i == r o = s b -= 1 else o = p c -= 1 ans append i ans append o assert a == b == c == 0 ans = rsort ans return join ans 		29 56
+def wfunc * args rst = func * args print args rst return rst 		21 24
+def rsort seq if len seq == 1 return seq h = len seq // 2 begin = rsort seq h end = rsort seq h if end < begin begin end = end begin return begin + end 		10 18

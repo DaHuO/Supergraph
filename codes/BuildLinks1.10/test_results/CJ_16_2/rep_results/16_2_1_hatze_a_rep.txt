@@ -1,0 +1,6 @@
+save_get decrease_all number 		20 23
+save_get 		6 8
+save_get save_set out = for i in range 10 out append 0 t = int raw_input for i in range t line = raw_input counters 		25 50
+save_set m 		2 4
+decrease_all save_decrease 		16 18
+save_decrease m key 		12 14

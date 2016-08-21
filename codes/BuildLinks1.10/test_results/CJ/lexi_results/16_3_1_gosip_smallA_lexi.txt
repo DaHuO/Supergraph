@@ -1,0 +1,2 @@
+def main f = open a-large.in r t = int f readline for i in range t ans = n = int f readline l = int x for x in f readline strip split evacuate l ans print case # + str i + 1 + : +  join ans f close 		1 10
+def evacuate l ans n = len l total = sum l if total == 0 return idx1 = 0 for i in range n curr = l i if curr > l idx1 idx1 = i l idx1 -= 1 idx2 = 0 for i in range n curr = l i if curr > l idx2 idx2 = i if l idx2 == 0 or total == 3 ans append chr ord a + idx1 else l idx2 -= 1 ans append chr ord a + idx1 + chr ord a + idx2 evacuate l ans 		12 36

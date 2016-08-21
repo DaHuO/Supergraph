@@ -1,4 +1,4 @@
 Next N 		41 42
 def expand c if 		6 12
-alphexpand build s dic line = s for 		25 36
-alphexpand alphexpand alphexpand len line == 1 		14 21
+def build s dic line = s for 		25 36
+def alphexpand line if len line == 		14 21

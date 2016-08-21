@@ -1,0 +1,1 @@
+def get_ans grid n idx rows cols count = 		3 15

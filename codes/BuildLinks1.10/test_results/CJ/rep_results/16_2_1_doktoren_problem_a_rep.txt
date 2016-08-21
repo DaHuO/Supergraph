@@ -1,0 +1,2 @@
+def dec 		10 13
+def main t = int sys stdin readline strip for k in xrange t s = sys stdin readline strip char_counts = counter for ch in 		15 33

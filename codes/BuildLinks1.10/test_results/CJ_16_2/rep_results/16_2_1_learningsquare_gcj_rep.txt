@@ -1,0 +1,2 @@
+write_output outputs filename_out f = open 		6 12
+def read_input 		1 4

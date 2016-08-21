@@ -1,0 +1,1 @@
+def getnewword stringval newval tmpval isnewletterdefined = false pivot = ord stringval 0 newval append stringval 0 for i in stringval 1 tmpval = if pivot <= ord i tmpval append i tmpval extend newval newval = list tmpval pivot = ord i else newval append i return join newval 		5 19

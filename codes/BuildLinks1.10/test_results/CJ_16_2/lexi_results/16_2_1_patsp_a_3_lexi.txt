@@ -1,0 +1,1 @@
+def go dictSIn ans allNotAll = True done = True for n in range nDigits dictS = dictSIn copy all = True for ch in digitStrings n if ch in dictS and dictS ch > 0 dictS ch -= 1 done = False else all = False if all allNotAll = False good ansStr = go dictS copy ans + str n if good return True ansStr if allNotAll and done return True ans return False 		11 30

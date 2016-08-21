@@ -1,0 +1,3 @@
+def getmax dic mkey = a for key in dic if dic key >= dic mkey mkey = key return mkey 		6 11
+def process dic result mkey = getmax dic if dic mkey == 0 return result dic mkey = dic mkey - 1 result = result + str mkey if ismajority dic nmkey = getmax dic dic nmkey = dic nmkey - 1 result = result + str nmkey result = result +  return process dic result 		22 33
+def ismajority dic mkey = getmax dic sum = 0 for key in dic if key != mkey sum += dic key if sum < dic mkey return true return false 		12 20

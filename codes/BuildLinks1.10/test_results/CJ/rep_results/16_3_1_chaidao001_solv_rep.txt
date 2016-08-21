@@ -1,0 +1,4 @@
+hasmajority member member = 		27 34
+member member members index 		36 44
+emptymembers tochar emptymembers tochar emptymembers hasmajority tochar i for i in members split = 0 for _ 		1 25
+occurrance occurrance occurrance occurrance d for letter in d 		46 58

@@ -1,0 +1,2 @@
+		3 3
+do_filter s_filter is_three s_filter is_three = to_remove = for k 		28 40

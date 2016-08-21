@@ -1,0 +1,1 @@
+def remove a c ans a = c for x in nums a D x -= c 		3 6

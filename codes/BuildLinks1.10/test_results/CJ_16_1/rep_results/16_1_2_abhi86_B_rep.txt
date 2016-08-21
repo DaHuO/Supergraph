@@ -1,0 +1,1 @@
+def get_missing_row soldiers num_count = for row in soldiers 		3 17

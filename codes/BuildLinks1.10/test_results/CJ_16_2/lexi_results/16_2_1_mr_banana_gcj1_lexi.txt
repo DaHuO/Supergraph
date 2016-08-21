@@ -1,0 +1,1 @@
+def delete x l for i in ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE x l remove i return l 		1 4

@@ -1,0 +1,1 @@
+def solve fname with open fname as f total_cases = int f readline for cur_case in xrange 		6 27

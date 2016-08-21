@@ -1,0 +1,8 @@
+def 		70 71
+split_arr arr group_size 		22 24
+print_with_divisions current_level total_levels skipped_partitions partitions_to_skip current_level skipped_partitions partitions_to_skip skipped_partitions skipped_partitions 		4 19
+calc_index_for_sequence position_sequence group_size levels while len position_sequence 		31 46
+print_check empty_array positions_array check_array empty_array check_array print_with_divisions empty_array print_with_divisions positions_array 		48 58
+check_squences group_to_check check_squences check_index calc_index_for_sequence 		61 67
+group_to_check 		27 28
+solve_from_input solution_steps solution_steps solution_steps sys stdin readline for i in 		73 81

@@ -1,0 +1,5 @@
+Find2nd lst if inList T lst lst remove T lst 		60 77
+Find3rd lst if inList R lst lst remove F lst remove O 		79 100
+def inList 		22 25
+Find1st lst if inList Z lst lst remove Z lst remove E lst remove R lst remove 		30 58
+FindFin lst while len 		102 108

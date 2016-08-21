@@ -1,0 +1,5 @@
+def verify s digits c1 = Counter s s2 = for d in digits s2 += l d c2 = Counter s2 return c1 == c2 		52 58
+def flatten container for i in container if isinstance i list or isinstance i tuple for j in flatten i yield j else yield i 		19 25
+def guess_letter c current if min c values < 0 print Something is wrong. d = while current < 10 if has_letter c l current new_c = dict c subtract_from_counter new_c l current 1 if sum new_c values == 0 return current if min new_c values < 0 print Something is already wrong. d = guess_letter new_c current if len d > 0 d += current return d current += 1 else current += 1 return 		31 50
+def has_letter c str c2 = Counter str for k in c2 keys if not c has_key k return False if c2 k > c k return False return True 		10 17
+def subtract_from_counter c1 str i c = c1 for x in str c x -= i return c 		4 8

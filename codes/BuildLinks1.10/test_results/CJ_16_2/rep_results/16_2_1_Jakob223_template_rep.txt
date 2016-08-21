@@ -1,0 +1,1 @@
+def f n o = Counter n lower s = 0 * 10 for 		2 22

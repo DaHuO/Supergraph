@@ -1,0 +1,2 @@
+listb listlen listlen listb listb lista 		20 27
+inputlines inputlines inputlines inputlines inputlines inputlines resultlist resultlist resultlist resultlist j 		1 15

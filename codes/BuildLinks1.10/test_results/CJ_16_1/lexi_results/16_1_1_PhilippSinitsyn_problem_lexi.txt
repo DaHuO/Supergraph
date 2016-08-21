@@ -1,0 +1,1 @@
+def solve test result = test 0 for s in test 1 result = s + result if s + result > result + s else result + s return result 		11 15

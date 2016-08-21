@@ -1,0 +1,2 @@
+def solve inputlist = list map int input split k = inputlist 0 c = inputlist 1 s = inputlist 2 res = students = s originaltile = 0 while students > 0 studentpos = 0 for i in range c - 1 - 1 - 1 studentpos += originaltile * k ** i if originaltile == k - 1 res append studentpos return  join map lambda x str x + 1 res originaltile += 1 res append studentpos students -= 1 return impossible 		4 23
+def main cases = int input for i in range 0 cases print case #%d: %s % i + 1 solve 		25 28

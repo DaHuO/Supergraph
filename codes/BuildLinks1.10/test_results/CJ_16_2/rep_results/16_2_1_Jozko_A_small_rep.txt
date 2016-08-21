@@ -1,0 +1,1 @@
+def subtract word 		6 10

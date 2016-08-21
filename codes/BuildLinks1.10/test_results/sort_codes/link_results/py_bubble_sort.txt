@@ -1,10 +1,5 @@
+
+With same rare tokens:
 6 - 12 links:
-pysort	:	46 - 59
-pysort	:	61 - 77
-sorting_algorithms	:	1 - 22
-bubble_sort	:	7 - 15
-cocktailsort	:	2 - 21
-pysort	:	31 - 44
-py_cocktail_sort	:	7 - 18
 graphsort	:	49 - 60
 

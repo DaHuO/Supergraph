@@ -1,0 +1,2 @@
+def parse n = int 		13 18
+def compute n a x = a for b 		5 10

@@ -1,0 +1,2 @@
+bffs: nonsinks nonsinks nonsinks finding starting ends cycle: tails: s - 1 raw_input strip split print for i in range len bffs print i -> bffs i sinks = kid for kid 		5 39
+def main outfile = open a.out w t 		41 51

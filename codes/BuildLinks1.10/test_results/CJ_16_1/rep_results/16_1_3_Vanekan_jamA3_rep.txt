@@ -1,0 +1,1 @@
+def chain k s global b global n m = 		1 10

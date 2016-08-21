@@ -1,0 +1,1 @@
+def solve S C = Counter S ans = 0 * 10 for flag word 		4 22

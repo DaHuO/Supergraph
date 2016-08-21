@@ -1,0 +1,1 @@
+def run s = input strip res 		3 11

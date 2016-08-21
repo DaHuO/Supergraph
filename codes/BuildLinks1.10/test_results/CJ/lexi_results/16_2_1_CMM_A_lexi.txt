@@ -1,0 +1,1 @@
+def solve s dig = for n in range 10 while true q = 0 2 4 6 8 5 7 9 3 1 u = zwuxgfvito if u n in s for k in l q n s = s replace k 1 dig += str q n else break if len s != 0 print !\n * 100 return join sorted dig 		17 32

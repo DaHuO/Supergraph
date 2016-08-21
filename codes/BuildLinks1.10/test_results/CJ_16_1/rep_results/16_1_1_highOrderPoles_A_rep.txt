@@ -1,0 +1,6 @@
+newwords newwords newwords wordlist start = wordlist 0 progress 		33 48
+readword self self cases = self numcases 		4 14
+def process self 		26 31
+printone self results for 		16 19
+q1 		50 52
+readword printone self 		21 24

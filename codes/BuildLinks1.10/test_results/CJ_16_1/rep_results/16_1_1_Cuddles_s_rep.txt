@@ -1,0 +1,1 @@
+print_solutions test_case_count test_case_count = open filename read strip split \n = int 		5 18

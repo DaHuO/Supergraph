@@ -1,0 +1,6 @@
+def 		30 32
+findCandidates findBest thebest thebest 		125 137
+def maxS inp S j out 		10 18
+def minS inp S j out 		20 28
+findCandidates abort abort abort l = len S1 O1 = O2 = def maxS inp S j out = inp for i in range j l c = S i if c == ? out += 9 else out += c return out def minS inp S j out = inp for i in range j l c = S i if c == ? out += 0 else out += c return out def add T1 T2 db append T1 T2 for 		3 103
+findBest 99999999999999999999999999999 best = out = for i in range 0 		107 121

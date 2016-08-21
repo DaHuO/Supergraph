@@ -1,0 +1,2 @@
+read_f solve fin fout l 		16 19
+uniqueelements list_as_string uniqueelements c sort elements = sorted reduce lambda 		6 14

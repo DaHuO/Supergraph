@@ -1,0 +1,3 @@
+INPUT_FILE OUTPUT_FILE string_result string_result string_result in_file lines = in_file readlines 		40 54
+algorithmA solvers letter_solver letter_solver letter_solver letter_solver = for solver 		24 34
+algorithmA solve 		36 38

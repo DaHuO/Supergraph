@@ -1,0 +1,2 @@
+def solve s x res charmap = for c in s if c not in charmap keys charmap c = 0 charmap c += 1 zero = charmap get Z 0 two = charmap get W 0 four = charmap get U 0 six = charmap get X 0 eight = charmap get G 0 if Z in charmap charmap Z -= zero charmap E -= zero charmap R -= zero 		1 83
+C://CodeJam/alarge.in C://CodeJam/alarge.out f = open r 		86 94

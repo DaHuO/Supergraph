@@ -1,0 +1,1 @@
+def read_n_int n ints = int s for s in input split  if len ints != n raise valueerror expected %i ints, got %i % n len ints if n == 1 return ints 0 return ints 		1 7

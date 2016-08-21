@@ -1,0 +1,6 @@
+cal_loc num_list num_list c step 		27 33
+def line a 		60 61
+nc2 n 		56 57
+make_test ../test 1\n2000\n 2000 %d\n 		48 53
+todo_len dodo dodo todo_len cal_loc dodo = k c s = int x for x in fin readline 		4 25
+../in.in ../out self fin = open r fout 		35 46

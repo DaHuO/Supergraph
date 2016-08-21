@@ -1,0 +1,1 @@
+def rank_and_file lists table = for row in lists for soldier in row if soldier not in table table soldier = 0 table soldier += 1 missing = for soldier count in table iteritems if count % 2 == 1 missing append soldier return  join map lambda x str x sorted map lambda x int x missing 		1 15

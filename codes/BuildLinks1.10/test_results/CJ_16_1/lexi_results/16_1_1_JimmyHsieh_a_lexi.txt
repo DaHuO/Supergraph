@@ -1,0 +1,1 @@
+def solve s lastword = for s in s if len lastword == 0 lastword += s else if s < lastword 0 lastword += s else lastword = s + lastword return lastword 		1 11

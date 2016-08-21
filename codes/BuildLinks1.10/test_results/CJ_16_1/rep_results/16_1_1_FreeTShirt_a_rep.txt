@@ -1,0 +1,2 @@
+def argmax s 		1 3
+def last s if len 		5 8

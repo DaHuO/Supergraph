@@ -1,0 +1,3 @@
+construct_digits_count digits_count = digits = 		30 36
+construct_digits_count solve S digits_count = count = count_letters S digits = if Z in count digits 0 = count Z count Z -= digits 0 count E -= digits 0 count R -= digits 0 count O -= digits 0 if W in count digits 2 = count W count T -= digits 2 count W -= digits 2 count O -= digits 2 if U in count digits 		46 122
+def count_letters S count 		38 44

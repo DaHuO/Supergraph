@@ -1,0 +1,2 @@
+compteur compteur compteur mot = liste 0 result 		1 12
+solution_jam1 d:/google/qualifjamcode16/a-large.in d:/google/qualifjamcode16/solution1.txt open r output = open w liste = 		15 25

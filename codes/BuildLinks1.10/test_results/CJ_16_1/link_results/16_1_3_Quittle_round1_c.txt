@@ -1,0 +1,27 @@
+Direct links:
+33 - 34 links:
+16_1_1_Quittle_round1_a	:	22 - 23
+
+37 - 38 links:
+16_1_1_Quittle_round1_a	:	26 - 27
+
+46 - 48 links:
+16_1_1_Quittle_round1_a	:	35 - 37
+
+
+With same rare tokens:
+5 - 30 links:
+16_1_1_Quittle_round1_a	:	30 - 32
+
+37 - 38 links:
+16_1_1_Quittle_round1_a	:	26 - 27
+16_1_1_Quittle_round1_a	:	5 - 19
+16_1_1_Quittle_round1_a	:	26 - 27
+16_1_1_Vytas_problem	:	47 - 53
+
+41 - 43 links:
+16_1_1_Quittle_round1_a	:	30 - 32
+
+46 - 48 links:
+16_1_1_Quittle_round1_a	:	35 - 37
+

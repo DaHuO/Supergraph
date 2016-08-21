@@ -1,0 +1,1 @@
+def solve s ret = for c in s if not ret or ord c >= ord ret 0 ret insert 0 c else ret append c return join ret 		3 10

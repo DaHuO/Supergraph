@@ -1,0 +1,10 @@
+Direct links:
+40 - 45 links:
+16_0_4_cdkrot_solve	:	28 - 32
+16_2_1_AyeZ_getDigit	:	100 - 104
+16_0_4_chongkong_fractile	:	23 - 28
+16_3_1_chongkong_a	:	54 - 60
+16_2_1_9gix_a	:	28 - 34
+16_0_4_azsorkin_d	:	3 - 8
+16_2_1_durnoy_solve_x	:	37 - 50
+

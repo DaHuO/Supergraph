@@ -1,0 +1,1 @@
+def solve chars result = for num in order while mark num in chars result append num for letter in words num chars remove letter print chars return join map str sorted result 		5 13

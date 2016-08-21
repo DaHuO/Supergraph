@@ -1,0 +1,1 @@
+def find_solution k c s minimum = math ceil k / float c result = if s < minimum return pos = 0 level = 0 for x in xrange k pos = pos * k + x level += 1 if level == c level = 0 result append pos + 1 pos = 0 if pos + 1 not in result result append pos + 1 return result 		4 20

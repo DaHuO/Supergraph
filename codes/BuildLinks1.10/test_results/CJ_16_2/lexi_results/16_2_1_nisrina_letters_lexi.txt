@@ -1,0 +1,1 @@
+def proc key letters idx result char_occr if key in letters amt = char_occr get key if amt is not None and amt is not 0 result idx = amt for ch in letters char_occr ch -= amt return result char_occr 		1 9

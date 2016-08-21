@@ -1,0 +1,73 @@
+t = int(raw_input())
+for i in xrange(1, t + 1):
+    s = raw_input()
+    output = []
+    count = s.count('Z')
+    for j in xrange(1, count+1):
+        s = s.replace("Z", "", 1)
+        s = s.replace("E", "", 1)
+        s = s.replace("R", "", 1)
+        s = s.replace("O", "", 1)
+        output.append(0)
+    count = s.count('W')
+    for j in xrange(1, count+1):
+        s = s.replace("T", "", 1)
+        s = s.replace("W", "", 1)
+        s = s.replace("O", "", 1)
+        output.append(2)
+    count = s.count('U')
+    for j in xrange(1, count+1):
+        s = s.replace("F", "", 1)
+        s = s.replace("O", "", 1)
+        s = s.replace("U", "", 1)
+        s = s.replace("R", "", 1)
+        output.append(4)
+    count = s.count('X')
+    for j in xrange(1, count+1):
+        s = s.replace("S", "", 1)
+        s = s.replace("I", "", 1)
+        s = s.replace("X", "", 1)
+        output.append(6)
+    count = s.count('G')
+    for j in xrange(1, count+1):
+        s = s.replace("E", "", 1)
+        s = s.replace("I", "", 1)
+        s = s.replace("G", "", 1)
+        s = s.replace("H", "", 1)
+        s = s.replace("T", "", 1)
+        output.append(8)
+    count = s.count('O')
+    for j in xrange(1, count+1):
+        s = s.replace("O", "", 1)
+        s = s.replace("N", "", 1)
+        s = s.replace("E", "", 1)
+        output.append(1)
+    count = s.count('T')
+    for j in xrange(1, count+1):
+        s = s.replace("T", "", 1)
+        s = s.replace("H", "", 1)
+        s = s.replace("R", "", 1)
+        s = s.replace("E", "", 1)
+        s = s.replace("E", "", 1)
+        output.append(3)
+    count = s.count('F')
+    for j in xrange(1, count+1):
+        s = s.replace("F", "", 1)
+        s = s.replace("I", "", 1)
+        s = s.replace("V", "", 1)
+        s = s.replace("E", "", 1)
+        output.append(5)
+    count = s.count('S')
+    for j in xrange(1, count+1):
+        s = s.replace("S", "", 1)
+        s = s.replace("E", "", 1)
+        s = s.replace("V", "", 1)
+        s = s.replace("E", "", 1)
+        s = s.replace("N", "", 1)
+        output.append(7)
+    count = len(s)/4
+    for j in xrange(1, count+1):
+        output.append(9)
+    output.sort()
+    out = ''.join(str(e) for e in output)
+    print "Case #{}: {}".format(i,out)

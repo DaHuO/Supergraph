@@ -1,0 +1,1 @@
+def last_word s len if len >= 1 reslist = s 0 for x in s 1 vlist = for y in reslist vlist append x + y vlist append y + x reslist = sorted vlist x = reslist len reslist - 1 while len != 0 index = 1 if x in string ascii_uppercase result = reslist len reslist - 1 return result break elif len >= 1 x = x index index += 1 len -= 1 		2 22

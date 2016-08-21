@@ -1,0 +1,19 @@
+
+With same rare tokens:
+46 - 50 links:
+16_2_2_Ha_sH_solver	:	17 - 46
+16_1_1_car03e_last_word	:	4 - 9
+16_1_2_car03e_rank_file	:	5 - 10
+16_2_2_Ha_sH_solver	:	17 - 46
+16_1_1_car03e_last_word	:	4 - 9
+16_1_2_car03e_rank_file	:	5 - 10
+16_1_2_James777_b	:	34 - 44
+16_1_2_James777_b	:	34 - 44
+16_2_2_Ha_sH_solver	:	17 - 46
+16_2_2_Ha_sH_solver	:	17 - 46
+16_2_2_Ha_sH_solver	:	17 - 46
+16_1_2_James777_b	:	34 - 44
+16_2_2_jeroenvw_gcj	:	134 - 147
+16_2_2_Ha_sH_solver	:	17 - 46
+16_2_2_Ha_sH_solver	:	17 - 46
+

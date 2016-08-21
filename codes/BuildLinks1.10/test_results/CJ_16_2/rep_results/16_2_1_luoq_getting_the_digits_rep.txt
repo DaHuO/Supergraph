@@ -1,0 +1,3 @@
+vec x y = 		15 19
+getting_the_digits vec dot around astype y = np linalg 		24 32
+infile_name outfile_name infile_name outfile_name infile_name .out with 		2 9

@@ -1,0 +1,20 @@
+Direct links:
+12 - 19 links:
+16_1_1_theFreightTrain_smallA	:	1 - 8
+16_1_1_3spec_a	:	1 - 9
+16_1_1_A13xand3r_solution	:	27 - 38
+16_1_1_spruett345_words	:	3 - 10
+16_1_1_DanielCoder_code2	:	13 - 21
+16_1_1_dpera_theLastWord	:	4 - 11
+16_1_1_Nol_codeJamA1	:	3 - 10
+16_1_1_claesh_problemA	:	17 - 25
+16_1_1_xke_A	:	7 - 23
+
+
+With same rare tokens:
+9 - 10 links:
+16_1_2_mercurium_height	:	9 - 11
+
+12 - 19 links:
+16_1_2_mercurium_height	:	13 - 27
+

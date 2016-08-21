@@ -1,0 +1,3 @@
+get_answer topcorner bottomcorner topcorner bottomcorner case2 case3 none! alllines = heights = set for i in xrange 2 * n - 1 line = map int f readline strip split alllines append tuple line heights update line if debug print start + str n +  + str alllines = min heights = max heights topcorner_lines = bottomcorner_lines 		126 170
+check2 check3 middle_lines col_lines left right grid rownum if debug print len middle_lines len col_lines len grid rownum if debug print middle_lines col_lines left right grid rownum if rownum == len grid ngrid = list izip * grid if left is none return make_answer ngrid 		25 86
+def make_answer ngrid col_lines empty_line = none j 		11 22

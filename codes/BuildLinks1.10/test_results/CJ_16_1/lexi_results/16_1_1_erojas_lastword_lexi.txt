@@ -1,0 +1,6 @@
+def solve self s = self params 0 last_word = s 0 for i in range 1 len s if s i >= last_word 0 last_word = s i + last_word else last_word = last_word + s i result = last_word return case # + str self number + : + result 		36 45
+def read self with open self filename r as f self lines = f readlines self lines = line strip for line in self lines self cases = int self lines 0 		13 17
+def __init__ self filename caselength self filename = filename self caselength = caselength 		9 11
+def getcase self index caselines = startoffset = index - 1 * self caselength + 1 endoffset = index * self caselength + 1 for i in range startoffset endoffset caselines append self lines i return caselines 		22 28
+def getcases self return self cases 		19 20
+def __init__ self casenumber caseinfo self number = casenumber self params = caseinfo 		32 34

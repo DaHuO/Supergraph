@@ -1,0 +1,13 @@
+
+With same rare tokens:
+65 - 75 links:
+nakahara_a	:	4 - 13
+yingted_A	:	22 - 25
+yingted_A	:	35 - 45
+yingted_A	:	27 - 73
+robostac_test	:	61 - 74
+robostac_test	:	7 - 47
+
+48 - 58 links:
+rishig_a	:	42 - 49
+

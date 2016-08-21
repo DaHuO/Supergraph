@@ -1,0 +1,4 @@
+def solve s solution = total = 0 for p in s total += p solution = evac total s new_sol = for c in solution if c is  new_sol += c else new_sol += string ascii_uppercase int c return new_sol 		6 19
+def evac total s sen = f_max = 0 s_max = 0 first = 0 sec = 0 for i val in enumerate s if val >= f_max s_max = f_max sec = first f_max = val first = i if f_max > total / 2 return bad if f_max == 0 return two = list s two first -= 1 if s_max == f_max two sec -= 1 sen = str first + str sec else two first -= 1 sen = str first + str first strat = evac total - 2 two if strat != bad return sen +  + strat sen = str first s first -= 1 strat = evac total - 1 s if strat != bad return sen +  + strat return strat 		22 57
+def format_list_of_nums l if l 0 != str l 0 l = map str l final =  join new_str return final 		76 81
+def format_list_of_chars final = join new_str return final 		83 86

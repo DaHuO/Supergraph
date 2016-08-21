@@ -1,0 +1,16 @@
+
+With same rare tokens:
+23 - 63 links:
+16_3_1_chongkong_a	:	40 - 51
+16_3_1_chongkong_a	:	40 - 51
+16_3_1_chongkong_a	:	40 - 51
+16_3_1_chongkong_a	:	40 - 51
+16_3_1_Dr_Nick_evacuate	:	5 - 38
+16_3_1_Dr_Nick_evacuate	:	5 - 38
+16_3_1_Dr_Nick_evacuate	:	5 - 38
+16_3_1_Dr_Nick_evacuate	:	5 - 38
+
+3 - 21 links:
+16_3_1_elcapovarela_senate_evaluation	:	5 - 40
+16_0_4_chenhsi_problemD	:	1 - 10
+

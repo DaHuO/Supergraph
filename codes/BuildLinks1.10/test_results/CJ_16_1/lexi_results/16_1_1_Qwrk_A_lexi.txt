@@ -1,0 +1,2 @@
+def solve s r = s 0 for l in s 1 if l >= r 0 r = l + r else r = r + l return r 		2 7
+def main t = int input for case in range 1 t + 1 print case #%d: %s % case solve input 		10 13

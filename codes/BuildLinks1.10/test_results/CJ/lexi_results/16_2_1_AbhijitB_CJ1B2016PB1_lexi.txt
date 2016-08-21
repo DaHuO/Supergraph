@@ -1,0 +1,1 @@
+def cj1b2016pb1 word table = z 0 zero w 2 two u 4 four o 1 one x 6 six g 8 eight t 3 three f 5 five v 7 seven n 9 nine numbers = for item in table while item 0 in word for ch in item 2 word = word replace ch 1 numbers append item 1 return join map str sorted numbers 		7 18

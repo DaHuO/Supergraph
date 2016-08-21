@@ -1,0 +1,1 @@
+isNumberInS S number tmpS 		4 11

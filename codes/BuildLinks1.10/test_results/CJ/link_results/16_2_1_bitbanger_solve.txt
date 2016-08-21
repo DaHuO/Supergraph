@@ -1,0 +1,19 @@
+Direct links:
+5 - 25 links:
+16_3_1_A13xand3r_solution	:	71 - 123
+16_2_1_AyeZ_getDigit	:	5 - 25
+
+
+With same rare tokens:
+42 - 54 links:
+16_2_2_jeroenvw_gcj	:	124 - 132
+16_2_2_jeroenvw_gcj	:	124 - 132
+16_2_2_jeroenvw_gcj	:	124 - 132
+16_2_2_jeroenvw_gcj	:	124 - 132
+16_2_2_jeroenvw_gcj	:	70 - 108
+16_2_2_jeroenvw_gcj	:	124 - 132
+16_2_2_jeroenvw_gcj	:	124 - 132
+16_2_2_jeroenvw_gcj	:	124 - 132
+16_2_2_jeroenvw_gcj	:	124 - 132
+16_2_2_jeroenvw_gcj	:	70 - 108
+

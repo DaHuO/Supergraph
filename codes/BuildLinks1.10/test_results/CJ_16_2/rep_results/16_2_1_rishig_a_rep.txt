@@ -1,0 +1,2 @@
+kstr ncounts lete kstr 		13 17
+ncounts kstr ncounts lete kstr lete ncounts = 0 * 10 for l in S lcounts l += 1 		7 31

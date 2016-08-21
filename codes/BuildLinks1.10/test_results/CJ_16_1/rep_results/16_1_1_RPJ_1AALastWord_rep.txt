@@ -1,0 +1,1 @@
+lstword input lst = input 0 lst2 		4 12

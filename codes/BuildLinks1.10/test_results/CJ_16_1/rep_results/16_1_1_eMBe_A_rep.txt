@@ -1,0 +1,11 @@
+classmethod def _read_line 		36 41
+classmethod def tokens 		76 78
+def solve s = 		87 92
+classmethod def _read_line_raw cls if 		18 27
+10000 main sys setrecursionlimit 		94 99
+classmethod def whitespace cls line = none while 		53 63
+classmethod def _read_line_view 		29 34
+b'\r\n' def line 		43 46
+classmethod def token cls conv = identity cls whitespace 		65 74
+splitline def cls 		48 51
+b'case #{}:' def 		82 85

@@ -1,0 +1,6 @@
+def _get_counter self word counter = counter for c in word counter c += 1 return counter 		80 84
+def __init__ self filename self _filename = filename self counters = self _get_word_counters pass 		17 25
+def _get_word_counters self counters = self _get_counter word for word in self words return counters 		75 78
+def main project_home = /users/cdongsi/hub/python/codejam solver = getdigits project_home + /data/a-large.in with open out.txt w as f solver solve output = f 		87 91
+def _solve_digits self istring cnt = self _get_counter istring number = for key in self char_digit_1 keys word_count = self counters self char_digit_1 key while cnt key > 0 cnt subtract word_count number append self char_digit_1 key for key in self char_digit_2 keys word_count = self counters self char_digit_2 key while cnt key > 0 cnt subtract word_count number append self char_digit_2 key for key in self char_digit_3 keys word_count = self counters self char_digit_3 key while cnt key > 0 cnt subtract word_count number append self char_digit_3 key number sort return join str e for e in number 		45 73
+def solve self output = sys stdout try with open self _filename r as f lines = f readlines for case_num line in enumerate lines 1 start = 1 number = self _solve_digits line strip output write case #%d: %s\n % case_num number except ioerror print error opening file pass 		27 43

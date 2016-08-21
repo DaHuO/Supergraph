@@ -1,0 +1,2 @@
+needle needle haystack 		5 9
+pot_fake pot_fake tot_fake pot_fake tot_fake tot_fake tot_fake R in itertools product True False repeat = len 		11 37

@@ -1,0 +1,4 @@
+file_io rdln rdln str_out str_out oscommandstring notepad.exe system oscommandstring as txtin open join 		29 42
+rdln 		26 27
+		44 46
+next_char next_char next_char final_word = deque s 		12 24

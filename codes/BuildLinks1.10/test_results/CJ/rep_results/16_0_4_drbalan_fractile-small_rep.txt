@@ -1,0 +1,1 @@
+def answer k c 		3 7

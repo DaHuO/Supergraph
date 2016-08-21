@@ -1,0 +1,1 @@
+def to_base n b ret = 0 f = 1 while n ret += n pop * f f *= b return ret 		6 12

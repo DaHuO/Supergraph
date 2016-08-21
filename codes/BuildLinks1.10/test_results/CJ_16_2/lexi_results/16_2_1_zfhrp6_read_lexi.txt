@@ -1,0 +1,2 @@
+def read filepath with open filepath r as infile for line in infile yield line strip 		1 4
+def main for inp in read A-small-attempt0.in print inp 		7 9

@@ -1,0 +1,8 @@
+def subsList number subList string = myDict number for ch in string index = alphaDict ch subList index -= 1 		73 77
+def readLines filename input = open filename rb lines = for line in input line = line replace \n lines append line input close return lines 		3 10
+def isPossible number subList string = myDict number for ch in string index = alphaDict ch if subList index >= solutionList index return False return True 		79 85
+def search number subList global resultNumbers if isPossible number subList addList number subList resultNumbers append number if found subList return True else if search number subList == False subsList number subList resultNumbers pop return search number + 1 subList else return True else if number == 9 return False return search number + 1 subList 		87 104
+def solveProblem input global solutionList global resultNumbers solutionList = resultNumbers = for i in range 0 28 solutionList append 0 for ch in input index = alphaDict ch solutionList index += 1 subList = for i in range 0 28 subList append 0 return search 0 subList 		106 121
+def found subList for i in range 0 28 if subList i != solutionList i return False return True 		61 65
+def writeLines output outputFile = open output.txt w for line in output outputFile write line + \n outputFile close 		12 16
+def addList number subList string = myDict number for ch in string index = alphaDict ch subList index += 1 		67 71

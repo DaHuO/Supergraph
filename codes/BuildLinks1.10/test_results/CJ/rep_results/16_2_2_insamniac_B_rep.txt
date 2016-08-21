@@ -1,0 +1,5 @@
+trash c j for i in range 0 len c if c i == ? and j i == ? if int 0 + c 0 i == int 0 + j 0 i c = c replace ? 		98 125
+makeposs maxscore candscore maxscore candscore candscore candscore poss = for in range 		17 30
+makelowestmatch main 		78 81
+lvl 		12 14
+makelowestmatch makeposs makeposs mindiffs padc padj padc padj j = difmap = lowest = 99999 for pc in possc for pj in possj dif = abs 		34 74

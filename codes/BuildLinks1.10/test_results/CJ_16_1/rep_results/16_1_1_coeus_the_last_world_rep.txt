@@ -1,0 +1,1 @@
+def solve s out = s 		3 10

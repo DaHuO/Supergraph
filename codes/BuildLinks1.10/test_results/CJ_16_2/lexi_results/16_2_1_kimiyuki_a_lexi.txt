@@ -1,0 +1,1 @@
+def use i n cnt i += n for c in words i freq c -= n 		22 25

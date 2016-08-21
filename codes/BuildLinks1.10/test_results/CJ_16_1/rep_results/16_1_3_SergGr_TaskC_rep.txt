@@ -1,0 +1,7 @@
+calcsingletest good_comps cmp good_comps {0}, {1}, {2} aaaaaa runtimeerror aaaaaa !!!skip = f readline arr = map lambda x x - 1 map int line split all_fr = dict for x in xrange n all_fr x = for x in xrange n all_fr arr x append x order = visited = set def visit v if v in visited return visited add v visit arr v order 		59 149
+check_length l for vs 		46 51
+def visit v 		74 80
+check_length check_length n arr all_fr b = 1 all = list range n def check_order order ll = len 		32 56
+inputfilename inpf seed outputfilename inpf testscount testscount -------- {0}/{1} {2} -------------------------- testscount starttime calcsingletest 		152 164
+def check_order order ll = len order for x 		36 44
+def assign v root if 		88 95

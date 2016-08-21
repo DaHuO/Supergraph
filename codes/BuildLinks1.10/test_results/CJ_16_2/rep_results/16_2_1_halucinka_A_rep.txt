@@ -1,0 +1,1 @@
+odcitaj cislo 		1 4

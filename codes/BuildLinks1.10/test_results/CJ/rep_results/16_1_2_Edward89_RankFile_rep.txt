@@ -1,0 +1,1 @@
+dataparser filedir filedir nbrofcases nbrofcases nbrofcases int inputfile readline cases = none for i 		1 13

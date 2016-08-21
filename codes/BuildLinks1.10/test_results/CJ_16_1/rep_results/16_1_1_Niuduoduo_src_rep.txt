@@ -1,0 +1,5 @@
+get_str 		11 13
+get_str get_solution stream s = stream print s m 		15 43
+def get_stream 		2 5
+def 		7 9
+fonction main\n path print file = open path r outfile = open 		45 59

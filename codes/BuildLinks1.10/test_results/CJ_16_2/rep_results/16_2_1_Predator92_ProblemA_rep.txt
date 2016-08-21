@@ -1,0 +1,7 @@
+pre_process number_letters 		21 25
+pre_process full_dic 		76 78
+populate_key_dic n_str n_dic = 		80 87
+populate_key_dic 		73 74
+check_ifs_dics if_dic_l if_dic_l all_letters_in_num_is_possible if_dic_n perfome_take_lett_out if_dic_n if_dic_n Len 0 for inx 		27 43
+perfome_take_lett_out full_dic dic_num_c_l dic_num = num for key_n in 		58 71
+all_letters_in_num_is_possible full_dic dic_ncl_keys dic_ncl_keys = 		46 55

@@ -1,0 +1,1 @@
+checkFor index letter d global op 		9 15

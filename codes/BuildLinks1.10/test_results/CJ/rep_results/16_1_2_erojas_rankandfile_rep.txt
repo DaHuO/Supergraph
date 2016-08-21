@@ -1,0 +1,6 @@
+casenumber caseinfo 		33 35
+getnextcase case_lines lastline case_info start_offset lastline end_offset lastline case_lines start_offset 		21 29
+def 		9 10
+getcases 		18 19
+def read self with open self 		12 16
+count_items count_items count_items result = count = for i in range 0 len self params numbers = self 		37 55

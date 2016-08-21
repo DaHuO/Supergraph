@@ -1,0 +1,11 @@
+def zero s global ans c = 0 while 		13 23
+def seven s global ans c = 0 while s 		97 108
+def 		4 5
+def four s global ans c = 0 while 		36 46
+def eight s global ans c = 0 while s 		59 70
+def six s global ans c = 0 		48 57
+def three s global ans c = 0 while s 		72 83
+def five s global ans c = 0 while 		85 95
+def two s global ans c = 0 		25 34
+def nine s global ans c = 0 while 		121 131
+def one s global ans c = 0 		110 119

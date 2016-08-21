@@ -1,0 +1,2 @@
+get_sink_and_lengths segment_solution segment_solution segment_lengths = max_cycle = 0 for i in 		11 24
+get_sink_and_lengths g i visited = while 		3 9

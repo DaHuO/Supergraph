@@ -1,0 +1,1 @@
+def func s out_s = for 		1 11

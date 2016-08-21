@@ -1,0 +1,4 @@
+removeall numbers digit character word number 		16 22
+def remove digit character word 		9 14
+def parse filename with 		39 42
+removeall removeall removeall removeall removeall removeall removeall removeall removeall removeall zero number number = numbers 2 w 		24 37

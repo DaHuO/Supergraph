@@ -1,0 +1,2 @@
+argparse argumentparser add_argument starting_word starting_word input_file args = 		26 35
+def get_last_word letters if not letters return 		6 24

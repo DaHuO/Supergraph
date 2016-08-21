@@ -1,0 +1,2 @@
+decifer main cases = 		19 23
+decifer numdic strdic = list S el = for 		7 17

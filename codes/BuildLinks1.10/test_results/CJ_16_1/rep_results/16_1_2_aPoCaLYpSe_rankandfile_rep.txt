@@ -1,0 +1,3 @@
+def bvec n ntrue if n == 1 yield ntrue 		16 30
+def parse_case instrm n = int 		8 13
+twopown barr: mat1 mat2 ~ mat1 mat2plus row_stack mat2 mat2 mat2plus rows n = len rows 0 mat = np array rows 		33 57

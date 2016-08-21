@@ -1,3 +1,3 @@
-poss_winner poss_answer poss_winner poss_answer new_l filter comp_count_correct new_l 		10 21
+poss_winner poss_answer poss_winner poss_answer comp_count_correct s l = 		10 21
 def round_with_winner n winner if n == 1 if winner == R return RS elif winner == 		28 49
 comp_count_correct correct correct p s 		24 26

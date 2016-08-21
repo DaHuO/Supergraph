@@ -1,0 +1,1 @@
+def solve l max_pos = 0 if len l == 0 return for idx num in enumerate l if l idx >= l max_pos max_pos = idx return l max_pos + solve l max_pos + l max_pos + 1 		7 14

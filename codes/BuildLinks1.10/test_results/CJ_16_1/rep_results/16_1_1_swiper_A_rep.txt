@@ -1,0 +1,2 @@
+		1 2
+def solve case result = 		4 11

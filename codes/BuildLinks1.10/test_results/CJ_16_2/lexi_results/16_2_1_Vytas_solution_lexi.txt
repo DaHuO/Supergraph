@@ -1,0 +1,11 @@
+classmethod def run_sample cls data if isinstance data basestring data = data splitlines task = cls task read_cases iter data task print_report verbose = True 		52 58
+def parse_case self lines raise NotImplementedError 		22 23
+def solve self case counts = letter_counts case found = for digit in UNIQUE_CHAIN while all counts get letter 0 >= count for letter count in DIGIT_COUNTS digit items found append digit for letter count in DIGIT_COUNTS digit items counts letter -= count return join map str sorted found 		89 100
+classmethod def run cls task = cls task read_cases task print_report 		46 50
+def parse_case self lines return lines next strip 		102 103
+def solve self case raise NotImplementedError 		25 26
+def letter_counts word counts = for letter in word counts letter = counts get letter 0 + 1 return counts 		61 65
+def unique_chain words if not words return for word in words for letter in word if not any letter in other for other in words if other != word result = word return result + unique_chain words - set result 		68 76
+def read_cases self lines = None if lines is None lines = line strip for line in sys stdin amount = int lines next for index in xrange amount self cases append self parse_case lines 		28 33
+def print_report self verbose = False for index case in enumerate self cases start = time time result = self solve case elapsed = time time - start if verbose print Solved case {0} in {1} s format case elapsed print Case #{0}: {1} format index + 1 result if verbose print 		35 44
+def __init__ self self cases = 		19 20

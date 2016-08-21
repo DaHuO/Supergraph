@@ -1,0 +1,48 @@
+
+With same rare tokens:
+197 - 223 links:
+Arraysort	:	69 - 88
+sort_insertion	:	16 - 27
+
+11 - 43 links:
+sortalg	:	99 - 115
+shell_sort	:	7 - 19
+cyclesort	:	3 - 20
+counting_sort	:	15 - 44
+sortable	:	49 - 52
+pysort	:	226 - 242
+pysort	:	208 - 224
+pysort	:	244 - 264
+sorting_algorithms	:	96 - 133
+sort	:	10 - 20
+Arraysort	:	69 - 88
+sort_insertion	:	16 - 27
+sortalg	:	10 - 20
+cocktail_shaker_sort	:	48 - 89
+cocktail_shaker_sort	:	92 - 158
+
+81 - 95 links:
+test_sorts	:	50 - 74
+pysort	:	226 - 242
+pysort	:	162 - 183
+pysort	:	208 - 224
+pysort	:	185 - 206
+pysort	:	244 - 264
+
+46 - 65 links:
+test_sorts	:	50 - 74
+heapsort	:	31 - 41
+pysort	:	379 - 394
+pysort	:	396 - 406
+
+143 - 167 links:
+sortalg	:	42 - 63
+
+170 - 194 links:
+sortalg	:	22 - 40
+bubble_sort	:	7 - 15
+test_bubble_sort	:	8 - 9
+sorting_algorithms	:	1 - 22
+test_sorts	:	50 - 74
+graphsort	:	49 - 60
+

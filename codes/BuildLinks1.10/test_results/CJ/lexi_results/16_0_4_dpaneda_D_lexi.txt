@@ -1,0 +1,1 @@
+def solve k c s = map int sys stdin readline split s = map str range 1 s + 1 return  join s 		5 8

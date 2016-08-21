@@ -1,0 +1,1 @@
+def solve word if len word > 1 prev = solve word - 1 else prev = last_char = word - 1 variants = last_char + prev prev + last_char variants sort return join variants - 1 		14 22

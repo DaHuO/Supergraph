@@ -1,0 +1,1 @@
+def phone_number with open A-large.in as file lines = file readlines cases = for index test in enumerate lines 1 a = 0 ZERO 2 TWO 4 FOUR 		1 40

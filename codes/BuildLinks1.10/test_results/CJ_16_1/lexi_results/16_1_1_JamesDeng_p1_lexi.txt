@@ -1,0 +1,2 @@
+def finder t current mylist rest if len rest == 0 mylist append current else finder t current + rest 0 mylist rest 1 finder t rest 0 + current mylist rest 1 		17 22
+def solve t current = mylist = rest = t finder t current mylist rest mylist sort print mylist - 1 		9 15

@@ -1,0 +1,4 @@
+def isletinres word phrase w = Counter word new_phrase = phrase copy for let count in w items new_phrase let = new_phrase let - count if any i < 0 for i in new_phrase values return False phrase else return True new_phrase 		17 27
+def find rest rest_dict = Counter rest return find_rec rest_dict 		42 46
+def find_rec rest res_rec = None res = res_rec or if sum rest values == 0 return join str i for i in sorted res_rec for let num in fig items res_copy = res isok new_res_rec = isletinres let rest if isok res_copy append num sol = find_rec new_res_rec res_copy if sol is not None return sol 		48 66
+def main filename f = iter open filename r readlines t = int next f for e _ in enumerate range t word = next f strip print Case #{}: {} format e + 1 find word 		9 15

@@ -1,0 +1,2 @@
+def replace 		58 59
+rtn rtn rtn rtn b = input split comp = 0 min_dist = 10 ** 6 = num = Counter a 		3 53

@@ -1,9 +1,5 @@
-8 - 19 links:
-zhhthu11_p1	:	3 - 16
 
-5 - 7 links:
-AJ721_Round2-A	:	59 - 70
-
+With same rare tokens:
 60 - 76 links:
-AJ721_Round2-A	:	59 - 70
+Fedux_rock	:	135 - 136
 

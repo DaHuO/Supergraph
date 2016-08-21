@@ -1,0 +1,4 @@
+test_col mat line col for 		11 15
+write_col mat line 		23 25
+write_row mat line 		18 20
+def test_row mat line row 		4 8

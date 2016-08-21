@@ -1,0 +1,2 @@
+def run n c for w in rps r = 0 s = w for r in range 1 n + 1 s = e s if r % 2 != n % 2 s = s - 1 if all len re findall c s == c c for c in rps return s return impossible 		19 32
+def e s r = for c in s if c == r r += rs elif c == s r += ps else assert c == p r += pr return r 		6 16

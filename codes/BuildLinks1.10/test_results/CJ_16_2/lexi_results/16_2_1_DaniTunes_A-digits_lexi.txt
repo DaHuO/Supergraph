@@ -1,0 +1,3 @@
+def solve s b = list s r = for k in c w = a k 0 while contained w b remove w b r append str n w r sort return join r 		56 65
+def contained a b for c in a if c not in b return False return True 		46 50
+def remove a b for c in a b remove c 		52 54

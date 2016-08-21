@@ -1,0 +1,20 @@
+Direct links:
+17 - 23 links:
+16_2_1_Brennan_problem-a	:	55 - 61
+
+
+With same rare tokens:
+3 - 14 links:
+16_3_1_AndersTornkvist_a	:	90 - 122
+16_3_1_AndersTornkvist_a	:	285 - 287
+16_2_1_Brennan_problem-a	:	18 - 52
+
+17 - 23 links:
+16_2_2_liar_B	:	49 - 56
+16_2_2_liar_B	:	58 - 68
+16_2_1_Brennan_problem-a	:	55 - 61
+16_2_1_Brennan_problem-a	:	55 - 61
+16_2_1_Brennan_problem-a	:	55 - 61
+16_2_1_Brennan_problem-a	:	55 - 61
+16_2_1_Brennan_problem-a	:	55 - 61
+

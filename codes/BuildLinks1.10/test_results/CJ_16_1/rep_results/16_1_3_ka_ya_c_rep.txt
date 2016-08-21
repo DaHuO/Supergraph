@@ -1,0 +1,1 @@
+chk chk chk bj bj = f - 1 for f in fs lp = none for p in xrange n for i in xrange n = false for p in xrange n p 		1 39

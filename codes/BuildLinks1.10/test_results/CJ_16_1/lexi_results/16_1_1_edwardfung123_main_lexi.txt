@@ -1,0 +1,2 @@
+def main lines = l strip for l in fileinput input logging debug lines n_tests = int lines 0 start_test = 1 for i in xrange 0 n_tests tc = lines start_test logging debug tc n = find_answer tc print case #{}: {} format i + 1 n start_test += 1 		17 29
+def find_answer s result = s 0 for c in s 1 if c < result 0 result = result + c else result = c + result return result 		5 15

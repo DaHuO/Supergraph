@@ -1,0 +1,3 @@
+FindNum string D = D 0 = ZERO D 1 = ONE D 2 = TWO D 3 = 		1 29
+def backtrack string ls if len string == 0 		14 26
+def substract string seg res = for 		31 43

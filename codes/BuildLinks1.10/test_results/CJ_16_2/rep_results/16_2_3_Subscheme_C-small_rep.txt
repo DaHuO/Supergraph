@@ -1,0 +1,5 @@
+def put 		14 15
+def solve l best = 0 for i in range 2 		23 30
+def memo f cache = 		4 9
+def wrap * 		6 8
+def possible real fake firstWords = set 		17 21

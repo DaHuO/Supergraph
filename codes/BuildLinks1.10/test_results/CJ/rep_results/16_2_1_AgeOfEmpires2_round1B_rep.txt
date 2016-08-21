@@ -1,0 +1,3 @@
+def reduce 		22 25
+def convert s d 		27 34
+checker keyerror e d = dict 		10 20

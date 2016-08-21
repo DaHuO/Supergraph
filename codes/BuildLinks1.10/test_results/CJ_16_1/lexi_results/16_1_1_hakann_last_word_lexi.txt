@@ -1,0 +1,2 @@
+def last_word str list_str = list str result_list = first_letter = list_str 0 result_list append first_letter for letter in list_str 1 if letter >= first_letter result_list insert 0 letter first_letter = letter else result_list append letter return join result_list 		2 13
+def formatted_output index final_count return case # + str index + : + str final_count 		15 16

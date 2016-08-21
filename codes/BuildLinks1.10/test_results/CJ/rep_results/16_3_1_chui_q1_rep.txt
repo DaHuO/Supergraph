@@ -1,0 +1,1 @@
+eva_list eva_list eva_list_alpha eva_list eva_list_alpha abcdefghijklmnopqrstuvwxyz parties = string split parties = int n for n in parties l = len parties total = sum parties eva = 0 = rest = total while eva != 		4 50

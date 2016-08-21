@@ -1,0 +1,27 @@
+Direct links:
+4 - 8 links:
+16_1_2_FatAlex_b	:	1 - 5
+16_1_3_FatAlex_c	:	1 - 5
+
+
+With same rare tokens:
+79 - 84 links:
+16_1_2_FatAlex_b	:	84 - 89
+16_1_3_FatAlex_c	:	150 - 155
+
+116 - 129 links:
+16_1_2_FatAlex_b	:	122 - 135
+16_1_3_FatAlex_c	:	188 - 201
+16_1_2_FatAlex_b	:	103 - 116
+16_1_2_FatAlex_b	:	122 - 135
+16_1_3_FatAlex_c	:	188 - 201
+16_1_3_FatAlex_c	:	169 - 182
+
+97 - 110 links:
+16_1_2_FatAlex_b	:	103 - 116
+16_1_3_FatAlex_c	:	169 - 182
+16_1_2_FatAlex_b	:	103 - 116
+16_1_2_FatAlex_b	:	122 - 135
+16_1_3_FatAlex_c	:	188 - 201
+16_1_3_FatAlex_c	:	169 - 182
+

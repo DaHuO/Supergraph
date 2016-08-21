@@ -1,0 +1,1 @@
+calcSingleTest d_raw d_list d_raw d_rev translate \r\n d_list d_rev d_l d_list d_l d_l !!!!!!!!!!!!!!!! SEVEN EIGHT NINE = map lambda x Counter x 		20 69

@@ -1,0 +1,1 @@
+def solution w res = w = list w w sort w = join w d = dict for 		9 28

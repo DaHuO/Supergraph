@@ -1,0 +1,2 @@
+def readlist f return map f raw_input split 		4 4
+def readint return int raw_input 		3 3

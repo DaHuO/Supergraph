@@ -1,0 +1,1 @@
+def isNumberInS S number tmpS = S for c in number if c not in tmpS return False else tmpS remove c return True 		4 11

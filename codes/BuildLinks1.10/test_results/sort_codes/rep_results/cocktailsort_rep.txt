@@ -1,1 +1,1 @@
-cocktailsort begin begin begin begin len lst - 1 finished = False while not finished finished = True for 		2 21
+cocktailsort lst begin end = 0 len lst - 1 finished = False while not finished finished = True 		2 21

@@ -1,0 +1,2 @@
+def solve b mx = 0 for i in range len b seen = 0 * len 		16 32
+def chain b x sz = 		9 14

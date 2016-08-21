@@ -1,0 +1,1 @@
+def jam s out = while Z in s out append 0 for letter in ZERO s remove letter while W in s out append 2 for letter in 		5 47

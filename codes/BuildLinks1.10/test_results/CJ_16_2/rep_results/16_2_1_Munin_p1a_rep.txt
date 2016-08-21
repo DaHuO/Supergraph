@@ -1,0 +1,1 @@
+text_tmp text_tmp text_tmp text_tmp len text == 0 return for 		32 50

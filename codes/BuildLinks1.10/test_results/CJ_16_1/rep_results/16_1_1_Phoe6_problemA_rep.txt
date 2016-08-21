@@ -1,0 +1,4 @@
+read_number_of_test_cases fobject = 		3 8
+read_test_case fobject = 		11 16
+read_test_case #{testcase}: {result} fobject = none 		35 39
+all_chars all_chars s assert isinstance s str = 		19 32

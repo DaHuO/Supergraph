@@ -1,0 +1,2 @@
+def canConstructWord word available_letters present_letter = for letr in word if letr in present_letter present_letter letr += 1 else present_letter letr = 1 if letr not in available_letters or available_letters letr - present_letter letr + 1 == 0 return False return True 		12 21
+def isEmpty dictionary for key in dictionary keys if dictionary key != 0 return False return True 		23 27

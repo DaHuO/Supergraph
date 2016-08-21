@@ -1,0 +1,4 @@
+read_one_line 		4 5
+candidates_c expand_space candidates_j expand_space candidates_c candidates_j diffs_sorted diffs_sorted pairs_with_same_best_c pairs_with_same_best_c pairs_with_same_best_c c in for j in diff = abs 		30 63
+def pad 		26 27
+expand_space start candidates = start while any ? in c 		8 23

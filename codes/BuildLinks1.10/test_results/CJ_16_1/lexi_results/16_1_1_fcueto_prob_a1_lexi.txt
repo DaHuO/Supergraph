@@ -1,0 +1,1 @@
+def myfun stream s = stream 0 for c in stream 1 s1 = s + c s2 = c + s if s1 > s2 s = s1 else s = s2 return s 		14 27

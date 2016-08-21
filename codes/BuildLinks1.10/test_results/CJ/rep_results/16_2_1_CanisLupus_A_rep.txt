@@ -1,0 +1,2 @@
+name_counters s_counter s_counter_copy s_counter name_counters isnameinstring s_counter_copy s_counter_copy s_counter_copy s_counter_copy six seven eight nine perms = for i in xrange 1 len names 		10 39
+isnameinstring s_counter s_counter 		4 8

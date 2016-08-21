@@ -1,0 +1,3 @@
+def solve k c s need = k - 1 // c + 1 		7 19
+def pr 		2 5
+def gen a c rt = a 		21 31

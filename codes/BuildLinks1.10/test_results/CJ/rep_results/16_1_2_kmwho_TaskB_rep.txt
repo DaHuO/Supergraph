@@ -1,0 +1,3 @@
+		26 27
+oddnums oddnums n = int input strip rows = map int input strip 		7 18
+def solve t = int 		20 24

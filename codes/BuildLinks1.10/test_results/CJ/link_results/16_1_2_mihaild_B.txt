@@ -1,0 +1,32 @@
+Direct links:
+16 - 17 links:
+16_2_2_mihaild_template	:	13 - 14
+
+12 - 13 links:
+16_2_2_mihaild_template	:	9 - 10
+
+20 - 23 links:
+16_2_2_IdoLivneh_B	:	144 - 151
+16_2_2_mihaild_template	:	17 - 20
+16_1_2_IdoLivneh_B	:	144 - 151
+
+26 - 33 links:
+16_2_2_mihaild_template	:	23 - 30
+
+
+With same rare tokens:
+16 - 17 links:
+16_2_2_mihaild_template	:	13 - 14
+
+12 - 13 links:
+16_1_2_marcelo2311_rankfile	:	9 - 9
+16_2_2_mihaild_template	:	9 - 10
+
+20 - 23 links:
+16_2_2_IdoLivneh_B	:	144 - 151
+16_2_2_mihaild_template	:	17 - 20
+16_1_2_IdoLivneh_B	:	144 - 151
+
+26 - 33 links:
+16_2_2_mihaild_template	:	23 - 30
+

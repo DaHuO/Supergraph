@@ -1,0 +1,1 @@
+def solution i line a = deque for s in line if not a a append s elif a 0 > s a append s else a appendleft s print case #{}: {} format i join a return 		2 12

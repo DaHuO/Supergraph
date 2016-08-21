@@ -1,0 +1,1 @@
+get_last_word word if len word == 1 		3 12

@@ -1,0 +1,1 @@
+def solve s = input count = counter s phone = for letter number in search while count letter phone += str number for c in names number count c -= 1 return join sorted phone 		22 34

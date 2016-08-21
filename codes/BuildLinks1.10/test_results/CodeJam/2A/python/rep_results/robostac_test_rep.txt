@@ -1,4 +1,4 @@
 output_res caseno caseno 		77 81
 def solve n r p s global 		61 74
-orig CC CC CC orig orig orig C if C count P != p return None if C count R != r return None if C count S != s return None while True 		7 47
+CC CC CC r p s orig = C if C count P != p return None if C count R != r return None if C count S != s return None while 		7 47
 games games r p s C 		51 59

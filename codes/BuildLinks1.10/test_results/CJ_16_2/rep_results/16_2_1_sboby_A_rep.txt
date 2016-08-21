@@ -1,0 +1,2 @@
+def count s d 		33 38
+digit2str digit2str Something didn't work! sol = len_s = len s counts = count s for 		40 63

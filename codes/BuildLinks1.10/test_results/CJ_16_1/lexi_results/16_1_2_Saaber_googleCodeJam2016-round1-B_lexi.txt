@@ -1,0 +1,1 @@
+def fun nums dic = for n in nums if n in dic dic n += 1 else dic n = 1 res = for n in dic if dic n % 2 == 1 res append n res sort return  join str n for n in res 		5 17

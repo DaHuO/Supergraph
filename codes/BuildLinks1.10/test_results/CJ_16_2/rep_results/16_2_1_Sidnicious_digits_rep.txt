@@ -1,0 +1,2 @@
+def impl chars if not chars 		6 15
+def get_digits s def impl chars if not chars return 		5 18

@@ -1,0 +1,1 @@
+def solve s m = s 0 res = res += m for c in s 1 if c >= m m = c res = c + res else res = res + c return res 		5 15

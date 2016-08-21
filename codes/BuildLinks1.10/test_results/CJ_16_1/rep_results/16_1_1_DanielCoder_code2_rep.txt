@@ -1,0 +1,7 @@
+getdigits 		4 5
+def getcases 		40 43
+getoutput solvedcase solvedcase = 		46 50
+def parseinput text cases = 		29 37
+csolvecase letters 		9 11
+def solvecase letters word = 		13 21
+generateoutput solvedcases getoutput solvedcases none cases = getcases 		52 59

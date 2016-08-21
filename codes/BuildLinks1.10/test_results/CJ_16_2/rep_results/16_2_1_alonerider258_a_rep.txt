@@ -1,0 +1,6 @@
+def Remove06824 s if Z in s s = s replace Z 1 s = s replace E 1 s = s replace R 1 s = s replace O 1 		2 38
+def laterRemove5 s if F in s 		69 79
+def laterRemove9 s if N in s 		58 67
+def laterRemove13 s if O in s s = s replace O 1 		40 56
+def main tc = 0 r = open input.txt r w = open out.txt w tc = r readline tc = int tc i = 0 while tc > 0 i += 		94 144
+def laterRemove7 s if S in s s 		81 91

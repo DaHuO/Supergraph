@@ -1,0 +1,2 @@
+def main s = sys stdin readline t = int s for i in xrange 0 t s = sys stdin readline print case #{0}: {1} format i + 1 ans s strip 		13 18
+def ans s ans = for x in s if x + ans > ans + x ans = x + ans else ans = ans + x return ans 		4 11

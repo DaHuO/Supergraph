@@ -1,0 +1,1 @@
+xxx run s plan = ss = list s while max s != min s maxi = 0 for i in range len 		3 27

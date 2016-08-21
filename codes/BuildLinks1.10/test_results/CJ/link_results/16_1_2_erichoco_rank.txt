@@ -1,0 +1,37 @@
+Direct links:
+37 - 137 links:
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+
+
+With same rare tokens:
+37 - 137 links:
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+16_2_1_erichoco_prob1	:	113 - 211
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+16_3_1_erichoco_prob1	:	45 - 143
+16_2_1_erichoco_prob1	:	113 - 211
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+16_3_1_erichoco_prob1	:	45 - 143
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+16_2_1_erichoco_prob1	:	113 - 211
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+16_3_1_erichoco_prob1	:	45 - 143
+16_2_1_erichoco_prob1	:	113 - 211
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+16_3_1_erichoco_prob1	:	45 - 143
+16_2_1_erichoco_prob1	:	113 - 211
+16_3_1_erichoco_prob1	:	45 - 143
+

@@ -1,0 +1,2 @@
+def solve r p s if r < 0 or p < 0 or s < 0 return impossible if r + p + s == 1 return r if r > 0 else p if p > 0 else s rn pn sn = r + s - p // 2 p - s + r // 2 - r + s + p // 2 if rn > r or pn > p or sn > s return impossible res = solve rn pn sn if res == impossible return impossible else nres = m = r rs s sp p pr for c in res nres += m c return nres 		7 23
+def asort s if s == impossible return s l = len s if l > 1 sl = asort s l // 2 sh = asort s l // 2 s = sl + sh if sl < sh else sh + sl return s 		25 33

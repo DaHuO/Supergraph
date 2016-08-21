@@ -1,0 +1,1 @@
+def main t = int raw_input case = 1 		2 15

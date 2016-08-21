@@ -1,0 +1,2 @@
+def algo1 tt mdict n intermediate_buff 		5 22
+_reply numb_rows numb_rows increase_me increase_me numb_rows sys argv > 1 name = sys argv 1 fl = open name r fl_wrt = open name + w 		24 62

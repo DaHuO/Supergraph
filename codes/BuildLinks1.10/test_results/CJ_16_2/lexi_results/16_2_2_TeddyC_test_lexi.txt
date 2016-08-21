@@ -1,0 +1,1 @@
+def replace ll item = idx = 0 notfound = True for item in ll idx = 0 for char in list item if char == ? notfound = False break idx += 1 if not notfound break if notfound return True for d in DL temp = list item temp idx = d ll append join temp ll remove item return False 		11 38

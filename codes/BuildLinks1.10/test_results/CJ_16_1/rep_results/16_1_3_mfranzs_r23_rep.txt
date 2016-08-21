@@ -1,0 +1,3 @@
+def solve i l v chain = false global m pp = none p = none z = i while 		5 31
+def main global v m f b n t = readint for t in range t n = 		49 68
+def back l v p global m bestl = l for 		33 47

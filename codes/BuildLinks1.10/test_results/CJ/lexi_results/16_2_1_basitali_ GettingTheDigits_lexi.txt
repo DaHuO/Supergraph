@@ -1,0 +1,1 @@
+def findnumber inp values = z zero 0 w two 2 u four 4 x six 6 o one 1 g eight 8 r three 3 f five 5 v seven 7 n nine 9 number = remaining_inp = list inp while len remaining_inp > 0 for v in values if v 0 in remaining_inp number += v 2 for x in v 1 remaining_inp pop remaining_inp index x break return join sorted number 		1 23

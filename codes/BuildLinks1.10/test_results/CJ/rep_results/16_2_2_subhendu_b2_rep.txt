@@ -1,0 +1,2 @@
+solveba rlist solveba rlist rlist solveba rlist == 0 return 		39 54
+solveba solveba 9999999 js if ? not in cs + js return cs +  + js c = x for x in 		5 37

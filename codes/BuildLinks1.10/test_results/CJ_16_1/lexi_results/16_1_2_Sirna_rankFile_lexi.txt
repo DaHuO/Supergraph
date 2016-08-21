@@ -1,0 +1,1 @@
+def find_missing number people counter = 0 * 2501 for i in range 2 * number - 1 for j in range number counter people i j += 1 missinglist = for i in range 2501 if counter i % 2 == 1 missinglist += str i +  return missinglist 		4 13

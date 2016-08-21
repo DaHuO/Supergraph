@@ -1,0 +1,24 @@
+
+With same rare tokens:
+22 - 49 links:
+16_2_2_MJ_Thaika_code	:	26 - 189
+16_2_2_MJ_Thaika_code	:	26 - 189
+16_2_2_MJ_Thaika_code	:	26 - 189
+16_2_2_MJ_Thaika_code	:	26 - 189
+16_2_2_MJ_Thaika_code	:	26 - 189
+16_2_2_MJ_Thaika_code	:	26 - 189
+16_2_2_MJ_Thaika_code	:	26 - 189
+16_2_2_MJ_Thaika_code	:	26 - 189
+16_2_2_MJ_Thaika_code	:	26 - 189
+
+11 - 20 links:
+16_2_1_d_operator_A	:	17 - 32
+16_2_1_d_operator_A	:	17 - 32
+16_2_1_d_operator_A	:	6 - 14
+
+1 - 9 links:
+16_2_1_d_operator_A	:	17 - 32
+16_2_1_d_operator_A	:	17 - 32
+16_2_1_d_operator_A	:	6 - 14
+16_2_2_Cobblob_score	:	15 - 35
+

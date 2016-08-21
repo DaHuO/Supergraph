@@ -1,0 +1,8 @@
+def main ifile = sys 		98 103
+def prev 		26 29
+def foo 		93 95
+def foo2 		18 19
+MAX foo2 a b aa bb if len aa != len bb return if len a == 0 return abs int aa - int bb  join aa bb if aa == bb if a 0 == ? and b 0 == ? return min foo2 a 1 b 1 aa + 0 bb + 0 foo2 a 1 b 1 aa + 0 bb + 1 foo2 		37 85
+def next 		31 34
+cool i a ii = str i ii 		8 16
+def fmt a 		21 24

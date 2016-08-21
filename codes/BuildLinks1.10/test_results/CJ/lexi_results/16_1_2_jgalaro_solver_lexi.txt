@@ -1,0 +1,5 @@
+def __init__ self file self file = file self fhandle = open self file r self t = int self fhandle readline 		6 9
+def put self ans outs = case # + str self ind + : for u in ans outs +=  + str u outs += \n self fhandle write outs self ind += 1 		31 37
+def pop self n = int self fhandle readline strip sets = for i in range 2 * n - 1 nums = self fhandle readline strip split temp = for x in nums temp append int x sets append temp return n sets 		11 20
+def run self n sets currlist = for i in range n for s in sets currlist append s i missing = counts = list map lambda x currlist count x set currlist missings = list map lambda x x % 2 counts vals = list set currlist for x in range len vals if missings x == 1 missing append vals x return sorted missing 		43 59
+def __init__ self file self file = file with open self file w pass self fhandle = open self file w self ind = 1 		24 28

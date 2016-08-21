@@ -1,0 +1,1 @@
+def pr s tc o write case # + str tc + : + str s + \n 		5 6

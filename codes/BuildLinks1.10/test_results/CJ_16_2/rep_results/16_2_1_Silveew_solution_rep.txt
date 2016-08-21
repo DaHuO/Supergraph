@@ -1,0 +1,7 @@
+def parse_input T 		9 14
+read_pair return 		5 5
+		6 6
+def 		4 4
+nzero nzero ntwo ntwo nsix nsix neight neight nseven nseven nfive nfive nthree nthree nnine nnine nfour nfour none none nzero none ntwo nthree nfour nfive nsix nseven neight nnine lcounts W for c in TWO lcounts c 		18 91
+		2 2
+read_pair_list return int 		3 3

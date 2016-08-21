@@ -1,0 +1,1 @@
+def find_solution k c s minimum = math ceil k / float c 		4 20

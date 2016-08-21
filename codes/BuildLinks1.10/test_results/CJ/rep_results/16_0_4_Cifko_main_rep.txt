@@ -1,0 +1,2 @@
+def solve s k c s = map int s split 		5 15
+def 		17 19

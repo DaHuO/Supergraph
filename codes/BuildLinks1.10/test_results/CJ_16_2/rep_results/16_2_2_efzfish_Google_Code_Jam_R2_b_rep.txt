@@ -1,0 +1,4 @@
+def replace x 		32 33
+isint 		22 25
+def sub 		38 39
+pro_b 1e20 isint isint = list x y = list y l = len x tmp = x y for i in range l if x i == ? & y i == ? xx = np copy x yy = np copy y xx i = 0 yy i = 1 xx = replace xx 9 yy = replace yy 0 xy = sub yy xx if xy < tmp 2 tmp = xx yy xy elif xy == tmp 2 if int join xx < int join tmp 0 tmp = xx yy xy elif int join xx == int join tmp 0 if int join yy < int join tmp 1 tmp = xx yy xy xx = np copy x yy = np copy y xx i = 1 yy i = 0 xx = replace xx 0 yy = replace yy 9 xy = sub xx yy if xy < tmp 2 tmp = xx yy xy elif xy == tmp 2 		44 211

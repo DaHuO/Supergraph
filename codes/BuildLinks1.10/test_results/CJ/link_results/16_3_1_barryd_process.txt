@@ -1,0 +1,58 @@
+Direct links:
+96 - 97 links:
+16_1_1_barryd_process	:	82 - 83
+
+92 - 94 links:
+16_1_1_barryd_process	:	78 - 80
+
+99 - 107 links:
+16_1_1_barryd_process	:	85 - 93
+
+
+With same rare tokens:
+67 - 72 links:
+16_1_1_barryd_process	:	85 - 93
+
+92 - 94 links:
+16_1_1_barryd_process	:	78 - 80
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	78 - 80
+16_2_2_jeroenvw_gcj	:	124 - 132
+16_2_2_jeroenvw_gcj	:	150 - 191
+
+109 - 125 links:
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	95 - 111
+16_2_2_jeroenvw_gcj	:	193 - 243
+16_2_2_jeroenvw_gcj	:	70 - 108
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	78 - 80
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	95 - 111
+16_2_2_zxybazh_b	:	5 - 109
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	95 - 111
+16_2_2_zfhrp6_Euler	:	4 - 9
+16_2_2_zfhrp6_Euler	:	3 - 10
+16_1_1_barryd_process	:	95 - 111
+16_1_1_barryd_process	:	95 - 111
+
+99 - 107 links:
+16_1_1_barryd_process	:	85 - 93
+16_1_1_barryd_process	:	85 - 93
+16_1_1_barryd_process	:	85 - 93
+16_1_1_barryd_process	:	85 - 93
+16_1_1_barryd_process	:	85 - 93
+16_1_1_barryd_process	:	85 - 93
+16_1_1_cuongd_submission	:	20 - 36
+16_2_1_cuongd_submission	:	27 - 43
+16_1_1_barryd_process	:	85 - 93
+16_1_1_barryd_process	:	85 - 93
+16_1_1_barryd_process	:	85 - 93
+

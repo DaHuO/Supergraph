@@ -1,0 +1,1 @@
+def check arr 		7 10

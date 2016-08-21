@@ -1,0 +1,2 @@
+def solve l new = for sub in sorted l for s in sub new append s d = for n in new d n = d get n 0 + 1 res = for k v in d items if v % 2 != 0 res append k res sort return  join map str res 		1 16
+def b t = int raw_input for t in range 1 t + 1 n = int raw_input p = for n in range 2 * n - 1 positions = map int raw_input split p append positions print case #{}: format t solve p 		18 26

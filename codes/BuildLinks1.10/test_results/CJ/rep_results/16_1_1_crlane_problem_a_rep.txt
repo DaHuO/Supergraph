@@ -1,0 +1,5 @@
+sorted_ reversed_ sorted_ reversed_ sorted_ 		25 32
+_inner * args ** kwargs 		6 10
+_game _game _game word i if i == len 		14 23
+_inner _inner func _cache = def * 		3 11
+read_input_and_solve filename with open filename r as 		35 43

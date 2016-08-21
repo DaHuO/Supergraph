@@ -1,0 +1,17 @@
+Direct links:
+4 - 10 links:
+16_1_1_goulagman_word	:	1 - 7
+16_1_2_goulagman_rank	:	4 - 10
+
+
+With same rare tokens:
+4 - 10 links:
+16_1_1_goulagman_word	:	1 - 7
+16_1_2_goulagman_rank	:	4 - 10
+16_1_1_goulagman_word	:	1 - 7
+16_1_2_goulagman_rank	:	4 - 10
+16_1_1_goulagman_word	:	1 - 7
+16_1_2_goulagman_rank	:	4 - 10
+16_1_1_goulagman_word	:	1 - 7
+16_1_2_goulagman_rank	:	4 - 10
+

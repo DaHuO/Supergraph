@@ -1,0 +1,3 @@
+def verify g k c index l = k ** c for k in g if g k == 0 * l continue x = none for i in index if x is none x = g k i == 0 else x = x and g k i == 0 if x return false return true 		21 34
+def generatesequence k c l = 2 ** k arr = for i in range l s = bin i 2 zfill k arr s = s for j in range c - 1 for k in arr s = for c in arr k if c == 1 s += 1 * k else s += k arr k = s return arr 		3 19
+def verify2 k c index numverified = 0 check = false * k for i in index j = i for c in range c if not check j % k check j % k = true numverified += 1 j /= k return numverified == k 		36 46

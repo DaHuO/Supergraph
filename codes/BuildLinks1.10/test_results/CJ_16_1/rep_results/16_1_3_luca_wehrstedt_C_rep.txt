@@ -1,0 +1,2 @@
+def depth i 		16 17
+again again again distance2 int input strip graph = list int x - 1 for x in input split reverse = list for _ in range n for i j in enumerate graph reverse j append i 		5 50

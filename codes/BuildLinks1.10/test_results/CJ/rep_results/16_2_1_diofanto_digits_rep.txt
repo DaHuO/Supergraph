@@ -1,0 +1,5 @@
+def trans s a 		1 8
+aux aux remove_digit d_to_n aux add_digit sum s values if not d if 		29 47
+remove_digit s d res = true for i c 		10 21
+add_digit s d 		23 26
+s_t aux s_t d = zero one two three four 		50 60

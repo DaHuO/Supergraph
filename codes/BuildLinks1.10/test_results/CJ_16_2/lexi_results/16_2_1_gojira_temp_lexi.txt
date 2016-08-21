@@ -1,0 +1,1 @@
+def solve s cnt = for c in s cnt c = cnt get c 0 + 1 ans = for tuple in key digit = tuple 0 char = tuple 1 ans digit = cnt get char 0 if ans digit > 0 for c in digits digit cnt c -= ans digit ret = for x in ans for i in range ans x ret += str x return ret 		28 44

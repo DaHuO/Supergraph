@@ -1,0 +1,1 @@
+def solution rows values = for row in rows for value in row if value not in values values value = 0 values value += 1 oddvalues = value for value in values if values value % 2 == 1 return map str sorted oddvalues 		9 17

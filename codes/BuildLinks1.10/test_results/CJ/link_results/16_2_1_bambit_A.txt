@@ -1,0 +1,10 @@
+
+With same rare tokens:
+5 - 7 links:
+16_1_2_DUPI_grid	:	17 - 18
+16_1_2_DUPI_grid	:	20 - 32
+
+9 - 31 links:
+16_1_2_DUPI_grid	:	17 - 18
+16_1_2_DUPI_grid	:	20 - 32
+

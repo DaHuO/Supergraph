@@ -1,0 +1,1 @@
+def solve rows m = for row in rows for 		1 18

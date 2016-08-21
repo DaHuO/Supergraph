@@ -1,0 +1,22 @@
+
+With same rare tokens:
+94 - 100 links:
+16_3_1_heaparray_q1	:	8 - 17
+16_3_1_heaparray_q1	:	8 - 17
+16_3_1_heaparray_q1	:	8 - 17
+16_3_1_heaparray_q1	:	8 - 17
+
+11 - 14 links:
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+16_0_4_aelg_prob4	:	4 - 23
+

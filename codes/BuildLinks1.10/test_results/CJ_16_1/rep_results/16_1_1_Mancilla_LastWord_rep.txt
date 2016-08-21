@@ -1,0 +1,2 @@
+placeinword solve input 		6 10
+placeinword s c 		1 4

@@ -1,0 +1,2 @@
+process_case senators_1 senators_1 senators_1 senators_1 senators_2 senators_2 senators_2 {0}{1} senators_2 balanced parties i for i in xrange len n total = sum i for i _p in 		16 54
+1.0 is_balanced senators total = sum 		57 64

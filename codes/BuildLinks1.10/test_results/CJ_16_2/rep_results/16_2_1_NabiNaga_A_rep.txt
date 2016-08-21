@@ -1,0 +1,1 @@
+def solve line c = Counter line counts = 0 * 10 counts 0 = c Z counts 6 = c 		3 19

@@ -1,0 +1,9 @@
+def readint fhandle return readone fhandle 		33 34
+def readmult fhandle return tuple fhandle readline strip split 		36 37
+def readmultint fhandle return tuple int x for x in readmult fhandle 		39 40
+def nextcase fhandle params = None num = readint fhandle pairs = readmult fhandle for i in range num logging info Test: %s pairs return solve pairs 		46 50
+def readfirst fhandle ncases = readone fhandle return ncases 		42 44
+def readone fhandle return int fhandle readline strip 		30 31
+def helper pairs if len pairs <= 1 return 0 if tuple pairs in fake_pairs return fake_pairs tuple pairs h = defaultdict lambda 0 for w1 w2 in pairs h w1 1 += 1 h w2 2 += 1 ret = 0 for i w1 w2 in enumerate pairs if h w1 1 > 1 and h w2 2 > 1 ret append 1 + helper pairs i + pairs i + 1 ret = max ret fake_pairs tuple pairs = ret return ret 		53 69
+def solve pairs return helper sorted pairs 		71 72
+def readstr fhandle return fhandle readline strip 		27 28

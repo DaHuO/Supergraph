@@ -1,0 +1,1 @@
+def main t = int raw_input case = 0 for 		3 20

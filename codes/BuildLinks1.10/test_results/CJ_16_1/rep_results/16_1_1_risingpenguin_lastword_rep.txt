@@ -1,0 +1,2 @@
+comparestring x y alphabet = a b 		13 15
+putinside currentnumber 		17 20

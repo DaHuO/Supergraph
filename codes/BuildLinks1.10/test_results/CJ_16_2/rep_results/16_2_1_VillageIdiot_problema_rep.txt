@@ -1,0 +1,1 @@
+doTest workingWord workingWord firstChars remainingChars remainingChars workingWord wordToDigit wordToDigit wordToDigit wordToDigit range len allChars q append allChars idx + allChars idx + allChars idx + 1 solutions = while len q > 0 remainingCs workingDigits 		8 37

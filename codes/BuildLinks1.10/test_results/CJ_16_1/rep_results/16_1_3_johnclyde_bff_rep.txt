@@ -1,0 +1,2 @@
+get_lasso_length i bffs num_seen = 2 prev = i cur 		20 37
+get_cycle_length i bffs num_seen = 1 cur 		7 18

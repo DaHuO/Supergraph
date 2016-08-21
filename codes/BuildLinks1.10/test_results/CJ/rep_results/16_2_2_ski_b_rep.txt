@@ -1,0 +1,4 @@
+def gen s if ? 		8 14
+solving: %r case log info case a b = case split al 		17 32
+def main lines = ln strip for 		40 46
+def 		35 37

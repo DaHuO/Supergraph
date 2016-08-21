@@ -1,0 +1,5 @@
+nc2 n 		41 42
+def process self fin fout ans = s = 		4 18
+../in.in ../out self fin = open r fout 		20 31
+make_test ../test 1\n2000\n 2000 %d\n 		33 38
+def line a 		45 46

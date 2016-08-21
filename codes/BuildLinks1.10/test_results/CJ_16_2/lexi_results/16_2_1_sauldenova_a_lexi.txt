@@ -1,0 +1,1 @@
+def letter_value letter return ord letter - ord A 		5 6

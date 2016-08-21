@@ -1,0 +1,2 @@
+intersect best j i current if i == 		5 12
+intersect a 		14 15

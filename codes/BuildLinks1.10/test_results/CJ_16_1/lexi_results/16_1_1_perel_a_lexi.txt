@@ -1,0 +1,2 @@
+def main fi = file al.in fo = file a.out w time0 = time time t = int fi readline for ti in range t time1 = time time s = fi readline - 1 ans = case #%d: %s % ti + 1 solve s print ans %.3f % time time - time1 fo write ans + \n print %.3f % time time - time0 fi close fo close 		15 28
+def solve s ans = deque s 0 for si in s 1 if si >= ans 0 ans appendleft si else ans append si return join ans 		5 13

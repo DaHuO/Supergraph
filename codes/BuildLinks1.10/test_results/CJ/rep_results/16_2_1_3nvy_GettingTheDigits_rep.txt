@@ -1,0 +1,2 @@
+gettingthedigits s zero = s count z s = s replace z zero replace e zero replace r zero replace o zero two = s count w s = s replace t two replace w two replace o two six = s count x s 		15 44
+runtimeerror within gettingthedigits = int input if t < 		6 13

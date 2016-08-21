@@ -1,0 +1,5 @@
+def occur l m ans = while m 		11 20
+doublebonds k bonds = for j 		4 9
+applyfunc k 		30 32
+applyfunc longestcycle k n = len k h = k for 		34 49
+longestpath longestpath x occ = 		22 28

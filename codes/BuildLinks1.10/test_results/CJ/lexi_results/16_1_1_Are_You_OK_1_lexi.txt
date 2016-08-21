@@ -1,0 +1,8 @@
+def main n = readint for i in xrange n s = readstrs 0 print case #%d: %s % i + 1 solve s pass 		37 42
+def readint return int sys stdin readline strip 		28 29
+def sp * a assert solve * a - 1 == a - 1 		23 24
+def test pass 		25 26
+def readstrs return x for x in sys stdin readline strip split 		34 35
+def solve1 s l = s 0 for i in range 1 len s l = sum x + s i s i + x for x in l return max l 		7 11
+def readints return int x for x in sys stdin readline strip split 		31 32
+def solve s out = s 0 for i in range 1 len s x = s i if out 0 > x out = out + x else out = x + out return out 		13 21

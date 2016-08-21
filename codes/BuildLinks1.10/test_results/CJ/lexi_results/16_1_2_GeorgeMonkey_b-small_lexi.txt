@@ -1,0 +1,5 @@
+def match_col grid i r for j row in enumerate grid if row i is not none and row i != r j return false return true 		9 13
+def print_grid grid for row in grid for c in row print %5s % c end = print 		30 34
+def match_row grid i r for j c in enumerate grid i if c is not none and c != r j return false return true 		14 18
+def set_row grid i r global n for j in range n grid i j = r j return grid 		24 28
+def set_col grid i r global n for j in range n grid j i = r j return grid 		19 23

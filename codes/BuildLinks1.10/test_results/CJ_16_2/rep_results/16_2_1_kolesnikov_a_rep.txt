@@ -1,0 +1,2 @@
+encode s a = 		10 15
+encode decode s counts = s res 		22 34

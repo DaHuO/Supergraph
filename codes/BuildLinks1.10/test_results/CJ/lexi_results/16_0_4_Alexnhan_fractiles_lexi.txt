@@ -1,0 +1,1 @@
+def gettiles k c s if s == k offset = k ** c - 1 tiles = range 1 k ** c + 1 offset for i in range len tiles tiles i = str tiles i return  join tiles 		3 10

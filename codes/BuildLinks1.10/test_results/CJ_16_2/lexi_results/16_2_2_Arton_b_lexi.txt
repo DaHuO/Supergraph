@@ -1,0 +1,1 @@
+def is_match value string b = %0*d % len string value for i in range len string if string i == ? continue if string i != b i return False return True 		3 11

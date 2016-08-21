@@ -1,0 +1,1 @@
+def main t = int sys stdin readline for case_num 		5 19

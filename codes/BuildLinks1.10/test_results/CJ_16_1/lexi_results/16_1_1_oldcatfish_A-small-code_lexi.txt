@@ -1,0 +1,1 @@
+def last_word s cur = s = s strip for i in range len s if cur + s i > s i + cur cur = cur + s i else cur = s i + cur return cur 		6 14

@@ -1,0 +1,36 @@
+8 9:
+readints	1	0	8	6
+return	2	0	7	5
+list	3	1	6	4
+map	4	2	5	3
+int	5	3	4	2
+fi	6	4	3	1
+readline	7	5	2	0
+split	8	6	1	0
+
+12 13:
+print_case	1	0	13	10
+icase	8	5	6	3
+fo	13	10	1	0
+
+20 21:
+msum	1	0	11	8
+a	2	0	10	7
+b	3	0	9	6
+return	4	1	8	5
+min	5	2	7	4
+a	6	3	6	3
++	7	4	5	2
+b	8	5	4	1
+b	9	6	3	0
++	10	7	2	0
+a	11	8	1	0
+
+6 7:
+readint	1	0	6	4
+return	2	0	5	3
+int	3	1	4	2
+fi	4	2	3	1
+readline	5	3	2	0
+strip	6	4	1	0
+

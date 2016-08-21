@@ -1,0 +1,2 @@
+convert_base_plus_one b digits num 		7 11
+needed_s needed_s needed_s convert_base_plus_one s = map int input split = k // c + 		13 29

@@ -1,0 +1,1 @@
+def decrease d index num for c in number index d c -= num 		6 8

@@ -1,0 +1,3 @@
+raw_s getcount raw_s number_table raw_s s = count = 0 * 10 def dfs pos remain if pos == 10 if remain == 0 return 		18 39
+number_table dfs pos remain if pos == 10 if remain == 0 return True return False max_num = 		22 37
+getcount s res 		4 8

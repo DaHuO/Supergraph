@@ -1,0 +1,1 @@
+lastw s n = len s d = 		7 17

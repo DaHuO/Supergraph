@@ -1,0 +1,2 @@
+def main cases = int 		2 7
+def solve s result = for c in list 		9 25

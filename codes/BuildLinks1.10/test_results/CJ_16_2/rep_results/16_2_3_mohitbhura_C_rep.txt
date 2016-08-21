@@ -1,0 +1,1 @@
+marked marked num fakes global ans if num == n for k v in r1 items if v == 		5 36

@@ -1,0 +1,1 @@
+def testcase ind s = raw_input res = for c in s if len res > 0 and res 0 <= c res = c + res else res = res + c print case #%d: %s % ind res 		1 9

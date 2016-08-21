@@ -1,0 +1,1 @@
+def pro_b x ct = counter x y = for i in ct if ct i & 1 y append i return y 		25 31

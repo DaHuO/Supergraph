@@ -1,0 +1,1 @@
+def solve s = input res = for x in s if len res 		1 22

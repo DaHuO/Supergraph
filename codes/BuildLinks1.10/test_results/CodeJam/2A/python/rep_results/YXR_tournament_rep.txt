@@ -1,4 +1,4 @@
 def alpha ans if ans == IMPOSSIBLE return ans tmp = length = len 		85 102
 get2min x tmp 		3 7
 findans str3 str3 str3 min0 minn min0 min0 minn minn R P S R str2 = alpha test 		105 126
-tmpl tmpl get2min tmpl tmpl S target length = 2 ** N if R + P + S != length return IMPOSSIBLE ans = if target == R ans += R R -= 1 if R < 0 return IMPOSSIBLE elif target == P ans += P P -= 1 		10 82
+get2min test N R P S target length = 2 ** N if R + P + S != length return IMPOSSIBLE ans = if target == R ans += R R -= 1 if R < 0 return IMPOSSIBLE elif target == P ans += P P -= 1 		10 82

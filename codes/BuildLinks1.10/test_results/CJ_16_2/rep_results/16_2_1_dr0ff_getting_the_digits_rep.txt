@@ -1,0 +1,2 @@
+test_num tnum test_num tnum Case #{0}: 		30 35
+MAP solve s c = Counter s digits = for D 		9 27

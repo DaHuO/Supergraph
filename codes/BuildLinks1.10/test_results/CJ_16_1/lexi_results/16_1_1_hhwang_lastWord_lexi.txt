@@ -1,0 +1,1 @@
+def lastword word if len word == 1 or len word == 0 return word else lastalphabet = a splitpoint = 0 for i in xrange len word if word i >= lastalphabet splitpoint = i lastalphabet = word i return word splitpoint + lastword word 0 splitpoint + word splitpoint + 1 		2 12

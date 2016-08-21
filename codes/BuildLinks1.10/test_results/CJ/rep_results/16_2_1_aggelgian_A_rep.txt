@@ -1,0 +1,2 @@
+def main ts = int stdin readline for 		7 14
+def solve l ts = len l d = defaultdict int sol = for c in l d c += 1 n = d z sol += n * 0 ts -= 4 * n d z -= n d e -= n d r -= n d o -= n if ts == 0 return sol n = d x sol += n * 6 ts -= 3 * n d s -= n d 		16 120

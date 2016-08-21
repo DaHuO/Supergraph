@@ -1,0 +1,1 @@
+def fun s t = @ for a in s if ord a >= ord t 0 t = a + t else t = t + a p = a return t replace @ 		1 9

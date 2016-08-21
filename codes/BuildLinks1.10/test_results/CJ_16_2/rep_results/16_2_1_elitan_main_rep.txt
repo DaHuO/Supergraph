@@ -1,0 +1,3 @@
+findnr current_n current_n nrins nrtmp nrtmp findnr nrtmp current_n return nr 0 global 		32 49
+findnr main T = int input for 		52 63
+nrins n s stmp 		20 30

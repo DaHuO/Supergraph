@@ -1,0 +1,1 @@
+zero_num zero_num zero_num two_num two_num two_num four_num four_num four_num six_num six_num six_num seven_num seven_num seven_num eight_num eight_num eight_num three_num three_num three_num five_num five_num five_num nine_num nine_num nine_num one_num one_num char_dict char += 1 = char_dict Z digits 0 += for 		1 62

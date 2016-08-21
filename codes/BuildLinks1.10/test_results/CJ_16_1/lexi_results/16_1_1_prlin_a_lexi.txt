@@ -1,0 +1,1 @@
+def handle_case line s = line strip siter = iter s final_word = next siter for letter in siter if letter < final_word 0 final_word append letter else final_word insert 0 letter return join final_word 		6 15

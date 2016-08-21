@@ -1,0 +1,2 @@
+def findNum S 		12 15
+def main T = int raw_input for t in xrange T S = raw_input ans = one = three = 0 count = S count Z S = findNum S ZERO count ans += 0 * count one = count count 		17 59

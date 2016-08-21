@@ -1,0 +1,2 @@
+def findmissing givenvals output = for key in counter givenvals keys if counter givenvals key % 2 != 0 output append int key output sort newout = str i for i in output outstr =  join newout return outstr 		4 12
+def mainlogic numcases infile output = for case in range numcases givenvals = numlines = int infile readline strip for i in range numlines * 2 - 1 for s in infile readline strip split  givenvals append s result = findmissing givenvals output = output + case #{}: {}\n format case + 1 result return output 		14 24

@@ -1,0 +1,2 @@
+Solve_Problem big_string big_string False extracted_digits = big_str_signature = dict Counter if Z in big_str_signature times = big_str_signature Z subtract_digs big_str_signature 0 times extracted_digits += 0 * times if W in big_str_signature times = big_str_signature W subtract_digs big_str_signature 2 times extracted_digits += 2 * times 		41 93
+digs_signatures subtract_digs big_str_signature 		30 34

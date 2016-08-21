@@ -1,0 +1,5 @@
+def __init__ self self numcases = int sys stdin readline strip 		4 5
+def __init__ self casenum self case_num = casenum 		12 13
+def do_all_cases self for n in range self numcases cp = problem n + 1 cp do_it 		6 9
+def main problemset do_all_cases 		28 29
+def do_it self word = sys stdin readline strip out_word = none for ch in word if out_word is none out_word = ch elif ord ch < ord out_word 0 out_word = out_word + ch else out_word = ch + out_word sys stdout write case #{}: {}\n format self case_num out_word 		15 26

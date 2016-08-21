@@ -1,0 +1,1 @@
+def g x c if len x == 0 return c else if c >= x 0 return c + x else return x + c 		3 10

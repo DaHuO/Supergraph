@@ -1,0 +1,1 @@
+def lastword instr word = for i 		106 116

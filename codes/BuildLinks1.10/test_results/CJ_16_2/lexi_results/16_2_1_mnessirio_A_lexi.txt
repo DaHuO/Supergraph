@@ -1,0 +1,1 @@
+def solve phone_number_digits = 0 for i in range 10 S = list infile readline strip for group in pick_order for letter in group keys while letter in S phone_number_digits group letter += 1 for x in numbers group letter S remove x phone_number_digits 1 = len S // 3 result = for i in range len phone_number_digits result += str i * phone_number_digits i return result 		26 44

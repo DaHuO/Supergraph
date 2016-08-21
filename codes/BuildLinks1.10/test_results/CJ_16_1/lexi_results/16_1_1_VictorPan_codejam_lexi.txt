@@ -1,0 +1,1 @@
+def solve s answer = s 0 maxseen = answer for letter in s 1 if letter >= maxseen maxseen = letter answer = letter + answer else answer = answer + letter return answer 		1 10

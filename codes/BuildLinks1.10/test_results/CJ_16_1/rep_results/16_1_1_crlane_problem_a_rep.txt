@@ -1,0 +1,5 @@
+sorted_ reversed_ sorted_ reversed_ sorted_ 		25 32
+_inner * args ** kwargs 		6 10
+memoize _game result word i if i == len 		14 23
+memoize _inner _inner = def * args 		3 11
+read_input_and_solve filename with open filename r as 		35 43

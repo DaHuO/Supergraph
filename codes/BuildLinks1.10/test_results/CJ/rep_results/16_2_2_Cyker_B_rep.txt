@@ -1,0 +1,13 @@
+solve_gt1 c j i n = len c c 		84 90
+solve_lt solve_lt1 solve_lt2 solve_lt1 solve_lt2 c j i n = len c c j = list c list j cp jp = solve_trivial c i j i c i j i = cp jp c i j i = 		46 81
+solve_lt2 c j i n = len c c j = list c list j ok = false for k in range i - 1 - 1 		55 80
+def solve_trivial c j n = len 		5 11
+def fill s c 		39 44
+solve_lt1 c j i n = len c c 		47 53
+solve_gt solve_gt1 solve_gt2 solve_gt3 solve_gt4 solve_gt1 solve_gt2 solve_gt3 solve_gt4 = len c c j = list c list j cp jp = solve_trivial c i j i c i j i = cp jp c i j i = fill c i 0 fill j i 9 return c j def c j i n = len c c j = list c list j ok = false for k in range i - 1 - 1 - 1 if c k == ? and j k == ? c k j k = 0 1 ok = true break elif c k == ? and j k != ? if j k != 0 c k = str int j 		83 189
+def better sol1 sol2 if sol1 is none return sol2 elif sol2 is none return sol1 c1 		13 37
+solve_gt3 c j i n = len c c j = list c list j for k in range i - 1 - 1 - 1 if j k != ? and j k != 0 c k 		119 151
+solve_gt2 c j i n = len c c j = list c list j ok = false for k in range i - 1 - 1 		92 117
+solve_eq c j i n = len c c 		191 196
+solve_gt4 c j i n = len c c j = list c list j for k in range i - 1 - 1 - 1 if c k != ? and c k != 9 j k 		153 185
+solve_lt solve_gt solve_eq j n = len c found = none for i 		198 212

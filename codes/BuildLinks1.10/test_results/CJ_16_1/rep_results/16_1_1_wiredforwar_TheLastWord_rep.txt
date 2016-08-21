@@ -1,0 +1,2 @@
+findans main t = int raw_input f = 		20 29
+findans s l = len s ans = 		1 16

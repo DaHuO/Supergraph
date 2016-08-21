@@ -1,0 +1,2 @@
+def main t = int next sys stdin for case_num in 		16 24
+def solution lines n c = counter n 		6 13

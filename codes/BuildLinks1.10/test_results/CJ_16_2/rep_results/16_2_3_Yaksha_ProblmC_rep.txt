@@ -1,0 +1,7 @@
+__bfs _graph _graph = layer = set for vertex in self _left if vertex not in self _matching layer add vertex layers append layer visited = 		42 75
+allLefts allRights numlines numlines numlines XXX allLefts allRights hk HopcroftKarp hk allLefts allRights int file readline total = for x in range 		186 218
+%s=%s\t p ** 		159 164
+__bfs free_vertex free_vertex __dfs True layers = self if len layers - 1 == 0 break = set vertex for 		110 141
+doSolve filename solver log = False with open filename as 		167 179
+__dfs _graph __dfs index layers if index == 0 path = v while self _dfs_parent v != v path append 		83 108
+_graph __init__ self graph self _matching = self _dfs_paths = self 		18 40

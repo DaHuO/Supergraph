@@ -1,0 +1,2 @@
+def tree return defaultdict tree 		21 22
+def main args in_file_path = args 1 in_file = open in_file_path rb t = int in_file readline for i in range t s = in_file readline strip last_word = s 0 for letter in s 1 if letter >= last_word 0 last_word = letter + last_word else last_word += letter print case #%d: %s % i + 1 last_word return 0 		25 42

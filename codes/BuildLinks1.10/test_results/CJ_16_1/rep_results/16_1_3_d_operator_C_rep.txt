@@ -1,0 +1,3 @@
+getbest solve_case c c = x - 1 for 		26 35
+getbest getbest getbest cur prev start n if cur == start return n if 		6 23
+read_simple_2 solve fin 		37 40

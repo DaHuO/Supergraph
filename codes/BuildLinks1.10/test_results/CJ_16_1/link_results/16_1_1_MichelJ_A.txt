@@ -1,0 +1,36 @@
+Direct links:
+19 - 26 links:
+16_1_1_Serkesh_lastWord	:	8 - 15
+16_1_1_riceluxs1t_A	:	1 - 9
+16_1_1_weitang114_a	:	4 - 11
+16_1_1_ob1_a	:	5 - 15
+16_1_1_Leo_T_word	:	15 - 23
+16_1_1_luca_wehrstedt_A	:	3 - 11
+16_1_1_phg1024_A	:	1 - 9
+16_1_1_Qwrk_A	:	2 - 7
+16_1_1_EnTerr_LastWord	:	58 - 65
+16_1_1_aizjForever_1	:	1 - 8
+16_1_1_solomon_wzs_the_last_word	:	4 - 11
+16_1_1_Kbo_problem_a	:	6 - 13
+16_1_1_Minicat_A	:	1 - 8
+16_1_1_helca_A	:	1 - 8
+16_1_1_lostrainbow_Asmall	:	9 - 19
+16_1_1_fred_wulei_the_last_word	:	1 - 9
+16_1_1_sgomnt_solution	:	4 - 11
+16_1_1_MathProgrammer_word	:	3 - 10
+16_1_1_SergGr_TaskA	:	10 - 20
+16_1_1_cptcarrot_proba	:	1 - 8
+16_1_1_klolos_jama	:	6 - 14
+
+
+With same rare tokens:
+45 - 55 links:
+16_1_3_MichelJ_C	:	55 - 66
+16_1_3_MichelJ_C	:	55 - 66
+16_1_2_MichelJ_B	:	117 - 129
+16_1_2_MichelJ_B	:	117 - 129
+16_1_3_MichelJ_C	:	55 - 66
+16_1_3_MichelJ_C	:	55 - 66
+16_1_2_MichelJ_B	:	117 - 129
+16_1_2_MichelJ_B	:	117 - 129
+

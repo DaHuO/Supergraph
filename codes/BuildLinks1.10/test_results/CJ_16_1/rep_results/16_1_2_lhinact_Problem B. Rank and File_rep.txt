@@ -1,0 +1,2 @@
+def rank_file n grids rts = num_cnt = for i in 		2 16
+deal_input filename output_name = filename replace .in .out with open filename r as fin open output_name w 		18 33

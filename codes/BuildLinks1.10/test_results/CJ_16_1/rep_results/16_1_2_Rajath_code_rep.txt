@@ -1,0 +1,6 @@
+convert_list a b 		59 64
+def get_output rows_cols dim miss = heights = for i in range len rows_cols 		33 56
+def get_item flag 		4 9
+convert_list main num_tests = get_item 1 for i in range num_tests 		67 82
+get_tuple flag inp_tuple 		12 16
+def get_list flag inp = raw_input strip 		19 30

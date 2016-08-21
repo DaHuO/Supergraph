@@ -1,0 +1,1 @@
+def remove_word 		27 29

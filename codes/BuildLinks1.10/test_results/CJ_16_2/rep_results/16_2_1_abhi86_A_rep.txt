@@ -1,0 +1,6 @@
+unuse_dig d char_count word_map = 0 		22 26
+def empty char_count 		28 32
+get_phone_number_helper has_enough_letters use_dig get_phone_number_helper unuse_dig empty char_count 		34 47
+get_phone_number_helper get_phone_number n char_count = for 		49 59
+has_enough_letters d char_count word_map = 0 ZERO 1 ONE 2 TWO 3 THREE 4 		3 14
+use_dig d char_count word_map = 0 		16 20

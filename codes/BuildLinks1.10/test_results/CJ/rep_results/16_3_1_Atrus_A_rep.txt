@@ -1,0 +1,4 @@
+def solve s solution = total = 0 		6 19
+s_max sec s_max sec s_max sec sec = 0 = 0 first = 0 = 0 for i val in enumerate s if val >= f_max 		22 57
+format_list_of_nums l if l 		76 81
+format_list_of_chars 		83 86

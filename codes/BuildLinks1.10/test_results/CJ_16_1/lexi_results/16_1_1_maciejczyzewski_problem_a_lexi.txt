@@ -1,0 +1,1 @@
+def problem data letters = list data final = for char in letters if final == final = char continue if final 0 <= char final = char + final else final = final + char return final 		13 22

@@ -1,0 +1,2 @@
+noc tnoc noc tnoc qualifA %d\n = output.txt with open ifn as inf with open ofn 		54 80
+qualifA S L = 0 0 0 0 0 0 0 0 0 0 for carac in S if carac == Z L 0 += 1 elif carac == W 		10 42

@@ -1,0 +1,6 @@
+removestr list 		1 3
+getdigit main t = 		100 104
+hasnum list num if num == 0 return z in list if num == 6 return x 		27 48
+removenum removestr removestr removestr removestr removestr removestr removestr removestr removestr removestr == 1 list 		5 25
+hasnum removenum hasnum removenum hasnum removenum hasnum removenum hasnum removenum hasnum removenum hasnum removenum hasnum removenum hasnum removenum hasnum removenum list num if list 6 num append 6 list 		50 93
+getdigit s num 		96 98

@@ -1,0 +1,8 @@
+clear 		26 27
+__repr__ 		20 22
+def __init__ 		10 12
+missingcol missingcol missingcol missingcol = v i for i in rows cols 		43 54
+def __call__ self * args 		13 19
+inputints 		39 40
+modpow b e mod res = 1 b 		29 37
+__get__ objtype 		23 25

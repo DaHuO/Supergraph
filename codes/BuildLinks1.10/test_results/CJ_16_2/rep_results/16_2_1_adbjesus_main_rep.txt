@@ -1,0 +1,1 @@
+LC LC global L global L2 S = s for s in input N = for 		4 28

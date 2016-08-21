@@ -1,0 +1,7 @@
+		16 17
+solve_matrix edge_heights edge_heights edge_heights = used_edges = for iteration in xrange n valid_soldiers = i l for i l in enumerate soldier_lists if 		29 54
+def 		12 13
+num_lists read_int_multi num_lists solve_matrix read_int 		59 64
+def read_input 		8 9
+read_int_multi 		20 21
+def print_solution 		24 25

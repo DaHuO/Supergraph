@@ -1,0 +1,1 @@
+def solve a b i if i == len a a = int join map str a b = int join map str b d 		5 33

@@ -1,0 +1,16 @@
+Direct links:
+4 - 5 links:
+radix_sort	:	4 - 5
+sort_time	:	6 - 7
+
+
+With same rare tokens:
+4 - 5 links:
+qsort	:	29 - 30
+qsort	:	32 - 33
+sort_time	:	6 - 7
+radix_sort	:	4 - 5
+
+7 - 17 links:
+pysort	:	61 - 77
+

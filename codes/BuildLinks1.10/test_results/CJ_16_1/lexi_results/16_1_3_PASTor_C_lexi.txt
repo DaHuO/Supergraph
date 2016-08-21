@@ -1,0 +1,3 @@
+def check1_1 mx = 0 for i in xrange n if m m i == i and i < m i mx += longest i m i + longest m i i return mx 		40 46
+def longest o wo a = o count = 1 tovisit = mrev a - wo while len tovisit > 0 count += 1 tovisit_new = set for e in tovisit tovisit_new update mrev e tovisit = tovisit_new return count 		24 36
+def check_cycle m mrev origin a = origin visited = origin while m a not in visited a = m a visited append a ind = visited index m a return len visited - ind 		11 21

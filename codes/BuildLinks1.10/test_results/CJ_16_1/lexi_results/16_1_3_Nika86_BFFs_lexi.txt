@@ -1,0 +1,1 @@
+def maxdepth tree node if len tree node == 0 return 1 d = 1 for child in tree node d = max d 1 + maxdepth tree child return d 		5 13

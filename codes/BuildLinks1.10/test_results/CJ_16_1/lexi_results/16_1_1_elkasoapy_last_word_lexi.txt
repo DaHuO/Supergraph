@@ -1,0 +1,2 @@
+def read_problem_file filename problem_list = out_file = open filename r all_file = out_file readlines out_file close n_problems = int all_file pop 0 strip for current_line in all_file problem_list append current_line strip if n_problems != len problem_list print wrong formatted file! sys exit return problem_list 		17 34
+def last_word input_letters output_letters = input_letters 0 for letter in input_letters 1 if letter >= output_letters 0 output_letters = letter + output_letters else output_letters = output_letters + letter return output_letters 		37 46

@@ -1,0 +1,1 @@
+def each_case s pre = post = while s maxletter = max s p = s rfind maxletter pre = pre + maxletter post = s p + 1 + post s = s p return pre + post 		3 13

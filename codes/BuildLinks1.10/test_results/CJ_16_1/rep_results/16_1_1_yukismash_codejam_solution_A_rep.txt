@@ -1,0 +1,2 @@
+def main num_test_cases = int sys 		3 7
+def find_last s if len s == 1 return 		9 20

@@ -1,0 +1,4 @@
+def __repr__ self return {}: {} format self name self remaining 		17 18
+def __cmp__ self other return other remaining - self remaining 		14 15
+def __init__ self name remaining super party self __init__ self name = name self remaining = remaining 		6 9
+def evacuate self self remaining -= 1 		11 12

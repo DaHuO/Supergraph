@@ -1,0 +1,1 @@
+findgold kpowc kpowc c s = line split  k c s = int k int c int 		3 18

@@ -1,2 +1,2 @@
-do_case n r p s = 		1 11
-big reversed big big small small small = p r s if n == 1 if p and r return PR if r and s 		15 49
+def do_case n r p s 		1 11
+big reversed big big r s arr = p r s if n == 1 if p and r return PR if r and s 		15 49

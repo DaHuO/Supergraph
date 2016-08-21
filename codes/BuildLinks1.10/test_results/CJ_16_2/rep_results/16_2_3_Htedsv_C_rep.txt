@@ -1,0 +1,2 @@
+satisfy assert len words == len inset firsts seconds total = set set set 		7 19
+satisfy check pos if pos == n if 		22 33

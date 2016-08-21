@@ -1,0 +1,1 @@
+stgen st dic = ZERO 		2 11

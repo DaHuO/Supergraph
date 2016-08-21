@@ -1,0 +1,1 @@
+find_lastword s s = list s 		6 16

@@ -1,0 +1,2 @@
+getnumber ERRROR freq = Counter word res = 0 * 10 res 0 = freq get Z 0 freq = subtract_word freq ZERO res 0 res 2 = freq get W 0 freq = subtract_word freq TWO 		10 42
+def subtract_word freq word n a 		4 8

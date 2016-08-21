@@ -1,0 +1,1 @@
+def doit k c ans = if c > k ans = 0 for j in range k ans = k * ans + j for j in range k c ans = k * ans return str ans + 1 for i in range 0 k c tmp = 0 for j in range c tmp = k * tmp + min i + j k - 1 if tmp >= k ** c print fuck tmp k ** c ans append str tmp + 1 return ans 		1 17

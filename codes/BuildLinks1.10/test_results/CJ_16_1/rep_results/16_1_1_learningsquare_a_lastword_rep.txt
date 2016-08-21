@@ -1,0 +1,1 @@
+def solve_case given_string answer = given_string 		1 9

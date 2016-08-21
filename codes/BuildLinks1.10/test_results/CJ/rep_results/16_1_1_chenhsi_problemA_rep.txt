@@ -1,0 +1,4 @@
+solvespecific solvespecific if len s <= 1 return 		19 26
+loaddata instancenumber -small-attempt instancenumber instancenumber -large.in problem 		12 17
+instancenumber loaddata instancenumber solutiona.txt solvespecific = open wb 		1 9
+solutiona.txt check with open rb 		28 35

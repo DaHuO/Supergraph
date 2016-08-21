@@ -1,0 +1,22 @@
+4 5:
+pass	3	2	1	0
+
+7 33:
+radix	4	0	78	61
+max_size	7	0	75	58
+placement	11	0	71	54
+max_size	18	1	64	47
+max_size	19	2	63	46
+_	26	9	56	39
+radix	29	12	53	36
+placement	38	21	44	27
+radix	42	25	40	23
+max_size	46	29	36	19
+max_size	51	34	31	14
+radix	61	44	21	4
+bucket	62	45	20	3
+bucket	69	52	13	0
+placement	77	60	5	0
+*=	78	61	4	0
+radix	79	62	3	0
+

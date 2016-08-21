@@ -1,1 +1,1 @@
-word1 word2 counts defaultdict word2 counts output 		8 18
+word1 word2 defaultdict word2 output word1 output 		8 18

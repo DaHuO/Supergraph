@@ -1,0 +1,1 @@
+def do_solve S occ = Counter occ 0 = S count Z occ 2 = S count W occ 4 = 		25 46

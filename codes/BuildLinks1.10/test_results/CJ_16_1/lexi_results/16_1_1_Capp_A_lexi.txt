@@ -1,0 +1,1 @@
+def solve s if len s == 0 return bi = 0 bc = s 0 for i c in enumerate s if bc <= c bi bc = i c pass search = bi last = 0 while search > 0 search -= 1 if s search != bc break last += 1 pass return s bi - last bi + 1 + solve s bi - last + s bi + 1 		7 23

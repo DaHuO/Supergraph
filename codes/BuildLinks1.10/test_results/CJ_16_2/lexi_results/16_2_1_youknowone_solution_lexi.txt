@@ -1,0 +1,5 @@
+def solution idx string = list raw_input digits = search string util print_case idx digits 		47 50
+def search s pool append Trying s while pool trying = pool pop if trying s == return join map str sorted trying digits for i in range 0 10 picked = pick trying s i if picked is False continue pool append Trying picked trying digits + i assert False 		33 44
+def __repr__ self return <{} {}> format self s self digits 		26 27
+def __init__ self s digits self s = s self digits = digits 		22 24
+def pick s n s = s number = NUMBERS n for c in number if c not in s return False s remove c return s 		10 17

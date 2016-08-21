@@ -1,0 +1,4 @@
+generatesequences product 		5 6
+transformsequence origseq newseq newseq newseq 		9 17
+seqs newseqs seqs seqs newseqs 		20 27
+orseq seq1 seq2 seq1 seq1 seq2 		30 38

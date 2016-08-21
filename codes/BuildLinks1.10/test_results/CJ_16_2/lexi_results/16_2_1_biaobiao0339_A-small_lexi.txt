@@ -1,0 +1,3 @@
+def main lines = l strip for l in fileinput input logging debug lines n_tests = int lines 0 start_test = 1 n_lines = 1 for i in xrange 0 n_tests tc = lines start_test start_test + n_lines logging debug tc n = find_answer tc print Case #{}: {} format i + 1 n start_test += n_lines 		70 83
+def remove_str str1 str2 for i in str2 pos = str1 index i str1 = str1 pos + str1 pos + 1 return str1 		7 11
+def find_answer lines numList = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE num_dict = Z 0 W 2 U 4 X 6 G 8 O 1 H 3 F 5 S 7 I 9 numStr = lines 0 result = while len numStr > 0 for l in num_dict for k v in l iteritems count = numStr count k if count > 0 while count > 0 numStr = remove_str numStr numList int v result append v count -= 1 result sort return join result 		13 67

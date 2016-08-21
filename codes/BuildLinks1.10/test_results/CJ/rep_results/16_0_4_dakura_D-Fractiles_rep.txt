@@ -1,0 +1,1 @@
+def solve k c s answers = 		5 13

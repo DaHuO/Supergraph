@@ -1,0 +1,1 @@
+sizeofmatrix sizeofmatrix numberofcases = int input count = 1 for x in range numberofcases ans = dictionary = 		1 26

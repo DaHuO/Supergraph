@@ -1,0 +1,1 @@
+def solve lists n numbers = for list_ in lists for el in list_ if el in numbers numbers el += 1 else numbers el = 1 missing = for number count in numbers items if count % 2 == 1 missing append number assert len missing == n return sorted missing 		7 33

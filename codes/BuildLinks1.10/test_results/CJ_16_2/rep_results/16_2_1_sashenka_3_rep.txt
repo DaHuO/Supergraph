@@ -1,0 +1,5 @@
+def 		9 10
+def remove 		12 15
+solve_one input numbers line = input readline strip d 		18 29
+def __init__ self 		4 7
+solve_one main numbers = Number 0 ZERO Z Number 6 SIX X Number 4 FOUR U 		31 49

@@ -1,0 +1,3 @@
+solve_instance solve input_file with open input_file as 		10 16
+def 		5 7
+solve_instance second second second large 0 		19 28

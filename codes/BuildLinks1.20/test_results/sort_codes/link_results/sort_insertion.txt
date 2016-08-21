@@ -1,0 +1,9 @@
+
+With same rare tokens:
+16 - 27 links:
+sortable	:	7 - 12
+timsort	:	22 - 38
+Arraysort	:	69 - 88
+sorts	:	197 - 223
+sorts	:	11 - 43
+

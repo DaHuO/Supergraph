@@ -1,0 +1,1 @@
+word_of_number try_digit word_str if word_str == return True for idx d in 		15 28

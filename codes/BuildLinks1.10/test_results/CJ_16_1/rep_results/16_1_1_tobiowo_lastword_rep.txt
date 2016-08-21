@@ -1,0 +1,1 @@
+def get_word line if not line return 		18 29

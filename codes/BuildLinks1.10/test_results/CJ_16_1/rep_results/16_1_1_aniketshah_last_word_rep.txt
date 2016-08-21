@@ -1,0 +1,1 @@
+inputtext inputtext finalword = for letter in 		1 13

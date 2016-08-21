@@ -1,0 +1,1 @@
+isIn str1 str2 i = False str2 = 		4 17

@@ -1,0 +1,1 @@
+def solve s words = words append s 0 for i in s 1 if i >= words 0 words insert 0 i else words append i return join words 		3 12

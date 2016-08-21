@@ -1,0 +1,1 @@
+def handle_case n nr = nrs = n = n strip while z in n nrs append 0 n = n replace z 1 n = n replace e 1 n = n replace r 1 n = n replace o 1 while g in n nrs append 8 n = n replace e 1 n = n replace i 1 n = n replace g 1 n 		8 87

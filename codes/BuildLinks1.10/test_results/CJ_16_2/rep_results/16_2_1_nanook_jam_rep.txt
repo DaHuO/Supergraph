@@ -1,0 +1,5 @@
+_fin readInt self if self _line 		8 14
+_fin _fout _n fin 		2 6
+caseCount caseCount fileName solve fin = open 		31 37
+_fout #%d:%s _n _fout _n s is 		22 29
+readLine _fin line 		16 20

@@ -1,0 +1,2 @@
+cand_indexes cand_indexes cand_indexes n = int next lists = grid = missing = 0 ref = ret = for _ in range 2 * n - 1 lists append 		11 40
+def solve next emit cases = int next for case 		48 58

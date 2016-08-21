@@ -1,0 +1,1 @@
+decrease hash 		4 6

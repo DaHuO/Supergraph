@@ -1,0 +1,17 @@
+Direct links:
+16 - 21 links:
+16_1_1_bigblind_code	:	16 - 21
+16_2_1_bigblind_code	:	16 - 21
+
+12 - 14 links:
+16_1_1_bigblind_code	:	12 - 14
+16_2_1_bigblind_code	:	12 - 14
+
+
+With same rare tokens:
+16 - 21 links:
+16_1_1_bigblind_code	:	16 - 21
+16_2_1_bigblind_code	:	16 - 21
+16_1_1_bigblind_code	:	16 - 21
+16_2_1_bigblind_code	:	16 - 21
+

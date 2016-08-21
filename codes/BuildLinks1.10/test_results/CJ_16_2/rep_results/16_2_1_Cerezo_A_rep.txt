@@ -1,0 +1,1 @@
+Next NE THEE EVEN for x in list ABCDEFGHIJKLMNOPQRSTUVWXYZ dic x = 0 for s in S dic s += 1 digits = d = dic Z dic E -= d dic R -= d dic O -= d digits 		4 65

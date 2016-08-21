@@ -1,0 +1,2 @@
+def greedy s answer = s 0 s = s 1 while s if s 0 >= answer 0 answer = s 0 + answer else answer += s 0 s = s 1 return answer 		1 10
+def main for _ in range int input print case #%d: %s % _ + 1 greedy input 		12 14

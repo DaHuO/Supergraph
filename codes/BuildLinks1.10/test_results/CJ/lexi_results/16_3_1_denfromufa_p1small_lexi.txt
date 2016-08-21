@@ -1,0 +1,2 @@
+def solve tpl route = if sum tpl == 0 return route for i1 t1 in enumerate tpl for i2 t2 in enumerate tpl if t1 > 0 and t2 > 0 tpli = tuple _ if j not in i1 i2 else _ - 1 for j _ in enumerate tpl if not condit tpli print bad leftover {} format tpli continue if i1 == i2 routei = route + ascii_uppercase i1 else routei = route + ascii_uppercase i1 + ascii_uppercase i2 print tpli routei return solve tpli routei 		16 35
+def condit tpl s = sum tpl for t in tpl if 2 * t > s return false return true 		8 13

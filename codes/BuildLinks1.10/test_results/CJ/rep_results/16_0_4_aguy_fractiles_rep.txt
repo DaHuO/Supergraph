@@ -1,0 +1,2 @@
+def f k c tiles ans = 0 		1 8
+def ans k c s if c * s < 		10 22

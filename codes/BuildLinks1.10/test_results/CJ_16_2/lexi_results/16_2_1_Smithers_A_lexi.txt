@@ -1,0 +1,1 @@
+def doit n letter word cdigits n = cletters letter for l in word cletters l -= cdigits n 		19 22

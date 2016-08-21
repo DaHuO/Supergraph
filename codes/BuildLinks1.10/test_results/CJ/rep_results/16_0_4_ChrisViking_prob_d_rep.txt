@@ -1,0 +1,1 @@
+compute_sequence treated yet s if k == 1 return 1 if 		18 31

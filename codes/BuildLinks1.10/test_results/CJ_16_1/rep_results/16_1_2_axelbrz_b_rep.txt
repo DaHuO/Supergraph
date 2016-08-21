@@ -1,0 +1,4 @@
+def valid before 		4 7
+l1l2 n ls global 		68 73
+valid_all l1l2_rec n ls l1 l2 i global l1 l2 if i == len ls l1 		54 65
+valid_all l3 l3 for i in xrange len l1 - 1 if not valid l1 i l1 i + 1 return false 		9 52

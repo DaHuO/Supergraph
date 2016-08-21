@@ -1,0 +1,2 @@
+def solve s 		14 17
+def build s l if len s 		4 12

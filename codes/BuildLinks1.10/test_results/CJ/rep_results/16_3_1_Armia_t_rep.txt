@@ -1,0 +1,12 @@
+add_vertex vertex vertex vertname vertex 		27 32
+vertname vertcntr self 		21 25
+dinic_bfs self s t dist = none * len self g q = 		77 88
+add_edge rcap uv_pos vu_pos arc vu_pos arc uv_pos rcap == v raise 		41 52
+changex 01 kl lk kl lk selpattern changex selpattern changex selpattern changex selpattern changex selpattern changex selpattern changex selpattern changex s 1 i == ? break if int s 0 i > int s 1 i gr = 0 break if int s 0 i < int s 1 i gr = 1 break f = 0 for i in range len s 0 if s 0 i == ? or s 1 i == ? f = 1 break if f == 0 return s ss0 = if gr == - 1 if s 0 i == ? and s 		363 445
+dinic_dfs deg_u w_u w_u deg_u dinic_dfs work if u == t return f = len self g u 		58 72
+max_flow mf reach dinic_bfs reach dinic_dfs mf mf str source = self vert 		91 106
+def __init__ self source sink 		12 17
+addnew ccx seqx mid ccx ccx ccx mid seqx ccx mid ccx mid seqx mid mid ccx ccx ccx mid seqx ccx mid ccx mid seqx seqx mid addnew ccx seqx ccx seqx mid ccx ccx ccx mid seqx ccx mid 		116 166
+selpattern s0 s1 if len s0 == 0 return s1 if len s1 == 0 return s0 s0x = s1x = s0x 0 = 		338 361
+get_edges self v 		34 37
+addst bbf cdc typclose bbf typclose typclose typclose typclose 1 start = len 		484 502

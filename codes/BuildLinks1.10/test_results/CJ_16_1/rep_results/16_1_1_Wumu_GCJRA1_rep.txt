@@ -1,0 +1,1 @@
+def solution i line a = deque 		2 12

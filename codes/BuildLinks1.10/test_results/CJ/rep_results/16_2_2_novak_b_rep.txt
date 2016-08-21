@@ -1,0 +1,8 @@
+readmult 		33 34
+readmultint readmult 		36 37
+_firsts _firsts _firsts _firsts _seconds _seconds _seconds _seconds firsts = 0 for i x in enumerate s1 if x != ? firsts = 10 * _s + int x for _s in firsts continue if s2 i == ? lets = 0 1 9 else lets = 0 1 9 int s2 i int s2 i - 1 % 10 int s2 i + 1 % 10 		48 124
+readstr 		24 25
+readone 		30 31
+nextcase readmult test: = 		43 46
+readone 		27 28
+readfirst 		39 41

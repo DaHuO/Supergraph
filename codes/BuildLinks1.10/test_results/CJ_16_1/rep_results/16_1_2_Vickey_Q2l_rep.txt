@@ -1,0 +1,1 @@
+b-large.in.txt here with open r as f inp = f read split \n inpt = inp 1 cs = 0 c = 0 while cs < len inpt 		12 45

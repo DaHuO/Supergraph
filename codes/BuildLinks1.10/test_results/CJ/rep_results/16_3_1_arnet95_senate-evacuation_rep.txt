@@ -1,0 +1,1 @@
+def f n l s = ascii_uppercase n d = for i in xrange n d s i = l i num_senators 		4 31

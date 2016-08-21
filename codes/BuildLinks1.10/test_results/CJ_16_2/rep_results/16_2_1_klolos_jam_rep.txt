@@ -1,0 +1,7 @@
+def print_result 		6 7
+reconstruct nums res = 		24 29
+representatives representatives representatives reconstruct splitline list 0 = Z W X G H U 		32 44
+def 		14 15
+def 		10 11
+def subtract letters 		18 21
+def main 		47 49

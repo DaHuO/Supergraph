@@ -1,0 +1,2 @@
+def main t 		26 29
+def do t cnt = n = int sys stdin readline for i in range 		4 24

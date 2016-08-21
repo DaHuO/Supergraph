@@ -1,0 +1,9 @@
+sorted_numbers 		74 75
+scrambled_number scrambled_number counted_numbers valid_number scrambled_number valid_number valid_number reduced_scrambled_number scrambled_number reduced_scrambled_number reduced_scrambled_number possibility reduced_scrambled_number 		49 71
+		45 46
+assert_is_string 		31 32
+line_num assert_is_numeric_list string_solution assert_is_string string_solution line_num string_solution line_num line_num 1 for line 		7 24
+assert_is_bool_list arr 		40 42
+counted_numbers ret = for 		77 84
+assert_is_numeric 		27 28
+assert_is_numeric_list 		35 37

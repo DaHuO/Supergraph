@@ -1,0 +1,4 @@
+		8 9
+solvelastword wordarray firstchar wordarray wordarray firstchar newlist wordarray firstchar firstchar word2 firstchar word2 firstchar firstchar newlist newlist word2 		11 40
+		53 54
+fileread rw+ notestcases notestcases wordarray solvelastword 		44 51

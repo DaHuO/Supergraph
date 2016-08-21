@@ -1,0 +1,6 @@
+tryit makeless isless ismore isless ismore isless ismore isless ismore makeless ismore makeless isless isless ismore makeless isless makeless ismore isless ismore makeless isless makeless ismore if c1 != ? and c2 != ? if not and not = c1 < c2 = c1 > c2 elif c1 != ? and c2 		21 89
+readia return 		12 13
+readi 		9 10
+reads 		18 19
+readi reads makeless tryit makeless scoresanddiff scoresanddiff scoresanddiff scoresanddiff nt + 1 s1 s2 		91 107
+readfa return 		15 16

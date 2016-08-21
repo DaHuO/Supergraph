@@ -1,0 +1,2 @@
+def main f = open sys argv 1 r t = int f readline strip for t in xrange t k c s = map int f readline strip split  print case #{0}: {1} format t + 1  join str x for x in xrange 1 k + 1 		12 18
+def gen_tiles k c tiles = g * k for i in xrange c for piece in tiles if piece == l pass else pass 		4 11

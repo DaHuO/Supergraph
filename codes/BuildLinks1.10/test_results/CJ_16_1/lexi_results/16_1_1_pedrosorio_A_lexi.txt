@@ -1,0 +1,1 @@
+def solve s cur = s 0 for i in xrange 1 len s if ord s i >= ord cur 0 cur = s i + cur else cur = cur + s i return cur 		1 8

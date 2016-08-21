@@ -1,0 +1,1 @@
+def tenhut biglist = result = n = input for x in range 2 * n - 1 stub = raw_input for height in stub split biglist append height biglist sort setlist = set biglist smalllist = for item in setlist if biglist count item % 2 == 1 smalllist append int item smalllist sort for i in smalllist result = result + str i +  return result 		1 23

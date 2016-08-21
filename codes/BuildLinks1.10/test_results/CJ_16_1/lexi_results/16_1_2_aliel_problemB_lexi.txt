@@ -1,0 +1,1 @@
+def matriz l n l = sorted l m = list itertools combinations l n for mm in m lista = list mm t = list i for i in zip * lista lv = l rowcol = lista + t res = for i in rowcol if sorted i == i and i in lv idx = lv index i lv = lv idx + lv idx + 1 res append true else res append false if res count false == 1 print  join map str lista + t res index false break 		3 21

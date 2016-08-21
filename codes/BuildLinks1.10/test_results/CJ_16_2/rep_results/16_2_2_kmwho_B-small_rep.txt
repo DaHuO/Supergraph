@@ -1,0 +1,5 @@
+		44 45
+solvecase allPos allJs allPos allJs ansmin allJs ansmin ansmin sorted C = sorted 		24 36
+solvecase solve T = int 		38 42
+__del 		9 12
+allPos newCs newCs newCs for ci in C if 		14 22

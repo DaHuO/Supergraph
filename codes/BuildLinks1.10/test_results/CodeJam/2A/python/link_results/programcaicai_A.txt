@@ -1,9 +1,5 @@
-21 - 30 links:
-manu.factor_A	:	21 - 31
-alikhtarov_a	:	25 - 33
-naagi_a2	:	3 - 12
-unsneakyNinja_rps	:	35 - 43
 
+With same rare tokens:
 6 - 40 links:
 Yaksha_A	:	10 - 15
 

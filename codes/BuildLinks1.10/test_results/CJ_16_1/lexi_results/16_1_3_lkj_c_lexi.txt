@@ -1,0 +1,5 @@
+def dfsd n f pred root q = root deepest = while len q > 0 cn = q 0 q pop 0 q extend pred cn if len pred cn == 0 currc = cn c = cn while c != root c = f c currc append c if len currc > len deepest deepest = currc return deepest 		21 36
+def findmaxncc n f pred ncc ncl = maxncext n f pred nc for nc in ncc return list itertools chain from_iterable ncl 		51 54
+def findallcircles n f pred left = set range n cl = while len left > 0 ci = left pop left add ci cc = while ci not in cc if ci not in left break cc append ci ci = f ci else cl append cc cc index f cc - 1 left difference_update set cc return cl 		3 19
+def maxncext n f pred nc pred nc 0 remove nc 1 pred nc 1 remove nc 0 c1 = dfsd n f pred nc 0 + nc 1 c2 = dfsd n f pred nc 1 + nc 0 pred nc 0 append nc 1 pred nc 1 append nc 0 return c1 + list reversed c2 - 2 		38 45
+def solve n f pred = list for i in range n for i in range n pred f i append i cl = findallcircles n f pred ncc = c for c in cl if len c == 2 return max len findmaxncc n f pred ncc max len c for c in cl 		57 64

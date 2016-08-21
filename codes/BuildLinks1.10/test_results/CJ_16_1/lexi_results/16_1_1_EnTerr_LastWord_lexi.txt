@@ -1,0 +1,2 @@
+def input return f readline strip 		55 55
+def lastword s res = for c in s if c + res > res + c res = c + res else res = res + c return res 		58 65

@@ -1,0 +1,8 @@
+
+With same rare tokens:
+10 - 33 links:
+16_1_1_feketrob_main	:	10 - 23
+16_1_3_feketrob_main2	:	32 - 70
+16_1_1_feketrob_main	:	10 - 23
+16_1_3_feketrob_main2	:	32 - 70
+

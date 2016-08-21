@@ -1,0 +1,1 @@
+def get_max h hi = max h iteritems key = operator itemgetter 1 0 s = sum h values h hi -= 1 new_hi = max h iteritems key = operator itemgetter 1 0 if h new_hi * 2 > s - 1 h new_hi -= 1 return hi new_hi else return hi 		14 23

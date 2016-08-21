@@ -1,0 +1,1 @@
+no! solve n p freq = list list pair for pair in zip - n for n in p alphabet heapify freq head = freq 0 soln = while head 0 < 		5 35

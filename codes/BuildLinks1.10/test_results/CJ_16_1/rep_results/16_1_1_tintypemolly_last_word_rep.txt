@@ -1,0 +1,1 @@
+def main with open a-large.in as input_file open a-large.out w as output_file case_count 		1 13

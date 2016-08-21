@@ -1,0 +1,1 @@
+d-small-attempt0.in fracoutput.txt inputfile = open r outputfile = open w cases = int inputfile 		3 15

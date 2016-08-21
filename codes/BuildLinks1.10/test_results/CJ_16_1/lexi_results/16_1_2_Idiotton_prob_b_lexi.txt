@@ -1,0 +1,1 @@
+def f lines heights = for line in lines for h in line if h in heights del heights h else heights h = true return sorted heights keys 		1 11

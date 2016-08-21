@@ -1,0 +1,2 @@
+def ok p n bffs for i in range 1 n - 1 if p i p i - 1 not in bffs and p i p i + 1 not in bffs return false resultlast = p n - 1 p 0 in bffs or p n - 1 p n - 2 in bffs resultfirst = p 0 p n - 1 in bffs or p 0 p 1 in bffs return resultlast and resultfirst 		20 28
+def max_circle n bffs for i in reversed range n for c in combinations range n i + 1 for p in permutations c if ok p i + 1 bffs return i + 1 return 0 		30 37

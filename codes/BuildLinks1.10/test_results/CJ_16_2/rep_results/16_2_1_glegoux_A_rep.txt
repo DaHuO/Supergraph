@@ -1,0 +1,4 @@
+def print_answer n result res = if type 		48 56
+def main T 		58 62
+def f s r = for c in s if c == Z r append 0 s = replace ZERO s elif c == W r append 2 s 		3 41
+def replace s0 		43 46

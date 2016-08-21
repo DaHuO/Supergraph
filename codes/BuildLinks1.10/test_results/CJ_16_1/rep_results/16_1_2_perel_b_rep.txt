@@ -1,0 +1,2 @@
+bs.in b.out fi = file fo = file w time0 = time time t = int fi 		13 29
+^= solve n m cou = 0 		5 11

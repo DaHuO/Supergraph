@@ -1,0 +1,1 @@
+def solve vals vals = zip map int vals range 1 len vals 		11 18

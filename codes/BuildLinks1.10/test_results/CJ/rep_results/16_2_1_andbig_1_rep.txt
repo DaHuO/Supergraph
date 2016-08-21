@@ -1,0 +1,7 @@
+emptys remcounts 		108 109
+remcounts cursol emptys remcounts cursol getmaxi remcounts remcounts testing times. cpsol cursol nsol cpsol nsol 		111 127
+getmaxi i counts cm = 1000 if i == 0 cm = min counts z cm cm = min counts e cm cm = min counts r cm cm = min counts o cm elif i == 1 cm = min counts e cm cm = min counts n cm cm = min counts o cm 		3 53
+glfs 		137 138
+gilfs glfs 		140 141
+getans el 		131 135
+def subtract times i counts if i == 0 counts z -= 1 * times counts e -= 1 * times counts r -= 1 * times counts o -= 1 * times elif i == 1 counts e -= 1 * times counts 		56 106

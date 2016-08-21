@@ -1,0 +1,2 @@
+def main t 		16 19
+test_id test_id s = stdin readline strip r 		3 14

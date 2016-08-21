@@ -1,0 +1,1 @@
+def lastword txt result = for char in txt if len result == 0 result += char elif char >= result 0 result = char + result else result += char return result 		7 18

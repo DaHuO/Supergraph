@@ -1,0 +1,1 @@
+def main T = int input for i in range 1 T + 1 S = input s = k S count k for k in a d = 0 * 10 for k l in p n = s l for c in chiffre k s c -= n d k = n r = for k in range 10 r += str k * d k print Case #%d: %s % i r 		5 19

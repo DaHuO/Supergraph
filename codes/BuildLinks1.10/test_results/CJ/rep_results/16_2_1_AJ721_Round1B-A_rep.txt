@@ -1,0 +1,2 @@
+def minus_all 		2 4
+def do_case strs dict = defaultdict int for ch in strs dict ch += 1 outdigits = list while dict z > 0 minus_all dict zero outdigits append 0 		6 46

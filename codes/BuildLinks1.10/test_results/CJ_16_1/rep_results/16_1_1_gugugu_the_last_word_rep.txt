@@ -1,0 +1,2 @@
+mxs mxs mxs if inp == return mx = max inp first 		13 26
+def solve 		28 30

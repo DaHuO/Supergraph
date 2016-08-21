@@ -1,0 +1,1 @@
+def solve liste solution = liste 0 for i 		1 13

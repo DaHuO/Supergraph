@@ -1,0 +1,6 @@
+def unuse_dig d char_count word_map = 0 zero 1 one 2 two 3 three 4 four 5 five 6 six 7 seven 8 eight 9 nine for c in word_map d char_count c += 1 		22 26
+def empty char_count for k v in char_count items if v != 0 return false return true 		28 32
+def get_phone_number_helper n char_count s if empty char_count return true for d in range 10 if has_enough_letters d char_count use_dig d char_count s += str d if get_phone_number_helper n char_count s return true unuse_dig d char_count s pop return false 		34 47
+def get_phone_number n char_count = for ni in n if ni not in char_count char_count ni = 1 else char_count ni += 1 phone_num = get_phone_number_helper n char_count phone_num return join phone_num 		49 59
+def has_enough_letters d char_count word_map = 0 zero 1 one 2 two 3 three 4 four 5 five 6 six 7 seven 8 eight 9 nine for c in word_map d if c not in char_count or char_count c <= 0 return false if d == 3 or d == 7 and char_count e < 2 return false if d == 9 and char_count n < 2 return false return true 		3 14
+def use_dig d char_count word_map = 0 zero 1 one 2 two 3 three 4 four 5 five 6 six 7 seven 8 eight 9 nine for c in word_map d char_count c -= 1 		16 20

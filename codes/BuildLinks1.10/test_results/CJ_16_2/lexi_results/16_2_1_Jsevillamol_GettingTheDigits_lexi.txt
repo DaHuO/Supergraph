@@ -1,0 +1,1 @@
+def solve_case string freq = defaultdict int res = 0 for i in range 10 for char in string freq char += 1 for name special_char value in numbers while freq special_char > 0 res value += 1 for char in name freq char -= 1 phone = join str i * res i for i in range 10 return phone 		16 30

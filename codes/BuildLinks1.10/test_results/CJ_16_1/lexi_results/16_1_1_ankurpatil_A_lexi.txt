@@ -1,0 +1,1 @@
+def main infile outfile with open infile rt as f t = int f readline sol = for t in range 1 t + 1 s = f readline strip top = s 0 ans = top for c in s 1 if top <= c top = c ans = c + ans else ans = ans + c sol append case #{0}: {1}\n format t ans print sol with open outfile wt as f f writelines sol 		7 25

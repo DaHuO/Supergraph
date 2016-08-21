@@ -1,0 +1,1 @@
+newans newans newans n = int sys stdin readline words = for _ in xrange n line = sys stdin readline words append tuple 		8 29

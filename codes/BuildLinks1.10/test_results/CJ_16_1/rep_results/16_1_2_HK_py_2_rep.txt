@@ -1,0 +1,1 @@
+def get_ans ls dct = for l in ls for el in l 		2 32

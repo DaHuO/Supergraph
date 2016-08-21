@@ -1,0 +1,1 @@
+def find_number exclusive spelt letters count = 0 while exclusive in letters and letters exclusive > 0 for l in spelt letters l -= 1 count += 1 return count 		3 9

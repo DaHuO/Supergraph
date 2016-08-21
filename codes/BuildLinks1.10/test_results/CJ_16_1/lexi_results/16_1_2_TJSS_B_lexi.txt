@@ -1,0 +1,1 @@
+def lastrows matrix dict = list1 = for row in matrix for j in row if j in dict dict j += 1 else dict j = 1 for num in dict keys if dict num % 2 != 0 list1 append num list1 sort return list1 		5 19

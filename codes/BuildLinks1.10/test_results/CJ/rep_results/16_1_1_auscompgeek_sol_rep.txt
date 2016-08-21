@@ -1,0 +1,2 @@
+def main t = 		18 21
+def solve s r = deque 		6 16

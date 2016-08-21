@@ -1,0 +1,2 @@
+rec1 rec2 rec1 rec1 t if pos 		13 24
+rec2 rec2 rec2 delta x y s t if pos == len t 		26 42

@@ -1,0 +1,2 @@
+def solve s l = len s val = 1 * l no = 0 * 10 rem_no Z E R O 0 s val no l 		19 41
+oc oc dc ind s val no l for i in xrange l 		4 17

@@ -1,0 +1,4 @@
+substs_for_score board_regex popleft = itertools product range 10 repeat 		25 34
+def main for index 		37 39
+substs_for_score 		19 20
+def get_cases num_cases 		13 16

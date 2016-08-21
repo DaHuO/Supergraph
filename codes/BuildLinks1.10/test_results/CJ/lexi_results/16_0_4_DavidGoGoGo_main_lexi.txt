@@ -1,0 +1,5 @@
+def getlocation k seq start end templocation = seq start while start < end templocation = calc k templocation seq start + 1 start += 1 return templocation 		13 18
+def issolvable k c s times = k // c if k % c times += 1 if s >= times return true else return false 		1 8
+def calc k first second return first - 1 * k + second 		10 11
+def main f = open input.txt r t = int f readline ofile = open output.txt w for i in range 1 t + 1 k c s = int s for s in f readline split  ofile write case #{}: format i if issolvable k c s res = gettile k c s for j in res ofile write {} format j else ofile write impossible ofile write \n 		37 50
+def gettile k c s seq = list range 0 k + 1 t = 0 if k % c != 0 t = c - k % c seq += seq k * t start = 1 end = c res = while end < len seq res append getlocation k seq start end start += c end += c return res 		20 34

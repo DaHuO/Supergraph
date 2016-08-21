@@ -1,0 +1,1 @@
+def func lst col f = for i in range len lst for j in range 		13 32

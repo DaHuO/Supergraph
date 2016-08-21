@@ -1,0 +1,1 @@
+def solve n r p s = map int raw_input split xt = r rs p pr s ps res = for c in prs l = c for j in xrange n l = xt x for x in l while len l > 1 l = l k + l k + 1 if l k < l k + 1 else l k + 1 + l k for k in xrange 0 len l 2 l = l 0 if l count r == r and l count p == p and l count s == s if not res or res > l res = l if res return res return impossible 		1 17

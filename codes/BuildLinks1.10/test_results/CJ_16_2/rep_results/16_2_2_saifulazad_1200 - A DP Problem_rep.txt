@@ -1,0 +1,2 @@
+val_x (-?\+?)(\d+)(x)? const val_x tottal_const const val_x \+?-?\d*x without_x +x -x val_x without_x tottal_const 		4 21
+process_input x_val con_val x_val con_val IDENTITY IMPOSSIBLE con_val x_val = 		24 43

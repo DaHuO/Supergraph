@@ -1,0 +1,1 @@
+def solve2 m n count = for arr in 		67 82

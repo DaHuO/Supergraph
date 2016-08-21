@@ -1,0 +1,3 @@
+def main t = int 		74 82
+beg beg circle_set circle_set _p to_add cur_a cur_a cur_a union cur_a cur_a _p cur_a to_add union cur_a cur_a f a f add i result = - 1 for in range n cur = circle = cur = set cur 		1 62
+def parse n 		65 71

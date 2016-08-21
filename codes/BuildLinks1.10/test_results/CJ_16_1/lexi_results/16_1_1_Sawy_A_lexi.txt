@@ -1,0 +1,1 @@
+def problem t = int raw_input + 1 for t in range 1 t s = raw_input result = lastch = \0 for ch in s if ch < lastch result += ch else result = {0}{1} format ch result lastch = result 0 print case #{0}: {1} format t result 		1 13

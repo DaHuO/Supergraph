@@ -1,4 +1,4 @@
 def 		9 10
 timsort wrap prev limit reset try except TimBreak prev prev n 		22 38
 __getattr__ 		18 19
-__cmp__ other limit raise 		12 16
+__cmp__ limit raise TimBreak 		12 16

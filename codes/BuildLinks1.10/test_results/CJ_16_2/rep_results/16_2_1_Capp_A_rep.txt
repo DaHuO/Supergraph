@@ -1,0 +1,1 @@
+def Solve S ret = None * 10 ret 0 = S count Z ret 1 = S count N ret 2 = 		5 26

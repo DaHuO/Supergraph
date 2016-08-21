@@ -1,0 +1,2 @@
+def digits string cnt = Counter string counters = Counter DIGITS i for i in range len DIGITS i = 0 nums = for digit in DIGITS while cnt keys i > 0 cnt subtract counters i nums append NUMBERS i i += 1 return join str x for x in sorted nums 		14 24
+def codejammer Rounds = int input for r in range 1 Rounds + 1 print Case #{}: {} format r digits input 		27 30

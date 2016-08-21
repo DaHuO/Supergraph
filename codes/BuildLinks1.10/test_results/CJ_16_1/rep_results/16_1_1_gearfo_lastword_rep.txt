@@ -1,0 +1,3 @@
+def lastword string letters = c for c 		16 25
+def maxindex a_list l = len a_list index 		5 13
+tc_data tc_data with sys stdin as infile 		28 35

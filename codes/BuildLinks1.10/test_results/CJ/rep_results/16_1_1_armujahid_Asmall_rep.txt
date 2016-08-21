@@ -1,0 +1,1 @@
+def calculate s ans = s 0 		2 11

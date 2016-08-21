@@ -1,0 +1,1 @@
+get_num inp inp = inp lower res = tmp = list inp x = tmp count x for i in range x for c in six tmp remove c s = tmp count s for i in range s for c in seven tmp remove 		10 71

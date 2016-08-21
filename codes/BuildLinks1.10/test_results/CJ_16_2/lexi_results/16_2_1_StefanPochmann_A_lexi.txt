@@ -1,0 +1,1 @@
+def naive S ctr = Counter S digits = for line in foo c word d = line split for _ in range ctr c digits append d ctr -= Counter word return join sorted digits 		14 22

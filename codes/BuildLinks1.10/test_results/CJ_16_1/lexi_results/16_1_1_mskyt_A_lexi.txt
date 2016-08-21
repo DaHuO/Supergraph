@@ -1,0 +1,1 @@
+def solve s ret = for k in s if k + ret > ret + k ret = k + ret else ret = ret + k return ret 		3 10

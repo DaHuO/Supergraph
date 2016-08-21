@@ -1,0 +1,3 @@
+def solve s digits = while Z in s digits append 0 s = remove_word s nums 0 while W in s digits append 2 s = remove_word 		10 53
+def remove_word 		55 58
+def remove_char s c 		60 64

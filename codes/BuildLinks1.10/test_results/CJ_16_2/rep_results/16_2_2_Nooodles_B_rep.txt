@@ -1,0 +1,7 @@
+MIN 		48 49
+FindBest 1e25 best = for row in data if D row 0 row 1 < best 		30 44
+Equality One Two ans = for d in range len one if one 		17 28
+64 		5 6
+def D 		8 9
+MAX 		46 47
+Deviation one two for 		11 15

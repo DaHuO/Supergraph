@@ -1,6 +1,6 @@
 solve_wrapper _args Solving 		30 33
-%s.out _file _cases _file _case _cases _file _case solve_wrapper imap_unordered solve_wrapper _cases _case #%s: _case . 0 with open inp r 		8 28
+%s.out _file _cases _file _cases _file solve_wrapper imap_unordered solve_wrapper _cases outp = % inp split . 0 with open inp r 		8 28
 count_ok solve N R P S pl = 		61 67
 count_ok P R S ln if 		55 59
 def order ln l = len ln 		45 53
-prev prev prev top if N 		36 43
+def lineup N top if N 		36 43

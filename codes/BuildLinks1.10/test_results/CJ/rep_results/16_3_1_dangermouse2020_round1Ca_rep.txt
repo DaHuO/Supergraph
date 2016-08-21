@@ -1,0 +1,3 @@
+alphabet_lookup second_index second_index beta alphabet_lookup second_index beta if maxi == 0 return else 		30 45
+file_base read_file with open + .in as 		9 17
+file_base write_file results with open + 		20 27

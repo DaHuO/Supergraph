@@ -1,0 +1,3 @@
+def readfile 		6 12
+name: testnum testtotal: testnum testnum laststr argv 1 r+ rfile = open sys 		30 41
+laststr s rst = for i in 		15 23

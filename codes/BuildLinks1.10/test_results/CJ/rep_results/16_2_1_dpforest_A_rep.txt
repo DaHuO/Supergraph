@@ -1,0 +1,10 @@
+def __init__ 		49 51
+def read_str 		62 64
+def read_int 		53 55
+def read_float 		56 58
+read_decimal_list self 		72 74
+def read_float_list 		69 71
+def solve f skip = false c = collections counter f read_str if skip return 0 ans = 0 * 10 ans 0 = c z for i in zero c i 		11 46
+def read_str_list 		75 77
+def read_int_list 		66 68
+read_decimal self 		59 61

@@ -1,0 +1,3 @@
+def main solve 		26 27
+def solvecase n = int input strip rows = map int input strip split for i in range 2 * n - 1 freq = for r in rows for num in r if num in freq freq num += 1 else freq num = 1 oddnums = num for num in freq if freq num % 2 == 1 return  join map str sorted oddnums 		7 18
+def solve t = int input for t in range 1 t + 1 res = solvecase print case # + str t + : + str res 		20 24

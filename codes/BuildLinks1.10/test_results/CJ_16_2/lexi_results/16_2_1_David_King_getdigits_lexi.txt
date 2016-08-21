@@ -1,0 +1,2 @@
+def load_info f line = f readline out = int line return out 		4 7
+def get_digits f case_num res = print_info = line = f readline strip \n num_pool = list line check_pool = ZERO 0 WTO 2 XSI 6 SEVEN 7 VFIE 5 FOUR 4 RTHEE 3 ONE 1 TEIGH 8 NINE 9 for num in check_pool while True if num 0 0 in num_pool res append num 1 for l in num 0 num_pool remove l else break print_info append Case # + str case_num + 1 + : for num in sorted res print_info append str num print_info append \n return print_info 		9 39

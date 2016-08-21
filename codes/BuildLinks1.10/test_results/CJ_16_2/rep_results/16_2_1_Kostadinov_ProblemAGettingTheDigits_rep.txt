@@ -1,0 +1,3 @@
+is_digit new_input is_digit new_input len str_digit 		4 13
+isalpha new_input is_digit new_input if not str_input return 		15 28
+def solve 		31 33

@@ -1,0 +1,136 @@
+Direct links:
+53 - 57 links:
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+
+71 - 72 links:
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+
+78 - 80 links:
+16_1_2_HammSandwich_RankAndFile	:	59 - 61
+16_1_2_HammSandwich_RankAndFile	:	55 - 57
+
+63 - 66 links:
+16_1_2_HammSandwich_RankAndFile	:	44 - 47
+
+
+With same rare tokens:
+53 - 57 links:
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	40 - 42
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+
+78 - 80 links:
+16_1_2_HammSandwich_RankAndFile	:	59 - 61
+16_1_2_HammSandwich_RankAndFile	:	49 - 50
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+16_1_2_HammSandwich_RankAndFile	:	59 - 61
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	63 - 64
+16_1_2_HammSandwich_RankAndFile	:	55 - 57
+
+68 - 69 links:
+16_1_2_HammSandwich_RankAndFile	:	49 - 50
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+16_1_2_HammSandwich_RankAndFile	:	59 - 61
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	63 - 64
+16_1_2_HammSandwich_RankAndFile	:	55 - 57
+
+6 - 15 links:
+16_1_2_HammSandwich_RankAndFile	:	3 - 15
+16_3_1_BENA_Problem A. Senate Evacuation	:	49 - 69
+16_1_2_HammSandwich_RankAndFile	:	3 - 15
+16_1_2_HammSandwich_RankAndFile	:	3 - 15
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+16_1_2_HammSandwich_RankAndFile	:	3 - 15
+16_1_2_HammSandwich_RankAndFile	:	3 - 15
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+16_1_2_HammSandwich_RankAndFile	:	3 - 15
+16_1_2_HammSandwich_RankAndFile	:	55 - 57
+
+59 - 61 links:
+16_1_2_HammSandwich_RankAndFile	:	34 - 38
+16_1_2_HammSandwich_RankAndFile	:	40 - 42
+16_1_2_HammSandwich_RankAndFile	:	40 - 42
+
+85 - 93 links:
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	49 - 50
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+16_1_2_HammSandwich_RankAndFile	:	59 - 61
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	63 - 64
+16_1_2_HammSandwich_RankAndFile	:	55 - 57
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+
+74 - 76 links:
+16_1_2_HammSandwich_RankAndFile	:	3 - 15
+16_1_2_HammSandwich_RankAndFile	:	55 - 57
+16_1_2_HammSandwich_RankAndFile	:	49 - 50
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+16_1_2_HammSandwich_RankAndFile	:	59 - 61
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	63 - 64
+16_1_2_HammSandwich_RankAndFile	:	55 - 57
+
+82 - 83 links:
+16_1_2_HammSandwich_RankAndFile	:	63 - 64
+16_1_2_HammSandwich_RankAndFile	:	49 - 50
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+16_1_2_HammSandwich_RankAndFile	:	59 - 61
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	63 - 64
+16_1_2_HammSandwich_RankAndFile	:	55 - 57
+
+105 - 115 links:
+16_1_2_HammSandwich_RankAndFile	:	86 - 96
+
+71 - 72 links:
+16_1_2_HammSandwich_RankAndFile	:	3 - 15
+16_1_2_HammSandwich_RankAndFile	:	3 - 15
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+16_1_2_HammSandwich_RankAndFile	:	49 - 50
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+16_1_2_HammSandwich_RankAndFile	:	59 - 61
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	63 - 64
+16_1_2_HammSandwich_RankAndFile	:	55 - 57
+
+95 - 103 links:
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	49 - 50
+16_1_2_HammSandwich_RankAndFile	:	52 - 53
+16_1_2_HammSandwich_RankAndFile	:	59 - 61
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	63 - 64
+16_1_2_HammSandwich_RankAndFile	:	55 - 57
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+16_1_2_HammSandwich_RankAndFile	:	66 - 74
+16_1_2_HammSandwich_RankAndFile	:	76 - 84
+

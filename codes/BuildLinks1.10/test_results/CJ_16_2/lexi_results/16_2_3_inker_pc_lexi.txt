@@ -1,0 +1,2 @@
+def dfs x v x = True for y in em x if match y == - 1 or not v match y and dfs match y match y = x return True return False 		16 22
+def ToNo x isFirst = True global np em ws = first if isFirst else second if x not in ws ws x = np np += 1 em += set return ws x 		7 14

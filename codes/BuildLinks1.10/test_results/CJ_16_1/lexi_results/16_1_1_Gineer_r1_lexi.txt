@@ -1,0 +1,1 @@
+def get_output s l = first = none for i in s strip if first if i < first l append i else l insert 0 i first = i else l append i first = i return join l 		5 19

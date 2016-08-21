@@ -1,0 +1,1 @@
+plans case_input case_input letter_dict  ans = senates = for i in range len input senates i = int 		9 32

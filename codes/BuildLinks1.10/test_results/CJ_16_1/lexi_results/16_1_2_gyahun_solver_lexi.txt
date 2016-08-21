@@ -1,0 +1,2 @@
+def read lines return test tuple tuple map int line split for line in lines 		5 6
+def solve test counts = counter n for line in test lines for n in line return sorted n for n in counts if counts n % 2 		8 11

@@ -1,0 +1,13 @@
+__gt__ self 		17 18
+def parse filename with 		94 97
+__ge__ self 		23 24
+def 		13 14
+__lt__ self 		15 16
+comparescore diffa diffb diffa diffb diffa diffb 2 assert len b == 2 a1 = int 		29 42
+__ne__ self 		25 26
+__le__ self 		21 22
+createnumbers cmp_to_key comparescore j assert len c == len 		80 91
+cmp_to_key class object __lt__ __gt__ __eq__ __le__ __ge__ __ne__ args self obj = obj def self other return 		10 27
+createnumbers old old numbers assert len a == len b for i in range len 		44 60
+__eq__ self 		19 20
+def expand a b ra = 0 1 2 3 4 5 6 7 8 9 if a == ? 		62 77

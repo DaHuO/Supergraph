@@ -1,0 +1,3 @@
+phase1 phase2 extractdigits phase1 extractdigits phase2 0 slst = zero one two three four five six seven 		17 32
+read_simple solve fin 		34 37
+extractdigits phase phase phase = for p1 in 		6 14

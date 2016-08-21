@@ -1,0 +1,3 @@
+debug_print final_j_post final_c_post final_j_post final_c_post final_j_post final_c_post final_j_post final_c_post debug_print option option option abs int c_prefix - int j_prefix final_c = c_prefix final_j = j_prefix if not best_so_far or diff < best_so_far 0 or diff == best_so_far 0 and final_c < best_so_far 1 or diff == best_so_far 0 and final_c == best_so_far 1 and final_j < best_so_far 2 return diff final_c final_j else return best_so_far if c_prefix > j_prefix = j_post replace ? 9 = c_post replace ? 0 final_j = j_prefix + final_c = c_prefix + 		22 113
+debug_print 		6 8
+def main num_cases = int stdin readline 		11 19

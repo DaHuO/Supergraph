@@ -1,0 +1,3 @@
+def main it = fileinput input n = it next for i l in enumerate it 1 print case #%d: %s % i solve l strip 		14 18
+def place_letter s c if ord s 0 > ord c return s + c return c + s 		3 6
+def solve o s = o 0 for c in o 1 s = place_letter s c return s 		8 12

@@ -1,0 +1,2 @@
+_solve rows seen = for row in rows for elem 		13 26
+_solve solve 		28 30

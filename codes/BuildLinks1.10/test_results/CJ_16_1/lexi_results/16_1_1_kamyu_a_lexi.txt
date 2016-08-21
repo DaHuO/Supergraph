@@ -1,0 +1,1 @@
+def the_last_word res = deque s = raw_input strip for c in s if res and ord c >= ord res 0 res appendleft c else res append c return join res 		3 11

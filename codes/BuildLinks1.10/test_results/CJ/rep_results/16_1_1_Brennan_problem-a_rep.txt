@@ -1,0 +1,2 @@
+solve_problem first_char first_char = for c in 		3 14
+parse_problems _raw_input _raw_input int 		17 23

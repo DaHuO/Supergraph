@@ -1,0 +1,1 @@
+def remove digit freq c for char in d digit c char -= freq if c char == 0 del c char return c 		15 20

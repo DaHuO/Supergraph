@@ -1,0 +1,8 @@
+def writecase 		32 33
+def readline x 		8 13
+writeline 		29 30
+def readints 		21 23
+Expected 0, 1, args, {:d} outfile args = sys argv if len args == 1 infile = sys stdin outfile = sys stdout elif len args == 2 if 		35 75
+readfloats xs 		25 27
+		18 19
+		15 16

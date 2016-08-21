@@ -1,0 +1,2 @@
+def find last_nr counter phone_nr if sum counter == 0 return phone_nr c = tuple counter if 		17 40
+def solve t memo clear s = raw_input counter = 0 * l 		43 60

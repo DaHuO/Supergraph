@@ -1,0 +1,3 @@
+write_res file_name res with open file_name w as f 		8 14
+def split s word D = defaultdict list for i 		40 72
+def helper s res l start for i in 		84 99

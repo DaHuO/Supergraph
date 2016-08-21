@@ -1,0 +1,3 @@
+def do_case case chars = case cur = chars 0 for c in chars 1 if c >= cur 0 cur = c + cur else cur = cur + c return cur 		29 38
+def read_case f c = f readline rstrip return c 		10 12
+def print_case result n f text = case #%d: %s % n result out write text + \n print text 		23 26

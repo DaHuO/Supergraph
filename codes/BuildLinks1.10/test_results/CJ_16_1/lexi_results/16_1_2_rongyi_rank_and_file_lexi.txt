@@ -1,0 +1,1 @@
+def rankfile matrix m = len matrix n = len matrix 0 res = set for i in range m for j in range n if matrix i j in res res remove matrix i j else res add matrix i j res = sorted map int res res = map str res return res 		74 86

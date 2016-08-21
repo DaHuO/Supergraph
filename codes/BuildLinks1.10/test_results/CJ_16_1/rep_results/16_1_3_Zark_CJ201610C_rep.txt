@@ -1,0 +1,6 @@
+%d\n output 		74 75
+def input self self 		12 14
+findcircle isvisited isvisited isvisited false for _ in 		41 52
+findline linelen counterbff linelen linelen linelen linelen in range self num queue = queue append st head 		54 72
+def run self casenum 		5 10
+counterbff counterbff circlelen circlelen findcircle linelen linelen findline linelen circlelen alter alter linelen linelen alter self num self self bff i append i = 		16 39

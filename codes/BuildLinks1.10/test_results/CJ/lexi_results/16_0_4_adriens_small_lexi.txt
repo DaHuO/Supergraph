@@ -1,0 +1,1 @@
+def solu k c s if s < math ceil k / c return impossible if c < k l = sum p * c + i * k ** c - i - 1 for i in range 0 c + 1 for p in range 0 int k / c + k ** c - sum i * k ** c - i - 1 for i in range c if l - 1 == l - 2 l = l - 1 return  join map str l else l = sum i * k ** k - i - 1 for i in range 1 k + 1 return l 		3 14

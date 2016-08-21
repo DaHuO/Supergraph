@@ -1,0 +1,4 @@
+def hasPattern freq pattern return all x >= y for x y in zip freq pattern 		5 6
+def find freq if all x == 0 for x in freq return True for i pattern in enumerate patterns if hasPattern freq pattern removePattern freq pattern found isOK = find freq if isOK return str i + found True addPattern freq pattern return False 		16 28
+def addPattern freq pattern for i in range len freq freq i += pattern i 		8 10
+def removePattern freq pattern for i in range len freq freq i -= pattern i 		12 14

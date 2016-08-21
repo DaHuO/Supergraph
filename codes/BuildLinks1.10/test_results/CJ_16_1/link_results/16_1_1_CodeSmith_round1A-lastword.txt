@@ -1,0 +1,21 @@
+Direct links:
+1 - 9 links:
+16_1_1_Selwyntheo_last-word	:	2 - 10
+
+
+With same rare tokens:
+1 - 9 links:
+16_1_1_SergGr_TaskA	:	10 - 20
+16_1_1_Selwyntheo_last-word	:	2 - 10
+16_1_1_Selwyntheo_last-word	:	12 - 22
+16_1_1_Selwyntheo_last-word	:	2 - 10
+16_1_1_Selwyntheo_last-word	:	2 - 10
+16_1_1_Selwyntheo_last-word	:	12 - 22
+16_1_1_Selwyntheo_last-word	:	2 - 10
+16_1_1_Selwyntheo_last-word	:	2 - 10
+
+11 - 21 links:
+16_1_1_Selwyntheo_last-word	:	12 - 22
+16_1_1_Selwyntheo_last-word	:	2 - 10
+16_1_1_Selwyntheo_last-word	:	2 - 10
+

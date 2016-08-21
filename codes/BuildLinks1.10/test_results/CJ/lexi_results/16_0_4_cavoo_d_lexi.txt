@@ -1,0 +1,3 @@
+def readint return int input 		1 2
+def readints return int i for i in input split 		4 5
+def main t = readint for t in range 1 t + 1 k c s = readints if s < k s = impossible else s =  join str k * k ** c - 1 + 1 for k in range k print case #%d: %s % t s 		7 16

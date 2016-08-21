@@ -1,0 +1,2 @@
+check_number test_case_number OUTPUT_FILE_NAME R_count N_count T_count H_count F_count R_count N_count T_count H_count F_count R_count H_count T_count N_count T_count F_count R_count N_count F_count H_count idx1 idx2 idx1 test_case_number = 0 = 0 = 0 U_count = 0 I_count = 0 V_count = 0 S_count = 0 G_count = 0 X_count = 0 for idx in range 0 len S if S idx == Z Z_count += 1 elif S 		28 138
+ProblemA input_file.txt isfile OUTPUT_FILE_NAME OUTPUT_FILE_NAME check_number checking!!! This should happen first = 0 		6 25

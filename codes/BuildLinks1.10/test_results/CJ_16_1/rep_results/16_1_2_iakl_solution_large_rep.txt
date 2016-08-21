@@ -1,0 +1,2 @@
+solvetestcase tc if len tc == 0 return n = len tc 0 mn = 0 mx = 0 count = 		41 69
+outputtestcase tcn r wr = case 		33 38

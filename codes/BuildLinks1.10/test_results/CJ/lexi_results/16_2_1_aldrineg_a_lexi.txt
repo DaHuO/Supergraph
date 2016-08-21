@@ -1,0 +1,5 @@
+def get_file argv if len argv == 1 return a.in else return a_%s.in % argv 1 		5 9
+def get_number s l = list s m = for c in s if c in m m c = m c + 1 else m c = 1 o = z w u x g fi sv hr ni on uniques = z z e r o w t w o u f o u r x s i x g e i g h t fi f i v e sv s e v e n hr t h r e e ni n i n e on o n e assert len uniques == 10 mapping = 0 2 4 6 8 5 7 3 9 1 assert len mapping == 10 numbers = for check in xrange 0 len o uc = o check found_all = true for test in uc if test not in m or m test < 1 found_all = false break if found_all to_remove = len s for test in uc to_remove = min m test to_remove for i in xrange 0 to_remove numbers append str mapping check for c in uniques uc m c = m c - 1 numbers sort return join numbers 		23 64
+def main argv f = open get_file argv r f_out = open get_file_out argv w t = int f readline for t in xrange 1 t + 1 s = f readline strip number = get_number s print_answer t number f_out 		66 73
+def print_answer t answer f answer = case #%d: %s % t answer print answer f write answer f write \n 		17 21
+def get_file_out argv if len argv == 1 return a.out else return a_%s.out % argv 1 		11 15

@@ -1,0 +1,4 @@
+step2str step 		4 5
+print_plan step2str step2str step 		3 7
+def main count = int input 		39 45
+print_plan new_max new_max parties plan if sum parties == 0 print case #{0}: {1} format n plan return current = for 		9 37

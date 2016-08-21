@@ -1,0 +1,1 @@
+def solve s nums = x = list s if \n in x x pop x index \n while x if z in x for c in zero x pop x index c nums append zero elif w 		5 53

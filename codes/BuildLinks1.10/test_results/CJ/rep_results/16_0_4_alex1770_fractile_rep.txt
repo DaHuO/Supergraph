@@ -1,0 +1,1 @@
+fract k c s if s * c < k return 		3 10

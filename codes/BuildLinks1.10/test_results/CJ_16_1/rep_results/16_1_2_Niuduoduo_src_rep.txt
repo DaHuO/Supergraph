@@ -1,0 +1,5 @@
+fonction main\n path print file = open path r outfile = 		48 62
+ens ens stream n = get_int stream m = dnj = for i in 		18 46
+def 		10 12
+def get_stream 		5 8
+get_str 		14 16

@@ -1,0 +1,2 @@
+def dict_word 		12 13
+def solve S def dict_word word n return dict c n for c in word C = Counter S D = D 0 = C Z C subtract dict_word 		10 52

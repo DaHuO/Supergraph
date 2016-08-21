@@ -1,0 +1,3 @@
+def contains counter 		9 10
+def digits letters q = counter letters 0 while 		13 22
+def main t = 		25 28

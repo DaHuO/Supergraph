@@ -1,0 +1,25 @@
+Direct links:
+32 - 33 links:
+16_2_1_andbig_1	:	137 - 138
+
+
+With same rare tokens:
+32 - 33 links:
+16_2_1_andbig_1	:	137 - 138
+16_2_1_andbig_1	:	140 - 141
+
+3 - 10 links:
+16_2_2_stalker_closematch	:	44 - 61
+16_2_2_stalker_closematch	:	44 - 61
+16_2_2_stalker_closematch	:	44 - 61
+16_2_2_stalker_closematch	:	44 - 61
+
+35 - 36 links:
+16_2_1_andbig_1	:	140 - 141
+16_2_1_andbig_1	:	137 - 138
+16_2_1_andbig_1	:	140 - 141
+
+12 - 30 links:
+16_2_1_andbig_1	:	131 - 135
+16_1_1_andbig_1	:	1 - 10
+

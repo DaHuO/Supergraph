@@ -1,0 +1,4 @@
+def tr i return chr 65 + i 		5 6
+def trl l return join chr 65 + i for i in l 		8 9
+def evacuate s result = senators = j for j in s while true if sum senators == 0 break top2 = sorted range len senators key = lambda i senators i reverse = true 2 next = j for j in senators next top2 0 = next top2 0 - 1 next top2 1 = next top2 1 - 1 if isvalid next result append trl top2 senators = next continue next = j for j in senators next top2 0 = next top2 0 - 1 if isvalid next result append trl top2 1 senators = next return result 		18 48
+def isvalid sens for i s in enumerate sens if sum sens i + sens i + 1 < s * 0.5 return false return true 		12 16

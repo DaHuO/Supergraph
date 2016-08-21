@@ -1,0 +1,1 @@
+ordered_alphabet ordered_alphabet ordered_alphabet = 0 		4 12

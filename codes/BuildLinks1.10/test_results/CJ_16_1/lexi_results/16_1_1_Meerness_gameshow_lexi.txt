@@ -1,0 +1,1 @@
+def get_biggest_string s output = for char in s if len output == 0 output += char elif char >= output 0 output = char + output else output += char return output 		1 10

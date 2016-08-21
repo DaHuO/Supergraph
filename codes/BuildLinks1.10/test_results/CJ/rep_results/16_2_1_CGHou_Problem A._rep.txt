@@ -1,0 +1,2 @@
+def data_iterator lines_to_read = none if not shell_pipe_flag with open data_file_name r as f_handle line_iter = f_handle xreadlines case_no = int line_iter 		15 35
+numpy colnum rownum from collections import counter s = case_data 0 c = counter s num = zero one two three four five six seven eight nine counter join zero one two three four five six seven 		41 89

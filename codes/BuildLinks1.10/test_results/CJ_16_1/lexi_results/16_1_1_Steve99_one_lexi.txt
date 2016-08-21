@@ -1,0 +1,1 @@
+def solve s s = i for i in s result = s 0 s = s 1 for i in s if i >= result 0 result insert 0 i else result append i return join result 		1 10

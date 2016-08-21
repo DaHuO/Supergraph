@@ -1,0 +1,1 @@
+reverse_alpha string start = string 0 		1 10

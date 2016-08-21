@@ -1,0 +1,1 @@
+def removenumber number targetletter phonenumber while targetletter in phonenumber digitlist append zowhuvxsgi index targetletter for letter in number i = 0 while i < len phonenumber if letter == phonenumber i if i + 1 < len phonenumber phonenumber = phonenumber 0 i + phonenumber i + 1 else phonenumber = phonenumber 0 i break i += 1 return phonenumber 		22 35

@@ -1,0 +1,2 @@
+read_problem_file problem_list all_file n_problems all_file current_line all_file problem_list 		17 34
+getting_phone digits_conversion first_letter second_letter third_letter first_letter first_letter digits_conversion first_letter second_letter second_letter digits_conversion second_letter third_letter third_letter digits_conversion third_letter Wrong formatted phone! formed 6 G 8 = O 1 H 3 F 5 S 7 = I 9 digits = current_str = 		37 92

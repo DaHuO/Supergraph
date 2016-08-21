@@ -1,0 +1,1 @@
+maxdiff prevdiff maxdiff J qc = C count ? qj = J count ? minc = int 9 * len C + 1 minj = int 9 * len J + 1 mindiff 		4 50

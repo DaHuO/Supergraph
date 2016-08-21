@@ -1,0 +1,23 @@
+Direct links:
+45 - 46 links:
+16_1_2_LinesPrower_r1a	:	61 - 62
+16_1_3_LinesPrower_r1a	:	80 - 81
+
+37 - 38 links:
+16_1_2_LinesPrower_r1a	:	53 - 54
+16_1_3_LinesPrower_r1a	:	72 - 73
+
+39 - 40 links:
+16_1_2_LinesPrower_r1a	:	55 - 56
+16_1_3_LinesPrower_r1a	:	74 - 75
+
+
+With same rare tokens:
+45 - 46 links:
+16_1_2_LinesPrower_r1a	:	61 - 62
+16_1_3_LinesPrower_r1a	:	80 - 81
+
+37 - 38 links:
+16_1_2_LinesPrower_r1a	:	53 - 54
+16_1_3_LinesPrower_r1a	:	72 - 73
+

@@ -1,0 +1,2 @@
+certs certs cert cert certs if ceil float k / c > s return impossible 		5 22
+def main d = file sys argv 1 		24 29

@@ -1,0 +1,1 @@
+def find_word string answer = for char in string if answer == answer += char elif ord char >= ord answer 0 answer = char + answer else answer += char return answer 		7 16

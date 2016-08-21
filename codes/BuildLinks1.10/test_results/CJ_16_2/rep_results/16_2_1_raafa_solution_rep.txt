@@ -1,0 +1,1 @@
+def solve string freq = defaultdict int for ch in string freq ch += 1 digits 		6 32

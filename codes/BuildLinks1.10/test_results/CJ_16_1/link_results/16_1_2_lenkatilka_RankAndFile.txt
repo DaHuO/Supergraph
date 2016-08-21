@@ -1,0 +1,30 @@
+
+With same rare tokens:
+2 - 45 links:
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_2_theFreightTrain_smallB	:	3 - 11
+16_1_2_theFreightTrain_smallB	:	3 - 11
+16_1_2_theFreightTrain_smallB	:	3 - 11
+16_1_2_algorithmist_rankNfile	:	2 - 16
+16_1_2_algorithmist_rankNfile	:	2 - 16
+16_1_2_algorithmist_rankNfile	:	2 - 16
+16_1_2_algorithmist_rankNfile	:	2 - 16
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_2_theFreightTrain_smallB	:	3 - 11
+16_1_2_theFreightTrain_smallB	:	3 - 11
+16_1_2_theFreightTrain_smallB	:	3 - 11
+16_1_2_algorithmist_rankNfile	:	2 - 16
+16_1_2_algorithmist_rankNfile	:	2 - 16
+16_1_2_algorithmist_rankNfile	:	2 - 16
+16_1_2_algorithmist_rankNfile	:	2 - 16
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_1_lenkatilka_LastWord	:	2 - 25
+16_1_1_lenkatilka_LastWord	:	2 - 25
+

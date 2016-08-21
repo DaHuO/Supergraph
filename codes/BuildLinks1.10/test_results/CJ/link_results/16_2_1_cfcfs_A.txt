@@ -1,0 +1,21 @@
+Direct links:
+8 - 13 links:
+16_1_2_cfcfs_B	:	7 - 12
+16_1_1_cfcfs_A	:	7 - 12
+
+
+With same rare tokens:
+8 - 13 links:
+16_0_4_cfcfs_D	:	7 - 9
+16_1_2_cfcfs_B	:	7 - 12
+16_1_2_cfcfs_B	:	7 - 12
+16_1_1_cfcfs_A	:	7 - 12
+16_1_1_cfcfs_A	:	7 - 12
+16_0_4_cfcfs_D	:	7 - 9
+16_1_2_cfcfs_B	:	7 - 12
+16_1_2_cfcfs_B	:	7 - 12
+16_1_1_cfcfs_A	:	7 - 12
+16_1_1_cfcfs_A	:	7 - 12
+16_1_2_cfcfs_B	:	7 - 12
+16_1_1_cfcfs_A	:	7 - 12
+

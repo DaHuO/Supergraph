@@ -1,0 +1,2 @@
+evacuate_senate char_offset char_offset char_offset max = - 1 pos_max = total_senators = sum senators solution = while total_senators > 0 max = - 1 		48 81
+read_problem_file n_parties parties_members n_parties parties_members file! parties_members file! r all_file = out_file readlines out_file close n_problems 		17 45

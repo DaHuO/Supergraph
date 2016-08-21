@@ -1,0 +1,1 @@
+def cut L ele cnt for _ in range cnt for i in ele L remove i return L 		2 6

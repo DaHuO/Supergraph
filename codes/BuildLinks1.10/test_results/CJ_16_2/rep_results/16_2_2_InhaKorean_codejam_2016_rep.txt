@@ -1,0 +1,2 @@
+case_result case S = f readline if 		85 94
+def solve C J large index N if index == N c j = join C join J return abs int c - int j c +  + j c j = C index J index l = large if c != ? and j != ? if large == if int c < int j large = J elif int c > int j large = C return solve C J large index + 1 N if large == C if c == ? C index = 0 if j 		7 83

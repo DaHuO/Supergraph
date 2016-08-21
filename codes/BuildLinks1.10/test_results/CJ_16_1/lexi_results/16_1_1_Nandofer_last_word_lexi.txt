@@ -1,0 +1,1 @@
+def solve line word = list line outword = list outword = word pop 0 for letter in word if letter >= outword 0 outword = letter + outword else outword append letter return join outword 		12 22

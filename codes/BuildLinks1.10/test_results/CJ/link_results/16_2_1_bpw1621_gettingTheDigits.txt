@@ -1,0 +1,35 @@
+
+With same rare tokens:
+50 - 52 links:
+16_1_2_erojas_rankandfile	:	33 - 35
+16_1_2_erojas_rankandfile	:	33 - 35
+16_2_2_Subscheme_B-large	:	14 - 15
+16_2_2_Subscheme_B-large	:	14 - 15
+16_1_2_erojas_rankandfile	:	33 - 35
+16_1_2_erojas_rankandfile	:	33 - 35
+16_2_2_Subscheme_B-large	:	14 - 15
+16_2_2_Subscheme_B-large	:	14 - 15
+
+7 - 26 links:
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	4 - 10
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	12 - 23
+16_0_4_CJJ_problemD	:	26 - 32
+16_0_4_CJJ_problemD	:	26 - 32
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	22 - 27
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	14 - 20
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_3_1_CJJ_problemA	:	4 - 12
+16_2_1_CJJ_problemA	:	4 - 10
+16_2_1_CJJ_problemA	:	4 - 10
+16_2_1_CJJ_problemA	:	4 - 10
+16_2_1_CJJ_problemA	:	20 - 25
+16_2_1_CJJ_problemA	:	20 - 25
+16_2_1_CJJ_problemA	:	12 - 18
+16_2_1_CJJ_problemA	:	12 - 18
+

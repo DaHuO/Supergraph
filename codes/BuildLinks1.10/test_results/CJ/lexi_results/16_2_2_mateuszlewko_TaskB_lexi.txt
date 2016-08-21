@@ -1,0 +1,1 @@
+def getres s1 s2 pos firstbigger for i in xrange pos len s1 if s1 i == ? s1 i = 0 if firstbigger else 9 if s2 i == ? s2 i = 9 if firstbigger else 0 return int join s1 int join s2 		4 12

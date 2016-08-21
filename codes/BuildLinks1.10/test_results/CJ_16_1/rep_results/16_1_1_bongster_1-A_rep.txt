@@ -1,0 +1,2 @@
+def main t = int raw_input for 		12 17
+def solve s i result if len 		1 9

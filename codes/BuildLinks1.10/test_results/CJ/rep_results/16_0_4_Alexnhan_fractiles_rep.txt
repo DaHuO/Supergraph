@@ -1,0 +1,1 @@
+gettiles k c s if s == k 		3 10

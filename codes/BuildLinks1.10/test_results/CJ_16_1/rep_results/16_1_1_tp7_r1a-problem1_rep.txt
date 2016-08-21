@@ -1,0 +1,2 @@
+in_stream cases_count in_stream cases_count in_stream = int 		20 30
+def try_combination so_far chars_list position if position == 		10 17

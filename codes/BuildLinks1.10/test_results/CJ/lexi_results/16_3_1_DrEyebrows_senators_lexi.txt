@@ -1,0 +1,2 @@
+def islegal conf for party in conf if party > sum conf / 2 return false return true 		10 15
+def solve conf if sum conf == 0 return for comb in combinations range n 2 if conf comb 0 == 0 or conf comb 1 == 0 continue nextconf = conf nextconf comb 0 -= 1 nextconf comb 1 -= 1 if islegal nextconf therest = solve nextconf if therest != none return names comb 0 + names comb 1 + therest for i in range len conf if conf i == 0 continue nextconf = conf nextconf i -= 1 if islegal nextconf therest = solve nextconf if therest != none return names i + therest return none 		17 42

@@ -1,0 +1,1 @@
+def get_best_word original_word new_string = for char in original_word if new_string is new_string += char else if new_string 0 <= char new_string = char + new_string else new_string = new_string + char return new_string 		10 20

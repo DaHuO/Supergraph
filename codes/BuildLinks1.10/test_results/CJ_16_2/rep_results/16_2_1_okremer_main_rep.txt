@@ -1,0 +1,1 @@
+numberToInt num if num == ZERO return 0 elif num == ONE 		14 34

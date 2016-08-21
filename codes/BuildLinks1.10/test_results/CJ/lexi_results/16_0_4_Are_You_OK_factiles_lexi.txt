@@ -1,0 +1,7 @@
+def sp * a assert solve * a - 1 == a - 1 		10 11
+def test pass 		12 13
+def readint return int sys stdin readline strip 		15 16
+def readstrs return x for x in sys stdin readline strip split 		21 22
+def readints return int x for x in sys stdin readline strip split 		18 19
+def main n = readint for i in xrange n k c s = readints print case #%d: %s % i + 1 solve k c s pass 		24 29
+def solve k c s return  join map str xrange 1 k ** c + 1 k ** c - 1 		7 8

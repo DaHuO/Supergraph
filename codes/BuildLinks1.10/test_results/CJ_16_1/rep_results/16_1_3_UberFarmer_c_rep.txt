@@ -1,0 +1,2 @@
+bffs_in bffs_in bffs_in more_kids more_kids duplicate_index duplicate_index found_cycle_of_length best_chains best_circle best_chains best_circle num_cases + 1 n = int stdin readline strip = map int stdin readline strip split bffs_map = kid + 1 bff for kid bff in enumerate reverse_bffs_map = for kid bff in enumerate if not bff in reverse_bffs_map reverse_bffs_map bff = kid + 1 else reverse_bffs_map bff 		10 118
+def 		6 8

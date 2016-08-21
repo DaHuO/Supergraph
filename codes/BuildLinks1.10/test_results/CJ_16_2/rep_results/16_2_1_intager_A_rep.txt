@@ -1,0 +1,4 @@
+lett2num LIM strSort lett2num letts global if 		39 51
+strSort s l 		31 37
+def 		8 10
+lett2num 		53 55

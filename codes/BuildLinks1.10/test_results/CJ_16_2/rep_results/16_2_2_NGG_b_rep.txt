@@ -1,0 +1,1 @@
+def bt k an global best if k == len a i = int join a j = int join b d = abs i - j if d < best 0 or d == best 0 and i < int best 1 or i == int best 1 and j < int best 2 best = d join a join b return if a k == ? if b k 		9 76

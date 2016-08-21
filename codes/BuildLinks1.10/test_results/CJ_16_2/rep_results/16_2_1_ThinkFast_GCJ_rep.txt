@@ -1,0 +1,1 @@
+numbers_sorted num_iden num_iden num_iden numbers_sorted defaultdict lambda 0 sol = for let in s c let += 1 numbers 		17 45

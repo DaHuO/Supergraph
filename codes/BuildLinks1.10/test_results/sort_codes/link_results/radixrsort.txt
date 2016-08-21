@@ -1,6 +1,5 @@
-9 - 14 links:
-radix_sort	:	7 - 33
 
+With same rare tokens:
 16 - 20 links:
 merge_sort_typical	:	15 - 20
 

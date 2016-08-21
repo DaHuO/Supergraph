@@ -1,0 +1,1 @@
+showlastword i_list i_list list input result = 		1 12

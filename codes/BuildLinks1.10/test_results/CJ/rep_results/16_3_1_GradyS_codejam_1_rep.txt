@@ -1,0 +1,4 @@
+fix result if len result >= 		30 34
+def readfile filename textfile 		1 9
+writefile filename 		11 14
+def sequence case result = while not i for i in case != true * 		16 28

@@ -1,0 +1,1 @@
+def solve s = str raw_input cnt = 		3 12

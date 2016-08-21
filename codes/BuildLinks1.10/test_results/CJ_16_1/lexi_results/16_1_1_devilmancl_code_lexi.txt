@@ -1,0 +1,1 @@
+def filename filename = input if len sys argv > 1 filename = sys argv 1 else print file was not indicated exit return filename 		7 14

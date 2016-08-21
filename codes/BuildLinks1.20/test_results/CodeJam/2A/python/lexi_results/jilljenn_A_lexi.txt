@@ -1,0 +1,3 @@
+def build letter n c = p pr r rs s ps if n == 0 return letter bundle = for l in c letter bundle append build l n - 1 return bundle 		6 13
+def reduc l p s r = l n = p + s + r // 2 return n - s n - r n - p 		1 4
+def reduction tree if len tree == 1 return tree 0 else t1 t2 = tree x = reduction t1 y = reduction t2 if x < y return x + y else return y + x 		15 25

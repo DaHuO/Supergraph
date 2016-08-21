@@ -1,0 +1,4 @@
+load_cases_data num_of_cases input_variable_names current_case_number input_variable_names current_case_number current_case_number current_case_number input_variable_names input_variable_names 		15 36
+compute_data noabsolutemajority noabsolutemajority population population population case_data in cases_data iteritems case_results = p = case_data p while any p for i pop in enumerate p 		49 77
+print_cases_data case_result case_result 		81 86
+noabsolutemajority parties_pop number_to_remove parties_pop party_distributions parties_pop party_distributions number_to_remove number_to_remove party_distributions 		38 47

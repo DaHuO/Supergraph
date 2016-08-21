@@ -1,0 +1,2 @@
+searchmissing values m = dict for vs 		3 8
+solv searchmissing n = int 		10 14

@@ -1,0 +1,2 @@
+def compute orig curr k st 		3 10
+contains_g s for 		12 16

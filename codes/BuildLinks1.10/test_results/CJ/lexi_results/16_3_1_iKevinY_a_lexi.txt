@@ -1,0 +1,5 @@
+def memoize f cache = def _mem_fn * args if args not in cache cache args = f * args return cache args _mem_fn cache = cache return _mem_fn 		13 22
+def indicies list n return i for i x in enumerate list if x == n 		25 26
+def _mem_fn * args if args not in cache cache args = f * args return cache args 		16 19
+def ind_to_senators list return join chr n + 65 for n in list 		28 29
+def is_majority senators total_senators = sum senators return any n > total_senators - senators i for i n in enumerate senators 		31 33

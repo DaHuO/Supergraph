@@ -1,0 +1,1 @@
+def last_word word s = word 0 for c in word 1 if c >= s 0 s = c + s else s append c return join s 		3 10

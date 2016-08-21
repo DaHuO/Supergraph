@@ -1,0 +1,4 @@
+imprime_saidas ../data/spam_train.txt saidas.log open r 		38 44
+open_file open_file converting outfilename infile = infilename outfile = outfilename w try t = int infile 		46 73
+open_file error: ~ expanduser r if not filename print 		27 36
+error: ~ expanduser if not filename print invalid file name 		10 25

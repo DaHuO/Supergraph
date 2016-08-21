@@ -1,0 +1,1 @@
+def run t s = raw_input post = pre 		3 15

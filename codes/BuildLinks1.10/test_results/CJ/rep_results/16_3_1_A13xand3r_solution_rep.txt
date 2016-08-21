@@ -1,0 +1,5 @@
+readandwritefile filein fileout with open filein as f lines = f 		3 16
+letterforindex 12 16 24 == 0 return a if index == 1 return b if index == 2 return c if index == 3 return d if index == 4 return 		71 123
+maxindexofarray highestindex highestindex highestindex parties == 0 return 		58 69
+partysum partysum partysum partysum maxindexofarray letterforindex partysum maxindexofarray letterforindex partysum maxindexofarray letterforindex partysum partysum in parties += int part 		32 56
+def writeanswer lines file with open file w+ as 		18 25

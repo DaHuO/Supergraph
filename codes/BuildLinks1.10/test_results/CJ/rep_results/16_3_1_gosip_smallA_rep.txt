@@ -1,0 +1,2 @@
+def main f = open a-large.in r t = int 		1 10
+def evacuate l ans n = len l total = sum l if total == 0 return idx1 = 		12 36

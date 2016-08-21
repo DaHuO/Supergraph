@@ -1,0 +1,3 @@
+def read_int return int raw_input 		1 2
+def main t = read_int for i in range t print case #%d: %s % i + 1 solve 		16 19
+def solve line = raw_input word = line 0 for c in line 1 if c >= word 0 word = c + word else word = word + c return word 		5 13

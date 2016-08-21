@@ -1,0 +1,3 @@
+removeletter numberfromlist numberfromlist 		66 70
+input.in main outputfile = open output.txt w inputfile 		73 83
+listofnumbers answerlist removeletter listofnumbers answerlist removeletter listofnumbers answerlist removeletter listofnumbers answerlist removeletter listofnumbers answerlist removeletter listofnumbers answerlist removeletter listofnumbers answerlist removeletter listofnumbers answerlist removeletter listofnumbers answerlist removeletter listofnumbers answerlist removeletter listofnumbers answerlist answerlist answerlist answerlist in s s = s 2 		1 60

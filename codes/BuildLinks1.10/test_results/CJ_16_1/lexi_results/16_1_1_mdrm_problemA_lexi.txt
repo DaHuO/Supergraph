@@ -1,0 +1,2 @@
+def read_ints inp = sys stdin return list map int next inp strip split 		14 15
+def sol1 s res = s 0 for x in s 1 if x >= res 0 res insert 0 x else res append x return join res 		18 25

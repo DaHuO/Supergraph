@@ -1,0 +1,2 @@
+commands.txt digits.txt f = open r g = open w line = 		30 45
+def phone number ZERO = number count Z EIGHT = number count G TWO = number count W SIX = number count X THREE = number count H - 		17 28

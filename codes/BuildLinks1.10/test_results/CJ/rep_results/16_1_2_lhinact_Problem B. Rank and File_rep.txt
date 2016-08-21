@@ -1,0 +1,2 @@
+rank_file rts rts rts rts = for i in xrange 2 		2 16
+deal_input output_name output_name data_num data_num rank_file .out with open filename r as fin open w as fout 		18 33

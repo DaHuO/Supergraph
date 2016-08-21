@@ -1,0 +1,3 @@
+1692 test print 		10 15
+write_lastword main t = int 		18 23
+write_lastword s n = s 		1 8

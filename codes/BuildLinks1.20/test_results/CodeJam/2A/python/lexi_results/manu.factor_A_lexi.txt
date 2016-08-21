@@ -1,0 +1,3 @@
+def solve n r p s = map int input readline strip split assert 2 ** n == r + p + s for c in rps s = sol c n if s count r == r and s count p == p and s count s == s return order s return impossible 		33 40
+def order s n = len s if n == 1 return s assert n % 2 == 0 s1 = order s n / 2 s2 = order s n / 2 if s1 < s2 return s1 + s2 else return s2 + s1 		21 31
+def sol s n print sol s n while n > 0 r = for c in s r += r rs p pr s sp c s = r n -= 1 print = s return s 		10 19

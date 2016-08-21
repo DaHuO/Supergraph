@@ -1,0 +1,4 @@
+def naive c j def nums x x = x replace ? . return x for x in range 10 ** n if re match x form x c = nums c j = nums j def key cj c j = cj return abs c - j c j return min c j for c in c for j in j key = key 		9 19
+def form x return {:0{}} format x n 		6 7
+def nums x x = x replace ? . return x for x in range 10 ** n 		10 12
+def key cj c j = cj return abs c - j c j 		16 18

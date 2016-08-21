@@ -1,0 +1,3 @@
+def id_line_col i 		14 15
+pycosat run n = int input strip lines = list int x for x in input split for _ in range 2 * n - 1 cdt = for i in range n cdt append 1 + i + id_line_row j i for j in range 2 * n - 1 cdt append 51 + i + id_line_col j i for j in range 		17 80
+def id_line_row 		11 12

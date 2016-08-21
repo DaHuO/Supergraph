@@ -1,0 +1,2 @@
+decidelastword case chrs = list for a 		1 13
+testcount testcount decidelastword raw_input testcases = list for i 		15 24

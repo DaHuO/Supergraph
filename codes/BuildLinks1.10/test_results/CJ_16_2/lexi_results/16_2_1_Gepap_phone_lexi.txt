@@ -1,0 +1,1 @@
+def findnumber case result for number in numbers for char in number if char not in case break else temp = case for char in number temp = temp replace char 1 tempresult = result + str numbers index number if temp == \n or not temp return tempresult a = findnumber temp tempresult if a return a 		5 19

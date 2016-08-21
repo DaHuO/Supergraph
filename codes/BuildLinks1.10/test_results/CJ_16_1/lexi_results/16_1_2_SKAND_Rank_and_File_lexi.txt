@@ -1,0 +1,1 @@
+def func lst col f = for i in range len lst for j in range col f lst i j = 0 for i in range len lst for j in range col f lst i j += 1 out = for j in f keys if f j % 2 != 0 out append j out = sorted out rslt = str out 0 for k in range 1 len out rslt +=  + str out k return rslt 		13 32

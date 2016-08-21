@@ -1,0 +1,3 @@
+contained solve s b = list 		56 65
+contained a b 		46 50
+def remove 		52 54

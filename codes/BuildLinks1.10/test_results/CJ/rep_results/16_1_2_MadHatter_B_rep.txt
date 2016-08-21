@@ -1,0 +1,1 @@
+def solve 		3 6

@@ -1,0 +1,4 @@
+out_strings out_file 		54 57
+check_next last_checked last_checked to_check = + 		26 34
+get_position ranges shift ranges deeper_val get_position ranges 		15 23
+calc_ranges base complexity r 		1 7

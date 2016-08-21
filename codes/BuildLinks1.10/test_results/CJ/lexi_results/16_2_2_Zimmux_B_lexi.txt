@@ -1,0 +1,5 @@
+def fmt c j return join map str c +  + join map str j 		4 5
+def sumup c df = 0 s = 0 for d in c s *= 10 s += d return s 		10 15
+def solvecase c j = next stdin split n = len c c = int d if d != ? else - 1 for d in c j = int d if d != ? else - 1 for d in j pc = list allpossible c pj = list allpossible j sc = list map sumup pc sj = list map sumup pj bc bsc bj bsj = none none none none for c sc in zip pc sc for j sj in zip pj sj if bc == none bc bsc bj bsj = c sc j sj else if abs sc - sj < abs bsc - bsj bc bsc bj bsj = c sc j sj elif abs sc - sj == abs bsc - bsj if sc < bsc bc bsc bj bsj = c sc j sj else if sc == bsc and sj < bsj bc bsc bj bsj = c sc j sj return fmt bc bj 		34 58
+def repl c df = 0 return d if d != - 1 else df for d in c 		7 8
+def allpossible c done = false for i d in enumerate c if d == - 1 for j in range 10 d = list c d i = j for e in allpossible d yield e done = true break if not done yield c 		17 29

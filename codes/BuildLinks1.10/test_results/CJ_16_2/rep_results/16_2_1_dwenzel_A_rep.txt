@@ -1,0 +1,4 @@
+solveHelper containsDigit solveHelper curDigits = digits if isEmpty chars return curDigits for index 		13 30
+solveHelper solve input chars = for c 		3 11
+containsDigit chars d digitsChars = for c in 		38 48
+def isEmpty chars 		32 36

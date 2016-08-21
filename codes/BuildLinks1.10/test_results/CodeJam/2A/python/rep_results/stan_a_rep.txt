@@ -1,1 +1,1 @@
-mx mn mx mx mn mn mn max p r s = min p r s if n == 1 if p == 0 return RS elif r == 0 return PS else return PR if n % 2 == 0 if p == 		3 27
+mx mx mx p r s = max p r s mn = min p r s if n == 1 if p == 0 return RS elif r == 0 return PS else return PR if n % 2 == 0 if p 		3 27

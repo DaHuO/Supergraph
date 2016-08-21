@@ -1,0 +1,2 @@
+def solve message m = list message a 		12 21
+def readinput inputs = 		3 10

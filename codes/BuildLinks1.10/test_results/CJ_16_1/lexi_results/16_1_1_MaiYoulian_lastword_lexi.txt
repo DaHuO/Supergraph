@@ -1,0 +1,1 @@
+def last_word x lastwordlist = wordlist = list str x lastword = wordlist 0 for i in range len wordlist - 1 if lastword 0 > wordlist i + 1 lastword = lastword + wordlist i + 1 else lastword = wordlist i + 1 + lastword return lastword 		7 17

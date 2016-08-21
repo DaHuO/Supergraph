@@ -1,0 +1,4 @@
+def next lists k m if k == m if validate n lists return  join find_list n lists else return none for i in range k m + 1 tmp = lists k lists k = lists i lists i = tmp result = next lists k + 1 m if result != none return result tmp = lists k lists k = lists i lists i = tmp 		25 43
+def validate n lists for j in range n 2 * n if lists j != zpc for i in range n if lists i != zpc if lists j i != lists i j - n return false return true 		3 10
+def find_list n lists result = idx = lists index zpc if idx < n for i in range n result append lists i + n idx else for i in range n result append lists i idx - n return result 		13 23
+def compute n lists mydict = result = for list in lists for i in list if i in mydict mydict i += 1 else mydict i = 1 for i in mydict if mydict i % 2 == 1 result append int i result sort result = str i for i in result return  join result 		45 59

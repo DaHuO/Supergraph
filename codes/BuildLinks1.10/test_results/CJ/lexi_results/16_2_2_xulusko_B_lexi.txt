@@ -1,0 +1,1 @@
+def getbest best c j cval jval = int c int j val = abs cval - jval c j if best > val return val return best 		10 15

@@ -1,0 +1,1 @@
+def solve s chars = list s output = last = len chars while last > 0 ch last = max chars i i for i in xrange last output append chars pop last output extend chars return join output 		4 12

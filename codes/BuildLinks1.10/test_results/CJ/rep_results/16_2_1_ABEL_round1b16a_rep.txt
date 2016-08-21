@@ -1,0 +1,3 @@
+descramble_num found_nums unique_digits found_nums non_unique_digits found_nums found_nums remainder != for digit letter in items if letter 		48 75
+handle_file descramble_num num_cases = int infile readline cases 		78 87
+new_string replace_count subn replace_count new_string = 		35 45

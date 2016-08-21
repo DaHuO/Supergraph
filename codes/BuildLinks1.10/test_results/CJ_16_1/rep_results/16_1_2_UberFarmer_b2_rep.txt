@@ -1,0 +1,2 @@
+3000 present_paper present_paper present_num present_paper choice_1 choice_2 choice_1 present_num choice_2 choice_1 1 num_cases + 1 n = int stdin readline strip papers = for _ in range 2 * n - 1 papers append 		10 61
+def 		6 8

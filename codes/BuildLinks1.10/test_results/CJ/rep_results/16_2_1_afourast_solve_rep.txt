@@ -1,0 +1,1 @@
+def solve tri = defaultdict int for c in s tri c += 1 st = if tri z > 0 n = tri z st extend 0 * n for c in zero tri c -= n if tri w > 0 n = tri w st extend 		3 75

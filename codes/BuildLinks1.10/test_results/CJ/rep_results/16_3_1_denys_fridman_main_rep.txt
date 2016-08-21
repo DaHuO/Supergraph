@@ -1,0 +1,1 @@
+def solve xs n = sum xs xs = sorted zip xs ascii_uppercase reverse = true xs = x c for 		3 25

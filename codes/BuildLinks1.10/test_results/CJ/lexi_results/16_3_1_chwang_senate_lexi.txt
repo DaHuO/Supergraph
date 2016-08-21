@@ -1,0 +1,2 @@
+def step num assert sum n > sum num / 2 for n in num == 0 first = num index max num num first = num first - 1 if sum num == 0 return num first - 1 second = num index max num num second = num second - 1 if sum n > sum num / 2 for n in num == 0 return num first second else num second = num second + 1 return num first - 1 		2 16
+def evacuate num seq = base = ord a while sum num > 0 num first second = step num if second != - 1 seq append chr first + base + chr second + base else seq append chr first + base return seq 		18 28

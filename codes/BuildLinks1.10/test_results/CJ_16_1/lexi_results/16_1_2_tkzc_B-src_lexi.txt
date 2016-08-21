@@ -1,0 +1,1 @@
+def find_missing grid c = counter grid missing_line = for height in c if c height % 2 == 1 missing_line append height missing_line = sorted missing_line key = int return map str missing_line 		4 11

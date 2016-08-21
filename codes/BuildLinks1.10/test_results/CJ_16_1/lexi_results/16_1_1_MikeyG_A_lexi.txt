@@ -1,0 +1,1 @@
+def answer n word = n 0 for letter in n 1 if letter < word 0 word += letter else word = letter + word return word 		1 8

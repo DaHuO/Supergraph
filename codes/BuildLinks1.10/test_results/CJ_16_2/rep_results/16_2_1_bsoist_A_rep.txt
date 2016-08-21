@@ -1,0 +1,5 @@
+get_values funcs arg_string 		28 29
+__doc__ 		21 23
+Hashable __call__ self * args if not 		10 20
+__get__ objtype 		24 26
+def __init__ 		7 9

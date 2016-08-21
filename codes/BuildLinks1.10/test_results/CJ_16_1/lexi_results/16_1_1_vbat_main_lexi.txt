@@ -1,0 +1,1 @@
+def processcase data if len data <= 1 return data else max_char = max data first_max_position = data find max_char prefix = data 0 data find max_char suffix = data data find max_char last_word = processcase prefix for char in suffix if char == max_char last_word = char + last_word else last_word = last_word + char return last_word 		15 29

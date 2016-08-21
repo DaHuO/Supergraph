@@ -1,0 +1,1 @@
+getwinninganswer s ans = for c in 		3 13

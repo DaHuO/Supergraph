@@ -1,0 +1,1 @@
+def solve k c s if s * c < k 		5 10

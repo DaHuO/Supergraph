@@ -1,0 +1,2 @@
+def getlist num temp if len temp num == 0 return num alllist = lengthlist = for x in temp num cur = num cur += getlist x temp lengthlist append len cur alllist append cur maxlen = max lengthlist i = lengthlist index maxlen return alllist i 		11 23
+def getstudents pair temp l1 = getlist pair 0 temp l2 = getlist pair 1 temp l = l1 + l2 return l 		26 30

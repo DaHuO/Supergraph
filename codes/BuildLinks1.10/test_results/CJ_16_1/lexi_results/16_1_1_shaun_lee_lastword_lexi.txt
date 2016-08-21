@@ -1,0 +1,3 @@
+def check_case s result = for c in s if c + result > result + c result = c + result else result += c return result 		11 18
+def read_input in_file t = int in_file readline strip result = line strip for line in in_file return result 		5 8
+def main input_filename = sys argv 1 with open input_filename as input_file case_no = 0 for case in read_input input_file case_no += 1 print case # + str case_no + : + check_case case 		21 27

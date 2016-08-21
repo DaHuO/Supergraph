@@ -1,0 +1,1 @@
+def is_bigger_than a b return all _a > _b for _a _b in izip a b 		6 7

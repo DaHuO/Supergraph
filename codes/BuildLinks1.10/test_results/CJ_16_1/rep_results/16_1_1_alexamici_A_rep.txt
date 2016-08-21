@@ -1,0 +1,3 @@
+		12 13
+case_reader locals 		16 19
+case_solver rindex #{:d}: = none p = none i = none t = none 		22 31

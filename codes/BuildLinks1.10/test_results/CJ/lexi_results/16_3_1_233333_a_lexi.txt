@@ -1,0 +1,1 @@
+def all_zero items return all x == 0 for x in items 		3 4

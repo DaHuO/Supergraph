@@ -1,0 +1,1 @@
+def compute n = int input a = * 2 * n - 1 for i in range 0 2 * n - 1 a i = list map int 		8 40

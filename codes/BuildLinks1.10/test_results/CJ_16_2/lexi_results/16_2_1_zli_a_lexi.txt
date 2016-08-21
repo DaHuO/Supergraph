@@ -1,0 +1,1 @@
+def unique_letters snumbers = set numbers found = True uniques = while found found = False for number in list snumbers unique = c for c in number if all c not in other for other in snumbers - set number if unique uniques append numbers index number unique 0 Counter number unique 0 snumbers -= set number found = True return uniques 		4 19

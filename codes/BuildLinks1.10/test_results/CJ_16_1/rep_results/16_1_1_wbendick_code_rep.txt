@@ -1,0 +1,3 @@
+def genword ret word used if len word == 		9 16
+def solve word used 		19 22
+def highest remaining for 		3 6

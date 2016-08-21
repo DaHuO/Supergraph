@@ -1,0 +1,1 @@
+def solvecase str if str == return ret = list while str find z != - 1 str = str replace z 1 str = str replace e 1 str = str replace r 1 str = str replace o 1 ret append 0 while str find w != - 1 str = str replace t 1 str = str replace w 1 str = str replace o 1 ret append 		3 91

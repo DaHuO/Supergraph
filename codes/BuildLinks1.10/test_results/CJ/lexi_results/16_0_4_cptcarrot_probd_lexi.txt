@@ -1,0 +1,1 @@
+def solve infile = open d-small-attempt0.in outfile = open d-small-attempt0.out w t = int infile readline strip for i in range t k c s = map int infile readline strip split res =  join map str range 1 k + 1 outfile write case #%d: %s\n % i + 1 res infile close outfile close 		1 10

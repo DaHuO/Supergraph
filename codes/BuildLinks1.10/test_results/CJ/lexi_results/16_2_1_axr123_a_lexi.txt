@@ -1,0 +1,1 @@
+def update s digit for dc in digits digit for i in range len s if s i == dc s i =  break 		6 12

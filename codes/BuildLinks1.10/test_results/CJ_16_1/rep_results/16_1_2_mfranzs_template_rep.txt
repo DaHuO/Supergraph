@@ -1,0 +1,5 @@
+def readfile filename global 		5 9
+curreadingline curreadingline curreadingline readln 		11 17
+def 		23 24
+def answer 		26 28
+readln 		19 21

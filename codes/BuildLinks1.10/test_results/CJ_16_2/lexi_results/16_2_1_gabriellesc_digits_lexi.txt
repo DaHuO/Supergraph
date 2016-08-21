@@ -1,0 +1,1 @@
+def sub num mix if num in THREE SEVEN if mix count E < 2 return False for i in num if i not in mix return False return True 		7 15

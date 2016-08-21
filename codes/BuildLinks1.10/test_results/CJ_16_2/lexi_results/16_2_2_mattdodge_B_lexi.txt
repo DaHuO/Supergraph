@@ -1,0 +1,6 @@
+def replace_at_index st replace_with replace_at return st replace_at + replace_with + st replace_at + 1 		33 34
+def get_surrounding_numbers num num = int num nums = num - 1 % 10 num % 10 num + 1 % 10 nums add 0 nums add 9 return str x for x in nums 		25 30
+def read_strs input n = 1 return input pop 0 rstrip \n split  		46 48
+def run_case input score_1 score_2 = read_strs input best = get_best score_1 score_2 return {} {} format best 1 best 2 		1 4
+def read_ints input n = 1 return int st for st in read_strs input n 		41 43
+def get_best score_1 score_2 for pos in range len score_1 if score_1 pos == score_2 pos == ? return min get_best score_1 replace ? surround 1 score_2 for surround in get_surrounding_numbers 0 elif score_1 pos == ? return min get_best score_1 replace ? surround 1 score_2 for surround in get_surrounding_numbers score_2 pos elif score_2 pos == ? return min get_best score_1 score_2 replace ? surround 1 for surround in get_surrounding_numbers score_1 pos return abs int score_1 - int score_2 score_1 score_2 		7 22

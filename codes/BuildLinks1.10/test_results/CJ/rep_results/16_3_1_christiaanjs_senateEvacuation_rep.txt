@@ -1,0 +1,1 @@
+getmaxindex 		4 5

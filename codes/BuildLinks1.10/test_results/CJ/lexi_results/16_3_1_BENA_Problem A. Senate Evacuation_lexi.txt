@@ -1,0 +1,6 @@
+def main inputfile = a-large (2).in outfile = inputfile + .out inpf = open inputfile r outf = open outfile w testcase = int inpf readline for case in range testcase parties = int inpf readline n = int x for x in inpf readline strip split  rst = solve n result = case #{}: {}\n format case + 1  join rst print result outf write result inpf close outf close 		49 69
+def getsenator n return str unichr 65 + n 		12 13
+def findmax n maxval = 0 maxidx = 0 for index item in enumerate n if item >= maxval maxval = item maxidx = index if maxval == 0 return - 1 return maxidx 		2 10
+def sum2 n total = 0 for val in n total += val if total == 2 return true return false 		15 20
+def solve n rst = while true thissenator = maxidx1 = findmax n if maxidx1 < 0 return rst n maxidx1 -= 1 thissenator = getsenator maxidx1 if sum2 n == true rst append thissenator continue maxidx2 = findmax n if maxidx2 < 0 rst append thissenator return rst n maxidx2 -= 1 thissenator += getsenator maxidx2 rst append thissenator 		23 45
+def main2 print str unichr 65 return false 		71 73

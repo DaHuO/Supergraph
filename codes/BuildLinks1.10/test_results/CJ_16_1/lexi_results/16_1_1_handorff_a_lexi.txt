@@ -1,0 +1,1 @@
+def solve s out = for c in s first = c + out last = out + c out = max first last return out 		1 7

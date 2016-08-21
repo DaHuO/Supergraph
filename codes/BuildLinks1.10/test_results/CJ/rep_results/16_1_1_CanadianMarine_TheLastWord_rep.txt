@@ -1,0 +1,2 @@
+testsorted 		15 16
+findlastword possible_choices possible_choices possible_choices possible_choices 		3 13

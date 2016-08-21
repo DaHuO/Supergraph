@@ -1,0 +1,2 @@
+def 		5 6
+b-small-attempt0.in b-small-attempt0.out c_scores c_scores c_scores c_scores c_scores c_scores j_scores j_scores j_scores j_scores j_scores j_scores c_scores j_scores c_scores j_scores t = int lines 0 for i in xrange t line = lines i + 1 c j = line split  l 		8 42

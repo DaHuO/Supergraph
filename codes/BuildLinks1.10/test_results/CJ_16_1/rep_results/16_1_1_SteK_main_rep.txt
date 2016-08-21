@@ -1,0 +1,4 @@
+def read 		12 13
+############ solve self print case : + str 		18 26
+def write_output self 		15 16
+def __init__ self id_case file_in file_out 		2 10

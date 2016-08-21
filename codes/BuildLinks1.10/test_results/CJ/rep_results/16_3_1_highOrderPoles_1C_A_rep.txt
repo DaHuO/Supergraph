@@ -1,0 +1,6 @@
+readsenator printone self 		24 27
+def 		61 63
+def process self 		29 33
+printone self results for 		19 22
+def calculate self case result = parties senators = case senators = sorted senators key = lambda x x 1 while senators - 1 1 != 0 if len senators > 2 if senators 		35 58
+readsenator polynums partyname polynums partyname polynums numcases = 0 self numcases = int 		6 17

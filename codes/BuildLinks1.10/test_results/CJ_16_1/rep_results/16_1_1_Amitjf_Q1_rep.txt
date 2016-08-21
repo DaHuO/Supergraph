@@ -1,0 +1,1 @@
+def solve f_in word = f readline strip 		4 12

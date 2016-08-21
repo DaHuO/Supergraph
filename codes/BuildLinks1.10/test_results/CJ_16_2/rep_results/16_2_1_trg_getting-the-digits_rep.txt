@@ -1,0 +1,5 @@
+is_counter_subset a b 		10 14
+find_matching_digits 		26 27
+find_seq num_of_letters find_matching_digits seq_len num_of_letters num_of_letters seq_len seq_match 		31 39
+find_seq main line_iter = iter sys stdin T 		42 49
+seq_match digit_counters is_counter_subset cnt 		17 23

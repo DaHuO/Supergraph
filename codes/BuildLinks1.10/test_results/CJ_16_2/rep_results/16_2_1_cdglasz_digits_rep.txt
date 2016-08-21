@@ -1,0 +1,2 @@
+substring substring string temp 		6 12
+def remove string 		14 16

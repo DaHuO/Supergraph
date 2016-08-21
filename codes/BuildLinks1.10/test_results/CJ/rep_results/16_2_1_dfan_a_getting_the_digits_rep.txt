@@ -1,0 +1,2 @@
+output_case #%(case)s: %(result)s 		128 133
+def solve s i digits = letter_counts = defaultdict int for letter in s letter_counts letter += 1 zeros = letter_counts z digits += 0 * zeros letter_counts z -= zeros letter_counts e -= zeros letter_counts r -= zeros letter_counts o -= zeros twos = letter_counts w digits += 2 * twos letter_counts t 		38 126

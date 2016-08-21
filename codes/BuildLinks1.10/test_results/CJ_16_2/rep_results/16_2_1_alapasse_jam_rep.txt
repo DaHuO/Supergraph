@@ -1,0 +1,2 @@
+solution_jam D:/Google/QualifJamCode16/A-large.in D:/Google/QualifJamCode16/solution.txt open r output = open w liste = 		46 56
+def function liste res = res_liste = a = 0 b = 0 k = 0 d = 0 e = 0 f = 0 g = 0 h = 0 i = 0 j = 0 for c in 		1 39

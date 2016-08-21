@@ -1,0 +1,1 @@
+def solve senators evacs = tups = senators items while true tups = sorted tups key = operator itemgetter 1 reverse = true if tups 0 1 is 0 and tups 		11 37

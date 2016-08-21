@@ -1,0 +1,1 @@
+data_parser liststr liststr liststr liststr strip = 		7 23

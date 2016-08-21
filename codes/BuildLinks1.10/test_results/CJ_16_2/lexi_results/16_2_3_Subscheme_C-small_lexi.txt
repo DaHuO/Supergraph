@@ -1,0 +1,5 @@
+def put caseNumber result print Case #%d: %s % caseNumber result 		14 15
+def solve l best = 0 for i in range 2 ** len l real = x for j x in enumerate l if i & 1 << j fake = x for j x in enumerate l if not i & 1 << j if possible real fake best = max best len fake return best 		23 30
+def memo f cache = dict def wrap * args if args not in cache cache args = f * args return cache args return wrap 		4 9
+def wrap * args if args not in cache cache args = f * args return cache args 		6 8
+def possible real fake firstWords = set first for first second in real secondWords = set second for first second in real return all first in firstWords and second in secondWords for first second in fake 		17 21

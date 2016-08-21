@@ -1,0 +1,2 @@
+def last_words_rec s base if len s == 1 result = s + base + base + s else result = last_words_rec s 1 s 0 + base + last_words_rec s 1 base + s 0 return result 		3 11
+def alphlast words words sort return words len words - 1 		14 16

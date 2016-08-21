@@ -1,0 +1,1 @@
+dotest rowcols rowsize rowcols rowcols rowcols rowcols outlist outlist outlist outlist 		4 16

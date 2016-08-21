@@ -1,0 +1,16 @@
+def build_conn bffs conn = for i b in bffs conn setdefault i append b conn setdefault b append i return conn 		26 31
+def read_list f return int x for x in read_line f split 		6 7
+def solve case bffs = x - 1 for x in case return classify bffs 		127 135
+def classify bffs ts = l = len bffs for i in xrange l if bffs bffs i == i ts i = tp i 1 for i in xrange l if i not in ts search i bffs ts tp_lens = max_cyc = 0 for t in ts itervalues if t 0 == cyc max_cyc = max max_cyc t 1 elif t 0 == tp tpi tpl = t 1 tp_lens tpi = max tp_lens get tpi 0 tpl tp_len = sum tp_lens values return max tp_len max_cyc 		103 122
+def load_cases path with open path as f n = int f readline cases = for _ in xrange n cases append load_single_case f return cases 		16 22
+def process path_in path_out = none if path_out == none path_out = path_in rsplit . 1 0 + .out cases = load_cases path_in outcomes = solve c for c in cases save_outcomes path_out outcomes 		150 155
+def test_solutions_gen until_first_fail = true cases = gen_cases for cn c in enumerate cases o = solve c if not verify_outcome c o print wrong outcome! print case #{0}: format cn print c print outcome: print o if until_first_fail return c else print \n\n 		188 201
+def verify_outcome case outcome return outcome == solve case 		165 167
+def test_solutions path_in until_first_fail = true cases = load_cases path_in for cn c in enumerate cases o = solve c if not verify_outcome c o print wrong outcome! print case #{0}: format cn print c print outcome: print o if until_first_fail return c else print \n\n 		169 182
+def gen_cases return 		184 186
+def read_tuple f return tuple read_list f 		8 9
+def read_line f while true s = f readline strip if s return s 		1 5
+def outcome_string outcome return {} format outcome 		142 143
+def save_outcomes path outcomes with open path w as f for n o in enumerate outcomes f write case #{0}: {1}\n format n + 1 outcome_string o 		146 149
+def search s bffs ts path = visited = set x = s while true if x in ts if ts x 0 == tp tpi tpl = ts x 1 for y in path - 1 tpl = tpl + 1 ts y = tp tpi tpl else for y in path - 1 ts y = dead return if x in visited cl = none for i y in enumerate path if y == x cl = len path - i if cl is none ts y = dead else ts y = cyc cl return path append x visited add x x = bffs x 		72 101
+def load_single_case f read_line f return read_list f 		11 13

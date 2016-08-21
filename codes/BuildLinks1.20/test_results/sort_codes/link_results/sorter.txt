@@ -1,0 +1,18 @@
+
+With same rare tokens:
+49 - 56 links:
+test_insertion_sort	:	8 - 9
+insertion-sort	:	4 - 13
+insertion_sort	:	1 - 8
+sorting_algorithms	:	42 - 60
+
+58 - 75 links:
+py_quick_sort	:	18 - 46
+
+90 - 100 links:
+py_heap_sort	:	5 - 17
+bitonicsort	:	28 - 31
+radixrsort	:	16 - 20
+heap_sort	:	72 - 89
+heap_sort	:	25 - 40
+

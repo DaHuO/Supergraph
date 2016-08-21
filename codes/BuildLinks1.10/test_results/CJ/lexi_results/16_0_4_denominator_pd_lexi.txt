@@ -1,0 +1,1 @@
+def slv_line cs_n ln cs_n += 1 k c s = map int ln split  res = for i in range k res += str i + 1 +  res = res strip print case #%s: %s % str cs_n str res 		5 15

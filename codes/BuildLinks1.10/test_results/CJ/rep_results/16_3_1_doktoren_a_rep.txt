@@ -1,0 +1,1 @@
+def main t = int sys stdin readline strip for k in xrange t n = int sys stdin readline 		3 25

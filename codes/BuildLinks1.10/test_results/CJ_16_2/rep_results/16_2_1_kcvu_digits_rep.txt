@@ -1,0 +1,1 @@
+find_numbers unique_chars UNIQUES u_chars unique_chars u_chars unique_chars word_c word_c in = keys for 		8 26

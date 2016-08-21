@@ -1,0 +1,5 @@
+def digit letters def has l return l in letters and letters l > 0 		35 48
+def has 		36 37
+%s.out imap_unordered pool = None inp = sys argv 1 outp = % inp split . 0 with 		8 27
+def solve string letters = for letter in string 		50 63
+Solving #%s args 		29 32

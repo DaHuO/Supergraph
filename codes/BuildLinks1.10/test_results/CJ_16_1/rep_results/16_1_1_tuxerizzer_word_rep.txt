@@ -1,0 +1,2 @@
+high_i 2002 high_i high_i = 1000 = 1000 arr = for 		6 18
+def main t = int 		20 25

@@ -1,0 +1,1 @@
+posiblelist list_ j j += 1 size = len list_ 		1 11

@@ -1,0 +1,1 @@
+def solve global l global l2 s = s for s in input n = for 		4 28

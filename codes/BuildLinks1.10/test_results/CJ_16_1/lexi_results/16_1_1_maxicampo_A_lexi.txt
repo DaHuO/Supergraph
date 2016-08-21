@@ -1,0 +1,3 @@
+def occ l m ans = while m in l j = l index m if len ans == 0 ans append j else ans append j + 1 + ans - 1 l = l j + 1 return ans 		9 18
+def quicksorting l m = l 0 occ_all = occ l m ans = for j in occ_all ans append m for k in range 0 len l if l k != m ans append l k return ans 		20 29
+def sorting l if len l == 0 return else m = max l occ_max = occ l m number_max = len occ_max first = l occ_max 0 last = l occ_max 0 segment1 = sorting first segment2 = quicksorting last answer = m for j in range 0 number_max + segment1 + segment2 number_max return answer 		32 44

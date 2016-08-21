@@ -1,4 +1,4 @@
 list_of_functions test_sequence prompt 		42 47
 perform_swaps randrange n for _ in range 		19 26
-builtin testrun recieved testrun testrun template {} worked incorrectly. \nRecieved: {} \nExpected: {} error_message 		29 39
-my_list almost_sorted perform_swaps my_list already_sorted my_list all_same bubble_naive bubble_optimized bubble_optimized_with_flag bubble_final_position Insertion Insertion insertion_optimized Insertion insertion_optimized_alt quick_random quick_median quick_inplace_random quick_inplace_median quick_inplace_repeat heap_sort my_list 		50 74
+recieved template worked incorrectly. \nRecieved: \nExpected: error_message template __name__ recieved error_message timeit lambda number 		29 39
+almost_sorted perform_swaps already_sorted all_same bubble_naive bubble_optimized bubble_optimized_with_flag bubble_final_position Insertion Insertion insertion_optimized Insertion insertion_optimized_alt shuffled list: almost_sorted that almost sorted: already_sorted that already sorted: 		50 74

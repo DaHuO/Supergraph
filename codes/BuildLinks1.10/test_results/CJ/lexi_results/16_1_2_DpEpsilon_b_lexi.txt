@@ -1,0 +1,2 @@
+def lt a b return all a i < b i for i in xrange n 		28 29
+def dp cur if cache cur is none cur_val = 0 cur_bests = for i in xrange nd if adj_matrix cur i v = dp i + 1 if v > cur_val cur_val = v cur_bests = i if v == cur_val cur_bests = i + cur_bests if cur_bests for cur_best in cur_bests bt cur extend cur + backtrack for backtrack in bt cur_best else bt cur = cur cache cur = cur_val return cache cur 		8 26

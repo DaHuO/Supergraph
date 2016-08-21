@@ -1,0 +1,4 @@
+count_8 count_6 count_4 count_2 count_2 count_8 count_6 count_4 count_7 count_5 count_3 count_7 count_5 count_3 count_9 count_1 count_1 count_2 count_3 count_4 count_5 count_6 count_7 count_8 count_9 Z for i in ZERO 		14 47
+parsing nb_tests = 		1 8
+def display case_number result 		10 11
+parsing main nb_tests 		49 53

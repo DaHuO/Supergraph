@@ -1,0 +1,4 @@
+def OutputTestCase tcn x out_f write Case # + str tcn + : + str x + \n 		20 21
+def CheckWord d ch w dgs dg if ch in d and d ch > 0 for i in range 0 d ch dgs append dg GetWord d w d ch 		27 31
+def SolveTestCase w d = dict for ch in w if not ch in d d ch = 0 d ch += 1 dgs = CheckWord d Z ZERO dgs 0 CheckWord d W TWO dgs 2 CheckWord d U FOUR dgs 4 CheckWord d X SIX dgs 6 CheckWord d G EIGHT dgs 8 CheckWord d H THREE dgs 3 CheckWord d S SEVEN dgs 7 CheckWord d O ONE dgs 1 CheckWord d V FIVE dgs 5 CheckWord d I NINE dgs 9 dgs = sorted dgs r = for d in dgs r = r + str d return r 		33 54
+def GetWord d w c for ch in w d ch -= c 		23 25

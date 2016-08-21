@@ -1,0 +1,2 @@
+check0 l for 		13 17
+lb lb a l = 		3 11

@@ -1,0 +1,2 @@
+get_max_and_index letter_str get_max_and_index letter_str sum nums == 0 return max_value 		12 22
+get_max_and_index nums 		7 10

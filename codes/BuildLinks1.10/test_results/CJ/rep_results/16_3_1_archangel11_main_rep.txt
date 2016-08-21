@@ -1,0 +1,3 @@
+newsenate newsenate newsenate n = int f readline arr = map int f readline split a = a senate = for i in range 		4 31
+def out 		33 35
+def main f = open filename o 		37 45

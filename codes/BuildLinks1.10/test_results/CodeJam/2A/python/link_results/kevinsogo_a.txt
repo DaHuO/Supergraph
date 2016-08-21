@@ -1,13 +1,8 @@
-64 - 75 links:
-Cypi_A	:	7 - 28
-klolos_jam	:	25 - 51
 
-58 - 62 links:
-Veltz_A	:	27 - 32
+With same rare tokens:
+26 - 37 links:
+gilesg_A	:	17 - 53
 
 10 - 11 links:
 programcaicai_A	:	6 - 40
-
-26 - 37 links:
-gilesg_A	:	17 - 53
 

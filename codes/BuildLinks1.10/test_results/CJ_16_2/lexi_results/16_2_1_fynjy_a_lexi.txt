@@ -1,0 +1,6 @@
+def check c num while chars get c 0 > 0 numbers append num for c1 in digits num chars c1 -= 1 		37 41
+def main nt = readi for t in range 1 nt + 1 s = reads chars = dict for c in s chars c = chars get c 0 + 1 numbers = def check c num while chars get c 0 > 0 numbers append num for c1 in digits num chars c1 -= 1 check Z 0 check W 2 check U 4 check X 6 check G 8 check T 3 check F 5 check S 7 check O 1 check N 9 for c v in chars iteritems if v != 0 print >> sys stderr Error in test %d: %c -> %d % t c v list sort numbers print Case #%d: %s % t join str n for n in numbers 		24 61
+def readia return int x for x in sys stdin readline strip split 		12 13
+def readi return int sys stdin readline strip 		9 10
+def reads return sys stdin readline strip 		18 19
+def readfa return float x for x in sys stdin readline strip split 		15 16

@@ -1,0 +1,13 @@
+def read_floats 		97 98
+recourse w_copy d_copy w_copy w_copy d_copy recourse w_copy d_copy return d_cnt for i 		45 65
+def 		69 70
+recourse solve case_inputs w = case_inputs w_cnt = collections Counter for c in 		23 43
+def write_case f 		72 75
+def read_int 		82 83
+read_digits read_letters 		88 89
+read_letters 		85 86
+def read_ints f 		94 95
+read_arr f R reader 		100 101
+usage: python <file_name> <input_file> sys argv != 2 print 		103 112
+def read_words 		91 92
+def 		79 80

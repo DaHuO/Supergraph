@@ -1,0 +1,2 @@
+filehandler inname returnstring inname returnstring results.txt returnstring = 1 init = true for 		17 31
+returnstring returnstring returnstring returnstring s l = for x in xrange 2 k 		1 15

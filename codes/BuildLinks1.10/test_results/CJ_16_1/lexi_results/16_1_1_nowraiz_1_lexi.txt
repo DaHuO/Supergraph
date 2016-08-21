@@ -1,0 +1,1 @@
+def lastword string result = for i in string if result == result += i else if i >= result 0 result = i + result else result = result + i return result 		3 13

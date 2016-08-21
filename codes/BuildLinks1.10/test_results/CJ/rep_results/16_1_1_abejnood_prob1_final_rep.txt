@@ -1,0 +1,1 @@
+word_len word_len word = len word rstrip \n new_word 		3 11

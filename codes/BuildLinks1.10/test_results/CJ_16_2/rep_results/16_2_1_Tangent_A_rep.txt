@@ -1,0 +1,2 @@
+def solve seq di = for char in seq di char = di get char 0 + 1 resdi = if di get Z 0 > 0 n = di Z for char in ZERO di char -= n resdi 0 = n if di get W 0 > 0 n = di 		21 93
+pathin pathout pathin pathout sys argv filein = open fileout 		4 19

@@ -1,0 +1,8 @@
+def print_case result 		46 49
+def 		21 22
+def read_case f n 		24 27
+def options cur num_parties = len cur for i in range num_parties if cur i > 0 after = list cur after i -= 1 n = sum after maj = n / 		51 89
+push priority 		18 19
+open_set closed_set came_from did eval_count open_set open_set eval_count closed_set neighbors neighbors closed_set open_set push came_from did evals: eval_count did came_from for i in range num_parties = heap parties 		91 130
+def 		15 16
+def __init__ 		11 13

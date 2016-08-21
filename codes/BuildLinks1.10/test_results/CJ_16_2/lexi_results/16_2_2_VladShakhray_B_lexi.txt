@@ -1,0 +1,1 @@
+def generate a b if ? in a for i in range 10 generate a a index ? + str i + a a index ? + 1 b elif ? in b for i in range 10 generate a b b index ? + str i + b b index ? + 1 else gen append a b 		7 15

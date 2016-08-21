@@ -1,0 +1,1 @@
+def arrange s ls = s split d = dict for i 		2 19

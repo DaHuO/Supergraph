@@ -1,0 +1,4 @@
+gen_nums gen_spelling n s 		32 38
+def f s for n 		40 45
+gen_spelling num 		26 30
+gen_nums gen_nums if n == 1 return x for 		15 24

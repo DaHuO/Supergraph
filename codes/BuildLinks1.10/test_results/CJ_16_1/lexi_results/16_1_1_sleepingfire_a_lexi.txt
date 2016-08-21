@@ -1,0 +1,1 @@
+def main s q = deque q append s 0 for i in range 1 len s c = s i if c >= q 0 q appendleft c else q append c return join q 		4 13

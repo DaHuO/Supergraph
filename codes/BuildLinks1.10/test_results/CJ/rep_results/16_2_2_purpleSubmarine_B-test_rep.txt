@@ -1,0 +1,1 @@
+def my_try d_x i ans_c ans_j global c j min_f ans_c_f ans_j_f if i == len c if abs d_x > abs min_f return if abs d_x < abs min_f min_f = d_x ans_c_f = ans_c ans_j_f = ans_j return if abs d_x 		3 42

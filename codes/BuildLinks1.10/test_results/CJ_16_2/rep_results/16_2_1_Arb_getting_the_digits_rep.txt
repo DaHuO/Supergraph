@@ -1,0 +1,3 @@
+digit_in_word word digit 		9 10
+possible_digits digit_in_word digits 		13 18
+canidates possible_digits return_value canidates digit_in_word return_value return_value word canidate = list 		21 35

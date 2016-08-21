@@ -1,0 +1,6 @@
+form_equal_answer code jam answer = for i c in 		6 19
+form_list all_res all_res to_full_string character_indexes s = range 10 		31 43
+character_indexes s res = 		24 29
+to_full_string s 		21 22
+def diff 		45 46
+form_result result_code result_jam 		3 4

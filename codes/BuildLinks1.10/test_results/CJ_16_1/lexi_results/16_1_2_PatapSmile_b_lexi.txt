@@ -1,0 +1,3 @@
+def solvecase n lines count = for line in lines for i in line count i = count get i 0 + 1 result = for i in count if count i % 2 == 1 result append i result sort return result 		7 19
+def main argv = none filename = argv 1 s = open filename r = open filename + .result.txt w result = solve s for i case in enumerate result 1 r write case # + str i + : + str case + \n return 0 		31 40
+def solve s t = int s readline for i in range t n = int s readline lines = for j in range 2 * n - 1 lines append int x for x in s readline split yield  join str x for x in solvecase n lines 		21 29

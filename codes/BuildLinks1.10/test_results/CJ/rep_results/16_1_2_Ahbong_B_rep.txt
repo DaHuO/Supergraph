@@ -1,0 +1,2 @@
+slists 		17 18
+solos iterable counter = collections 		8 14

@@ -1,0 +1,2 @@
+solve_number HEIGHT case letters = dict for ll in SS if not ll in letters letters ll = 1 else letters ll += 1 numbers 		13 33
+ref_letter ref_letter ref_letter ref_letter if in 		4 11

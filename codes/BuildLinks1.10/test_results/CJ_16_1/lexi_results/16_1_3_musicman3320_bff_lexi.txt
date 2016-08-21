@@ -1,0 +1,1 @@
+def vertstorepeat bffs i hits = false * n j = i curlen = 0 while not hits j hits j = true j = bffs j curlen = curlen + 1 return curlen j 		5 15

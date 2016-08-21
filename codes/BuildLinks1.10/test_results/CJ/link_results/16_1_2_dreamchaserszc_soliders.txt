@@ -1,0 +1,50 @@
+
+With same rare tokens:
+6 - 17 links:
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_apetri_code-B	:	7 - 24
+16_1_2_apetri_code-B	:	32 - 47
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_apetri_code-B	:	7 - 24
+16_1_2_apetri_code-B	:	32 - 47
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_apetri_code-B	:	7 - 24
+16_1_2_apetri_code-B	:	32 - 47
+
+24 - 26 links:
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_apetri_code-B	:	7 - 24
+16_1_2_apetri_code-B	:	32 - 47
+
+19 - 22 links:
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_apetri_code-B	:	7 - 24
+16_1_2_apetri_code-B	:	32 - 47
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_matt_j_wu13_rankfile	:	4 - 25
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_algorithmist_rankNfile	:	19 - 30
+16_1_2_apetri_code-B	:	7 - 24
+16_1_2_apetri_code-B	:	32 - 47
+

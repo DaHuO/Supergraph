@@ -1,0 +1,19 @@
+Direct links:
+4 - 5 links:
+16_3_1_CodeViking_A	:	4 - 5
+16_1_1_CodeViking_A	:	7 - 8
+
+8 - 9 links:
+16_3_1_CodeViking_A	:	8 - 9
+16_1_1_CodeViking_A	:	11 - 12
+
+
+With same rare tokens:
+4 - 5 links:
+16_3_1_CodeViking_A	:	4 - 5
+16_1_1_CodeViking_A	:	7 - 8
+
+8 - 9 links:
+16_3_1_CodeViking_A	:	8 - 9
+16_1_1_CodeViking_A	:	11 - 12
+

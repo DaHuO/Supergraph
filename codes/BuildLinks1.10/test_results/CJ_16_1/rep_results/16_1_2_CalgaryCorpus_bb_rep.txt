@@ -1,0 +1,1 @@
+linea linea answerstr answerstr = for l in xrange 0 2 * num - 		4 25

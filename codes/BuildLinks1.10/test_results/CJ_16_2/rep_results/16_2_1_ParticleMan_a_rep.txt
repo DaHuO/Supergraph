@@ -1,0 +1,2 @@
+def remove s1 s2 		6 10
+printResult case 		3 4

@@ -1,0 +1,2 @@
+def solve lists dict = for l in lists for el in l a = dict get el - 1 if a == - 1 dict el = 1 else dict el = a + 1 result = for el in dict items if el 1 % 2 == 1 result append el 0 return sorted result 		13 28
+def prettyarray l s = for c in l s +=  + str c return s 		6 10

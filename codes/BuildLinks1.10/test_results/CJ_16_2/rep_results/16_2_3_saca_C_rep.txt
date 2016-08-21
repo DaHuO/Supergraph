@@ -1,0 +1,5 @@
+def readValues 		10 11
+def 		6 7
+numTopics numTopics = 		23 26
+classmethod def answer 		17 20
+numFakes outerValid numFakes realFirsts realSeconds realFirsts realSeconds outerValid outerValid numFakes for fakes in itertools combinations range len 		29 43

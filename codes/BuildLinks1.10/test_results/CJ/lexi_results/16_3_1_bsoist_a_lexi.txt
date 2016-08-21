@@ -1,0 +1,3 @@
+def no_majority nums total = sum nums * 1.0 if total == 0 return true for num in nums if num / total > 0.5 return false return true 		5 12
+def get_indexes indexes for a b in itertools permutations indexes r = 2 yield a b for index in indexes yield index 		14 18
+def get_step parties indexes = i for i n in enumerate parties if n for a b in itertools permutations indexes r = 2 step = none none remaining_senators = parties if remaining_senators a step 0 = a remaining_senators a -= 1 if remaining_senators b step 1 = b remaining_senators b -= 1 if no_majority remaining_senators return step return none parties index max parties 		20 33

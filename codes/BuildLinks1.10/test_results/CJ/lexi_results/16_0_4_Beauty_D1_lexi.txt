@@ -1,0 +1,1 @@
+def solve k c s return np arange k + 1 		4 5

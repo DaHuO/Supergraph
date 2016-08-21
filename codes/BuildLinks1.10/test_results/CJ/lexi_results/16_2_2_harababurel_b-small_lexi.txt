@@ -1,0 +1,1 @@
+def matches a val for x in zip a val if x 0 != ? and x 0 != x 1 return false return true 		4 8

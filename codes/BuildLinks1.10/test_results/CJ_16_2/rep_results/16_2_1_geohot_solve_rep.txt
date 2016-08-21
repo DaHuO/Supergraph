@@ -1,0 +1,2 @@
+where solve_case st h = hist st m = np copy mat sol = np zeros 		12 29
+def hist s ret 		3 7

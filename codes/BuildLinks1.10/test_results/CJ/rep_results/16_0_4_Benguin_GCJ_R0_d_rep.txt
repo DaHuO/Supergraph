@@ -1,0 +1,1 @@
+def sol k c 		1 5

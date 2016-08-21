@@ -1,0 +1,1 @@
+def solve_small t = int raw_input for t in range 1 t + 1 k c s = int x for x in raw_input rstrip split  if k > 1 ans = 0 * s for i in range s ans i = i * k ** c - 1 / k - 1 + 1 else ans = 1 print case #%d: %s % t  join str x for x in ans 		2 12

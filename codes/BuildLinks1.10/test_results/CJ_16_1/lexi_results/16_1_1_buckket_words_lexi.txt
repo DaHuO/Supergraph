@@ -1,0 +1,1 @@
+def create_word s words = s 0 for char in s 1 words_new = for word in words words_new extend word + char char + word words = words_new return sorted words - 1 0 		4 11

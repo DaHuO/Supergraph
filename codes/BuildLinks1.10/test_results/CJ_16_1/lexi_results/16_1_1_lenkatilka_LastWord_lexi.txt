@@ -1,0 +1,2 @@
+def findlatest string if not string return string latest = string 0 for chind in range 1 len string if string chind >= latest 0 latest = string chind + latest else latest = latest + string chind return latest 		27 38
+def main import sys filename = sys argv 1 with open filename as f content = f readlines outputfile = open outputlatest.out w t = int content 0 for test in range t index = 1 + test string = content index latest = findlatest string outputstr = case # + str test + 1 + : outputstr += latest outputfile write outputstr 		2 25

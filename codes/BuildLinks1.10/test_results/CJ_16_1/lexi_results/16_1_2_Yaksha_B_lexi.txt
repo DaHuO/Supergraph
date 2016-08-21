@@ -1,0 +1,1 @@
+def solve ll fl n = 3 unique_heights = set fl missing_heights = set for height in unique_heights occurance = fl count height if occurance % 2 missing_heights add height missing_heights = list missing_heights missing_heights sort return  join str x for x in missing_heights 		6 18

@@ -1,0 +1,2 @@
+startword anslist startword startword index = 		3 9
+readfromfile filename 		25 33

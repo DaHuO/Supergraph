@@ -1,0 +1,2 @@
+def construct l s if s == return l elif l == return construct s 0 s 1 else if l 0 <= s 0 return construct s 0 + l s 1 else return construct l + s 0 s 1 		5 14
+def lastword s l = s 0 s = s 1 while s != if l 0 <= s 0 l = s 0 + l else l = l + s 0 s = s 1 return l 		17 26

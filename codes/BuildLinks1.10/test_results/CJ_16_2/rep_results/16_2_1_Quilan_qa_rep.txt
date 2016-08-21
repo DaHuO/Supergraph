@@ -1,0 +1,3 @@
+getInput example exampleString %s- %s-large.in %s-small-attempt%d.in curAttempt practice %s-small-practice.in rt 		18 29
+def parseInput buf buf = buf split \n 		31 45
+solveProblem rnd uniq2 uniq2 %s%s Word: nums: counts: 2 TWO 3 THREE 4 FOUR 5 FIVE 6 SIX 7 SEVEN 8 EIGHT 9 NINE l2n = uniq = G 8 U 4 W 2 X 6 Z 0 = F 5 H 		47 95

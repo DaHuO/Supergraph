@@ -1,0 +1,4 @@
+power2 power2 if y 		10 15
+def output x y 		17 21
+cW cZ cU cF cG cH cV cS cI cO cW cZ cU cF cG cH cV cS cI cO cW cZ cU 		23 56
+def gcd x 		4 8

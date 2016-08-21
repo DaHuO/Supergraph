@@ -1,0 +1,1 @@
+def solve N W ans = 0 for b in range 1 << N ok = True S 		1 17

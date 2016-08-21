@@ -1,0 +1,17 @@
+Direct links:
+17 - 27 links:
+16_1_2_fred_wulei_rank_and_file	:	3 - 15
+16_1_2_eMBe_B	:	87 - 101
+
+8 - 15 links:
+16_2_1_Caiyi_A_small	:	8 - 14
+16_1_1_Caiyi_A_small	:	8 - 14
+16_0_4_Caiyi_P_D	:	96 - 102
+
+
+With same rare tokens:
+8 - 15 links:
+16_2_1_Caiyi_A_small	:	8 - 14
+16_1_1_Caiyi_A_small	:	8 - 14
+16_0_4_Caiyi_P_D	:	96 - 102
+

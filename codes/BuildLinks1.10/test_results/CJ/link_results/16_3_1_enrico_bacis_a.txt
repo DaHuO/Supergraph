@@ -1,0 +1,13 @@
+Direct links:
+4 - 5 links:
+16_2_1_enrico_bacis_a	:	3 - 4
+
+10 - 11 links:
+16_2_1_enrico_bacis_a	:	9 - 10
+
+
+With same rare tokens:
+10 - 11 links:
+16_0_4_CanMan_source3	:	3 - 8
+16_2_1_enrico_bacis_a	:	9 - 10
+

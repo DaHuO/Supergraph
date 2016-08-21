@@ -1,0 +1,3 @@
+numberFromList numberFromList s 		66 70
+input.in main outputFile = open output.txt w inputFile 		73 83
+def solution s listOfNumbers = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE answerList = if Z in s while Z in s s = removeLetter s listOfNumbers 0 answerList append 0 if W in s while W in 		1 60

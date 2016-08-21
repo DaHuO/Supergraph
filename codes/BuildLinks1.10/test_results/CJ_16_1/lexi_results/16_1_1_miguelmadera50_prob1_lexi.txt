@@ -1,0 +1,1 @@
+def prob1 word final = word 0 ch = word 0 for let in word 1 if let < final 0 final = final + let else final = let + final return final 		1 10

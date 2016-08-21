@@ -1,0 +1,5 @@
+pending solve parties 		34 39
+def 		10 11
+def valid parties total 		2 5
+pending parties 		7 8
+fucked step parties n = len parties for i in range n if parties i > 0 for j 		13 32

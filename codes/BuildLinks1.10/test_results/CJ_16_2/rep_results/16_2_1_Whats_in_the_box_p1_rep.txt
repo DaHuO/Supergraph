@@ -1,0 +1,4 @@
+solve_N string nums = 		65 70
+Ns Ns solve_N Ns 		72 74
+num_inputs num_inputs filename f = open 		76 83
+def getNumber string num = - 1 if Z in string num = 0 string = string replace Z 1 string = string replace E 1 string = string replace R 1 string = string replace O 1 elif X in string num = 6 string = string replace S 1 string = string replace I 1 string = string replace X 1 		1 63

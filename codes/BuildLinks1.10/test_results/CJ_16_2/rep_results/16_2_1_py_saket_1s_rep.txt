@@ -1,0 +1,1 @@
+def find_num s case_num list_s = list s my_num = while Z in list_s my_num append 0 list_s remove Z list_s remove E list_s remove R list_s remove O while W in list_s my_num append 2 list_s remove T list_s remove W 		3 69

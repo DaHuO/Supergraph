@@ -1,0 +1,14 @@
+riv parse cin l 		40 44
+def 		12 13
+revs 		31 32
+find_other v val p k r1 = - 1 		62 73
+def 		8 10
+isprime n for 		33 36
+going cases\n {}... duration duration {0}\n t = cin ri cerr write to process {} format t 		108 120
+rfv cin 		24 25
+rf 		21 22
+fr0 mh p ids low = true h = 0 if low h = i1 = - 		45 60
+riv cin 		18 19
+def rev i o 		27 30
+fr0 l_o fr0 n = l 0 v = l 1 ids = m_p = - 1 c = 0 l = 0 m_v = 0 for 		76 106
+def 		15 16

@@ -1,0 +1,4 @@
+origstr1 origstr2 origstr1 origstr2 finish! ansset = - 1 0 0 = line split 0 = line split 1 str1 = list str2 = list length = len str1 for i in range length if str1 i == ? if str2 i == ? str1 i 		51 112
+list2 list2 isbetter templist1 = list1 templist2 = for i in 		24 35
+isbetter newset global ansset if newset 0 >= 0 if ansset 0 		7 21
+list2 list2 isbetter templist1 = list1 templist2 = for i in 		38 49

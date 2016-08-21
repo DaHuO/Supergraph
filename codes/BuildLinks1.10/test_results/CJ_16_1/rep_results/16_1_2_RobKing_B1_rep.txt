@@ -1,0 +1,1 @@
+resultstr resultstr t n boollist = for i in range 2 * n - 		3 19

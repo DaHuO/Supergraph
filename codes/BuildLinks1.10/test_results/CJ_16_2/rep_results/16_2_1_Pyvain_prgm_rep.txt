@@ -1,0 +1,2 @@
+def solve num r = num n0 = r count Z r = cleanstr r ZERO n0 n2 = r count W r = cleanstr r TWO n2 n6 = r 		17 50
+def cleanstr s w n r = s 		3 14

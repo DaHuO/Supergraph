@@ -1,0 +1,4 @@
+DIGS DIGS st d if 		10 16
+def main N = int next sys 		40 44
+push solve st smallest = 0 if all c == 		24 37
+push DIGS 		19 21

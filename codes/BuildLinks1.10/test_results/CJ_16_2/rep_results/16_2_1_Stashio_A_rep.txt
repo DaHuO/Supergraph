@@ -1,0 +1,5 @@
+getMultFloat 		33 34
+getLine global 		21 25
+countBits &= total = 		3 10
+getLine 		27 28
+getMultInt 		30 31

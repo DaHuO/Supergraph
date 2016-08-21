@@ -1,8 +1,8 @@
 splitline 		70 71
 is_allowed allowed v2 v3 		15 20
-PRPS PRRS v1 v2 v3 if v1 + v2 + v3 == 2 if v1 == 0 return RS elif v2 == 0 return PS elif v3 == 0 return PR elif v1 + v2 + v3 == 4 if v1 == 2 return elif v2 == 2 return else return 		25 51
+def blocks v1 v2 v3 if v1 + v2 + v3 == 2 if v1 == 0 return RS elif v2 == 0 return PS elif v3 == 0 return PR elif v1 + v2 + v3 == 4 if v1 == 2 return PRPS elif v2 == 2 return PRRS 		25 51
 def main 		74 76
 splitline is_allowed _ v2 		54 59
-#%s: print_result 		62 63
+def print_result 		62 63
 def 		66 67
 allowed a = 1 1 0 		6 12

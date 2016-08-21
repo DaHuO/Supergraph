@@ -1,0 +1,2 @@
+def main with open input_file as fh cases = 		25 34
+case_split case_split case_split sol = = case split  l = int i chr i + ord a for i in range 		4 22

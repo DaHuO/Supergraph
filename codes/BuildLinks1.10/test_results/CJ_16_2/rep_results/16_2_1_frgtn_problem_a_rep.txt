@@ -1,0 +1,3 @@
+contains_number S counter 		32 33
+number_idx CHECK_ORDER number_idx contains_number number_idx = = 0 S 		36 49
+n_cases n_cases = int 		52 56

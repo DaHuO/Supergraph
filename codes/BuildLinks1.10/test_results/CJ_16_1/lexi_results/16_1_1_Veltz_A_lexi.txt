@@ -1,0 +1,2 @@
+def solve inputfile outputfile t = int inputfile readline for t in range t s = inputfile readline rstrip o = maxab s outputline = case # + str t + 1 + : + o + \n outputfile write outputline 		28 41
+def maxab s if len s == 0 return c = max s prevp = 0 for m in re finditer c s p = m span 0 if prevp == 0 o = c + maxab s p else o = c + o + s prevp p return o + s s rfind c + 1 		13 26

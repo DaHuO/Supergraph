@@ -1,0 +1,2 @@
+def main lines = l strip for l in fileinput input 		35 48
+def find_answer lines alpha = abcdefghijklmnopqrstuvwxyz num = int lines 0 arr = int i for i in lines 1 split  total = sum 		7 33

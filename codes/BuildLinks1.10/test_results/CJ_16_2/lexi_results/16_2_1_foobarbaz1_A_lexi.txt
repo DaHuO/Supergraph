@@ -1,0 +1,1 @@
+def instance s output = b = for x in s if x in b b x += 1 else b x = 1 for s_chars in single_seqs for c in s_chars keys while c in b keys and b c > 0 for y in s_chars c b y -= 1 assert b y >= 0 output append str nums index s_chars c output sort return join output 		72 94

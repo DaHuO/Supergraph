@@ -1,0 +1,8 @@
+def get_index_one_max senators return senators index max senators 		39 40
+def main result = i = 1 with open a-large.in r as inputfile testcasesnumber = inputfile readline while i <= int testcasesnumber matrix = n = int inputfile readline line = inputfile readline line = line replace \n matrix = line split  matrix = map int matrix result += case # + str i + : + evacuate matrix + \n i += 1 with open output.txt w as outputfile outputfile write result 		82 101
+def evacuate senators ret = while max senators > 0 if not majority remove_one_max senators ret +=  + chr get_index_one_max senators + 65 senators = remove_one_max senators elif not majority remove_two_max senators indexes_max = get_index_two_max senators ret +=  for index in indexes_max ret += chr index + 65 senators = remove_two_max senators else print error: print senators return ret 1 		61 76
+def majority senators for s in senators if s > sum senators - s return true return false 		10 14
+def get_index_two_max senators index_max = senators index max senators s2 = senators 0 index_max + senators index_max - 2 + senators index_max + 1 if index_max < len senators else if senators index_max >= 2 and not majority s2 return index_max index_max else ret = get_index_one_max senators s = remove_one_max senators ret += get_index_one_max s s = remove_one_max senators return ret 		42 52
+def remove_one_max senators s = copy senators index_max = s index max s s index_max -= 1 return s 		19 23
+def remove_two_max senators s = copy senators index_max = s index max s s2 = s 0 index_max + s index_max - 2 + s index_max + 1 if index_max < len s else if s index_max >= 2 and not majority s2 return s2 else s = remove_one_max s s = remove_one_max s return s 		25 35
+def copy s return s 		55 56

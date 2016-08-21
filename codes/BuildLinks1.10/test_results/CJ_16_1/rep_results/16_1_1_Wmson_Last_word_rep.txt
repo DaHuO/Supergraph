@@ -1,0 +1,1 @@
+def last_word word cur_word = word 		1 9

@@ -1,0 +1,3 @@
+listc listc listc rs = i for i in range len s for i j 		28 45
+def deepest node c rs 		5 10
+def circles s ret = checked = set for 		12 27

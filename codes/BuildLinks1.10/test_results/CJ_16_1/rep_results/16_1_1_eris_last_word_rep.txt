@@ -1,0 +1,2 @@
+splitext main with open sys argv 1 r as f src 		17 29
+def task s chars = list 		6 14

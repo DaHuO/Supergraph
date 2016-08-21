@@ -1,0 +1,2 @@
+999999 solve c j l = len c mindiff = minc = 99999 minj = 99999 for c 		12 34
+def match pattern number l = 		3 10

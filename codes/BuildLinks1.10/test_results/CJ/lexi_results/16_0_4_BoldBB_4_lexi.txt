@@ -1,0 +1,2 @@
+def getcollumncounts k positions c total = 0 i = 0 while i < 2 ** k base = {0:b} format i base = k - len base * 0 + base if sum int isg base pos c for pos in positions > 0 total += 1 i += 1 return total 		11 20
+def isg base position depth for i in range 1 depth + 1 if 1 == base position % len base ** depth - i + 1 // len base ** depth - i return true return false 		4 8

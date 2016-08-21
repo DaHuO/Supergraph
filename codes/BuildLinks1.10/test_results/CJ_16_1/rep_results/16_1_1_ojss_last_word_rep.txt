@@ -1,0 +1,1 @@
+extendleft extendleft s tmp = deque str_list = ch for 		6 20

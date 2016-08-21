@@ -1,0 +1,2 @@
+def solve b mx = 0 for i in range len b seen = 0 * len b seen i = 1 cur = i while seen b cur == 0 seen b cur = seen cur + 1 cur = b cur mx = max seen cur - seen b cur + 1 mx c = 0 for i in range len b if b b i == i c += chain b i + chain b b i return max c / 2 mx 		16 32
+def chain b x sz = 1 for i in range len b if b i == x and b x != i sz = max sz 1 + chain b i return sz 		9 14

@@ -1,0 +1,1 @@
+def main t = int raw_input for t in xrange 1 t + 1 n = int raw_input ls = for _ in xrange 2 * n - 1 l = int i for i in raw_input split  ls append l nums = for l in ls nums += l c = counter nums res = for i in c if c i % 2 == 1 res append i res sort res = str i for i in res res =  join res print case #{}: {} format t res 		14 33

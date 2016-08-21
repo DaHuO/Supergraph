@@ -1,0 +1,1 @@
+def solve senators steps = while true ind1 = senators index max senators step = letters ind1 senators 		28 61

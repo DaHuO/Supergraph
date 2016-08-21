@@ -1,0 +1,7 @@
+make1 s ret = 		5 10
+make make1 make2 make3 num == 		31 41
+		76 77
+caseidx caseidx caseidx sys infile = read sys argv 1 outfilename 		72 86
+pcoder make pjammer make pcoder pjammer pcoder pjammer st split = coder coder count ? = jammer jammer count ? 		44 69
+make2 s ret = for i in 		12 18
+make3 tmpss tmpss = for i in range 10 tmps = s 		20 28

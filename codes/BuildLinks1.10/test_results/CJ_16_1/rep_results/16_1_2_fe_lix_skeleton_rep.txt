@@ -1,0 +1,3 @@
+intify l 		10 14
+stringify intify a d = 		18 27
+stringify l 		4 8

@@ -1,0 +1,1 @@
+def solve word res = word 0 for e in word 1 if e >= res 0 res = e + res else res = res + e return res 		1 9

@@ -1,0 +1,2 @@
+def process array out = m = max array if m == 1 if sum array 		5 28
+solu pb: solu solu while sum 		30 38

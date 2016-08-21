@@ -1,0 +1,2 @@
+def solve s if s == return largest start end = findlargest s out = largest + solve s 0 start for i in xrange start + 1 end + 1 if s i == largest out = s i + out else out += s i out += s end + 1 return out 		22 33
+def findlargest s minchar = 0 mini = 0 maxi = 0 for i in xrange len s if s i > minchar minchar = s i mini = i if s i == minchar maxi = i return minchar mini maxi 		10 20

@@ -1,0 +1,1 @@
+def solve case ret = case 0 for c in case 1 if c < ret 0 ret = ret + c else ret = c + ret return ret 		4 11

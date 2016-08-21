@@ -1,0 +1,2 @@
+solve_inner solve_inner solve_inner if ? not in c and ? not in j return abs int c 		3 18
+solve_inner solve s c 		22 25

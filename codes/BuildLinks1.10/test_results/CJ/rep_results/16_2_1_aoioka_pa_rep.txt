@@ -1,0 +1,2 @@
+def solve s = raw_input counts = for c in s if c not in counts counts c = 0 counts c += 1 digits = 0 * 10 target = zero two four six split target_c = z w u x split target_d = 0 2 4 		4 58
+def main t 		61 65

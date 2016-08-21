@@ -1,0 +1,4 @@
+greed ans = s 0 i = 1 		41 64
+def rec index word global best if 		29 39
+def 		8 10
+def 		68 72

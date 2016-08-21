@@ -1,0 +1,15 @@
+def write * args ** kwargs sep = kwargs get sep  end = kwargs get end \n sys stdout write sep join str a for a in args + end 		78 81
+def read func = None a = sys stdin readline rstrip \n return a if func is None else func a 		49 51
+def read_array func = None sep = None max_split = - 1 array = read split sep max_split if sep != else list read return array if func is None else func a for a in array 		54 56
+def gen s l = len s for i in xrange 10 ** l n = i ns = str i rjust l 0 if fnmatch fnmatch ns s yield n ns 		9 15
+def times n return itertools repeat None n 		45 46
+def read_int_array sep = None max_split = - 1 return read_array int sep max_split 		68 70
+def write_2d_array array ** kwargs write_array a ** kwargs for a in array 		88 89
+def write_array array ** kwargs write * array ** kwargs 		84 85
+def read_int_2d_array n sep = None max_split = - 1 return read_2d_array n int sep max_split 		73 75
+def bye message = None if message is not None write message sys exit 		39 42
+def solve c j = read_array mn = 10 ** len c 10 ** len c 10 ** len c for cn cs in gen c for jn js in gen j if abs cn - jn < mn 0 mn = abs cn - jn cn cs jn js elif abs cn - jn == mn 0 if cn < mn 1 mn = abs cn - jn cn cs jn js elif cn == mn 1 if jn < mn 3 mn = abs cn - jn cn cs jn js return {} {} format mn 2 mn 4 		18 31
+def _main_ name = names = if name or names in_name = name + .in if name else input.txt out_name = name + .out if name else output.txt stdin = sys stdin stdout = sys stdout sys stdin = open in_name sys stdout = open out_name w main sys stdin close sys stdout close sys stdin = stdin sys stdout = stdout else main 		92 108
+def read_2d_array n func = None sep = None max_split = - 1 return read_array func sep max_split for _ in times n 		59 60
+def main for i in xrange 1 read_int + 1 write Case #{}: {} format i solve 		34 36
+def read_int return read int 		63 65

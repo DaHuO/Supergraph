@@ -1,0 +1,1 @@
+cjr1q1 csv reader myreader reader myreader myreader outfile = open fname + out w from import = infile delimiter =  		1 33

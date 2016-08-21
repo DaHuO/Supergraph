@@ -1,0 +1,1 @@
+def compete lineup ret = for i in xrange len lineup / 2 first = lineup 2 * i second = lineup 2 * i + 1 if first == second return none if first == r if second == p ret append p else ret append r elif first == p if second == s ret append s else ret append p else if second == r ret append r else ret append s return ret 		1 16

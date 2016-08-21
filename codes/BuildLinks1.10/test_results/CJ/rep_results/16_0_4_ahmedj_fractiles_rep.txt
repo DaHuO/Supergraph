@@ -1,0 +1,5 @@
+eleminate_artwork gid artworks i 		44 56
+artwork_gen generate_org_artwork develop artwork_gen find_most_frequent_piece eleminate_artwork k 		59 74
+develop artwork complexity if complexity == 1 		8 24
+generate_org_artwork k for 		2 6
+find_most_frequent_piece max_frequency max_id max_frequency max_frequency max_id max_id i 		26 42

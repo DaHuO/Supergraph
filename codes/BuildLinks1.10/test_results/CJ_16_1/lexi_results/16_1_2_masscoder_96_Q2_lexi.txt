@@ -1,0 +1,1 @@
+def arrange s ls = s split d = dict for i in ls if i not in d d i = 1 else d i += 1 f = for i in d if d i % 2 != 0 f append int i else continue c = sorted f m = for i in c m append str i return  join m 		2 19

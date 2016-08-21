@@ -1,0 +1,7 @@
+def rd1int return int rdline 		11 11
+def rdints return map int ssr split 		10 10
+def rdstrs return ssr split 		9 9
+def main t = rd1int for i in range t do_one_case i + 1 sys stdout flush 		29 33
+def rdline return ssr strip 		8 8
+def lastword s if not s return c = max s n = s count c i = s find c x = n * c + lastword s i + s i replace c return x 		20 27
+def do_one_case cnum s = rdline print case #%d: %s % cnum lastword s 		15 17

@@ -1,0 +1,1 @@
+def solve s sol = s 0 for i in range 1 len s if s i < sol 0 sol = sol + s i else sol = s i + sol print sol return sol 		4 13

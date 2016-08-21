@@ -1,0 +1,1 @@
+def word a ls = list a out = c = 0 		3 21

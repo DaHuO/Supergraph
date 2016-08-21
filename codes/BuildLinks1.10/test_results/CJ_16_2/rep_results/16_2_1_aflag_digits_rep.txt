@@ -1,0 +1,2 @@
+def remove word sentence new_sentence 		3 10
+LeftoversError new_phone new_phone digits_map new_phone LeftoversError digits_map new_phone LeftoversError raise else 		15 32

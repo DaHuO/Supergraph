@@ -1,0 +1,6 @@
+def get_input f = lambda x x return map f raw_input enter input:\n splitlines 1 		5 6
+def get_variable_line_input data = raw_input splitlines retval cache = for i in data if i isdigit if len cache retval append cache cache = else continue else cache append i retval append cache return retval 		12 25
+def get_multiline_input s data = raw_input splitlines return data i + 1 i + 1 + s for i in xrange 0 s * int data 0 s 		8 10
+def output_to_console indata for i in xrange len indata print case # + str i + 1 + : + str indata i 		40 42
+def output_to_file fname indata indata reverse ind = 0 with open d:\\python projects\\google code jam outputs\\ + fname w as f while indata ind += 1 f write case # + str ind + : + str indata pop + \n 		32 38
+def get_file_input fname fn = lambda x x with open d:\\python projects\\google code jam inputs\\ + fname as f data = map fn f readlines 1 return data 		27 30

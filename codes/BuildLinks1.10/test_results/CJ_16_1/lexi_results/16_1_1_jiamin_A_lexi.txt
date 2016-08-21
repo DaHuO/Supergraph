@@ -1,0 +1,1 @@
+def solve s curr_front = 64 curr_str = for c in s if ord c >= curr_front curr_str = c + curr_str curr_front = ord c else curr_str += c return curr_str 		6 15

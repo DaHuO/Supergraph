@@ -1,0 +1,1 @@
+def run_test inp = input split  k = int inp 0 c = int inp 1 s = int inp 2 needs = math ceil k / c if needs > s return impossible nums = for i in range needs num = 1 for d in range c num += min k - 1 i * c + d * k ** d nums append str num return  join nums 		4 20

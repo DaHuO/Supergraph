@@ -1,0 +1,2 @@
+print_answer s 		16 17
+def find_answer s current = for 		3 13

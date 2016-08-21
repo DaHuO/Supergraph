@@ -1,0 +1,1 @@
+def recurse s pos len temp if pos is len return temp t1 = s pos + temp t2 = temp + s pos m1 = recurse s pos + 1 len t1 m2 = recurse s pos + 1 len t2 if m1 > m2 return m1 else return m2 		1 11

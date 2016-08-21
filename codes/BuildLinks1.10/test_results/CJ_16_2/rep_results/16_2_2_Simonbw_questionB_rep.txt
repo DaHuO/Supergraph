@@ -1,0 +1,2 @@
+translate combos s digits 		3 7
+translate digits n digits = list digits unknowns 		9 17

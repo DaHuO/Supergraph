@@ -1,0 +1,1 @@
+temp1 temp1 inp result = inp 		1 7

@@ -1,0 +1,1 @@
+def go s if len s <= 1 return s c = max s i = s index c sub = s i sub2 = sub translate none c n = len sub - len sub2 return c * n + go s i + sub2 		1 10

@@ -1,0 +1,2 @@
+input_string letters_in_english input_string char_index 		10 15
+digits_price round case_index word = read_word next_line a = a 		19 27

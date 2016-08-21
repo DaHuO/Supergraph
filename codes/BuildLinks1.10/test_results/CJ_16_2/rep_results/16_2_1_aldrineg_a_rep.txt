@@ -1,0 +1,5 @@
+get_file_out a.out a_%s.out 		11 15
+def print_answer t answer 		17 21
+FI SV HR NI ON FI SV HR NI ON uc uc uc uc c in M M c = M c + 1 else M c = 1 O = Z W U X G uniques = 		23 64
+get_file_out main argv f = open get_file argv 		66 73
+a.in a_%s.in argv 		5 9

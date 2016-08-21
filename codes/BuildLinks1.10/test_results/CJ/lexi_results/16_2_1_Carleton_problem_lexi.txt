@@ -1,0 +1,7 @@
+def count_lets txt cnt = for c in txt if c not in cnt cnt c = 0 cnt c += 1 return cnt 		4 10
+def find_sol text cnts = count_lets text rs = rs append sub_number x 6 cnts rs append sub_number g 8 cnts rs append sub_number w 2 cnts rs append sub_number z 0 cnts rs append sub_number u 4 cnts rs append sub_number f 5 cnts rs append sub_number v 7 cnts rs append sub_number h 3 cnts rs append sub_number o 1 cnts rs append sub_number i 9 cnts rs = sorted rs return join join str i * n for i n in rs 		37 63
+def sub_number indicator idx cnts num = cnts get indicator 0 if num == 0 return idx 0 subtract cnts lcounts idx num return idx num 		30 35
+def process n return find_sol n 		73 74
+def subtract cnt1 cnt2 mult = 1 for k v in cnt2 iteritems cur_cnt = cnt1 get k 0 mv = v * mult if cur_cnt < mv return none cnt1 k -= mv return cnt1 		20 28
+def parse_file fname with open fname r as fh lines = fh readlines 1 return lines 		67 71
+def main fname = sys argv 1 outname = sys argv 2 ns = parse_file fname answers = process n for n in ns with open outname w as fh for i a in enumerate answers 1 fh write case #%i: %s\n % i a 		76 86

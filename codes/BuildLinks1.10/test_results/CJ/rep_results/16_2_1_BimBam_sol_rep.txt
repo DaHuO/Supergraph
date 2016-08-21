@@ -1,0 +1,4 @@
+findnumbers sf canfind rems ren findnumbers rems sf sf d < 		15 28
+canfind digit s for 		2 8
+ren s 		10 13
+findnumbers sol 		31 32

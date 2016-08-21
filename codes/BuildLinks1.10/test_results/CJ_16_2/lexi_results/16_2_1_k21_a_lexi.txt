@@ -1,0 +1,1 @@
+def remove_word counts word for letter in word counts letter -= 1 		27 29

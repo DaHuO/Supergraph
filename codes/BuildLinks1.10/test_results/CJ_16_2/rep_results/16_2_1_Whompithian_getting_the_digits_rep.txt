@@ -1,0 +1,2 @@
+digitize tc A = temp = tc zeros = temp count Z twos = temp count W fours = temp count U temp = temp replace F fours fives = temp count 		18 51
+digitize main output = i = 1 with open sys 		5 16

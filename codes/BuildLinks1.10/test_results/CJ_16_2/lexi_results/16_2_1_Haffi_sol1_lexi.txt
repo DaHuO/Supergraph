@@ -1,0 +1,2 @@
+def md2 counter rest digit for s in rest md counter s digit 		9 11
+def md counter letter digit counter letter -= phone_digits digit return 		5 7

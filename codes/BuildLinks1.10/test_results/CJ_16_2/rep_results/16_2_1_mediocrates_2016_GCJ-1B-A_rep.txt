@@ -1,0 +1,2 @@
+r+b r+b input_filename = input.txt output_filename = output.txt open output_filename wb close 		92 103
+def parse s letter_freq = collections Counter s number_freq = collections defaultdict int while Z in letter_freq and letter_freq Z > 0 letter_freq Z -= 1 letter_freq E -= 1 letter_freq R -= 1 letter_freq O -= 1 number_freq 0 += 1 while W in letter_freq and letter_freq W > 0 letter_freq T -= 1 letter_freq W -= 1 letter_freq O 		4 89

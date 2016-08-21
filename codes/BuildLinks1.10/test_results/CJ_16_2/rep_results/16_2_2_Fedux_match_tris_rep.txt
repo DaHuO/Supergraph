@@ -1,0 +1,3 @@
+def solve c_str j_str all_c = all_j = for i c j in enumerate zip c_str j_str if c == ? and j == ? ip_c = str i for i in range 10 ip_j = str i for i in range 		13 66
+def repl s 		8 10
+FileParser read_strings inputfile = T = inputfile 		69 77

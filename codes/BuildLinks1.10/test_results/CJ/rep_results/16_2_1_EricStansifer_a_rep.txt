@@ -1,0 +1,1 @@
+zeroonetwothreefourfivesixseveneightnine writecase casenum s = readline counts = 0 * 10 chars = for c in chars c = 0 for c in s chars c += 1 a = counts 0 = chars z chars z -= a chars e -= a chars r -= a chars o -= a a = counts 2 		7 92

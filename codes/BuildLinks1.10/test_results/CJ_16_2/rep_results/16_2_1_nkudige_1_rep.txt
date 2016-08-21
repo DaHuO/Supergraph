@@ -1,0 +1,2 @@
+recalculate c n f 		22 28
+getSol recalculate c_old iterkeys recalculate c_old c_old = for n letter in 0 Z 2 W 4 U 6 X 		30 54

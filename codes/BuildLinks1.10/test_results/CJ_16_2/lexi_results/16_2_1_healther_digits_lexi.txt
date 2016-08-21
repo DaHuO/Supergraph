@@ -1,0 +1,1 @@
+def number_from_string inputline line = inputline counter = dict Counter line most_common digits = for bt in backtrans try char = bt 0 number = bt 1 letters = numbers number frequency = counter char digits extend frequency * number for s in letters counter s -= frequency except KeyError pass digits sort ret = join str i for i in digits return ret 		36 58

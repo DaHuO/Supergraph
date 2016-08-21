@@ -1,0 +1,4 @@
+toroom line rs = int v for 		8 15
+gettworoom poproom poproom poproom rs if len rs == 0 return rs r = rs 0 		17 33
+poproom rs if len rs == 0 return 		18 25
+solv gettworoom sum rooms = sorted rooms key 		35 45

@@ -1,0 +1,2 @@
+def get_best s res = 		1 8
+def solve infile = open a-large.in outfile = 		11 19

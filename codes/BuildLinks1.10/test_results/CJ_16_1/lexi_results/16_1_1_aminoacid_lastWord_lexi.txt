@@ -1,0 +1,1 @@
+def printlastword s inp t = deque for i in s if not t t append i else if ord i >= ord t 0 t appendleft i else t append i print case #%d: % inp + 1 join t 		4 14

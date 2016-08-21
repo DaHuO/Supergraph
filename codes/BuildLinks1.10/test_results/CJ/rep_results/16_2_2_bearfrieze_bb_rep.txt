@@ -1,0 +1,2 @@
+avars variations bvars variations avars bvars s split = a = b smallest = 1000 pair = 		22 36
+variations s a = for c in s if c == ? if 		3 20

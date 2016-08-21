@@ -1,0 +1,5 @@
+def countletters s c = Counter for x in s c x += 1 return c 		20 24
+def solve s scount = countletters s A = b = row = 0 * 10 for d in range 10 row d = len word d A append row b append len s wordcount = countletters w for w in word for x in ascii_uppercase row = 0 * 10 for d in range 10 row d = wordcount d x A append row b append scount x sol = 0 * 10 gauss_jordan A sol b res = for d in range 10 res += str d * int sol d + 0.5 return res 		29 52
+def readints return list map int stdin readline split 		16 16
+def readint return int stdin readline 		15 15
+def readstr return stdin readline strip 		17 17

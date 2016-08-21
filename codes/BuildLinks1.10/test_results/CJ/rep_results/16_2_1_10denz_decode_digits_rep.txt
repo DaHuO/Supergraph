@@ -1,0 +1,4 @@
+find_digit identifier identifier identifier 		3 8
+solve_testcase line digit_count = 		32 38
+character_count id_ find_digit id_ character_count = counter line digits = x 		10 29
+large.in solve_testcase with open 		40 44

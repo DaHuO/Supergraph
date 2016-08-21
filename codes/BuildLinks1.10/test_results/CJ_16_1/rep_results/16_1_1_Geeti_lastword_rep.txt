@@ -1,0 +1,2 @@
+def main with open sys argv 		21 26
+def lastword s l = list s 		3 14

@@ -1,0 +1,2 @@
+inputints 		9 10
+likesprev likesprev thisone thisone thisone thisone thisone thisone taken f cur if f cur == first return 1 		13 40

@@ -1,0 +1,2 @@
+def op 		3 4
+inv_map dep FOR RO dep inv_map inv_map 6 U 4 S 7 F 5 Z 0 O 1 R 3 H 8 I 9 = v 		6 30

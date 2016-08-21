@@ -1,0 +1,1 @@
+def lastword s curr = for letter in s alt1 = letter + curr alt2 = curr + letter if alt1 > alt2 curr = alt1 else curr = alt2 return curr 		3 12

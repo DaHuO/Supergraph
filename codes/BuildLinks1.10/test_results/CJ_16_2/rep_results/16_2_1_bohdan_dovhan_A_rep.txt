@@ -1,0 +1,1 @@
+imd Error: empty: imd = nc = 0 for x in range 10 while s count Z > 0 for v in numbers 0 s = s replace v 1 nc 0 += 1 while s count W > 0 for v in numbers 2 s = s replace v 		6 62

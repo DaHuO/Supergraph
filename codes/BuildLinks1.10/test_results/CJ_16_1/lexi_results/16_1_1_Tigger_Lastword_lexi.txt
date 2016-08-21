@@ -1,0 +1,2 @@
+def main f = sys stdin f readline i = 0 for line in f readlines i += 1 dostuff line strip print case # + str i + : + dostuff line strip 		16 23
+def dostuff line news = news = line 0 line = line 1 for c in line if news 0 <= c news = c + news else news += c return news 		3 13

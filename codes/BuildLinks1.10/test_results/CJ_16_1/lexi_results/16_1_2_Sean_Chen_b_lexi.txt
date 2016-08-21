@@ -1,0 +1,1 @@
+def solve n num = 2 * n - 1 items = ans = digs = set for i in xrange num tmp = map int raw_input split for mem in tmp items append mem digs add mem for i in digs if items count i % 2 == 1 ans append i ans sort return ans 		1 18

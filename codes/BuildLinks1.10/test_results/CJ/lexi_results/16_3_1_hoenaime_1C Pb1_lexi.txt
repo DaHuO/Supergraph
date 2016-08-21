@@ -1,0 +1,4 @@
+def lecture txt nb c = 0 c1 = 0 arret = 0 s = while arret != nb - 1 c += 1 if txt c ==  arret += 1 s += txt c1 c c1 = c + 1 s += txt c1 return s 		37 49
+def rchch lst nb2 = 0 for k in lst nb2 += k s = while nb2 != 2 nb2 -= 2 m i = maxi lst lst i = lst i - 1 n j = maxi lst lst j = lst j - 1 o k = maxi lst if o > nb2 / 2 s += i - 1 lst j = lst j + 1 nb2 += 1 else s += i j m i = maxi lst lst i = lst i - 1 n j = maxi lst lst j = lst j - 1 s += i j return s 		1 24
+def main ifn = a-large.in ofn = output.txt f = open ifn r encoding = utf-8 g = open ofn w nb_val = int f readline strip for k in range nb_val g write case #%d: % k + 1 nbc = int f readline strip txt = lecture f readline strip nbc s = rchch list map lambda x int x txt for j in s g write  for i in j if i != - 1 g write %s % chr i + 97 upper g write \n f close g close return fin 		51 70
+def maxi l a = l 0 l = len l i = 0 for k in range 1 l if a < l k a = l k i = k return a i 		26 34

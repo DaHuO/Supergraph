@@ -1,0 +1,3 @@
+def kick_max p it max curr = p it if curr count != max it += 1 if it < len p and p it count == max curr = p it else it = 0 curr = p it max = curr count sys stdout write curr party curr count -= 1 if curr count == 0 p pop it else it += 1 if it == len p and len p > 0 it = 0 max = p it count return it max 		13 31
+def party_comparer a b return b count - a count 		11 11
+def total p sum = 0 for i in range len p sum += p i count return sum 		33 36

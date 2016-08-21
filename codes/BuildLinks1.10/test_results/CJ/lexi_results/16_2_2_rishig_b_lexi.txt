@@ -1,0 +1,6 @@
+def run c j poss = poss append prefixes c j len c for i in range len c c j = prefixes c j i if c i != ? and j i != ? poss append c + tomin c i j + tomax j i poss append c + tomax c i j + tomin j i if c i != ? and j i == ? if p1 c i poss append c + tomax c i j + p1 c i + tomin j i + 1 if m1 c i poss append c + tomin c i j + m1 c i + tomax j i + 1 if c i == ? and j i != ? if p1 j i poss append c + p1 j i + tomin c i + 1 j + tomax j i if m1 j i poss append c + m1 j i + tomax c i + 1 j + tomin j i if c i == ? and j i == ? poss append c + 1 + tomin c i + 1 j + 0 + tomax j i + 1 poss append c + 0 + tomax c i + 1 j + 1 + tomin j i + 1 nposs = abs int a - int b a b for a b in poss nposs sort key = operator itemgetter 0 1 2 return nposs 0 1 +  + nposs 0 2 		39 64
+def p1 l if l == 9 return none else return str int l + 1 		29 32
+def prefixes c j k c = j = for i in range k if c i == ? and j i == ? c append 0 j append 0 if c i == ? and j i != ? c append j i j append j i if c i != ? and j i == ? c append c i j append c i if c i != ? and j i != ? c append c i j append j i return join c join j 		5 21
+def tomax x return x replace ? 9 		26 27
+def m1 l if l == 0 return none else return str int l - 1 		34 37
+def tomin x return x replace ? 0 		23 24

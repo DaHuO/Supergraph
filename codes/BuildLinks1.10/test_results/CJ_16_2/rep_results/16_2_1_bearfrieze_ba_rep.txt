@@ -1,0 +1,2 @@
+containsNumber solve s digits = 		15 21
+containsNumber s number tmp = 		6 13

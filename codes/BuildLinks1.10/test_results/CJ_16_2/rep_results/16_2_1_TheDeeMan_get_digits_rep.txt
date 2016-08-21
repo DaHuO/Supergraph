@@ -1,0 +1,8 @@
+figure_out_number_set NUMBER_STRINGS str_without remove_stra_from_strb worked nums_of_remaining figure_out_number_set 		79 91
+def make_dict_for_string string d 		21 27
+figure_out_number_string worked figure_out_number_set worked 		94 99
+sub_str parent_str sub_dict sub_str parent_dict parent_str 		37 45
+dict_to_string string_dict string_dict 		29 33
+test_read write_filename _answer f_r f_w write_filename f_r line? formatted_answer output_formatted figure_out_number_string f_w formatted_answer f_w 		116 137
+remove_stra_from_strb str_a str_b str_a str_b Check first, 		49 57
+output_formatted output_function output_function formatted 		111 114

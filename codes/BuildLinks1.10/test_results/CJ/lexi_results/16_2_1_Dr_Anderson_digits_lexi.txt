@@ -1,0 +1,2 @@
+def removenum s num for n in range len num s = remove s s index num n return s 		15 19
+def remove s idx sout = s idx + s idx + 1 return sout 		11 13

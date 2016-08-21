@@ -1,0 +1,1 @@
+def check_at c k pt = min c k if pt == 1 return 1 prev = check_at c - 1 k return prev - 1 * k + pt 		32 37

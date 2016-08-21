@@ -1,0 +1,6 @@
+def main input_file = sys argv 1 input_processor input_file 		54 56
+def print_solution solution print solution 		10 12
+def solve case_num problem_variable solution = for c in problem_variable if solution == solution = c else if c + solution > solution + c solution = c + solution else solution = solution + c print_ans case_num solution 		40 52
+def process_input_case case_num problem problem_variable = problem 0 solve case_num problem_variable 		35 38
+def input_processor filename f = open filename data = f read split \n case_nums = int data 0 num_of_lines = 1 data_length = len data start_index = 1 case_num = 1 for i in xrange 0 case_nums start = i * num_of_lines + start_index problem = data start start + num_of_lines process_input_case case_num problem case_num += 1 		15 33
+def print_ans case_num solution print case # + str case_num + : print_solution solution 		6 8

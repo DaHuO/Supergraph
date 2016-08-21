@@ -1,0 +1,2 @@
+def decode S res = res += 0 * rem S Z ZERO res += 2 * rem S 		8 23
+__contains__ rem S letter 		1 7

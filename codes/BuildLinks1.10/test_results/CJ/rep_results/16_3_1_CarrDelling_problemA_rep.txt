@@ -1,0 +1,1 @@
+def solve n people current = output = for i in xrange n current append alphabet i people i while current current sort key = lambda x x 1 reverse 		18 55

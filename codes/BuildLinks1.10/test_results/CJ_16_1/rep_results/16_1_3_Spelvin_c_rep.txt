@@ -1,0 +1,7 @@
+def 		1 2
+chainimprover newchains newchains listreverse newchains in listofchains for chain2 in 		40 46
+listreverse listreverse if 		13 16
+newbestchaincombo numberofkids numberofkids chainsendinginkid chainsendinginkid chainsendinginkid in range 		48 54
+def bestchaincombo listofchains elementsused if listofchains == return 		33 38
+biggestcircle orbit newbestchaincombo = chains = for kid in range 1 		18 31
+orbit lst kid chain = kid while true chain append bff 		4 11

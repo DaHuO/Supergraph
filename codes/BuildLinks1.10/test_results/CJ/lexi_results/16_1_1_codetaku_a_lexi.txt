@@ -1,0 +1,2 @@
+def retopen tnum return case # + str tnum + : 		15 16
+def runtest t lines output test = lines 0 res = test 0 for a in test 1 - 1 if ord a >= ord res 0 res = a + res else res = res + a ret = retopen t +  + res + \n output write ret print ret 		18 28

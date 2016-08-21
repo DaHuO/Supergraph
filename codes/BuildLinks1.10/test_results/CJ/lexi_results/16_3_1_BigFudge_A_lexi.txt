@@ -1,0 +1,8 @@
+def valid state n = max state val = n <= sum state - n return val 		14 17
+def convert_to_letters steps import string new_steps = for step in steps new_steps append string uppercase n for n in step return new_steps 		22 27
+def read_stdin_lines import fileinput return line for line in fileinput input 		5 7
+def total steps size t = 0 * size for step in steps for n in step t n += 1 return t 		29 34
+def print_outputs outputs for n output in enumerate outputs output = join o for o in output output =  join output print case #{}: {} format n + 1 output 		60 64
+def solve target current = 0 * len target diff = sorted list enumerate subtract target current key = lambda e - e 1 steps = while diff 0 1 > 0 next_step = diff 0 0 current diff 0 0 += 1 diff = sorted list enumerate subtract target current key = lambda e - e 1 if not valid current next_idx = diff 0 0 current next_idx += 1 if not valid current current next_idx -= 1 next_idx = diff 1 0 assert diff 1 1 > 0 current next_idx += 1 assert valid current next_step append next_idx steps append next_step diff = sorted list enumerate subtract target current key = lambda e - e 1 assert total steps len target == target return convert_to_letters steps - 1 		36 57
+def subtract v1 v2 return x - y for x y in zip v1 v2 		19 20
+def parse_lines lines lines = line - 1 for line in lines 1 lines = map int line split  for line in lines 1 2 return lines 		9 12

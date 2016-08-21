@@ -1,0 +1,3 @@
+		42 43
+def solve self tests = int input for test in range tests c j = 		24 39
+nlst ny nlst ny nlst for i c in enumerate s if 		6 21

@@ -1,0 +1,3 @@
+def check s 		82 86
+def read_file 		4 6
+def calculate line r = list_c = list line while len list_c > 0 if Z in list_c r += 0 for c in ZERO list_c remove c continue if X in list_c r += 6 for 		8 79

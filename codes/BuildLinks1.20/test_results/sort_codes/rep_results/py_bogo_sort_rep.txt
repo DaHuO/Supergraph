@@ -1,0 +1,43 @@
+12 21:
+in_order	1	0	27	21
+alist	2	0	26	20
+if	3	0	25	19
+not	4	0	24	18
+alist	5	0	23	17
+return	6	0	22	16
+true	7	1	21	15
+last	8	2	20	14
+=	9	3	19	13
+alist	10	4	18	12
+0	11	5	17	11
+for	12	6	16	10
+x	13	7	15	9
+in	14	8	14	8
+alist	15	9	13	7
+1	16	10	12	6
+if	17	11	11	5
+x	18	12	10	4
+<	19	13	9	3
+last	20	14	8	2
+return	21	15	7	1
+false	22	16	6	0
+last	23	17	5	0
+=	24	18	4	0
+x	25	19	3	0
+return	26	20	2	0
+true	27	21	1	0
+
+6 10:
+bogosort	1	0	13	10
+in_order	5	2	9	6
+while	3	0	11	8
+not	4	1	10	7
+alist	6	3	8	5
+random	7	4	7	4
+shuffle	8	5	6	3
+alist	9	6	5	2
+print	10	7	4	1
+alist	11	8	3	0
+return	12	9	2	0
+alist	13	10	1	0
+

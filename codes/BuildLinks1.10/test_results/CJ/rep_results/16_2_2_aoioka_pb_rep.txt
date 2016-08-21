@@ -1,0 +1,2 @@
+n_empty best_c_score best_j_score n_empty best_c_score best_c_score best_j_score best_c_score best_j_score len c = c count ? + j count ? best_diff = float inf = float inf = float inf best_c = 		6 41
+def main t 		44 48

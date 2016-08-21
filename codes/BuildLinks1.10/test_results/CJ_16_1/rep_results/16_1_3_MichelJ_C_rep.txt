@@ -1,0 +1,3 @@
+def stripnl 		50 53
+alli alli bff n for i in xrange n bff i -= 1 = 		20 33
+stringio stringio data = none if data is none f = sys 		55 66

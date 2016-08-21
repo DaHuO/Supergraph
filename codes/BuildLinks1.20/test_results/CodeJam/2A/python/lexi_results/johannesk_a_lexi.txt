@@ -1,0 +1,5 @@
+def combine a b return min a + b b + a 		4 5
+def cumul xs c = 0 * 3 for x in xs c x += 1 return tuple c 		21 25
+def parse return map int input split 		36 37
+def mkposs n if n == 0 return 0 1 1 2 0 2 a = mkposs n - 1 return 		7 15
+def solve n r p s return ans get p r s impossible 		33 34

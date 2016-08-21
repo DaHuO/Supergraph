@@ -1,0 +1,1 @@
+\r cor cor cor s endswith or s endswith \n s = s - 1 cnt = for w in s 		1 26

@@ -1,0 +1,1 @@
+def soldier inputfile outputfile fr = open inputfile r t = int fr readline print t fw = open outputfile w for i in range t 		1 30

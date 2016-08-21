@@ -1,0 +1,3 @@
+def recurse i a b diff global best besta bestb if i if abs diff - power i - 1 > best return if i == n diff = abs diff if diff < best best = diff besta bestb = a b return avals = c i if avals == ? avals = string digits bvals = j i if bvals == ? bvals = string digits for aval in avals for bval in bvals localdiff = power i * int aval - int bval recurse i + 1 a + aval b + bval diff + localdiff 		34 61
+def solve global power best besta bestb n n = len c exp = 10 ** n - 1 best = 10 * exp power = for i in range n power append exp exp /= 10 recurse 0 0 return best besta bestb 		63 78
+def log msg print msg output write msg + \n 		8 10

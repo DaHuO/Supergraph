@@ -1,0 +1,5 @@
+def solve word sorted_ = sorted word reversed_ = reversed word if sorted_ == word return reversed_ elif sorted_ == reversed_ return word return _game word 0 word 1 		25 32
+def _inner * args ** kwargs joined = join str args str kwargs if joined not in _cache _cache joined = func * args ** kwargs return _cache joined 		6 10
+memoize def _game result word i if i == len word return result pre = join word i result post = join result word i if i == len word - 1 return max pre post return max _game pre word i + 1 _game post word i + 1 		14 23
+def memoize func _cache = def _inner * args ** kwargs joined = join str args str kwargs if joined not in _cache _cache joined = func * args ** kwargs return _cache joined return _inner 		3 11
+def read_input_and_solve filename with open filename r as f for i line in enumerate f if not i t = int line strip else word = line strip print case #{}: {} format i solve word 		35 43

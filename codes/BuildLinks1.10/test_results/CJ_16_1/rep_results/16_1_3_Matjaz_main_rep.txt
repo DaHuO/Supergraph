@@ -1,0 +1,3 @@
+bestconfiguration finddepth 		25 26
+def mark x 		6 9
+finddepth bffreverse finddepth res = 1 maxdepth 		12 22

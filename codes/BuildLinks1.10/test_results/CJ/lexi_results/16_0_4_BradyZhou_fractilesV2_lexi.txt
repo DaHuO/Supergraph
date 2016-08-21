@@ -1,0 +1,1 @@
+def step cur init ret = list for char in cur if char == g ret append g * len init else ret append init return join ret 		4 11

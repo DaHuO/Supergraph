@@ -1,0 +1,4 @@
+allstrings alphabet length c = 		18 23
+999999999 allstrings solucao solucao solucao list line strip possibilities = list line strip count ? first second = words 0 words 		25 51
+load_file encoding utf-8 		7 10
+writestringtofile output filename out_file 		12 16

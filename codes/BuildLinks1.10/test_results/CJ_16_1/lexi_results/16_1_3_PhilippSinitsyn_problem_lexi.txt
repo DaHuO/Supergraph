@@ -1,0 +1,1 @@
+def solve friends fr = dict friends g = nx digraph for f in friends if fr f 1 == f 0 for q in friends if f != q g add_edge f q g add_edge f f 1 fr f 1 return max len x for x in nx simple_cycles g 		12 23

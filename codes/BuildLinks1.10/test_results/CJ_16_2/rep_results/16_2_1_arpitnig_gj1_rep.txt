@@ -1,0 +1,2 @@
+input1.txt output1.txt f = open r n = int f 		1 13
+def calculate t l = while len t > 1 if W in t t = t replace T 1 t = t replace W 1 t = t replace O 1 l append 2 continue if U in t t = t replace F 1 t = t replace O 1 t = t replace U 1 t = t replace R 1 l append 		16 91

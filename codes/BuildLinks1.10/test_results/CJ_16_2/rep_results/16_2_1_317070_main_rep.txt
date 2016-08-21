@@ -1,0 +1,6 @@
+read_chrs 		65 66
+read_frac return 		61 62
+def read_floats 		67 68
+def read_ints 		59 60
+def solve p res = while Z in p res += 0 for l in ZERO p = p replace l 1 while W in p res += 2 for l in TWO p = p replace l 		9 53
+def read_strs 		63 64

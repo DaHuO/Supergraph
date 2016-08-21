@@ -1,0 +1,1 @@
+getANS line dic = for s in line if s in dic dic s += 1 else dic s = 1 outstr = if Z in dic temp = dic Z if temp > 0 dic Z -= temp dic E -= temp dic R -= temp dic O -= temp outstr += 0 * temp if W in dic temp = dic W if temp 		10 97

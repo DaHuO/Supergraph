@@ -1,0 +1,1 @@
+def solve n = int raw_input d = defaultdict lambda 0 		6 17

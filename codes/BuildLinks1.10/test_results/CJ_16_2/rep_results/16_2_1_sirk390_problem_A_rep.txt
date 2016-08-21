@@ -1,0 +1,2 @@
+problem_A rU ntestcases ntestcases filename as fin lines 		23 28
+strvalue strvalue digits_counts digits_counts strvalue strvalue digits_counts counts Z twos = counts W fours = counts U sixs = counts X sevens = 		5 21

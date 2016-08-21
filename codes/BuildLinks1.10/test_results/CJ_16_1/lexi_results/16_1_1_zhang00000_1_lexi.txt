@@ -1,0 +1,1 @@
+def lastword s new = s 0 for item in s 1 if item < new 0 new = new + item else new = item + new return new 		1 8

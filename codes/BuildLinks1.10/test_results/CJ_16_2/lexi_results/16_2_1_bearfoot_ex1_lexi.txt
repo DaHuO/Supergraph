@@ -1,0 +1,5 @@
+def Find2nd lst if inList T lst lst remove T lst remove H lst remove R lst remove E lst remove E result append 3 return True if inList S lst lst remove S lst remove E lst remove V lst remove E lst remove N result append 7 return True return False 		60 77
+def Find3rd lst if inList R lst lst remove F lst remove O lst remove U lst remove R result append 4 return True if inList O lst lst remove O lst remove N lst remove E result append 1 return True if inList F lst lst remove F lst remove I lst remove V lst remove E result append 5 return True return False 		79 100
+def inList elem lst try i = lst index elem return True 		22 25
+def Find1st lst if inList Z lst lst remove Z lst remove E lst remove R lst remove O result append 0 return True if inList W lst lst remove T lst remove W lst remove O result append 2 return True if inList X lst lst remove S lst remove I lst remove X result append 6 return True if inList G lst lst remove E lst remove I lst remove G lst remove H lst remove T result append 8 return True return False 		30 58
+def FindFin lst while len lst > 0 lst remove N lst remove I lst remove N lst remove E result append 9 		102 108

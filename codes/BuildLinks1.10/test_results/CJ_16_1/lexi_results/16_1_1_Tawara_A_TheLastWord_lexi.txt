@@ -1,0 +1,1 @@
+def solve t = int raw_input for t in xrange 1 t + 1 s = list raw_input l = len s q = deque s 0 for i in xrange 1 l if s i >= q 0 q appendleft s i else q append s i print case #%d: %s % t join q 		2 13

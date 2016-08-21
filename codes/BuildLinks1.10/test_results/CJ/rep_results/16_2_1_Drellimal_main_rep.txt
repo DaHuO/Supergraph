@@ -1,0 +1,6 @@
+def removel a 		46 51
+sub_list rec nums word order if len word == 0 return order else if len nums == 0 return 		11 33
+find_order sub_list sub_list for x in range len nums new_word = new_word += 		70 85
+def get_numbers word nums = for num in numbers 		53 68
+sub_list a c b 		36 44
+wl wl wl = case #{}: {} for x 		88 96

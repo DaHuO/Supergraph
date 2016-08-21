@@ -1,0 +1,2 @@
+def main inputs = for line in fileinput input inputs append line 		19 34
+def run n heights s = set 		4 16

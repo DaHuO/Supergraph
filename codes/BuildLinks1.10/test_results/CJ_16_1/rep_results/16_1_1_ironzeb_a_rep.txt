@@ -1,0 +1,1 @@
+def solve word if len word == 		12 21

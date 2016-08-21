@@ -1,0 +1,2 @@
+def main cases = int 		17 24
+countby check_char rules check_char check_char check_char = lambda x x 		26 37

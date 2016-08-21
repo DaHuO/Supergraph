@@ -1,0 +1,1 @@
+def check a b for i in range len a if a i != ? if a i != b i return false return true 		8 13

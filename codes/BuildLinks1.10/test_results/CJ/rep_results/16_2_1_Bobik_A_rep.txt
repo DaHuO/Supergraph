@@ -1,0 +1,1 @@
+def solve s c = defaultdict int for c in s 		6 18

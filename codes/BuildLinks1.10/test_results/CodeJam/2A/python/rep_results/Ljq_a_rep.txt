@@ -1,2 +1,2 @@
-Make ee z1 Make z2 Make z1 z2 		13 18
-Run nlst Make R P S = map int ss 		20 27
+ee Make N t if N == 0 		13 18
+Run nlst N R P S = map int ss 		20 27

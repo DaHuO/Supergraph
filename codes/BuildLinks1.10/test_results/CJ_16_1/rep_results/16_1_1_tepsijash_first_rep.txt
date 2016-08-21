@@ -1,0 +1,2 @@
+get_max main fin = fileinput input 		16 22
+get_max x y = x 0 for 		6 13

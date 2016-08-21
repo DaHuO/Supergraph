@@ -1,0 +1,2 @@
+def last word result = word 0 for letter in word 1 if result + letter > letter + result result += letter else result = letter + result return result 		15 25
+def last2 word keywords = list map join itertools permutations word result = for i in keywords if i >= result result = i return result 		3 13

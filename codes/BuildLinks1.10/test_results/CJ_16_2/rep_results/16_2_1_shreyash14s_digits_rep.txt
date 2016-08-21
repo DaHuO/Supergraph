@@ -1,0 +1,4 @@
+f3 isN err = i = 0 n = s = list s while 		38 59
+def rem s i j = 		15 23
+isN fn s i = 0 		25 36
+isN s i j = 0 s 		3 13

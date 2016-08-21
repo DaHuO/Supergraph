@@ -1,0 +1,2 @@
+def get_missing heights result = for key in iter heights if heights key % 2 == 1 result append key return sorted result 		3 8
+def process num heights = for i in range max_height + 1 heights i = 0 for _ in range num * 2 - 1 line = map int input strip split for n in line heights n += 1 result = get_missing heights return  join map str result 		10 19

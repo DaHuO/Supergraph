@@ -1,5 +1,5 @@
 def expand q if isinstance q list 		13 22
-gl gl showdown = int for k 		52 57
-resolve resolve resolve not isinstance lst 		24 32
+gl gl T = int for k 		52 57
+def resolve lst if not isinstance 		24 32
 gl 		10 11
-showdown alpha2 alpha2 alpha2 resolve while R + P + S > 1 = R + P - S 		34 50
+alpha2 alpha2 alpha2 R P S while R + P + S > 1 = R + P - 		34 50

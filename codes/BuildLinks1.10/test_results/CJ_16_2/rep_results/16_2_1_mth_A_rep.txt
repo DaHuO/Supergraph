@@ -1,0 +1,4 @@
+setrecursionlimit RECURSION_LIMIT soft getrlimit setrlimit MEM_LIMIT_GB 1024 apply apply_async [%s/%s] %%s\n RLIMIT_AS resource resource RLIMIT_AS * ** 3 hard with open FILE_NAME_BASE + .in r as inp numCases = 		46 74
+uniqueLetter uniqueLetter word digit while 		24 29
+def 		10 12
+uniqueLetter uniqueLetter s freqs = defaultdict int for c in s freqs c += 1 digits = def eatWord word 		16 44

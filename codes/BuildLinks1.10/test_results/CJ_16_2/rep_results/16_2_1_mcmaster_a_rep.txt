@@ -1,0 +1,3 @@
+str_as_dict input cnt = for 		10 16
+def run infile outfile with open infile r as f 		49 57
+str_as_dict dnum dcnt str_as_dict dcnt dcnt dnum dcnt Error d in DIGITS = d 0 dstr = 		19 46

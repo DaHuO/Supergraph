@@ -1,0 +1,5 @@
+def getMultFloat return map float getMult 		33 34
+def getLine global curLine global lines curLine += 1 return lines curLine - 1 		21 25
+def countBits n total = 0 b = n while b > 0 total += 1 b &= b - 1 return total 		3 10
+def getMult return getLine strip split 		27 28
+def getMultInt return map int getMult 		30 31

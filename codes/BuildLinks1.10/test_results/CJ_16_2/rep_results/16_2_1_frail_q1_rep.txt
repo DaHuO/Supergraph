@@ -1,0 +1,2 @@
+incoming number_counters incoming remove_all_by_letter c numbers letter id while c letter > 0 numbers append id c -= id return c numbers c = Counter 		21 46
+number_counters remove_all_by_letter c numbers 		23 27

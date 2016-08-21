@@ -1,0 +1,2 @@
+def memoize f cache = def _mem_fn * args if args not in cache cache args = f * args return cache args _mem_fn cache = cache return _mem_fn 		13 22
+def _mem_fn * args if args not in cache cache args = f * args return cache args 		16 19

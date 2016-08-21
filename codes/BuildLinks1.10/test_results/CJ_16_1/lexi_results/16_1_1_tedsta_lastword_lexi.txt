@@ -1,0 +1,2 @@
+def last_word s word = s 0 for c in s 1 if c < word 0 word += c else word = c + word return word 		5 12
+def main if len sys argv < 2 print usage: last_word.py <file> exit in_file = sys argv 1 with open in_file as f cases = int f readline for i line in enumerate f s = line strip print case #%d: %s % i + 1 last_word s 		14 23

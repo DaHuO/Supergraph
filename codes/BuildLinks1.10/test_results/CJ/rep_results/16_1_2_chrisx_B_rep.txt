@@ -1,0 +1,2 @@
+def parse input_file output_file with open input_file as f t = int f readline split 0 		3 17
+def solve n rows c = counter 		20 30

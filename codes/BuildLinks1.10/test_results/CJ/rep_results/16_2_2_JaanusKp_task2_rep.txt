@@ -1,0 +1,1 @@
+bestvals over1 keep2 keep2 bestvals bestvals bestvals bestvals bestvals bestvals over2 over2 over2 over1 over1 over1 bestvals bestvals bestvals bestvals bestvals bestvals bestvals bestvals bestvals bestvals bestvals best = 9999 = 9999 0 = false for x in xrange places if coders x == ? pos1 append x else nr1 x = int coders x if 		5 78

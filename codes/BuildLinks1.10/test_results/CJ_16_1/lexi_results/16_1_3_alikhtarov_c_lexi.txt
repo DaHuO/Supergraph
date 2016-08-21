@@ -1,0 +1,1 @@
+def longest fs to avoid ans = 1 for i in range len fs if fs i == to and i != avoid t = longest fs i to + 1 if t > ans ans = t return ans 		11 18

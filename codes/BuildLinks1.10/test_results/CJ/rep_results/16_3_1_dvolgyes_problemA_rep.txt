@@ -1,0 +1,4 @@
+		16 17
+find_all l value 		27 28
+def check pi p = 		20 25
+pmax find_all pmax pnew pnew pnew pnew pnew pnew pnew pnew pnew p == 0 return = 		30 46

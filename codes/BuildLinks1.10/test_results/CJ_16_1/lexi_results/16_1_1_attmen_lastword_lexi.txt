@@ -1,0 +1,1 @@
+def slv lst if len lst <= 1 return lst pos = 0 val = lst 0 for k in range 1 len lst if lst k >= val val = lst k pos = k res = if pos == len lst - 1 res = val + slv lst 0 pos elif pos == 0 res = val + lst pos + 1 else res = val + slv lst 0 pos + lst pos + 1 return res 		1 20

@@ -1,0 +1,1 @@
+def solve s l = len s if l <= 1 return s mrk = a pos = - 1 k = 0 while k < l ch = s k if ord ch >= ord mrk mrk = ch pos = k k += 1 return mrk + solve s pos + s pos + 1 		7 20

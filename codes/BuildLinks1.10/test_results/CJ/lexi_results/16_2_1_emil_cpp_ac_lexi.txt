@@ -1,0 +1,2 @@
+def main t = int input for t in xrange t s = raw_input result = solve s print case #%s: %s % t + 1 result 		34 39
+def solve s y = 0 * 26 for c in s code = ord c - ord a y code += 1 matrix = for c in xrange 26 char = chr ord a + c ar = w count char for w in words matrix append ar x = scipy optimize nnls matrix y 0 result = i = 0 for amo in x if amo < eps v = 0 else v = int round amo result += str i * v i += 1 return result 		9 31

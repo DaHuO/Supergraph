@@ -1,0 +1,6 @@
+def read_int f b = 10 return int read_word f b 		32 33
+def read_word f return next f strip 		28 29
+def solve case ** kwargs word = kwargs word string = word nums = tmp = for c in string if c == g nums += 8 tmp += eight elif c == u nums += 4 tmp += four elif c == w nums += 2 tmp += two elif c == x nums += 6 tmp += six elif c == z nums += 0 tmp += zero for t in tmp string = string replace t 1 tmp = for c in string if c == f nums += 5 tmp += five elif c == h nums += 3 tmp += three elif c == o nums += 1 tmp += one elif c == s nums += 7 tmp += seven for t in tmp string = string replace t 1 nums += 9 * len string / 4 return case #{}: {}\n format case join sorted nums 		48 99
+def read_ints f b = 10 d =  return int x b for x in read_words f d 		40 41
+def read_words f d =  return read_word f split d 		36 37
+def read_decimals f d =  return float x for x in read_words f d 		44 45

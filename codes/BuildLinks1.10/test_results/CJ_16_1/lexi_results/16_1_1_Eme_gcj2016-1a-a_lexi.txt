@@ -1,0 +1,1 @@
+def solve s i cur if i == len s return cur else a = solve s i + 1 cur + s i b = solve s i + 1 s i + cur return max a b 		2 8

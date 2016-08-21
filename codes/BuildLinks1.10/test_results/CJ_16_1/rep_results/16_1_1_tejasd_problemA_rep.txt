@@ -1,0 +1,1 @@
+get_winning_string num_words contest_string = list contest_string contest_string 		8 19

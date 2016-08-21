@@ -1,0 +1,2 @@
+def removeDigit 		2 6
+encodeDigit data answer = prevData = data while True data = prevData try if prevData index Z >= 0 answer append 0 prevData = removeDigit prevData ZERO except pass try if prevData index W >= 0 answer append 2 prevData = removeDigit prevData 		8 93

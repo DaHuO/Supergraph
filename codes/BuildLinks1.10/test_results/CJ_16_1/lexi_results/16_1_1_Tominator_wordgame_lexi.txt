@@ -1,0 +1,1 @@
+def best_word word result = word 0 for ch in word 1 if ch >= result 0 result insert 0 ch else result append ch return join result 		5 14

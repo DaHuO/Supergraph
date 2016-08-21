@@ -1,0 +1,5 @@
+cnt2vec cnt r 		27 31
+def count str cnt 		19 25
+hits ch 		34 35
+hits hits b0 lq b0 lq = for c in ch aa = for i 		45 69
+**** ERRROR **** num for 		37 43

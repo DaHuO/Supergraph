@@ -1,0 +1,2 @@
+def dec map 		1 4
+def solve l count = nums = for c in l if c in count count c += 1 else count c = 1 while count if Z in count dec count Z dec count E dec count R dec count O nums append 0 continue 		6 86

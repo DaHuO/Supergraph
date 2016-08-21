@@ -1,0 +1,1 @@
+48 solve s c = counter s ans = 0 * 10 for flag word 		4 22

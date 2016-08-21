@@ -1,0 +1,2 @@
+def solve_small k c 		32 33
+solve_large guessesrequired guessesrequired guessesrequired branch local branch guessesrequired branch local branch c s if c == 1 return impossible = 		3 29

@@ -1,0 +1,5 @@
+sort_tuples arr 		5 6
+getsum part sum 		9 13
+check_two part i1 i2 summ for i in 		28 36
+perform_step constraint check_all constraint check_two taken = 0 i = 0 result = for i in xrange 0 len part if part i 0 > 0 and part i 		39 67
+check_all part ii summ for i in 		16 25

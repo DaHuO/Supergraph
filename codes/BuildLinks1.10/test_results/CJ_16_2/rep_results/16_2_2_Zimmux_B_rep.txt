@@ -1,0 +1,5 @@
+def fmt C 		4 5
+sumUp C df = 		10 15
+pC pJ sumUp pC sumUp pJ pC pJ n = len C C = int d if d != ? else - 1 for d in C J = int d if 		34 58
+def repl C 		7 8
+def allPossible C done = False for i d 		17 29

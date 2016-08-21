@@ -1,0 +1,1 @@
+def func n lis = temp = list 		1 12

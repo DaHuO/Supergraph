@@ -1,0 +1,2 @@
+def remove 		12 15
+NO solve S m = defaultdict int for c in S m c += 1 sixes = m X m = remove m SIX sixes zeroes = m Z m = remove m ZERO 		18 60

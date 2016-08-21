@@ -1,0 +1,1 @@
+count_char ccount ccount 		6 10

@@ -1,0 +1,1 @@
+def solve w letters = list w l = list while Z in letters p = letters index Z del letters p p = letters index E del letters p p = letters index R del letters p p = letters index O del letters p l append 0 while X in letters p = letters index S del letters p p = letters index I del letters p p = letters index X del letters p l append 6 while W 		6 118

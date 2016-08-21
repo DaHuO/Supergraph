@@ -1,0 +1,1 @@
+def solve a b queue = 0 0 a b min_diff = float inf best_a = float inf best_b = float inf while queue pa pb sa sb = queue pop if len sa == 0 if abs pa - pb < min_diff min_diff = abs pa - pb best_a = pa best_b = pb elif abs pa - pb == min_diff if best_a > pa best_a = pa best_b = pb elif best_a == pa if best_b > pb best_b = pb continue if pa > pb if sa 		1 69

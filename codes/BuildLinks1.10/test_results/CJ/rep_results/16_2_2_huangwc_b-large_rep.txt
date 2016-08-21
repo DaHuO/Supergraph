@@ -1,0 +1,1 @@
+def solve sx sy if sx + sy in cache return cache sx + sy l = len sx if not l return 0 if sx 0 == ? and sy 0 == ? diff x y = min solve 0 + sx 1 1 + sy 1 solve 1 + sx 1 		9 82

@@ -1,0 +1,2 @@
+def solve n p names = abcdefghijklmnopqrstuvwxyz p = map lambda x x 0 x 1 zip names p count = reduce lambda a b a + b 0 + 		6 35
+def main t = int sys stdin 		37 42

@@ -1,0 +1,13 @@
+extractthrees abc count = abc 		103 110
+extractfives abc count = abc 		87 93
+extractones abc count = 		120 125
+extractsevens abc count = abc 		78 85
+extractnines abc count = abc 		112 118
+extracttwos abc count = 		55 60
+extracteights abc count = abc 		69 76
+extractzeros abc count = abc 		47 53
+test_name getabc getsolution test_name with open + .in r as f rows = 		3 20
+extractfours abc count = abc 		95 101
+extractsixes abc count = 		62 67
+getsolution extractzeros extracttwos extractsixes extracteights extractsevens extractfives extractfours extractthrees extractnines extractones abc sixes abc = abc eights abc = 		31 45
+getabc qwertzuiopasdfghjklyxcvbnm abc = res 		22 29

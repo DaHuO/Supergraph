@@ -1,0 +1,8 @@
+removemaxone global senators el = str max senators 		57 61
+removelasttwo global senators ones = 0 nonzeros = 		29 39
+filehandler rstring linecnt rstring linecnt linecnt results.txt rstring = 1 for 		89 101
+basecase quantl quantl quantl quantl = 0 		43 54
+recurreturn senatorsescape removelasttwo senatorsescape removemaxone senatorsescape removemaxone 		14 27
+instr senatorslist instr senatorsdict senatorslist senatorsdict 		4 12
+dictmain dictmain maxlt maxlt maxlt maxlt maxlt maxlt secondarymax secondarymax secondarymax = operator itemgetter 1 0 dictionary 		74 86
+removemaxtwo senatorstemp senatorstemp senatorstemp senatorstemp senatorstemp senatorstemp senatorstemp senatorstemp senatorstemp senatorstemp senatorstemp operator itemgetter 1 0 		64 72

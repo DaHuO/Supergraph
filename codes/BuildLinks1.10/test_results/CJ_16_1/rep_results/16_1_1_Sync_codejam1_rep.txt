@@ -1,0 +1,3 @@
+def lastword word result = 		9 16
+file.txt main file = data 		18 22
+def readfile filename result 		1 7

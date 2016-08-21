@@ -1,0 +1,1 @@
+find_number actives actives new_d_total d_global_counts d_global_counts d_global_counts new_d_total d_global_counts new_nums new_d_total new_nums actives new_nums new_d_total d d char = 0 d char += 1 		18 52

@@ -1,0 +1,2 @@
+findi fix fix findi fix d 		4 9
+Next findi words words sort steps = 0 for i in range 1 len words if words i 		11 30

@@ -1,0 +1,32 @@
+
+With same rare tokens:
+45 - 143 links:
+16_1_2_erichoco_rank	:	37 - 137
+16_2_1_erichoco_prob1	:	113 - 211
+16_1_2_erichoco_rank	:	37 - 137
+16_2_1_erichoco_prob1	:	113 - 211
+16_1_2_erichoco_rank	:	37 - 137
+16_2_1_erichoco_prob1	:	113 - 211
+16_1_2_erichoco_rank	:	37 - 137
+16_1_2_erichoco_rank	:	37 - 137
+16_2_1_erichoco_prob1	:	113 - 211
+16_2_1_erichoco_prob1	:	113 - 211
+16_1_2_erichoco_rank	:	37 - 137
+16_1_2_erichoco_rank	:	37 - 137
+16_2_1_erichoco_prob1	:	113 - 211
+16_2_1_erichoco_prob1	:	113 - 211
+16_1_2_erichoco_rank	:	37 - 137
+16_2_1_erichoco_prob1	:	113 - 211
+16_1_2_erichoco_rank	:	37 - 137
+16_2_1_erichoco_prob1	:	113 - 211
+16_1_2_erichoco_rank	:	37 - 137
+16_1_2_erichoco_rank	:	37 - 137
+16_2_1_erichoco_prob1	:	113 - 211
+16_2_1_erichoco_prob1	:	113 - 211
+16_1_2_erichoco_rank	:	37 - 137
+16_1_2_erichoco_rank	:	37 - 137
+16_2_1_erichoco_prob1	:	113 - 211
+16_2_1_erichoco_prob1	:	113 - 211
+16_1_2_erichoco_rank	:	37 - 137
+16_2_1_erichoco_prob1	:	113 - 211
+

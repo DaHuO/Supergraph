@@ -1,0 +1,2 @@
+def main T 		60 63
+def solve S c = Counter S number = for _ in xrange c Z number append 0 for letter in ZERO c letter -= 1 for _ in xrange c G number append 8 for 		3 57

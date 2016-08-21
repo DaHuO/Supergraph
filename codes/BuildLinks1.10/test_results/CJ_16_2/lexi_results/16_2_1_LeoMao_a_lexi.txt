@@ -1,0 +1,1 @@
+def solve s = input cnts = Counter ans = for c in s cnts c += 1 for c d in specials cnt = cnts c ans append str d * cnt for ch in digit d cnts ch -= cnt return join sorted ans 		32 45

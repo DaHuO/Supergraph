@@ -1,0 +1,1 @@
+def solve x = sys stdin readline strip f = 		13 24

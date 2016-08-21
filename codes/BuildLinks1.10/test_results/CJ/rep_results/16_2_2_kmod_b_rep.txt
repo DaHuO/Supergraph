@@ -1,0 +1,3 @@
+new_larger new_larger new_larger new_larger tryall tryall tryall c return fc = c 0 fj = j 0 if fc != ? and fj != ? = larger if larger == e nc = int fc nj = int fj if nc > nj = c elif nc < nj = j bc bj = run c 1 j 1 return fc + bc fj 		27 90
+def score c j 		14 18
+tryall c j totry results = for 		20 25

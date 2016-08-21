@@ -1,0 +1,2 @@
+emptyDig ZERONTWHFUIVSXG emptyDig emptyDig foundDigit foundDigit foundDigit number2 toNumber number2 dig get e - 1 > 0 = False if return True 		29 57
+toNumber s if s == ZERO return 0 if s == ONE 		6 26

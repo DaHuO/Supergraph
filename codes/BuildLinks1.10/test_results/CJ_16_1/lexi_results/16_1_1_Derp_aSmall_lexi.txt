@@ -1,0 +1,2 @@
+def decidelastword case chrs = list for a in case if len chrs == 0 chrs append a continue curr = chrs 0 if ord a < ord curr chrs append a else chrs insert 0 a return join chrs 		1 13
+def main testcount = raw_input testcases = list for i in range 0 int testcount testcase = raw_input testcases append testcase for i in range 0 len testcases result = decidelastword testcases i print case # + str i + 1 + : + str result 		15 24

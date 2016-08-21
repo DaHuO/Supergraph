@@ -1,0 +1,2 @@
+def main t = int 		34 39
+scipy nnls amo amo eps round amo 26 for c in s code = ord c - 		9 31

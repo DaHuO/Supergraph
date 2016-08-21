@@ -1,0 +1,3 @@
+def analyze self s for character in s self find_last_alphabetical_word_permutation character return self built_word 		8 11
+def find_last_alphabetical_word_permutation self character if not self built_word self built_word = character return if self alphabet index character < self alphabet index self built_word 0 self built_word = {}{} format self built_word character else self built_word = {}{} format character self built_word 		13 20
+def __init__ self self alphabet = list string ascii_uppercase self built_word = none 		4 6

@@ -1,4 +1,4 @@
-convert s if s == PR or 		4 13
-subst subst subst subst news = = lis 0 2 lis 1 lis 		44 63
+def convert s if s == PR 		4 13
+def replace s lis news = subst = lis 0 2 lis 1 		44 63
 math ceil math floor P S = int e for e in input split up = 2 ** N / 		67 94
-strin convert strin low n lis if n == 0 return up 0 nup = nlow = if len up == 1 if P == 		15 42
+strin strin up low n lis if n == 0 return up 0 nup = nlow = if len up == 1 if P == 		15 42

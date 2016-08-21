@@ -1,0 +1,2 @@
+def read_input n = int raw_input lists = map int raw_input strip split for _ in range 2 * n - 1 return n lists 		14 20
+def solve n lists c = counter for i row in enumerate lists c update row missing = h for h v in c items if v % 2 return sorted missing 		5 10

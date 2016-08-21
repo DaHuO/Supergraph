@@ -1,0 +1,4 @@
+memo def last_word s letters = 		16 25
+_f typeerror _f cache = def 		1 13
+_f 		5 7
+def main t = 		28 32

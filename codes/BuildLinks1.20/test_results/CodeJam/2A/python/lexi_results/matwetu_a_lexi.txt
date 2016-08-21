@@ -1,0 +1,3 @@
+def solve2 n r p s for w in r p s ret = g n w c = counter ret if c r == r and c p == p and c s == s return ret return impossible 		47 53
+def solve n r p s if n == 0 if r return r if p return p if s return s s_ = 2 ** n - 1 - r r_ = 2 ** n - 1 - p p_ = 2 ** n - 1 - s if s_ < 0 or r_ < 0 or p_ < 0 return impossible result = solve n - 1 r_ p_ s_ if result == impossible return result return join map lambda x op x result 		12 25
+def g n w if n == 0 return w if memo get n w return memo get n w a b = op w t1 = g n - 1 a t2 = g n - 1 b if t1 < t2 ret = t1 + t2 else ret = t2 + t1 memo n w = ret return ret 		29 43

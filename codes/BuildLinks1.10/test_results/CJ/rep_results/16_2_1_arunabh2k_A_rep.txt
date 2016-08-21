@@ -1,0 +1,1 @@
+warr warr word arrs count = list word karrs = copy 		6 18

@@ -1,0 +1,3 @@
+def check v s = sum 		23 27
+imax v mx = 0 mi 		3 11
+imin v mx = 10000 mi 		13 21

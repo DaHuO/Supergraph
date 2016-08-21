@@ -1,0 +1,1 @@
+def solve n p ans = total = sum p k for k in p if total % 2 == 1 c = max p key = p get p c -= 1 ans append c while true most = max p key = p get second_most = max p key = lambda c - 10 if c == most else p c if p most == 0 and p second_most == 0 break else ans append most + second_most p most -= 1 p second_most -= 1 return  join ans 		3 21

@@ -1,0 +1,2 @@
+parse_problems _raw_input _raw_input int 		55 61
+solve_problem found_numbers found_numbers found_numbers found_numbers letters_to_remove letters_to_remove digits iteritems found = true iterator_letters = list problem_row while found for c in digit if 		18 52

@@ -1,0 +1,2 @@
+def remove_letters 		1 3
+def run_test s = list raw_input digits = list while s count Z != 0 remove_letters s ZERO digits append 0 while s count W != 0 remove_letters 		5 42

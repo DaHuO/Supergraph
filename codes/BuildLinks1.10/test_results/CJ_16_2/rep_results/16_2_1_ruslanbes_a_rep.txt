@@ -1,0 +1,2 @@
+ltr9 ltr9 T = int raw_input for t in xrange T letters = raw_input c = Counter letters ltr0 = c Z if ltr0 > 0 c Z -= ltr0 c E -= ltr0 c R -= ltr0 c O -= ltr0 ltr2 = c W if ltr2 > 0 c T -= ltr2 c 		11 82
+casestr FAIL casestr res = Case 		4 8

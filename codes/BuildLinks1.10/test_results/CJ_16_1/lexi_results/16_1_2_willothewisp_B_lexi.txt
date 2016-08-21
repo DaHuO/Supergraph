@@ -1,0 +1,1 @@
+def go n papers ct = counter x for a in papers for x in a vals = for k v in ct items if v % 2 != 0 vals append k assert len vals == n vals sort return vals 		3 11

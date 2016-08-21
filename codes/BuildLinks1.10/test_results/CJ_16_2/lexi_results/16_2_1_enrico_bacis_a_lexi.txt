@@ -1,0 +1,5 @@
+def printcase case out pattern = Case #%d: %s print pattern % case out 		9 10
+def row func return map func raw_input split 		6 7
+def repeat func times return func for _ in xrange times 		12 13
+def single func return func raw_input 		3 4
+def number_from letters acc if not letters return join map str sorted acc for num numletters in numbers items if numletters <= letters res = number_from letters - numletters acc + num if res is not None return res 		19 24

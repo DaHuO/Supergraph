@@ -1,0 +1,2 @@
+def input_ a with open a r as input num_cases = input readline cases = input readlines return num_cases cases 		6 17
+def output_ a b i = 1 with open b w as output for item in a output write case #{}: format i + str item + \n i += 1 		20 31

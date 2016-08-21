@@ -1,0 +1,1 @@
+EFGHINORSTUVWXZ case t c = Counter raw_input chars = nums = ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE mat = 0 * 10 		7 27

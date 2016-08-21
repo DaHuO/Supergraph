@@ -1,0 +1,1 @@
+def g s r = s 0 for c in s 1 if ord c >= ord r 0 r = c + r else r += c return r 		1 8

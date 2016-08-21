@@ -1,0 +1,1 @@
+def smax s q = deque for c in s if len q > 0 and c >= q 0 q appendleft c else q append c return join q 		2 9

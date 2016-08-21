@@ -1,0 +1,6 @@
+a.in a_%s.in argv 		5 9
+arrangement get_arrangement arrangement f = open get_file argv r f_out = 		67 75
+get_arrangement verify verify alpha = abcdefghijklmnopqrstuvwxyz b = i 0 for i in xrange 0 len p total = sum p 1 for p in p c = 2 b 0 1 = 1 b 1 1 = 		23 55
+def print_answer t answer 		17 21
+verify b for i in xrange 0 len 		57 65
+a.out a_%s.out argv 		11 15

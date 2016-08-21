@@ -1,0 +1,1 @@
+def solve n grid tally = 0 * 2501 for l in grid for x in l tally x += 1 buf = for i e in enumerate tally if e % 2 == 1 buf append i missing = sorted buf return  join map str buf 		1 11

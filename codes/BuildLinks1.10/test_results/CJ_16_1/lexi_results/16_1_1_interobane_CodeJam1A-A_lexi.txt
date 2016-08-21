@@ -1,0 +1,2 @@
+def solve s if len s < 1 return invalid elif len s == 1 return s letters = list s el = letters pop 0 while len letters > 0 next_letter = letters pop 0 if el 0 > next_letter el += next_letter else el = next_letter + el return el 		5 18
+def main num_cases = raw_input for i in range int num_cases s = raw_input answer = solve s print case #{0}: {1} format i + 1 answer 		20 27

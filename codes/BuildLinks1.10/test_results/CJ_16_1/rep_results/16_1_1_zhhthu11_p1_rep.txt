@@ -1,0 +1,1 @@
+def solve s = raw_input ret 		3 11

@@ -1,0 +1,1 @@
+def remove_letters letters word for ch in word del letters letters index ch 		1 3

@@ -1,0 +1,7 @@
+def read_floats return float x for x in f readline strip split  		72 73
+def read_strs return x for x in f readline strip split  		70 71
+def read_frac return int x for x in f readline strip split / 		68 69
+def solve k c s search_positions = for i in xrange 1 k + 1 c if i + c - 1 <= k l_list = range i i + c - 1 - 1 g = i + c - 1 else l_list = range i k g = k if l_list while len l_list < c - 1 l_list append l_list 0 else l_list = g * c - 1 l_list = l_list - 1 if not l_list search_on = g else search_on = 0 while l_list l = l_list pop search_on = search_on + l - 1 * k search_on = search_on + g search_positions append search_on if len search_positions > s return impossible return search_positions 		7 36
+def test k c s answer for setup in printme k c s found = false for p in answer if setup p - 1 == g found = true break if not found print %s not found in here: \n%s % str answer setup print for setup in printme k c s print setup 		50 61
+def read_ints return int x for x in f readline strip split  		66 67
+def printme k c s from itertools import product for orig in product lg repeat = k if g not in orig continue orig = join orig s = orig for _ in xrange c - 1 s = s replace g g * k s = s replace l orig yield s 		38 48
